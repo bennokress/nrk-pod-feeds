@@ -14,7 +14,8 @@ from common.tvapi import (
     get_latest_instalments,
     get_program_manifest,
     get_hls_stream_url,
-    parse_iso_duration
+    parse_iso_duration,
+    get_index_points
 )
 
 podgen_agent = f"nrk-pod-feeder v{get_version()} (with help from python-podgen)"
@@ -26,6 +27,76 @@ VIDEO_MIME_TYPE = "application/vnd.apple.mpegurl"
 
 # Track actual episode counts for dynamic titles
 episode_counts = {}
+
+# Track chapters for each episode (keyed by video URL)
+episode_chapters = {}
+
+
+def format_npt(seconds):
+    """Format seconds as Normal Play Time (HH:MM:SS or MM:SS)."""
+    hours = int(seconds // 3600)
+    minutes = int((seconds % 3600) // 60)
+    secs = int(seconds % 60)
+
+    if hours > 0:
+        return f"{hours}:{minutes:02d}:{secs:02d}"
+    else:
+        return f"{minutes}:{secs:02d}"
+
+
+def add_chapters_to_rss(rss_path):
+    """
+    Add Podlove Simple Chapters to an existing RSS file.
+    Uses the global episode_chapters dict.
+    """
+    if not episode_chapters:
+        return
+
+    # Parse the RSS file
+    tree = ET.parse(rss_path)
+    root = tree.getroot()
+
+    # Add PSC namespace if not present
+    namespaces = {'psc': 'http://podlove.org/simple-chapters'}
+    ET.register_namespace('psc', 'http://podlove.org/simple-chapters')
+
+    # Check if namespace is already in root
+    if 'xmlns:psc' not in root.attrib:
+        root.set('xmlns:psc', 'http://podlove.org/simple-chapters')
+
+    chapters_added = 0
+
+    for item in root.findall('.//item'):
+        # Get the enclosure URL to match with episode_chapters
+        enclosure = item.find('enclosure')
+        if enclosure is None:
+            continue
+
+        url = enclosure.get('url', '')
+        if url not in episode_chapters:
+            continue
+
+        chapters = episode_chapters[url]
+        if not chapters:
+            continue
+
+        # Create psc:chapters element
+        psc_chapters = ET.SubElement(item, '{http://podlove.org/simple-chapters}chapters')
+        psc_chapters.set('version', '1.2')
+
+        for ch in chapters:
+            psc_chapter = ET.SubElement(psc_chapters, '{http://podlove.org/simple-chapters}chapter')
+            psc_chapter.set('start', format_npt(ch['start_seconds']))
+            psc_chapter.set('title', ch['title'])
+            if ch.get('image_url'):
+                psc_chapter.set('image', ch['image_url'])
+
+        chapters_added += 1
+
+    if chapters_added > 0:
+        # Write back the modified XML
+        tree.write(rss_path, encoding='UTF-8', xml_declaration=True)
+        logging.info(f"  Added chapters to {chapters_added} episodes")
 
 
 def get_episode_count_from_xml(feeds_dir, series_id):
@@ -151,6 +222,12 @@ def get_video_feed(series_id, season, feeds_dir, ep_count=10):
 
         video_url, video_mime = stream_result
 
+        # Fetch chapters (index points) for this episode
+        chapters = get_index_points(program_id)
+        if chapters:
+            episode_chapters[video_url] = chapters
+            logging.info(f"  Found {len(chapters)} chapters")
+
         logging.info(f"  Episode title: {episode_title}")
         logging.info(f"  Episode duration: {duration}s")
         logging.info(f"  Episode date: {date}")
@@ -189,9 +266,12 @@ def get_video_feed(series_id, season, feeds_dir, ep_count=10):
 
 
 def write_video_xml(feeds_dir, series_id, podcast):
-    """Write video podcast RSS to file."""
+    """Write video podcast RSS to file with chapters."""
     output_path = f"{feeds_dir}/{series_id}.xml"
     podcast.rss_file(output_path, minimize=False)
+
+    # Add Podlove Simple Chapters if available
+    add_chapters_to_rss(output_path)
 
     logging.info(f"Video feed XML successfully written to file: {output_path}\n---")
     return output_path

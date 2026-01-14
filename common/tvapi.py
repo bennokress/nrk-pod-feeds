@@ -224,3 +224,71 @@ def get_series_image(series_id):
                 return img.get("url")
 
     return None
+
+
+def get_program_playback_metadata(program_id, format="json"):
+    """
+    Fetch playback metadata for a program including index points (chapters).
+    Endpoint: GET /playback/metadata/program/{program_id}
+    """
+    logging.debug(f"  Fetching playback metadata for program {program_id}...")
+
+    url = f"{api_base_url}/playback/metadata/program/{program_id}"
+    r = requests.get(url, headers=headers)
+
+    if not r.ok:
+        logging.debug(f"  Unable to fetch playback metadata ({url} returned {r.status_code})")
+        return None
+
+    if format == "text":
+        return r.text
+
+    return r.json()
+
+
+def get_index_points(program_id):
+    """
+    Extract index points (chapters) from program playback metadata.
+    Returns list of dicts with: title, start_seconds, image_url (optional)
+    Returns empty list if no index points available.
+    """
+    metadata = get_program_playback_metadata(program_id)
+    if not metadata:
+        return []
+
+    preplay = metadata.get("preplay", {})
+    index_points = preplay.get("indexPoints", [])
+
+    if not index_points:
+        return []
+
+    chapters = []
+    for point in index_points:
+        title = point.get("title", "")
+        if not title:
+            continue
+
+        start_point = point.get("startPoint", "PT0S")
+        start_seconds = parse_iso_duration(start_point)
+
+        # Get thumbnail if available (prefer medium size around 640px)
+        thumbnails = point.get("thumbnails", [])
+        image_url = None
+        if thumbnails:
+            # Try to find a medium-sized thumbnail
+            for thumb in thumbnails:
+                if thumb.get("pixelWidth", 0) >= 480:
+                    image_url = thumb.get("url")
+                    break
+            # Fallback to first thumbnail
+            if not image_url and thumbnails:
+                image_url = thumbnails[0].get("url")
+
+        chapters.append({
+            "title": title,
+            "start_seconds": start_seconds,
+            "image_url": image_url
+        })
+
+    logging.debug(f"  Found {len(chapters)} chapters for program {program_id}")
+    return chapters

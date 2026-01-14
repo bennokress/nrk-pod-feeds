@@ -137,3 +137,42 @@ def test_dagsrevyen_for_utlandet():
     instalments = tvapi.get_latest_instalments(series_id, limit=3)
     assert instalments is not None
     assert len(instalments) > 0
+
+
+def test_get_program_playback_metadata():
+    """Test fetching playback metadata for a program."""
+    series_id = "dagsrevyen-21"
+
+    # Get a playable episode
+    instalments = tvapi.get_latest_instalments(series_id, limit=1, playable_only=True)
+    assert instalments is not None
+    assert len(instalments) > 0
+
+    program_id = instalments[0]["prfId"]
+    metadata = tvapi.get_program_playback_metadata(program_id)
+
+    assert metadata is not None
+    assert "preplay" in metadata
+
+
+def test_get_index_points():
+    """Test extracting index points (chapters) from a program."""
+    series_id = "dagsrevyen-21"
+
+    # Get a playable episode
+    instalments = tvapi.get_latest_instalments(series_id, limit=1, playable_only=True)
+    assert instalments is not None
+    assert len(instalments) > 0
+
+    program_id = instalments[0]["prfId"]
+    chapters = tvapi.get_index_points(program_id)
+
+    # Dagsrevyen usually has chapters/index points
+    assert isinstance(chapters, list)
+
+    # If chapters exist, verify structure
+    if len(chapters) > 0:
+        for chapter in chapters:
+            assert "title" in chapter
+            assert "start_seconds" in chapter
+            assert isinstance(chapter["start_seconds"], int)
