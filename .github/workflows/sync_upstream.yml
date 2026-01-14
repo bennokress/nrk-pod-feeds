@@ -41,11 +41,34 @@ jobs:
             echo "has_changes=true" >> $GITHUB_OUTPUT
           fi
 
-      - name: Rebase on upstream
+      - name: Rebase local commits onto upstream
         if: steps.check.outputs.has_changes == 'true'
         run: |
-          echo "Rebasing main on top of upstream/master..."
-          git rebase upstream/master
+          # Get list of local commits (not in upstream)
+          LOCAL_COMMITS=$(git rev-list upstream/master..HEAD | tac)
+
+          if [ -z "$LOCAL_COMMITS" ]; then
+            echo "No local commits to preserve, fast-forwarding to upstream"
+            git reset --hard upstream/master
+          else
+            echo "Local commits to rebase onto upstream:"
+            echo "$LOCAL_COMMITS" | while read sha; do
+              git log -1 --oneline $sha
+            done
+
+            # Reset to upstream (this becomes our new base)
+            git reset --hard upstream/master
+
+            # Cherry-pick local commits on top (oldest first)
+            echo "Applying local commits on top of upstream..."
+            for sha in $LOCAL_COMMITS; do
+              echo "Cherry-picking $sha..."
+              git cherry-pick $sha
+            done
+          fi
+
+          echo "Final history (local commits on top of upstream):"
+          git log --oneline -10
 
       - name: Force push
         if: steps.check.outputs.has_changes == 'true'
