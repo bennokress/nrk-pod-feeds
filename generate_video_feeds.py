@@ -147,13 +147,19 @@ def get_video_feed(series_id, season, feeds_dir, ep_count=10):
     existing_feed = get_last_feed(feeds_dir, series_id)
 
     last_feed_update = parser.parse("1970-01-01 00:00:01+00:00")
-    if existing_feed:
+    existing_image = None
+    if existing_feed is not None:
         for channel in existing_feed.findall('channel'):
             last_build_date_elem = channel.find('lastBuildDate')
             if last_build_date_elem is not None:
                 last_build_date = last_build_date_elem.text
                 last_feed_update = parser.parse(last_build_date)
                 logging.debug(f"Feed was last built {last_feed_update}")
+            # Extract existing image URL from itunes:image
+            itunes_ns = '{http://www.itunes.com/dtds/podcast-1.0.dtd}'
+            itunes_image = channel.find(f'{itunes_ns}image')
+            if itunes_image is not None:
+                existing_image = itunes_image.get('href')
 
     # Get series metadata
     original_title = get_series_title(series_id)
@@ -163,6 +169,12 @@ def get_video_feed(series_id, season, feeds_dir, ep_count=10):
 
     image = get_podcast_image(series_id)
     website = f"https://tv.nrk.no/serie/{series_id}"
+
+    # Check if channel info changed
+    channel_changed = False
+    if existing_image and image != existing_image:
+        logging.info(f"  Channel image changed: {existing_image} -> {image}")
+        channel_changed = True
 
     logging.info(f"Processing TV series: {original_title}")
     logging.debug(f"  Title: {original_title}")
@@ -197,8 +209,8 @@ def get_video_feed(series_id, season, feeds_dir, ep_count=10):
             except:
                 new_episode = True  # If we can't parse date, assume it's new
 
-    if not new_episode:
-        logging.info("  No new episodes found since feed was last updated")
+    if not new_episode and not channel_changed:
+        logging.info("  No new episodes or channel changes since feed was last updated")
         return None
 
     ep_i = 0
