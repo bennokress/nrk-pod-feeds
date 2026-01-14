@@ -3,7 +3,7 @@ name: update-video-podcast-feeds
 on:
   workflow_dispatch:
   schedule:
-   - cron: '30 * * * *'
+   - cron: '25 * * * *'  # Run hourly at :25 (5 min after sync)
 
 jobs:
   update-video-feeds:
