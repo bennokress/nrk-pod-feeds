@@ -1,0 +1,77 @@
+name: sync-upstream
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '20 * * * *'  # Run hourly at :20 (5 min after upstream's :15)
+
+jobs:
+  sync:
+    runs-on: ubuntu-24.04
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Configure git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Add upstream remote
+        run: git remote add upstream https://github.com/sindrel/nrk-pod-feeds.git
+
+      - name: Fetch upstream
+        run: git fetch upstream master
+
+      - name: Check for upstream changes
+        id: check
+        run: |
+          # Find the common ancestor
+          MERGE_BASE=$(git merge-base HEAD upstream/master)
+          UPSTREAM_HEAD=$(git rev-parse upstream/master)
+
+          if [ "$MERGE_BASE" = "$UPSTREAM_HEAD" ]; then
+            echo "Already up to date with upstream"
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+          else
+            echo "Upstream has new commits"
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Rebase local commits onto upstream
+        if: steps.check.outputs.has_changes == 'true'
+        run: |
+          # Get list of local commits (not in upstream)
+          LOCAL_COMMITS=$(git rev-list upstream/master..HEAD | tac)
+
+          if [ -z "$LOCAL_COMMITS" ]; then
+            echo "No local commits to preserve, fast-forwarding to upstream"
+            git reset --hard upstream/master
+          else
+            echo "Local commits to rebase onto upstream:"
+            echo "$LOCAL_COMMITS" | while read sha; do
+              git log -1 --oneline $sha
+            done
+
+            # Reset to upstream (this becomes our new base)
+            git reset --hard upstream/master
+
+            # Cherry-pick local commits on top (oldest first)
+            echo "Applying local commits on top of upstream..."
+            for sha in $LOCAL_COMMITS; do
+              echo "Cherry-picking $sha..."
+              git cherry-pick $sha
+            done
+          fi
+
+          echo "Final history (local commits on top of upstream):"
+          git log --oneline -10
+
+      - name: Force push
+        if: steps.check.outputs.has_changes == 'true'
+        run: |
+          echo "Pushing rebased commits..."
+          git push --force-with-lease origin main
