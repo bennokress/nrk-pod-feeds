@@ -62,16 +62,10 @@ def add_chapters_to_rss(rss_path):
     tree = ET.parse(rss_path)
     root = tree.getroot()
 
-    # Register namespaces
+    # Register namespaces (ElementTree adds declarations automatically when writing)
     PSC_NS = 'http://podlove.org/simple-chapters'
     ET.register_namespace('psc', PSC_NS)
     ET.register_namespace('podcast', PODCAST_NS)
-
-    # Add namespace declarations to root
-    if 'xmlns:psc' not in root.attrib:
-        root.set('xmlns:psc', PSC_NS)
-    if 'xmlns:podcast' not in root.attrib:
-        root.set('xmlns:podcast', PODCAST_NS)
 
     # Add <podcast:medium>video</podcast:medium> to channel
     channel = root.find('channel')
