@@ -24,9 +24,25 @@ Some additional feeds include all episodes, such as Radioresepsjonen, Tazte Priv
 * Auto-configures which podcasts to fetch
 * Reduces API load and pipeline execution time
 
-### Feed updates  
+### Feed updates
 * Runs every hour
 * Fetches new episodes and adds them to RSS feeds
+
+## Video Feeds
+
+Video feeds include chapters with thumbnails using the [Podlove Simple Chapters](https://podlove.org/simple-chapters/) format.
+
+### Compatible Apps
+
+Apps that support video podcasts with chapters:
+- **Pocket Casts** (iOS/Android)
+- **Podcast Addict** (Android)
+- **AntennaPod** (Android)
+- **Overcast** (iOS)
+
+### Requirements
+
+Video feeds use HLS streaming (`application/vnd.apple.mpegurl`). Your podcast app must support this format for video playback.
 
 ## In the media  
 * [kode24 (September 2023)](https://www.kode24.no/artikkel/nrk-slar-ned-pa-podcast-prosjekter-sindre-fikk-epost-for-foredrag/80166051)

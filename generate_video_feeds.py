@@ -1,3 +1,4 @@
+import json
 import logging
 import os
 import xml.etree.ElementTree as ET
@@ -31,6 +32,9 @@ episode_counts = {}
 # Track chapters for each episode (keyed by video URL)
 episode_chapters = {}
 
+# Podcasting 2.0 namespace (for medium tag)
+PODCAST_NS = 'https://podcastindex.org/namespace/1.0'
+
 
 def format_npt(seconds):
     """Format seconds as Normal Play Time (HH:MM:SS or MM:SS)."""
@@ -46,8 +50,10 @@ def format_npt(seconds):
 
 def add_chapters_to_rss(rss_path):
     """
-    Add Podlove Simple Chapters to an existing RSS file.
-    Uses the global episode_chapters dict.
+    Add Podlove Simple Chapters and podcast:medium tag to RSS file.
+
+    Args:
+        rss_path: Path to RSS XML file
     """
     if not episode_chapters:
         return
@@ -56,18 +62,32 @@ def add_chapters_to_rss(rss_path):
     tree = ET.parse(rss_path)
     root = tree.getroot()
 
-    # Add PSC namespace if not present
-    namespaces = {'psc': 'http://podlove.org/simple-chapters'}
-    ET.register_namespace('psc', 'http://podlove.org/simple-chapters')
+    # Register namespaces
+    PSC_NS = 'http://podlove.org/simple-chapters'
+    ET.register_namespace('psc', PSC_NS)
+    ET.register_namespace('podcast', PODCAST_NS)
 
-    # Check if namespace is already in root
+    # Add namespace declarations to root
     if 'xmlns:psc' not in root.attrib:
-        root.set('xmlns:psc', 'http://podlove.org/simple-chapters')
+        root.set('xmlns:psc', PSC_NS)
+    if 'xmlns:podcast' not in root.attrib:
+        root.set('xmlns:podcast', PODCAST_NS)
+
+    # Add <podcast:medium>video</podcast:medium> to channel
+    channel = root.find('channel')
+    if channel is not None:
+        existing_medium = None
+        for child in channel:
+            if child.tag == f'{{{PODCAST_NS}}}medium':
+                existing_medium = child
+                break
+        if existing_medium is None:
+            medium = ET.SubElement(channel, f'{{{PODCAST_NS}}}medium')
+            medium.text = 'video'
 
     chapters_added = 0
 
     for item in root.findall('.//item'):
-        # Get the enclosure URL to match with episode_chapters
         enclosure = item.find('enclosure')
         if enclosure is None:
             continue
@@ -80,12 +100,12 @@ def add_chapters_to_rss(rss_path):
         if not chapters:
             continue
 
-        # Create psc:chapters element
-        psc_chapters = ET.SubElement(item, '{http://podlove.org/simple-chapters}chapters')
+        # Add Podlove Simple Chapters
+        psc_chapters = ET.SubElement(item, f'{{{PSC_NS}}}chapters')
         psc_chapters.set('version', '1.2')
 
         for ch in chapters:
-            psc_chapter = ET.SubElement(psc_chapters, '{http://podlove.org/simple-chapters}chapter')
+            psc_chapter = ET.SubElement(psc_chapters, f'{{{PSC_NS}}}chapter')
             psc_chapter.set('start', format_npt(ch['start_seconds']))
             psc_chapter.set('title', ch['title'])
             if ch.get('image_url'):
@@ -93,10 +113,9 @@ def add_chapters_to_rss(rss_path):
 
         chapters_added += 1
 
-    if chapters_added > 0:
-        # Write back the modified XML
-        tree.write(rss_path, encoding='UTF-8', xml_declaration=True)
-        logging.info(f"  Added chapters to {chapters_added} episodes")
+    # Write back the modified XML
+    tree.write(rss_path, encoding='UTF-8', xml_declaration=True)
+    logging.info(f"  Added Podlove chapters to {chapters_added} episodes")
 
 
 def get_episode_count_from_xml(feeds_dir, series_id):
@@ -266,11 +285,11 @@ def get_video_feed(series_id, season, feeds_dir, ep_count=10):
 
 
 def write_video_xml(feeds_dir, series_id, podcast):
-    """Write video podcast RSS to file with chapters."""
+    """Write video podcast RSS to file with Podlove chapters."""
     output_path = f"{feeds_dir}/{series_id}.xml"
     podcast.rss_file(output_path, minimize=False)
 
-    # Add Podlove Simple Chapters if available
+    # Add Podlove chapters and podcast:medium tag
     add_chapters_to_rss(output_path)
 
     logging.info(f"Video feed XML successfully written to file: {output_path}\n---")
@@ -279,8 +298,6 @@ def write_video_xml(feeds_dir, series_id, podcast):
 
 def write_video_feeds_file(feeds_file, programs, feeds_dir):
     """Write video feeds JavaScript file for web UI with dynamic titles."""
-    import json
-
     updated_programs = []
     for p in programs:
         program_copy = p.copy()
@@ -314,6 +331,9 @@ if __name__ == '__main__':
     feeds_dir = "docs/rss/video"
     feeds_file = "docs/video_feeds.js"
 
+    # Ensure directory exists
+    os.makedirs(feeds_dir, exist_ok=True)
+
     programs = get_podcasts_config(tv_programs_cfg_file)
 
     for p in programs:
@@ -323,6 +343,9 @@ if __name__ == '__main__':
         series_id = p["id"]
         series_season = p.get("season")
         ep_count = p.get("episodes", 10)
+
+        # Clear episode_chapters for each series to avoid leakage
+        episode_chapters.clear()
 
         feed = get_video_feed(series_id, series_season, feeds_dir, ep_count)
         if not feed:

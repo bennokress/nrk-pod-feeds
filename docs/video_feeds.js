@@ -1,7 +1,14 @@
 const videoFeeds = [
   {
+    "id": "dagsrevyen",
+    "title": "De 9 siste fra Dagsrevyen",
+    "season": null,
+    "enabled": true,
+    "type": "video"
+  },
+  {
     "id": "dagsrevyen-21",
-    "title": "De 10 siste fra Dagsrevyen 21",
+    "title": "De 9 siste fra Dagsrevyen 21",
     "season": null,
     "enabled": true,
     "type": "video"
