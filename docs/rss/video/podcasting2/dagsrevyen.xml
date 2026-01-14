@@ -29,7 +29,7 @@
     <podcast:person role="host" href="https://www.nrk.no">NRK</podcast:person>
 
     <!-- Atom self-link -->
-    <atom:link href="https://bennokress.github.io/nrk-pod-feeds/rss/video/podcasting2/dagsrevyen.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://raw.githubusercontent.com/bennokress/nrk-pod-feeds/feature/podcasting2/docs/rss/video/podcasting2/dagsrevyen.xml" rel="self" type="application/rss+xml"/>
 
     <!-- Episode 1: I går - Vil lete etter mer olje -->
     <item>
@@ -47,7 +47,7 @@
       <itunes:episodeType>full</itunes:episodeType>
 
       <!-- Podcasting 2.0 Episode Tags -->
-      <podcast:chapters url="https://bennokress.github.io/nrk-pod-feeds/chapters/dagsrevyen-2026-01-13.json" type="application/json+chapters"/>
+      <podcast:chapters url="https://raw.githubusercontent.com/bennokress/nrk-pod-feeds/feature/podcasting2/docs/chapters/dagsrevyen-2026-01-13.json" type="application/json+chapters"/>
       <podcast:person role="host" href="https://www.nrk.no">NRK</podcast:person>
     </item>
 
@@ -67,7 +67,7 @@
       <itunes:episodeType>full</itunes:episodeType>
 
       <!-- Podcasting 2.0 Episode Tags -->
-      <podcast:chapters url="https://bennokress.github.io/nrk-pod-feeds/chapters/dagsrevyen-2026-01-12.json" type="application/json+chapters"/>
+      <podcast:chapters url="https://raw.githubusercontent.com/bennokress/nrk-pod-feeds/feature/podcasting2/docs/chapters/dagsrevyen-2026-01-12.json" type="application/json+chapters"/>
       <podcast:person role="host" href="https://www.nrk.no">NRK</podcast:person>
     </item>
 
@@ -87,7 +87,7 @@
       <itunes:episodeType>full</itunes:episodeType>
 
       <!-- Podcasting 2.0 Episode Tags -->
-      <podcast:chapters url="https://bennokress.github.io/nrk-pod-feeds/chapters/dagsrevyen-2026-01-11.json" type="application/json+chapters"/>
+      <podcast:chapters url="https://raw.githubusercontent.com/bennokress/nrk-pod-feeds/feature/podcasting2/docs/chapters/dagsrevyen-2026-01-11.json" type="application/json+chapters"/>
       <podcast:person role="host" href="https://www.nrk.no">NRK</podcast:person>
     </item>
   </channel>
