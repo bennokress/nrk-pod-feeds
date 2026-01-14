@@ -1,0 +1,43 @@
+{
+  "version": "1.2.0",
+  "title": "8. januar · Visepresidenten på offensiven",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa21010826/6870e1f6-16.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 25,
+      "title": "Minneapolis",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa21010826/6870e1f6-16.smil/thumb.jpg?t=51&scale=480x270&v=high"
+    },
+    {
+      "startTime": 63,
+      "title": "Direkte Washington",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa21010826/6870e1f6-16.smil/thumb.jpg?t=89&scale=480x270&v=high"
+    },
+    {
+      "startTime": 164,
+      "title": "Skjermråd",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa21010826/6870e1f6-16.smil/thumb.jpg?t=189&scale=480x270&v=high"
+    },
+    {
+      "startTime": 254,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa21010826/6870e1f6-16.smil/thumb.jpg?t=279&scale=480x270&v=high"
+    },
+    {
+      "startTime": 373,
+      "title": "Fredsprisvinner Oslo",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa21010826/6870e1f6-16.smil/thumb.jpg?t=399&scale=480x270&v=high"
+    },
+    {
+      "startTime": 495,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa21010826/6870e1f6-16.smil/thumb.jpg?t=520&scale=480x270&v=high"
+    }
+  ]
+}
