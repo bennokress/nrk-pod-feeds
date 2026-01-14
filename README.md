@@ -1,14 +1,14 @@
 [![Talk from JavaZone 2023](assets/vimeo.png)](https://vimeo.com/861697003)
 
 # Open NRK Podcast Feeds
-![update-podcast-feeds badge](https://github.com/sindrel/nrk-pod-feeds/actions/workflows/update_feeds.yml/badge.svg)
-![discover-podcast-feeds badge](https://github.com/sindrel/nrk-pod-feeds/actions/workflows/discover_feeds.yml/badge.svg)
+![sync-upstream badge](https://github.com/bennokress/nrk-pod-feeds/actions/workflows/sync_upstream.yml/badge.svg)
+![update-video-feeds badge](https://github.com/bennokress/nrk-pod-feeds/actions/workflows/update_video_feeds.yml/badge.svg)
 ![python version badge](https://badgen.net/pypi/python/black)
 
 Publishes RSS feeds with the last 10 episodes of every configured podcast, without delay. For personal use.  
 
 ## Feeds
-**Go to [this page](https://sindrel.github.io/nrk-pod-feeds) for a list of available feeds.**
+**Go to [this page](https://bennokress.github.io/nrk-pod-feeds) for a list of available feeds.**
 
 ### Discovery  
 New podcasts are discovered automatically. Changes are listed [here](DISCOVERY.md).  
