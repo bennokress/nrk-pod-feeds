@@ -1,0 +1,40 @@
+name: update-video-podcast-feeds
+
+on:
+  workflow_dispatch:
+  schedule:
+   - cron: '15 * * * *'
+
+jobs:
+  update-video-feeds:
+    runs-on: ubuntu-24.04
+    steps:
+
+      - name: Checkout repository
+        uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.13.7'
+          cache: 'pip'
+
+      - name: Install Python packages
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Create video RSS directory
+        run: mkdir -p docs/rss/video
+
+      - name: Execute video feed generation script
+        run: python generate_video_feeds.py
+
+      - name: Auto-commit changes and push
+        uses: stefanzweifel/git-auto-commit-action@v6
+        with:
+          commit_message: "chore(auto): Update video podcast feed(s)"
+          commit_author: Feed Updater <actions@github.com>
+          file_pattern: docs/**/*

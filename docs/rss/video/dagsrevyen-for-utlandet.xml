@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>De 10 siste fra Dagsrevyen utenfor Norge og EU</title>
+    <link>https://sindrel.github.io/nrk-pod-feeds</link>
+    <description>Uoffisiell video-feed med de siste 10 episodene fra Dagsrevyen utenfor Norge og EU. Opphavsrett på innhold eies av NRK. Se https://tv.nrk.no/serie/dagsrevyen-for-utlandet for mer informasjon. NB: HLS-format, fungerer med Pocket Casts, VLC, etc.</description>
+    <itunes:explicit>no</itunes:explicit>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
+    <language>no</language>
+    <lastBuildDate>Wed, 14 Jan 2026 09:50:30 +0000</lastBuildDate>
+    <pubDate>Sun, 04 Jan 2026 20:00:00 +0100</pubDate>
+    <itunes:block>Yes</itunes:block>
+    <itunes:image href="https://gfx.nrk.no/7Ahuz9lfHimL8d35nrljnwOBe_5TtgBU1n2lf3FTnLxg"/>
+    <item>
+      <title>4. januar · – En kjempe</title>
+      <description><![CDATA[Sverre Anker Ousdal er død, 81 år gammel.]]></description>
+      <guid isPermaLink="false">https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa20010426/b254f5bc-18.smil/muxed.m3u8?adap=small&amp;s=0&amp;aco=aac</guid>
+      <enclosure url="https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa20010426/b254f5bc-18.smil/muxed.m3u8?adap=small&amp;s=0&amp;aco=aac" length="0" type="application/vnd.apple.mpegurl"/>
+      <itunes:duration>49:00</itunes:duration>
+      <pubDate>Sun, 04 Jan 2026 20:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/H3c9HTbZUJj8aMiNJcaiqwrtiTydzUA0cCyrMjNZ85MQ"/>
+    </item>
+    <item>
+      <title>27. desember 2025 · Vinden herjet i nord</title>
+      <description><![CDATA[Tusenvis er fortsatt uten strøm i Nordland etter uvær. Nå flytter været seg nordover.]]></description>
+      <guid isPermaLink="false">https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa20122725/7511f6e9-13.smil/muxed.m3u8?adap=small&amp;s=0&amp;aco=aac</guid>
+      <enclosure url="https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa20122725/7511f6e9-13.smil/muxed.m3u8?adap=small&amp;s=0&amp;aco=aac" length="0" type="application/vnd.apple.mpegurl"/>
+      <itunes:duration>28:47</itunes:duration>
+      <pubDate>Sat, 27 Dec 2025 20:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/puxT8QPUyLfr3iyjM_SqKgCcFX7CtJev3vCDGJ0GZWvg"/>
+    </item>
+    <item>
+      <title>21. desember 2025 · Nettleien vil øke</title>
+      <description><![CDATA[Økt beredskap rundt kraftanlegg og høyspentmaster koster – kundene må ta regninga.]]></description>
+      <guid isPermaLink="false">https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa20122125/b5fa75da-16.smil/muxed.m3u8?adap=small&amp;s=0&amp;aco=aac</guid>
+      <enclosure url="https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa20122125/b5fa75da-16.smil/muxed.m3u8?adap=small&amp;s=0&amp;aco=aac" length="0" type="application/vnd.apple.mpegurl"/>
+      <itunes:duration>49:03</itunes:duration>
+      <pubDate>Sun, 21 Dec 2025 20:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GV1UI3eDll_IbXNHDQybggmPZyACkvClMb41qAkDUX6w"/>
+    </item>
+    <item>
+      <title>20. desember 2025 · Vill vekst i forsvarsindustrien</title>
+      <description><![CDATA[Kan bli Norges nest største eksportnæring om få år.]]></description>
+      <guid isPermaLink="false">https://nrk-od-world-95.akamaized.net/open/ps/nnfa/nnfa20122025/324910cb-16.smil/muxed.m3u8?adap=small&amp;s=0&amp;aco=aac</guid>
+      <enclosure url="https://nrk-od-world-95.akamaized.net/open/ps/nnfa/nnfa20122025/324910cb-16.smil/muxed.m3u8?adap=small&amp;s=0&amp;aco=aac" length="0" type="application/vnd.apple.mpegurl"/>
+      <itunes:duration>43:59</itunes:duration>
+      <pubDate>Sat, 20 Dec 2025 20:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/pzvDsnyfFLUuMko343fIpghAjUEKnpP64C7GsCY76zGg"/>
+    </item>
+    <item>
+      <title>14. desember 2025 · Hylles som helt</title>
+      <description><![CDATA[12 drept i terrorangrep på strand i Australia. Forbipasserende overmannet en av gjerningsmennene.]]></description>
+      <guid isPermaLink="false">https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa20121425/1f007bbc-16.smil/muxed.m3u8?adap=small&amp;s=0&amp;aco=aac</guid>
+      <enclosure url="https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa20121425/1f007bbc-16.smil/muxed.m3u8?adap=small&amp;s=0&amp;aco=aac" length="0" type="application/vnd.apple.mpegurl"/>
+      <itunes:duration>48:49</itunes:duration>
+      <pubDate>Sun, 14 Dec 2025 20:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/o3REvcQH8KPqQCbuRfhFRAUMEeldzRTKGYBHcMhW4jfw"/>
+    </item>
+    <item>
+      <title>13. desember 2025 · Fredsprisvinner satt fri</title>
+      <description><![CDATA[Den hviterussiske Nobelprisvinneren frigitt i dag. Dagsrevyen møter kona i Norge]]></description>
+      <guid isPermaLink="false">https://nrk-od-world-26.akamaized.net/open/ps/nnfa/nnfa20121325/fe2dfe7b-16.smil/muxed.m3u8?adap=small&amp;s=0&amp;aco=aac</guid>
+      <enclosure url="https://nrk-od-world-26.akamaized.net/open/ps/nnfa/nnfa20121325/fe2dfe7b-16.smil/muxed.m3u8?adap=small&amp;s=0&amp;aco=aac" length="0" type="application/vnd.apple.mpegurl"/>
+      <itunes:duration>43:58</itunes:duration>
+      <pubDate>Sat, 13 Dec 2025 20:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/PBkmiMCUzbvnB4KrjTv0hwEoLS4kTK20owbhvUQqezdw"/>
+    </item>
+    <item>
+      <title>6. desember 2025 · USAs strategi vekker reaksjoner</title>
+      <description><![CDATA[Utenriksminister Espen Barth Eide kjenner seg ikke igjen i bildet USA tegner av Europa.]]></description>
+      <guid isPermaLink="false">https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa20120625/c7a224d4-19.smil/muxed.m3u8?adap=small&amp;s=0&amp;aco=aac</guid>
+      <enclosure url="https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa20120625/c7a224d4-19.smil/muxed.m3u8?adap=small&amp;s=0&amp;aco=aac" length="0" type="application/vnd.apple.mpegurl"/>
+      <itunes:duration>43:29</itunes:duration>
+      <pubDate>Sat, 06 Dec 2025 20:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/nQwqa9phk0iiS0dGBPEaUgh3Iv81VenQK-QdQ6Qqm67A"/>
+    </item>
+    <item>
+      <title>30. november 2025</title>
+      <description><![CDATA[Gullfest i Stavanger. Viking er seriemester 2025.]]></description>
+      <guid isPermaLink="false">https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa20113025/ddf226cd-15.smil/muxed.m3u8?adap=small&amp;s=0&amp;aco=aac</guid>
+      <enclosure url="https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa20113025/ddf226cd-15.smil/muxed.m3u8?adap=small&amp;s=0&amp;aco=aac" length="0" type="application/vnd.apple.mpegurl"/>
+      <itunes:duration>49:15</itunes:duration>
+      <pubDate>Sun, 30 Nov 2025 20:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/tqJMS9iSSkgxkP7uvjde7wgSQ6SICUs50n2JpdwRTUIQ"/>
+    </item>
+    <item>
+      <title>29. november 2025</title>
+      <description><![CDATA[Bryter forhandlingene – Støre kan kaste landet vårt ut i en regjeringskrise, sier MDG-lederen.]]></description>
+      <guid isPermaLink="false">https://nrk-od-world-88.akamaized.net/open/ps/nnfa/nnfa20112925/1fd6a28c-20.smil/muxed.m3u8?adap=small&amp;s=0&amp;aco=aac</guid>
+      <enclosure url="https://nrk-od-world-88.akamaized.net/open/ps/nnfa/nnfa20112925/1fd6a28c-20.smil/muxed.m3u8?adap=small&amp;s=0&amp;aco=aac" length="0" type="application/vnd.apple.mpegurl"/>
+      <itunes:duration>44:12</itunes:duration>
+      <pubDate>Sat, 29 Nov 2025 20:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/q9G_YYRdsEoWIG_bp9fzmg6mHnZnSFyBDdUBb5XFLOtQ"/>
+    </item>
+    <item>
+      <title>23. november 2025 · Skal forhandle om fredsplan</title>
+      <description><![CDATA[Forhandlingene i gang i Sveits. Europa har lagt fram sitt forslag til landbytte.]]></description>
+      <guid isPermaLink="false">https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa20112325/0916093d-14.smil/muxed.m3u8?adap=small&amp;s=0&amp;aco=aac</guid>
+      <enclosure url="https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa20112325/0916093d-14.smil/muxed.m3u8?adap=small&amp;s=0&amp;aco=aac" length="0" type="application/vnd.apple.mpegurl"/>
+      <itunes:duration>48:55</itunes:duration>
+      <pubDate>Sun, 23 Nov 2025 20:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Fy4s2iDtNwlWb_Cbkf-1tgSaXsaWdaTjp4KGKceyq_8Q"/>
+    </item>
+  </channel>
+</rss>

@@ -9,7 +9,7 @@
         <link href="assets/css/style.css" rel="stylesheet">
     </head>
 
-    <body onload="listFeeds()">
+    <body onload="listVideoFeeds(); listFeeds()">
         <h1>NRK Podcast RSS feeds</h1>
         <h4><a href="https://github.com/sindrel/nrk-pod-feeds"><div class="gh_link">https://github.com/sindrel/nrk-pod-feeds</div></a></h4>
         <h5>
@@ -19,8 +19,27 @@
               <th><font color="#eb8904"><sup>⬊</sup></font> Inaktiv</th>
               <th><font color="#333"><sup>⬊</sup></font> Over et år siden siste episode</th>
             </tr>
-          </table> 
+          </table>
         </h5>
+
+        <h2>NRK TV Video Feeds</h2>
+        <h5>
+          <table>
+            <tr>
+              <th><em>HLS video feeds - bare kompatibel med utvalgte apper (Pocket Casts, VLC)</em></th>
+            </tr>
+          </table>
+        </h5>
+
+        <input type="text" id="videoSearchInput" onkeyup="searchVideoFeeds()" placeholder="Søk..." size="50">
+
+        <ul id="video_feeds_ul">
+          <div id="video_feeds_list"></div>
+        </ul>
+
+        <hr style="margin: 40px 0;">
+
+        <h2>NRK Audio Podcasts</h2>
 
         <input type="text" id="searchInput" onkeyup="searchFeeds()" placeholder="Søk..." size="50">
 
@@ -29,6 +48,7 @@
         </ul>
 
         <script type="text/javascript" src="feeds.js"></script>
+        <script type="text/javascript" src="video_feeds.js"></script>
         <script type="text/javascript" src="assets/js/main.js"></script>
     </body>
-</html> 
+</html>

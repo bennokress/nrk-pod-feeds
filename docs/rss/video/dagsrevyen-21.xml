@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>De 9 siste fra Dagsrevyen 21</title>
+    <link>https://sindrel.github.io/nrk-pod-feeds</link>
+    <description>Uoffisiell video-feed med de siste 9 episodene fra Dagsrevyen 21. Opphavsrett på innhold eies av NRK. Se https://tv.nrk.no/serie/dagsrevyen-21 for mer informasjon. NB: HLS-format, fungerer med Pocket Casts, VLC, etc.</description>
+    <itunes:explicit>no</itunes:explicit>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
+    <language>no</language>
+    <lastBuildDate>Wed, 14 Jan 2026 09:50:28 +0000</lastBuildDate>
+    <pubDate>Tue, 13 Jan 2026 20:59:58 +0100</pubDate>
+    <itunes:block>Yes</itunes:block>
+    <itunes:image href="https://gfx.nrk.no/pZmsub_ISQu5G_iy-goy-wLuqhBL4KxmhGoWCVWqw92A"/>
+    <item>
+      <title>I går · Skjebnedag for Equinor</title>
+      <description><![CDATA[Rettshøring i Washington skal avgjøre Empire Wind sin skjebne.]]></description>
+      <guid isPermaLink="false">https://nrk-od-world-31.akamaized.net/open/ps/nnfa/nnfa21011326/8a315d3a-16.smil/muxed.m3u8?adap=small&amp;s=0&amp;aco=aac</guid>
+      <enclosure url="https://nrk-od-world-31.akamaized.net/open/ps/nnfa/nnfa21011326/8a315d3a-16.smil/muxed.m3u8?adap=small&amp;s=0&amp;aco=aac" length="0" type="application/vnd.apple.mpegurl"/>
+      <itunes:duration>09:42</itunes:duration>
+      <pubDate>Tue, 13 Jan 2026 20:59:58 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/5tIPqcf4FxSHyHvXHXoe5gDsR--UhYA33vcETnkvMUXg"/>
+    </item>
+    <item>
+      <title>Mandag · Har tro på ny oljepolitikk</title>
+      <description><![CDATA[MDG krever strengere oljepolitikk fra Arbeiderpartiet.]]></description>
+      <guid isPermaLink="false">https://nrk-od-world-07.akamaized.net/open/ps/nnfa/nnfa21011226/519e458e-16.smil/muxed.m3u8?adap=small&amp;s=0&amp;aco=aac</guid>
+      <enclosure url="https://nrk-od-world-07.akamaized.net/open/ps/nnfa/nnfa21011226/519e458e-16.smil/muxed.m3u8?adap=small&amp;s=0&amp;aco=aac" length="0" type="application/vnd.apple.mpegurl"/>
+      <itunes:duration>08:35</itunes:duration>
+      <pubDate>Mon, 12 Jan 2026 21:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/vTkenmXBtnbP4CEF38WjnguFfrsPGLjqYRrvfL8aIyXA"/>
+    </item>
+    <item>
+      <title>Søndag · Dødstallene i Iran stiger</title>
+      <description><![CDATA[Samtidig som dødstallene stiger ber sønnen til den siste sjahen i landet om at folket fortsetter å protestere.]]></description>
+      <guid isPermaLink="false">https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa21011126/17da2759-16.smil/muxed.m3u8?adap=small&amp;s=0&amp;aco=aac</guid>
+      <enclosure url="https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa21011126/17da2759-16.smil/muxed.m3u8?adap=small&amp;s=0&amp;aco=aac" length="0" type="application/vnd.apple.mpegurl"/>
+      <itunes:duration>09:20</itunes:duration>
+      <pubDate>Sun, 11 Jan 2026 21:40:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/pr7SAz9TniZKlIePErtfzA7lsvs7fB9jjQNMxFabPW9Q"/>
+    </item>
+    <item>
+      <title>8. januar · Visepresidenten på offensiven</title>
+      <description><![CDATA[J. D. Vance mener immigrasjonsagenten som skjøt og drepte en kvinne onsdag ikke kan straffeforfølges.]]></description>
+      <guid isPermaLink="false">https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa21010826/6870e1f6-16.smil/muxed.m3u8?adap=small&amp;s=0&amp;aco=aac</guid>
+      <enclosure url="https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa21010826/6870e1f6-16.smil/muxed.m3u8?adap=small&amp;s=0&amp;aco=aac" length="0" type="application/vnd.apple.mpegurl"/>
+      <itunes:duration>09:22</itunes:duration>
+      <pubDate>Thu, 08 Jan 2026 21:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/D9jyRSfhPLwIJBSPDYIHxwdSmDlbpbki4aRGlpzT1RAg"/>
+    </item>
+    <item>
+      <title>7. januar · Vedsalget til himmels</title>
+      <description><![CDATA[Den kalde starten på året har ført til ekstrem etterspørsel etter ved.]]></description>
+      <guid isPermaLink="false">https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa21010726/0bc138f5-18.smil/muxed.m3u8?adap=small&amp;s=0&amp;aco=aac</guid>
+      <enclosure url="https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa21010726/0bc138f5-18.smil/muxed.m3u8?adap=small&amp;s=0&amp;aco=aac" length="0" type="application/vnd.apple.mpegurl"/>
+      <itunes:duration>09:14</itunes:duration>
+      <pubDate>Wed, 07 Jan 2026 20:59:58 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mrsE4guoWZwFbjQGcUxJiQokuQYoQzosZ67xD4SQuqUA"/>
+    </item>
+    <item>
+      <title>6. januar · Møtte pressen etter krisemøte i Danmark</title>
+      <description><![CDATA[– Vi føler en stor oppbakking til kongeriket Danmark, sier utenriksministeren.]]></description>
+      <guid isPermaLink="false">https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa21010626/59e08114-18.smil/muxed.m3u8?adap=small&amp;s=0&amp;aco=aac</guid>
+      <enclosure url="https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa21010626/59e08114-18.smil/muxed.m3u8?adap=small&amp;s=0&amp;aco=aac" length="0" type="application/vnd.apple.mpegurl"/>
+      <itunes:duration>11:44</itunes:duration>
+      <pubDate>Tue, 06 Jan 2026 21:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/lNxIy9fqWjap13kwIVrXIQmq8NT0F50HjNhMPrEpRmJA"/>
+    </item>
+    <item>
+      <title>5. januar · Vil styrke dialogen med USA</title>
+      <description><![CDATA[Grønlands regjeringssjef har i kveld møtt pressen etter Donald Trumps uttalelser om øyen.]]></description>
+      <guid isPermaLink="false">https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa21010526/ca19f588-23.smil/muxed.m3u8?adap=small&amp;s=0&amp;aco=aac</guid>
+      <enclosure url="https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa21010526/ca19f588-23.smil/muxed.m3u8?adap=small&amp;s=0&amp;aco=aac" length="0" type="application/vnd.apple.mpegurl"/>
+      <itunes:duration>09:51</itunes:duration>
+      <pubDate>Mon, 05 Jan 2026 21:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qgQPFzmGPNP3TdMT7EKlNQWxjKljyqtPLSU9OKhcUnqw"/>
+    </item>
+    <item>
+      <title>29. desember 2025 · Trump møter Netanyahu i Florida</title>
+      <description><![CDATA[De to skal snakke om Gaza og fredsavtalen fase to.]]></description>
+      <guid isPermaLink="false">https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa21122925/c9dcc3da-18.smil/muxed.m3u8?adap=small&amp;s=0&amp;aco=aac</guid>
+      <enclosure url="https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa21122925/c9dcc3da-18.smil/muxed.m3u8?adap=small&amp;s=0&amp;aco=aac" length="0" type="application/vnd.apple.mpegurl"/>
+      <itunes:duration>10:05</itunes:duration>
+      <pubDate>Mon, 29 Dec 2025 21:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YVGBzS65uu2p6XsilSEMSgopXipyZMOxP3uxYiPACAdA"/>
+    </item>
+    <item>
+      <title>28. desember 2025 · Diskuterer fredsavtale</title>
+      <description><![CDATA[Zelenskyj og Trump sitter sammen i Florida i håp om å komme fram til en avtale som kan gi fred i Ukraina.]]></description>
+      <guid isPermaLink="false">https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa21122825/d4f6401c-17.smil/muxed.m3u8?adap=small&amp;s=0&amp;aco=aac</guid>
+      <enclosure url="https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa21122825/d4f6401c-17.smil/muxed.m3u8?adap=small&amp;s=0&amp;aco=aac" length="0" type="application/vnd.apple.mpegurl"/>
+      <itunes:duration>09:22</itunes:duration>
+      <pubDate>Sun, 28 Dec 2025 21:05:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/hVw4BPFJ-8cupCVW-lntpg1a9ptyTemKrRVBESFk-Ogw"/>
+    </item>
+  </channel>
+</rss>
