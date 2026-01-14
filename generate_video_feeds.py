@@ -40,6 +40,16 @@ def get_episode_count_from_xml(feeds_dir, series_id):
     return 10  # Default fallback
 
 
+def get_podcast_image(series_id):
+    """Get podcast image: use local square image if available, else API image."""
+    local_image_path = f"docs/assets/images/{series_id}.jpg"
+    if os.path.exists(local_image_path):
+        # Use the GitHub Pages URL for the local image
+        return f"{web_url}/assets/images/{series_id}.jpg"
+    # Fallback to API image (16:9)
+    return get_series_image(series_id)
+
+
 def get_video_feed(series_id, season, feeds_dir, ep_count=10):
     """
     Generate a video podcast feed for a TV series.
@@ -61,7 +71,7 @@ def get_video_feed(series_id, season, feeds_dir, ep_count=10):
         logging.info(f"Unable to get title for TV series {series_id}")
         return None
 
-    image = get_series_image(series_id)
+    image = get_podcast_image(series_id)
     website = f"https://tv.nrk.no/serie/{series_id}"
 
     logging.info(f"Processing TV series: {original_title}")
@@ -171,11 +181,9 @@ def get_video_feed(series_id, season, feeds_dir, ep_count=10):
 
     episodes_c = len(p.episodes)
     episode_counts[series_id] = episodes_c  # Track for dynamic titles
-    title = f"De {episodes_c} siste fra {original_title}"
-    subtitle = f"Uoffisiell video-feed med de siste {episodes_c} episodene fra {original_title}. Opphavsrett på innhold eies av NRK. Se {website} for mer informasjon. NB: HLS-format, fungerer med Pocket Casts, VLC, etc."
 
-    p.name = title
-    p.description = subtitle
+    p.name = original_title
+    p.description = f"Uoffisiell videostrøm fra {original_title}. Innholdet er opphavsrettsbeskyttet av NRK. Kun for personlig bruk. Se {website} for mer informasjon."
 
     return p
 
