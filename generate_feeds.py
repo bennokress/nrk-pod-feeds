@@ -10,7 +10,7 @@ from common.psapi import get_podcast_metadata, get_episode_manifest, get_podcast
 podgen_agent = f"nrk-pod-feeder v{get_version()} (with help from python-podgen)"
 podcasts_cfg_file = "podcasts.json"
 filter_teasers = True
-web_url = "https://sindrel.github.io/nrk-pod-feeds"
+web_url = "https://bennokress.github.io/nrk-pod-feeds"
 
 def get_podcast(podcast_id, season, feeds_dir, ep_count = 10):
     existing_feed = get_last_feed(feeds_dir, podcast_id)
