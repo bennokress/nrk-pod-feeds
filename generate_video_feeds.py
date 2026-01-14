@@ -1,4 +1,6 @@
 import logging
+import os
+import xml.etree.ElementTree as ET
 
 from podgen import Podcast, Episode, Media
 from dateutil import parser
@@ -21,6 +23,21 @@ web_url = "https://bennokress.github.io/nrk-pod-feeds"
 
 # HLS video MIME type
 VIDEO_MIME_TYPE = "application/vnd.apple.mpegurl"
+
+# Track actual episode counts for dynamic titles
+episode_counts = {}
+
+
+def get_episode_count_from_xml(feeds_dir, series_id):
+    """Read episode count from existing RSS XML file."""
+    xml_path = f"{feeds_dir}/{series_id}.xml"
+    if os.path.exists(xml_path):
+        try:
+            tree = ET.parse(xml_path)
+            return len(tree.findall('.//item'))
+        except Exception as e:
+            logging.debug(f"Could not parse XML for episode count: {e}")
+    return 10  # Default fallback
 
 
 def get_video_feed(series_id, season, feeds_dir, ep_count=10):
@@ -153,6 +170,7 @@ def get_video_feed(series_id, season, feeds_dir, ep_count=10):
         return None
 
     episodes_c = len(p.episodes)
+    episode_counts[series_id] = episodes_c  # Track for dynamic titles
     title = f"De {episodes_c} siste fra {original_title}"
     subtitle = f"Uoffisiell video-feed med de siste {episodes_c} episodene fra {original_title}. Opphavsrett på innhold eies av NRK. Se {website} for mer informasjon. NB: HLS-format, fungerer med Pocket Casts, VLC, etc."
 
@@ -171,11 +189,33 @@ def write_video_xml(feeds_dir, series_id, podcast):
     return output_path
 
 
-def write_video_feeds_file(feeds_file, programs):
-    """Write video feeds JavaScript file for web UI."""
+def write_video_feeds_file(feeds_file, programs, feeds_dir):
+    """Write video feeds JavaScript file for web UI with dynamic titles."""
     import json
+
+    updated_programs = []
+    for p in programs:
+        program_copy = p.copy()
+        series_id = p["id"]
+
+        # Get episode count: from current run, or from existing XML
+        if series_id in episode_counts:
+            count = episode_counts[series_id]
+        else:
+            count = get_episode_count_from_xml(feeds_dir, series_id)
+
+        # Extract series name from static title ("De X siste fra SERIES_NAME")
+        original_title = p["title"]
+        if " fra " in original_title:
+            series_name = original_title.split(" fra ", 1)[-1]
+        else:
+            series_name = series_id.replace("-", " ").title()
+
+        program_copy["title"] = f"De {count} siste fra {series_name}"
+        updated_programs.append(program_copy)
+
     with open(feeds_file, "w") as f:
-        str_data = json.dumps(programs, ensure_ascii=False, indent=2)
+        str_data = json.dumps(updated_programs, ensure_ascii=False, indent=2)
         f.write(f"const videoFeeds = {str_data}")
     logging.info(f"Video feeds written to file: {feeds_file}")
 
@@ -203,5 +243,5 @@ if __name__ == '__main__':
 
         write_video_xml(feeds_dir, series_id, feed)
 
-    write_video_feeds_file(feeds_file, programs)
+    write_video_feeds_file(feeds_file, programs, feeds_dir)
     logging.info("Done")
