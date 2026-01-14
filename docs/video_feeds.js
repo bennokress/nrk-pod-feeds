@@ -1,0 +1,16 @@
+const videoFeeds = [
+  {
+    "id": "dagsrevyen-21",
+    "title": "De 10 siste fra Dagsrevyen 21",
+    "season": null,
+    "enabled": true,
+    "type": "video"
+  },
+  {
+    "id": "dagsrevyen-for-utlandet",
+    "title": "De 10 siste fra Dagsrevyen for utlandet",
+    "season": null,
+    "enabled": true,
+    "type": "video"
+  }
+]
