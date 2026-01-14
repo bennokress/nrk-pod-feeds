@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:podcast="https://podcastindex.org/namespace/1.0"
+  xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Dagsrevyen</title>
+    <link>https://bennokress.github.io/nrk-pod-feeds</link>
+    <description>Uoffisiell videostrøm fra Dagsrevyen. Innholdet er opphavsrettsbeskyttet av NRK. Kun for personlig bruk. Se https://tv.nrk.no/serie/dagsrevyen for mer informasjon.</description>
+    <language>no</language>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>nrk-pod-feeder v1.5.1 (Podcasting 2.0 Test)</generator>
+    <lastBuildDate>Wed, 14 Jan 2026 12:07:54 +0000</lastBuildDate>
+    <pubDate>Tue, 13 Jan 2026 18:59:53 +0100</pubDate>
+
+    <!-- iTunes tags -->
+    <itunes:author>NRK</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:block>Yes</itunes:block>
+    <itunes:image href="https://bennokress.github.io/nrk-pod-feeds/assets/images/dagsrevyen.jpg"/>
+    <itunes:category text="News"/>
+
+    <!-- Podcasting 2.0 Channel Tags -->
+    <podcast:guid>044fc266-a770-5a6e-ac2a-7b76619bfab5</podcast:guid>
+    <podcast:medium>video</podcast:medium>
+    <podcast:locked>yes</podcast:locked>
+    <podcast:person role="host" href="https://www.nrk.no">NRK</podcast:person>
+
+    <!-- Atom self-link -->
+    <atom:link href="https://bennokress.github.io/nrk-pod-feeds/rss/video/podcasting2/dagsrevyen.xml" rel="self" type="application/rss+xml"/>
+
+    <!-- Episode 1: I går - Vil lete etter mer olje -->
+    <item>
+      <title>I går - Vil lete etter mer olje</title>
+      <description>Regjeringa møtt av demonstranter da de varslet nye utvinningstillatelser for olje og gass.</description>
+      <guid isPermaLink="false">dagsrevyen-2026-01-13</guid>
+      <link>https://tv.nrk.no/serie/dagsrevyen</link>
+      <pubDate>Tue, 13 Jan 2026 18:59:53 +0100</pubDate>
+      <enclosure url="https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa19011326/11bcc35c-14.smil/muxed.m3u8?adap=small&amp;s=0&amp;aco=aac" length="0" type="application/vnd.apple.mpegurl"/>
+
+      <!-- iTunes episode tags -->
+      <itunes:duration>43:33</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/nc_40FSJwRfDPYXd82uyiQHzGVTFMOVwvmKCYVsSfD3Q"/>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+
+      <!-- Podcasting 2.0 Episode Tags -->
+      <podcast:chapters url="https://bennokress.github.io/nrk-pod-feeds/chapters/dagsrevyen-2026-01-13.json" type="application/json+chapters"/>
+      <podcast:person role="host" href="https://www.nrk.no">NRK</podcast:person>
+    </item>
+
+    <!-- Episode 2: Mandag - Advarer mot værskifte -->
+    <item>
+      <title>Mandag - Advarer mot værskifte</title>
+      <description>Mye snø på Sørlandet i dag, og nå frykter de mildværet som kommer.</description>
+      <guid isPermaLink="false">dagsrevyen-2026-01-12</guid>
+      <link>https://tv.nrk.no/serie/dagsrevyen</link>
+      <pubDate>Mon, 12 Jan 2026 18:59:53 +0100</pubDate>
+      <enclosure url="https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa19011226/17626734-16.smil/muxed.m3u8?adap=small&amp;s=0&amp;aco=aac" length="0" type="application/vnd.apple.mpegurl"/>
+
+      <!-- iTunes episode tags -->
+      <itunes:duration>43:56</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ZuaH4W3uVlbHw8IMl2WOCA-KYZCvvop6aIa5zn3EMbag"/>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+
+      <!-- Podcasting 2.0 Episode Tags -->
+      <podcast:chapters url="https://bennokress.github.io/nrk-pod-feeds/chapters/dagsrevyen-2026-01-12.json" type="application/json+chapters"/>
+      <podcast:person role="host" href="https://www.nrk.no">NRK</podcast:person>
+    </item>
+
+    <!-- Episode 3: Søndag - Flere hundre skal være drept i Iran -->
+    <item>
+      <title>Søndag - Flere hundre skal være drept i Iran</title>
+      <description>Over 500 mennesker skal være drept i Iran de siste ukene, mener ulike menneskerettighetsgrupper. Trump truer med angrep av landet.</description>
+      <guid isPermaLink="false">dagsrevyen-2026-01-11</guid>
+      <link>https://tv.nrk.no/serie/dagsrevyen</link>
+      <pubDate>Sun, 11 Jan 2026 18:59:48 +0100</pubDate>
+      <enclosure url="https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa19011126/60d34d97-15.smil/muxed.m3u8?adap=small&amp;s=0&amp;aco=aac" length="0" type="application/vnd.apple.mpegurl"/>
+
+      <!-- iTunes episode tags -->
+      <itunes:duration>49:09</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/BaalgbZQHD-0hbSJFEJrGA-sbV9K-JVfMXvptP5i1MsQ"/>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+
+      <!-- Podcasting 2.0 Episode Tags -->
+      <podcast:chapters url="https://bennokress.github.io/nrk-pod-feeds/chapters/dagsrevyen-2026-01-11.json" type="application/json+chapters"/>
+      <podcast:person role="host" href="https://www.nrk.no">NRK</podcast:person>
+    </item>
+  </channel>
+</rss>
