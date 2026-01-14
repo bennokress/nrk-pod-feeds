@@ -50,7 +50,7 @@
       <podcast:alternateEnclosure type="application/x-mpegURL" length="0" default="true" title="HLS Video Stream">
         <podcast:source uri="https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa19011326/11bcc35c-14.smil/muxed.m3u8?adap=small&amp;s=0&amp;aco=aac"/>
       </podcast:alternateEnclosure>
-      <podcast:chapters url="https://raw.githubusercontent.com/bennokress/nrk-pod-feeds/feature/podcasting2/docs/chapters/dagsrevyen-2026-01-13.json" type="application/json+chapters"/>
+      <podcast:chapters url="https://cdn.jsdelivr.net/gh/bennokress/nrk-pod-feeds@feature/podcasting2/docs/chapters/dagsrevyen-2026-01-13.json" type="application/json+chapters"/>
       <podcast:person role="host" href="https://www.nrk.no">NRK</podcast:person>
     </item>
 
@@ -73,7 +73,7 @@
       <podcast:alternateEnclosure type="application/x-mpegURL" length="0" default="true" title="HLS Video Stream">
         <podcast:source uri="https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa19011226/17626734-16.smil/muxed.m3u8?adap=small&amp;s=0&amp;aco=aac"/>
       </podcast:alternateEnclosure>
-      <podcast:chapters url="https://raw.githubusercontent.com/bennokress/nrk-pod-feeds/feature/podcasting2/docs/chapters/dagsrevyen-2026-01-12.json" type="application/json+chapters"/>
+      <podcast:chapters url="https://cdn.jsdelivr.net/gh/bennokress/nrk-pod-feeds@feature/podcasting2/docs/chapters/dagsrevyen-2026-01-12.json" type="application/json+chapters"/>
       <podcast:person role="host" href="https://www.nrk.no">NRK</podcast:person>
     </item>
 
@@ -96,7 +96,7 @@
       <podcast:alternateEnclosure type="application/x-mpegURL" length="0" default="true" title="HLS Video Stream">
         <podcast:source uri="https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa19011126/60d34d97-15.smil/muxed.m3u8?adap=small&amp;s=0&amp;aco=aac"/>
       </podcast:alternateEnclosure>
-      <podcast:chapters url="https://raw.githubusercontent.com/bennokress/nrk-pod-feeds/feature/podcasting2/docs/chapters/dagsrevyen-2026-01-11.json" type="application/json+chapters"/>
+      <podcast:chapters url="https://cdn.jsdelivr.net/gh/bennokress/nrk-pod-feeds@feature/podcasting2/docs/chapters/dagsrevyen-2026-01-11.json" type="application/json+chapters"/>
       <podcast:person role="host" href="https://www.nrk.no">NRK</podcast:person>
     </item>
   </channel>
