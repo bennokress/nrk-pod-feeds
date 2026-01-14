@@ -1,0 +1,48 @@
+{
+  "version": "1.2.0",
+  "title": "5. januar · Vil styrke dialogen med USA",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 1,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa21010526/ca19f588-23.smil/thumb.jpg?t=26&scale=480x270&v=high"
+    },
+    {
+      "startTime": 26,
+      "title": "Grønland",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa21010526/ca19f588-23.smil/thumb.jpg?t=52&scale=480x270&v=high"
+    },
+    {
+      "startTime": 40,
+      "title": "Direkte: København",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa21010526/ca19f588-23.smil/thumb.jpg?t=66&scale=480x270&v=high"
+    },
+    {
+      "startTime": 166,
+      "title": "Grønland",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa21010526/ca19f588-23.smil/thumb.jpg?t=191&scale=480x270&v=high"
+    },
+    {
+      "startTime": 212,
+      "title": "Sikkerhetsrådet",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa21010526/ca19f588-23.smil/thumb.jpg?t=237&scale=480x270&v=high"
+    },
+    {
+      "startTime": 298,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa21010526/ca19f588-23.smil/thumb.jpg?t=324&scale=480x270&v=high"
+    },
+    {
+      "startTime": 392,
+      "title": "Gratis skidag",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa21010526/ca19f588-23.smil/thumb.jpg?t=418&scale=480x270&v=high"
+    },
+    {
+      "startTime": 497,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa21010526/ca19f588-23.smil/thumb.jpg?t=522&scale=480x270&v=high"
+    }
+  ]
+}
