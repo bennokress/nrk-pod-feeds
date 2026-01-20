@@ -1,0 +1,48 @@
+{
+  "version": "1.2.0",
+  "title": "7. januar · Vedsalget til himmels",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa21010726/0bc138f5-18.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 26,
+      "title": "Tankskip beslaglagt",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa21010726/0bc138f5-18.smil/thumb.jpg?t=51&scale=480x270&v=high"
+    },
+    {
+      "startTime": 46,
+      "title": "Direkte: Moskva",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa21010726/0bc138f5-18.smil/thumb.jpg?t=72&scale=480x270&v=high"
+    },
+    {
+      "startTime": 150,
+      "title": "WTO om verdenssituasjonen",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa21010726/0bc138f5-18.smil/thumb.jpg?t=175&scale=480x270&v=high"
+    },
+    {
+      "startTime": 276,
+      "title": "Brann Verdal",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa21010726/0bc138f5-18.smil/thumb.jpg?t=301&scale=480x270&v=high"
+    },
+    {
+      "startTime": 340,
+      "title": "Økt vedsalg",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa21010726/0bc138f5-18.smil/thumb.jpg?t=366&scale=480x270&v=high"
+    },
+    {
+      "startTime": 446,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa21010726/0bc138f5-18.smil/thumb.jpg?t=471&scale=480x270&v=high"
+    },
+    {
+      "startTime": 509,
+      "title": "Ensom pingvin",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa21010726/0bc138f5-18.smil/thumb.jpg?t=534&scale=480x270&v=high"
+    }
+  ]
+}
