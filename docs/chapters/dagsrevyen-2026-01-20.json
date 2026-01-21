@@ -1,0 +1,133 @@
+{
+  "version": "1.2.0",
+  "title": "I går · – Respekt framfor mobbing",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 7,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-38.akamaized.net/open/ps/nnfa/nnfa19012026/98d12b4d-15.smil/thumb.jpg?t=32&scale=480x270&v=high"
+    },
+    {
+      "startTime": 59,
+      "title": "USA og Europa",
+      "img": "https://nrk-od-world-38.akamaized.net/open/ps/nnfa/nnfa19012026/98d12b4d-15.smil/thumb.jpg?t=85&scale=480x270&v=high"
+    },
+    {
+      "startTime": 177,
+      "title": "Direkte Davos",
+      "img": "https://nrk-od-world-38.akamaized.net/open/ps/nnfa/nnfa19012026/98d12b4d-15.smil/thumb.jpg?t=202&scale=480x270&v=high"
+    },
+    {
+      "startTime": 327,
+      "title": "Davos-møtet",
+      "img": "https://nrk-od-world-38.akamaized.net/open/ps/nnfa/nnfa19012026/98d12b4d-15.smil/thumb.jpg?t=352&scale=480x270&v=high"
+    },
+    {
+      "startTime": 406,
+      "title": "Direkte",
+      "img": "https://nrk-od-world-38.akamaized.net/open/ps/nnfa/nnfa19012026/98d12b4d-15.smil/thumb.jpg?t=431&scale=480x270&v=high"
+    },
+    {
+      "startTime": 477,
+      "title": "Ett år med Trump",
+      "img": "https://nrk-od-world-38.akamaized.net/open/ps/nnfa/nnfa19012026/98d12b4d-15.smil/thumb.jpg?t=503&scale=480x270&v=high"
+    },
+    {
+      "startTime": 495,
+      "title": "Direkte Washington",
+      "img": "https://nrk-od-world-38.akamaized.net/open/ps/nnfa/nnfa19012026/98d12b4d-15.smil/thumb.jpg?t=521&scale=480x270&v=high"
+    },
+    {
+      "startTime": 602,
+      "title": "Ett år med Trump",
+      "img": "https://nrk-od-world-38.akamaized.net/open/ps/nnfa/nnfa19012026/98d12b4d-15.smil/thumb.jpg?t=628&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1164,
+      "title": "Trumps Fredspanel",
+      "img": "https://nrk-od-world-38.akamaized.net/open/ps/nnfa/nnfa19012026/98d12b4d-15.smil/thumb.jpg?t=1189&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1240,
+      "title": "Direkte Beirut",
+      "img": "https://nrk-od-world-38.akamaized.net/open/ps/nnfa/nnfa19012026/98d12b4d-15.smil/thumb.jpg?t=1266&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1381,
+      "title": "Innenriks",
+      "img": "https://nrk-od-world-38.akamaized.net/open/ps/nnfa/nnfa19012026/98d12b4d-15.smil/thumb.jpg?t=1406&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1476,
+      "title": "Parterapi",
+      "img": "https://nrk-od-world-38.akamaized.net/open/ps/nnfa/nnfa19012026/98d12b4d-15.smil/thumb.jpg?t=1501&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1584,
+      "title": "Ukraina strømbrudd",
+      "img": "https://nrk-od-world-38.akamaized.net/open/ps/nnfa/nnfa19012026/98d12b4d-15.smil/thumb.jpg?t=1610&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1674,
+      "title": "Direkte Kyiv",
+      "img": "https://nrk-od-world-38.akamaized.net/open/ps/nnfa/nnfa19012026/98d12b4d-15.smil/thumb.jpg?t=1699&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1775,
+      "title": "Stavkirke Lothepus",
+      "img": "https://nrk-od-world-38.akamaized.net/open/ps/nnfa/nnfa19012026/98d12b4d-15.smil/thumb.jpg?t=1800&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1901,
+      "title": "Bakemesterskapet junior",
+      "img": "https://nrk-od-world-38.akamaized.net/open/ps/nnfa/nnfa19012026/98d12b4d-15.smil/thumb.jpg?t=1926&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2011,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-38.akamaized.net/open/ps/nnfa/nnfa19012026/98d12b4d-15.smil/thumb.jpg?t=2037&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2016,
+      "title": "Glimt-City",
+      "img": "https://nrk-od-world-38.akamaized.net/open/ps/nnfa/nnfa19012026/98d12b4d-15.smil/thumb.jpg?t=2041&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2081,
+      "title": "Direkte",
+      "img": "https://nrk-od-world-38.akamaized.net/open/ps/nnfa/nnfa19012026/98d12b4d-15.smil/thumb.jpg?t=2106&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2141,
+      "title": "OL-uttak",
+      "img": "https://nrk-od-world-38.akamaized.net/open/ps/nnfa/nnfa19012026/98d12b4d-15.smil/thumb.jpg?t=2167&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2251,
+      "title": "Kashafalis nye trener",
+      "img": "https://nrk-od-world-38.akamaized.net/open/ps/nnfa/nnfa19012026/98d12b4d-15.smil/thumb.jpg?t=2276&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2350,
+      "title": "Trailer Debatten",
+      "img": "https://nrk-od-world-38.akamaized.net/open/ps/nnfa/nnfa19012026/98d12b4d-15.smil/thumb.jpg?t=2375&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2383,
+      "title": "Promo onsdag",
+      "img": "https://nrk-od-world-38.akamaized.net/open/ps/nnfa/nnfa19012026/98d12b4d-15.smil/thumb.jpg?t=2409&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2407,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-38.akamaized.net/open/ps/nnfa/nnfa19012026/98d12b4d-15.smil/thumb.jpg?t=2433&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2561,
+      "title": "Ett år med Trump",
+      "img": "https://nrk-od-world-38.akamaized.net/open/ps/nnfa/nnfa19012026/98d12b4d-15.smil/thumb.jpg?t=2587&scale=480x270&v=high"
+    }
+  ]
+}
