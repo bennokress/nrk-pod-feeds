@@ -1,0 +1,63 @@
+{
+  "version": "1.2.0",
+  "title": "13. januar · Skjebnedag for Equinor",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-31.akamaized.net/open/ps/nnfa/nnfa21011326/8a315d3a-16.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 49,
+      "title": "Møte om Grønland",
+      "img": "https://nrk-od-world-31.akamaized.net/open/ps/nnfa/nnfa21011326/8a315d3a-16.smil/thumb.jpg?t=75&scale=480x270&v=high"
+    },
+    {
+      "startTime": 141,
+      "title": "Starlink Iran",
+      "img": "https://nrk-od-world-31.akamaized.net/open/ps/nnfa/nnfa21011326/8a315d3a-16.smil/thumb.jpg?t=166&scale=480x270&v=high"
+    },
+    {
+      "startTime": 165,
+      "title": "DAGSREVYPAKKE",
+      "img": "https://nrk-od-world-31.akamaized.net/open/ps/nnfa/nnfa21011326/8a315d3a-16.smil/thumb.jpg?t=190&scale=480x270&v=high"
+    },
+    {
+      "startTime": 259,
+      "title": "Skjebnedag for Equinors havvindprosjekt Empire Wind",
+      "img": "https://nrk-od-world-31.akamaized.net/open/ps/nnfa/nnfa21011326/8a315d3a-16.smil/thumb.jpg?t=285&scale=480x270&v=high"
+    },
+    {
+      "startTime": 370,
+      "title": "Ny United-manager",
+      "img": "https://nrk-od-world-31.akamaized.net/open/ps/nnfa/nnfa21011326/8a315d3a-16.smil/thumb.jpg?t=395&scale=480x270&v=high"
+    },
+    {
+      "startTime": 395,
+      "title": "Bakken bisettelse",
+      "img": "https://nrk-od-world-31.akamaized.net/open/ps/nnfa/nnfa21011326/8a315d3a-16.smil/thumb.jpg?t=421&scale=480x270&v=high"
+    },
+    {
+      "startTime": 467,
+      "title": "Skiskyting",
+      "img": "https://nrk-od-world-31.akamaized.net/open/ps/nnfa/nnfa21011326/8a315d3a-16.smil/thumb.jpg?t=492&scale=480x270&v=high"
+    },
+    {
+      "startTime": 484,
+      "title": "DAGENS BILDE",
+      "img": "https://nrk-od-world-31.akamaized.net/open/ps/nnfa/nnfa21011326/8a315d3a-16.smil/thumb.jpg?t=510&scale=480x270&v=high"
+    },
+    {
+      "startTime": 509,
+      "title": "Været",
+      "img": "https://nrk-od-world-31.akamaized.net/open/ps/nnfa/nnfa21011326/8a315d3a-16.smil/thumb.jpg?t=535&scale=480x270&v=high"
+    },
+    {
+      "startTime": 563,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-31.akamaized.net/open/ps/nnfa/nnfa21011326/8a315d3a-16.smil/thumb.jpg?t=582.64&scale=480x270&v=high"
+    }
+  ]
+}
