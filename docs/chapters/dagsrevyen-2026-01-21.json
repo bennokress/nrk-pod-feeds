@@ -1,0 +1,148 @@
+{
+  "version": "1.2.0",
+  "title": "I går · – Et nei vil bli husket",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 10,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa19012126/be655223-6.smil/thumb.jpg?t=35&scale=480x270&v=high"
+    },
+    {
+      "startTime": 52,
+      "title": "Trump i Davos",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa19012126/be655223-6.smil/thumb.jpg?t=77&scale=480x270&v=high"
+    },
+    {
+      "startTime": 102,
+      "title": "Direkte: Davos",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa19012126/be655223-6.smil/thumb.jpg?t=128&scale=480x270&v=high"
+    },
+    {
+      "startTime": 260,
+      "title": "Trump i Davos",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa19012126/be655223-6.smil/thumb.jpg?t=286&scale=480x270&v=high"
+    },
+    {
+      "startTime": 355,
+      "title": "Direkte Brussel",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa19012126/be655223-6.smil/thumb.jpg?t=381&scale=480x270&v=high"
+    },
+    {
+      "startTime": 477,
+      "title": "Gjester Mikkelsen og Bjørgaas",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa19012126/be655223-6.smil/thumb.jpg?t=502&scale=480x270&v=high"
+    },
+    {
+      "startTime": 581,
+      "title": "Trump i Davos",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa19012126/be655223-6.smil/thumb.jpg?t=607&scale=480x270&v=high"
+    },
+    {
+      "startTime": 645,
+      "title": "Gjester Mikkelsen og Bjørgaas",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa19012126/be655223-6.smil/thumb.jpg?t=670&scale=480x270&v=high"
+    },
+    {
+      "startTime": 758,
+      "title": "Norge og USA",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa19012126/be655223-6.smil/thumb.jpg?t=783&scale=480x270&v=high"
+    },
+    {
+      "startTime": 874,
+      "title": "Direkte: Ramstein",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa19012126/be655223-6.smil/thumb.jpg?t=900&scale=480x270&v=high"
+    },
+    {
+      "startTime": 939,
+      "title": "USA og Tyskland",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa19012126/be655223-6.smil/thumb.jpg?t=964&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1101,
+      "title": "Rettsak Lier-Hansen",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa19012126/be655223-6.smil/thumb.jpg?t=1126&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1203,
+      "title": "Gjest: Sindre Heyerdahl",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa19012126/be655223-6.smil/thumb.jpg?t=1228&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1310,
+      "title": "Bussbrann rettssak",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa19012126/be655223-6.smil/thumb.jpg?t=1335&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1408,
+      "title": "Innvandring",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa19012126/be655223-6.smil/thumb.jpg?t=1434&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1507,
+      "title": "Politiet utdanning",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa19012126/be655223-6.smil/thumb.jpg?t=1532&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1541,
+      "title": "2016-trend",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa19012126/be655223-6.smil/thumb.jpg?t=1567&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1670,
+      "title": "Utenriksnyheter",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa19012126/be655223-6.smil/thumb.jpg?t=1696&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1792,
+      "title": "Direkte: Davos",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa19012126/be655223-6.smil/thumb.jpg?t=1817&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1923,
+      "title": "Prinsessen 22 år",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa19012126/be655223-6.smil/thumb.jpg?t=1948&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2016,
+      "title": "Teater for første gang",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa19012126/be655223-6.smil/thumb.jpg?t=2042&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2140,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa19012126/be655223-6.smil/thumb.jpg?t=2165&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2148,
+      "title": "Høgh roses",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa19012126/be655223-6.smil/thumb.jpg?t=2174&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2243,
+      "title": "Haaland-kritikk",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa19012126/be655223-6.smil/thumb.jpg?t=2269&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2257,
+      "title": "Botn tilbake",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa19012126/be655223-6.smil/thumb.jpg?t=2283&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2344,
+      "title": "Ruud andre runde",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa19012126/be655223-6.smil/thumb.jpg?t=2370&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2386,
+      "title": "Håndball-EM",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa19012126/be655223-6.smil/thumb.jpg?t=2412&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2446,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa19012126/be655223-6.smil/thumb.jpg?t=2471&scale=480x270&v=high"
+    }
+  ]
+}
