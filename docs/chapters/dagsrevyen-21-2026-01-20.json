@@ -1,0 +1,58 @@
+{
+  "version": "1.2.0",
+  "title": "Tirsdag · Fotballfest i Bodø",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-01.akamaized.net/open/ps/nnfa/nnfa21012026/665a6902-19.smil/thumb.jpg?t=26&scale=480x270&v=high"
+    },
+    {
+      "startTime": 25,
+      "title": "Glimt–City",
+      "img": "https://nrk-od-world-01.akamaized.net/open/ps/nnfa/nnfa21012026/665a6902-19.smil/thumb.jpg?t=51&scale=480x270&v=high"
+    },
+    {
+      "startTime": 56,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-01.akamaized.net/open/ps/nnfa/nnfa21012026/665a6902-19.smil/thumb.jpg?t=81&scale=480x270&v=high"
+    },
+    {
+      "startTime": 144,
+      "title": "Trump pressekonferanse",
+      "img": "https://nrk-od-world-01.akamaized.net/open/ps/nnfa/nnfa21012026/665a6902-19.smil/thumb.jpg?t=170&scale=480x270&v=high"
+    },
+    {
+      "startTime": 193,
+      "title": "Trump-uro",
+      "img": "https://nrk-od-world-01.akamaized.net/open/ps/nnfa/nnfa21012026/665a6902-19.smil/thumb.jpg?t=218&scale=480x270&v=high"
+    },
+    {
+      "startTime": 276,
+      "title": "DAGSREVYPAKKE",
+      "img": "https://nrk-od-world-01.akamaized.net/open/ps/nnfa/nnfa21012026/665a6902-19.smil/thumb.jpg?t=301&scale=480x270&v=high"
+    },
+    {
+      "startTime": 396,
+      "title": "Nettpromo",
+      "img": "https://nrk-od-world-01.akamaized.net/open/ps/nnfa/nnfa21012026/665a6902-19.smil/thumb.jpg?t=421&scale=480x270&v=high"
+    },
+    {
+      "startTime": 413,
+      "title": "Skipskonkurranse",
+      "img": "https://nrk-od-world-01.akamaized.net/open/ps/nnfa/nnfa21012026/665a6902-19.smil/thumb.jpg?t=439&scale=480x270&v=high"
+    },
+    {
+      "startTime": 496,
+      "title": "Været",
+      "img": "https://nrk-od-world-01.akamaized.net/open/ps/nnfa/nnfa21012026/665a6902-19.smil/thumb.jpg?t=521&scale=480x270&v=high"
+    },
+    {
+      "startTime": 537,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-01.akamaized.net/open/ps/nnfa/nnfa21012026/665a6902-19.smil/thumb.jpg?t=556.67&scale=480x270&v=high"
+    }
+  ]
+}
