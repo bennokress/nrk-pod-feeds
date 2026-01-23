@@ -1,0 +1,133 @@
+{
+  "version": "1.2.0",
+  "title": "Historisk!",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 3,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa19012226/31d54c5e-15.smil/thumb.jpg?t=29&scale=480x270&v=high"
+    },
+    {
+      "startTime": 91,
+      "title": "Direkte LA",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa19012226/31d54c5e-15.smil/thumb.jpg?t=117&scale=480x270&v=high"
+    },
+    {
+      "startTime": 131,
+      "title": "Oscar",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa19012226/31d54c5e-15.smil/thumb.jpg?t=157&scale=480x270&v=high"
+    },
+    {
+      "startTime": 326,
+      "title": "Direkte LA",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa19012226/31d54c5e-15.smil/thumb.jpg?t=351&scale=480x270&v=high"
+    },
+    {
+      "startTime": 488,
+      "title": "Gjest Hobbelstad",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa19012226/31d54c5e-15.smil/thumb.jpg?t=514&scale=480x270&v=high"
+    },
+    {
+      "startTime": 643,
+      "title": "Grønland",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa19012226/31d54c5e-15.smil/thumb.jpg?t=669&scale=480x270&v=high"
+    },
+    {
+      "startTime": 759,
+      "title": "Direkte Brussel",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa19012226/31d54c5e-15.smil/thumb.jpg?t=785&scale=480x270&v=high"
+    },
+    {
+      "startTime": 880,
+      "title": "Direkte Grønland",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa19012226/31d54c5e-15.smil/thumb.jpg?t=906&scale=480x270&v=high"
+    },
+    {
+      "startTime": 995,
+      "title": "Davos-møtet",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa19012226/31d54c5e-15.smil/thumb.jpg?t=1021&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1252,
+      "title": "Nord-Korea",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa19012226/31d54c5e-15.smil/thumb.jpg?t=1278&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1360,
+      "title": "Kampen-drapet",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa19012226/31d54c5e-15.smil/thumb.jpg?t=1386&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1476,
+      "title": "Fanget i gondolen",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa19012226/31d54c5e-15.smil/thumb.jpg?t=1502&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1563,
+      "title": "Demens",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa19012226/31d54c5e-15.smil/thumb.jpg?t=1588&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1746,
+      "title": "Babyer i Nord",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa19012226/31d54c5e-15.smil/thumb.jpg?t=1772&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1849,
+      "title": "Kongeparet",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa19012226/31d54c5e-15.smil/thumb.jpg?t=1875&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1933,
+      "title": "Prins Harry",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa19012226/31d54c5e-15.smil/thumb.jpg?t=1958&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2000,
+      "title": "Direkte London",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa19012226/31d54c5e-15.smil/thumb.jpg?t=2025&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2095,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa19012226/31d54c5e-15.smil/thumb.jpg?t=2121&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2100,
+      "title": "Skiskyting",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa19012226/31d54c5e-15.smil/thumb.jpg?t=2125&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2170,
+      "title": "Ruud videre",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa19012226/31d54c5e-15.smil/thumb.jpg?t=2196&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2200,
+      "title": "Møller tilbake",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa19012226/31d54c5e-15.smil/thumb.jpg?t=2226&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2284,
+      "title": "Håndball-EM",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa19012226/31d54c5e-15.smil/thumb.jpg?t=2309&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2368,
+      "title": "Trailer Debatten",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa19012226/31d54c5e-15.smil/thumb.jpg?t=2393&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2395,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa19012226/31d54c5e-15.smil/thumb.jpg?t=2421&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2580,
+      "title": "Takk for nå",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa19012226/31d54c5e-15.smil/thumb.jpg?t=2605&scale=480x270&v=high"
+    }
+  ]
+}
