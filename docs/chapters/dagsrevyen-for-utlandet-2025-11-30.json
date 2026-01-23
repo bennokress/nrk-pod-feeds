@@ -1,0 +1,108 @@
+{
+  "version": "1.2.0",
+  "title": "30. november 2025",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen utenfor Norge og EU",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa20113025/ddf226cd-15.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 47,
+      "title": "Eliteserien",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa20113025/ddf226cd-15.smil/thumb.jpg?t=73&scale=480x270&v=high"
+    },
+    {
+      "startTime": 66,
+      "title": "Direkte Eliteserien",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa20113025/ddf226cd-15.smil/thumb.jpg?t=91&scale=480x270&v=high"
+    },
+    {
+      "startTime": 206,
+      "title": "Budsjettkaos",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa20113025/ddf226cd-15.smil/thumb.jpg?t=232&scale=480x270&v=high"
+    },
+    {
+      "startTime": 317,
+      "title": "Gjest Lars N",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa20113025/ddf226cd-15.smil/thumb.jpg?t=343&scale=480x270&v=high"
+    },
+    {
+      "startTime": 546,
+      "title": "Laks Kina",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa20113025/ddf226cd-15.smil/thumb.jpg?t=571&scale=480x270&v=high"
+    },
+    {
+      "startTime": 643,
+      "title": "Fengsling Sandefjord",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa20113025/ddf226cd-15.smil/thumb.jpg?t=669&scale=480x270&v=high"
+    },
+    {
+      "startTime": 660,
+      "title": "Oljefondet",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa20113025/ddf226cd-15.smil/thumb.jpg?t=685&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1044,
+      "title": "Pompes sykdom",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa20113025/ddf226cd-15.smil/thumb.jpg?t=1069&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1193,
+      "title": "Julegrantenning Oslo",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa20113025/ddf226cd-15.smil/thumb.jpg?t=1219&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1301,
+      "title": "UK",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa20113025/ddf226cd-15.smil/thumb.jpg?t=1326&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1675,
+      "title": "Ukraina",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa20113025/ddf226cd-15.smil/thumb.jpg?t=1700&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1976,
+      "title": "Gaza",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa20113025/ddf226cd-15.smil/thumb.jpg?t=2002&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2206,
+      "title": "Gullkampen",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa20113025/ddf226cd-15.smil/thumb.jpg?t=2232&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2295,
+      "title": "Direkte",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa20113025/ddf226cd-15.smil/thumb.jpg?t=2320&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2390,
+      "title": "Chelsea - Arsenal",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa20113025/ddf226cd-15.smil/thumb.jpg?t=2415&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2426,
+      "title": "West Ham-Liverpool",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa20113025/ddf226cd-15.smil/thumb.jpg?t=2451&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2525,
+      "title": "Skiskyting",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa20113025/ddf226cd-15.smil/thumb.jpg?t=2550&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2552,
+      "title": "Semenya",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa20113025/ddf226cd-15.smil/thumb.jpg?t=2577&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2749,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa20113025/ddf226cd-15.smil/thumb.jpg?t=2774&scale=480x270&v=high"
+    }
+  ]
+}
