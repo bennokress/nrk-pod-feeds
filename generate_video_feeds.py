@@ -41,9 +41,6 @@ PODCAST_NS = 'https://podcastindex.org/namespace/1.0'
 JSDELIVR_BASE = "https://cdn.jsdelivr.net/gh/bennokress/nrk-pod-feeds@main/docs/chapters"
 CHAPTERS_DIR = "docs/chapters"
 
-# Track generated chapter files for cleanup
-generated_chapter_files = set()
-
 # Track episode metadata for JSON chapters (keyed by video URL)
 episode_metadata = {}
 
@@ -58,6 +55,25 @@ def format_npt(seconds):
         return f"{hours}:{minutes:02d}:{secs:02d}"
     else:
         return f"{minutes}:{secs:02d}"
+
+
+def normalize_episode_title(title):
+    """
+    Strip dynamic temporal prefix from NRK episode titles.
+
+    NRK news programs use titles like "I dag · Actual Title" where the prefix
+    changes over time (I dag → I går → Weekday → Date). This causes podcast
+    apps to show duplicates when titles change. Stripping everything before
+    the " · " separator keeps titles stable.
+
+    Also strips leading "– " dash prefix that some episodes have.
+    """
+    separator = " · "
+    if separator in title:
+        title = title.split(separator, 1)[1]
+    if title.startswith("– "):
+        title = title[2:]
+    return title
 
 
 def generate_podcast_guid(feed_url):
@@ -118,31 +134,6 @@ def generate_chapters_json(series_id, episode_date, episode_title, chapters, ser
 
     logging.info(f"  Generated chapters JSON: {filename}")
     return filename, cdn_url
-
-
-def cleanup_old_chapter_files():
-    """
-    Remove orphaned chapter JSON files not generated in the current run.
-
-    Compares files in docs/chapters/ against generated_chapter_files set
-    and removes any that weren't generated.
-    """
-    if not os.path.exists(CHAPTERS_DIR):
-        return
-
-    existing_files = set(f for f in os.listdir(CHAPTERS_DIR) if f.endswith('.json'))
-    orphaned = existing_files - generated_chapter_files
-
-    for filename in orphaned:
-        filepath = os.path.join(CHAPTERS_DIR, filename)
-        try:
-            os.remove(filepath)
-            logging.info(f"Removed orphaned chapter file: {filename}")
-        except Exception as e:
-            logging.warning(f"Could not remove {filename}: {e}")
-
-    if orphaned:
-        logging.info(f"Cleaned up {len(orphaned)} orphaned chapter file(s)")
 
 
 def add_podcasting2_tags_to_rss(rss_path, series_id, series_title=None):
@@ -244,7 +235,6 @@ def add_podcasting2_tags_to_rss(rss_path, series_id, series_title=None):
                     series_title
                 )
                 if cdn_url:
-                    generated_chapter_files.add(filename)
                     chapters_elem = ET.SubElement(item, f'{{{PODCAST_NS}}}chapters')
                     chapters_elem.set('url', cdn_url)
                     chapters_elem.set('type', 'application/json+chapters')
@@ -413,7 +403,7 @@ def get_video_feed(series_id, season, feeds_dir, ep_count=10):
                 parsed_date = parser.parse(date)
                 episode_metadata[video_url] = {
                     'date': parsed_date,
-                    'title': episode_title,
+                    'title': normalize_episode_title(episode_title),
                     'series_id': series_id
                 }
             except:
@@ -427,7 +417,7 @@ def get_video_feed(series_id, season, feeds_dir, ep_count=10):
 
         # Create episode with video enclosure
         episode = Episode(
-            title=episode_title,
+            title=normalize_episode_title(episode_title),
             media=Media(video_url, 0, type=video_mime, duration=timedelta(seconds=duration)),
             summary=episode_subtitle,
             image=episode_image
@@ -537,9 +527,6 @@ if __name__ == '__main__':
             continue
 
         write_video_xml(feeds_dir, series_id, feed)
-
-    # Clean up orphaned chapter files from previous runs
-    cleanup_old_chapter_files()
 
     write_video_feeds_file(feeds_file, programs, feeds_dir)
     logging.info("Done")
