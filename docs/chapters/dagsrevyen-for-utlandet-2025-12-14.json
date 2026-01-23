@@ -1,0 +1,113 @@
+{
+  "version": "1.2.0",
+  "title": "Hylles som helt",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen utenfor Norge og EU",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa20121425/1f007bbc-16.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 83,
+      "title": "Terror Sydney",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa20121425/1f007bbc-16.smil/thumb.jpg?t=109&scale=480x270&v=high"
+    },
+    {
+      "startTime": 354,
+      "title": "Håndball",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa20121425/1f007bbc-16.smil/thumb.jpg?t=379&scale=480x270&v=high"
+    },
+    {
+      "startTime": 364,
+      "title": "Håndball-finale",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa20121425/1f007bbc-16.smil/thumb.jpg?t=389&scale=480x270&v=high"
+    },
+    {
+      "startTime": 561,
+      "title": "Drap Orkland",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa20121425/1f007bbc-16.smil/thumb.jpg?t=586&scale=480x270&v=high"
+    },
+    {
+      "startTime": 651,
+      "title": "Ukraina",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa20121425/1f007bbc-16.smil/thumb.jpg?t=676&scale=480x270&v=high"
+    },
+    {
+      "startTime": 780,
+      "title": "Skyting USA",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa20121425/1f007bbc-16.smil/thumb.jpg?t=806&scale=480x270&v=high"
+    },
+    {
+      "startTime": 797,
+      "title": "Gründere",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa20121425/1f007bbc-16.smil/thumb.jpg?t=823&scale=480x270&v=high"
+    },
+    {
+      "startTime": 955,
+      "title": "Ukraina",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa20121425/1f007bbc-16.smil/thumb.jpg?t=981&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1236,
+      "title": "Brasil",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa20121425/1f007bbc-16.smil/thumb.jpg?t=1262&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1643,
+      "title": "Nobel",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa20121425/1f007bbc-16.smil/thumb.jpg?t=1668&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2026,
+      "title": "Håndball-VM",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa20121425/1f007bbc-16.smil/thumb.jpg?t=2052&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2061,
+      "title": "Håndball-finale",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa20121425/1f007bbc-16.smil/thumb.jpg?t=2086&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2147,
+      "title": "Lunde avskjed",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa20121425/1f007bbc-16.smil/thumb.jpg?t=2172&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2237,
+      "title": "Palace-City",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa20121425/1f007bbc-16.smil/thumb.jpg?t=2263&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2286,
+      "title": "Langrenn",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa20121425/1f007bbc-16.smil/thumb.jpg?t=2311&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2382,
+      "title": "Overraskende seier",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa20121425/1f007bbc-16.smil/thumb.jpg?t=2407&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2441,
+      "title": "Haugan vant",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa20121425/1f007bbc-16.smil/thumb.jpg?t=2467&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2480,
+      "title": "Vant stafett",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa20121425/1f007bbc-16.smil/thumb.jpg?t=2505&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2559,
+      "title": "Snø",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa20121425/1f007bbc-16.smil/thumb.jpg?t=2585&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2713,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa20121425/1f007bbc-16.smil/thumb.jpg?t=2738&scale=480x270&v=high"
+    }
+  ]
+}
