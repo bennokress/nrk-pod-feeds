@@ -1,0 +1,63 @@
+{
+  "version": "1.2.0",
+  "title": "Vil selge rom i bokollektiv",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa21012526/d0410bd7-16.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 29,
+      "title": "Minneapolis",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa21012526/d0410bd7-16.smil/thumb.jpg?t=54&scale=480x270&v=high"
+    },
+    {
+      "startTime": 76,
+      "title": "Gjest:",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa21012526/d0410bd7-16.smil/thumb.jpg?t=102&scale=480x270&v=high"
+    },
+    {
+      "startTime": 188,
+      "title": "Rom i bokollektiv",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa21012526/d0410bd7-16.smil/thumb.jpg?t=214&scale=480x270&v=high"
+    },
+    {
+      "startTime": 291,
+      "title": "Død Namsos",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa21012526/d0410bd7-16.smil/thumb.jpg?t=317&scale=480x270&v=high"
+    },
+    {
+      "startTime": 312,
+      "title": "Iran",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa21012526/d0410bd7-16.smil/thumb.jpg?t=337&scale=480x270&v=high"
+    },
+    {
+      "startTime": 341,
+      "title": "MGP-artister",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa21012526/d0410bd7-16.smil/thumb.jpg?t=366&scale=480x270&v=high"
+    },
+    {
+      "startTime": 366,
+      "title": "Kristne festivaler",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa21012526/d0410bd7-16.smil/thumb.jpg?t=391&scale=480x270&v=high"
+    },
+    {
+      "startTime": 468,
+      "title": "Været",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa21012526/d0410bd7-16.smil/thumb.jpg?t=494&scale=480x270&v=high"
+    },
+    {
+      "startTime": 517,
+      "title": "DAGENS BILDE",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa21012526/d0410bd7-16.smil/thumb.jpg?t=543&scale=480x270&v=high"
+    },
+    {
+      "startTime": 535,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa21012526/d0410bd7-16.smil/thumb.jpg?t=554.44&scale=480x270&v=high"
+    }
+  ]
+}
