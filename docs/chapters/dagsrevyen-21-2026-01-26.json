@@ -1,0 +1,58 @@
+{
+  "version": "1.2.0",
+  "title": "Nato-sjefen med klar beskjed",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa21012626/8b7ca314-17.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 35,
+      "title": "Rutte-Nato",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa21012626/8b7ca314-17.smil/thumb.jpg?t=61&scale=480x270&v=high"
+    },
+    {
+      "startTime": 100,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa21012626/8b7ca314-17.smil/thumb.jpg?t=126&scale=480x270&v=high"
+    },
+    {
+      "startTime": 199,
+      "title": "DAGSREVYPAKKE",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa21012626/8b7ca314-17.smil/thumb.jpg?t=225&scale=480x270&v=high"
+    },
+    {
+      "startTime": 309,
+      "title": "Nettpromo",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa21012626/8b7ca314-17.smil/thumb.jpg?t=335&scale=480x270&v=high"
+    },
+    {
+      "startTime": 323,
+      "title": "ICE-drapet",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa21012626/8b7ca314-17.smil/thumb.jpg?t=349&scale=480x270&v=high"
+    },
+    {
+      "startTime": 378,
+      "title": "Gaza",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa21012626/8b7ca314-17.smil/thumb.jpg?t=404&scale=480x270&v=high"
+    },
+    {
+      "startTime": 400,
+      "title": "Ønsker betre synskontroll for barn",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa21012626/8b7ca314-17.smil/thumb.jpg?t=425&scale=480x270&v=high"
+    },
+    {
+      "startTime": 500,
+      "title": "Været",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa21012626/8b7ca314-17.smil/thumb.jpg?t=525&scale=480x270&v=high"
+    },
+    {
+      "startTime": 551,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa21012626/8b7ca314-17.smil/thumb.jpg?t=571.6&scale=480x270&v=high"
+    }
+  ]
+}
