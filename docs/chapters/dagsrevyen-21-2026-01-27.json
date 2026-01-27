@@ -1,0 +1,53 @@
+{
+  "version": "1.2.0",
+  "title": "Trump: – Du kan ikke gå med våpen",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa21012726/7b0ca0fc-16.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 29,
+      "title": "Trump Minneapolis",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa21012726/7b0ca0fc-16.smil/thumb.jpg?t=55&scale=480x270&v=high"
+    },
+    {
+      "startTime": 124,
+      "title": "Nettpromo",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa21012726/7b0ca0fc-16.smil/thumb.jpg?t=149&scale=480x270&v=high"
+    },
+    {
+      "startTime": 144,
+      "title": "DAGSREVYPAKKE",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa21012726/7b0ca0fc-16.smil/thumb.jpg?t=169&scale=480x270&v=high"
+    },
+    {
+      "startTime": 239,
+      "title": "Tjelsund",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa21012726/7b0ca0fc-16.smil/thumb.jpg?t=264&scale=480x270&v=high"
+    },
+    {
+      "startTime": 285,
+      "title": "Industrien manglar arbeidskraft",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa21012726/7b0ca0fc-16.smil/thumb.jpg?t=310&scale=480x270&v=high"
+    },
+    {
+      "startTime": 385,
+      "title": "Kaos Bergen",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa21012726/7b0ca0fc-16.smil/thumb.jpg?t=410&scale=480x270&v=high"
+    },
+    {
+      "startTime": 448,
+      "title": "Været",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa21012726/7b0ca0fc-16.smil/thumb.jpg?t=473&scale=480x270&v=high"
+    },
+    {
+      "startTime": 500,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa21012726/7b0ca0fc-16.smil/thumb.jpg?t=519.67&scale=480x270&v=high"
+    }
+  ]
+}
