@@ -1,0 +1,63 @@
+{
+  "version": "1.2.0",
+  "title": "Suspenderer agenter",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-95.akamaized.net/open/ps/nnfa/nnfa21012826/97fd9f4a-17.smil/thumb.jpg?t=26&scale=480x270&v=high"
+    },
+    {
+      "startTime": 30,
+      "title": "Rente USA",
+      "img": "https://nrk-od-world-95.akamaized.net/open/ps/nnfa/nnfa21012826/97fd9f4a-17.smil/thumb.jpg?t=56&scale=480x270&v=high"
+    },
+    {
+      "startTime": 57,
+      "title": "Markering ICE",
+      "img": "https://nrk-od-world-95.akamaized.net/open/ps/nnfa/nnfa21012826/97fd9f4a-17.smil/thumb.jpg?t=82&scale=480x270&v=high"
+    },
+    {
+      "startTime": 105,
+      "title": "DAGSREVYPAKKE",
+      "img": "https://nrk-od-world-95.akamaized.net/open/ps/nnfa/nnfa21012826/97fd9f4a-17.smil/thumb.jpg?t=130&scale=480x270&v=high"
+    },
+    {
+      "startTime": 229,
+      "title": "Agenter suspendert",
+      "img": "https://nrk-od-world-95.akamaized.net/open/ps/nnfa/nnfa21012826/97fd9f4a-17.smil/thumb.jpg?t=254&scale=480x270&v=high"
+    },
+    {
+      "startTime": 340,
+      "title": "Norgesnyheter",
+      "img": "https://nrk-od-world-95.akamaized.net/open/ps/nnfa/nnfa21012826/97fd9f4a-17.smil/thumb.jpg?t=366&scale=480x270&v=high"
+    },
+    {
+      "startTime": 457,
+      "title": "Nettpromo",
+      "img": "https://nrk-od-world-95.akamaized.net/open/ps/nnfa/nnfa21012826/97fd9f4a-17.smil/thumb.jpg?t=482&scale=480x270&v=high"
+    },
+    {
+      "startTime": 475,
+      "title": "Atletico–Glimt",
+      "img": "https://nrk-od-world-95.akamaized.net/open/ps/nnfa/nnfa21012826/97fd9f4a-17.smil/thumb.jpg?t=500&scale=480x270&v=high"
+    },
+    {
+      "startTime": 502,
+      "title": "PK Brann",
+      "img": "https://nrk-od-world-95.akamaized.net/open/ps/nnfa/nnfa21012826/97fd9f4a-17.smil/thumb.jpg?t=528&scale=480x270&v=high"
+    },
+    {
+      "startTime": 557,
+      "title": "Været",
+      "img": "https://nrk-od-world-95.akamaized.net/open/ps/nnfa/nnfa21012826/97fd9f4a-17.smil/thumb.jpg?t=582&scale=480x270&v=high"
+    },
+    {
+      "startTime": 607,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-95.akamaized.net/open/ps/nnfa/nnfa21012826/97fd9f4a-17.smil/thumb.jpg?t=626.55&scale=480x270&v=high"
+    }
+  ]
+}
