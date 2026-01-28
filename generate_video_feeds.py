@@ -327,7 +327,6 @@ def get_video_feed(series_id, season, feeds_dir, ep_count=10):
         generator=podgen_agent,
         website=web_url,
         image=image,
-        withhold_from_itunes=True,
         explicit=False,
         language="no"
     )

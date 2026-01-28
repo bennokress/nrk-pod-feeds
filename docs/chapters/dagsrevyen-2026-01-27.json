@@ -1,0 +1,138 @@
+{
+  "version": "1.2.0",
+  "title": "Vi skyter ikke våre borgere",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 8,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa19012726/3e602891-16.smil/thumb.jpg?t=33&scale=480x270&v=high"
+    },
+    {
+      "startTime": 64,
+      "title": "Minneapolis",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa19012726/3e602891-16.smil/thumb.jpg?t=90&scale=480x270&v=high"
+    },
+    {
+      "startTime": 222,
+      "title": "Direkte Minneapolis",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa19012726/3e602891-16.smil/thumb.jpg?t=247&scale=480x270&v=high"
+    },
+    {
+      "startTime": 346,
+      "title": "Våpenkjøp",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa19012726/3e602891-16.smil/thumb.jpg?t=371&scale=480x270&v=high"
+    },
+    {
+      "startTime": 474,
+      "title": "Meningsmåling",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa19012726/3e602891-16.smil/thumb.jpg?t=500&scale=480x270&v=high"
+    },
+    {
+      "startTime": 520,
+      "title": "Gjest N. Sand",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa19012726/3e602891-16.smil/thumb.jpg?t=545&scale=480x270&v=high"
+    },
+    {
+      "startTime": 640,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa19012726/3e602891-16.smil/thumb.jpg?t=666&scale=480x270&v=high"
+    },
+    {
+      "startTime": 718,
+      "title": "EU-India",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa19012726/3e602891-16.smil/thumb.jpg?t=743&scale=480x270&v=high"
+    },
+    {
+      "startTime": 902,
+      "title": "Direkte Brussel",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa19012726/3e602891-16.smil/thumb.jpg?t=927&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1020,
+      "title": "Gjest Andreas Moxnes",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa19012726/3e602891-16.smil/thumb.jpg?t=1046&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1177,
+      "title": "Anoreksi",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa19012726/3e602891-16.smil/thumb.jpg?t=1203&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1333,
+      "title": "Gisler Gaza",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa19012726/3e602891-16.smil/thumb.jpg?t=1358&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1358,
+      "title": "Iran",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa19012726/3e602891-16.smil/thumb.jpg?t=1384&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1402,
+      "title": "Gjest Wolasmal",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa19012726/3e602891-16.smil/thumb.jpg?t=1428&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1552,
+      "title": "Holocaust-dagen",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa19012726/3e602891-16.smil/thumb.jpg?t=1578&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1685,
+      "title": "Direkte Trondheim",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa19012726/3e602891-16.smil/thumb.jpg?t=1710&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1782,
+      "title": "Humanitært arbeid",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa19012726/3e602891-16.smil/thumb.jpg?t=1807&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1906,
+      "title": "Ingrid Alexandra",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa19012726/3e602891-16.smil/thumb.jpg?t=1932&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2033,
+      "title": "BAFTA",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa19012726/3e602891-16.smil/thumb.jpg?t=2059&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2063,
+      "title": "Nytt fra Norge",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa19012726/3e602891-16.smil/thumb.jpg?t=2088&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2161,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa19012726/3e602891-16.smil/thumb.jpg?t=2186&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2166,
+      "title": "Glimt PK",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa19012726/3e602891-16.smil/thumb.jpg?t=2191&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2255,
+      "title": "Eitrem hjemme",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa19012726/3e602891-16.smil/thumb.jpg?t=2281&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2340,
+      "title": "Dopingundersøkelse",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa19012726/3e602891-16.smil/thumb.jpg?t=2366&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2458,
+      "title": "Trailer Debatten",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa19012726/3e602891-16.smil/thumb.jpg?t=2483&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2486,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa19012726/3e602891-16.smil/thumb.jpg?t=2511&scale=480x270&v=high"
+    }
+  ]
+}
