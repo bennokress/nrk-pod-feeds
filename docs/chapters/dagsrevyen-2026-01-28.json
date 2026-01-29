@@ -1,0 +1,133 @@
+{
+  "version": "1.2.0",
+  "title": "Deltar ikke i rettssaken",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 13,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa19012826/48667e51-20.smil/thumb.jpg?t=38&scale=480x270&v=high"
+    },
+    {
+      "startTime": 90,
+      "title": "Kronprinsen om rettssak",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa19012826/48667e51-20.smil/thumb.jpg?t=116&scale=480x270&v=high"
+    },
+    {
+      "startTime": 235,
+      "title": "Gjest Stanghelle",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa19012826/48667e51-20.smil/thumb.jpg?t=260&scale=480x270&v=high"
+    },
+    {
+      "startTime": 396,
+      "title": "Truer Iran",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa19012826/48667e51-20.smil/thumb.jpg?t=421&scale=480x270&v=high"
+    },
+    {
+      "startTime": 471,
+      "title": "Direkte Washington",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa19012826/48667e51-20.smil/thumb.jpg?t=496&scale=480x270&v=high"
+    },
+    {
+      "startTime": 556,
+      "title": "Fortsatt EU-nei",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa19012826/48667e51-20.smil/thumb.jpg?t=581&scale=480x270&v=high"
+    },
+    {
+      "startTime": 703,
+      "title": "Sykehuset Stavanger",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa19012826/48667e51-20.smil/thumb.jpg?t=728&scale=480x270&v=high"
+    },
+    {
+      "startTime": 826,
+      "title": "Siktet ulykke",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa19012826/48667e51-20.smil/thumb.jpg?t=851&scale=480x270&v=high"
+    },
+    {
+      "startTime": 848,
+      "title": "Rettssak",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa19012826/48667e51-20.smil/thumb.jpg?t=874&scale=480x270&v=high"
+    },
+    {
+      "startTime": 899,
+      "title": "Paracet mot angst",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa19012826/48667e51-20.smil/thumb.jpg?t=925&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1008,
+      "title": "Trudeau i Norge",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa19012826/48667e51-20.smil/thumb.jpg?t=1033&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1115,
+      "title": "Starmer Kina",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa19012826/48667e51-20.smil/thumb.jpg?t=1140&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1137,
+      "title": "Direkte London",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa19012826/48667e51-20.smil/thumb.jpg?t=1163&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1250,
+      "title": "Habilitetssak Sørlandet",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa19012826/48667e51-20.smil/thumb.jpg?t=1275&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1413,
+      "title": "Israel",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa19012826/48667e51-20.smil/thumb.jpg?t=1439&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1440,
+      "title": "Gaza",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa19012826/48667e51-20.smil/thumb.jpg?t=1465&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1619,
+      "title": "Gjest Befring",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa19012826/48667e51-20.smil/thumb.jpg?t=1645&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1859,
+      "title": "Kuer metan",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa19012826/48667e51-20.smil/thumb.jpg?t=1884&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1980,
+      "title": "Lang applaus",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa19012826/48667e51-20.smil/thumb.jpg?t=2005&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2151,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa19012826/48667e51-20.smil/thumb.jpg?t=2176&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2155,
+      "title": "Før Glimt-kamp",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa19012826/48667e51-20.smil/thumb.jpg?t=2180&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2199,
+      "title": "Direkte Madrid",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa19012826/48667e51-20.smil/thumb.jpg?t=2224&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2273,
+      "title": "Dopingundersøkelse",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa19012826/48667e51-20.smil/thumb.jpg?t=2298&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2445,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa19012826/48667e51-20.smil/thumb.jpg?t=2470&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2607,
+      "title": "ICE-agenter",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa19012826/48667e51-20.smil/thumb.jpg?t=2632&scale=480x270&v=high"
+    }
+  ]
+}
