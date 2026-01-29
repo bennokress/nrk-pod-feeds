@@ -1,0 +1,58 @@
+{
+  "version": "1.2.0",
+  "title": "Ekstrem kulde i Ukraina",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa21012926/9d923ac8-17.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 26,
+      "title": "Trump Ukraina",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa21012926/9d923ac8-17.smil/thumb.jpg?t=52&scale=480x270&v=high"
+    },
+    {
+      "startTime": 120,
+      "title": "Millehaugen død",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa21012926/9d923ac8-17.smil/thumb.jpg?t=146&scale=480x270&v=high"
+    },
+    {
+      "startTime": 215,
+      "title": "Oljefondet",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa21012926/9d923ac8-17.smil/thumb.jpg?t=241&scale=480x270&v=high"
+    },
+    {
+      "startTime": 234,
+      "title": "Nettpromo",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa21012926/9d923ac8-17.smil/thumb.jpg?t=259&scale=480x270&v=high"
+    },
+    {
+      "startTime": 253,
+      "title": "EU Brussel",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa21012926/9d923ac8-17.smil/thumb.jpg?t=279&scale=480x270&v=high"
+    },
+    {
+      "startTime": 345,
+      "title": "Gallamiddag",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa21012926/9d923ac8-17.smil/thumb.jpg?t=371&scale=480x270&v=high"
+    },
+    {
+      "startTime": 367,
+      "title": "Bodø/Glimts hjemkomst",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa21012926/9d923ac8-17.smil/thumb.jpg?t=392&scale=480x270&v=high"
+    },
+    {
+      "startTime": 487,
+      "title": "Været",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa21012926/9d923ac8-17.smil/thumb.jpg?t=512&scale=480x270&v=high"
+    },
+    {
+      "startTime": 537,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa21012926/9d923ac8-17.smil/thumb.jpg?t=555.76&scale=480x270&v=high"
+    }
+  ]
+}
