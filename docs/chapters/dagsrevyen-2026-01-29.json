@@ -1,0 +1,128 @@
+{
+  "version": "1.2.0",
+  "title": "Funnet død på cella",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 9,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa19012926/582a36bf-16.smil/thumb.jpg?t=34&scale=480x270&v=high"
+    },
+    {
+      "startTime": 59,
+      "title": "Millehaugen død",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa19012926/582a36bf-16.smil/thumb.jpg?t=85&scale=480x270&v=high"
+    },
+    {
+      "startTime": 184,
+      "title": "Gjest Ravndal",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa19012926/582a36bf-16.smil/thumb.jpg?t=210&scale=480x270&v=high"
+    },
+    {
+      "startTime": 276,
+      "title": "Minneapolis",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa19012926/582a36bf-16.smil/thumb.jpg?t=301&scale=480x270&v=high"
+    },
+    {
+      "startTime": 389,
+      "title": "Ukraina kulden",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa19012926/582a36bf-16.smil/thumb.jpg?t=414&scale=480x270&v=high"
+    },
+    {
+      "startTime": 449,
+      "title": "Oljefondet resultat",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa19012926/582a36bf-16.smil/thumb.jpg?t=474&scale=480x270&v=high"
+    },
+    {
+      "startTime": 763,
+      "title": "Stortingskomiteen i EU",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa19012926/582a36bf-16.smil/thumb.jpg?t=788&scale=480x270&v=high"
+    },
+    {
+      "startTime": 805,
+      "title": "Direkte Brussel",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa19012926/582a36bf-16.smil/thumb.jpg?t=831&scale=480x270&v=high"
+    },
+    {
+      "startTime": 905,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa19012926/582a36bf-16.smil/thumb.jpg?t=930&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1045,
+      "title": "Kinesisk elbil",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa19012926/582a36bf-16.smil/thumb.jpg?t=1071&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1170,
+      "title": "Starmer i Kina",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa19012926/582a36bf-16.smil/thumb.jpg?t=1195&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1224,
+      "title": "Sprengkulde",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa19012926/582a36bf-16.smil/thumb.jpg?t=1250&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1350,
+      "title": "Direkte Kristiansand",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa19012926/582a36bf-16.smil/thumb.jpg?t=1376&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1508,
+      "title": "Mangel på faglærte",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa19012926/582a36bf-16.smil/thumb.jpg?t=1533&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1611,
+      "title": "Glimt hjemkomst",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa19012926/582a36bf-16.smil/thumb.jpg?t=1637&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1723,
+      "title": "Gjest Haugstad",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa19012926/582a36bf-16.smil/thumb.jpg?t=1748&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1908,
+      "title": "VM-feber",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa19012926/582a36bf-16.smil/thumb.jpg?t=1934&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2018,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa19012926/582a36bf-16.smil/thumb.jpg?t=2043&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2022,
+      "title": "Branns skjebnekamp",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa19012926/582a36bf-16.smil/thumb.jpg?t=2048&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2071,
+      "title": "Direkte Østerrike",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa19012926/582a36bf-16.smil/thumb.jpg?t=2096&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2222,
+      "title": "Nilsen vant v-cup",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa19012926/582a36bf-16.smil/thumb.jpg?t=2247&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2256,
+      "title": "EM, underskudd",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa19012926/582a36bf-16.smil/thumb.jpg?t=2282&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2369,
+      "title": "Trailer Debatten",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa19012926/582a36bf-16.smil/thumb.jpg?t=2395&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2394,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa19012926/582a36bf-16.smil/thumb.jpg?t=2419&scale=480x270&v=high"
+    }
+  ]
+}
