@@ -1,0 +1,138 @@
+{
+  "version": "1.2.0",
+  "title": "25. januar",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen utenfor Norge og EU",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa20012526/e9e3af42-22.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 62,
+      "title": "Direkte: Minneapolis",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa20012526/e9e3af42-22.smil/thumb.jpg?t=88&scale=480x270&v=high"
+    },
+    {
+      "startTime": 141,
+      "title": "Minneapolis",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa20012526/e9e3af42-22.smil/thumb.jpg?t=166&scale=480x270&v=high"
+    },
+    {
+      "startTime": 343,
+      "title": "Gjest: Sofie Høgestøl",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa20012526/e9e3af42-22.smil/thumb.jpg?t=369&scale=480x270&v=high"
+    },
+    {
+      "startTime": 475,
+      "title": "Direkte: Minneapolis",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa20012526/e9e3af42-22.smil/thumb.jpg?t=501&scale=480x270&v=high"
+    },
+    {
+      "startTime": 588,
+      "title": "Bonusprogrammer",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa20012526/e9e3af42-22.smil/thumb.jpg?t=614&scale=480x270&v=high"
+    },
+    {
+      "startTime": 719,
+      "title": "Død Namsos",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa20012526/e9e3af42-22.smil/thumb.jpg?t=744&scale=480x270&v=high"
+    },
+    {
+      "startTime": 741,
+      "title": "Direkte: Nuuk",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa20012526/e9e3af42-22.smil/thumb.jpg?t=767&scale=480x270&v=high"
+    },
+    {
+      "startTime": 812,
+      "title": "Grønland",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa20012526/e9e3af42-22.smil/thumb.jpg?t=838&scale=480x270&v=high"
+    },
+    {
+      "startTime": 914,
+      "title": "Prinsesse i Finnmark",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa20012526/e9e3af42-22.smil/thumb.jpg?t=939&scale=480x270&v=high"
+    },
+    {
+      "startTime": 970,
+      "title": "Vinterstorm i USA",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa20012526/e9e3af42-22.smil/thumb.jpg?t=996&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1071,
+      "title": "Statsstøtte livssyn",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa20012526/e9e3af42-22.smil/thumb.jpg?t=1097&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1181,
+      "title": "MGP-artister",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa20012526/e9e3af42-22.smil/thumb.jpg?t=1207&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1202,
+      "title": "Fugletelling",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa20012526/e9e3af42-22.smil/thumb.jpg?t=1228&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1381,
+      "title": "Nazistlandsby",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa20012526/e9e3af42-22.smil/thumb.jpg?t=1407&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1692,
+      "title": "Katter i Istanbul",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa20012526/e9e3af42-22.smil/thumb.jpg?t=1718&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1933,
+      "title": "Jakob Martin Strid",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa20012526/e9e3af42-22.smil/thumb.jpg?t=1959&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2239,
+      "title": "Monte Carlo",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa20012526/e9e3af42-22.smil/thumb.jpg?t=2264&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2306,
+      "title": "Marcialonga",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa20012526/e9e3af42-22.smil/thumb.jpg?t=2331&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2400,
+      "title": "Langrenn herrer",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa20012526/e9e3af42-22.smil/thumb.jpg?t=2425&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2464,
+      "title": "Nyhetspakke",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa20012526/e9e3af42-22.smil/thumb.jpg?t=2489&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2524,
+      "title": "VM skiflyging",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa20012526/e9e3af42-22.smil/thumb.jpg?t=2549&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2551,
+      "title": "Aspenes pall",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa20012526/e9e3af42-22.smil/thumb.jpg?t=2577&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2576,
+      "title": "Arsenal-United",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa20012526/e9e3af42-22.smil/thumb.jpg?t=2602&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2627,
+      "title": "Dopingunderøkelse",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa20012526/e9e3af42-22.smil/thumb.jpg?t=2652&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2798,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa20012526/e9e3af42-22.smil/thumb.jpg?t=2823&scale=480x270&v=high"
+    }
+  ]
+}
