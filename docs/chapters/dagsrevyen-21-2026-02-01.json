@@ -1,0 +1,63 @@
+{
+  "version": "1.2.0",
+  "title": "De har utvist dårlig dømmekraft",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa21020126/40f515cc-17.smil/thumb.jpg?t=26&scale=480x270&v=high"
+    },
+    {
+      "startTime": 43,
+      "title": "Støre om Epstein-saken",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa21020126/40f515cc-17.smil/thumb.jpg?t=69&scale=480x270&v=high"
+    },
+    {
+      "startTime": 139,
+      "title": "Solberg om Brende",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa21020126/40f515cc-17.smil/thumb.jpg?t=164&scale=480x270&v=high"
+    },
+    {
+      "startTime": 169,
+      "title": "Grenseovergang åpnet",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa21020126/40f515cc-17.smil/thumb.jpg?t=195&scale=480x270&v=high"
+    },
+    {
+      "startTime": 273,
+      "title": "Redningsaksjon Sunndal",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa21020126/40f515cc-17.smil/thumb.jpg?t=298&scale=480x270&v=high"
+    },
+    {
+      "startTime": 299,
+      "title": "Demonstrasjon Tsjekkia",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa21020126/40f515cc-17.smil/thumb.jpg?t=325&scale=480x270&v=high"
+    },
+    {
+      "startTime": 321,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa21020126/40f515cc-17.smil/thumb.jpg?t=346&scale=480x270&v=high"
+    },
+    {
+      "startTime": 416,
+      "title": "Demonstrasjon Oslo",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa21020126/40f515cc-17.smil/thumb.jpg?t=441&scale=480x270&v=high"
+    },
+    {
+      "startTime": 451,
+      "title": "OL-ilden",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa21020126/40f515cc-17.smil/thumb.jpg?t=476&scale=480x270&v=high"
+    },
+    {
+      "startTime": 480,
+      "title": "Været",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa21020126/40f515cc-17.smil/thumb.jpg?t=506&scale=480x270&v=high"
+    },
+    {
+      "startTime": 530,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa21020126/40f515cc-17.smil/thumb.jpg?t=553.84&scale=480x270&v=high"
+    }
+  ]
+}
