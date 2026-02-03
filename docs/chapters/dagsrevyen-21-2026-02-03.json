@@ -1,0 +1,63 @@
+{
+  "version": "1.2.0",
+  "title": "Angriper statsadvokatens pressekonferanse",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa21020326/36ca2e1e-17.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 27,
+      "title": "Redd for forhåndsdømming",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa21020326/36ca2e1e-17.smil/thumb.jpg?t=52&scale=480x270&v=high"
+    },
+    {
+      "startTime": 139,
+      "title": "DAGSREVYPAKKE",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa21020326/36ca2e1e-17.smil/thumb.jpg?t=165&scale=480x270&v=high"
+    },
+    {
+      "startTime": 223,
+      "title": "Mette-Marit og Epstein",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa21020326/36ca2e1e-17.smil/thumb.jpg?t=249&scale=480x270&v=high"
+    },
+    {
+      "startTime": 259,
+      "title": "USA",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa21020326/36ca2e1e-17.smil/thumb.jpg?t=285&scale=480x270&v=high"
+    },
+    {
+      "startTime": 279,
+      "title": "Fravær i skolen",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa21020326/36ca2e1e-17.smil/thumb.jpg?t=304&scale=480x270&v=high"
+    },
+    {
+      "startTime": 331,
+      "title": "Aursnes tilbake for Norge",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa21020326/36ca2e1e-17.smil/thumb.jpg?t=356&scale=480x270&v=high"
+    },
+    {
+      "startTime": 346,
+      "title": "Gammel is",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa21020326/36ca2e1e-17.smil/thumb.jpg?t=372&scale=480x270&v=high"
+    },
+    {
+      "startTime": 452,
+      "title": "Fugletelling",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa21020326/36ca2e1e-17.smil/thumb.jpg?t=478&scale=480x270&v=high"
+    },
+    {
+      "startTime": 486,
+      "title": "Været",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa21020326/36ca2e1e-17.smil/thumb.jpg?t=512&scale=480x270&v=high"
+    },
+    {
+      "startTime": 540,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa21020326/36ca2e1e-17.smil/thumb.jpg?t=557.6&scale=480x270&v=high"
+    }
+  ]
+}
