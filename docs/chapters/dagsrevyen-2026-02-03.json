@@ -1,0 +1,133 @@
+{
+  "version": "1.2.0",
+  "title": "Nekter straffskyld",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 5,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa19020326/c9dd2d4e-16.smil/thumb.jpg?t=30&scale=480x270&v=high"
+    },
+    {
+      "startTime": 63,
+      "title": "Høiby-saken",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa19020326/c9dd2d4e-16.smil/thumb.jpg?t=89&scale=480x270&v=high"
+    },
+    {
+      "startTime": 420,
+      "title": "Gjester:Meling & Ravndal",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa19020326/c9dd2d4e-16.smil/thumb.jpg?t=446&scale=480x270&v=high"
+    },
+    {
+      "startTime": 644,
+      "title": "Epstein-dokumentene",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa19020326/c9dd2d4e-16.smil/thumb.jpg?t=669&scale=480x270&v=high"
+    },
+    {
+      "startTime": 727,
+      "title": "Sikkerhet i nord",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa19020326/c9dd2d4e-16.smil/thumb.jpg?t=753&scale=480x270&v=high"
+    },
+    {
+      "startTime": 738,
+      "title": "Direkte: Tromsø",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa19020326/c9dd2d4e-16.smil/thumb.jpg?t=763&scale=480x270&v=high"
+    },
+    {
+      "startTime": 791,
+      "title": "Sikkerhet i nord",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa19020326/c9dd2d4e-16.smil/thumb.jpg?t=816&scale=480x270&v=high"
+    },
+    {
+      "startTime": 896,
+      "title": "Melkøya",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa19020326/c9dd2d4e-16.smil/thumb.jpg?t=921&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1018,
+      "title": "Angrep Ukraina",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa19020326/c9dd2d4e-16.smil/thumb.jpg?t=1044&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1125,
+      "title": "Direkte: Kyiv",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa19020326/c9dd2d4e-16.smil/thumb.jpg?t=1150&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1207,
+      "title": "Argentina",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa19020326/c9dd2d4e-16.smil/thumb.jpg?t=1233&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1240,
+      "title": "Dyrt bunadssølv",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa19020326/c9dd2d4e-16.smil/thumb.jpg?t=1266&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1370,
+      "title": "Australia",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa19020326/c9dd2d4e-16.smil/thumb.jpg?t=1396&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1471,
+      "title": "Iransk drone",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa19020326/c9dd2d4e-16.smil/thumb.jpg?t=1497&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1500,
+      "title": "Stortinget monarki",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa19020326/c9dd2d4e-16.smil/thumb.jpg?t=1526&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1546,
+      "title": "Redaktører etikk",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa19020326/c9dd2d4e-16.smil/thumb.jpg?t=1572&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1902,
+      "title": "Trailer Debatten",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa19020326/c9dd2d4e-16.smil/thumb.jpg?t=1928&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1933,
+      "title": "Nordisk manga",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa19020326/c9dd2d4e-16.smil/thumb.jpg?t=1958&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2051,
+      "title": "Barne-OL",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa19020326/c9dd2d4e-16.smil/thumb.jpg?t=2077&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2171,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa19020326/c9dd2d4e-16.smil/thumb.jpg?t=2196&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2182,
+      "title": "Kilde dropper OL",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa19020326/c9dd2d4e-16.smil/thumb.jpg?t=2207&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2272,
+      "title": "Lindsey Vonn deltar",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa19020326/c9dd2d4e-16.smil/thumb.jpg?t=2297&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2338,
+      "title": "Frida Karlsson om OL",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa19020326/c9dd2d4e-16.smil/thumb.jpg?t=2364&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2402,
+      "title": "Glimt-grep",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa19020326/c9dd2d4e-16.smil/thumb.jpg?t=2427&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2470,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa19020326/c9dd2d4e-16.smil/thumb.jpg?t=2495&scale=480x270&v=high"
+    }
+  ]
+}
