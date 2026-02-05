@@ -1,0 +1,43 @@
+{
+  "version": "1.2.0",
+  "title": "Støre avviser Epstein-granskning",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa21020526/8cf4c117-7.smil/thumb.jpg?t=26&scale=480x270&v=high"
+    },
+    {
+      "startTime": 30,
+      "title": "Økokrim",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa21020526/8cf4c117-7.smil/thumb.jpg?t=56&scale=480x270&v=high"
+    },
+    {
+      "startTime": 249,
+      "title": "Gransking Epstein",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa21020526/8cf4c117-7.smil/thumb.jpg?t=274&scale=480x270&v=high"
+    },
+    {
+      "startTime": 347,
+      "title": "Starmer sliter",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa21020526/8cf4c117-7.smil/thumb.jpg?t=373&scale=480x270&v=high"
+    },
+    {
+      "startTime": 388,
+      "title": "Søksmål pilotskole",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa21020526/8cf4c117-7.smil/thumb.jpg?t=414&scale=480x270&v=high"
+    },
+    {
+      "startTime": 498,
+      "title": "Været",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa21020526/8cf4c117-7.smil/thumb.jpg?t=524&scale=480x270&v=high"
+    },
+    {
+      "startTime": 547,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa21020526/8cf4c117-7.smil/thumb.jpg?t=571.55&scale=480x270&v=high"
+    }
+  ]
+}
