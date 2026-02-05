@@ -1,0 +1,168 @@
+{
+  "version": "1.2.0",
+  "title": "Høiby forklarte seg",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 8,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa19020426/a274e253-15.smil/thumb.jpg?t=33&scale=480x270&v=high"
+    },
+    {
+      "startTime": 60,
+      "title": "Kong Harald",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa19020426/a274e253-15.smil/thumb.jpg?t=86&scale=480x270&v=high"
+    },
+    {
+      "startTime": 84,
+      "title": "Høiby-saken",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa19020426/a274e253-15.smil/thumb.jpg?t=110&scale=480x270&v=high"
+    },
+    {
+      "startTime": 235,
+      "title": "Gjest Ravndal",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa19020426/a274e253-15.smil/thumb.jpg?t=260&scale=480x270&v=high"
+    },
+    {
+      "startTime": 388,
+      "title": "Kongefamilien",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa19020426/a274e253-15.smil/thumb.jpg?t=413&scale=480x270&v=high"
+    },
+    {
+      "startTime": 411,
+      "title": "Direkte Oslo",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa19020426/a274e253-15.smil/thumb.jpg?t=437&scale=480x270&v=high"
+    },
+    {
+      "startTime": 446,
+      "title": "Kongefamiliens program",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa19020426/a274e253-15.smil/thumb.jpg?t=472&scale=480x270&v=high"
+    },
+    {
+      "startTime": 490,
+      "title": "Direkte Oslo",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa19020426/a274e253-15.smil/thumb.jpg?t=515&scale=480x270&v=high"
+    },
+    {
+      "startTime": 565,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa19020426/a274e253-15.smil/thumb.jpg?t=591&scale=480x270&v=high"
+    },
+    {
+      "startTime": 669,
+      "title": "Epstein-saken",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa19020426/a274e253-15.smil/thumb.jpg?t=695&scale=480x270&v=high"
+    },
+    {
+      "startTime": 797,
+      "title": "Direkte Brüssel",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa19020426/a274e253-15.smil/thumb.jpg?t=822&scale=480x270&v=high"
+    },
+    {
+      "startTime": 908,
+      "title": "Gjest: Langum Becker",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa19020426/a274e253-15.smil/thumb.jpg?t=934&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1030,
+      "title": "Epstein-saken",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa19020426/a274e253-15.smil/thumb.jpg?t=1055&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1065,
+      "title": "Melkøya",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa19020426/a274e253-15.smil/thumb.jpg?t=1090&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1183,
+      "title": "Gjest: Lars Nehru Sand",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa19020426/a274e253-15.smil/thumb.jpg?t=1209&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1305,
+      "title": "Dømt for drapsforsøk",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa19020426/a274e253-15.smil/thumb.jpg?t=1331&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1328,
+      "title": "Direkte: Washington",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa19020426/a274e253-15.smil/thumb.jpg?t=1354&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1369,
+      "title": "Minnesota",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa19020426/a274e253-15.smil/thumb.jpg?t=1394&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1423,
+      "title": "Direkte: Washington",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa19020426/a274e253-15.smil/thumb.jpg?t=1449&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1508,
+      "title": "Ukraina-samtaler",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa19020426/a274e253-15.smil/thumb.jpg?t=1534&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1537,
+      "title": "Direkte Kyiv",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa19020426/a274e253-15.smil/thumb.jpg?t=1562&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1638,
+      "title": "Ukraina-krigen",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa19020426/a274e253-15.smil/thumb.jpg?t=1663&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1745,
+      "title": "Erstatning Rena",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa19020426/a274e253-15.smil/thumb.jpg?t=1771&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1874,
+      "title": "Heltemedalje",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa19020426/a274e253-15.smil/thumb.jpg?t=1899&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1991,
+      "title": "Strømmemarkedet",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa19020426/a274e253-15.smil/thumb.jpg?t=2016&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2125,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa19020426/a274e253-15.smil/thumb.jpg?t=2150&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2136,
+      "title": "Klæbo",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa19020426/a274e253-15.smil/thumb.jpg?t=2161&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2215,
+      "title": "Møller fall",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa19020426/a274e253-15.smil/thumb.jpg?t=2241&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2287,
+      "title": "Snowboard",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa19020426/a274e253-15.smil/thumb.jpg?t=2312&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2366,
+      "title": "Utro curling",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa19020426/a274e253-15.smil/thumb.jpg?t=2392&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2376,
+      "title": "Casper Ruud",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa19020426/a274e253-15.smil/thumb.jpg?t=2401&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2450,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa19020426/a274e253-15.smil/thumb.jpg?t=2475&scale=480x270&v=high"
+    }
+  ]
+}
