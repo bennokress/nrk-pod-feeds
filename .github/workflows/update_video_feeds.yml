@@ -35,7 +35,7 @@ jobs:
         run: python generate_video_feeds.py
 
       - name: Auto-commit changes and push
-        uses: stefanzweifel/git-auto-commit-action@v6
+        uses: stefanzweifel/git-auto-commit-action@v7
         with:
           commit_message: "chore(auto): Update video podcast feed(s)"
           commit_author: Feed Updater <actions@github.com>
