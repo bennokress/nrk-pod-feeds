@@ -1,0 +1,133 @@
+{
+  "version": "1.2.0",
+  "title": "Iverksetter gransking",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 8,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa19020526/9fdf51d1-16.smil/thumb.jpg?t=34&scale=480x270&v=high"
+    },
+    {
+      "startTime": 115,
+      "title": "Ut mot pressen",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa19020526/9fdf51d1-16.smil/thumb.jpg?t=141&scale=480x270&v=high"
+    },
+    {
+      "startTime": 181,
+      "title": "Høiby-saken",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa19020526/9fdf51d1-16.smil/thumb.jpg?t=207&scale=480x270&v=high"
+    },
+    {
+      "startTime": 387,
+      "title": "Epstein-saken",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa19020526/9fdf51d1-16.smil/thumb.jpg?t=413&scale=480x270&v=high"
+    },
+    {
+      "startTime": 498,
+      "title": "Gjest: Sigurd F. Mikkelsen",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa19020526/9fdf51d1-16.smil/thumb.jpg?t=523&scale=480x270&v=high"
+    },
+    {
+      "startTime": 647,
+      "title": "Epstein-saken",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa19020526/9fdf51d1-16.smil/thumb.jpg?t=673&scale=480x270&v=high"
+    },
+    {
+      "startTime": 743,
+      "title": "Gjest: Sigurd F. Mikkelsen",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa19020526/9fdf51d1-16.smil/thumb.jpg?t=769&scale=480x270&v=high"
+    },
+    {
+      "startTime": 805,
+      "title": "Gjest: Bergestuen",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa19020526/9fdf51d1-16.smil/thumb.jpg?t=831&scale=480x270&v=high"
+    },
+    {
+      "startTime": 974,
+      "title": "Utenriksnyheter",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa19020526/9fdf51d1-16.smil/thumb.jpg?t=999&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1079,
+      "title": "Direkte Beirut",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa19020526/9fdf51d1-16.smil/thumb.jpg?t=1104&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1202,
+      "title": "Foxtrot biljakt",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa19020526/9fdf51d1-16.smil/thumb.jpg?t=1228&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1369,
+      "title": "Fiskeribestand",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa19020526/9fdf51d1-16.smil/thumb.jpg?t=1394&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1505,
+      "title": "Nato-øvelse",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa19020526/9fdf51d1-16.smil/thumb.jpg?t=1531&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1632,
+      "title": "OL starter",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa19020526/9fdf51d1-16.smil/thumb.jpg?t=1658&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1717,
+      "title": "Direkte Milano",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa19020526/9fdf51d1-16.smil/thumb.jpg?t=1742&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1848,
+      "title": "Raye-konsert",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa19020526/9fdf51d1-16.smil/thumb.jpg?t=1873&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1912,
+      "title": "Direkte Fornebu",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa19020526/9fdf51d1-16.smil/thumb.jpg?t=1937&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1997,
+      "title": "Snøkanon",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa19020526/9fdf51d1-16.smil/thumb.jpg?t=2022&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2087,
+      "title": "Trailer Debatten",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa19020526/9fdf51d1-16.smil/thumb.jpg?t=2112&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2114,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa19020526/9fdf51d1-16.smil/thumb.jpg?t=2140&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2125,
+      "title": "OL ny trikot",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa19020526/9fdf51d1-16.smil/thumb.jpg?t=2151&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2210,
+      "title": "OL Skistad løype",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa19020526/9fdf51d1-16.smil/thumb.jpg?t=2235&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2286,
+      "title": "OL curlig krise",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa19020526/9fdf51d1-16.smil/thumb.jpg?t=2311&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2352,
+      "title": "OL Røisland baby",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa19020526/9fdf51d1-16.smil/thumb.jpg?t=2377&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2428,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa19020526/9fdf51d1-16.smil/thumb.jpg?t=2454&scale=480x270&v=high"
+    }
+  ]
+}
