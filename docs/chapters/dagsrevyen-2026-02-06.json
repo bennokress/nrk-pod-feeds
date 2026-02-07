@@ -1,0 +1,98 @@
+{
+  "version": "1.2.0",
+  "title": "Hun vil gjerne fortelle",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 11,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa19020626/17d74526-15.smil/thumb.jpg?t=36&scale=480x270&v=high"
+    },
+    {
+      "startTime": 64,
+      "title": "Kronprinsen",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa19020626/17d74526-15.smil/thumb.jpg?t=90&scale=480x270&v=high"
+    },
+    {
+      "startTime": 223,
+      "title": "Rød Larsen",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa19020626/17d74526-15.smil/thumb.jpg?t=249&scale=480x270&v=high"
+    },
+    {
+      "startTime": 331,
+      "title": "Epstein-dokumentene",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa19020626/17d74526-15.smil/thumb.jpg?t=357&scale=480x270&v=high"
+    },
+    {
+      "startTime": 541,
+      "title": "Gjest: Ketil Raknes",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa19020626/17d74526-15.smil/thumb.jpg?t=566&scale=480x270&v=high"
+    },
+    {
+      "startTime": 691,
+      "title": "Høiby-saken",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa19020626/17d74526-15.smil/thumb.jpg?t=717&scale=480x270&v=high"
+    },
+    {
+      "startTime": 785,
+      "title": "Omkom i ulykke",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa19020626/17d74526-15.smil/thumb.jpg?t=810&scale=480x270&v=high"
+    },
+    {
+      "startTime": 800,
+      "title": "Utenriksnyheter",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa19020626/17d74526-15.smil/thumb.jpg?t=825&scale=480x270&v=high"
+    },
+    {
+      "startTime": 911,
+      "title": "OL starter",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa19020626/17d74526-15.smil/thumb.jpg?t=936&scale=480x270&v=high"
+    },
+    {
+      "startTime": 984,
+      "title": "Direkte: Anterselva",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa19020626/17d74526-15.smil/thumb.jpg?t=1010&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1016,
+      "title": "Direkte: Val di Fiemme",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa19020626/17d74526-15.smil/thumb.jpg?t=1041&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1187,
+      "title": "Sp evalueringsutvalg",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa19020626/17d74526-15.smil/thumb.jpg?t=1212&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1264,
+      "title": "Samenes nasjonaldag",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa19020626/17d74526-15.smil/thumb.jpg?t=1289&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1372,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa19020626/17d74526-15.smil/thumb.jpg?t=1397&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1378,
+      "title": "OL Botn vraket",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa19020626/17d74526-15.smil/thumb.jpg?t=1403&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1451,
+      "title": "OL Curling-seier",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa19020626/17d74526-15.smil/thumb.jpg?t=1476&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1483,
+      "title": "OL åpning",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa19020626/17d74526-15.smil/thumb.jpg?t=1508&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1587,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa19020626/17d74526-15.smil/thumb.jpg?t=1612&scale=480x270&v=high"
+    }
+  ]
+}
