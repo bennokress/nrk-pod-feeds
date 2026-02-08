@@ -1,0 +1,118 @@
+{
+  "version": "1.2.0",
+  "title": "Historien må skrives om",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 8,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa19020726/4f0bba37-16.smil/thumb.jpg?t=33&scale=480x270&v=high"
+    },
+    {
+      "startTime": 64,
+      "title": "Brann Oksvoll",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa19020726/4f0bba37-16.smil/thumb.jpg?t=89&scale=480x270&v=high"
+    },
+    {
+      "startTime": 73,
+      "title": "Direkte Oksvoll",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa19020726/4f0bba37-16.smil/thumb.jpg?t=99&scale=480x270&v=high"
+    },
+    {
+      "startTime": 262,
+      "title": "OL-medaljer",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa19020726/4f0bba37-16.smil/thumb.jpg?t=288&scale=480x270&v=high"
+    },
+    {
+      "startTime": 376,
+      "title": "Stortinget Epstein",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa19020726/4f0bba37-16.smil/thumb.jpg?t=401&scale=480x270&v=high"
+    },
+    {
+      "startTime": 483,
+      "title": "Ungdom og tillit",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa19020726/4f0bba37-16.smil/thumb.jpg?t=509&scale=480x270&v=high"
+    },
+    {
+      "startTime": 569,
+      "title": "Søreide Epstein",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa19020726/4f0bba37-16.smil/thumb.jpg?t=594&scale=480x270&v=high"
+    },
+    {
+      "startTime": 678,
+      "title": "Politisk kommentator",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa19020726/4f0bba37-16.smil/thumb.jpg?t=704&scale=480x270&v=high"
+    },
+    {
+      "startTime": 854,
+      "title": "Jagland",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa19020726/4f0bba37-16.smil/thumb.jpg?t=880&scale=480x270&v=high"
+    },
+    {
+      "startTime": 921,
+      "title": "Ulykke Lier",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa19020726/4f0bba37-16.smil/thumb.jpg?t=947&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1016,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa19020726/4f0bba37-16.smil/thumb.jpg?t=1042&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1037,
+      "title": "Blücher",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa19020726/4f0bba37-16.smil/thumb.jpg?t=1063&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1228,
+      "title": "CO2-fangst",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa19020726/4f0bba37-16.smil/thumb.jpg?t=1254&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1564,
+      "title": "Døde i barnevernets omsorg",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa19020726/4f0bba37-16.smil/thumb.jpg?t=1590&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1918,
+      "title": "Portrett: Vegard Bjørsmo",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa19020726/4f0bba37-16.smil/thumb.jpg?t=1943&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2289,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa19020726/4f0bba37-16.smil/thumb.jpg?t=2315&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2301,
+      "title": "OL bronse Weng",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa19020726/4f0bba37-16.smil/thumb.jpg?t=2326&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2420,
+      "title": "OL utfor menn",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa19020726/4f0bba37-16.smil/thumb.jpg?t=2446&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2462,
+      "title": "OL slope style",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa19020726/4f0bba37-16.smil/thumb.jpg?t=2488&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2479,
+      "title": "Premier League",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa19020726/4f0bba37-16.smil/thumb.jpg?t=2505&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2547,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa19020726/4f0bba37-16.smil/thumb.jpg?t=2573&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2706,
+      "title": "Brann Oksvoll",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa19020726/4f0bba37-16.smil/thumb.jpg?t=2731&scale=480x270&v=high"
+    }
+  ]
+}
