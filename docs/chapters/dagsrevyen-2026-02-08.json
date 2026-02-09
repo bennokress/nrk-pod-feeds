@@ -1,0 +1,113 @@
+{
+  "version": "1.2.0",
+  "title": "Norsk drømmedag",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 9,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa19020826/ac206601-16.smil/thumb.jpg?t=34&scale=480x270&v=high"
+    },
+    {
+      "startTime": 69,
+      "title": "Mona Juul går av",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa19020826/ac206601-16.smil/thumb.jpg?t=94&scale=480x270&v=high"
+    },
+    {
+      "startTime": 101,
+      "title": "Direkte Oslo",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa19020826/ac206601-16.smil/thumb.jpg?t=127&scale=480x270&v=high"
+    },
+    {
+      "startTime": 335,
+      "title": "Norske gull",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa19020826/ac206601-16.smil/thumb.jpg?t=360&scale=480x270&v=high"
+    },
+    {
+      "startTime": 457,
+      "title": "Starmers stabssjef går",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa19020826/ac206601-16.smil/thumb.jpg?t=483&scale=480x270&v=high"
+    },
+    {
+      "startTime": 566,
+      "title": "Gjest Neumann",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa19020826/ac206601-16.smil/thumb.jpg?t=591&scale=480x270&v=high"
+    },
+    {
+      "startTime": 713,
+      "title": "Solberg om granskning",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa19020826/ac206601-16.smil/thumb.jpg?t=739&scale=480x270&v=high"
+    },
+    {
+      "startTime": 732,
+      "title": "Brann Ørland",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa19020826/ac206601-16.smil/thumb.jpg?t=758&scale=480x270&v=high"
+    },
+    {
+      "startTime": 937,
+      "title": "Svenneby verdier",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa19020826/ac206601-16.smil/thumb.jpg?t=963&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1107,
+      "title": "Super bowl",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa19020826/ac206601-16.smil/thumb.jpg?t=1132&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1141,
+      "title": "Direkte Washington",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa19020826/ac206601-16.smil/thumb.jpg?t=1167&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1311,
+      "title": "Valg i Thailand",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa19020826/ac206601-16.smil/thumb.jpg?t=1337&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1707,
+      "title": "To personer gjennom isen",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa19020826/ac206601-16.smil/thumb.jpg?t=1733&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1723,
+      "title": "Malmö",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa19020826/ac206601-16.smil/thumb.jpg?t=1748&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2079,
+      "title": "Tesla",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa19020826/ac206601-16.smil/thumb.jpg?t=2105&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2418,
+      "title": "To personer gjennom isen",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa19020826/ac206601-16.smil/thumb.jpg?t=2443&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2472,
+      "title": "OL Klæbo gull",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa19020826/ac206601-16.smil/thumb.jpg?t=2498&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2558,
+      "title": "OL utfor kvinner",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa19020826/ac206601-16.smil/thumb.jpg?t=2584&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2668,
+      "title": "OL gull dagen derpå",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa19020826/ac206601-16.smil/thumb.jpg?t=2694&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2765,
+      "title": "Premier League",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa19020826/ac206601-16.smil/thumb.jpg?t=2790&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2829,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa19020826/ac206601-16.smil/thumb.jpg?t=2855&scale=480x270&v=high"
+    }
+  ]
+}
