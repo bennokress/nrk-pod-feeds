@@ -1,0 +1,88 @@
+{
+  "version": "1.2.0",
+  "title": "Går ikke av i kveld",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa21020926/1a863ef5-14.smil/thumb.jpg?t=26&scale=480x270&v=high"
+    },
+    {
+      "startTime": 29,
+      "title": "Starmer UK",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa21020926/1a863ef5-14.smil/thumb.jpg?t=54&scale=480x270&v=high"
+    },
+    {
+      "startTime": 54,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa21020926/1a863ef5-14.smil/thumb.jpg?t=79&scale=480x270&v=high"
+    },
+    {
+      "startTime": 168,
+      "title": "Etterforske eksprins",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa21020926/1a863ef5-14.smil/thumb.jpg?t=194&scale=480x270&v=high"
+    },
+    {
+      "startTime": 184,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa21020926/1a863ef5-14.smil/thumb.jpg?t=210&scale=480x270&v=high"
+    },
+    {
+      "startTime": 250,
+      "title": "Diplomatpar etterforskes",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa21020926/1a863ef5-14.smil/thumb.jpg?t=275&scale=480x270&v=high"
+    },
+    {
+      "startTime": 337,
+      "title": "Høiby",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa21020926/1a863ef5-14.smil/thumb.jpg?t=363&scale=480x270&v=high"
+    },
+    {
+      "startTime": 375,
+      "title": "Kronprinsessen",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa21020926/1a863ef5-14.smil/thumb.jpg?t=400&scale=480x270&v=high"
+    },
+    {
+      "startTime": 440,
+      "title": "PST",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa21020926/1a863ef5-14.smil/thumb.jpg?t=465&scale=480x270&v=high"
+    },
+    {
+      "startTime": 466,
+      "title": "Theo døde i barnevernet - nå kommer endringer",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa21020926/1a863ef5-14.smil/thumb.jpg?t=491&scale=480x270&v=high"
+    },
+    {
+      "startTime": 583,
+      "title": "Nekrolog",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa21020926/1a863ef5-14.smil/thumb.jpg?t=609&scale=480x270&v=high"
+    },
+    {
+      "startTime": 607,
+      "title": "Nettpromo",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa21020926/1a863ef5-14.smil/thumb.jpg?t=633&scale=480x270&v=high"
+    },
+    {
+      "startTime": 622,
+      "title": "Sunndal i gullkampen i hopp",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa21020926/1a863ef5-14.smil/thumb.jpg?t=648&scale=480x270&v=high"
+    },
+    {
+      "startTime": 708,
+      "title": "Sten Stensen",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa21020926/1a863ef5-14.smil/thumb.jpg?t=734&scale=480x270&v=high"
+    },
+    {
+      "startTime": 808,
+      "title": "Været",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa21020926/1a863ef5-14.smil/thumb.jpg?t=833&scale=480x270&v=high"
+    },
+    {
+      "startTime": 857,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa21020926/1a863ef5-14.smil/thumb.jpg?t=882&scale=480x270&v=high"
+    }
+  ]
+}
