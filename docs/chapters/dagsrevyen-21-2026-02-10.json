@@ -1,0 +1,63 @@
+{
+  "version": "1.2.0",
+  "title": "Starter egne undersøkelser",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa21021026/8b2caef9-14.smil/thumb.jpg?t=26&scale=480x270&v=high"
+    },
+    {
+      "startTime": 28,
+      "title": "PST",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa21021026/8b2caef9-14.smil/thumb.jpg?t=53&scale=480x270&v=high"
+    },
+    {
+      "startTime": 68,
+      "title": "Strømbrudd i Bodø",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa21021026/8b2caef9-14.smil/thumb.jpg?t=94&scale=480x270&v=high"
+    },
+    {
+      "startTime": 93,
+      "title": "STRUPER-TELEGRAM-100226S-DR21",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa21021026/8b2caef9-14.smil/thumb.jpg?t=118&scale=480x270&v=high"
+    },
+    {
+      "startTime": 124,
+      "title": "KONTROLLKOMITEEN-100226S-DR19",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa21021026/8b2caef9-14.smil/thumb.jpg?t=150&scale=480x270&v=high"
+    },
+    {
+      "startTime": 203,
+      "title": "Noreg manglar kokkar",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa21021026/8b2caef9-14.smil/thumb.jpg?t=228&scale=480x270&v=high"
+    },
+    {
+      "startTime": 305,
+      "title": "El-lastebil",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa21021026/8b2caef9-14.smil/thumb.jpg?t=331&scale=480x270&v=high"
+    },
+    {
+      "startTime": 402,
+      "title": "Nettpromo",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa21021026/8b2caef9-14.smil/thumb.jpg?t=428&scale=480x270&v=high"
+    },
+    {
+      "startTime": 418,
+      "title": "Vinter-OL",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa21021026/8b2caef9-14.smil/thumb.jpg?t=443&scale=480x270&v=high"
+    },
+    {
+      "startTime": 494,
+      "title": "Været",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa21021026/8b2caef9-14.smil/thumb.jpg?t=520&scale=480x270&v=high"
+    },
+    {
+      "startTime": 544,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa21021026/8b2caef9-14.smil/thumb.jpg?t=564.64&scale=480x270&v=high"
+    }
+  ]
+}
