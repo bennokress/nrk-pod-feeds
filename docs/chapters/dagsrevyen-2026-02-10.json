@@ -1,0 +1,153 @@
+{
+  "version": "1.2.0",
+  "title": "Hyllet avdød venn",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 6,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa19021026/f742abca-15.smil/thumb.jpg?t=32&scale=480x270&v=high"
+    },
+    {
+      "startTime": 58,
+      "title": "OL-gullrush Norge",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa19021026/f742abca-15.smil/thumb.jpg?t=83&scale=480x270&v=high"
+    },
+    {
+      "startTime": 298,
+      "title": "PST livvakttjeneste",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa19021026/f742abca-15.smil/thumb.jpg?t=323&scale=480x270&v=high"
+    },
+    {
+      "startTime": 446,
+      "title": "Gjest Rønneberg",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa19021026/f742abca-15.smil/thumb.jpg?t=471&scale=480x270&v=high"
+    },
+    {
+      "startTime": 582,
+      "title": "Epstein-filene",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa19021026/f742abca-15.smil/thumb.jpg?t=607&scale=480x270&v=high"
+    },
+    {
+      "startTime": 644,
+      "title": "Carl I. Hagen",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa19021026/f742abca-15.smil/thumb.jpg?t=669&scale=480x270&v=high"
+    },
+    {
+      "startTime": 771,
+      "title": "Epsteins ofre",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa19021026/f742abca-15.smil/thumb.jpg?t=797&scale=480x270&v=high"
+    },
+    {
+      "startTime": 859,
+      "title": "Epstein-saken",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa19021026/f742abca-15.smil/thumb.jpg?t=884&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1000,
+      "title": "Høiby-saken",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa19021026/f742abca-15.smil/thumb.jpg?t=1026&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1134,
+      "title": "Gjester Ravndal og Meling",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa19021026/f742abca-15.smil/thumb.jpg?t=1159&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1325,
+      "title": "Prisvekst",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa19021026/f742abca-15.smil/thumb.jpg?t=1350&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1455,
+      "title": "Løten-drapet",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa19021026/f742abca-15.smil/thumb.jpg?t=1481&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1471,
+      "title": "Direkte Hamar",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa19021026/f742abca-15.smil/thumb.jpg?t=1496&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1525,
+      "title": "Løten-drapet",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa19021026/f742abca-15.smil/thumb.jpg?t=1551&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1634,
+      "title": "Klimatiltak mot 2050",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa19021026/f742abca-15.smil/thumb.jpg?t=1660&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1758,
+      "title": "Brev fra kronprinsessen",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa19021026/f742abca-15.smil/thumb.jpg?t=1784&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1809,
+      "title": "Gjest Skrede",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa19021026/f742abca-15.smil/thumb.jpg?t=1835&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1916,
+      "title": "Lovende MGP-artist",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa19021026/f742abca-15.smil/thumb.jpg?t=1942&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2019,
+      "title": "Skøyter populært",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa19021026/f742abca-15.smil/thumb.jpg?t=2045&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2119,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa19021026/f742abca-15.smil/thumb.jpg?t=2145&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2126,
+      "title": "OL skiskyting",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa19021026/f742abca-15.smil/thumb.jpg?t=2151&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2207,
+      "title": "OL Holm Lægreid",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa19021026/f742abca-15.smil/thumb.jpg?t=2232&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2281,
+      "title": "OL Alpint",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa19021026/f742abca-15.smil/thumb.jpg?t=2307&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2311,
+      "title": "Vickhoff Lie",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa19021026/f742abca-15.smil/thumb.jpg?t=2336&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2326,
+      "title": "Kvinner sprint",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa19021026/f742abca-15.smil/thumb.jpg?t=2351&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2353,
+      "title": "Drivenes og Skistad",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa19021026/f742abca-15.smil/thumb.jpg?t=2379&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2376,
+      "title": "OL bronse Vike",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa19021026/f742abca-15.smil/thumb.jpg?t=2402&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2434,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa19021026/f742abca-15.smil/thumb.jpg?t=2459&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2587,
+      "title": "Trailer Debatten",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa19021026/f742abca-15.smil/thumb.jpg?t=2613&scale=480x270&v=high"
+    }
+  ]
+}
