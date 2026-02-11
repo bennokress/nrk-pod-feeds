@@ -1,0 +1,58 @@
+{
+  "version": "1.2.0",
+  "title": "Pågrepet for drap",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa21021126/0f312929-16.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 24,
+      "title": "Drap Bergen",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa21021126/0f312929-16.smil/thumb.jpg?t=50&scale=480x270&v=high"
+    },
+    {
+      "startTime": 120,
+      "title": "Jagland immunitet /Jagland Russland",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa21021126/0f312929-16.smil/thumb.jpg?t=145&scale=480x270&v=high"
+    },
+    {
+      "startTime": 209,
+      "title": "Eide beklager",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa21021126/0f312929-16.smil/thumb.jpg?t=234&scale=480x270&v=high"
+    },
+    {
+      "startTime": 287,
+      "title": "Helsesykepleiere",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa21021126/0f312929-16.smil/thumb.jpg?t=313&scale=480x270&v=high"
+    },
+    {
+      "startTime": 409,
+      "title": "James van der Beek",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa21021126/0f312929-16.smil/thumb.jpg?t=435&scale=480x270&v=high"
+    },
+    {
+      "startTime": 430,
+      "title": "Få vil boikotte vinter-OL",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa21021126/0f312929-16.smil/thumb.jpg?t=456&scale=480x270&v=high"
+    },
+    {
+      "startTime": 514,
+      "title": "Sportsnyheter",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa21021126/0f312929-16.smil/thumb.jpg?t=539&scale=480x270&v=high"
+    },
+    {
+      "startTime": 575,
+      "title": "Været",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa21021126/0f312929-16.smil/thumb.jpg?t=601&scale=480x270&v=high"
+    },
+    {
+      "startTime": 626,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa21021126/0f312929-16.smil/thumb.jpg?t=645.6&scale=480x270&v=high"
+    }
+  ]
+}
