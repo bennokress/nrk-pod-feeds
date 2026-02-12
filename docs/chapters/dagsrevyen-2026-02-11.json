@@ -1,0 +1,133 @@
+{
+  "version": "1.2.0",
+  "title": "Fratatt sin immunitet",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 13,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa19021126/ae6aaf94-15.smil/thumb.jpg?t=38&scale=480x270&v=high"
+    },
+    {
+      "startTime": 67,
+      "title": "Jagland immunitet",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa19021126/ae6aaf94-15.smil/thumb.jpg?t=93&scale=480x270&v=high"
+    },
+    {
+      "startTime": 235,
+      "title": "Direkte Brussel",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa19021126/ae6aaf94-15.smil/thumb.jpg?t=261&scale=480x270&v=high"
+    },
+    {
+      "startTime": 350,
+      "title": "Gjest Røe Isaksen",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa19021126/ae6aaf94-15.smil/thumb.jpg?t=375&scale=480x270&v=high"
+    },
+    {
+      "startTime": 450,
+      "title": "Juul i avhør",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa19021126/ae6aaf94-15.smil/thumb.jpg?t=476&scale=480x270&v=high"
+    },
+    {
+      "startTime": 505,
+      "title": "Epstein-ofre",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa19021126/ae6aaf94-15.smil/thumb.jpg?t=531&scale=480x270&v=high"
+    },
+    {
+      "startTime": 638,
+      "title": "Barth Eide beklagelse",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa19021126/ae6aaf94-15.smil/thumb.jpg?t=663&scale=480x270&v=high"
+    },
+    {
+      "startTime": 755,
+      "title": "Abbas og Støre",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa19021126/ae6aaf94-15.smil/thumb.jpg?t=780&scale=480x270&v=high"
+    },
+    {
+      "startTime": 777,
+      "title": "Kokain Madla",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa19021126/ae6aaf94-15.smil/thumb.jpg?t=802&scale=480x270&v=high"
+    },
+    {
+      "startTime": 890,
+      "title": "Høiby-rettssaken",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa19021126/ae6aaf94-15.smil/thumb.jpg?t=915&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1003,
+      "title": "Totalforsvaret",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa19021126/ae6aaf94-15.smil/thumb.jpg?t=1028&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1128,
+      "title": "Israelsk gissel",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa19021126/ae6aaf94-15.smil/thumb.jpg?t=1153&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1320,
+      "title": "Følelser OL",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa19021126/ae6aaf94-15.smil/thumb.jpg?t=1345&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1396,
+      "title": "Direkte Val De Fiemme",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa19021126/ae6aaf94-15.smil/thumb.jpg?t=1422&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1490,
+      "title": "Følelser OL",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa19021126/ae6aaf94-15.smil/thumb.jpg?t=1516&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1723,
+      "title": "Marianne Heske",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa19021126/ae6aaf94-15.smil/thumb.jpg?t=1749&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1840,
+      "title": "Femundsløpet",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa19021126/ae6aaf94-15.smil/thumb.jpg?t=1865&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1992,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa19021126/ae6aaf94-15.smil/thumb.jpg?t=2017&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2008,
+      "title": "OL gull Oftebro",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa19021126/ae6aaf94-15.smil/thumb.jpg?t=2033&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2096,
+      "title": "OL skiskyting",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa19021126/ae6aaf94-15.smil/thumb.jpg?t=2121&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2175,
+      "title": "OL super-G",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa19021126/ae6aaf94-15.smil/thumb.jpg?t=2200&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2259,
+      "title": "OL- Botn og Larsen",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa19021126/ae6aaf94-15.smil/thumb.jpg?t=2285&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2329,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa19021126/ae6aaf94-15.smil/thumb.jpg?t=2354&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2488,
+      "title": "Drap Bergen",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa19021126/ae6aaf94-15.smil/thumb.jpg?t=2513&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2529,
+      "title": "Direkte: Bergen",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa19021126/ae6aaf94-15.smil/thumb.jpg?t=2555&scale=480x270&v=high"
+    }
+  ]
+}
