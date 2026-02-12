@@ -1,0 +1,48 @@
+{
+  "version": "1.2.0",
+  "title": "ICE trekker seg ut fra Minnesota",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa21021226/1e47a09e-6.smil/thumb.jpg?t=26&scale=480x270&v=high"
+    },
+    {
+      "startTime": 33,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa21021226/1e47a09e-6.smil/thumb.jpg?t=58&scale=480x270&v=high"
+    },
+    {
+      "startTime": 163,
+      "title": "DAGSREVYPAKKE",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa21021226/1e47a09e-6.smil/thumb.jpg?t=188&scale=480x270&v=high"
+    },
+    {
+      "startTime": 261,
+      "title": "Mer ekstremvær i vente",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa21021226/1e47a09e-6.smil/thumb.jpg?t=286&scale=480x270&v=high"
+    },
+    {
+      "startTime": 363,
+      "title": "Nettpromo",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa21021226/1e47a09e-6.smil/thumb.jpg?t=388&scale=480x270&v=high"
+    },
+    {
+      "startTime": 381,
+      "title": "Pensjonister jobber som vaktmestere",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa21021226/1e47a09e-6.smil/thumb.jpg?t=406&scale=480x270&v=high"
+    },
+    {
+      "startTime": 482,
+      "title": "Været",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa21021226/1e47a09e-6.smil/thumb.jpg?t=508&scale=480x270&v=high"
+    },
+    {
+      "startTime": 532,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa21021226/1e47a09e-6.smil/thumb.jpg?t=550.55&scale=480x270&v=high"
+    }
+  ]
+}
