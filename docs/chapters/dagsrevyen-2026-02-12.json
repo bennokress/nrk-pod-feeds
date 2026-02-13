@@ -1,0 +1,148 @@
+{
+  "version": "1.2.0",
+  "title": "Siktet for grov korrupsjon",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 10,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-69.akamaized.net/open/ps/nnfa/nnfa19021226/612a4bc7-15.smil/thumb.jpg?t=35&scale=480x270&v=high"
+    },
+    {
+      "startTime": 60,
+      "title": "Razzia hos Jagland",
+      "img": "https://nrk-od-world-69.akamaized.net/open/ps/nnfa/nnfa19021226/612a4bc7-15.smil/thumb.jpg?t=86&scale=480x270&v=high"
+    },
+    {
+      "startTime": 168,
+      "title": "Gjest Jacobsen Meling",
+      "img": "https://nrk-od-world-69.akamaized.net/open/ps/nnfa/nnfa19021226/612a4bc7-15.smil/thumb.jpg?t=193&scale=480x270&v=high"
+    },
+    {
+      "startTime": 366,
+      "title": "Norges Bank",
+      "img": "https://nrk-od-world-69.akamaized.net/open/ps/nnfa/nnfa19021226/612a4bc7-15.smil/thumb.jpg?t=392&scale=480x270&v=high"
+    },
+    {
+      "startTime": 499,
+      "title": "Direkte: Oslo",
+      "img": "https://nrk-od-world-69.akamaized.net/open/ps/nnfa/nnfa19021226/612a4bc7-15.smil/thumb.jpg?t=525&scale=480x270&v=high"
+    },
+    {
+      "startTime": 700,
+      "title": "Drap Bergen",
+      "img": "https://nrk-od-world-69.akamaized.net/open/ps/nnfa/nnfa19021226/612a4bc7-15.smil/thumb.jpg?t=726&scale=480x270&v=high"
+    },
+    {
+      "startTime": 719,
+      "title": "Løten-drapet",
+      "img": "https://nrk-od-world-69.akamaized.net/open/ps/nnfa/nnfa19021226/612a4bc7-15.smil/thumb.jpg?t=745&scale=480x270&v=high"
+    },
+    {
+      "startTime": 832,
+      "title": "Direkte: Belgia",
+      "img": "https://nrk-od-world-69.akamaized.net/open/ps/nnfa/nnfa19021226/612a4bc7-15.smil/thumb.jpg?t=857&scale=480x270&v=high"
+    },
+    {
+      "startTime": 939,
+      "title": "EU-toppmøte",
+      "img": "https://nrk-od-world-69.akamaized.net/open/ps/nnfa/nnfa19021226/612a4bc7-15.smil/thumb.jpg?t=964&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1041,
+      "title": "Støre redegjørelse",
+      "img": "https://nrk-od-world-69.akamaized.net/open/ps/nnfa/nnfa19021226/612a4bc7-15.smil/thumb.jpg?t=1067&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1153,
+      "title": "Ukraina",
+      "img": "https://nrk-od-world-69.akamaized.net/open/ps/nnfa/nnfa19021226/612a4bc7-15.smil/thumb.jpg?t=1178&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1178,
+      "title": "ICE Minnesota",
+      "img": "https://nrk-od-world-69.akamaized.net/open/ps/nnfa/nnfa19021226/612a4bc7-15.smil/thumb.jpg?t=1203&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1203,
+      "title": "Høiby-rettssaken",
+      "img": "https://nrk-od-world-69.akamaized.net/open/ps/nnfa/nnfa19021226/612a4bc7-15.smil/thumb.jpg?t=1229&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1323,
+      "title": "Gjest Dennis Ravndal",
+      "img": "https://nrk-od-world-69.akamaized.net/open/ps/nnfa/nnfa19021226/612a4bc7-15.smil/thumb.jpg?t=1349&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1442,
+      "title": "Prøvebo i Finnmark",
+      "img": "https://nrk-od-world-69.akamaized.net/open/ps/nnfa/nnfa19021226/612a4bc7-15.smil/thumb.jpg?t=1467&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1551,
+      "title": "Astrid 94 år",
+      "img": "https://nrk-od-world-69.akamaized.net/open/ps/nnfa/nnfa19021226/612a4bc7-15.smil/thumb.jpg?t=1577&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1615,
+      "title": "Direkte: Oslo",
+      "img": "https://nrk-od-world-69.akamaized.net/open/ps/nnfa/nnfa19021226/612a4bc7-15.smil/thumb.jpg?t=1640&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1711,
+      "title": "Gjest: Dissimilis",
+      "img": "https://nrk-od-world-69.akamaized.net/open/ps/nnfa/nnfa19021226/612a4bc7-15.smil/thumb.jpg?t=1737&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1823,
+      "title": "Spellemann",
+      "img": "https://nrk-od-world-69.akamaized.net/open/ps/nnfa/nnfa19021226/612a4bc7-15.smil/thumb.jpg?t=1849&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1940,
+      "title": "Stille-lesing",
+      "img": "https://nrk-od-world-69.akamaized.net/open/ps/nnfa/nnfa19021226/612a4bc7-15.smil/thumb.jpg?t=1966&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2039,
+      "title": "Trailer Debatten",
+      "img": "https://nrk-od-world-69.akamaized.net/open/ps/nnfa/nnfa19021226/612a4bc7-15.smil/thumb.jpg?t=2065&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2066,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-69.akamaized.net/open/ps/nnfa/nnfa19021226/612a4bc7-15.smil/thumb.jpg?t=2091&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2074,
+      "title": "OL Wiklund bronse",
+      "img": "https://nrk-od-world-69.akamaized.net/open/ps/nnfa/nnfa19021226/612a4bc7-15.smil/thumb.jpg?t=2100&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2144,
+      "title": "OL gull Karlsson",
+      "img": "https://nrk-od-world-69.akamaized.net/open/ps/nnfa/nnfa19021226/612a4bc7-15.smil/thumb.jpg?t=2170&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2225,
+      "title": "OL nær bronse",
+      "img": "https://nrk-od-world-69.akamaized.net/open/ps/nnfa/nnfa19021226/612a4bc7-15.smil/thumb.jpg?t=2250&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2261,
+      "title": "OL super-G",
+      "img": "https://nrk-od-world-69.akamaized.net/open/ps/nnfa/nnfa19021226/612a4bc7-15.smil/thumb.jpg?t=2287&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2292,
+      "title": "OL disk skandale",
+      "img": "https://nrk-od-world-69.akamaized.net/open/ps/nnfa/nnfa19021226/612a4bc7-15.smil/thumb.jpg?t=2317&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2393,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-69.akamaized.net/open/ps/nnfa/nnfa19021226/612a4bc7-15.smil/thumb.jpg?t=2418&scale=480x270&v=high"
+    }
+  ]
+}
