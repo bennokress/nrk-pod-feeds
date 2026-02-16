@@ -1,0 +1,108 @@
+{
+  "version": "1.2.0",
+  "title": "Klæbo er tidenes vinterolympier",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 10,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa19021526/00302990-19.smil/thumb.jpg?t=36&scale=480x270&v=high"
+    },
+    {
+      "startTime": 82,
+      "title": "Tidenes vinterolympier",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa19021526/00302990-19.smil/thumb.jpg?t=107&scale=480x270&v=high"
+    },
+    {
+      "startTime": 196,
+      "title": "Epstein-offer",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa19021526/00302990-19.smil/thumb.jpg?t=221&scale=480x270&v=high"
+    },
+    {
+      "startTime": 379,
+      "title": "Høyre formuesskatt",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa19021526/00302990-19.smil/thumb.jpg?t=404&scale=480x270&v=high"
+    },
+    {
+      "startTime": 492,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa19021526/00302990-19.smil/thumb.jpg?t=517&scale=480x270&v=high"
+    },
+    {
+      "startTime": 571,
+      "title": "Nordmenn fenglset",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa19021526/00302990-19.smil/thumb.jpg?t=596&scale=480x270&v=high"
+    },
+    {
+      "startTime": 688,
+      "title": "Regjeringskvartalet",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa19021526/00302990-19.smil/thumb.jpg?t=713&scale=480x270&v=high"
+    },
+    {
+      "startTime": 816,
+      "title": "Utenriksnyheter",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa19021526/00302990-19.smil/thumb.jpg?t=842&scale=480x270&v=high"
+    },
+    {
+      "startTime": 914,
+      "title": "Mange kjøper ved",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa19021526/00302990-19.smil/thumb.jpg?t=939&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1026,
+      "title": "ICE i Minnesota",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa19021526/00302990-19.smil/thumb.jpg?t=1051&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1469,
+      "title": "Spania går motsatt vei",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa19021526/00302990-19.smil/thumb.jpg?t=1495&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1824,
+      "title": "Vil redde puben",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa19021526/00302990-19.smil/thumb.jpg?t=1850&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2184,
+      "title": "Leteaksjon",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa19021526/00302990-19.smil/thumb.jpg?t=2209&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2208,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa19021526/00302990-19.smil/thumb.jpg?t=2233&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2216,
+      "title": "Kakefest",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa19021526/00302990-19.smil/thumb.jpg?t=2241&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2228,
+      "title": "Direkte Val di Fiemme",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa19021526/00302990-19.smil/thumb.jpg?t=2253&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2310,
+      "title": "Kirkeeides sølv",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa19021526/00302990-19.smil/thumb.jpg?t=2335&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2379,
+      "title": "Lægreids sølv",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa19021526/00302990-19.smil/thumb.jpg?t=2404&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2461,
+      "title": "Sølv alpint",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa19021526/00302990-19.smil/thumb.jpg?t=2487&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2531,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa19021526/00302990-19.smil/thumb.jpg?t=2556&scale=480x270&v=high"
+    }
+  ]
+}
