@@ -1,0 +1,133 @@
+{
+  "version": "1.2.0",
+  "title": "Gulldrømmen knust",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 7,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa19021626/6899dbd4-15.smil/thumb.jpg?t=32&scale=480x270&v=high"
+    },
+    {
+      "startTime": 66,
+      "title": "OL slalåm",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa19021626/6899dbd4-15.smil/thumb.jpg?t=92&scale=480x270&v=high"
+    },
+    {
+      "startTime": 171,
+      "title": "Direkte: Bormio",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa19021626/6899dbd4-15.smil/thumb.jpg?t=197&scale=480x270&v=high"
+    },
+    {
+      "startTime": 290,
+      "title": "Kritiserer kontrakter",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa19021626/6899dbd4-15.smil/thumb.jpg?t=316&scale=480x270&v=high"
+    },
+    {
+      "startTime": 436,
+      "title": "Utvist etter bilulykke",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa19021626/6899dbd4-15.smil/thumb.jpg?t=462&scale=480x270&v=high"
+    },
+    {
+      "startTime": 533,
+      "title": "Direkte: Tromsø",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa19021626/6899dbd4-15.smil/thumb.jpg?t=559&scale=480x270&v=high"
+    },
+    {
+      "startTime": 636,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa19021626/6899dbd4-15.smil/thumb.jpg?t=662&scale=480x270&v=high"
+    },
+    {
+      "startTime": 747,
+      "title": "Markerer Navalnyj",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa19021626/6899dbd4-15.smil/thumb.jpg?t=773&scale=480x270&v=high"
+    },
+    {
+      "startTime": 857,
+      "title": "Direkte: Moskva",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa19021626/6899dbd4-15.smil/thumb.jpg?t=882&scale=480x270&v=high"
+    },
+    {
+      "startTime": 961,
+      "title": "SoMe i Russland",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa19021626/6899dbd4-15.smil/thumb.jpg?t=987&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1053,
+      "title": "Direkte: Dnipro",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa19021626/6899dbd4-15.smil/thumb.jpg?t=1079&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1146,
+      "title": "Krigen i Ukraina",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa19021626/6899dbd4-15.smil/thumb.jpg?t=1171&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1250,
+      "title": "Utenriksnyheter",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa19021626/6899dbd4-15.smil/thumb.jpg?t=1276&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1368,
+      "title": "Assistert befruktning",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa19021626/6899dbd4-15.smil/thumb.jpg?t=1394&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1556,
+      "title": "Dyrere gaming",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa19021626/6899dbd4-15.smil/thumb.jpg?t=1582&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1668,
+      "title": "Mange låner ski",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa19021626/6899dbd4-15.smil/thumb.jpg?t=1693&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1778,
+      "title": "Nedturer i OL",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa19021626/6899dbd4-15.smil/thumb.jpg?t=1803&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1848,
+      "title": "Gjest: Idrettspsykolog",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa19021626/6899dbd4-15.smil/thumb.jpg?t=1873&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2051,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa19021626/6899dbd4-15.smil/thumb.jpg?t=2077&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2058,
+      "title": "OL slalåm",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa19021626/6899dbd4-15.smil/thumb.jpg?t=2083&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2121,
+      "title": "OL curling",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa19021626/6899dbd4-15.smil/thumb.jpg?t=2147&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2188,
+      "title": "OL Uldal",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa19021626/6899dbd4-15.smil/thumb.jpg?t=2214&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2286,
+      "title": "OL Drivenes debut",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa19021626/6899dbd4-15.smil/thumb.jpg?t=2311&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2334,
+      "title": "OL Randonee",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa19021626/6899dbd4-15.smil/thumb.jpg?t=2359&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2416,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa19021626/6899dbd4-15.smil/thumb.jpg?t=2442&scale=480x270&v=high"
+    }
+  ]
+}
