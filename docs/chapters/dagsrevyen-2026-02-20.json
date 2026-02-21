@@ -1,0 +1,103 @@
+{
+  "version": "1.2.0",
+  "title": "Tidenes OL",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 11,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-63.akamaized.net/open/ps/nnfa/nnfa19022026/da80c9ee-15.smil/thumb.jpg?t=37&scale=480x270&v=high"
+    },
+    {
+      "startTime": 61,
+      "title": "Høyesterett straffetoll",
+      "img": "https://nrk-od-world-63.akamaized.net/open/ps/nnfa/nnfa19022026/da80c9ee-15.smil/thumb.jpg?t=87&scale=480x270&v=high"
+    },
+    {
+      "startTime": 81,
+      "title": "Direkte Washington",
+      "img": "https://nrk-od-world-63.akamaized.net/open/ps/nnfa/nnfa19022026/da80c9ee-15.smil/thumb.jpg?t=107&scale=480x270&v=high"
+    },
+    {
+      "startTime": 180,
+      "title": "Norges reaksjon",
+      "img": "https://nrk-od-world-63.akamaized.net/open/ps/nnfa/nnfa19022026/da80c9ee-15.smil/thumb.jpg?t=205&scale=480x270&v=high"
+    },
+    {
+      "startTime": 236,
+      "title": "Direkte",
+      "img": "https://nrk-od-world-63.akamaized.net/open/ps/nnfa/nnfa19022026/da80c9ee-15.smil/thumb.jpg?t=262&scale=480x270&v=high"
+    },
+    {
+      "startTime": 260,
+      "title": "Norges 17. gull",
+      "img": "https://nrk-od-world-63.akamaized.net/open/ps/nnfa/nnfa19022026/da80c9ee-15.smil/thumb.jpg?t=285&scale=480x270&v=high"
+    },
+    {
+      "startTime": 360,
+      "title": "Direkte Hønefoss",
+      "img": "https://nrk-od-world-63.akamaized.net/open/ps/nnfa/nnfa19022026/da80c9ee-15.smil/thumb.jpg?t=386&scale=480x270&v=high"
+    },
+    {
+      "startTime": 532,
+      "title": "Høiby-saken",
+      "img": "https://nrk-od-world-63.akamaized.net/open/ps/nnfa/nnfa19022026/da80c9ee-15.smil/thumb.jpg?t=557&scale=480x270&v=high"
+    },
+    {
+      "startTime": 663,
+      "title": "Gjester: Ravndal og Meling",
+      "img": "https://nrk-od-world-63.akamaized.net/open/ps/nnfa/nnfa19022026/da80c9ee-15.smil/thumb.jpg?t=689&scale=480x270&v=high"
+    },
+    {
+      "startTime": 787,
+      "title": "Evakuerer soldater",
+      "img": "https://nrk-od-world-63.akamaized.net/open/ps/nnfa/nnfa19022026/da80c9ee-15.smil/thumb.jpg?t=813&scale=480x270&v=high"
+    },
+    {
+      "startTime": 888,
+      "title": "Direkte: Midtøsten",
+      "img": "https://nrk-od-world-63.akamaized.net/open/ps/nnfa/nnfa19022026/da80c9ee-15.smil/thumb.jpg?t=913&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1005,
+      "title": "Kommuner og arbeidstiltak",
+      "img": "https://nrk-od-world-63.akamaized.net/open/ps/nnfa/nnfa19022026/da80c9ee-15.smil/thumb.jpg?t=1030&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1127,
+      "title": "Etterforskning Andrew",
+      "img": "https://nrk-od-world-63.akamaized.net/open/ps/nnfa/nnfa19022026/da80c9ee-15.smil/thumb.jpg?t=1153&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1200,
+      "title": "Direkte: London",
+      "img": "https://nrk-od-world-63.akamaized.net/open/ps/nnfa/nnfa19022026/da80c9ee-15.smil/thumb.jpg?t=1226&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1303,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-63.akamaized.net/open/ps/nnfa/nnfa19022026/da80c9ee-15.smil/thumb.jpg?t=1328&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1355,
+      "title": "Kvinner i film",
+      "img": "https://nrk-od-world-63.akamaized.net/open/ps/nnfa/nnfa19022026/da80c9ee-15.smil/thumb.jpg?t=1380&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1476,
+      "title": "Vinter-OL",
+      "img": "https://nrk-od-world-63.akamaized.net/open/ps/nnfa/nnfa19022026/da80c9ee-15.smil/thumb.jpg?t=1502&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1554,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-63.akamaized.net/open/ps/nnfa/nnfa19022026/da80c9ee-15.smil/thumb.jpg?t=1579&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1695,
+      "title": "Trump",
+      "img": "https://nrk-od-world-63.akamaized.net/open/ps/nnfa/nnfa19022026/da80c9ee-15.smil/thumb.jpg?t=1720&scale=480x270&v=high"
+    }
+  ]
+}
