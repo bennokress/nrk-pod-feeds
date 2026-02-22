@@ -1,0 +1,58 @@
+{
+  "version": "1.2.0",
+  "title": "Russiske angrep",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa21022226/fa478f5d-18.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 23,
+      "title": "Ønsker ikke OL til Norge",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa21022226/fa478f5d-18.smil/thumb.jpg?t=49&scale=480x270&v=high"
+    },
+    {
+      "startTime": 115,
+      "title": "Bafta",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa21022226/fa478f5d-18.smil/thumb.jpg?t=141&scale=480x270&v=high"
+    },
+    {
+      "startTime": 147,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa21022226/fa478f5d-18.smil/thumb.jpg?t=173&scale=480x270&v=high"
+    },
+    {
+      "startTime": 228,
+      "title": "Mar-a-Lago",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa21022226/fa478f5d-18.smil/thumb.jpg?t=254&scale=480x270&v=high"
+    },
+    {
+      "startTime": 287,
+      "title": "Ukraina strømmangel",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa21022226/fa478f5d-18.smil/thumb.jpg?t=312&scale=480x270&v=high"
+    },
+    {
+      "startTime": 380,
+      "title": "Brann Modum",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa21022226/fa478f5d-18.smil/thumb.jpg?t=405&scale=480x270&v=high"
+    },
+    {
+      "startTime": 399,
+      "title": "Trump vil sende sykehusskip til Grønland",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa21022226/fa478f5d-18.smil/thumb.jpg?t=425&scale=480x270&v=high"
+    },
+    {
+      "startTime": 507,
+      "title": "Været",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa21022226/fa478f5d-18.smil/thumb.jpg?t=532&scale=480x270&v=high"
+    },
+    {
+      "startTime": 558,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa21022226/fa478f5d-18.smil/thumb.jpg?t=576.48&scale=480x270&v=high"
+    }
+  ]
+}
