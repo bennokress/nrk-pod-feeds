@@ -1,0 +1,58 @@
+{
+  "version": "1.2.0",
+  "title": "Salmonella-frykt",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa21022326/59d16715-17.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 28,
+      "title": "Tønsberg",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa21022326/59d16715-17.smil/thumb.jpg?t=54&scale=480x270&v=high"
+    },
+    {
+      "startTime": 50,
+      "title": "Mandelson",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa21022326/59d16715-17.smil/thumb.jpg?t=76&scale=480x270&v=high"
+    },
+    {
+      "startTime": 152,
+      "title": "Usikre tider for yngel",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa21022326/59d16715-17.smil/thumb.jpg?t=178&scale=480x270&v=high"
+    },
+    {
+      "startTime": 258,
+      "title": "DAGSREVYPAKKE",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa21022326/59d16715-17.smil/thumb.jpg?t=283&scale=480x270&v=high"
+    },
+    {
+      "startTime": 361,
+      "title": "Nettpromo",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa21022326/59d16715-17.smil/thumb.jpg?t=386&scale=480x270&v=high"
+    },
+    {
+      "startTime": 384,
+      "title": "Utvider ølsalg",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa21022326/59d16715-17.smil/thumb.jpg?t=410&scale=480x270&v=high"
+    },
+    {
+      "startTime": 417,
+      "title": "Salmonella på Norsvin-anlegg",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa21022326/59d16715-17.smil/thumb.jpg?t=442&scale=480x270&v=high"
+    },
+    {
+      "startTime": 501,
+      "title": "Været",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa21022326/59d16715-17.smil/thumb.jpg?t=526&scale=480x270&v=high"
+    },
+    {
+      "startTime": 554,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa21022326/59d16715-17.smil/thumb.jpg?t=572.55&scale=480x270&v=high"
+    }
+  ]
+}
