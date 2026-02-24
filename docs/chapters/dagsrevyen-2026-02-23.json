@@ -1,0 +1,143 @@
+{
+  "version": "1.2.0",
+  "title": "Pågrepet",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 10,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa19022326/63ace917-16.smil/thumb.jpg?t=36&scale=480x270&v=high"
+    },
+    {
+      "startTime": 61,
+      "title": "Mandelson pågrepet",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa19022326/63ace917-16.smil/thumb.jpg?t=87&scale=480x270&v=high"
+    },
+    {
+      "startTime": 84,
+      "title": "Direkte London",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa19022326/63ace917-16.smil/thumb.jpg?t=110&scale=480x270&v=high"
+    },
+    {
+      "startTime": 194,
+      "title": "Epstein-saken",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa19022326/63ace917-16.smil/thumb.jpg?t=220&scale=480x270&v=high"
+    },
+    {
+      "startTime": 219,
+      "title": "Uro i Mexico",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa19022326/63ace917-16.smil/thumb.jpg?t=245&scale=480x270&v=high"
+    },
+    {
+      "startTime": 362,
+      "title": "Direkte Washington",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa19022326/63ace917-16.smil/thumb.jpg?t=388&scale=480x270&v=high"
+    },
+    {
+      "startTime": 450,
+      "title": "Lønnsoppgjør",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa19022326/63ace917-16.smil/thumb.jpg?t=475&scale=480x270&v=high"
+    },
+    {
+      "startTime": 634,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa19022326/63ace917-16.smil/thumb.jpg?t=659&scale=480x270&v=high"
+    },
+    {
+      "startTime": 655,
+      "title": "Krigen i Ukraina",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa19022326/63ace917-16.smil/thumb.jpg?t=680&scale=480x270&v=high"
+    },
+    {
+      "startTime": 711,
+      "title": "Direkte Kyiv",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa19022326/63ace917-16.smil/thumb.jpg?t=736&scale=480x270&v=high"
+    },
+    {
+      "startTime": 808,
+      "title": "Krigen i Ukraina",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa19022326/63ace917-16.smil/thumb.jpg?t=833&scale=480x270&v=high"
+    },
+    {
+      "startTime": 825,
+      "title": "Vinterveier",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa19022326/63ace917-16.smil/thumb.jpg?t=851&scale=480x270&v=high"
+    },
+    {
+      "startTime": 939,
+      "title": "Slankemedisin",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa19022326/63ace917-16.smil/thumb.jpg?t=964&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1070,
+      "title": "Antibiotika",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa19022326/63ace917-16.smil/thumb.jpg?t=1095&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1211,
+      "title": "Kristne i Syria",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa19022326/63ace917-16.smil/thumb.jpg?t=1236&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1228,
+      "title": "Direkte Aleppo",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa19022326/63ace917-16.smil/thumb.jpg?t=1253&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1272,
+      "title": "Kristne i Syria",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa19022326/63ace917-16.smil/thumb.jpg?t=1297&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1404,
+      "title": "Utenriksnyheter",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa19022326/63ace917-16.smil/thumb.jpg?t=1429&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1501,
+      "title": "Victoria Terrasse",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa19022326/63ace917-16.smil/thumb.jpg?t=1526&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1605,
+      "title": "OL-heltene kommer hjem",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa19022326/63ace917-16.smil/thumb.jpg?t=1630&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1726,
+      "title": "Gjester",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa19022326/63ace917-16.smil/thumb.jpg?t=1751&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2093,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa19022326/63ace917-16.smil/thumb.jpg?t=2118&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2096,
+      "title": "Glimt-Inter",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa19022326/63ace917-16.smil/thumb.jpg?t=2121&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2212,
+      "title": "Inter PK",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa19022326/63ace917-16.smil/thumb.jpg?t=2237&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2305,
+      "title": "Direkte Milano",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa19022326/63ace917-16.smil/thumb.jpg?t=2330&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2400,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa19022326/63ace917-16.smil/thumb.jpg?t=2426&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2587,
+      "title": "Markering Ukraina",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa19022326/63ace917-16.smil/thumb.jpg?t=2613&scale=480x270&v=high"
+    }
+  ]
+}
