@@ -1,0 +1,53 @@
+{
+  "version": "1.2.0",
+  "title": "Besøkte kongen",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-47.akamaized.net/open/ps/nnfa/nnfa21022526/48484166-16.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 24,
+      "title": "Snur om lobbyregister",
+      "img": "https://nrk-od-world-47.akamaized.net/open/ps/nnfa/nnfa21022526/48484166-16.smil/thumb.jpg?t=49&scale=480x270&v=high"
+    },
+    {
+      "startTime": 131,
+      "title": "Kongen innlagt",
+      "img": "https://nrk-od-world-47.akamaized.net/open/ps/nnfa/nnfa21022526/48484166-16.smil/thumb.jpg?t=156&scale=480x270&v=high"
+    },
+    {
+      "startTime": 175,
+      "title": "Cuba",
+      "img": "https://nrk-od-world-47.akamaized.net/open/ps/nnfa/nnfa21022526/48484166-16.smil/thumb.jpg?t=200&scale=480x270&v=high"
+    },
+    {
+      "startTime": 196,
+      "title": "Island EU",
+      "img": "https://nrk-od-world-47.akamaized.net/open/ps/nnfa/nnfa21022526/48484166-16.smil/thumb.jpg?t=221&scale=480x270&v=high"
+    },
+    {
+      "startTime": 242,
+      "title": "Støre i Ukraina",
+      "img": "https://nrk-od-world-47.akamaized.net/open/ps/nnfa/nnfa21022526/48484166-16.smil/thumb.jpg?t=267&scale=480x270&v=high"
+    },
+    {
+      "startTime": 340,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-47.akamaized.net/open/ps/nnfa/nnfa21022526/48484166-16.smil/thumb.jpg?t=365&scale=480x270&v=high"
+    },
+    {
+      "startTime": 393,
+      "title": "Bryter med Ap",
+      "img": "https://nrk-od-world-47.akamaized.net/open/ps/nnfa/nnfa21022526/48484166-16.smil/thumb.jpg?t=419&scale=480x270&v=high"
+    },
+    {
+      "startTime": 504,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-47.akamaized.net/open/ps/nnfa/nnfa21022526/48484166-16.smil/thumb.jpg?t=530&scale=480x270&v=high"
+    }
+  ]
+}
