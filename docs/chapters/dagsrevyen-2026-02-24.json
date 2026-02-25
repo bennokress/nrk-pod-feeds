@@ -1,0 +1,158 @@
+{
+  "version": "1.2.0",
+  "title": "Stor støtte til Zelenskyj",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 6,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa19022426/c4b8eaf4-19.smil/thumb.jpg?t=32&scale=480x270&v=high"
+    },
+    {
+      "startTime": 63,
+      "title": "Kyiv",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa19022426/c4b8eaf4-19.smil/thumb.jpg?t=89&scale=480x270&v=high"
+    },
+    {
+      "startTime": 97,
+      "title": "Direkte: Kyiv",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa19022426/c4b8eaf4-19.smil/thumb.jpg?t=123&scale=480x270&v=high"
+    },
+    {
+      "startTime": 159,
+      "title": "Kyiv",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa19022426/c4b8eaf4-19.smil/thumb.jpg?t=185&scale=480x270&v=high"
+    },
+    {
+      "startTime": 269,
+      "title": "Putin om Ukraina-krigen",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa19022426/c4b8eaf4-19.smil/thumb.jpg?t=294&scale=480x270&v=high"
+    },
+    {
+      "startTime": 299,
+      "title": "Direkte Russland",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa19022426/c4b8eaf4-19.smil/thumb.jpg?t=325&scale=480x270&v=high"
+    },
+    {
+      "startTime": 404,
+      "title": "Russland",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa19022426/c4b8eaf4-19.smil/thumb.jpg?t=430&scale=480x270&v=high"
+    },
+    {
+      "startTime": 522,
+      "title": "Ukraina status",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa19022426/c4b8eaf4-19.smil/thumb.jpg?t=548&scale=480x270&v=high"
+    },
+    {
+      "startTime": 575,
+      "title": "Direkte: Ukraina",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa19022426/c4b8eaf4-19.smil/thumb.jpg?t=601&scale=480x270&v=high"
+    },
+    {
+      "startTime": 650,
+      "title": "Gjest: Kristoffersen",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa19022426/c4b8eaf4-19.smil/thumb.jpg?t=675&scale=480x270&v=high"
+    },
+    {
+      "startTime": 777,
+      "title": "Ukrainere i Norge",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa19022426/c4b8eaf4-19.smil/thumb.jpg?t=803&scale=480x270&v=high"
+    },
+    {
+      "startTime": 878,
+      "title": "Demo Ukrainere",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa19022426/c4b8eaf4-19.smil/thumb.jpg?t=903&scale=480x270&v=high"
+    },
+    {
+      "startTime": 916,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa19022426/c4b8eaf4-19.smil/thumb.jpg?t=941&scale=480x270&v=high"
+    },
+    {
+      "startTime": 972,
+      "title": "State of the Union",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa19022426/c4b8eaf4-19.smil/thumb.jpg?t=997&scale=480x270&v=high"
+    },
+    {
+      "startTime": 996,
+      "title": "Direkte Washington",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa19022426/c4b8eaf4-19.smil/thumb.jpg?t=1021&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1071,
+      "title": "Høiby-rettssaken",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa19022426/c4b8eaf4-19.smil/thumb.jpg?t=1097&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1213,
+      "title": "Gjest: Ravndal",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa19022426/c4b8eaf4-19.smil/thumb.jpg?t=1238&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1324,
+      "title": "Partimåling",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa19022426/c4b8eaf4-19.smil/thumb.jpg?t=1350&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1432,
+      "title": "Gjest: Lars Nehru Sand",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa19022426/c4b8eaf4-19.smil/thumb.jpg?t=1457&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1534,
+      "title": "Lier-Hansen rettssak",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa19022426/c4b8eaf4-19.smil/thumb.jpg?t=1559&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1643,
+      "title": "Gjest Jens Stoltenberg",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa19022426/c4b8eaf4-19.smil/thumb.jpg?t=1668&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2042,
+      "title": "Spisevegring",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa19022426/c4b8eaf4-19.smil/thumb.jpg?t=2068&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2163,
+      "title": "Trailer Debatten",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa19022426/c4b8eaf4-19.smil/thumb.jpg?t=2189&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2187,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa19022426/c4b8eaf4-19.smil/thumb.jpg?t=2212&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2194,
+      "title": "Mesterligaen",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa19022426/c4b8eaf4-19.smil/thumb.jpg?t=2220&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2215,
+      "title": "Inter-Bodø Glimt",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa19022426/c4b8eaf4-19.smil/thumb.jpg?t=2241&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2320,
+      "title": "Bodø klar for fest",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa19022426/c4b8eaf4-19.smil/thumb.jpg?t=2346&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2403,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa19022426/c4b8eaf4-19.smil/thumb.jpg?t=2428&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2571,
+      "title": "Kyiv pressekonferanse",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa19022426/c4b8eaf4-19.smil/thumb.jpg?t=2597&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2577,
+      "title": "Direkte Kyiv",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa19022426/c4b8eaf4-19.smil/thumb.jpg?t=2603&scale=480x270&v=high"
+    }
+  ]
+}
