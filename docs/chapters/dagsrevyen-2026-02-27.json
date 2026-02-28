@@ -1,0 +1,103 @@
+{
+  "version": "1.2.0",
+  "title": "Fotballspillere siktet for kampfiksing",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 8,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa19022726/dd99f9c3-15.smil/thumb.jpg?t=33&scale=480x270&v=high"
+    },
+    {
+      "startTime": 64,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa19022726/dd99f9c3-15.smil/thumb.jpg?t=90&scale=480x270&v=high"
+    },
+    {
+      "startTime": 70,
+      "title": "Kampfiksing",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa19022726/dd99f9c3-15.smil/thumb.jpg?t=96&scale=480x270&v=high"
+    },
+    {
+      "startTime": 132,
+      "title": "Direkte Tønsberg",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa19022726/dd99f9c3-15.smil/thumb.jpg?t=158&scale=480x270&v=high"
+    },
+    {
+      "startTime": 216,
+      "title": "Clinton",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa19022726/dd99f9c3-15.smil/thumb.jpg?t=242&scale=480x270&v=high"
+    },
+    {
+      "startTime": 336,
+      "title": "Direkte: Washington D.C.",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa19022726/dd99f9c3-15.smil/thumb.jpg?t=361&scale=480x270&v=high"
+    },
+    {
+      "startTime": 438,
+      "title": "Formuesskatt",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa19022726/dd99f9c3-15.smil/thumb.jpg?t=464&scale=480x270&v=high"
+    },
+    {
+      "startTime": 578,
+      "title": "Gjest: Cecilie Langum Becker",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa19022726/dd99f9c3-15.smil/thumb.jpg?t=604&scale=480x270&v=high"
+    },
+    {
+      "startTime": 662,
+      "title": "Bombet Kabul",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa19022726/dd99f9c3-15.smil/thumb.jpg?t=688&scale=480x270&v=high"
+    },
+    {
+      "startTime": 793,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa19022726/dd99f9c3-15.smil/thumb.jpg?t=819&scale=480x270&v=high"
+    },
+    {
+      "startTime": 872,
+      "title": "Høiby-saken",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa19022726/dd99f9c3-15.smil/thumb.jpg?t=898&scale=480x270&v=high"
+    },
+    {
+      "startTime": 984,
+      "title": "Batteriaksjer i null",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa19022726/dd99f9c3-15.smil/thumb.jpg?t=1009&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1084,
+      "title": "Plast på polet",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa19022726/dd99f9c3-15.smil/thumb.jpg?t=1110&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1190,
+      "title": "Warner Bros",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa19022726/dd99f9c3-15.smil/thumb.jpg?t=1216&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1217,
+      "title": "Gjest: Inger Merete Hobbelstad",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa19022726/dd99f9c3-15.smil/thumb.jpg?t=1243&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1349,
+      "title": "MGP",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa19022726/dd99f9c3-15.smil/thumb.jpg?t=1375&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1460,
+      "title": "Glimt møter Sporting",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa19022726/dd99f9c3-15.smil/thumb.jpg?t=1486&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1553,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa19022726/dd99f9c3-15.smil/thumb.jpg?t=1579&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1726,
+      "title": "Yama int",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa19022726/dd99f9c3-15.smil/thumb.jpg?t=1751&scale=480x270&v=high"
+    }
+  ]
+}
