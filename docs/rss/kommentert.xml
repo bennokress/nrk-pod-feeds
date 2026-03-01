@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 26 Feb 2026 15:06:03 +0000</lastBuildDate>
-    <pubDate>Thu, 26 Feb 2026 15:00:00 +0100</pubDate>
+    <lastBuildDate>Sun, 01 Mar 2026 15:38:14 +0000</lastBuildDate>
+    <pubDate>Sun, 01 Mar 2026 16:12:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/fJea6fp4BPL_Nq5KkWIpQQdmDbwOyidlOkr0SZzAXrGg.jpg"/>
+    <item>
+      <title>Irans leder drept: Hva skjer nå?</title>
+      <description><![CDATA[USA og Israels angrep mot Iran er det største i midtøsten siden Irak-krigen. Irans øverste leder Ali Khamenei er drept, hva skjer nå? Kan det bli revolusjon i Iran? Og hvor stor kan denne krigen bli?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/783bd5e2-77f1-464d-bbd5-e277f1a64d4e_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/783bd5e2-77f1-464d-bbd5-e277f1a64d4e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>19:19</itunes:duration>
+      <pubDate>Sun, 01 Mar 2026 16:12:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/0CM7VvnAWsR6R8y8cGt_7AQ7MzZ9mCwefySr3bpM59zg.jpg"/>
+    </item>
     <item>
       <title>Børge Brende går av: Fortsatt ting vi lurer på</title>
       <description><![CDATA[Børge Brende, leder av Verdens økonomiske forum, trekker seg på grunn av kontakten med Epstein. Og nå sitter mange hjemme og tenker at vi har en elite her i Norge med altfor tette bånd, stemmer det? Og er vi i media en del av dette problemet?]]></description>
@@ -100,15 +109,6 @@ Og Trump sier han ikke vil ta Grønland med makt, men hva betyr det?]]></descrip
       <itunes:duration>20:35</itunes:duration>
       <pubDate>Wed, 21 Jan 2026 21:33:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/w0D6862s6iQtvAjV_Y4B8QdKztd3UubKZXydc-yV8khA.jpg"/>
-    </item>
-    <item>
-      <title>Trump truer Norge og Europa</title>
-      <description><![CDATA[Ekstraepisode: Donald Trump truer Norge og andre europeiske land fordi han vil ha Grønland. Er det nå vi i Europa sier stopp til Trump?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/77bb56cc-867c-4218-bb56-cc867cd21802_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kommentert/77bb56cc-867c-4218-bb56-cc867cd21802_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>26:48</itunes:duration>
-      <pubDate>Mon, 19 Jan 2026 12:35:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/tE3qTEH9AOf4fEkYZsMTdQFaV1elGRA00Iq5xOcRt6CA.jpg"/>
     </item>
   </channel>
 </rss>
