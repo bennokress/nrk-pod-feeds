@@ -1,0 +1,53 @@
+{
+  "version": "1.2.0",
+  "title": "Nye angrep mot Iran",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa21030126/ec8a7bf8-17.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 21,
+      "title": "Krigen i Midtøsten",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa21030126/ec8a7bf8-17.smil/thumb.jpg?t=47&scale=480x270&v=high"
+    },
+    {
+      "startTime": 67,
+      "title": "Gjest:",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa21030126/ec8a7bf8-17.smil/thumb.jpg?t=93&scale=480x270&v=high"
+    },
+    {
+      "startTime": 231,
+      "title": "USA og Iran",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa21030126/ec8a7bf8-17.smil/thumb.jpg?t=256&scale=480x270&v=high"
+    },
+    {
+      "startTime": 328,
+      "title": "Dubai utsatt for angrep",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa21030126/ec8a7bf8-17.smil/thumb.jpg?t=353&scale=480x270&v=high"
+    },
+    {
+      "startTime": 377,
+      "title": "Steinras Etne",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa21030126/ec8a7bf8-17.smil/thumb.jpg?t=403&scale=480x270&v=high"
+    },
+    {
+      "startTime": 405,
+      "title": "Hvalross på kaia",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa21030126/ec8a7bf8-17.smil/thumb.jpg?t=430&scale=480x270&v=high"
+    },
+    {
+      "startTime": 435,
+      "title": "Været",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa21030126/ec8a7bf8-17.smil/thumb.jpg?t=461&scale=480x270&v=high"
+    },
+    {
+      "startTime": 498,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa21030126/ec8a7bf8-17.smil/thumb.jpg?t=524&scale=480x270&v=high"
+    }
+  ]
+}
