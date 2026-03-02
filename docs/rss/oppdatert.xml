@@ -8,16 +8,25 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 27 Feb 2026 06:07:05 +0000</lastBuildDate>
-    <pubDate>Fri, 27 Feb 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 02 Mar 2026 06:06:54 +0000</lastBuildDate>
+    <pubDate>Mon, 02 Mar 2026 05:59:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw.jpg"/>
+    <item>
+      <title>Den dødelige bussbrannen: Hva skjedde i Enebakk?</title>
+      <description><![CDATA[5. juli blir livet til busspassasjerene på rutebussen til Enebakk endret for alltid. Hva var det som skjedde på bakerste rad i bussen?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/b846e317-b47a-4c19-86e3-17b47a7c1904_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/b846e317-b47a-4c19-86e3-17b47a7c1904_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>14:06</itunes:duration>
+      <pubDate>Mon, 02 Mar 2026 05:59:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/0FLqzABS-YLy7VVO-R3lOQ68enGKG9YMUEIhxOoTrbdQ.jpg"/>
+    </item>
     <item>
       <title>Kirurgen rystet Norge: Jobber fortsatt i Tyskland</title>
       <description><![CDATA[Legen som feilopererte flere titalls pasienter i Norge har skadet en ny pasient i Tyskland.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/752d3fc3-052c-4862-ad3f-c3052c386243_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/oppdatert/752d3fc3-052c-4862-ad3f-c3052c386243_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>18:49</itunes:duration>
+      <itunes:duration>18:47</itunes:duration>
       <pubDate>Fri, 27 Feb 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/GWeozs31wiHrIJkmkGsnuQHWUMTK3OPEKFL3mjzCfoOg.jpg"/>
     </item>
@@ -92,15 +101,6 @@
       <itunes:duration>19:05</itunes:duration>
       <pubDate>Tue, 17 Feb 2026 05:59:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/TRDK6sutEhMyGIgCgtAjkgnpZZyNLGXHu0at0ddz0jfg.jpg"/>
-    </item>
-    <item>
-      <title>Voldtektssak i retten: Slik kan den påvirke Høiby</title>
-      <description><![CDATA[En dom som behandles på nytt i Høyesterett kan få betydning for Marius Borg Høiby dersom han blir dømt for voldtekt.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/88c5c228-93fe-4545-85c2-2893feb545e5_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/oppdatert/88c5c228-93fe-4545-85c2-2893feb545e5_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>19:28</itunes:duration>
-      <pubDate>Mon, 16 Feb 2026 05:59:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/_GJioOz0bUltzkQL6s03iwdo75UupvOl7cHfuD-G86-g.jpg"/>
     </item>
   </channel>
 </rss>
