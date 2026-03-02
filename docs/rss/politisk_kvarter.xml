@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 27 Feb 2026 07:13:23 +0000</lastBuildDate>
-    <pubDate>Fri, 27 Feb 2026 08:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 02 Mar 2026 07:16:10 +0000</lastBuildDate>
+    <pubDate>Mon, 02 Mar 2026 08:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/k2Qj3WP1bIp9rJ7Ruw7J_AjM4xS3AUNipR-3he47nZKg.jpg"/>
+    <item>
+      <title>Blir det bedre i Iran nå?</title>
+      <description><![CDATA[En ny vår, et nytt prestestyre eller kaos og storkrig? Statsministeren og to norskiranere om krigen i Midtøsten.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/327ca92f-3024-45e0-bca9-2f3024e5e0d8_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/327ca92f-3024-45e0-bca9-2f3024e5e0d8_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:01</itunes:duration>
+      <pubDate>Mon, 02 Mar 2026 08:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/2g5UYCFXKldH4TzNuE_CBwYyxEbPROhozl4QNOq-y4qQ.jpg"/>
+    </item>
     <item>
       <title>Innstrammingsministeren</title>
       <description><![CDATA[Justisminister Aas-Hansen vil sleppe inn færre ukrainske menn, og ho vil ha retursenter i andre land.]]></description>
@@ -96,15 +105,6 @@ Men er det allerede for sent?]]></description>
       <itunes:duration>15:11</itunes:duration>
       <pubDate>Tue, 17 Feb 2026 08:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/_Z6LQtPVjgl3_NbSuXWoAAi3mWUuT22mY_1ZtYE8T_sg.jpg"/>
-    </item>
-    <item>
-      <title>Går nye Høgre til høgre?</title>
-      <description><![CDATA[Tok Høgre-landsmøtet partiet i blåare retning i saker som formuesskatt og EU?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/415e2971-1b7a-475d-9e29-711b7af75d30_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/415e2971-1b7a-475d-9e29-711b7af75d30_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:07</itunes:duration>
-      <pubDate>Mon, 16 Feb 2026 08:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/W9aYGedeopaknTbbGqGZTQrB4TK5YUHQ7u8irCRI37RA.jpg"/>
     </item>
   </channel>
 </rss>
