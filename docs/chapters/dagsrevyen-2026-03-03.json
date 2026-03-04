@@ -1,0 +1,143 @@
+{
+  "version": "1.2.0",
+  "title": "Begravet skolebarna",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 7,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa19030326/8cef7209-15.smil/thumb.jpg?t=33&scale=480x270&v=high"
+    },
+    {
+      "startTime": 63,
+      "title": "Krigen i Midtøsten",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa19030326/8cef7209-15.smil/thumb.jpg?t=88&scale=480x270&v=high"
+    },
+    {
+      "startTime": 188,
+      "title": "Direkte Istanbul",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa19030326/8cef7209-15.smil/thumb.jpg?t=214&scale=480x270&v=high"
+    },
+    {
+      "startTime": 297,
+      "title": "Nordmann død",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa19030326/8cef7209-15.smil/thumb.jpg?t=323&scale=480x270&v=high"
+    },
+    {
+      "startTime": 332,
+      "title": "Direkte Tel Aviv",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa19030326/8cef7209-15.smil/thumb.jpg?t=358&scale=480x270&v=high"
+    },
+    {
+      "startTime": 455,
+      "title": "Utenrikspolitisk redegjørelse",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa19030326/8cef7209-15.smil/thumb.jpg?t=480&scale=480x270&v=high"
+    },
+    {
+      "startTime": 579,
+      "title": "Norske evakuert",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa19030326/8cef7209-15.smil/thumb.jpg?t=604&scale=480x270&v=high"
+    },
+    {
+      "startTime": 695,
+      "title": "Direkte Oslo",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa19030326/8cef7209-15.smil/thumb.jpg?t=721&scale=480x270&v=high"
+    },
+    {
+      "startTime": 801,
+      "title": "Skipstrafikk Hormuz",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa19030326/8cef7209-15.smil/thumb.jpg?t=827&scale=480x270&v=high"
+    },
+    {
+      "startTime": 917,
+      "title": "Trump om Iran",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa19030326/8cef7209-15.smil/thumb.jpg?t=942&scale=480x270&v=high"
+    },
+    {
+      "startTime": 997,
+      "title": "Grafikk atom",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa19030326/8cef7209-15.smil/thumb.jpg?t=1023&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1046,
+      "title": "Gjest Kippe",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa19030326/8cef7209-15.smil/thumb.jpg?t=1071&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1218,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa19030326/8cef7209-15.smil/thumb.jpg?t=1243&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1383,
+      "title": "Salting på veiene",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa19030326/8cef7209-15.smil/thumb.jpg?t=1409&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1492,
+      "title": "16-åring tiltalt",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa19030326/8cef7209-15.smil/thumb.jpg?t=1517&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1604,
+      "title": "Direkte Sandnes",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa19030326/8cef7209-15.smil/thumb.jpg?t=1630&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1666,
+      "title": "Fensfeltet",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa19030326/8cef7209-15.smil/thumb.jpg?t=1692&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1795,
+      "title": "Propaganda musikk",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa19030326/8cef7209-15.smil/thumb.jpg?t=1820&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1892,
+      "title": "Gjest Slettemark",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa19030326/8cef7209-15.smil/thumb.jpg?t=1918&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1998,
+      "title": "Iranske musikere",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa19030326/8cef7209-15.smil/thumb.jpg?t=2024&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2109,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa19030326/8cef7209-15.smil/thumb.jpg?t=2135&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2114,
+      "title": "VM-kvalifisering",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa19030326/8cef7209-15.smil/thumb.jpg?t=2139&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2179,
+      "title": "U23-VM, Langrenn",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa19030326/8cef7209-15.smil/thumb.jpg?t=2204&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2232,
+      "title": "Landslaget",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa19030326/8cef7209-15.smil/thumb.jpg?t=2258&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2321,
+      "title": "Fotball, Eliteserien",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa19030326/8cef7209-15.smil/thumb.jpg?t=2347&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2389,
+      "title": "Trailer Debatten",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa19030326/8cef7209-15.smil/thumb.jpg?t=2415&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2419,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa19030326/8cef7209-15.smil/thumb.jpg?t=2445&scale=480x270&v=high"
+    }
+  ]
+}
