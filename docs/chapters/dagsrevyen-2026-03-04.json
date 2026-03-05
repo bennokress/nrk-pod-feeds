@@ -1,0 +1,123 @@
+{
+  "version": "1.2.0",
+  "title": "Krigsskip senket",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 11,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-00.akamaized.net/open/ps/nnfa/nnfa19030426/14afd7d0-16.smil/thumb.jpg?t=36&scale=480x270&v=high"
+    },
+    {
+      "startTime": 61,
+      "title": "Krigen i Midtøsten",
+      "img": "https://nrk-od-world-00.akamaized.net/open/ps/nnfa/nnfa19030426/14afd7d0-16.smil/thumb.jpg?t=87&scale=480x270&v=high"
+    },
+    {
+      "startTime": 186,
+      "title": "Direkte Tyrkia",
+      "img": "https://nrk-od-world-00.akamaized.net/open/ps/nnfa/nnfa19030426/14afd7d0-16.smil/thumb.jpg?t=212&scale=480x270&v=high"
+    },
+    {
+      "startTime": 283,
+      "title": "Direkte Tel Aviv",
+      "img": "https://nrk-od-world-00.akamaized.net/open/ps/nnfa/nnfa19030426/14afd7d0-16.smil/thumb.jpg?t=308&scale=480x270&v=high"
+    },
+    {
+      "startTime": 414,
+      "title": "Krigen i Midtøsten",
+      "img": "https://nrk-od-world-00.akamaized.net/open/ps/nnfa/nnfa19030426/14afd7d0-16.smil/thumb.jpg?t=439&scale=480x270&v=high"
+    },
+    {
+      "startTime": 545,
+      "title": "Kriseteam Dubai",
+      "img": "https://nrk-od-world-00.akamaized.net/open/ps/nnfa/nnfa19030426/14afd7d0-16.smil/thumb.jpg?t=571&scale=480x270&v=high"
+    },
+    {
+      "startTime": 615,
+      "title": "Konsekvenser krig",
+      "img": "https://nrk-od-world-00.akamaized.net/open/ps/nnfa/nnfa19030426/14afd7d0-16.smil/thumb.jpg?t=641&scale=480x270&v=high"
+    },
+    {
+      "startTime": 704,
+      "title": "Anmeld svindel",
+      "img": "https://nrk-od-world-00.akamaized.net/open/ps/nnfa/nnfa19030426/14afd7d0-16.smil/thumb.jpg?t=730&scale=480x270&v=high"
+    },
+    {
+      "startTime": 811,
+      "title": "Høiby-saken",
+      "img": "https://nrk-od-world-00.akamaized.net/open/ps/nnfa/nnfa19030426/14afd7d0-16.smil/thumb.jpg?t=836&scale=480x270&v=high"
+    },
+    {
+      "startTime": 941,
+      "title": "Gjest Ravndal",
+      "img": "https://nrk-od-world-00.akamaized.net/open/ps/nnfa/nnfa19030426/14afd7d0-16.smil/thumb.jpg?t=967&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1076,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-00.akamaized.net/open/ps/nnfa/nnfa19030426/14afd7d0-16.smil/thumb.jpg?t=1102&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1159,
+      "title": "Boligprisene",
+      "img": "https://nrk-od-world-00.akamaized.net/open/ps/nnfa/nnfa19030426/14afd7d0-16.smil/thumb.jpg?t=1185&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1307,
+      "title": "Bertelsen & Garpestad",
+      "img": "https://nrk-od-world-00.akamaized.net/open/ps/nnfa/nnfa19030426/14afd7d0-16.smil/thumb.jpg?t=1333&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1456,
+      "title": "Fakkeltog for lege",
+      "img": "https://nrk-od-world-00.akamaized.net/open/ps/nnfa/nnfa19030426/14afd7d0-16.smil/thumb.jpg?t=1482&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1587,
+      "title": "USA og EU",
+      "img": "https://nrk-od-world-00.akamaized.net/open/ps/nnfa/nnfa19030426/14afd7d0-16.smil/thumb.jpg?t=1613&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1931,
+      "title": "Venter på skreien",
+      "img": "https://nrk-od-world-00.akamaized.net/open/ps/nnfa/nnfa19030426/14afd7d0-16.smil/thumb.jpg?t=1957&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2043,
+      "title": "Team Pølsa",
+      "img": "https://nrk-od-world-00.akamaized.net/open/ps/nnfa/nnfa19030426/14afd7d0-16.smil/thumb.jpg?t=2068&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2134,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-00.akamaized.net/open/ps/nnfa/nnfa19030426/14afd7d0-16.smil/thumb.jpg?t=2160&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2140,
+      "title": "Skiskyting",
+      "img": "https://nrk-od-world-00.akamaized.net/open/ps/nnfa/nnfa19030426/14afd7d0-16.smil/thumb.jpg?t=2166&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2236,
+      "title": "Håndball",
+      "img": "https://nrk-od-world-00.akamaized.net/open/ps/nnfa/nnfa19030426/14afd7d0-16.smil/thumb.jpg?t=2261&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2255,
+      "title": "Toppserien",
+      "img": "https://nrk-od-world-00.akamaized.net/open/ps/nnfa/nnfa19030426/14afd7d0-16.smil/thumb.jpg?t=2281&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2347,
+      "title": "Hundeløp",
+      "img": "https://nrk-od-world-00.akamaized.net/open/ps/nnfa/nnfa19030426/14afd7d0-16.smil/thumb.jpg?t=2373&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2460,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-00.akamaized.net/open/ps/nnfa/nnfa19030426/14afd7d0-16.smil/thumb.jpg?t=2486&scale=480x270&v=high"
+    }
+  ]
+}
