@@ -1,0 +1,143 @@
+{
+  "version": "1.2.0",
+  "title": "Folk rømmer",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 6,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa19030526/feb9e3d7-16.smil/thumb.jpg?t=32&scale=480x270&v=high"
+    },
+    {
+      "startTime": 60,
+      "title": "Israel Beirut",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa19030526/feb9e3d7-16.smil/thumb.jpg?t=86&scale=480x270&v=high"
+    },
+    {
+      "startTime": 89,
+      "title": "Direkte Tel Aviv",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa19030526/feb9e3d7-16.smil/thumb.jpg?t=115&scale=480x270&v=high"
+    },
+    {
+      "startTime": 202,
+      "title": "Krigen i Midtøsten",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa19030526/feb9e3d7-16.smil/thumb.jpg?t=227&scale=480x270&v=high"
+    },
+    {
+      "startTime": 309,
+      "title": "Direkte Tyrkia",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa19030526/feb9e3d7-16.smil/thumb.jpg?t=335&scale=480x270&v=high"
+    },
+    {
+      "startTime": 400,
+      "title": "Krigen i Midtøsten",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa19030526/feb9e3d7-16.smil/thumb.jpg?t=426&scale=480x270&v=high"
+    },
+    {
+      "startTime": 512,
+      "title": "Direkte Dubai",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa19030526/feb9e3d7-16.smil/thumb.jpg?t=537&scale=480x270&v=high"
+    },
+    {
+      "startTime": 661,
+      "title": "Press i økonomien",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa19030526/feb9e3d7-16.smil/thumb.jpg?t=687&scale=480x270&v=high"
+    },
+    {
+      "startTime": 767,
+      "title": "Gjest Langum Becker",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa19030526/feb9e3d7-16.smil/thumb.jpg?t=793&scale=480x270&v=high"
+    },
+    {
+      "startTime": 883,
+      "title": "Tanskip",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa19030526/feb9e3d7-16.smil/thumb.jpg?t=908&scale=480x270&v=high"
+    },
+    {
+      "startTime": 903,
+      "title": "Lier-Hansen-saken",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa19030526/feb9e3d7-16.smil/thumb.jpg?t=929&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1066,
+      "title": "Gjest Røe Isaksen",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa19030526/feb9e3d7-16.smil/thumb.jpg?t=1091&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1197,
+      "title": "Datasenter hytte",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa19030526/feb9e3d7-16.smil/thumb.jpg?t=1222&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1344,
+      "title": "Høiby-saken",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa19030526/feb9e3d7-16.smil/thumb.jpg?t=1370&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1482,
+      "title": "Gjest Ravndal",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa19030526/feb9e3d7-16.smil/thumb.jpg?t=1508&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1629,
+      "title": "Vassdalen-ulykken",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa19030526/feb9e3d7-16.smil/thumb.jpg?t=1654&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1765,
+      "title": "Innvandring UK",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa19030526/feb9e3d7-16.smil/thumb.jpg?t=1790&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1891,
+      "title": "Direkte Brussel",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa19030526/feb9e3d7-16.smil/thumb.jpg?t=1917&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2010,
+      "title": "Sortland i blått",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa19030526/feb9e3d7-16.smil/thumb.jpg?t=2035&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2124,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa19030526/feb9e3d7-16.smil/thumb.jpg?t=2150&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2129,
+      "title": "Paralympics",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa19030526/feb9e3d7-16.smil/thumb.jpg?t=2155&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2221,
+      "title": "V-cup, hopp",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa19030526/feb9e3d7-16.smil/thumb.jpg?t=2247&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2242,
+      "title": "V-cup, skiskyting",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa19030526/feb9e3d7-16.smil/thumb.jpg?t=2267&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2264,
+      "title": "Fotball, gambling",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa19030526/feb9e3d7-16.smil/thumb.jpg?t=2290&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2353,
+      "title": "Fotball, landslag",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa19030526/feb9e3d7-16.smil/thumb.jpg?t=2378&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2442,
+      "title": "Trailer Debatten",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa19030526/feb9e3d7-16.smil/thumb.jpg?t=2468&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2475,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa19030526/feb9e3d7-16.smil/thumb.jpg?t=2500&scale=480x270&v=high"
+    }
+  ]
+}
