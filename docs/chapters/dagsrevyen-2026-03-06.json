@@ -1,0 +1,108 @@
+{
+  "version": "1.2.0",
+  "title": "Hjemme etter marerittferie",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 3,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-49.akamaized.net/open/ps/nnfa/nnfa19030626/94a7f305-16.smil/thumb.jpg?t=28&scale=480x270&v=high"
+    },
+    {
+      "startTime": 63,
+      "title": "Snøskred",
+      "img": "https://nrk-od-world-49.akamaized.net/open/ps/nnfa/nnfa19030626/94a7f305-16.smil/thumb.jpg?t=89&scale=480x270&v=high"
+    },
+    {
+      "startTime": 77,
+      "title": "Direkte Narvik",
+      "img": "https://nrk-od-world-49.akamaized.net/open/ps/nnfa/nnfa19030626/94a7f305-16.smil/thumb.jpg?t=102&scale=480x270&v=high"
+    },
+    {
+      "startTime": 150,
+      "title": "Snøskred",
+      "img": "https://nrk-od-world-49.akamaized.net/open/ps/nnfa/nnfa19030626/94a7f305-16.smil/thumb.jpg?t=175&scale=480x270&v=high"
+    },
+    {
+      "startTime": 199,
+      "title": "Krigen i Midtøsten",
+      "img": "https://nrk-od-world-49.akamaized.net/open/ps/nnfa/nnfa19030626/94a7f305-16.smil/thumb.jpg?t=225&scale=480x270&v=high"
+    },
+    {
+      "startTime": 446,
+      "title": "Direkte Tyrkia",
+      "img": "https://nrk-od-world-49.akamaized.net/open/ps/nnfa/nnfa19030626/94a7f305-16.smil/thumb.jpg?t=472&scale=480x270&v=high"
+    },
+    {
+      "startTime": 553,
+      "title": "Krigen i Midtøsten",
+      "img": "https://nrk-od-world-49.akamaized.net/open/ps/nnfa/nnfa19030626/94a7f305-16.smil/thumb.jpg?t=578&scale=480x270&v=high"
+    },
+    {
+      "startTime": 650,
+      "title": "Trump og Epstein",
+      "img": "https://nrk-od-world-49.akamaized.net/open/ps/nnfa/nnfa19030626/94a7f305-16.smil/thumb.jpg?t=676&scale=480x270&v=high"
+    },
+    {
+      "startTime": 669,
+      "title": "Direkte USA",
+      "img": "https://nrk-od-world-49.akamaized.net/open/ps/nnfa/nnfa19030626/94a7f305-16.smil/thumb.jpg?t=695&scale=480x270&v=high"
+    },
+    {
+      "startTime": 770,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-49.akamaized.net/open/ps/nnfa/nnfa19030626/94a7f305-16.smil/thumb.jpg?t=796&scale=480x270&v=high"
+    },
+    {
+      "startTime": 972,
+      "title": "Høiby-saken",
+      "img": "https://nrk-od-world-49.akamaized.net/open/ps/nnfa/nnfa19030626/94a7f305-16.smil/thumb.jpg?t=997&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1046,
+      "title": "Cold Response",
+      "img": "https://nrk-od-world-49.akamaized.net/open/ps/nnfa/nnfa19030626/94a7f305-16.smil/thumb.jpg?t=1072&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1149,
+      "title": "Få kvinnelige fiskere",
+      "img": "https://nrk-od-world-49.akamaized.net/open/ps/nnfa/nnfa19030626/94a7f305-16.smil/thumb.jpg?t=1174&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1273,
+      "title": "Åpningsseremoni Paralympics",
+      "img": "https://nrk-od-world-49.akamaized.net/open/ps/nnfa/nnfa19030626/94a7f305-16.smil/thumb.jpg?t=1299&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1307,
+      "title": "Gjest: Saltvedt",
+      "img": "https://nrk-od-world-49.akamaized.net/open/ps/nnfa/nnfa19030626/94a7f305-16.smil/thumb.jpg?t=1333&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1397,
+      "title": "PL snowboard-drama",
+      "img": "https://nrk-od-world-49.akamaized.net/open/ps/nnfa/nnfa19030626/94a7f305-16.smil/thumb.jpg?t=1422&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1440,
+      "title": "Skiskyting 20km",
+      "img": "https://nrk-od-world-49.akamaized.net/open/ps/nnfa/nnfa19030626/94a7f305-16.smil/thumb.jpg?t=1465&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1458,
+      "title": "Vinterpakke",
+      "img": "https://nrk-od-world-49.akamaized.net/open/ps/nnfa/nnfa19030626/94a7f305-16.smil/thumb.jpg?t=1484&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1520,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-49.akamaized.net/open/ps/nnfa/nnfa19030626/94a7f305-16.smil/thumb.jpg?t=1545&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1681,
+      "title": "Direkte Narvik",
+      "img": "https://nrk-od-world-49.akamaized.net/open/ps/nnfa/nnfa19030626/94a7f305-16.smil/thumb.jpg?t=1706&scale=480x270&v=high"
+    }
+  ]
+}
