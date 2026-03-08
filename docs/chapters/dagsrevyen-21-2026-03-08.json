@@ -1,0 +1,53 @@
+{
+  "version": "1.2.0",
+  "title": "Irans nye leder",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa21030826/6deba5c9-17.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 25,
+      "title": "Eksplosjon",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa21030826/6deba5c9-17.smil/thumb.jpg?t=51&scale=480x270&v=high"
+    },
+    {
+      "startTime": 135,
+      "title": "STK-PAKKE",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa21030826/6deba5c9-17.smil/thumb.jpg?t=161&scale=480x270&v=high"
+    },
+    {
+      "startTime": 178,
+      "title": "Grunder",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa21030826/6deba5c9-17.smil/thumb.jpg?t=203&scale=480x270&v=high"
+    },
+    {
+      "startTime": 293,
+      "title": "Irans nye leder",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa21030826/6deba5c9-17.smil/thumb.jpg?t=319&scale=480x270&v=high"
+    },
+    {
+      "startTime": 381,
+      "title": "Irans uran",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa21030826/6deba5c9-17.smil/thumb.jpg?t=406&scale=480x270&v=high"
+    },
+    {
+      "startTime": 404,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa21030826/6deba5c9-17.smil/thumb.jpg?t=429&scale=480x270&v=high"
+    },
+    {
+      "startTime": 490,
+      "title": "Været",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa21030826/6deba5c9-17.smil/thumb.jpg?t=515&scale=480x270&v=high"
+    },
+    {
+      "startTime": 538,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa21030826/6deba5c9-17.smil/thumb.jpg?t=557.6&scale=480x270&v=high"
+    }
+  ]
+}
