@@ -1,0 +1,133 @@
+{
+  "version": "1.2.0",
+  "title": "Eksplosjon ved USAs ambassade",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 9,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa19030826/dd8fd607-15.smil/thumb.jpg?t=34&scale=480x270&v=high"
+    },
+    {
+      "startTime": 68,
+      "title": "Direkte: Politihuset",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa19030826/dd8fd607-15.smil/thumb.jpg?t=93&scale=480x270&v=high"
+    },
+    {
+      "startTime": 151,
+      "title": "Eksplosjon",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa19030826/dd8fd607-15.smil/thumb.jpg?t=176&scale=480x270&v=high"
+    },
+    {
+      "startTime": 250,
+      "title": "Ambassaden",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa19030826/dd8fd607-15.smil/thumb.jpg?t=276&scale=480x270&v=high"
+    },
+    {
+      "startTime": 294,
+      "title": "Reax eksplosjon",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa19030826/dd8fd607-15.smil/thumb.jpg?t=319&scale=480x270&v=high"
+    },
+    {
+      "startTime": 360,
+      "title": "Direkte: LIllesand",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa19030826/dd8fd607-15.smil/thumb.jpg?t=386&scale=480x270&v=high"
+    },
+    {
+      "startTime": 500,
+      "title": "Iran ny leder",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa19030826/dd8fd607-15.smil/thumb.jpg?t=526&scale=480x270&v=high"
+    },
+    {
+      "startTime": 621,
+      "title": "Direkte: Irak",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa19030826/dd8fd607-15.smil/thumb.jpg?t=647&scale=480x270&v=high"
+    },
+    {
+      "startTime": 711,
+      "title": "Kina Iran",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa19030826/dd8fd607-15.smil/thumb.jpg?t=736&scale=480x270&v=high"
+    },
+    {
+      "startTime": 840,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa19030826/dd8fd607-15.smil/thumb.jpg?t=866&scale=480x270&v=high"
+    },
+    {
+      "startTime": 910,
+      "title": "Berøringsangst i Finnmark",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa19030826/dd8fd607-15.smil/thumb.jpg?t=936&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1027,
+      "title": "Kvinnedagen Oslo",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa19030826/dd8fd607-15.smil/thumb.jpg?t=1053&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1127,
+      "title": "Kvinnedag Russland",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa19030826/dd8fd607-15.smil/thumb.jpg?t=1153&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1246,
+      "title": "Eksil-iranere i Israel",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa19030826/dd8fd607-15.smil/thumb.jpg?t=1271&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1603,
+      "title": "Syria",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa19030826/dd8fd607-15.smil/thumb.jpg?t=1628&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1892,
+      "title": "Fotoprosjekt i slummen",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa19030826/dd8fd607-15.smil/thumb.jpg?t=1918&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2175,
+      "title": "Skøyte gull",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa19030826/dd8fd607-15.smil/thumb.jpg?t=2200&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2264,
+      "title": "Cupen",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa19030826/dd8fd607-15.smil/thumb.jpg?t=2289&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2373,
+      "title": "Curling tap",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa19030826/dd8fd607-15.smil/thumb.jpg?t=2398&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2450,
+      "title": "Para snowboard",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa19030826/dd8fd607-15.smil/thumb.jpg?t=2476&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2494,
+      "title": "McGrath revansj",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa19030826/dd8fd607-15.smil/thumb.jpg?t=2520&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2567,
+      "title": "Klæbo suveren",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa19030826/dd8fd607-15.smil/thumb.jpg?t=2592&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2607,
+      "title": "Skiskyting",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa19030826/dd8fd607-15.smil/thumb.jpg?t=2632&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2635,
+      "title": "Paralympics",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa19030826/dd8fd607-15.smil/thumb.jpg?t=2660&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2740,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa19030826/dd8fd607-15.smil/thumb.jpg?t=2765&scale=480x270&v=high"
+    }
+  ]
+}
