@@ -1,0 +1,58 @@
+{
+  "version": "1.2.0",
+  "title": "Brødre pågrepet for terrorbombing",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa21031126/8c5baacf-17.smil/thumb.jpg?t=26&scale=480x270&v=high"
+    },
+    {
+      "startTime": 29,
+      "title": "Brødre terrorsiktet",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa21031126/8c5baacf-17.smil/thumb.jpg?t=55&scale=480x270&v=high"
+    },
+    {
+      "startTime": 163,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa21031126/8c5baacf-17.smil/thumb.jpg?t=189&scale=480x270&v=high"
+    },
+    {
+      "startTime": 232,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa21031126/8c5baacf-17.smil/thumb.jpg?t=258&scale=480x270&v=high"
+    },
+    {
+      "startTime": 301,
+      "title": "Trump om oljepris",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa21031126/8c5baacf-17.smil/thumb.jpg?t=327&scale=480x270&v=high"
+    },
+    {
+      "startTime": 351,
+      "title": "DAGSREVYPAKKE",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa21031126/8c5baacf-17.smil/thumb.jpg?t=377&scale=480x270&v=high"
+    },
+    {
+      "startTime": 451,
+      "title": "Fridykking",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa21031126/8c5baacf-17.smil/thumb.jpg?t=476&scale=480x270&v=high"
+    },
+    {
+      "startTime": 536,
+      "title": "Fotball",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa21031126/8c5baacf-17.smil/thumb.jpg?t=561&scale=480x270&v=high"
+    },
+    {
+      "startTime": 568,
+      "title": "Været",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa21031126/8c5baacf-17.smil/thumb.jpg?t=594&scale=480x270&v=high"
+    },
+    {
+      "startTime": 617,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa21031126/8c5baacf-17.smil/thumb.jpg?t=642&scale=480x270&v=high"
+    }
+  ]
+}
