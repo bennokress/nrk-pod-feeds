@@ -1,0 +1,148 @@
+{
+  "version": "1.2.0",
+  "title": "Brødre terrorpågrepet",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 10,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa19031126/677a7253-18.smil/thumb.jpg?t=36&scale=480x270&v=high"
+    },
+    {
+      "startTime": 74,
+      "title": "Etterforskning eksplosjon",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa19031126/677a7253-18.smil/thumb.jpg?t=99&scale=480x270&v=high"
+    },
+    {
+      "startTime": 184,
+      "title": "Direkte politihuset",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa19031126/677a7253-18.smil/thumb.jpg?t=210&scale=480x270&v=high"
+    },
+    {
+      "startTime": 266,
+      "title": "Direkte Oslo",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa19031126/677a7253-18.smil/thumb.jpg?t=291&scale=480x270&v=high"
+    },
+    {
+      "startTime": 313,
+      "title": "Direkte Ambassaden",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa19031126/677a7253-18.smil/thumb.jpg?t=339&scale=480x270&v=high"
+    },
+    {
+      "startTime": 420,
+      "title": "Endrede ferieplaner",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa19031126/677a7253-18.smil/thumb.jpg?t=446&scale=480x270&v=high"
+    },
+    {
+      "startTime": 533,
+      "title": "Norgesferie i år",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa19031126/677a7253-18.smil/thumb.jpg?t=559&scale=480x270&v=high"
+    },
+    {
+      "startTime": 622,
+      "title": "Gjest Odd Roar Lange",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa19031126/677a7253-18.smil/thumb.jpg?t=647&scale=480x270&v=high"
+    },
+    {
+      "startTime": 751,
+      "title": "Angrep mot skip",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa19031126/677a7253-18.smil/thumb.jpg?t=777&scale=480x270&v=high"
+    },
+    {
+      "startTime": 873,
+      "title": "Direkte: Erbil",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa19031126/677a7253-18.smil/thumb.jpg?t=899&scale=480x270&v=high"
+    },
+    {
+      "startTime": 997,
+      "title": "Witzøe",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa19031126/677a7253-18.smil/thumb.jpg?t=1023&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1087,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa19031126/677a7253-18.smil/thumb.jpg?t=1113&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1178,
+      "title": "Utenriksnyheter",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa19031126/677a7253-18.smil/thumb.jpg?t=1204&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1285,
+      "title": "Nye datasentre",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa19031126/677a7253-18.smil/thumb.jpg?t=1311&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1433,
+      "title": "Oscar",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa19031126/677a7253-18.smil/thumb.jpg?t=1459&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1506,
+      "title": "Direkte: Los Angeles",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa19031126/677a7253-18.smil/thumb.jpg?t=1532&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1616,
+      "title": "Oscar",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa19031126/677a7253-18.smil/thumb.jpg?t=1641&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1654,
+      "title": "EL-busser og kulde",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa19031126/677a7253-18.smil/thumb.jpg?t=1680&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1795,
+      "title": "Bodø resultater",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa19031126/677a7253-18.smil/thumb.jpg?t=1821&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1827,
+      "title": "Direkte: Bodø",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa19031126/677a7253-18.smil/thumb.jpg?t=1852&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1864,
+      "title": "Gjest: Kjell Terje Ringdal",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa19031126/677a7253-18.smil/thumb.jpg?t=1890&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2033,
+      "title": "Direkte Bodø",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa19031126/677a7253-18.smil/thumb.jpg?t=2058&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2143,
+      "title": "Lillestrøm kampprogram",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa19031126/677a7253-18.smil/thumb.jpg?t=2169&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2228,
+      "title": "Paralympics langrenn",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa19031126/677a7253-18.smil/thumb.jpg?t=2253&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2289,
+      "title": "Paralympics curling",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa19031126/677a7253-18.smil/thumb.jpg?t=2314&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2313,
+      "title": "Skiskyting",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa19031126/677a7253-18.smil/thumb.jpg?t=2338&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2382,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa19031126/677a7253-18.smil/thumb.jpg?t=2407&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2534,
+      "title": "Direkte Oslo",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa19031126/677a7253-18.smil/thumb.jpg?t=2560&scale=480x270&v=high"
+    }
+  ]
+}
