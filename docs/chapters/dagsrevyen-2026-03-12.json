@@ -1,0 +1,158 @@
+{
+  "version": "1.2.0",
+  "title": "Vil avslutte samarbeidet",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 10,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa19031226/62617c73-15.smil/thumb.jpg?t=35&scale=480x270&v=high"
+    },
+    {
+      "startTime": 57,
+      "title": "Aksjon Trondheim",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa19031226/62617c73-15.smil/thumb.jpg?t=82&scale=480x270&v=high"
+    },
+    {
+      "startTime": 79,
+      "title": "Det norske Jentekor",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa19031226/62617c73-15.smil/thumb.jpg?t=104&scale=480x270&v=high"
+    },
+    {
+      "startTime": 198,
+      "title": "Direkte: Bergestuen",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa19031226/62617c73-15.smil/thumb.jpg?t=224&scale=480x270&v=high"
+    },
+    {
+      "startTime": 347,
+      "title": "Kongen på jobb",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa19031226/62617c73-15.smil/thumb.jpg?t=373&scale=480x270&v=high"
+    },
+    {
+      "startTime": 380,
+      "title": "Direkte: Trondheim",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa19031226/62617c73-15.smil/thumb.jpg?t=405&scale=480x270&v=high"
+    },
+    {
+      "startTime": 483,
+      "title": "Michigan",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa19031226/62617c73-15.smil/thumb.jpg?t=509&scale=480x270&v=high"
+    },
+    {
+      "startTime": 504,
+      "title": "Direkte: Tel Aviv",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa19031226/62617c73-15.smil/thumb.jpg?t=530&scale=480x270&v=high"
+    },
+    {
+      "startTime": 632,
+      "title": "Krigen i Midtøsten",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa19031226/62617c73-15.smil/thumb.jpg?t=657&scale=480x270&v=high"
+    },
+    {
+      "startTime": 736,
+      "title": "Norges oljeinntekter",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa19031226/62617c73-15.smil/thumb.jpg?t=762&scale=480x270&v=high"
+    },
+    {
+      "startTime": 837,
+      "title": "Truet iranere",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa19031226/62617c73-15.smil/thumb.jpg?t=863&scale=480x270&v=high"
+    },
+    {
+      "startTime": 967,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa19031226/62617c73-15.smil/thumb.jpg?t=993&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1027,
+      "title": "Snøkrabbe kontrollsak",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa19031226/62617c73-15.smil/thumb.jpg?t=1053&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1145,
+      "title": "Pensum for norske elever",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa19031226/62617c73-15.smil/thumb.jpg?t=1170&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1242,
+      "title": "Gjest:Jonas Bakken",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa19031226/62617c73-15.smil/thumb.jpg?t=1267&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1347,
+      "title": "Utenriksnyheter",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa19031226/62617c73-15.smil/thumb.jpg?t=1372&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1467,
+      "title": "Infrastruktur kraft",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa19031226/62617c73-15.smil/thumb.jpg?t=1493&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1604,
+      "title": "Cold Response",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa19031226/62617c73-15.smil/thumb.jpg?t=1629&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1716,
+      "title": "Direkte: Andøya",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa19031226/62617c73-15.smil/thumb.jpg?t=1741&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1786,
+      "title": "Overgangsalder",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa19031226/62617c73-15.smil/thumb.jpg?t=1812&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1882,
+      "title": "Herremote på rød løper",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa19031226/62617c73-15.smil/thumb.jpg?t=1908&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2010,
+      "title": "Jubel i Bodø",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa19031226/62617c73-15.smil/thumb.jpg?t=2035&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2088,
+      "title": "Trailer Debatten",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa19031226/62617c73-15.smil/thumb.jpg?t=2114&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2122,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa19031226/62617c73-15.smil/thumb.jpg?t=2148&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2128,
+      "title": "Langrenn sprint",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa19031226/62617c73-15.smil/thumb.jpg?t=2153&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2203,
+      "title": "Skiskyting sprint",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa19031226/62617c73-15.smil/thumb.jpg?t=2228&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2268,
+      "title": "Bodø Glimt",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa19031226/62617c73-15.smil/thumb.jpg?t=2293&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2333,
+      "title": "Eliteserien",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa19031226/62617c73-15.smil/thumb.jpg?t=2359&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2414,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa19031226/62617c73-15.smil/thumb.jpg?t=2439&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2582,
+      "title": "Direkte: Trondheim",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa19031226/62617c73-15.smil/thumb.jpg?t=2607&scale=480x270&v=high"
+    }
+  ]
+}
