@@ -1,0 +1,118 @@
+{
+  "version": "1.2.0",
+  "title": "Veien ble til ei elv",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 10,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa19031326/50e9a17b-14.smil/thumb.jpg?t=36&scale=480x270&v=high"
+    },
+    {
+      "startTime": 64,
+      "title": "Uvær Østlandet",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa19031326/50e9a17b-14.smil/thumb.jpg?t=89&scale=480x270&v=high"
+    },
+    {
+      "startTime": 179,
+      "title": "Ambassade-eksplosjon",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa19031326/50e9a17b-14.smil/thumb.jpg?t=204&scale=480x270&v=high"
+    },
+    {
+      "startTime": 278,
+      "title": "Høiby-rettssaken",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa19031326/50e9a17b-14.smil/thumb.jpg?t=304&scale=480x270&v=high"
+    },
+    {
+      "startTime": 344,
+      "title": "Gjest: Dennis Ravndal",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa19031326/50e9a17b-14.smil/thumb.jpg?t=369&scale=480x270&v=high"
+    },
+    {
+      "startTime": 459,
+      "title": "Andøya",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa19031326/50e9a17b-14.smil/thumb.jpg?t=484&scale=480x270&v=high"
+    },
+    {
+      "startTime": 509,
+      "title": "Cold Response",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa19031326/50e9a17b-14.smil/thumb.jpg?t=535&scale=480x270&v=high"
+    },
+    {
+      "startTime": 616,
+      "title": "Hormuzstredet",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa19031326/50e9a17b-14.smil/thumb.jpg?t=641&scale=480x270&v=high"
+    },
+    {
+      "startTime": 639,
+      "title": "Direkte: Midtøsten",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa19031326/50e9a17b-14.smil/thumb.jpg?t=665&scale=480x270&v=high"
+    },
+    {
+      "startTime": 734,
+      "title": "Midtøsten",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa19031326/50e9a17b-14.smil/thumb.jpg?t=759&scale=480x270&v=high"
+    },
+    {
+      "startTime": 824,
+      "title": "Snøkrabbekvoter",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa19031326/50e9a17b-14.smil/thumb.jpg?t=850&scale=480x270&v=high"
+    },
+    {
+      "startTime": 967,
+      "title": "Arendal sykehus",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa19031326/50e9a17b-14.smil/thumb.jpg?t=992&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1002,
+      "title": "Lærdal lege",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa19031326/50e9a17b-14.smil/thumb.jpg?t=1028&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1129,
+      "title": "Oscar-forberedelser",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa19031326/50e9a17b-14.smil/thumb.jpg?t=1155&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1156,
+      "title": "Direkte: Los Angeles",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa19031326/50e9a17b-14.smil/thumb.jpg?t=1181&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1308,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa19031326/50e9a17b-14.smil/thumb.jpg?t=1334&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1313,
+      "title": "Saltvik",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa19031326/50e9a17b-14.smil/thumb.jpg?t=1338&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1383,
+      "title": "Lohne-Hansen",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa19031326/50e9a17b-14.smil/thumb.jpg?t=1409&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1415,
+      "title": "Skiskyting",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa19031326/50e9a17b-14.smil/thumb.jpg?t=1440&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1433,
+      "title": "Løwstrøm Nyenget",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa19031326/50e9a17b-14.smil/thumb.jpg?t=1458&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1509,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa19031326/50e9a17b-14.smil/thumb.jpg?t=1535&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1686,
+      "title": "Birken",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa19031326/50e9a17b-14.smil/thumb.jpg?t=1711&scale=480x270&v=high"
+    }
+  ]
+}
