@@ -1,0 +1,113 @@
+{
+  "version": "1.2.0",
+  "title": "Tilbake i Kollen",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 13,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa19031426/d4d2ecba-15.smil/thumb.jpg?t=38&scale=480x270&v=high"
+    },
+    {
+      "startTime": 77,
+      "title": "Bensinpriser",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa19031426/d4d2ecba-15.smil/thumb.jpg?t=103&scale=480x270&v=high"
+    },
+    {
+      "startTime": 230,
+      "title": "Gjest",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa19031426/d4d2ecba-15.smil/thumb.jpg?t=256&scale=480x270&v=high"
+    },
+    {
+      "startTime": 346,
+      "title": "Carney middag",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa19031426/d4d2ecba-15.smil/thumb.jpg?t=371&scale=480x270&v=high"
+    },
+    {
+      "startTime": 446,
+      "title": "STK",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa19031426/d4d2ecba-15.smil/thumb.jpg?t=472&scale=480x270&v=high"
+    },
+    {
+      "startTime": 471,
+      "title": "Gentest kreft",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa19031426/d4d2ecba-15.smil/thumb.jpg?t=496&scale=480x270&v=high"
+    },
+    {
+      "startTime": 599,
+      "title": "Habermas",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa19031426/d4d2ecba-15.smil/thumb.jpg?t=625&scale=480x270&v=high"
+    },
+    {
+      "startTime": 625,
+      "title": "Oscar",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa19031426/d4d2ecba-15.smil/thumb.jpg?t=650&scale=480x270&v=high"
+    },
+    {
+      "startTime": 820,
+      "title": "Femmila",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa19031426/d4d2ecba-15.smil/thumb.jpg?t=845&scale=480x270&v=high"
+    },
+    {
+      "startTime": 913,
+      "title": "Scooter-kino Hovden",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa19031426/d4d2ecba-15.smil/thumb.jpg?t=939&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1073,
+      "title": "Bernhard Ellefsen",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa19031426/d4d2ecba-15.smil/thumb.jpg?t=1099&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1415,
+      "title": "Traumepasienter",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa19031426/d4d2ecba-15.smil/thumb.jpg?t=1441&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1788,
+      "title": "Kultur beredskap",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa19031426/d4d2ecba-15.smil/thumb.jpg?t=1814&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2137,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa19031426/d4d2ecba-15.smil/thumb.jpg?t=2162&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2145,
+      "title": "Hedergart Kollen",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa19031426/d4d2ecba-15.smil/thumb.jpg?t=2170&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2216,
+      "title": "Rekord-Sturla",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa19031426/d4d2ecba-15.smil/thumb.jpg?t=2242&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2279,
+      "title": "Para stafettbronse",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa19031426/d4d2ecba-15.smil/thumb.jpg?t=2305&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2362,
+      "title": "Hopp kollen",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa19031426/d4d2ecba-15.smil/thumb.jpg?t=2388&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2381,
+      "title": "HamKam - Viking",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa19031426/d4d2ecba-15.smil/thumb.jpg?t=2406&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2401,
+      "title": "Birkenvinnere",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa19031426/d4d2ecba-15.smil/thumb.jpg?t=2427&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2470,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa19031426/d4d2ecba-15.smil/thumb.jpg?t=2495&scale=480x270&v=high"
+    }
+  ]
+}
