@@ -1,0 +1,43 @@
+{
+  "version": "1.2.0",
+  "title": "Dødelig døgn",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa21031526/6dcf50ba-16.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 27,
+      "title": "Palestinere drept",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa21031526/6dcf50ba-16.smil/thumb.jpg?t=53&scale=480x270&v=high"
+    },
+    {
+      "startTime": 138,
+      "title": "STK-PAKKE",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa21031526/6dcf50ba-16.smil/thumb.jpg?t=163&scale=480x270&v=high"
+    },
+    {
+      "startTime": 250,
+      "title": "Norsk film i Hollywood",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa21031526/6dcf50ba-16.smil/thumb.jpg?t=275&scale=480x270&v=high"
+    },
+    {
+      "startTime": 365,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa21031526/6dcf50ba-16.smil/thumb.jpg?t=390&scale=480x270&v=high"
+    },
+    {
+      "startTime": 481,
+      "title": "Været",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa21031526/6dcf50ba-16.smil/thumb.jpg?t=507&scale=480x270&v=high"
+    },
+    {
+      "startTime": 529,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa21031526/6dcf50ba-16.smil/thumb.jpg?t=548.64&scale=480x270&v=high"
+    }
+  ]
+}
