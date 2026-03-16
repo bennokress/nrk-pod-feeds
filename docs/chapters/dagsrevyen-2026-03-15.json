@@ -1,0 +1,118 @@
+{
+  "version": "1.2.0",
+  "title": "Styrker båndene",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 10,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-67.akamaized.net/open/ps/nnfa/nnfa19031526/900909d8-16.smil/thumb.jpg?t=35&scale=480x270&v=high"
+    },
+    {
+      "startTime": 74,
+      "title": "Nordisk toppmøte",
+      "img": "https://nrk-od-world-67.akamaized.net/open/ps/nnfa/nnfa19031526/900909d8-16.smil/thumb.jpg?t=100&scale=480x270&v=high"
+    },
+    {
+      "startTime": 191,
+      "title": "Gjest Sigurd F. Mikkelsen",
+      "img": "https://nrk-od-world-67.akamaized.net/open/ps/nnfa/nnfa19031526/900909d8-16.smil/thumb.jpg?t=216&scale=480x270&v=high"
+    },
+    {
+      "startTime": 299,
+      "title": "Oscar",
+      "img": "https://nrk-od-world-67.akamaized.net/open/ps/nnfa/nnfa19031526/900909d8-16.smil/thumb.jpg?t=324&scale=480x270&v=high"
+    },
+    {
+      "startTime": 412,
+      "title": "Direkte Los Angeles",
+      "img": "https://nrk-od-world-67.akamaized.net/open/ps/nnfa/nnfa19031526/900909d8-16.smil/thumb.jpg?t=437&scale=480x270&v=high"
+    },
+    {
+      "startTime": 536,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-67.akamaized.net/open/ps/nnfa/nnfa19031526/900909d8-16.smil/thumb.jpg?t=561&scale=480x270&v=high"
+    },
+    {
+      "startTime": 556,
+      "title": "Genteknologi",
+      "img": "https://nrk-od-world-67.akamaized.net/open/ps/nnfa/nnfa19031526/900909d8-16.smil/thumb.jpg?t=582&scale=480x270&v=high"
+    },
+    {
+      "startTime": 672,
+      "title": "Marsj for Orban",
+      "img": "https://nrk-od-world-67.akamaized.net/open/ps/nnfa/nnfa19031526/900909d8-16.smil/thumb.jpg?t=698&scale=480x270&v=high"
+    },
+    {
+      "startTime": 700,
+      "title": "Direkte Budapest",
+      "img": "https://nrk-od-world-67.akamaized.net/open/ps/nnfa/nnfa19031526/900909d8-16.smil/thumb.jpg?t=726&scale=480x270&v=high"
+    },
+    {
+      "startTime": 739,
+      "title": "Orban folkemøte",
+      "img": "https://nrk-od-world-67.akamaized.net/open/ps/nnfa/nnfa19031526/900909d8-16.smil/thumb.jpg?t=765&scale=480x270&v=high"
+    },
+    {
+      "startTime": 831,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-67.akamaized.net/open/ps/nnfa/nnfa19031526/900909d8-16.smil/thumb.jpg?t=857&scale=480x270&v=high"
+    },
+    {
+      "startTime": 882,
+      "title": "KI og jobbmuligheter",
+      "img": "https://nrk-od-world-67.akamaized.net/open/ps/nnfa/nnfa19031526/900909d8-16.smil/thumb.jpg?t=907&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1019,
+      "title": "Kongen i Kollen",
+      "img": "https://nrk-od-world-67.akamaized.net/open/ps/nnfa/nnfa19031526/900909d8-16.smil/thumb.jpg?t=1044&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1177,
+      "title": "SOME-søksmål",
+      "img": "https://nrk-od-world-67.akamaized.net/open/ps/nnfa/nnfa19031526/900909d8-16.smil/thumb.jpg?t=1202&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1625,
+      "title": "Middlesbruogh",
+      "img": "https://nrk-od-world-67.akamaized.net/open/ps/nnfa/nnfa19031526/900909d8-16.smil/thumb.jpg?t=1651&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1962,
+      "title": "Nemesis",
+      "img": "https://nrk-od-world-67.akamaized.net/open/ps/nnfa/nnfa19031526/900909d8-16.smil/thumb.jpg?t=1987&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2306,
+      "title": "Paralympics siste dag",
+      "img": "https://nrk-od-world-67.akamaized.net/open/ps/nnfa/nnfa19031526/900909d8-16.smil/thumb.jpg?t=2332&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2387,
+      "title": "Ukraina PL-diskriminering",
+      "img": "https://nrk-od-world-67.akamaized.net/open/ps/nnfa/nnfa19031526/900909d8-16.smil/thumb.jpg?t=2413&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2508,
+      "title": "Hopp nekt Kollen",
+      "img": "https://nrk-od-world-67.akamaized.net/open/ps/nnfa/nnfa19031526/900909d8-16.smil/thumb.jpg?t=2534&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2584,
+      "title": "KBK-Brann",
+      "img": "https://nrk-od-world-67.akamaized.net/open/ps/nnfa/nnfa19031526/900909d8-16.smil/thumb.jpg?t=2610&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2644,
+      "title": "Mosti håp",
+      "img": "https://nrk-od-world-67.akamaized.net/open/ps/nnfa/nnfa19031526/900909d8-16.smil/thumb.jpg?t=2670&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2813,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-67.akamaized.net/open/ps/nnfa/nnfa19031526/900909d8-16.smil/thumb.jpg?t=2839&scale=480x270&v=high"
+    }
+  ]
+}
