@@ -1,0 +1,73 @@
+{
+  "version": "1.2.0",
+  "title": "Innstiller over 100 flyavganger",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-54.akamaized.net/open/ps/nnfa/nnfa21031626/21add7d3-17.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 27,
+      "title": "SAS kansellerer",
+      "img": "https://nrk-od-world-54.akamaized.net/open/ps/nnfa/nnfa21031626/21add7d3-17.smil/thumb.jpg?t=52&scale=480x270&v=high"
+    },
+    {
+      "startTime": 44,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-54.akamaized.net/open/ps/nnfa/nnfa21031626/21add7d3-17.smil/thumb.jpg?t=70&scale=480x270&v=high"
+    },
+    {
+      "startTime": 166,
+      "title": "Forbrukerrådet",
+      "img": "https://nrk-od-world-54.akamaized.net/open/ps/nnfa/nnfa21031626/21add7d3-17.smil/thumb.jpg?t=192&scale=480x270&v=high"
+    },
+    {
+      "startTime": 193,
+      "title": "Flytrafikk Berlin",
+      "img": "https://nrk-od-world-54.akamaized.net/open/ps/nnfa/nnfa21031626/21add7d3-17.smil/thumb.jpg?t=218&scale=480x270&v=high"
+    },
+    {
+      "startTime": 222,
+      "title": "Arrestordre Hellas",
+      "img": "https://nrk-od-world-54.akamaized.net/open/ps/nnfa/nnfa21031626/21add7d3-17.smil/thumb.jpg?t=248&scale=480x270&v=high"
+    },
+    {
+      "startTime": 330,
+      "title": "DAGSREVYPAKKE",
+      "img": "https://nrk-od-world-54.akamaized.net/open/ps/nnfa/nnfa21031626/21add7d3-17.smil/thumb.jpg?t=356&scale=480x270&v=high"
+    },
+    {
+      "startTime": 379,
+      "title": "Nettpromo",
+      "img": "https://nrk-od-world-54.akamaized.net/open/ps/nnfa/nnfa21031626/21add7d3-17.smil/thumb.jpg?t=404&scale=480x270&v=high"
+    },
+    {
+      "startTime": 397,
+      "title": "Abu Dhabi",
+      "img": "https://nrk-od-world-54.akamaized.net/open/ps/nnfa/nnfa21031626/21add7d3-17.smil/thumb.jpg?t=422&scale=480x270&v=high"
+    },
+    {
+      "startTime": 419,
+      "title": "Cuba",
+      "img": "https://nrk-od-world-54.akamaized.net/open/ps/nnfa/nnfa21031626/21add7d3-17.smil/thumb.jpg?t=444&scale=480x270&v=high"
+    },
+    {
+      "startTime": 440,
+      "title": "Trumps stabsjef",
+      "img": "https://nrk-od-world-54.akamaized.net/open/ps/nnfa/nnfa21031626/21add7d3-17.smil/thumb.jpg?t=465&scale=480x270&v=high"
+    },
+    {
+      "startTime": 481,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-54.akamaized.net/open/ps/nnfa/nnfa21031626/21add7d3-17.smil/thumb.jpg?t=506&scale=480x270&v=high"
+    },
+    {
+      "startTime": 616,
+      "title": "Været",
+      "img": "https://nrk-od-world-54.akamaized.net/open/ps/nnfa/nnfa21031626/21add7d3-17.smil/thumb.jpg?t=641&scale=480x270&v=high"
+    }
+  ]
+}
