@@ -1,0 +1,53 @@
+{
+  "version": "1.2.0",
+  "title": "Sykehuset i Innlandet skal ligge i Moelv",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa21031826/9b4b2605-6.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 27,
+      "title": "Ålesund brann",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa21031826/9b4b2605-6.smil/thumb.jpg?t=52&scale=480x270&v=high"
+    },
+    {
+      "startTime": 54,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa21031826/9b4b2605-6.smil/thumb.jpg?t=80&scale=480x270&v=high"
+    },
+    {
+      "startTime": 142,
+      "title": "Naboer om Mjøssykehuset",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa21031826/9b4b2605-6.smil/thumb.jpg?t=168&scale=480x270&v=high"
+    },
+    {
+      "startTime": 269,
+      "title": "Cold respons",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa21031826/9b4b2605-6.smil/thumb.jpg?t=295&scale=480x270&v=high"
+    },
+    {
+      "startTime": 376,
+      "title": "Qatar gassannlegg",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa21031826/9b4b2605-6.smil/thumb.jpg?t=402&scale=480x270&v=high"
+    },
+    {
+      "startTime": 411,
+      "title": "DAGSREVYPAKKE",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa21031826/9b4b2605-6.smil/thumb.jpg?t=437&scale=480x270&v=high"
+    },
+    {
+      "startTime": 516,
+      "title": "Været",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa21031826/9b4b2605-6.smil/thumb.jpg?t=541&scale=480x270&v=high"
+    },
+    {
+      "startTime": 574,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa21031826/9b4b2605-6.smil/thumb.jpg?t=591.44&scale=480x270&v=high"
+    }
+  ]
+}
