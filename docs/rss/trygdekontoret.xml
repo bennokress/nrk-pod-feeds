@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 13 Apr 2026 06:26:47 +0000</lastBuildDate>
-    <pubDate>Mon, 13 Apr 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 20 Apr 2026 06:27:48 +0000</lastBuildDate>
+    <pubDate>Mon, 20 Apr 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aBI58yWiX8Snc52JSGMVSwwBHtBGj4kI3UOD1YzyetjQ.jpg"/>
+    <item>
+      <title>Ada Sofie Austegard</title>
+      <description><![CDATA[Etter at datteren ble drept i Baneheia i 2000,  har Ada Sofie Austegard ført en utrettelig kamp for barns rettsvern.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/trygdekontoret/45d2f2a0-8780-43fe-92f2-a0878003fe41_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/45d2f2a0-8780-43fe-92f2-a0878003fe41_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:00</itunes:duration>
+      <pubDate>Mon, 20 Apr 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/XjaPpu-MWTjROVno4YEAUwqBOUK7Er2JkQzr7Dv1pSkg.jpg"/>
+    </item>
     <item>
       <title>MAGAs kristne univers</title>
       <description><![CDATA[Hvordan kan millioner av kristne amerikanere omfavne Donald Trump? Teolog Ragnar Misje Bergem har dykket ned i MAGA-bevegelsens religiøse inspirasjonskilder.]]></description>
@@ -97,15 +106,6 @@ https://www.nrk.no/kultur/tilsvar-til-trygdekontoret-1.17816679]]></description>
       <itunes:duration>57:32</itunes:duration>
       <pubDate>Mon, 09 Feb 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/fiCGuegxB7zTxelDgVMb1w6h80lAVzXhmBlWbJ7Omakw.jpg"/>
-    </item>
-    <item>
-      <title>R.I.P. USA</title>
-      <description><![CDATA[Har tiden kommet for å erklære det amerikanske liberale demokratiets død? Ja, mener statsviter og USA-ekspert Hilde Restad, som har skrevet boka "USA - en nekrolog?"]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/trygdekontoret/ef918086-75ea-4dae-9180-8675ea0dae97_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/ef918086-75ea-4dae-9180-8675ea0dae97_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:01</itunes:duration>
-      <pubDate>Mon, 02 Feb 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/PUWANEyhh3nwUJJphx11UQewvR09W4co8oq596cCRgUA.jpg"/>
     </item>
   </channel>
 </rss>

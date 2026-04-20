@@ -8,12 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 13 Apr 2026 06:26:12 +0000</lastBuildDate>
-    <pubDate>Mon, 13 Apr 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 20 Apr 2026 06:27:15 +0000</lastBuildDate>
+    <pubDate>Mon, 20 Apr 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA.jpg"/>
     <item>
-      <title>Gangsårparadokset</title>
+      <title>Fra nostalgiker til fremtidsoptimist</title>
+      <description><![CDATA[Steinar vil ha mer håndball uten mål. Erlend vil ha mer fremtidsoptimisme. Og: rygger du inn eller kjører du inn?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baade_erlend_og_steinar_/27f6b286-1379-4759-b6b2-861379d759a4_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/27f6b286-1379-4759-b6b2-861379d759a4_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>52:29</itunes:duration>
+      <pubDate>Mon, 20 Apr 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA.jpg"/>
+    </item>
+    <item>
+      <title>Gnagsårparadokset</title>
       <description><![CDATA[Steinar har funnet et nytt paradoks på fjellet. Erlend har funnet en ny diett. Og hva er det med klatrere?]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/baade_erlend_og_steinar_/99af506d-264f-4561-af50-6d264fc5617f_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/99af506d-264f-4561-af50-6d264fc5617f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
@@ -91,15 +100,6 @@
       <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/17cc0bd2-45af-4081-8c0b-d245af508119_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>01:02:13</itunes:duration>
       <pubDate>Mon, 16 Feb 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA.jpg"/>
-    </item>
-    <item>
-      <title>Hva hvis Epstein lever...?</title>
-      <description><![CDATA[Burde vi klone kong Harald? Hva er fremtidens verb? Og kan det hende at Jeffrey Epstein fortsatt lever?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/baade_erlend_og_steinar_/1146aded-6a1d-4d38-86ad-ed6a1d3d38fe_2_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/1146aded-6a1d-4d38-86ad-ed6a1d3d38fe_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>55:38</itunes:duration>
-      <pubDate>Mon, 09 Feb 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA.jpg"/>
     </item>
   </channel>

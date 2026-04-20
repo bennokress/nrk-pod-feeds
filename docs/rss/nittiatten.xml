@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 13 Apr 2026 06:26:32 +0000</lastBuildDate>
-    <pubDate>Mon, 13 Apr 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 20 Apr 2026 06:27:34 +0000</lastBuildDate>
+    <pubDate>Mon, 20 Apr 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/mpO_8t6gbhNXPljhCy-POARkjhRi5GTnpZiTL4iaJpcw.jpg"/>
+    <item>
+      <title>Odd-Magnus Williamson på besøk</title>
+      <description><![CDATA[Odda forteller om da han kjøpte leilighet i dundrende fylla og hvorfor han mener «alfa-menn» bare driver med lureri]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/nittiatten/ae1d5005-56d1-4da2-9d50-0556d17da2d2_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/ae1d5005-56d1-4da2-9d50-0556d17da2d2_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>31:02</itunes:duration>
+      <pubDate>Mon, 20 Apr 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/UjswOUaEvIglAHy0neHABQvTpVG5BFYm6jDZQKYlpFVQ.jpg"/>
+    </item>
     <item>
       <title>Nutritac på besøk</title>
       <description><![CDATA[Klinisk ernæringsfysiolog Christian Johnston svarer på alt om mat og trening. Hva er overvurdert og undervurdert?]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>41:34</itunes:duration>
       <pubDate>Mon, 09 Feb 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/XTtZW4W-DoGQN24WTQsM1g8VNCLLYuGtOD0Dzw1i-SNg.jpg"/>
-    </item>
-    <item>
-      <title>Viggo Venn på besøk</title>
-      <description><![CDATA[Viggo Venn sjokkerer Franky og Mo med klovnelivet, og hvordan fungerer egentlig klovne-sex?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/nittiatten/0b38709b-503a-4b3d-b870-9b503a2b3dbe_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/nittiatten/0b38709b-503a-4b3d-b870-9b503a2b3dbe_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>30:49</itunes:duration>
-      <pubDate>Mon, 02 Feb 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/I3PVNRVoGBEpSwYvBBDXVgsdrs0-zmMV92dVV9o3_nMw.jpg"/>
     </item>
   </channel>
 </rss>
