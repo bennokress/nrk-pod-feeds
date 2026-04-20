@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 17 Apr 2026 18:05:43 +0000</lastBuildDate>
-    <pubDate>Fri, 17 Apr 2026 19:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 20 Apr 2026 19:34:20 +0000</lastBuildDate>
+    <pubDate>Mon, 20 Apr 2026 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Streik i hotell- og restaurantbransjen</title>
+      <description><![CDATA[Flere hundre ble i helgen tatt ut i streik der hovedkonflikten er sykepenger]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/dfd701ce-1d49-489a-9701-ce1d49689ae7_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/dfd701ce-1d49-489a-9701-ce1d49689ae7_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:40</itunes:duration>
+      <pubDate>Mon, 20 Apr 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Fw6JPxlsPN3b6IpR2jzDhQHPAefnzzKPtoBOSq2EfRdg.jpg"/>
+    </item>
     <item>
       <title>Hormuzstredet åpnet, ifølge Iran.</title>
       <description><![CDATA[NHO advarer om at Norge kan stoppe helt opp ved en internasjonale drivstoffkrise.]]></description>
@@ -93,15 +102,6 @@ Her hjemme vil Frp senke den til 14 år]]></description>
       <itunes:duration>58:40</itunes:duration>
       <pubDate>Tue, 07 Apr 2026 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/xrOz6Jga021znRWUPf0CPQjLMFMT7BRra3spa6B7n9LQ.jpg"/>
-    </item>
-    <item>
-      <title>Sverige halverer matmomsen</title>
-      <description><![CDATA[Grensehandelen blomstrer, mens NHO er bekymret for norske butikker.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/2b9e5313-b535-4452-9e53-13b535645262_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/2b9e5313-b535-4452-9e53-13b535645262_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:03</itunes:duration>
-      <pubDate>Tue, 31 Mar 2026 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/DFEsY6k3O6H-BavZbqd5pQ4k0Pa9ojCtvEDmwE3zyeCQ.jpg"/>
     </item>
   </channel>
 </rss>
