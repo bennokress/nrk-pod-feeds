@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 13 Apr 2026 12:11:13 +0000</lastBuildDate>
-    <pubDate>Mon, 13 Apr 2026 13:28:00 +0200</pubDate>
+    <lastBuildDate>Mon, 20 Apr 2026 11:42:07 +0000</lastBuildDate>
+    <pubDate>Mon, 20 Apr 2026 13:31:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/Gb55nFIZLbXEDCosjtvGTA9Bh62MB8c5xgBSF8BVBg0w.jpg"/>
+    <item>
+      <title>Haaland herjer og Norges forsvarsproblem</title>
+      <description><![CDATA[Haaland er tilbake i storform, Ødegaard har spilt en hel kamp, men hva skjer egentlig med det norske forsvaret? Og hør Andrine fortelle om møte med en hviskende Mbappé i garderoben. Er han blitt et problem for Frankrike?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bakrommet/61680492-568d-4a87-a804-92568d2a8706_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bakrommet/61680492-568d-4a87-a804-92568d2a8706_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>48:26</itunes:duration>
+      <pubDate>Mon, 20 Apr 2026 13:31:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Gb55nFIZLbXEDCosjtvGTA9Bh62MB8c5xgBSF8BVBg0w.jpg"/>
+    </item>
     <item>
       <title>Dystre Ødegaard-tall og ville priser</title>
       <description><![CDATA[Martin Ødegaard har vært skadet 60 prosent av tiden siden september og nå er flere av Bakrommets eksperter bekymret og prisen for å være supporter i VM i USA blir stadig høyere.  Men hjemme i Norge er det i hvert fall duket for fest.]]></description>
@@ -99,18 +108,6 @@ Hva skjer nå med Bodø/Glimt?]]></description>
       <enclosure url="https://podkast.nrk.no/fil/bakrommet/812309e3-fc81-4b9d-a309-e3fc812b9d4f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>49:34</itunes:duration>
       <pubDate>Mon, 16 Mar 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Gb55nFIZLbXEDCosjtvGTA9Bh62MB8c5xgBSF8BVBg0w.jpg"/>
-    </item>
-    <item>
-      <title>Lytterne uenige med Bakrommet. Krever Glimt-stjerne i VM.</title>
-      <description><![CDATA[Kan vi seriøst sette Dønnum før Bodø/Glimts store stjerne? Lytterne er uenig med Bakrommets ekspert.
-Herrelandslaget får med seg stjernekokker og en person til passe på kjærester og familie i VM. 
-Aron Dønnum ble utestengt av egen klubb, men slo godt tilbake. 
-Og hvis Nikita Haikin får norsk pass - er det han som bør stå i det norske målet?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/bakrommet/d63ddd06-f497-4c01-bddd-06f4971c0178_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/bakrommet/d63ddd06-f497-4c01-bddd-06f4971c0178_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>55:45</itunes:duration>
-      <pubDate>Mon, 09 Mar 2026 14:10:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/Gb55nFIZLbXEDCosjtvGTA9Bh62MB8c5xgBSF8BVBg0w.jpg"/>
     </item>
   </channel>
