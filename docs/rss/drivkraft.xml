@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 16 Apr 2026 14:14:28 +0000</lastBuildDate>
-    <pubDate>Thu, 16 Apr 2026 13:40:00 +0200</pubDate>
+    <lastBuildDate>Mon, 20 Apr 2026 14:13:08 +0000</lastBuildDate>
+    <pubDate>Mon, 20 Apr 2026 14:30:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Vegard Bjørsmo</title>
+      <description><![CDATA[– Jeg omfavnet først nylig at jeg er skeiv, sier musikeren]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/6463671d-6656-4636-a367-1d66562636a0_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/6463671d-6656-4636-a367-1d66562636a0_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:10</itunes:duration>
+      <pubDate>Mon, 20 Apr 2026 14:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/s_9DsrXgzBq06kvgosYBwQt_rfZ6vTivGEHLoIgoOvdA.jpg"/>
+    </item>
     <item>
       <title>Marianne Heske</title>
       <description><![CDATA[–  Kunstnere holder seg best - sier billedkunstner Marianne Heske på 80 år]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>57:00</itunes:duration>
       <pubDate>Tue, 24 Mar 2026 14:30:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/UqYRe0p5Zj61UI743Tt6YQuXAioKzNiM3tMg1c8yon2g.jpg"/>
-    </item>
-    <item>
-      <title>Ketil Solvik-Olsen</title>
-      <description><![CDATA[– Verden er på vei inn i en ny tidsalder, sier statsviter og tidligere samferdselsminister.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/6ace29f9-617b-4578-8e29-f9617b45789b_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/6ace29f9-617b-4578-8e29-f9617b45789b_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:16</itunes:duration>
-      <pubDate>Mon, 23 Mar 2026 13:22:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/8EHl-2xrNv5ljmlNk4M9BQ-67j68-R04WEBrofWTF8GA.jpg"/>
     </item>
   </channel>
 </rss>

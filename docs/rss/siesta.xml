@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 17 Apr 2026 12:06:00 +0000</lastBuildDate>
-    <pubDate>Fri, 17 Apr 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 20 Apr 2026 14:13:24 +0000</lastBuildDate>
+    <pubDate>Mon, 20 Apr 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    <item>
+      <title>Smakte brystmelk fra venn</title>
+      <description><![CDATA[Markus lager ASMR av mat, Daniel kårer ukas dumfette og Anna deler om sitt forhold til brystmelk.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/110ffd5b-324b-4eb6-8ffd-5b324b8eb6c6_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/110ffd5b-324b-4eb6-8ffd-5b324b8eb6c6_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>44:34</itunes:duration>
+      <pubDate>Mon, 20 Apr 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
     <item>
       <title>Ble klippa ut av nytt på nytt</title>
       <description><![CDATA[Vi ble klippa ut av «Nytt på nytt»-sketsj, Markus glemte Quizvang og Daniel har med fredagshilsen<3]]></description>
@@ -91,15 +100,6 @@
       <enclosure url="https://podkast.nrk.no/fil/siesta/685ba478-0806-4930-9ba4-780806e930c9_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>46:41</itunes:duration>
       <pubDate>Tue, 07 Apr 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
-    </item>
-    <item>
-      <title>Et kinky spøkelse på armen</title>
-      <description><![CDATA[Det er fredag! Det betyr quizvang, fredagshilsen fra en kjent person og vi avslører en ny kandidat i Norges dummeste tatovering.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/a8bfa594-7dc5-4dcb-bfa5-947dc51dcb5a_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/siesta/a8bfa594-7dc5-4dcb-bfa5-947dc51dcb5a_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>42:59</itunes:duration>
-      <pubDate>Fri, 27 Mar 2026 14:04:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
     </item>
   </channel>
