@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 18 Apr 2026 05:50:51 +0000</lastBuildDate>
-    <pubDate>Sat, 18 Apr 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 20 Apr 2026 09:18:54 +0000</lastBuildDate>
+    <pubDate>Mon, 20 Apr 2026 10:25:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Potetgullmannen</title>
+      <description><![CDATA[Johannes nevner potetgull og vi tar et dypdykk inn i avhengigheten.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/71d55df0-e27c-4562-955d-f0e27c4562e0_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/71d55df0-e27c-4562-955d-f0e27c4562e0_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>19:59</itunes:duration>
+      <pubDate>Mon, 20 Apr 2026 10:25:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/XGvdYVlntt7mKQgNzKSsEAlegpqXFKe-v_Lcedym1IKA.jpg"/>
+    </item>
     <item>
       <title>Fis på dansegulvet?</title>
       <description><![CDATA[Kan man fise på dansegulvet? Kan man bruke Thousan Island på alt? Og atter en gang – er Julius DØD?! God helg <3]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>19:59</itunes:duration>
       <pubDate>Thu, 09 Apr 2026 09:45:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/XGvdYVlntt7mKQgNzKSsEAlegpqXFKe-v_Lcedym1IKA.jpg"/>
-    </item>
-    <item>
-      <title>Spis tress-is med hendene!</title>
-      <description><![CDATA[Hvilken vei åpner du bananen? Dypper du hele sushien i soyasausen? Spiser du med hendene eller med bestikk? Vi diskuterer!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/ba46f989-b2b4-4894-86f9-89b2b46894dd_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/ba46f989-b2b4-4894-86f9-89b2b46894dd_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:28</itunes:duration>
-      <pubDate>Wed, 08 Apr 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/7CaTGBT-Ff3zFHDPQ3gUYggQ8qe78Y8IQpJSd_MpfspQ.jpg"/>
     </item>
   </channel>
 </rss>
