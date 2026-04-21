@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 20 Apr 2026 06:27:38 +0000</lastBuildDate>
-    <pubDate>Mon, 20 Apr 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Tue, 21 Apr 2026 06:14:10 +0000</lastBuildDate>
+    <pubDate>Tue, 21 Apr 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw.jpg"/>
+    <item>
+      <title>Mormon wives-skandalen: Disney i hardt vær</title>
+      <description><![CDATA[Slik gikk reality-dronningen Taylor Frankie Paul fra å være Disneys gullgruve, til å bli en PR-skandale.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/9e2e14c7-b01d-4aa1-ae14-c7b01d7aa159_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/9e2e14c7-b01d-4aa1-ae14-c7b01d7aa159_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>17:05</itunes:duration>
+      <pubDate>Tue, 21 Apr 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/7mR4LmHFWiCCkfBK4DI9GQJyLtC0AdI-59PJb5ITZAMQ.jpg"/>
+    </item>
     <item>
       <title>Uro i verda: Kva skjer om alarmen går i Noreg?</title>
       <description><![CDATA[Vi følgjer fiktive Thea på 26 år, som er på veg heim frå jobb når flyalarmen ular over byen.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>18:17</itunes:duration>
       <pubDate>Wed, 08 Apr 2026 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/8D7W15uHWYt2BuT0qlp6fwqT-kVVX-cwKrBHnyCvF6kA.jpg"/>
-    </item>
-    <item>
-      <title>Europas skjebnevalg: Spillet i kulissene</title>
-      <description><![CDATA[Anklager om utpressing og sexvideoer er noen av ingrediensene i valgkampen i Ungarn.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/21acc7c1-9fff-4100-acc7-c19fffd1007e_2_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/oppdatert/21acc7c1-9fff-4100-acc7-c19fffd1007e_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:37</itunes:duration>
-      <pubDate>Tue, 07 Apr 2026 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/w-lUHKw_yBakkr5vi1gyFQa25oA-bAjJ_eEnDhhFIhpQ.jpg"/>
     </item>
   </channel>
 </rss>

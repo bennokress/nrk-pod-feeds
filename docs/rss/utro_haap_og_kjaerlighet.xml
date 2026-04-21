@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sun, 19 Apr 2026 06:08:47 +0000</lastBuildDate>
-    <pubDate>Sun, 19 Apr 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 21 Apr 2026 06:14:18 +0000</lastBuildDate>
+    <pubDate>Tue, 21 Apr 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/i6WpRMdSUR8U5mKLWBcDAAGgUEsgdUJWSTNFpFaD-XUg.jpg"/>
+    <item>
+      <title>Tuva Fellman: I gode og onde dager</title>
+      <description><![CDATA[Tuva Fellman forteller om møtet med ektemannen Ronny og hvordan de har stått sammen gjennom alvorlig sykdom.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/0a16301b-e786-4984-9630-1be786c984d9_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/0a16301b-e786-4984-9630-1be786c984d9_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>48:03</itunes:duration>
+      <pubDate>Tue, 21 Apr 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/hoQw2CNr0STHbjGiIfOnEw8Xve8208QD4CE-vbHAyNNw.jpg"/>
+    </item>
     <item>
       <title>Panelet: Datingquiz og "Snurrebassturné"</title>
       <description><![CDATA[Panelet snakker om hvordan bli forelsket, "kjærlighetsfengsel" og Kai Thomas vurderer "Snurrebassturné".]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>55:48</itunes:duration>
       <pubDate>Tue, 31 Mar 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/E5hzT09B9B961FxOwgEVXwnU14AdR8DZDKc4ld0Ak26g.jpg"/>
-    </item>
-    <item>
-      <title>Panelet: Sexklubb og ensomhet</title>
-      <description><![CDATA[Kai Thomas har besøkt sexklubb, og Panelet diskuterer vennskap mellom kjønnene og ensomheten man kan føle på som singel i høytiden.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/2992fe73-493e-4d71-92fe-73493ead717b_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/2992fe73-493e-4d71-92fe-73493ead717b_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>34:31</itunes:duration>
-      <pubDate>Sun, 29 Mar 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ZVFVtjnPvoYlelOBrpiSGQBDWEiSAfLwGg9G7BsGWuSw.jpg"/>
     </item>
   </channel>
 </rss>

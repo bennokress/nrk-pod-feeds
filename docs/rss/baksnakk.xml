@@ -8,10 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 17 Apr 2026 11:13:11 +0000</lastBuildDate>
-    <pubDate>Fri, 17 Apr 2026 12:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 21 Apr 2026 06:13:50 +0000</lastBuildDate>
+    <pubDate>Tue, 21 Apr 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
+    <item>
+      <title>Hjemme alene-fest, overvåkning og «slapp av»</title>
+      <description><![CDATA[Milie mener det er greit å si «slapp av» under en krangel.
+
+Send oss spørsmål i appen NRK Radio! :)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/96a64d12-9a46-4f18-a64d-129a46af18c1_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/96a64d12-9a46-4f18-a64d-129a46af18c1_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>55:48</itunes:duration>
+      <pubDate>Tue, 21 Apr 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
+    </item>
     <item>
       <title>Svette hender, skrifteboksen og jenter som slåss</title>
       <description><![CDATA[Zara har syndet.
@@ -107,17 +118,6 @@ Send oss spørsmål i appen NRK Radio! :)]]></description>
       <enclosure url="https://podkast.nrk.no/fil/baksnakk/0d8ba134-b67d-4055-8ba1-34b67df055a2_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>45:56</itunes:duration>
       <pubDate>Fri, 20 Mar 2026 12:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
-    </item>
-    <item>
-      <title>Frekk kollega, kryssord og crush på fiksjonelle karakterer</title>
-      <description><![CDATA[Hvem var Milie sitt første crush? Det er det bare Zara og Sofie som vet.
-
-Send oss spørsmål i appen NRK Radio! :)]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/17f2b160-ef99-481e-b2b1-60ef99481e9b_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/baksnakk/17f2b160-ef99-481e-b2b1-60ef99481e9b_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>44:50</itunes:duration>
-      <pubDate>Tue, 17 Mar 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
     </item>
   </channel>

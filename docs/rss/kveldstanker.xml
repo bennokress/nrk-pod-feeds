@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 15 Apr 2026 06:11:22 +0000</lastBuildDate>
-    <pubDate>Wed, 15 Apr 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 21 Apr 2026 06:14:03 +0000</lastBuildDate>
+    <pubDate>Tue, 21 Apr 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Håp - med Miriam Våga</title>
+      <description><![CDATA[- Om du svikter deg selv av og til, så gjør ikke det dine tidligere seire mindre verdt, hevder musikeren Miriam Haga]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/120f4a14-172f-43a2-8f4a-14172fe3a234_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/120f4a14-172f-43a2-8f4a-14172fe3a234_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:16</itunes:duration>
+      <pubDate>Tue, 21 Apr 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/pk9mVt2gAL1dzkQJ5QkHrwS2Q4nbpDUQvJzLO9NXBFlw.jpg"/>
+    </item>
     <item>
       <title>Livserfaring - med Ingvild Hegge Eriksen</title>
       <description><![CDATA[- 18 år gamle meg skulle bare visst, forteller forfatteren Ingvild Hegge Eriksen]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>03:22</itunes:duration>
       <pubDate>Wed, 18 Mar 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/ZUzTnffMeIYeVXHPrezMyAIgRhMGO8XXqyTxIEpvuOxA.jpg"/>
-    </item>
-    <item>
-      <title>Vallo - med Ola Bremnes</title>
-      <description><![CDATA[- Hvis vi ikke vet hvor vi kommer fra, vet vi neppe hvor vi skal, forteller artisten Ola Bremnes.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/4ea3f95c-d955-4af9-a3f9-5cd9551af943_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/4ea3f95c-d955-4af9-a3f9-5cd9551af943_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:29</itunes:duration>
-      <pubDate>Tue, 17 Mar 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/2Y7Z9pqv5naoLjPQPHAGGwUa1D_FNIUKTewHdQl7Vh-A.jpg"/>
     </item>
   </channel>
 </rss>
