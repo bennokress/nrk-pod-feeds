@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 20 Apr 2026 14:13:08 +0000</lastBuildDate>
-    <pubDate>Mon, 20 Apr 2026 14:30:00 +0200</pubDate>
+    <lastBuildDate>Tue, 21 Apr 2026 11:32:40 +0000</lastBuildDate>
+    <pubDate>Tue, 21 Apr 2026 13:05:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Henrik Skaug Sætra</title>
+      <description><![CDATA[KI truer demokratiet, sier teknologieksperten.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/64f55fb5-62f3-4c15-b55f-b562f3bc15e5_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/64f55fb5-62f3-4c15-b55f-b562f3bc15e5_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:10</itunes:duration>
+      <pubDate>Tue, 21 Apr 2026 13:05:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/J53u1xSUhEkJsmPvR4smfQFp9bsEbcQucpZzrzUjnurw.jpg"/>
+    </item>
     <item>
       <title>Vegard Bjørsmo</title>
       <description><![CDATA[– Jeg omfavnet først nylig at jeg er skeiv, sier musikeren]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>57:17</itunes:duration>
       <pubDate>Wed, 25 Mar 2026 13:10:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/5yJeGmXPAWREGL5gr4plBQesSrqhhEitB_1N9wzmZTWQ.jpg"/>
-    </item>
-    <item>
-      <title>Monica Csango</title>
-      <description><![CDATA[– Hjertet mitt slår i takt når jeg er i Ungarn sier journalisten og forfatteren.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/39f64a2f-4c7a-4e7c-b64a-2f4c7ace7c7b_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/39f64a2f-4c7a-4e7c-b64a-2f4c7ace7c7b_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:00</itunes:duration>
-      <pubDate>Tue, 24 Mar 2026 14:30:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/UqYRe0p5Zj61UI743Tt6YQuXAioKzNiM3tMg1c8yon2g.jpg"/>
     </item>
   </channel>
 </rss>
