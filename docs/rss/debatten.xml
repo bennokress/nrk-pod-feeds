@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 16 Apr 2026 21:03:53 +0000</lastBuildDate>
-    <pubDate>Thu, 16 Apr 2026 22:45:00 +0200</pubDate>
+    <lastBuildDate>Tue, 21 Apr 2026 21:05:45 +0000</lastBuildDate>
+    <pubDate>Tue, 21 Apr 2026 22:20:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/jzkUejPy1Yhr9c1YAihIMgcZrYM9FpO1UJPhChAaml_A.jpg"/>
+    <item>
+      <title>Unødvendig streik?</title>
+      <description><![CDATA[Hvorfor må arbeidsgiver punge ut når staten ikke gjør jobben sin?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/debatten/5f5221c2-2291-4b8a-9221-c222914b8a2b_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/debatten/5f5221c2-2291-4b8a-9221-c222914b8a2b_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:57</itunes:duration>
+      <pubDate>Tue, 21 Apr 2026 22:20:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/jzkUejPy1Yhr9c1YAihIMgcZrYM9FpO1UJPhChAaml_A.jpg"/>
+    </item>
     <item>
       <title>Brennhett om renta</title>
       <description><![CDATA[Styringsrenta er het potet i norsk politikk. Hvor mye skal politikerne mene om rentesettingen?]]></description>
@@ -91,15 +100,6 @@
       <enclosure url="https://podkast.nrk.no/fil/debatten/350d443c-3415-47b0-8d44-3c3415f7b073_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>45:55</itunes:duration>
       <pubDate>Thu, 12 Mar 2026 22:35:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/jzkUejPy1Yhr9c1YAihIMgcZrYM9FpO1UJPhChAaml_A.jpg"/>
-    </item>
-    <item>
-      <title>Jobb mindre, tjen mer!</title>
-      <description><![CDATA[Nye dommer for overtid kan føre til at det lønner seg å gå ned i stillingsprosent.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/debatten/8c897fdf-b467-4244-897f-dfb467024491_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/debatten/8c897fdf-b467-4244-897f-dfb467024491_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>43:22</itunes:duration>
-      <pubDate>Tue, 10 Mar 2026 22:25:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/jzkUejPy1Yhr9c1YAihIMgcZrYM9FpO1UJPhChAaml_A.jpg"/>
     </item>
   </channel>
