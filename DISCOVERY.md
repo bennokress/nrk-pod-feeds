@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2026-04-22  
+- Updated podcast 'Musikk fra NRK Super' (`musikk_fra_nrk_super`)  
 ### 2026-04-16  
 - Updated podcast 'Kompass' (`kompass`)  
 - Updated podcast 'Verdibørsen' (`verdiboersen`)  
