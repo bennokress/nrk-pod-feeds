@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 15 Apr 2026 03:41:55 +0000</lastBuildDate>
-    <pubDate>Wed, 15 Apr 2026 05:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 22 Apr 2026 03:42:36 +0000</lastBuildDate>
+    <pubDate>Wed, 22 Apr 2026 05:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ.jpg"/>
+    <item>
+      <title>Katastrofetanker</title>
+      <description><![CDATA[Hvorfor kan vi bli så redde for hai eller å få en alvorlig sykdom selv om det er usannsynlig? Psykolog Lars Dehli forklarer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/a11c92d5-9d21-452c-9c92-d59d21552cfe_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lev_vel/a11c92d5-9d21-452c-9c92-d59d21552cfe_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>52:54</itunes:duration>
+      <pubDate>Wed, 22 Apr 2026 05:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ.jpg"/>
+    </item>
     <item>
       <title>Ernæring: Karbohydrater (2:3)</title>
       <description><![CDATA[Hvorfor har vi blitt så redde for karbohydrater? Klinisk ernæringsfysiolog Jacob Juel Christiensen gir oss svar i en tredelt serie om næringsstoffenes hovedgrupper.]]></description>
@@ -91,15 +100,6 @@
       <enclosure url="https://podkast.nrk.no/fil/lev_vel/975c08e1-c37d-4615-9c08-e1c37d361561_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>53:52</itunes:duration>
       <pubDate>Wed, 11 Mar 2026 05:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ.jpg"/>
-    </item>
-    <item>
-      <title>Bli sosialt trygg</title>
-      <description><![CDATA[Blir du ofte usikker på hva du skal si i gruppesamtaler? Psykolog Jonas Sharma-Bakkevig gir deg rådene for å bli trygg i sosiale settinger.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/f99b0060-9a3c-4ddf-9b00-609a3c3ddff4_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/lev_vel/f99b0060-9a3c-4ddf-9b00-609a3c3ddff4_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>51:02</itunes:duration>
-      <pubDate>Wed, 04 Mar 2026 05:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ.jpg"/>
     </item>
   </channel>
