@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 21 Apr 2026 06:14:00 +0000</lastBuildDate>
-    <pubDate>Tue, 21 Apr 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Wed, 22 Apr 2026 06:11:19 +0000</lastBuildDate>
+    <pubDate>Wed, 22 Apr 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwxpmMTKRc4hnG1l3t8x44HA.jpg"/>
+    <item>
+      <title>Kreftforeningen advarer bleike nordmenn</title>
+      <description><![CDATA[Og USA forlenger våpenhvilen med Iran.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/c7cad399-9e30-4491-8ad3-999e30a491bb_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/c7cad399-9e30-4491-8ad3-999e30a491bb_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>06:45</itunes:duration>
+      <pubDate>Wed, 22 Apr 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/vkeNBUhtxtRMXUOIjBimjwjsq2QcHt_W8BAA-pMOxfLA.jpg"/>
+    </item>
     <item>
       <title>– Verden står ved et vendepunkt</title>
       <description><![CDATA[Amnesty mener vi går inn i en farlig tid]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>06:32</itunes:duration>
       <pubDate>Thu, 09 Apr 2026 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/RkYAAmLYm6bnm4ORf39yfAy7AhQsYdCg1TJsoNzTj4eA.jpg"/>
-    </item>
-    <item>
-      <title>USA, Israel og Iran er einige om våpenkvile</title>
-      <description><![CDATA[Og «Jo Nesbøs Harry Hole» toppar Netflix i 14 land.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/3bf5d8de-f22f-4002-b5d8-def22f8002f7_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/3bf5d8de-f22f-4002-b5d8-def22f8002f7_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>05:51</itunes:duration>
-      <pubDate>Wed, 08 Apr 2026 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/XxxYSG2u9ldDNvfldBocfwCIG8VNKQdNlPS9MDYXB41w.jpg"/>
     </item>
   </channel>
 </rss>

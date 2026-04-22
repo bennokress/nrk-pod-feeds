@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 20 Apr 2026 06:27:12 +0000</lastBuildDate>
-    <pubDate>Mon, 20 Apr 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 22 Apr 2026 06:11:08 +0000</lastBuildDate>
+    <pubDate>Wed, 22 Apr 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/BWmcbAaKjcbCEKU1tt6pEwHEDyOviIeuJOnAmol7wfsw.jpg"/>
+    <item>
+      <title>FF: Bermudatriangelet over hodet ditt</title>
+      <description><![CDATA[Forskere har funnet stedet astronauter må unngå. En ny vitenskap basert på lukten av gamle bøker er funnet opp. Og vet vi nå hvorfor flytende magma er bra for livet]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/b21f4cf5-7c96-4df0-9f4c-f57c962df04b_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/b21f4cf5-7c96-4df0-9f4c-f57c962df04b_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>28:38</itunes:duration>
+      <pubDate>Wed, 22 Apr 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/BWmcbAaKjcbCEKU1tt6pEwHEDyOviIeuJOnAmol7wfsw.jpg"/>
+    </item>
     <item>
       <title>FF: Håret avslører om du er stressa</title>
       <description><![CDATA[Det lyver aldri, viser ny forskning. Og geologer bør høre etter når vulkaner snakker sammen. Dessuten, du er neppe tonedøv selv om du kanskje tror det.]]></description>
@@ -101,15 +110,6 @@ I denne episoden, som kan høres uavhengig av resten av serien, forsøker vi å 
       <itunes:duration>01:25:33</itunes:duration>
       <pubDate>Wed, 01 Apr 2026 05:08:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/KTfq7eF-LNR62auA36aVUg0oBu1Z4Dypu_rCybo6-eCg.jpg"/>
-    </item>
-    <item>
-      <title>Kvantehistorier (7:10) - Hvordan kvanteteknologi endra verden</title>
-      <description><![CDATA[Grunnen til at du kan doomscrolle på mobilen din er kvantefysikk. Menneskehetens historie blei endret med denne teorien  - og teknologien den førte til. Uten kvanteteknologi, ingen Netflix, ingen mobiltelefoner eller datamaskiner. Nå står vi midt oppi en ny revolusjon: kvanteteknologirevolusjonen 2.0. Hva sier du feks til en gravitasjonsdetektor som kan måle om du klipper av deg en hårlokk?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/196f584f-7ba5-43b1-af58-4f7ba5a3b1a7_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/196f584f-7ba5-43b1-af58-4f7ba5a3b1a7_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:29</itunes:duration>
-      <pubDate>Wed, 01 Apr 2026 05:07:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/mIoSZ2Ab2GNebEmZM5Yg-gh7duv9xAVQYbvPM9FKwd-g.jpg"/>
     </item>
   </channel>
 </rss>
