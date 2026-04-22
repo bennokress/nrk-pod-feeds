@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 21 Apr 2026 11:32:43 +0000</lastBuildDate>
-    <pubDate>Tue, 21 Apr 2026 13:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 22 Apr 2026 11:31:52 +0000</lastBuildDate>
+    <pubDate>Wed, 22 Apr 2026 13:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q.jpg"/>
+    <item>
+      <title>Ferske legar under press</title>
+      <description><![CDATA[Mange kjenner seg att i tv-serien "LIS" om legar sin harde kvardag. Kva konsekvensar har dette arbeidspresset?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/736d0493-1d27-4d1a-ad04-931d27ad1a1b_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/736d0493-1d27-4d1a-ad04-931d27ad1a1b_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>28:26</itunes:duration>
+      <pubDate>Wed, 22 Apr 2026 13:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/dRh66Wk4vMJyv5gBlxYpdAjdpaRiaCC76yA0YSZz62gw.jpg"/>
+    </item>
     <item>
       <title>Kunsten å kjøle ned verden</title>
       <description><![CDATA[Når verden går av hengslene, mekler det diplomatiske korpset mellom sinte statsledere. Hvem er de stille diplomatene?]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>30:47</itunes:duration>
       <pubDate>Tue, 07 Apr 2026 13:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/7WIhwOHInpwUqNb38_Kx-Qg9iKJ-46-mfLMoKgibV4dQ.jpg"/>
-    </item>
-    <item>
-      <title>Pressevesten som målskive</title>
-      <description><![CDATA[Yama Wolasmal måtte kaste vesten for å overleve. Kvifor har journalistar blitt dei nye måla i krig?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/cec30f2a-1299-44ec-830f-2a1299a4ec67_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/cec30f2a-1299-44ec-830f-2a1299a4ec67_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>24:13</itunes:duration>
-      <pubDate>Mon, 06 Apr 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/LexzW5v1XH0GgAR3RaFXLggHVIJ-gdodqZKWwEfflb4w.jpg"/>
     </item>
   </channel>
 </rss>
