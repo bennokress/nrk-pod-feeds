@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 21 Apr 2026 14:08:50 +0000</lastBuildDate>
-    <pubDate>Tue, 21 Apr 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 22 Apr 2026 14:10:17 +0000</lastBuildDate>
+    <pubDate>Wed, 22 Apr 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    <item>
+      <title>Noen vil spytte på Markus</title>
+      <description><![CDATA[Ikke alle syns humoren til Finn Glede er gøy, det blir «Looney Tunes» i papegøye og hvordan ville Siesta hørtes ut på dansk?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/1a7b8ab3-cb9d-4faf-bb8a-b3cb9d7faf8b_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/1a7b8ab3-cb9d-4faf-bb8a-b3cb9d7faf8b_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:43</itunes:duration>
+      <pubDate>Wed, 22 Apr 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
     <item>
       <title>Er det lov med sokker i sandaler</title>
       <description><![CDATA[Anna er kokforbanna på folk som ikke vippser, vi får besøk av Onan Hemsworth fra KrfU og Daniel får oss til å oversette Michael Jackson.]]></description>
@@ -91,15 +100,6 @@
       <enclosure url="https://podkast.nrk.no/fil/siesta/69725665-9a2c-4e27-b256-659a2c9e277f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>42:42</itunes:duration>
       <pubDate>Thu, 09 Apr 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
-    </item>
-    <item>
-      <title>Farger Lars Monsen håret?</title>
-      <description><![CDATA[Anna har fått hat, Daniel blir avhørt av "Harry Høle" fra Hurrahølet og Markus lanserer konspirasjonsteori om Lars Monsen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/6ed2688f-ea01-4d5b-9268-8fea01bd5bb7_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/siesta/6ed2688f-ea01-4d5b-9268-8fea01bd5bb7_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>41:59</itunes:duration>
-      <pubDate>Wed, 08 Apr 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
     </item>
   </channel>
