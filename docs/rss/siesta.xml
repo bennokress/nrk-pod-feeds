@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 22 Apr 2026 14:10:17 +0000</lastBuildDate>
-    <pubDate>Wed, 22 Apr 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 23 Apr 2026 14:12:17 +0000</lastBuildDate>
+    <pubDate>Thu, 23 Apr 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    <item>
+      <title>Vi får kjefte på Anna!</title>
+      <description><![CDATA[Markus har med sangkonkurranse, Anna vil bli kjefta på og Daniel blir outa for fettfull toast.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/6594b214-422c-4a0e-94b2-14422cca0e27_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/6594b214-422c-4a0e-94b2-14422cca0e27_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>45:49</itunes:duration>
+      <pubDate>Thu, 23 Apr 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
     <item>
       <title>Noen vil spytte på Markus</title>
       <description><![CDATA[Ikke alle syns humoren til Finn Glede er gøy, det blir «Looney Tunes» i papegøye og hvordan ville Siesta hørtes ut på dansk?]]></description>
@@ -91,15 +100,6 @@
       <enclosure url="https://podkast.nrk.no/fil/siesta/a49edec2-51e2-4594-9ede-c251e2b5946a_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>43:31</itunes:duration>
       <pubDate>Fri, 10 Apr 2026 14:05:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
-    </item>
-    <item>
-      <title>Skar av seg fire fingre</title>
-      <description><![CDATA[Markus har stand-up om Iran, Daniel er forferdelig til å rime og Anna har med en sak om en finnmarking som ALDRI gir seg.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/69725665-9a2c-4e27-b256-659a2c9e277f_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/siesta/69725665-9a2c-4e27-b256-659a2c9e277f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>42:42</itunes:duration>
-      <pubDate>Thu, 09 Apr 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
     </item>
   </channel>

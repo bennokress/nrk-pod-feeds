@@ -8,10 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 16 Apr 2026 14:14:38 +0000</lastBuildDate>
-    <pubDate>Thu, 16 Apr 2026 14:53:00 +0200</pubDate>
+    <lastBuildDate>Thu, 23 Apr 2026 14:12:09 +0000</lastBuildDate>
+    <pubDate>Thu, 23 Apr 2026 15:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/fJea6fp4BPL_Nq5KkWIpQQdmDbwOyidlOkr0SZzAXrGg.jpg"/>
+    <item>
+      <title>Energikrisen kan lamme alt: – Amatørenes festaften</title>
+      <description><![CDATA[Vi er midt oppi verdens verste energikrise. Hvor lenge skal den vare? Hvorfor greier ikke Donald Trump å avslutte krigen?
+Og hvem skal styre Norge fremover, når ingen av de store partiene greier å samle flertall?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/31033784-f671-46c9-8337-84f671c6c99e_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/31033784-f671-46c9-8337-84f671c6c99e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>33:41</itunes:duration>
+      <pubDate>Thu, 23 Apr 2026 15:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/dhzdz3HadKzf-g9581Jb7gkAmZ4RBblHfXnhyDm9IgZQ.jpg"/>
+    </item>
     <item>
       <title>Renter og prisvekst: Tar Norges Bank feil?</title>
       <description><![CDATA[Flere og flere påstår at Norges Bank tar feil i å sette opp styringsrenten for å få ned prisveksten. Tar Norges Bank feil? Og hva med politikernes ansvar?]]></description>
@@ -96,17 +106,6 @@ Og Affeksjonsverdi er nominert til 9 priser under årets Oscar-utdeling. Kan de 
       <itunes:duration>27:53</itunes:duration>
       <pubDate>Thu, 05 Mar 2026 15:16:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/CaUWy5gWYm9Oo1NpMoVHOwSnfJBXH-m5ARHb35OgOJPg.jpg"/>
-    </item>
-    <item>
-      <title>Støre-spesial: Iran og Epstein-gransking</title>
-      <description><![CDATA[Jonas Gahr Støre er gjest.
-Hvorfor tviholder Norge på folkerett, når så mange andre heier på et nytt og bedre regime i Iran? 
-Og Epstein-gransking: Systemsvikt i Norge eller enkeltpersoner som ødelegger?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/d89999cd-9274-47ce-9999-cd927427ce65_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kommentert/d89999cd-9274-47ce-9999-cd927427ce65_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>29:31</itunes:duration>
-      <pubDate>Wed, 04 Mar 2026 16:58:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/BWg2ZgJvPAF9_Vijq2PRJQEi2vldKPYsLQ4a8u6wiVtg.jpg"/>
     </item>
   </channel>
 </rss>
