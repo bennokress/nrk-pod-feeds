@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 22 Apr 2026 17:15:14 +0000</lastBuildDate>
-    <pubDate>Wed, 22 Apr 2026 19:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 23 Apr 2026 17:46:50 +0000</lastBuildDate>
+    <pubDate>Thu, 23 Apr 2026 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Vil ha røykeforbud</title>
+      <description><![CDATA[Britene vil forby nye generasjoner å kjøpe tobakk. - Vi bør gjøre det samme, sier LHL.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/a14595c4-1486-4f59-8595-c414869f59dd_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/a14595c4-1486-4f59-8595-c414869f59dd_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:59</itunes:duration>
+      <pubDate>Thu, 23 Apr 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/XicHwYaun42z3YMmIbvTbw-wvvnm8kQhPjs5PMixx-Ag.jpg"/>
+    </item>
     <item>
       <title>ADHD diagnostiseres uten fysisk oppmøte</title>
       <description><![CDATA[Nå vil helseministeren endre retningslinjene.]]></description>
@@ -93,15 +102,6 @@ Her hjemme vil Frp senke den til 14 år]]></description>
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Fri, 10 Apr 2026 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/gC9FnN8vKVlIL0jXE2A7Fg4I924-eWvOdWfWtk-dNwGQ.jpg"/>
-    </item>
-    <item>
-      <title>Rødgrønt krisemøte</title>
-      <description><![CDATA[MDG beskylder Senterpartiet for politisk svindel.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/d57651f0-c26e-4137-b651-f0c26ee13755_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/d57651f0-c26e-4137-b651-f0c26ee13755_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:03</itunes:duration>
-      <pubDate>Thu, 09 Apr 2026 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/pZ-6Eb3cJIVq1u9bgmLjkQc_2_CFVXH684j1Oh4Snx5Q.jpg"/>
     </item>
   </channel>
 </rss>
