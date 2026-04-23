@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 22 Apr 2026 11:31:49 +0000</lastBuildDate>
-    <pubDate>Wed, 22 Apr 2026 13:26:00 +0200</pubDate>
+    <lastBuildDate>Thu, 23 Apr 2026 10:48:01 +0000</lastBuildDate>
+    <pubDate>Thu, 23 Apr 2026 12:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Ståle Solbakken</title>
+      <description><![CDATA[-  Legene tok livet av meg for å teste hjertet, og da så jeg en lyseblå tunnel, forteller landslagssjefen i fotball]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/143b843d-5292-4853-bb84-3d52923853d5_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/143b843d-5292-4853-bb84-3d52923853d5_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:32</itunes:duration>
+      <pubDate>Thu, 23 Apr 2026 12:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/F04bQkHgi3Q8oLYfO7m7CA_Z5pd5mPZUUq7v45Za2Xuw.jpg"/>
+    </item>
     <item>
       <title>Solveig Kloppen</title>
       <description><![CDATA[– Jeg holdt meg for ørene mens foreldrene mine kranglet da jeg var barn, sier programlederen.]]></description>
@@ -23,7 +32,7 @@
     </item>
     <item>
       <title>Henrik Skaug Sætra</title>
-      <description><![CDATA[KI truer demokratiet, sier teknologieksperten.]]></description>
+      <description><![CDATA[KI truer demokratiet, mener teknologieksperten.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/64f55fb5-62f3-4c15-b55f-b562f3bc15e5_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/drivkraft/64f55fb5-62f3-4c15-b55f-b562f3bc15e5_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>57:10</itunes:duration>
@@ -92,15 +101,6 @@
       <itunes:duration>57:20</itunes:duration>
       <pubDate>Tue, 07 Apr 2026 13:15:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/ZY4qzk7V0Ypn7xKo56t1fADn38hFjG_s3hIPmKar0WCw.jpg"/>
-    </item>
-    <item>
-      <title>Daniel Kjellgren</title>
-      <description><![CDATA[-  Det var en form for onani, sier ultraløperen om kraftanstrengelsen fra Sør-Spania til Nordkapp .]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/1ca47e9f-895e-44b4-a47e-9f895e94b4c8_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/1ca47e9f-895e-44b4-a47e-9f895e94b4c8_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:23</itunes:duration>
-      <pubDate>Thu, 26 Mar 2026 14:40:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Yw23aHrJTvnLmm-UivNVSwSsYkbSLzdlfFwd-WP_kCtw.jpg"/>
     </item>
   </channel>
 </rss>
