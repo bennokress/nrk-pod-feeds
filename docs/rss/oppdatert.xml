@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 23 Apr 2026 06:17:21 +0000</lastBuildDate>
-    <pubDate>Thu, 23 Apr 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Fri, 24 Apr 2026 06:20:46 +0000</lastBuildDate>
+    <pubDate>Fri, 24 Apr 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw.jpg"/>
+    <item>
+      <title>Epstein-saken ingen fikk lese: – Begynte å true meg</title>
+      <description><![CDATA[Vi har møtt journalisten Vicky Ward, som var på sporet av den overgrepsdømte finansmannen lenge før noen andre.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/e44999dd-ae32-4532-8999-ddae3225325b_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/e44999dd-ae32-4532-8999-ddae3225325b_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:32</itunes:duration>
+      <pubDate>Fri, 24 Apr 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/76cSAEgX_37fNEHk-K_9XAqe55-z6JM1v4rV-wrFuSIw.jpg"/>
+    </item>
     <item>
       <title>Sex, penger og muskler: Hva handler manosfæren om?</title>
       <description><![CDATA[Han er en av de store influencerne i manosfæren. Hvorfor er Harrison Sullivan omstridt?]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>18:52</itunes:duration>
       <pubDate>Mon, 13 Apr 2026 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/T51kxlpQD3gSKTjmtwYE2QBImx947rLSWVnkxSZbcgeg.jpg"/>
-    </item>
-    <item>
-      <title>Fra dødelige trusler til våpenhvile: Hva skjer nå?</title>
-      <description><![CDATA[Etter ukevis med krig i Iran, følger verden spent med på om avtalen om våpenhvile holder.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/a1edf1df-68e8-4c98-adf1-df68e85c983a_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/oppdatert/a1edf1df-68e8-4c98-adf1-df68e85c983a_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>18:19</itunes:duration>
-      <pubDate>Fri, 10 Apr 2026 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/FockGyBi71G2HaDOW6UZXw-Nr1LJbxp-vNUitS1sWiWQ.jpg"/>
     </item>
   </channel>
 </rss>
