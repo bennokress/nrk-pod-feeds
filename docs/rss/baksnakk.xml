@@ -8,10 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 21 Apr 2026 06:13:50 +0000</lastBuildDate>
-    <pubDate>Tue, 21 Apr 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 24 Apr 2026 10:45:26 +0000</lastBuildDate>
+    <pubDate>Fri, 24 Apr 2026 12:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
+    <item>
+      <title>Kritikk, spøkelser og kleine ting i hverdagen</title>
+      <description><![CDATA[Å nyse i offentligheten tyder på null selvkontroll.
+
+Send oss spørsmål i appen NRK Radio!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/3ed63e45-b8e8-46dc-963e-45b8e856dc3e_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/3ed63e45-b8e8-46dc-963e-45b8e856dc3e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>50:21</itunes:duration>
+      <pubDate>Fri, 24 Apr 2026 12:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
+    </item>
     <item>
       <title>Hjemme alene-fest, overvåkning og «slapp av»</title>
       <description><![CDATA[Milie mener det er greit å si «slapp av» under en krangel.
@@ -107,17 +118,6 @@ Send oss spørsmål i appen NRK Radio! :)]]></description>
       <enclosure url="https://podkast.nrk.no/fil/baksnakk/736855b8-bf5b-4f90-a855-b8bf5b0f90c9_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>41:40</itunes:duration>
       <pubDate>Tue, 24 Mar 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
-    </item>
-    <item>
-      <title>Konfirmasjon, «mindfuck» og nybegynner på treningssenter</title>
-      <description><![CDATA[Skal man ha show i venninna sin konfirmasjon? Eller skal man droppe det ...?
-
-Send oss spørsmål i appen NRK Radio! :)]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/0d8ba134-b67d-4055-8ba1-34b67df055a2_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/baksnakk/0d8ba134-b67d-4055-8ba1-34b67df055a2_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>45:56</itunes:duration>
-      <pubDate>Fri, 20 Mar 2026 12:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
     </item>
   </channel>
