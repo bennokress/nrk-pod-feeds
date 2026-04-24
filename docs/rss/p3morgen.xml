@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 23 Apr 2026 09:02:57 +0000</lastBuildDate>
-    <pubDate>Thu, 23 Apr 2026 10:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 24 Apr 2026 09:11:37 +0000</lastBuildDate>
+    <pubDate>Fri, 24 Apr 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Overdose på sterk mais-snacks.</title>
+      <description><![CDATA[Arin er tilbake! Vi snakker om potetgull og døde Soundcloud-rappere.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/40777154-9b5b-4a93-b771-549b5b7a93c9_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/40777154-9b5b-4a93-b771-549b5b7a93c9_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:30</itunes:duration>
+      <pubDate>Fri, 24 Apr 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Y3cbSSeZmpcFMBvlrZRmFQ9JKL9OnwxOo9A5BuCYJO1A.jpg"/>
+    </item>
     <item>
       <title>Nattmat på 50-tallet</title>
       <description><![CDATA[Kan man grille i en tønne? Har kongen BankID? Hvordan gikk man på fylla i gamle dager? Fasiten får du (muligens) her.]]></description>
@@ -91,15 +100,6 @@
       <enclosure url="https://podkast.nrk.no/fil/p3morgen/e5174550-61ae-4409-9745-5061ae2409db_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>19:59</itunes:duration>
       <pubDate>Tue, 14 Apr 2026 10:15:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/XGvdYVlntt7mKQgNzKSsEAlegpqXFKe-v_Lcedym1IKA.jpg"/>
-    </item>
-    <item>
-      <title>Pølse, vaffel og syltetøy?</title>
-      <description><![CDATA[Café i stua, pølse i vaffel og healing. Godt og blanda episode!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/57eb7343-a222-47f5-ab73-43a22217f5c7_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/57eb7343-a222-47f5-ab73-43a22217f5c7_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:00</itunes:duration>
-      <pubDate>Mon, 13 Apr 2026 10:15:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/XGvdYVlntt7mKQgNzKSsEAlegpqXFKe-v_Lcedym1IKA.jpg"/>
     </item>
   </channel>
