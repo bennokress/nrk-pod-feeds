@@ -482,7 +482,7 @@ const feeds = [
     "id": "hele_historien",
     "title": "De 10 siste fra Hele historien",
     "season": "LATEST_SEASON",
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "historiske_kjendiser",
@@ -734,7 +734,7 @@ const feeds = [
     "id": "kringkastingsorkestret_",
     "title": "De 10 siste fra Kringkastingsorkestret ",
     "season": "LATEST_SEASON",
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "kroppen",

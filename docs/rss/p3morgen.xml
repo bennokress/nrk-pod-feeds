@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 24 Apr 2026 09:11:37 +0000</lastBuildDate>
-    <pubDate>Fri, 24 Apr 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 25 Apr 2026 05:58:55 +0000</lastBuildDate>
+    <pubDate>Sat, 25 Apr 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Fersket på seminar!</title>
+      <description><![CDATA[Jakten på Norges beste bolle er i gang! Smaker man forskjell på billig og dyr skolebolle? Dette er det beste fra P3morgen!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/4f5c8b88-4663-4b27-9c8b-8846631b271b_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/4f5c8b88-4663-4b27-9c8b-8846631b271b_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:05:55</itunes:duration>
+      <pubDate>Sat, 25 Apr 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/dNA3ULHkxG2_R1h8PdFdowSe21bdQMYbAbuSk2OJPfqw.jpg"/>
+    </item>
     <item>
       <title>Overdose på sterk mais-snacks.</title>
       <description><![CDATA[Arin er tilbake! Vi snakker om potetgull og døde Soundcloud-rappere.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>19:59</itunes:duration>
       <pubDate>Wed, 15 Apr 2026 10:15:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/9ZPL5noAA1_XVRtiq1KhkQby_MpcP_ekpLw5u8xA3O1g.jpg"/>
-    </item>
-    <item>
-      <title>Pannekaker og død</title>
-      <description><![CDATA[En tidvis bekmørk episode om mat og henrettelser]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/e5174550-61ae-4409-9745-5061ae2409db_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/e5174550-61ae-4409-9745-5061ae2409db_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>19:59</itunes:duration>
-      <pubDate>Tue, 14 Apr 2026 10:15:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/XGvdYVlntt7mKQgNzKSsEAlegpqXFKe-v_Lcedym1IKA.jpg"/>
     </item>
   </channel>
 </rss>

@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 18 Apr 2026 05:50:47 +0000</lastBuildDate>
-    <pubDate>Sat, 18 Apr 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 25 Apr 2026 05:58:52 +0000</lastBuildDate>
+    <pubDate>Sat, 25 Apr 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/YbP2wjaDUG9OQu-yBtMHAAwdgae701fiRzJ-y-xo1ZQQ.jpg"/>
+    <item>
+      <title>«Memes»-politikere</title>
+      <description><![CDATA[Unge politikere tøyer strikken for å få oppmerksomhet, statue av Michael Jackson skaper hodebry i Sverige, og Iran bruker Lego mot Trump.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/norsken_svensken_og_dansken/57ceb7de-5115-48ca-8eb7-de511578ca31_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/norsken_svensken_og_dansken/57ceb7de-5115-48ca-8eb7-de511578ca31_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:02</itunes:duration>
+      <pubDate>Sat, 25 Apr 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YbP2wjaDUG9OQu-yBtMHAAwdgae701fiRzJ-y-xo1ZQQ.jpg"/>
+    </item>
     <item>
       <title>Blod, makt og femisfære</title>
       <description><![CDATA[Danskene krangler om ånd og DNA, radikaliserte jenter samles i femisfæren, og Jimmie Åkesson-Wunderbaum skaper reaksjoner.]]></description>
@@ -94,15 +103,6 @@ Danmark ser ut til å trives tettere på makten, mens FN vakler
       <enclosure url="https://podkast.nrk.no/fil/norsken_svensken_og_dansken/550f27f5-a54b-4b16-8f27-f5a54b7b1688_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>56:03</itunes:duration>
       <pubDate>Sat, 21 Feb 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/YbP2wjaDUG9OQu-yBtMHAAwdgae701fiRzJ-y-xo1ZQQ.jpg"/>
-    </item>
-    <item>
-      <title>Kjærlighet og svik</title>
-      <description><![CDATA[Norge fortsetter selvransakelsen, massiv hjemsendelse av innvandrere i Sverige møter motstand og valentins-Danmark er bare full av snøkjærlighet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/norsken_svensken_og_dansken/ced9f925-cf0e-440d-99f9-25cf0e040dfa_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/norsken_svensken_og_dansken/ced9f925-cf0e-440d-99f9-25cf0e040dfa_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:03</itunes:duration>
-      <pubDate>Sat, 14 Feb 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/YbP2wjaDUG9OQu-yBtMHAAwdgae701fiRzJ-y-xo1ZQQ.jpg"/>
     </item>
   </channel>
