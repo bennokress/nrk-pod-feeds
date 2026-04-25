@@ -1,4 +1,7 @@
 # Podcast Discovery Changelog  
+### 2026-04-25  
+- Updated podcast 'Hele historien' (`hele_historien`)  
+- Updated podcast 'Kringkastingsorkestret ' (`kringkastingsorkestret_`)  
 ### 2026-04-22  
 - Updated podcast 'Musikk fra NRK Super' (`musikk_fra_nrk_super`)  
 ### 2026-04-16  
