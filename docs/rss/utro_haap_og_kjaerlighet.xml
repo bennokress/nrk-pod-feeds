@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 23 Apr 2026 06:17:33 +0000</lastBuildDate>
-    <pubDate>Thu, 23 Apr 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 26 Apr 2026 06:19:45 +0000</lastBuildDate>
+    <pubDate>Sun, 26 Apr 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/i6WpRMdSUR8U5mKLWBcDAAGgUEsgdUJWSTNFpFaD-XUg.jpg"/>
+    <item>
+      <title>Panelet: "Shipping" og løgner</title>
+      <description><![CDATA[Lars er fyllesyk og Selma har vært alene på bar. Panelet diskuterer: Er det innafor å date venninnens tidligere flørt?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/83b2725b-629b-424f-b272-5b629b424fa1_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/83b2725b-629b-424f-b272-5b629b424fa1_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:01</itunes:duration>
+      <pubDate>Sun, 26 Apr 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ZVFVtjnPvoYlelOBrpiSGQBDWEiSAfLwGg9G7BsGWuSw.jpg"/>
+    </item>
     <item>
       <title>Malin Nesvoll: All in</title>
       <description><![CDATA[Malin Nesvoll forteller om å være en "kjærestejente", å bli singel i 30-årene og reisen til Bali som endte med forhold og graviditet.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>39:56</itunes:duration>
       <pubDate>Sun, 05 Apr 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/ZVFVtjnPvoYlelOBrpiSGQBDWEiSAfLwGg9G7BsGWuSw.jpg"/>
-    </item>
-    <item>
-      <title>Ina Svenningdal: Første kjærlighet</title>
-      <description><![CDATA[Ina Svenningdal forteller om tiden etter SKAM, usikkerhet rundt kjærlighetsrelasjoner og møtet med kjæresten.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/c0cf4637-17ec-4c05-8f46-3717ecbc0539_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/c0cf4637-17ec-4c05-8f46-3717ecbc0539_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>42:25</itunes:duration>
-      <pubDate>Thu, 02 Apr 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/_cEsxENXPsqsmbwzHBH2aQTFF7bLkhNsnjX2oPINztEQ.jpg"/>
     </item>
   </channel>
 </rss>

@@ -592,7 +592,9 @@ const feeds = [
     "id": "kaffipraati",
     "title": "De 10 siste fra Kaffipraatti",
     "season": null,
-    "enabled": false
+    "enabled": false,
+    "ignore": true,
+    "hidden": true
   },
   {
     "id": "karakter",
