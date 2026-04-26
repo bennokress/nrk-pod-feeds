@@ -1,5 +1,8 @@
 # Podcast Discovery Changelog  
 ### 2026-04-26  
+- Updated podcast 'Hallo Bablo' (`hallo_bablo`)  
+- Updated podcast 'Hvem skjøt Balder?' (`hvem_skjoet_balder`)  
+### 2026-04-26  
 - Podcast 'Kaffipraatti' is considered obsolete and will be ignored in the future (`kaffipraati`)  
 ### 2026-04-25  
 - Updated podcast 'Hele historien' (`hele_historien`)  
