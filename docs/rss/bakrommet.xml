@@ -8,10 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 20 Apr 2026 11:42:07 +0000</lastBuildDate>
-    <pubDate>Mon, 20 Apr 2026 13:31:00 +0200</pubDate>
+    <lastBuildDate>Mon, 27 Apr 2026 14:27:02 +0000</lastBuildDate>
+    <pubDate>Mon, 27 Apr 2026 14:44:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/Gb55nFIZLbXEDCosjtvGTA9Bh62MB8c5xgBSF8BVBg0w.jpg"/>
+    <item>
+      <title>Haalands oksygenmaske og har Nusa  verdensklasse?</title>
+      <description><![CDATA[De norske landslagsspillerne begynner å finne storformen,  hvorfor bruker Haaland oksygenmaske og ekspertene i heftig debatt om 
+ukas brannfakkel]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bakrommet/7143775d-fe5b-43b7-8377-5dfe5b53b700_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bakrommet/7143775d-fe5b-43b7-8377-5dfe5b53b700_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:53</itunes:duration>
+      <pubDate>Mon, 27 Apr 2026 14:44:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Gb55nFIZLbXEDCosjtvGTA9Bh62MB8c5xgBSF8BVBg0w.jpg"/>
+    </item>
     <item>
       <title>Haaland herjer og Norges forsvarsproblem</title>
       <description><![CDATA[Haaland er tilbake i storform, Ødegaard har spilt en hel kamp, men hva skjer egentlig med det norske forsvaret? Og hør Andrine fortelle om møte med en hviskende Mbappé i garderoben. Er han blitt et problem for Frankrike?]]></description>
@@ -99,15 +109,6 @@ Hva skjer nå med Bodø/Glimt?]]></description>
       <enclosure url="https://podkast.nrk.no/fil/bakrommet/5e0a0a0c-bb31-4084-8a0a-0cbb316084e6_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>23:13</itunes:duration>
       <pubDate>Wed, 18 Mar 2026 00:21:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Gb55nFIZLbXEDCosjtvGTA9Bh62MB8c5xgBSF8BVBg0w.jpg"/>
-    </item>
-    <item>
-      <title>Eirik Horneland om ville tilstander i Frankrike</title>
-      <description><![CDATA[Han har trent både Rosenborg, Brann og Saint-Étienne: Eirik Horneland bli ny ekspert i Bakrommet fram mot VM. Nå snakker han ut etter Frankrike-sparkingen, temaer i dag: Franske vs Norsk fotballkultur, landslagsuttak, Haaland og Sørlots edlere deler.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/bakrommet/812309e3-fc81-4b9d-a309-e3fc812b9d4f_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/bakrommet/812309e3-fc81-4b9d-a309-e3fc812b9d4f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>49:34</itunes:duration>
-      <pubDate>Mon, 16 Mar 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/Gb55nFIZLbXEDCosjtvGTA9Bh62MB8c5xgBSF8BVBg0w.jpg"/>
     </item>
   </channel>
