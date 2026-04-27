@@ -8,16 +8,25 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 24 Apr 2026 06:20:46 +0000</lastBuildDate>
-    <pubDate>Fri, 24 Apr 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Mon, 27 Apr 2026 04:00:47 +0000</lastBuildDate>
+    <pubDate>Mon, 27 Apr 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw.jpg"/>
+    <item>
+      <title>Idrettsdop og forgifting: Slår Putins plan sprekker?</title>
+      <description><![CDATA[Nye avsløringer kobler russiske dopingsjefer til forgiftning.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/526f0737-747a-4a9b-af07-37747a2a9be1_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/526f0737-747a-4a9b-af07-37747a2a9be1_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>17:29</itunes:duration>
+      <pubDate>Mon, 27 Apr 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/necixk9FE6OwTeZwexd-uAe8XQV2v2cQ9MzS4_5o3y_Q.jpg"/>
+    </item>
     <item>
       <title>Epstein-saken ingen fikk lese: – Begynte å true meg</title>
       <description><![CDATA[Vi har møtt journalisten Vicky Ward, som var på sporet av den overgrepsdømte finansmannen lenge før noen andre.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/e44999dd-ae32-4532-8999-ddae3225325b_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/oppdatert/e44999dd-ae32-4532-8999-ddae3225325b_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:32</itunes:duration>
+      <itunes:duration>20:46</itunes:duration>
       <pubDate>Fri, 24 Apr 2026 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/76cSAEgX_37fNEHk-K_9XAqe55-z6JM1v4rV-wrFuSIw.jpg"/>
     </item>
@@ -92,15 +101,6 @@
       <itunes:duration>14:12</itunes:duration>
       <pubDate>Tue, 14 Apr 2026 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/HVphWdIRhG-aUDeh_EWFAA5aph5R84pdzNnXBzQtkgYQ.jpg"/>
-    </item>
-    <item>
-      <title>Tommy vs. Hellas: Hjelpearbeider eller spion?</title>
-      <description><![CDATA[Tromsøværingen etterforskes for menneskesmugling og spionasje i Hellas, og risikerer 30 år i gresk fengsel.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/3935aa2e-869e-464c-b5aa-2e869ed64c99_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/oppdatert/3935aa2e-869e-464c-b5aa-2e869ed64c99_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>18:52</itunes:duration>
-      <pubDate>Mon, 13 Apr 2026 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/T51kxlpQD3gSKTjmtwYE2QBImx947rLSWVnkxSZbcgeg.jpg"/>
     </item>
   </channel>
 </rss>

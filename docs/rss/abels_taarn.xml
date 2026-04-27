@@ -8,14 +8,23 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 24 Apr 2026 10:45:23 +0000</lastBuildDate>
-    <pubDate>Fri, 24 Apr 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 27 Apr 2026 04:00:26 +0000</lastBuildDate>
+    <pubDate>Mon, 27 Apr 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/BWmcbAaKjcbCEKU1tt6pEwHEDyOviIeuJOnAmol7wfsw.jpg"/>
     <item>
-      <title>Hva med hjerte lagd på labben?</title>
-      <description><![CDATA[Verden kunne saktens behøvd mer kjærlighet.
-Lurer du på geniale ting? Send inn spørsmål til Abels Tårns kompetente ekspertpanel!]]></description>
+      <title>FF: Internett kan kollapse</title>
+      <description><![CDATA[Kanskje allerede om seks måneder. Dessuten, vi har ingen avfallsplan for vindmølleskrot. Men HIV-forskere har gode nyheter: En Oslomann er kurert]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/348deca5-e138-4914-8dec-a5e1380914e5_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/348deca5-e138-4914-8dec-a5e1380914e5_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:37</itunes:duration>
+      <pubDate>Mon, 27 Apr 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/BWmcbAaKjcbCEKU1tt6pEwHEDyOviIeuJOnAmol7wfsw.jpg"/>
+    </item>
+    <item>
+      <title>Er det greit å dyrke organer?</title>
+      <description><![CDATA[Det kan være mer enda komplisert enn du tror.
+Lurer du på sære saker? Send inn spørsmål til Abels Tårns kompetente ekspertpanel!]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/7e0cc2e1-4b92-4de4-8cc2-e14b928de467_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/abels_taarn/7e0cc2e1-4b92-4de4-8cc2-e14b928de467_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>57:29</itunes:duration>
@@ -98,17 +107,6 @@ Dette er også siste episode i serien!]]></description>
       <itunes:duration>59:24</itunes:duration>
       <pubDate>Wed, 01 Apr 2026 08:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/_pDBV1jcimJgjrncI7Fy-gzZ6XOE0ft2i6IN2Z1VXAfg.jpg"/>
-    </item>
-    <item>
-      <title>Kvantehistorier (9:10) - Mange verdener og kvantehelvete</title>
-      <description><![CDATA[Tolkninger av kvantefysikken. Hvorfor trengs det?
-Og hva sier noen av de mest populære: Mange verdener, Bohmske pilotbølger og Objektiv kollaps?
-Are Raklev forsvarer Mange verdener-tolkninga, og Anders og Hedda forsøker å skyte den ned]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/19c22b1d-4c34-4a1b-822b-1d4c347a1b29_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/19c22b1d-4c34-4a1b-822b-1d4c347a1b29_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:22:21</itunes:duration>
-      <pubDate>Wed, 01 Apr 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/TmBXDapyVH8UHMwr72VPxQKDOl6bgkqiCQ4F3L8ZMxOQ.jpg"/>
     </item>
   </channel>
 </rss>

@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 20 Apr 2026 06:27:48 +0000</lastBuildDate>
-    <pubDate>Mon, 20 Apr 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 27 Apr 2026 04:00:53 +0000</lastBuildDate>
+    <pubDate>Mon, 27 Apr 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aBI58yWiX8Snc52JSGMVSwwBHtBGj4kI3UOD1YzyetjQ.jpg"/>
+    <item>
+      <title>Mord i middelalderen</title>
+      <description><![CDATA[En rik bonde blir funnet drept i 1432. Var det hesten eller kona Gudrun som hadde gjort det? Historiker Ole-Albert Rønning Nordby byr på true crime fra middelalderen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/trygdekontoret/5d7eed5b-29c5-490e-beed-5b29c5790e67_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/5d7eed5b-29c5-490e-beed-5b29c5790e67_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:55</itunes:duration>
+      <pubDate>Mon, 27 Apr 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/5Gp7di-cGNkQ8cbqbOkRgwAY2YpNgdRXQLuN1oTsi6dA.jpg"/>
+    </item>
     <item>
       <title>Ada Sofie Austegard</title>
       <description><![CDATA[Etter at datteren ble drept i Baneheia i 2000,  har Ada Sofie Austegard ført en utrettelig kamp for barns rettsvern.]]></description>
@@ -97,15 +106,6 @@ https://www.nrk.no/kultur/tilsvar-til-trygdekontoret-1.17816679]]></description>
       <itunes:duration>56:55</itunes:duration>
       <pubDate>Mon, 16 Feb 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/2PmB_mVuHE1pJ5LZbFJ7mQkfmLLcvhrH1kE8VZ_Xdx6g.jpg"/>
-    </item>
-    <item>
-      <title>Redningsmannen</title>
-      <description><![CDATA[Bjørn Carlsen har reddet liv fra helikopter i nesten 40 år.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/trygdekontoret/c650faf8-347d-4ae7-90fa-f8347d2ae74f_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/c650faf8-347d-4ae7-90fa-f8347d2ae74f_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:32</itunes:duration>
-      <pubDate>Mon, 09 Feb 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/fiCGuegxB7zTxelDgVMb1w6h80lAVzXhmBlWbJ7Omakw.jpg"/>
     </item>
   </channel>
 </rss>
