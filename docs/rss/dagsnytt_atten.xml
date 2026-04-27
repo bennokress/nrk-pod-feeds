@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 24 Apr 2026 18:00:58 +0000</lastBuildDate>
-    <pubDate>Fri, 24 Apr 2026 18:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 27 Apr 2026 18:40:35 +0000</lastBuildDate>
+    <pubDate>Mon, 27 Apr 2026 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Attentatet mot Trump</title>
+      <description><![CDATA[– Ikke overraskende, mener ekspert, som sier Trump bidrar til et stadig mer polarisert USA.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/2e6a2d6e-86f5-4d49-aa2d-6e86f5dd49b2_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/2e6a2d6e-86f5-4d49-aa2d-6e86f5dd49b2_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:59</itunes:duration>
+      <pubDate>Mon, 27 Apr 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/jMHxPchmpN73wlG8MU9p3w5U6OCCaXZGPv2QYF_n5T3Q.jpg"/>
+    </item>
     <item>
       <title>- Flere kutt i drivstoffavgiftene kan være ulovlige.</title>
       <description><![CDATA[Det sier finansministeren. Bedriftene som får fordeler av avgiftskutt kan måtte tilbakebetale beløpet.]]></description>
@@ -93,15 +102,6 @@ Her hjemme vil Frp senke den til 14 år]]></description>
       <itunes:duration>59:02</itunes:duration>
       <pubDate>Tue, 14 Apr 2026 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/nCMSQQfTN6XnYG6XJL44NQ-djglhoFL1TkEaLfqhej1A.jpg"/>
-    </item>
-    <item>
-      <title>Trump hevder å blokkere iranske havner</title>
-      <description><![CDATA[Klokken 16 begynte USAs varslede blokade. Eksperter frykter konsekvenser for verdensøkonomien.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/0e31a8c1-1317-4797-b1a8-c113177797f0_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/0e31a8c1-1317-4797-b1a8-c113177797f0_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:59</itunes:duration>
-      <pubDate>Mon, 13 Apr 2026 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Hqjb0EtK_B-UoCggtwiJnwJ-p2ioB4Wm80rRAGpw8bmg.jpg"/>
     </item>
   </channel>
 </rss>
