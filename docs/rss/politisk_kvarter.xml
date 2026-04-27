@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 24 Apr 2026 06:20:49 +0000</lastBuildDate>
-    <pubDate>Fri, 24 Apr 2026 08:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 27 Apr 2026 06:41:46 +0000</lastBuildDate>
+    <pubDate>Mon, 27 Apr 2026 08:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/k2Qj3WP1bIp9rJ7Ruw7J_AjM4xS3AUNipR-3he47nZKg.jpg"/>
+    <item>
+      <title>Garantist for Støre?</title>
+      <description><![CDATA[Støre kan ikke ta oss for gitt, sa Arild Hermstad på vei ut av landsmøtesalen. Men har MDG noen andre de kan lage budsjett med?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/db2329f4-94d1-475d-a329-f494d1d75dd4_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/db2329f4-94d1-475d-a329-f494d1d75dd4_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:01</itunes:duration>
+      <pubDate>Mon, 27 Apr 2026 08:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/P-eOZg-ufLa6PF1da_XyiA94cTLn58bwOgBBZFQ_KZVA.jpg"/>
+    </item>
     <item>
       <title>16-årsgrense for sosiale medier</title>
       <description><![CDATA[Regjeringen skjerper aldersgrensa for sosiale medier. Ungdom under 16 skal ikke ha Snapchat, Tiktok og Instagram. Utrolig dumt, ifølge Simen Velle (Frp)]]></description>
@@ -96,15 +105,6 @@ Et bevis på at Arbeiderpartiet er en ulykke for kommune-Norge, mener Høyre.]]>
       <itunes:duration>14:51</itunes:duration>
       <pubDate>Tue, 14 Apr 2026 08:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/N5JhTd30Lsk82R7QG_4x8wNdfGgR8MVTMXwGxRJu5wBA.jpg"/>
-    </item>
-    <item>
-      <title>Ute av kontroll?</title>
-      <description><![CDATA[Arbeiderpartiet går på stadig flere nederlag i Stortinget. - Har de mistet kontrollen?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/029b7f42-1dbe-4f31-9b7f-421dbeaf31ff_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/029b7f42-1dbe-4f31-9b7f-421dbeaf31ff_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>14:58</itunes:duration>
-      <pubDate>Mon, 13 Apr 2026 08:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/oI1udyOlhEpNLABbviZJmQEK8shLkh6buSnouHyF1iEg.jpg"/>
     </item>
   </channel>
 </rss>
