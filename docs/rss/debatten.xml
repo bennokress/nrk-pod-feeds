@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 23 Apr 2026 21:07:39 +0000</lastBuildDate>
-    <pubDate>Thu, 23 Apr 2026 22:40:00 +0200</pubDate>
+    <lastBuildDate>Tue, 28 Apr 2026 20:41:31 +0000</lastBuildDate>
+    <pubDate>Tue, 28 Apr 2026 22:25:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/jzkUejPy1Yhr9c1YAihIMgcZrYM9FpO1UJPhChAaml_A.jpg"/>
+    <item>
+      <title>Listhaug utfordrer Støre</title>
+      <description><![CDATA[Frp påstår å være det nye arbeiderpartiet. Hva sier Arbeiderpartiet til det?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/debatten/159ae240-6ec8-4e96-9ae2-406ec83e9644_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/debatten/159ae240-6ec8-4e96-9ae2-406ec83e9644_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:13</itunes:duration>
+      <pubDate>Tue, 28 Apr 2026 22:25:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/jzkUejPy1Yhr9c1YAihIMgcZrYM9FpO1UJPhChAaml_A.jpg"/>
+    </item>
     <item>
       <title>Styrer Støre trygt?</title>
       <description><![CDATA[Støre fristet med rentekutt, men det var ikke det vi fikk. Hva gjør han nå?]]></description>
@@ -91,15 +100,6 @@
       <enclosure url="https://podkast.nrk.no/fil/debatten/3cc25cf0-19c0-4a29-825c-f019c08a29a1_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>41:57</itunes:duration>
       <pubDate>Thu, 19 Mar 2026 22:25:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/jzkUejPy1Yhr9c1YAihIMgcZrYM9FpO1UJPhChAaml_A.jpg"/>
-    </item>
-    <item>
-      <title>Hvor dyrt skal det bli her i landet?</title>
-      <description><![CDATA[Svenskene halverer matmomsen. Hvorfor gjør ikke regjeringen som søta bror?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/debatten/735b2d03-f3a1-419c-9b2d-03f3a1719cdb_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/debatten/735b2d03-f3a1-419c-9b2d-03f3a1719cdb_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>43:22</itunes:duration>
-      <pubDate>Tue, 17 Mar 2026 22:35:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/jzkUejPy1Yhr9c1YAihIMgcZrYM9FpO1UJPhChAaml_A.jpg"/>
     </item>
   </channel>
