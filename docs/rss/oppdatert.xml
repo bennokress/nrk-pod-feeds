@@ -8,13 +8,22 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 27 Apr 2026 14:27:21 +0000</lastBuildDate>
-    <pubDate>Mon, 27 Apr 2026 14:52:00 +0200</pubDate>
+    <lastBuildDate>Tue, 28 Apr 2026 04:06:53 +0000</lastBuildDate>
+    <pubDate>Tue, 28 Apr 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw.jpg"/>
     <item>
+      <title>Drapstiltalt artist: Hva skjedde med Celeste (14)?</title>
+      <description><![CDATA[En ung jente dør, og den milliard-strømma artisten D4vd havner midt i stormen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/352e2090-80f0-4b67-ae20-9080f01b676f_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/352e2090-80f0-4b67-ae20-9080f01b676f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>16:03</itunes:duration>
+      <pubDate>Tue, 28 Apr 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/vPQDDHS48eO5OMIKbKDxrQzAcvdqTUdKtleHANeSznaQ.jpg"/>
+    </item>
+    <item>
       <title>Gallaskytingen i USA: NRK-journalist midt i dramaet</title>
-      <description><![CDATA[Den tradisjonsrike middagen ble alt annet enn forventet. Hva skjedde egentlig? Og hva skjer nå?]]></description>
+      <description><![CDATA[Den tradisjonsrike middagen ble alt annet enn forventet.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/eeafa197-e418-4bd2-afa1-97e418fbd28c_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/oppdatert/eeafa197-e418-4bd2-afa1-97e418fbd28c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>15:18</itunes:duration>
@@ -92,15 +101,6 @@
       <itunes:duration>19:59</itunes:duration>
       <pubDate>Thu, 16 Apr 2026 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/y6QfLG6-NgwMrtV-l6yVrgXiLUe1LyDELXIFq2OGY8FA.jpg"/>
-    </item>
-    <item>
-      <title>«Ga fingeren» til Putin: Dette er Europas nye håp</title>
-      <description><![CDATA[I 16 år har Viktor Orban styrt Ungarn med jernhånd. Peter Magyar klarte å vippe han av tronen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/373627ff-20ea-4e3a-b627-ff20eaee3a71_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/oppdatert/373627ff-20ea-4e3a-b627-ff20eaee3a71_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>25:24</itunes:duration>
-      <pubDate>Wed, 15 Apr 2026 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/rYbSWzmL19R03Ktxf4_zfQzmxawmILEd1FUNA-UAk13w.jpg"/>
     </item>
   </channel>
 </rss>

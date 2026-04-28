@@ -8,10 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 24 Apr 2026 10:45:26 +0000</lastBuildDate>
-    <pubDate>Fri, 24 Apr 2026 12:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 28 Apr 2026 04:06:34 +0000</lastBuildDate>
+    <pubDate>Tue, 28 Apr 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
+    <item>
+      <title>«Six seven», eskorte og musikk-ick</title>
+      <description><![CDATA[Sofie har oppdaget en ny «six seven»-app, og Milie er lei av klein musikk.
+
+Send oss spørsmål i appen NRK Radio!:)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/797fa2e0-3bc3-4294-bfa2-e03bc3129442_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/797fa2e0-3bc3-4294-bfa2-e03bc3129442_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>45:12</itunes:duration>
+      <pubDate>Tue, 28 Apr 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
+    </item>
     <item>
       <title>Kritikk, spøkelser og kleine ting i hverdagen</title>
       <description><![CDATA[Å nyse i offentligheten tyder på null selvkontroll.
@@ -107,17 +118,6 @@ Send oss spørsmål i appen NRK Radio! :)]]></description>
       <enclosure url="https://podkast.nrk.no/fil/baksnakk/c222aa2d-8e2d-4fa4-a2aa-2d8e2d8fa4ba_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>38:37</itunes:duration>
       <pubDate>Fri, 27 Mar 2026 12:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
-    </item>
-    <item>
-      <title>Vemodig beskjed fra Zara, sex-stress og QuitGPT</title>
-      <description><![CDATA[I dag er det Zaras tur til å bli emosjonell i studio.
-
-Send oss spørsmål i appen NRK Radio! :)]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/736855b8-bf5b-4f90-a855-b8bf5b0f90c9_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/baksnakk/736855b8-bf5b-4f90-a855-b8bf5b0f90c9_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>41:40</itunes:duration>
-      <pubDate>Tue, 24 Mar 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
     </item>
   </channel>

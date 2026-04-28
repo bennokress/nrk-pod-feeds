@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 27 Apr 2026 04:00:38 +0000</lastBuildDate>
-    <pubDate>Mon, 27 Apr 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Tue, 28 Apr 2026 04:06:42 +0000</lastBuildDate>
+    <pubDate>Tue, 28 Apr 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwxpmMTKRc4hnG1l3t8x44HA.jpg"/>
+    <item>
+      <title>Artister er redde for å bli misbrukt av KI</title>
+      <description><![CDATA[Og å slutte å shoppe kan være like vanskelig som å slutte å røyke.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/71659c15-1211-480b-a59c-151211f80bb9_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/71659c15-1211-480b-a59c-151211f80bb9_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>04:40</itunes:duration>
+      <pubDate>Tue, 28 Apr 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/hnQ1h62aJASqa8teQ3xxdQ7aUUE9-1ggiCXy81bp8Edg.jpg"/>
+    </item>
     <item>
       <title>USA-skyttar skreiv manifest før skytinga</title>
       <description><![CDATA[Og ein bank prøver å førebygge sjølvmord blant kundane sine.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>04:57</itunes:duration>
       <pubDate>Wed, 15 Apr 2026 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/ZgzcrNTg94WRbdtNfaMMRQz3W8S_vAh_AsNAwBZMDAVQ.jpg"/>
-    </item>
-    <item>
-      <title>FN ber stormakter starte fredssamtaler</title>
-      <description><![CDATA[Og hvorfor får flere tinnitus nå?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/0b23f372-e78a-423e-a3f3-72e78a723eb9_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/0b23f372-e78a-423e-a3f3-72e78a723eb9_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>04:51</itunes:duration>
-      <pubDate>Tue, 14 Apr 2026 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/XTXCIRwINYazK18Sy_65HQu603qEzWXOoWWA6IzcAqWA.jpg"/>
     </item>
   </channel>
 </rss>

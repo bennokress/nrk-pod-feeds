@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 22 Apr 2026 06:11:23 +0000</lastBuildDate>
-    <pubDate>Wed, 22 Apr 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 28 Apr 2026 04:06:46 +0000</lastBuildDate>
+    <pubDate>Tue, 28 Apr 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Jeg faller - med Carline Tromp</title>
+      <description><![CDATA[- Denne vinteren har jeg brukt mye tid på å lære meg noe jeg aldri har fått til, forteller litteraturkritiker Carline Tromp.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/831d1154-0e20-487a-9d11-540e20f87aea_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/831d1154-0e20-487a-9d11-540e20f87aea_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:16</itunes:duration>
+      <pubDate>Tue, 28 Apr 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EG61784IOV8uAY-azhLZHQBdZgohDDKU2MU5mLlivUSQ.jpg"/>
+    </item>
     <item>
       <title>Skjæra - med Lena Lindahl</title>
       <description><![CDATA[Noen ganger kan naturen varte opp med et lite under -  bare for deg, forteller forfatter Lena Lindahl]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>03:24</itunes:duration>
       <pubDate>Wed, 25 Mar 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/ga3K2LhZVpYGpSJG6h5USgzsuJxnjrpQbRD_m1mNZGxw.jpg"/>
-    </item>
-    <item>
-      <title>Godlin - med Gunn Marit Nisja</title>
-      <description><![CDATA[Det tok tid for forfatteren Gunn Marit Nisja å bli dus med en god biff.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/6ef6557f-abea-4fa8-b655-7fabea5fa85d_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/6ef6557f-abea-4fa8-b655-7fabea5fa85d_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:22</itunes:duration>
-      <pubDate>Tue, 24 Mar 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Ly14kpNQz-45MmdbQ6ry2wgPgJfxEni9KvsX3wb0FY_Q.jpg"/>
     </item>
   </channel>
 </rss>

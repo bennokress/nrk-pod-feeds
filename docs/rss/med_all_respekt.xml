@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 24 Apr 2026 06:20:41 +0000</lastBuildDate>
-    <pubDate>Fri, 24 Apr 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 28 Apr 2026 04:06:49 +0000</lastBuildDate>
+    <pubDate>Tue, 28 Apr 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
+    <item>
+      <title>Velfrisert og velduftende</title>
+      <description><![CDATA[Tara har brukt helga på å forberede besøk til gynekologen. Det er mange ting vi ikke forteller foreldrene våre om.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/b5da8e63-92af-4dc6-9a8e-6392af6dc690_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/b5da8e63-92af-4dc6-9a8e-6392af6dc690_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>37:29</itunes:duration>
+      <pubDate>Tue, 28 Apr 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
+    </item>
     <item>
       <title>Don't fuck with the Jesus</title>
       <description><![CDATA[Der går tydeligvis grensa. Vi trodde afterski var for alle, men ikke alle er enige i det. Og hurra for kjærlighetssorg!]]></description>
@@ -91,15 +100,6 @@
       <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/1f9cceec-820c-43a3-9cce-ec820c83a347_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>37:00</itunes:duration>
       <pubDate>Fri, 10 Apr 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
-    </item>
-    <item>
-      <title>Drikkelek på kirkegården</title>
-      <description><![CDATA[Tara har en morbid pitch. Galvan forklarer hvorfor humor er annerledes for utlendinger.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/e378a337-ac93-4eb8-b8a3-37ac93feb8a2_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/e378a337-ac93-4eb8-b8a3-37ac93feb8a2_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>26:01</itunes:duration>
-      <pubDate>Thu, 09 Apr 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
     </item>
   </channel>
