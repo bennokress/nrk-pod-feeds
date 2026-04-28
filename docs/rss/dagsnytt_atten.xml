@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 27 Apr 2026 18:40:35 +0000</lastBuildDate>
-    <pubDate>Mon, 27 Apr 2026 19:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 28 Apr 2026 18:52:01 +0000</lastBuildDate>
+    <pubDate>Tue, 28 Apr 2026 20:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Regjeringa vil lette på kravene til boligbygging</title>
+      <description><![CDATA[- Dagens 10-åringer må trolig bo hjemme hos foreldrene til de er minst 30 år, mener eiendomsutvikler.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/cb3cb8dc-1495-483d-bcb8-dc1495983db8_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/cb3cb8dc-1495-483d-bcb8-dc1495983db8_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:00</itunes:duration>
+      <pubDate>Tue, 28 Apr 2026 20:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/bCBsnW6QzxvCWj4scHz9EQ4OEC86GELyr1O6kUcEaIpQ.jpg"/>
+    </item>
     <item>
       <title>Attentatet mot Trump</title>
       <description><![CDATA[– Ikke overraskende, mener ekspert, som sier Trump bidrar til et stadig mer polarisert USA.]]></description>
@@ -93,15 +102,6 @@ Her hjemme vil Frp senke den til 14 år]]></description>
       <itunes:duration>59:02</itunes:duration>
       <pubDate>Wed, 15 Apr 2026 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/x9wcOEydAIMm1QSKCfQf8QXQA6EFxPk6DxATmZJxvFrQ.jpg"/>
-    </item>
-    <item>
-      <title>Ukrainas president besøker Norge i dag</title>
-      <description><![CDATA[Volodymyr Zelenskyj møter Jonas Gahr Støre i kveld]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/e3c00943-f34e-4e04-8009-43f34eae0431_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/e3c00943-f34e-4e04-8009-43f34eae0431_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:02</itunes:duration>
-      <pubDate>Tue, 14 Apr 2026 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/nCMSQQfTN6XnYG6XJL44NQ-djglhoFL1TkEaLfqhej1A.jpg"/>
     </item>
   </channel>
 </rss>
