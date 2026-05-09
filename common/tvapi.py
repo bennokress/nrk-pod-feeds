@@ -52,26 +52,31 @@ def get_series_metadata(series_id, format="json"):
 
 def get_series_seasons(series_id):
     """
-    Get list of available seasons/months for a TV series.
+    Get list of available seasons/months for a TV series, newest first.
     Returns list of season objects with 'id' and 'title'.
     """
     metadata = get_series_metadata(series_id)
     if not metadata:
         return None
 
+    # _embedded.seasons holds the full archive (oldest-first); navigation.subnavigation
+    # only exposes a curated handful of historical months and is missing the current ones.
+    embedded_seasons = metadata.get("_embedded", {}).get("seasons", []) or []
+
     seasons = []
-    nav = metadata.get("navigation", {})
+    for season in embedded_seasons:
+        if season.get("hasAvailableInstalments") is False:
+            continue
+        self_link = season.get("_links", {}).get("self", {})
+        season_id = self_link.get("name")
+        if not season_id:
+            continue
+        seasons.append({
+            "id": season_id,
+            "title": self_link.get("title") or season.get("titles", {}).get("title")
+        })
 
-    # Find the subnavigation section containing seasons
-    for section in nav.get("sections", []):
-        if section.get("type") == "subnavigation":
-            for subsection in section.get("sections", []):
-                if subsection.get("type") == "season":
-                    seasons.append({
-                        "id": subsection.get("id"),
-                        "title": subsection.get("title")
-                    })
-
+    seasons.reverse()
     return seasons
 
 
