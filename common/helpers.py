@@ -22,43 +22,6 @@ def get_podcasts_config(podcasts_cfg_file):
         data = file.read()
         return json.loads(data)
 
-def write_podcasts_config(config_file, podcasts):
-    f = open(config_file, "w")
-    str = json.dumps(podcasts, ensure_ascii=False, indent=4)
-    f.write(str)
-    f.close()
-    
-    logging.info(f"Podcasts config written to file: {config_file}")
-
-def write_feeds_file(feeds_file, podcasts):
-    f = open(feeds_file, "w")
-    str = json.dumps(podcasts, ensure_ascii=False, indent=2)
-    f.write(f"const feeds = {str}")
-    f.close()
-    
-    logging.info(f"Podcast feeds written to file: {feeds_file}")
-
-def write_podcasts_changelog(file, date, changes):
-    if len(changes) == 0:
-        return
-    
-    header = "# Podcast Discovery Changelog  "
-    sub_header = f"### {date.date()}  "
-    existing = ""
-    
-    if os.path.exists(file):
-        fr = open(file, "r")
-        existing_lines = fr.readlines()[1:]
-        existing = "".join(existing_lines)
-        fr.close()
-
-    f = open(file, "w")
-    new = "  \n- ".join(changes)
-    f.write(f"{header}\n{sub_header}\n- {new}  \n{existing}")
-    f.close()
-    
-    logging.info(f"Podcast config changelog written to file: {file}")
-
 def get_version():
     with open("version.txt") as file:
         return file.read()

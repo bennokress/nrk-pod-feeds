@@ -8,7 +8,7 @@ from podgen import Podcast, Episode, Media
 from dateutil import parser
 from datetime import timedelta
 
-from common.helpers import init, get_last_feed, get_podcasts_config, write_feeds_file, get_version
+from common.helpers import init, get_last_feed, get_podcasts_config, get_version
 from common.tvapi import (
     get_series_metadata,
     get_series_title,
@@ -27,9 +27,6 @@ web_url = "https://bennokress.github.io/nrk-pod-feeds"
 
 # HLS video MIME type
 VIDEO_MIME_TYPE = "application/vnd.apple.mpegurl"
-
-# Track actual episode counts for dynamic titles
-episode_counts = {}
 
 # Track chapters for each episode (keyed by video URL)
 episode_chapters = {}
@@ -261,18 +258,6 @@ def add_podcasting2_tags_to_rss(rss_path, series_id, series_title=None):
     logging.info(f"  Added Podcasting 2.0 tags and chapters to {chapters_added} episodes")
 
 
-def get_episode_count_from_xml(feeds_dir, series_id):
-    """Read episode count from existing RSS XML file."""
-    xml_path = f"{feeds_dir}/{series_id}.xml"
-    if os.path.exists(xml_path):
-        try:
-            tree = ET.parse(xml_path)
-            return len(tree.findall('.//item'))
-        except Exception as e:
-            logging.debug(f"Could not parse XML for episode count: {e}")
-    return 10  # Default fallback
-
-
 def get_podcast_image(series_id):
     """Get podcast image: use local square image if available, else API image."""
     local_image_path = f"docs/assets/images/{series_id}.jpg"
@@ -447,8 +432,6 @@ def get_video_feed(series_id, season, feeds_dir, ep_count=10):
     if valid_episodes < ep_count:
         logging.info(f"  Only found {valid_episodes} valid episodes (wanted {ep_count})")
 
-    episode_counts[series_id] = valid_episodes  # Track for dynamic titles
-
     p.name = original_title
     p.description = f"Uoffisiell videostrøm fra {original_title}. Innholdet er opphavsrettsbeskyttet av NRK. Kun for personlig bruk. Se {website} for mer informasjon."
 
@@ -467,40 +450,10 @@ def write_video_xml(feeds_dir, series_id, podcast):
     return output_path
 
 
-def write_video_feeds_file(feeds_file, programs, feeds_dir):
-    """Write video feeds JavaScript file for web UI with dynamic titles."""
-    updated_programs = []
-    for p in programs:
-        program_copy = p.copy()
-        series_id = p["id"]
-
-        # Get episode count: from current run, or from existing XML
-        if series_id in episode_counts:
-            count = episode_counts[series_id]
-        else:
-            count = get_episode_count_from_xml(feeds_dir, series_id)
-
-        # Extract series name from static title ("De X siste fra SERIES_NAME")
-        original_title = p["title"]
-        if " fra " in original_title:
-            series_name = original_title.split(" fra ", 1)[-1]
-        else:
-            series_name = series_id.replace("-", " ").title()
-
-        program_copy["title"] = f"De {count} siste fra {series_name}"
-        updated_programs.append(program_copy)
-
-    with open(feeds_file, "w") as f:
-        str_data = json.dumps(updated_programs, ensure_ascii=False, indent=2)
-        f.write(f"const videoFeeds = {str_data}")
-    logging.info(f"Video feeds written to file: {feeds_file}")
-
-
 if __name__ == '__main__':
     init()
 
     feeds_dir = "docs/rss/video"
-    feeds_file = "docs/video_feeds.js"
 
     # Ensure directories exist
     os.makedirs(feeds_dir, exist_ok=True)
@@ -527,5 +480,4 @@ if __name__ == '__main__':
 
         write_video_xml(feeds_dir, series_id, feed)
 
-    write_video_feeds_file(feeds_file, programs, feeds_dir)
     logging.info("Done")
