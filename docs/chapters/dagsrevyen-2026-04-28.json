@@ -1,0 +1,38 @@
+{
+  "version": "1.2.0",
+  "title": "Vil redde forholdet",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 9,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa19042826/beef3af4-19.smil/thumb.jpg?t=34&scale=480x270&v=high"
+    },
+    {
+      "startTime": 262,
+      "title": "Direkte Washington",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa19042826/beef3af4-19.smil/thumb.jpg?t=288&scale=480x270&v=high"
+    },
+    {
+      "startTime": 666,
+      "title": "Trailer Debatten",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa19042826/beef3af4-19.smil/thumb.jpg?t=692&scale=480x270&v=high"
+    },
+    {
+      "startTime": 813,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa19042826/beef3af4-19.smil/thumb.jpg?t=839&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2134,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa19042826/beef3af4-19.smil/thumb.jpg?t=2160&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2338,
+      "title": "Toppserien",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa19042826/beef3af4-19.smil/thumb.jpg?t=2364&scale=480x270&v=high"
+    }
+  ]
+}

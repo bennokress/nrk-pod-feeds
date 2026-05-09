@@ -1,0 +1,58 @@
+{
+  "version": "1.2.0",
+  "title": "PST etterforsker trusler mot Velle",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 1,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa21050426/720ce6de-16.smil/thumb.jpg?t=26&scale=480x270&v=high"
+    },
+    {
+      "startTime": 45,
+      "title": "PST Velle",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa21050426/720ce6de-16.smil/thumb.jpg?t=70&scale=480x270&v=high"
+    },
+    {
+      "startTime": 71,
+      "title": "Stein Erik Hagen",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa21050426/720ce6de-16.smil/thumb.jpg?t=97&scale=480x270&v=high"
+    },
+    {
+      "startTime": 247,
+      "title": "Bil i folkemengde",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa21050426/720ce6de-16.smil/thumb.jpg?t=273&scale=480x270&v=high"
+    },
+    {
+      "startTime": 309,
+      "title": "Putin våpenhvile",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa21050426/720ce6de-16.smil/thumb.jpg?t=335&scale=480x270&v=high"
+    },
+    {
+      "startTime": 331,
+      "title": "Spent Hormuz",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa21050426/720ce6de-16.smil/thumb.jpg?t=357&scale=480x270&v=high"
+    },
+    {
+      "startTime": 350,
+      "title": "Landsdekkende månedskort vil koste 5 milliarder kroner",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa21050426/720ce6de-16.smil/thumb.jpg?t=376&scale=480x270&v=high"
+    },
+    {
+      "startTime": 469,
+      "title": "Glimt - Molde",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa21050426/720ce6de-16.smil/thumb.jpg?t=494&scale=480x270&v=high"
+    },
+    {
+      "startTime": 489,
+      "title": "Været",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa21050426/720ce6de-16.smil/thumb.jpg?t=514&scale=480x270&v=high"
+    },
+    {
+      "startTime": 536,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa21050426/720ce6de-16.smil/thumb.jpg?t=553.55&scale=480x270&v=high"
+    }
+  ]
+}

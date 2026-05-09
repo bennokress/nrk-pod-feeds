@@ -1,0 +1,58 @@
+{
+  "version": "1.2.0",
+  "title": "Hotell-streiken utvidet",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 1,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa21050326/8f95e425-17.smil/thumb.jpg?t=26&scale=480x270&v=high"
+    },
+    {
+      "startTime": 27,
+      "title": "Streik utvides",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa21050326/8f95e425-17.smil/thumb.jpg?t=53&scale=480x270&v=high"
+    },
+    {
+      "startTime": 122,
+      "title": "Rasisme-saken som preget Frps landsmøte",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa21050326/8f95e425-17.smil/thumb.jpg?t=148&scale=480x270&v=high"
+    },
+    {
+      "startTime": 185,
+      "title": "Drap Sverige",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa21050326/8f95e425-17.smil/thumb.jpg?t=211&scale=480x270&v=high"
+    },
+    {
+      "startTime": 227,
+      "title": "Pågrepet Australia",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa21050326/8f95e425-17.smil/thumb.jpg?t=253&scale=480x270&v=high"
+    },
+    {
+      "startTime": 312,
+      "title": "Brann Rogaland",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa21050326/8f95e425-17.smil/thumb.jpg?t=337&scale=480x270&v=high"
+    },
+    {
+      "startTime": 331,
+      "title": "Bjørner Finnmark",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa21050326/8f95e425-17.smil/thumb.jpg?t=356&scale=480x270&v=high"
+    },
+    {
+      "startTime": 360,
+      "title": "VM i stafett",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa21050326/8f95e425-17.smil/thumb.jpg?t=385&scale=480x270&v=high"
+    },
+    {
+      "startTime": 465,
+      "title": "Været",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa21050326/8f95e425-17.smil/thumb.jpg?t=491&scale=480x270&v=high"
+    },
+    {
+      "startTime": 508,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa21050326/8f95e425-17.smil/thumb.jpg?t=526.67&scale=480x270&v=high"
+    }
+  ]
+}

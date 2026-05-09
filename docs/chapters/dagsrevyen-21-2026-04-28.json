@@ -1,0 +1,53 @@
+{
+  "version": "1.2.0",
+  "title": "En død etter voldshendelse i Oslo",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa21042826/1701d1fd-17.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 35,
+      "title": "Holmen død",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa21042826/1701d1fd-17.smil/thumb.jpg?t=61&scale=480x270&v=high"
+    },
+    {
+      "startTime": 56,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa21042826/1701d1fd-17.smil/thumb.jpg?t=81&scale=480x270&v=high"
+    },
+    {
+      "startTime": 142,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa21042826/1701d1fd-17.smil/thumb.jpg?t=167&scale=480x270&v=high"
+    },
+    {
+      "startTime": 367,
+      "title": "Frp -utspill",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa21042826/1701d1fd-17.smil/thumb.jpg?t=393&scale=480x270&v=high"
+    },
+    {
+      "startTime": 434,
+      "title": "Karpe",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa21042826/1701d1fd-17.smil/thumb.jpg?t=460&scale=480x270&v=high"
+    },
+    {
+      "startTime": 481,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa21042826/1701d1fd-17.smil/thumb.jpg?t=507&scale=480x270&v=high"
+    },
+    {
+      "startTime": 576,
+      "title": "Været",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa21042826/1701d1fd-17.smil/thumb.jpg?t=601&scale=480x270&v=high"
+    },
+    {
+      "startTime": 629,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa21042826/1701d1fd-17.smil/thumb.jpg?t=648.67&scale=480x270&v=high"
+    }
+  ]
+}

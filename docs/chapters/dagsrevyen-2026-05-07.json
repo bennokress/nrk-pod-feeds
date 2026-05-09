@@ -1,0 +1,143 @@
+{
+  "version": "1.2.0",
+  "title": "Lite begeistring",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 6,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa19050726/3d891fdb-16.smil/thumb.jpg?t=31&scale=480x270&v=high"
+    },
+    {
+      "startTime": 57,
+      "title": "Folk om renteheving",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa19050726/3d891fdb-16.smil/thumb.jpg?t=82&scale=480x270&v=high"
+    },
+    {
+      "startTime": 123,
+      "title": "Sentralbanken",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa19050726/3d891fdb-16.smil/thumb.jpg?t=148&scale=480x270&v=high"
+    },
+    {
+      "startTime": 225,
+      "title": "Hever renta",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa19050726/3d891fdb-16.smil/thumb.jpg?t=250&scale=480x270&v=high"
+    },
+    {
+      "startTime": 323,
+      "title": "Gjest: Cecilie L. Becker",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa19050726/3d891fdb-16.smil/thumb.jpg?t=349&scale=480x270&v=high"
+    },
+    {
+      "startTime": 452,
+      "title": "Svensk økonomi",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa19050726/3d891fdb-16.smil/thumb.jpg?t=478&scale=480x270&v=high"
+    },
+    {
+      "startTime": 567,
+      "title": "Kinesisk borger spionasje",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa19050726/3d891fdb-16.smil/thumb.jpg?t=592&scale=480x270&v=high"
+    },
+    {
+      "startTime": 666,
+      "title": "Gjest om spionasje",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa19050726/3d891fdb-16.smil/thumb.jpg?t=691&scale=480x270&v=high"
+    },
+    {
+      "startTime": 765,
+      "title": "Hantavirus",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa19050726/3d891fdb-16.smil/thumb.jpg?t=791&scale=480x270&v=high"
+    },
+    {
+      "startTime": 864,
+      "title": "Direkte: Tenerife",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa19050726/3d891fdb-16.smil/thumb.jpg?t=889&scale=480x270&v=high"
+    },
+    {
+      "startTime": 971,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa19050726/3d891fdb-16.smil/thumb.jpg?t=997&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1055,
+      "title": "Antarktis",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa19050726/3d891fdb-16.smil/thumb.jpg?t=1081&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1165,
+      "title": "Iran - USA",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa19050726/3d891fdb-16.smil/thumb.jpg?t=1191&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1189,
+      "title": "Direkte: Istanbul",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa19050726/3d891fdb-16.smil/thumb.jpg?t=1215&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1294,
+      "title": "Utenriksnyheter",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa19050726/3d891fdb-16.smil/thumb.jpg?t=1320&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1425,
+      "title": "500 km for ultralyd",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa19050726/3d891fdb-16.smil/thumb.jpg?t=1451&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1532,
+      "title": "Haaland vs. Ødegaard",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa19050726/3d891fdb-16.smil/thumb.jpg?t=1558&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1694,
+      "title": "Gjester: Tittelkampen i PL",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa19050726/3d891fdb-16.smil/thumb.jpg?t=1719&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2009,
+      "title": "Ibelin-spillefilm",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa19050726/3d891fdb-16.smil/thumb.jpg?t=2034&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2129,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa19050726/3d891fdb-16.smil/thumb.jpg?t=2155&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2134,
+      "title": "Knutsen om Helstrup-rykter",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa19050726/3d891fdb-16.smil/thumb.jpg?t=2160&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2211,
+      "title": "Carlsen Familie",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa19050726/3d891fdb-16.smil/thumb.jpg?t=2237&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2286,
+      "title": "Carlsen-resultat",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa19050726/3d891fdb-16.smil/thumb.jpg?t=2311&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2301,
+      "title": "IOC Belarus",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa19050726/3d891fdb-16.smil/thumb.jpg?t=2326&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2326,
+      "title": "Salum øver på sving",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa19050726/3d891fdb-16.smil/thumb.jpg?t=2352&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2429,
+      "title": "Trailer Debatten",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa19050726/3d891fdb-16.smil/thumb.jpg?t=2455&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2459,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa19050726/3d891fdb-16.smil/thumb.jpg?t=2485&scale=480x270&v=high"
+    }
+  ]
+}

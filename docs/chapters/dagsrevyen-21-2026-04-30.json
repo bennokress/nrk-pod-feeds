@@ -1,0 +1,53 @@
+{
+  "version": "1.2.0",
+  "title": "Avgiftskuttene kommer",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa21043026/e625bf61-16.smil/thumb.jpg?t=26&scale=480x270&v=high"
+    },
+    {
+      "startTime": 29,
+      "title": "Ørland lekkasje",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa21043026/e625bf61-16.smil/thumb.jpg?t=55&scale=480x270&v=high"
+    },
+    {
+      "startTime": 51,
+      "title": "Elden kritikk",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa21043026/e625bf61-16.smil/thumb.jpg?t=76&scale=480x270&v=high"
+    },
+    {
+      "startTime": 169,
+      "title": "drivstoffavgifter",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa21043026/e625bf61-16.smil/thumb.jpg?t=194&scale=480x270&v=high"
+    },
+    {
+      "startTime": 214,
+      "title": "Feiring Stockholm",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa21043026/e625bf61-16.smil/thumb.jpg?t=240&scale=480x270&v=high"
+    },
+    {
+      "startTime": 312,
+      "title": "Halverte antall som sluttet med lønnsgrep",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa21043026/e625bf61-16.smil/thumb.jpg?t=338&scale=480x270&v=high"
+    },
+    {
+      "startTime": 434,
+      "title": "Glimt-Start",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa21043026/e625bf61-16.smil/thumb.jpg?t=459&scale=480x270&v=high"
+    },
+    {
+      "startTime": 488,
+      "title": "Været",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa21043026/e625bf61-16.smil/thumb.jpg?t=513&scale=480x270&v=high"
+    },
+    {
+      "startTime": 537,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa21043026/e625bf61-16.smil/thumb.jpg?t=560.55&scale=480x270&v=high"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "version": "1.2.0",
+  "title": "Person skutt på Økern i Oslo",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa21042626/d971e292-19.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 30,
+      "title": "Skyting Økern",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa21042626/d971e292-19.smil/thumb.jpg?t=56&scale=480x270&v=high"
+    },
+    {
+      "startTime": 52,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa21042626/d971e292-19.smil/thumb.jpg?t=78&scale=480x270&v=high"
+    },
+    {
+      "startTime": 160,
+      "title": "Korrespondentmiddag",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa21042626/d971e292-19.smil/thumb.jpg?t=185&scale=480x270&v=high"
+    },
+    {
+      "startTime": 333,
+      "title": "Jordskjelv på Austlandet",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa21042626/d971e292-19.smil/thumb.jpg?t=359&scale=480x270&v=high"
+    },
+    {
+      "startTime": 443,
+      "title": "Sykkel",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa21042626/d971e292-19.smil/thumb.jpg?t=468&scale=480x270&v=high"
+    },
+    {
+      "startTime": 467,
+      "title": "V-cup, orientering",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa21042626/d971e292-19.smil/thumb.jpg?t=493&scale=480x270&v=high"
+    },
+    {
+      "startTime": 507,
+      "title": "Været",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa21042626/d971e292-19.smil/thumb.jpg?t=533&scale=480x270&v=high"
+    },
+    {
+      "startTime": 557,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa21042626/d971e292-19.smil/thumb.jpg?t=576.6&scale=480x270&v=high"
+    }
+  ]
+}

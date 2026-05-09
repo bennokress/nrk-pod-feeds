@@ -1,0 +1,113 @@
+{
+  "version": "1.2.0",
+  "title": "Skulle hilse på naboene",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 5,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa19050826/10e1b40b-15.smil/thumb.jpg?t=31&scale=480x270&v=high"
+    },
+    {
+      "startTime": 51,
+      "title": "Spionasjesaken",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa19050826/10e1b40b-15.smil/thumb.jpg?t=76&scale=480x270&v=high"
+    },
+    {
+      "startTime": 268,
+      "title": "Jordbruksoppgjøret",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa19050826/10e1b40b-15.smil/thumb.jpg?t=294&scale=480x270&v=high"
+    },
+    {
+      "startTime": 397,
+      "title": "Direkte Tenerife",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa19050826/10e1b40b-15.smil/thumb.jpg?t=422&scale=480x270&v=high"
+    },
+    {
+      "startTime": 481,
+      "title": "Valg Storbritannia",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa19050826/10e1b40b-15.smil/thumb.jpg?t=507&scale=480x270&v=high"
+    },
+    {
+      "startTime": 587,
+      "title": "Direkte fra London",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa19050826/10e1b40b-15.smil/thumb.jpg?t=613&scale=480x270&v=high"
+    },
+    {
+      "startTime": 688,
+      "title": "8. mai",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa19050826/10e1b40b-15.smil/thumb.jpg?t=714&scale=480x270&v=high"
+    },
+    {
+      "startTime": 849,
+      "title": "Anspent før 9.mai",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa19050826/10e1b40b-15.smil/thumb.jpg?t=875&scale=480x270&v=high"
+    },
+    {
+      "startTime": 879,
+      "title": "Direkte fra Moskva",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa19050826/10e1b40b-15.smil/thumb.jpg?t=905&scale=480x270&v=high"
+    },
+    {
+      "startTime": 946,
+      "title": "Direkte fra Kyiv",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa19050826/10e1b40b-15.smil/thumb.jpg?t=971&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1032,
+      "title": "Hormuz",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa19050826/10e1b40b-15.smil/thumb.jpg?t=1057&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1061,
+      "title": "Attenborough 100 år",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa19050826/10e1b40b-15.smil/thumb.jpg?t=1086&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1189,
+      "title": "Marcus og Martinus",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa19050826/10e1b40b-15.smil/thumb.jpg?t=1215&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1203,
+      "title": "Direkte: Fornebu",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa19050826/10e1b40b-15.smil/thumb.jpg?t=1229&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1346,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa19050826/10e1b40b-15.smil/thumb.jpg?t=1371&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1347,
+      "title": "Giro",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa19050826/10e1b40b-15.smil/thumb.jpg?t=1373&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1399,
+      "title": "Skiforbundet",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa19050826/10e1b40b-15.smil/thumb.jpg?t=1424&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1467,
+      "title": "Tennis",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa19050826/10e1b40b-15.smil/thumb.jpg?t=1493&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1494,
+      "title": "Haikin",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa19050826/10e1b40b-15.smil/thumb.jpg?t=1519&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1520,
+      "title": "Cupfinale",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa19050826/10e1b40b-15.smil/thumb.jpg?t=1545&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1570,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa19050826/10e1b40b-15.smil/thumb.jpg?t=1596&scale=480x270&v=high"
+    }
+  ]
+}

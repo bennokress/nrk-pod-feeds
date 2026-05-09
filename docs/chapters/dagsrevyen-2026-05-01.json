@@ -1,0 +1,103 @@
+{
+  "version": "1.2.0",
+  "title": "Går til frontalangrep",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 11,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa19050126/a093f411-15.smil/thumb.jpg?t=36&scale=480x270&v=high"
+    },
+    {
+      "startTime": 79,
+      "title": "Frp Landsmøte",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa19050126/a093f411-15.smil/thumb.jpg?t=104&scale=480x270&v=high"
+    },
+    {
+      "startTime": 196,
+      "title": "Direkte Gardermoen",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa19050126/a093f411-15.smil/thumb.jpg?t=222&scale=480x270&v=high"
+    },
+    {
+      "startTime": 304,
+      "title": "1. mai markeringer",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa19050126/a093f411-15.smil/thumb.jpg?t=330&scale=480x270&v=high"
+    },
+    {
+      "startTime": 502,
+      "title": "Bortvist Oslo",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa19050126/a093f411-15.smil/thumb.jpg?t=527&scale=480x270&v=high"
+    },
+    {
+      "startTime": 543,
+      "title": "Støre i Sulitjelma",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa19050126/a093f411-15.smil/thumb.jpg?t=568&scale=480x270&v=high"
+    },
+    {
+      "startTime": 681,
+      "title": "1. mai verden",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa19050126/a093f411-15.smil/thumb.jpg?t=706&scale=480x270&v=high"
+    },
+    {
+      "startTime": 808,
+      "title": "Iran-krig frist",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa19050126/a093f411-15.smil/thumb.jpg?t=833&scale=480x270&v=high"
+    },
+    {
+      "startTime": 891,
+      "title": "Direkte USA",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa19050126/a093f411-15.smil/thumb.jpg?t=916&scale=480x270&v=high"
+    },
+    {
+      "startTime": 941,
+      "title": "Trump om toll",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa19050126/a093f411-15.smil/thumb.jpg?t=966&scale=480x270&v=high"
+    },
+    {
+      "startTime": 952,
+      "title": "Direkte USA",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa19050126/a093f411-15.smil/thumb.jpg?t=978&scale=480x270&v=high"
+    },
+    {
+      "startTime": 995,
+      "title": "Brann Alver",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa19050126/a093f411-15.smil/thumb.jpg?t=1020&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1066,
+      "title": "Utenriksnyheter",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa19050126/a093f411-15.smil/thumb.jpg?t=1092&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1162,
+      "title": "Litauen",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa19050126/a093f411-15.smil/thumb.jpg?t=1187&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1384,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa19050126/a093f411-15.smil/thumb.jpg?t=1409&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1390,
+      "title": "Viking-Rosenborg",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa19050126/a093f411-15.smil/thumb.jpg?t=1416&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1456,
+      "title": "Mol og Sørum",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa19050126/a093f411-15.smil/thumb.jpg?t=1482&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1533,
+      "title": "Norge-Ungarn",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa19050126/a093f411-15.smil/thumb.jpg?t=1559&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1576,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa19050126/a093f411-15.smil/thumb.jpg?t=1602&scale=480x270&v=high"
+    }
+  ]
+}

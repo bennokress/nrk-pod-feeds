@@ -1,0 +1,128 @@
+{
+  "version": "1.2.0",
+  "title": "Tenåringer pågrepet for Økern-drapet",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 8,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa19050226/5db91075-16.smil/thumb.jpg?t=34&scale=480x270&v=high"
+    },
+    {
+      "startTime": 57,
+      "title": "Økerndrapet",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa19050226/5db91075-16.smil/thumb.jpg?t=82&scale=480x270&v=high"
+    },
+    {
+      "startTime": 218,
+      "title": "Direkte Asker",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa19050226/5db91075-16.smil/thumb.jpg?t=243&scale=480x270&v=high"
+    },
+    {
+      "startTime": 331,
+      "title": "Streik",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa19050226/5db91075-16.smil/thumb.jpg?t=357&scale=480x270&v=high"
+    },
+    {
+      "startTime": 468,
+      "title": "Brann Bærum",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa19050226/5db91075-16.smil/thumb.jpg?t=494&scale=480x270&v=high"
+    },
+    {
+      "startTime": 570,
+      "title": "Skogbrannfare",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa19050226/5db91075-16.smil/thumb.jpg?t=596&scale=480x270&v=high"
+    },
+    {
+      "startTime": 591,
+      "title": "USA og Tyskland",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa19050226/5db91075-16.smil/thumb.jpg?t=617&scale=480x270&v=high"
+    },
+    {
+      "startTime": 700,
+      "title": "Frp-landsmøte",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa19050226/5db91075-16.smil/thumb.jpg?t=725&scale=480x270&v=high"
+    },
+    {
+      "startTime": 803,
+      "title": "Flyselskap konkurs",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa19050226/5db91075-16.smil/thumb.jpg?t=829&scale=480x270&v=high"
+    },
+    {
+      "startTime": 831,
+      "title": "Russetreff",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa19050226/5db91075-16.smil/thumb.jpg?t=856&scale=480x270&v=high"
+    },
+    {
+      "startTime": 939,
+      "title": "Treholt",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa19050226/5db91075-16.smil/thumb.jpg?t=965&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1063,
+      "title": "Hormuz-stredet",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa19050226/5db91075-16.smil/thumb.jpg?t=1088&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1083,
+      "title": "Direkte: Dubai",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa19050226/5db91075-16.smil/thumb.jpg?t=1108&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1162,
+      "title": "Hormuz-stredet",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa19050226/5db91075-16.smil/thumb.jpg?t=1187&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1327,
+      "title": "Å hoppe i det",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa19050226/5db91075-16.smil/thumb.jpg?t=1352&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1658,
+      "title": "Ønsketransporten",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa19050226/5db91075-16.smil/thumb.jpg?t=1684&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1999,
+      "title": "Portrett",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa19050226/5db91075-16.smil/thumb.jpg?t=2025&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2229,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa19050226/5db91075-16.smil/thumb.jpg?t=2254&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2235,
+      "title": "VM i stafett",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa19050226/5db91075-16.smil/thumb.jpg?t=2260&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2316,
+      "title": "Mesterliga",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa19050226/5db91075-16.smil/thumb.jpg?t=2341&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2388,
+      "title": "Ipswich opprykk",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa19050226/5db91075-16.smil/thumb.jpg?t=2414&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2412,
+      "title": "Sandvolley",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa19050226/5db91075-16.smil/thumb.jpg?t=2437&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2436,
+      "title": "Brann-Fredrikstad",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa19050226/5db91075-16.smil/thumb.jpg?t=2462&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2486,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa19050226/5db91075-16.smil/thumb.jpg?t=2511&scale=480x270&v=high"
+    }
+  ]
+}
