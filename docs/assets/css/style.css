@@ -30,6 +30,12 @@
     --s-4: 2rem;
     --s-5: 3.5rem;
     --s-6: 6rem;
+
+    /* Shared anchor for the type system: every dispatch (podcast) title is sized
+       to this value, and the masthead title's clamp floor uses it too — that
+       guarantees the page title can never shrink smaller than the podcast titles
+       below it on any viewport. */
+    --podcast-title-size: 2.75rem;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -130,8 +136,13 @@ a:hover {
 
 .masthead__title {
     margin: 0 0 var(--s-3);
-    font-size: clamp(3.2rem, 11vw, 6.5rem);
-    line-height: 0.92;
+    /* Sized to fit "Dagsrevyen, on demand." on one line at the 960px container.
+       Below that the title scales fluidly with the viewport. The clamp floor is
+       --podcast-title-size, so the page title can never shrink below the podcast
+       titles. At that floor it wraps to two lines (always between the two spans,
+       never inside "on demand." thanks to white-space: nowrap on the inner span). */
+    font-size: clamp(var(--podcast-title-size), 9.5vw, 5.75rem);
+    line-height: 0.95;
     letter-spacing: -0.025em;
     font-variation-settings: "opsz" 144, "SOFT" 60, "wght" 400;
     font-weight: 400;
@@ -139,8 +150,8 @@ a:hover {
 }
 
 .masthead__line {
-    display: block;
     font-style: italic;
+    white-space: nowrap;
     font-variation-settings: "opsz" 144, "SOFT" 100, "wght" 500;
 }
 
@@ -152,7 +163,6 @@ a:hover {
 
 .masthead__deck {
     margin: 0;
-    max-width: 30em;
     font-size: clamp(1.05rem, 1.6vw, 1.18rem);
     line-height: 1.5;
     font-variation-settings: "opsz" 16, "wght" 400;
@@ -233,16 +243,11 @@ a:hover {
 
 .dispatch__title {
     margin: 0 0 0.35em;
-    font-size: clamp(2rem, 4vw, 2.6rem);
+    font-size: var(--podcast-title-size);
     line-height: 1;
     letter-spacing: -0.018em;
     font-weight: 400;
     font-variation-settings: "opsz" 72, "SOFT" 60, "wght" 500;
-}
-
-.dispatch--lead .dispatch__title {
-    font-size: clamp(2.6rem, 5.5vw, 3.6rem);
-    font-variation-settings: "opsz" 144, "SOFT" 80, "wght" 500;
 }
 
 .dispatch__title em {
