@@ -196,11 +196,6 @@ a:hover {
     align-items: start;
 }
 
-.dispatch--lead {
-    /* Lead dispatch gets more breathing room and a slightly tinted backdrop nudge */
-    margin-top: 0;
-}
-
 .dispatch__cover-link {
     display: block;
     text-decoration: none;
@@ -209,8 +204,9 @@ a:hover {
 
 .dispatch__cover {
     display: block;
-    width: 160px;
-    height: 160px;
+    width: 320px;
+    aspect-ratio: 16 / 9;
+    height: auto;
     object-fit: cover;
     background: var(--tint);
     transition: transform 0.5s cubic-bezier(0.2, 0.8, 0.2, 1), filter 0.3s ease;
@@ -220,11 +216,6 @@ a:hover {
 .dispatch__cover-link:hover .dispatch__cover {
     transform: scale(1.025);
     filter: saturate(1.05) contrast(1.05);
-}
-
-.dispatch--lead .dispatch__cover {
-    width: 280px;
-    height: 280px;
 }
 
 .dispatch__body {
@@ -270,13 +261,12 @@ a:hover {
 }
 
 .dispatch__latest-label {
-    display: block;
+    margin: 0 0 0.3em;
     font-variant-caps: all-small-caps;
     letter-spacing: 0.12em;
     font-size: 0.7rem;
     font-variation-settings: "opsz" 9, "wght" 600;
     color: var(--muted);
-    margin-bottom: 0.3em;
 }
 
 .dispatch__latest-title {
@@ -286,13 +276,6 @@ a:hover {
     line-height: 1.35;
     font-variation-settings: "opsz" 14, "SOFT" 50, "wght" 400;
     color: var(--fg);
-}
-
-.dispatch__latest-meta {
-    margin: 0.2em 0 0;
-    font-size: 0.84rem;
-    color: var(--muted);
-    font-variation-settings: "opsz" 10, "wght" 400;
 }
 
 /* ───────────── Actions (text-link style, not buttons) ───────────── */
@@ -414,12 +397,10 @@ a:hover {
         gap: var(--s-3);
     }
 
-    .dispatch__cover,
-    .dispatch--lead .dispatch__cover {
+    .dispatch__cover {
         width: 100%;
         height: auto;
-        aspect-ratio: 1 / 1;
-        max-width: 320px;
+        aspect-ratio: 16 / 9;
     }
 }
 
