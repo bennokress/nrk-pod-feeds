@@ -1,0 +1,278 @@
+{
+  "version": "1.2.0",
+  "title": "Nå kommer aldersgrensen på sosiale medier",
+  "author": "NRK",
+  "podcastName": "Nyhetsmorgen",
+  "chapters": [
+    {
+      "startTime": 2,
+      "title": "Åpning 06:30",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05042426/bcf655ae-15.smil/thumb.jpg?t=27&scale=480x270&v=high"
+    },
+    {
+      "startTime": 59,
+      "title": "Luksusskatt på byhytter",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05042426/bcf655ae-15.smil/thumb.jpg?t=84&scale=480x270&v=high"
+    },
+    {
+      "startTime": 210,
+      "title": "Siste nytt",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05042426/bcf655ae-15.smil/thumb.jpg?t=236&scale=480x270&v=high"
+    },
+    {
+      "startTime": 332,
+      "title": "GJEST Våpenhvilen mellom Israel og Libanon",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05042426/bcf655ae-15.smil/thumb.jpg?t=357&scale=480x270&v=high"
+    },
+    {
+      "startTime": 475,
+      "title": "DKHO Flyktninger for dårlig i norsk",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05042426/bcf655ae-15.smil/thumb.jpg?t=500&scale=480x270&v=high"
+    },
+    {
+      "startTime": 634,
+      "title": "GJEST Togulykken i Danmark",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05042426/bcf655ae-15.smil/thumb.jpg?t=659&scale=480x270&v=high"
+    },
+    {
+      "startTime": 876,
+      "title": "Topper 06:45",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05042426/bcf655ae-15.smil/thumb.jpg?t=901&scale=480x270&v=high"
+    },
+    {
+      "startTime": 918,
+      "title": "DKNO Theo 15 døde på barnevernsinstitusjon",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05042426/bcf655ae-15.smil/thumb.jpg?t=944&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1084,
+      "title": "Uno-X syklist nøkkelgrep",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05042426/bcf655ae-15.smil/thumb.jpg?t=1109&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1235,
+      "title": "GJEST Michael Jackson hylles i ny film",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05042426/bcf655ae-15.smil/thumb.jpg?t=1260&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1604,
+      "title": "DKRO Beredskapsplanter",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05042426/bcf655ae-15.smil/thumb.jpg?t=1629&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1798,
+      "title": "Åpning 07:00",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05042426/bcf655ae-15.smil/thumb.jpg?t=1824&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1884,
+      "title": "Aldersgrense sosiale medier",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05042426/bcf655ae-15.smil/thumb.jpg?t=1910&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2064,
+      "title": "GJEST LNU om aldersgrense sosiale medier",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05042426/bcf655ae-15.smil/thumb.jpg?t=2089&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2290,
+      "title": "Aldersgrensedebatt i Politisk kvarter",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05042426/bcf655ae-15.smil/thumb.jpg?t=2315&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2342,
+      "title": "DKOA Nye bydelsnavn i Oslo",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05042426/bcf655ae-15.smil/thumb.jpg?t=2367&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2491,
+      "title": "GJEST Fotballdommer til VM",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05042426/bcf655ae-15.smil/thumb.jpg?t=2516&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2763,
+      "title": "Topper 07:15",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05042426/bcf655ae-15.smil/thumb.jpg?t=2789&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2824,
+      "title": "GJEST Forhandlinger mellom Iran og USA",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05042426/bcf655ae-15.smil/thumb.jpg?t=2850&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3084,
+      "title": "GJEST Frosker med herpes",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05042426/bcf655ae-15.smil/thumb.jpg?t=3109&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3192,
+      "title": "GJEST Soldat siktet for Maduro-veddemål",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05042426/bcf655ae-15.smil/thumb.jpg?t=3217&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3338,
+      "title": "DKIN Mopedbiler på Vinstra",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05042426/bcf655ae-15.smil/thumb.jpg?t=3363&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3568,
+      "title": "Trailer - Norsken Svensken og Dansken",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05042426/bcf655ae-15.smil/thumb.jpg?t=3593&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3600,
+      "title": "Topper 07:30",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05042426/bcf655ae-15.smil/thumb.jpg?t=3626&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3640,
+      "title": "Aldersgrense sosiale medier",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05042426/bcf655ae-15.smil/thumb.jpg?t=3665&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3746,
+      "title": "LNU om aldersgrense sosiale medier",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05042426/bcf655ae-15.smil/thumb.jpg?t=3771&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3804,
+      "title": "GJEST Våpenhvilen mellom Israel og Libanon",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05042426/bcf655ae-15.smil/thumb.jpg?t=3829&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3880,
+      "title": "Luksusskatt på byhytter",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05042426/bcf655ae-15.smil/thumb.jpg?t=3906&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3991,
+      "title": "DKHO Flyktninger for dårlig i norsk",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05042426/bcf655ae-15.smil/thumb.jpg?t=4016&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4087,
+      "title": "DKOA Nye bydelsnavn i Oslo",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05042426/bcf655ae-15.smil/thumb.jpg?t=4112&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4191,
+      "title": "Avslutning",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05042426/bcf655ae-15.smil/thumb.jpg?t=4217&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4209,
+      "title": "Åpning 07:40",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05042426/bcf655ae-15.smil/thumb.jpg?t=4235&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4227,
+      "title": "DIREKTE Hvilke politikere tilgir vi?",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05042426/bcf655ae-15.smil/thumb.jpg?t=4252&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4498,
+      "title": "Topper 07:44",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05042426/bcf655ae-15.smil/thumb.jpg?t=4523&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4502,
+      "title": "Overgang til Politisk kvarter",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05042426/bcf655ae-15.smil/thumb.jpg?t=4527&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5399,
+      "title": "NRK Nyheter 08:00",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05042426/bcf655ae-15.smil/thumb.jpg?t=5424&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5579,
+      "title": "Åpning 08:03",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05042426/bcf655ae-15.smil/thumb.jpg?t=5605&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5655,
+      "title": "DIREKTE Journalister drept i Libanon",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05042426/bcf655ae-15.smil/thumb.jpg?t=5681&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5933,
+      "title": "Aldersgrense sosiale medier",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05042426/bcf655ae-15.smil/thumb.jpg?t=5959&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6149,
+      "title": "GJEST Gerrymandering",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05042426/bcf655ae-15.smil/thumb.jpg?t=6175&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6412,
+      "title": "Topper 08:15",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05042426/bcf655ae-15.smil/thumb.jpg?t=6437&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6449,
+      "title": "GJESTER Fredagspanelet",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05042426/bcf655ae-15.smil/thumb.jpg?t=6475&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7177,
+      "title": "Mellomtopper",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05042426/bcf655ae-15.smil/thumb.jpg?t=7203&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7228,
+      "title": "Aldersgrense sosiale medier",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05042426/bcf655ae-15.smil/thumb.jpg?t=7254&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7467,
+      "title": "DIREKTE EU-toppmøtet på Kypros",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05042426/bcf655ae-15.smil/thumb.jpg?t=7492&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7705,
+      "title": "Luksusskatt på byhytter",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05042426/bcf655ae-15.smil/thumb.jpg?t=7731&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7814,
+      "title": "GJEST Landsmøte MDG",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05042426/bcf655ae-15.smil/thumb.jpg?t=7840&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8128,
+      "title": "Topper 08:45",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05042426/bcf655ae-15.smil/thumb.jpg?t=8154&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8173,
+      "title": "Norsk fotballdommer til VM",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05042426/bcf655ae-15.smil/thumb.jpg?t=8198&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8362,
+      "title": "DIREKTE DKBU Hvithval i Drammenselva",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05042426/bcf655ae-15.smil/thumb.jpg?t=8387&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8552,
+      "title": "DKIN Mopedbiler på Vinstra",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05042426/bcf655ae-15.smil/thumb.jpg?t=8577&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8801,
+      "title": "DIR Før Abels tårn i NRK P2",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05042426/bcf655ae-15.smil/thumb.jpg?t=8827&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8848,
+      "title": "GJEST Været i dag",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05042426/bcf655ae-15.smil/thumb.jpg?t=8873&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8989,
+      "title": "Avslutning",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05042426/bcf655ae-15.smil/thumb.jpg?t=9003.44&scale=480x270&v=high"
+    }
+  ]
+}

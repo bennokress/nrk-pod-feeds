@@ -26,5 +26,12 @@
         "season": null,
         "enabled": true,
         "type": "video"
+    },
+    {
+        "id": "nyhetsmorgen",
+        "title": "De 10 siste fra Nyhetsmorgen",
+        "season": null,
+        "enabled": true,
+        "type": "video"
     }
 ]

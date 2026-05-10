@@ -13,6 +13,7 @@ Unofficial video podcast feeds for NRK's news programmes. Each feed carries the 
 | Dagsrevyen 21 (21:00) | <https://bennokress.github.io/nrk-pod-feeds/rss/video/dagsrevyen-21.xml> |
 | Dagsnytt 18 (18:00) | <https://bennokress.github.io/nrk-pod-feeds/rss/video/dagsnytt-18.xml> |
 | Kveldsnytt (~23:00) | <https://bennokress.github.io/nrk-pod-feeds/rss/video/kveldsnytt.xml> |
+| Nyhetsmorgen (06:00) | <https://bennokress.github.io/nrk-pod-feeds/rss/video/nyhetsmorgen.xml> |
 
 For a more comfortable subscribe experience (covers, copy buttons, one-click subscribe), open the **[feed page](https://bennokress.github.io/nrk-pod-feeds/)**.
 
