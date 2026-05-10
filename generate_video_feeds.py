@@ -49,6 +49,12 @@ episode_metadata = {}
 # mapping is 1:1 by release date.
 GEO_FALLBACK_SERIES = {"dagsrevyen": "dagsrevyen-for-utlandet"}
 
+# Map our public-facing slug (used for cover filenames and RSS URLs) to the
+# upstream NRK series ID. Slugs not listed here are passed through unchanged.
+NRK_SERIES_ID = {
+    "dagsnytt-18": "dagsnytt-atten-tv",
+}
+
 
 def format_npt(seconds):
     """Format seconds as Normal Play Time (HH:MM:SS or MM:SS)."""
@@ -266,20 +272,26 @@ def add_podcasting2_tags_to_rss(rss_path, series_id, series_title=None):
     logging.info(f"  Added Podcasting 2.0 tags and chapters to {chapters_added} episodes")
 
 
-def get_podcast_image(series_id):
+def get_podcast_image(series_id, nrk_id=None):
     """Get podcast image: use local square image if available, else API image."""
     local_image_path = f"docs/assets/images/{series_id}-square.png"
     if os.path.exists(local_image_path):
         # Use the GitHub Pages URL for the local image
         return f"{web_url}/assets/images/{series_id}-square.png"
-    # Fallback to API image (16:9)
-    return get_series_image(series_id)
+    # Fallback to API image (16:9) — needs the upstream NRK series ID
+    return get_series_image(nrk_id or series_id)
 
 
 def get_video_feed(series_id, season, feeds_dir, ep_count=10):
     """
     Generate a video podcast feed for a TV series.
+
+    `series_id` is our public-facing slug (used for the RSS filename, cover
+    image lookup, and chapter JSON paths). `nrk_id` is the upstream NRK series
+    identifier used for all psapi.nrk.no calls and the public NRK website URL;
+    it differs from the slug for series listed in NRK_SERIES_ID.
     """
+    nrk_id = NRK_SERIES_ID.get(series_id, series_id)
     existing_feed = get_last_feed(feeds_dir, series_id)
 
     last_feed_update = parser.parse("1970-01-01 00:00:01+00:00")
@@ -298,13 +310,18 @@ def get_video_feed(series_id, season, feeds_dir, ep_count=10):
                 existing_image = itunes_image.get('href')
 
     # Get series metadata
-    original_title = get_series_title(series_id)
+    original_title = get_series_title(nrk_id)
     if not original_title:
         logging.info(f"Unable to get title for TV series {series_id}")
         return None
 
-    image = get_podcast_image(series_id)
-    website = f"https://tv.nrk.no/serie/{series_id}"
+    # NRK suffixes the TV variant of radio shows with " - TV" (e.g. "Dagsnytt 18 - TV").
+    # Strip it so the podcast title reads as users know the programme.
+    if original_title.endswith(" - TV"):
+        original_title = original_title[: -len(" - TV")]
+
+    image = get_podcast_image(series_id, nrk_id)
+    website = f"https://tv.nrk.no/serie/{nrk_id}"
 
     # Check if channel info changed
     channel_changed = False
@@ -334,7 +351,7 @@ def get_video_feed(series_id, season, feeds_dir, ep_count=10):
 
     fallback_series = GEO_FALLBACK_SERIES.get(series_id)
 
-    for inst in iter_latest_instalments(series_id, playable_only=True):
+    for inst in iter_latest_instalments(nrk_id, playable_only=True):
         checked_episodes += 1
 
         # Substitute geo-blocked instalments with the same-day fallback (e.g. the

@@ -1,0 +1,48 @@
+{
+  "version": "1.2.0",
+  "title": "Uro i Hormuz",
+  "author": "NRK",
+  "podcastName": "Dagsnytt 18",
+  "chapters": [
+    {
+      "startTime": 1,
+      "title": "Dagsnytt atten",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa56050426/1a879739-16.smil/thumb.jpg?t=27&scale=480x270&v=high"
+    },
+    {
+      "startTime": 65,
+      "title": "Stein Erik Hagen er død",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa56050426/1a879739-16.smil/thumb.jpg?t=90&scale=480x270&v=high"
+    },
+    {
+      "startTime": 472,
+      "title": "Frp, rasisme og presseetikk",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa56050426/1a879739-16.smil/thumb.jpg?t=497&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1354,
+      "title": "Anspent i Hormuzstredet",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa56050426/1a879739-16.smil/thumb.jpg?t=1379&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2235,
+      "title": "Kjendiser blir skuespillere",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa56050426/1a879739-16.smil/thumb.jpg?t=2260&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2673,
+      "title": "Nei til kunstgjødsel",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa56050426/1a879739-16.smil/thumb.jpg?t=2698&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3113,
+      "title": "Langtidsoppgave eller eksamen",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa56050426/1a879739-16.smil/thumb.jpg?t=3138&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3535,
+      "title": "SLUTTKJENNING",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa56050426/1a879739-16.smil/thumb.jpg?t=3543.8&scale=480x270&v=high"
+    }
+  ]
+}
