@@ -1,0 +1,68 @@
+{
+  "version": "1.2.0",
+  "title": "Ble skutt like ved fotballbanen",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa23042626/e94b6592-16.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 38,
+      "title": "Skogbrann Fitjar",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa23042626/e94b6592-16.smil/thumb.jpg?t=63&scale=480x270&v=high"
+    },
+    {
+      "startTime": 66,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa23042626/e94b6592-16.smil/thumb.jpg?t=92&scale=480x270&v=high"
+    },
+    {
+      "startTime": 153,
+      "title": "Mann skutt på Løren i Oslo",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa23042626/e94b6592-16.smil/thumb.jpg?t=178&scale=480x270&v=high"
+    },
+    {
+      "startTime": 239,
+      "title": "Skjetten",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa23042626/e94b6592-16.smil/thumb.jpg?t=264&scale=480x270&v=high"
+    },
+    {
+      "startTime": 266,
+      "title": "Korrespondentmiddagen",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa23042626/e94b6592-16.smil/thumb.jpg?t=291&scale=480x270&v=high"
+    },
+    {
+      "startTime": 376,
+      "title": "STK-pakke",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa23042626/e94b6592-16.smil/thumb.jpg?t=402&scale=480x270&v=high"
+    },
+    {
+      "startTime": 435,
+      "title": "Lillestrøm Glimt",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa23042626/e94b6592-16.smil/thumb.jpg?t=460&scale=480x270&v=high"
+    },
+    {
+      "startTime": 507,
+      "title": "Fotball, Tromsø",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa23042626/e94b6592-16.smil/thumb.jpg?t=532&scale=480x270&v=high"
+    },
+    {
+      "startTime": 571,
+      "title": "Sportspakke",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa23042626/e94b6592-16.smil/thumb.jpg?t=596&scale=480x270&v=high"
+    },
+    {
+      "startTime": 665,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa23042626/e94b6592-16.smil/thumb.jpg?t=691&scale=480x270&v=high"
+    },
+    {
+      "startTime": 725,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa23042626/e94b6592-16.smil/thumb.jpg?t=743.64&scale=480x270&v=high"
+    }
+  ]
+}

@@ -19,5 +19,12 @@
         "season": null,
         "enabled": true,
         "type": "video"
+    },
+    {
+        "id": "kveldsnytt",
+        "title": "De 10 siste fra Kveldsnytt",
+        "season": null,
+        "enabled": true,
+        "type": "video"
     }
 ]
