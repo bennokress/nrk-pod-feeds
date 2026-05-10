@@ -18,7 +18,9 @@ from common.tvapi import (
     get_program_manifest,
     get_hls_stream_url,
     parse_iso_duration,
-    get_index_points
+    get_index_points,
+    is_geo_blocked,
+    find_instalment_by_release_date
 )
 
 podgen_agent = f"nrk-pod-feeder v{get_version()} (with help from python-podgen)"
@@ -40,6 +42,12 @@ CHAPTERS_DIR = "docs/chapters"
 
 # Track episode metadata for JSON chapters (keyed by video URL)
 episode_metadata = {}
+
+# When the configured series has a geo-blocked instalment, substitute the
+# same-day instalment from the fallback series. Empirically Dagsrevyen for
+# utlandet only publishes on the days Dagsrevyen is geo-blocked, so the
+# mapping is 1:1 by release date.
+GEO_FALLBACK_SERIES = {"dagsrevyen": "dagsrevyen-for-utlandet"}
 
 
 def format_npt(seconds):
@@ -324,8 +332,29 @@ def get_video_feed(series_id, season, feeds_dir, ep_count=10):
     valid_episodes = 0
     checked_episodes = 0
 
+    fallback_series = GEO_FALLBACK_SERIES.get(series_id)
+
     for inst in iter_latest_instalments(series_id, playable_only=True):
         checked_episodes += 1
+
+        # Substitute geo-blocked instalments with the same-day fallback (e.g. the
+        # international edition) so the feed stays playable from outside Norway.
+        if fallback_series and is_geo_blocked(inst):
+            release = inst.get("releaseDateOnDemand")
+            if release:
+                try:
+                    target_date = parser.parse(release).date()
+                except (ValueError, TypeError):
+                    target_date = None
+                if target_date is not None:
+                    substitute = find_instalment_by_release_date(fallback_series, target_date)
+                    if substitute is not None:
+                        logging.info(
+                            f"  Substituting {inst.get('prfId')} with {substitute.get('prfId')} "
+                            f"for {target_date} (geo-block)"
+                        )
+                        inst = substitute
+
         program_id = inst.get("prfId")
         titles = inst.get("titles", {})
         episode_title = titles.get("title", "Unknown")
@@ -433,7 +462,15 @@ def get_video_feed(series_id, season, feeds_dir, ep_count=10):
         logging.info(f"  Only found {valid_episodes} valid episodes (wanted {ep_count})")
 
     p.name = original_title
-    p.description = f"Uoffisiell videostrøm fra {original_title}. Innholdet er opphavsrettsbeskyttet av NRK. Kun for personlig bruk. Se {website} for mer informasjon."
+    if fallback_series:
+        p.description = (
+            f"Uoffisiell videostrøm fra {original_title}. "
+            "På dager der hovedsendingen er geoblokkert utenfor Norge erstattes "
+            "episoden automatisk med samme dags sending fra Dagsrevyen for utlandet. "
+            f"Innholdet er opphavsrettsbeskyttet av NRK. Kun for personlig bruk. Se {website} for mer informasjon."
+        )
+    else:
+        p.description = f"Uoffisiell videostrøm fra {original_title}. Innholdet er opphavsrettsbeskyttet av NRK. Kun for personlig bruk. Se {website} for mer informasjon."
 
     return p
 
