@@ -66,7 +66,7 @@ body {
 }
 
 main {
-    max-width: 740px;
+    max-width: 960px;
     margin: 0 auto;
     padding: clamp(2rem, 5vw, 4rem) clamp(1.25rem, 4vw, 2.5rem) clamp(3rem, 6vw, 5rem);
 }
@@ -98,25 +98,14 @@ a:hover {
     margin-bottom: var(--s-5);
     font-variant-caps: all-small-caps;
     letter-spacing: 0.12em;
-    font-size: 0.74rem;
+    font-size: 0.78rem;
     font-variation-settings: "opsz" 9, "wght" 500;
     color: var(--muted);
 }
 
-.meta-bar .edition {
+.meta-bar__date {
     color: var(--accent);
     font-weight: 600;
-}
-
-.meta-bar__date {
-    flex: 1 1 auto;
-    text-align: center;
-}
-
-.meta-bar__status {
-    display: inline-flex;
-    align-items: center;
-    gap: 0.5em;
 }
 
 .dot {
@@ -124,6 +113,8 @@ a:hover {
     height: 0.5em;
     border-radius: 50%;
     display: inline-block;
+    vertical-align: middle;
+    margin-right: 0.5em;
 }
 
 .dot--ok {
@@ -417,12 +408,6 @@ a:hover {
 @media (max-width: 620px) {
     .meta-bar {
         gap: var(--s-1);
-    }
-
-    .meta-bar__date {
-        flex-basis: 100%;
-        text-align: left;
-        order: 3;
     }
 
     .dispatch {
