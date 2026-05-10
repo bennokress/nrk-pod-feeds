@@ -186,8 +186,17 @@ a:hover {
     margin: var(--s-5) 0;
 }
 
-/* Bottom bookend is a quieter coda — same colour, half the weight */
+/* Asymmetric bookend margins — golden-ratio short on the text side, full on the
+   cover side. Compensates optically for the half-leading the text adjacent to
+   the rule contributes (a hard image edge has none). */
+.rule--thick:first-of-type {
+    margin-top: var(--s-4);     /* text side (deck above) */
+    margin-bottom: var(--s-5);  /* cover side (first dispatch below) */
+}
+
 .rule--thick:last-of-type {
+    margin-top: var(--s-5);     /* cover side (last dispatch above) */
+    margin-bottom: var(--s-4);  /* text side (colophon below) */
     border-top-width: 2px;
 }
 
