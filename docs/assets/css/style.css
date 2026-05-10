@@ -295,13 +295,6 @@ a:hover {
     transform: translateY(-0.08em);
 }
 
-.action__icon {
-    width: 1.1em;
-    height: 1.1em;
-    flex-shrink: 0;
-    color: currentColor;
-}
-
 /* Underline applies to the text label only, and only on hover */
 .action__label {
     text-decoration: underline;
@@ -407,9 +400,6 @@ a:hover {
         animation: none !important;
     }
     .dispatch__cover-link:hover .dispatch__cover {
-        transform: none;
-    }
-    .action--primary:hover .action__arrow {
         transform: none;
     }
 }
