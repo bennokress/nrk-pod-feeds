@@ -1,0 +1,63 @@
+{
+  "version": "1.2.0",
+  "title": "Passasjerer evakueres",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-01.akamaized.net/open/ps/nnfa/nnfa23050526/c7db46e6-18.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 37,
+      "title": "USA vil lage «sikkerhetsboble» i Hormuzstredet",
+      "img": "https://nrk-od-world-01.akamaized.net/open/ps/nnfa/nnfa23050526/c7db46e6-18.smil/thumb.jpg?t=62&scale=480x270&v=high"
+    },
+    {
+      "startTime": 84,
+      "title": "Smitte på skip",
+      "img": "https://nrk-od-world-01.akamaized.net/open/ps/nnfa/nnfa23050526/c7db46e6-18.smil/thumb.jpg?t=109&scale=480x270&v=high"
+    },
+    {
+      "startTime": 198,
+      "title": "Streikefare",
+      "img": "https://nrk-od-world-01.akamaized.net/open/ps/nnfa/nnfa23050526/c7db46e6-18.smil/thumb.jpg?t=223&scale=480x270&v=high"
+    },
+    {
+      "startTime": 231,
+      "title": "Norsk olje og gass",
+      "img": "https://nrk-od-world-01.akamaized.net/open/ps/nnfa/nnfa23050526/c7db46e6-18.smil/thumb.jpg?t=256&scale=480x270&v=high"
+    },
+    {
+      "startTime": 315,
+      "title": "Rasismedebatt",
+      "img": "https://nrk-od-world-01.akamaized.net/open/ps/nnfa/nnfa23050526/c7db46e6-18.smil/thumb.jpg?t=341&scale=480x270&v=high"
+    },
+    {
+      "startTime": 441,
+      "title": "Ungdommar kan ikkje skrive",
+      "img": "https://nrk-od-world-01.akamaized.net/open/ps/nnfa/nnfa23050526/c7db46e6-18.smil/thumb.jpg?t=466&scale=480x270&v=high"
+    },
+    {
+      "startTime": 544,
+      "title": "Mesterligaen i fotball",
+      "img": "https://nrk-od-world-01.akamaized.net/open/ps/nnfa/nnfa23050526/c7db46e6-18.smil/thumb.jpg?t=570&scale=480x270&v=high"
+    },
+    {
+      "startTime": 637,
+      "title": "Landslaget",
+      "img": "https://nrk-od-world-01.akamaized.net/open/ps/nnfa/nnfa23050526/c7db46e6-18.smil/thumb.jpg?t=662&scale=480x270&v=high"
+    },
+    {
+      "startTime": 720,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-01.akamaized.net/open/ps/nnfa/nnfa23050526/c7db46e6-18.smil/thumb.jpg?t=746&scale=480x270&v=high"
+    },
+    {
+      "startTime": 789,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-01.akamaized.net/open/ps/nnfa/nnfa23050526/c7db46e6-18.smil/thumb.jpg?t=808.6&scale=480x270&v=high"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "version": "1.2.0",
+  "title": "Billigere svenskehandel",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 1,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa23042926/a7ace264-18.smil/thumb.jpg?t=27&scale=480x270&v=high"
+    },
+    {
+      "startTime": 37,
+      "title": "Høyere kronekurs",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa23042926/a7ace264-18.smil/thumb.jpg?t=63&scale=480x270&v=high"
+    },
+    {
+      "startTime": 119,
+      "title": "Færre rentehevinger",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa23042926/a7ace264-18.smil/thumb.jpg?t=144&scale=480x270&v=high"
+    },
+    {
+      "startTime": 162,
+      "title": "Rentebeslutning USA",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa23042926/a7ace264-18.smil/thumb.jpg?t=187&scale=480x270&v=high"
+    },
+    {
+      "startTime": 178,
+      "title": "Høyre snur om avgiftskutt",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa23042926/a7ace264-18.smil/thumb.jpg?t=204&scale=480x270&v=high"
+    },
+    {
+      "startTime": 295,
+      "title": "Trump Putin samtale",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa23042926/a7ace264-18.smil/thumb.jpg?t=320&scale=480x270&v=high"
+    },
+    {
+      "startTime": 321,
+      "title": "Ny klimarapport",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa23042926/a7ace264-18.smil/thumb.jpg?t=346&scale=480x270&v=high"
+    },
+    {
+      "startTime": 430,
+      "title": "Brann blusset opp",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa23042926/a7ace264-18.smil/thumb.jpg?t=455&scale=480x270&v=high"
+    },
+    {
+      "startTime": 445,
+      "title": "Semifinal, CL",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa23042926/a7ace264-18.smil/thumb.jpg?t=471&scale=480x270&v=high"
+    },
+    {
+      "startTime": 533,
+      "title": "Eliteserie",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa23042926/a7ace264-18.smil/thumb.jpg?t=558&scale=480x270&v=high"
+    },
+    {
+      "startTime": 628,
+      "title": "Toppserien",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa23042926/a7ace264-18.smil/thumb.jpg?t=654&scale=480x270&v=high"
+    },
+    {
+      "startTime": 681,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa23042926/a7ace264-18.smil/thumb.jpg?t=707&scale=480x270&v=high"
+    },
+    {
+      "startTime": 742,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa23042926/a7ace264-18.smil/thumb.jpg?t=760.55&scale=480x270&v=high"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "version": "1.2.0",
+  "title": "Attentatforsøket mot Trump",
+  "author": "NRK",
+  "podcastName": "Dagsnytt 18",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsnytt atten",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa56042726/2e0069ee-14.smil/thumb.jpg?t=26&scale=480x270&v=high"
+    },
+    {
+      "startTime": 52,
+      "title": "Attentat mot Trump",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa56042726/2e0069ee-14.smil/thumb.jpg?t=78&scale=480x270&v=high"
+    },
+    {
+      "startTime": 827,
+      "title": "Kjønnsnøytral likestillingslov",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa56042726/2e0069ee-14.smil/thumb.jpg?t=852&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1346,
+      "title": "Er vi rustet for jordskjelv?",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa56042726/2e0069ee-14.smil/thumb.jpg?t=1371&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1934,
+      "title": "Pengeproblemer og selvmord",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa56042726/2e0069ee-14.smil/thumb.jpg?t=1959&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2599,
+      "title": "Ulike fraksjoner i Iran",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa56042726/2e0069ee-14.smil/thumb.jpg?t=2624&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3055,
+      "title": "Vil stoppe Pride",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa56042726/2e0069ee-14.smil/thumb.jpg?t=3081&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3530,
+      "title": "AVSLUTNING",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa56042726/2e0069ee-14.smil/thumb.jpg?t=3544.84&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3534,
+      "title": "SLUTTKJENNING",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa56042726/2e0069ee-14.smil/thumb.jpg?t=3544.84&scale=480x270&v=high"
+    }
+  ]
+}

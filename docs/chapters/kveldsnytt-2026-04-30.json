@@ -1,0 +1,73 @@
+{
+  "version": "1.2.0",
+  "title": "Ammoniakklekkasje på Ørland",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa23043026/5b46e774-17.smil/thumb.jpg?t=26&scale=480x270&v=high"
+    },
+    {
+      "startTime": 36,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa23043026/5b46e774-17.smil/thumb.jpg?t=61&scale=480x270&v=high"
+    },
+    {
+      "startTime": 151,
+      "title": "Terrornivå",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa23043026/5b46e774-17.smil/thumb.jpg?t=177&scale=480x270&v=high"
+    },
+    {
+      "startTime": 228,
+      "title": "Avgiftskutt drivstoff",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa23043026/5b46e774-17.smil/thumb.jpg?t=253&scale=480x270&v=high"
+    },
+    {
+      "startTime": 342,
+      "title": "Feiring kongen",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa23043026/5b46e774-17.smil/thumb.jpg?t=368&scale=480x270&v=high"
+    },
+    {
+      "startTime": 443,
+      "title": "Direkte: Stockholm",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa23043026/5b46e774-17.smil/thumb.jpg?t=468&scale=480x270&v=high"
+    },
+    {
+      "startTime": 586,
+      "title": "Jonas Lovv før avreise til Eurovision",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa23043026/5b46e774-17.smil/thumb.jpg?t=611&scale=480x270&v=high"
+    },
+    {
+      "startTime": 694,
+      "title": "Eliteserien",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa23043026/5b46e774-17.smil/thumb.jpg?t=720&scale=480x270&v=high"
+    },
+    {
+      "startTime": 757,
+      "title": "Nettpromo",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa23043026/5b46e774-17.smil/thumb.jpg?t=783&scale=480x270&v=high"
+    },
+    {
+      "startTime": 774,
+      "title": "PGA - golf",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa23043026/5b46e774-17.smil/thumb.jpg?t=800&scale=480x270&v=high"
+    },
+    {
+      "startTime": 846,
+      "title": "Basketball",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa23043026/5b46e774-17.smil/thumb.jpg?t=872&scale=480x270&v=high"
+    },
+    {
+      "startTime": 914,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa23043026/5b46e774-17.smil/thumb.jpg?t=940&scale=480x270&v=high"
+    },
+    {
+      "startTime": 987,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa23043026/5b46e774-17.smil/thumb.jpg?t=1011.48&scale=480x270&v=high"
+    }
+  ]
+}

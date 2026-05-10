@@ -1,0 +1,68 @@
+{
+  "version": "1.2.0",
+  "title": "Spenning rundt fredsløsning",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa23050626/59c656ff-16.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 38,
+      "title": "Håp om fredsavtale mellom USA og Iran",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa23050626/59c656ff-16.smil/thumb.jpg?t=64&scale=480x270&v=high"
+    },
+    {
+      "startTime": 138,
+      "title": "Morrow Batteries konkurs",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa23050626/59c656ff-16.smil/thumb.jpg?t=164&scale=480x270&v=high"
+    },
+    {
+      "startTime": 241,
+      "title": "Norge underskrev Pax-Silica-avtale",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa23050626/59c656ff-16.smil/thumb.jpg?t=266&scale=480x270&v=high"
+    },
+    {
+      "startTime": 302,
+      "title": "Follo",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa23050626/59c656ff-16.smil/thumb.jpg?t=328&scale=480x270&v=high"
+    },
+    {
+      "startTime": 321,
+      "title": "KrF innvandring",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa23050626/59c656ff-16.smil/thumb.jpg?t=346&scale=480x270&v=high"
+    },
+    {
+      "startTime": 374,
+      "title": "Åpnet våtmarksområde",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa23050626/59c656ff-16.smil/thumb.jpg?t=399&scale=480x270&v=high"
+    },
+    {
+      "startTime": 470,
+      "title": "Mesterligaen",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa23050626/59c656ff-16.smil/thumb.jpg?t=496&scale=480x270&v=high"
+    },
+    {
+      "startTime": 563,
+      "title": "Latvia-Norge",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa23050626/59c656ff-16.smil/thumb.jpg?t=588&scale=480x270&v=high"
+    },
+    {
+      "startTime": 622,
+      "title": "Sluttspill NM håndball",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa23050626/59c656ff-16.smil/thumb.jpg?t=648&scale=480x270&v=high"
+    },
+    {
+      "startTime": 677,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa23050626/59c656ff-16.smil/thumb.jpg?t=702&scale=480x270&v=high"
+    },
+    {
+      "startTime": 740,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa23050626/59c656ff-16.smil/thumb.jpg?t=758.44&scale=480x270&v=high"
+    }
+  ]
+}

@@ -1,0 +1,243 @@
+{
+  "version": "1.2.0",
+  "title": "Slik stemmer oljefondet",
+  "author": "NRK",
+  "podcastName": "Nyhetsmorgen",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Åpning 06:30",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa05050526/394d3555-15.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 55,
+      "title": "Oljefondet stemmer nei",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa05050526/394d3555-15.smil/thumb.jpg?t=81&scale=480x270&v=high"
+    },
+    {
+      "startTime": 140,
+      "title": "Snart øker renta",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa05050526/394d3555-15.smil/thumb.jpg?t=166&scale=480x270&v=high"
+    },
+    {
+      "startTime": 436,
+      "title": "DKVT Møter ikke opp hos tannlegen",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa05050526/394d3555-15.smil/thumb.jpg?t=461&scale=480x270&v=high"
+    },
+    {
+      "startTime": 623,
+      "title": "DKFI Freder luftskipsmasta i Vadsø",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa05050526/394d3555-15.smil/thumb.jpg?t=648&scale=480x270&v=high"
+    },
+    {
+      "startTime": 767,
+      "title": "GJEST Cruisepassasjerer sitter fast",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa05050526/394d3555-15.smil/thumb.jpg?t=792&scale=480x270&v=high"
+    },
+    {
+      "startTime": 974,
+      "title": "DIR Trafikkulykke Ålesund",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa05050526/394d3555-15.smil/thumb.jpg?t=1000&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1094,
+      "title": "DKRO Ungdommar kan ikkje skrive",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa05050526/394d3555-15.smil/thumb.jpg?t=1119&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1242,
+      "title": "Dårlig generalprøve av Bodø Glimt",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa05050526/394d3555-15.smil/thumb.jpg?t=1268&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1351,
+      "title": "DKSL KI skal ta saksbunka i byggesaker",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa05050526/394d3555-15.smil/thumb.jpg?t=1377&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1491,
+      "title": "GJEST Metgalla",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa05050526/394d3555-15.smil/thumb.jpg?t=1516&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1878,
+      "title": "Oljefondet stemmer nei",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa05050526/394d3555-15.smil/thumb.jpg?t=1904&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2084,
+      "title": "GJEST Amund Djuve om Epstein-gransking",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa05050526/394d3555-15.smil/thumb.jpg?t=2110&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2542,
+      "title": "DKTR Uenighet om turistskatt i Tromsø",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa05050526/394d3555-15.smil/thumb.jpg?t=2568&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2574,
+      "title": "GJEST Før Politisk kvarter",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa05050526/394d3555-15.smil/thumb.jpg?t=2600&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2644,
+      "title": "DIR Ukraina våpenhvile",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa05050526/394d3555-15.smil/thumb.jpg?t=2670&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2928,
+      "title": "DKMR Blei vaksenadoptert",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa05050526/394d3555-15.smil/thumb.jpg?t=2954&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3101,
+      "title": "GJEST Mellomvalg USA",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa05050526/394d3555-15.smil/thumb.jpg?t=3126&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3373,
+      "title": "DKNO Silketørklets renessanse",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa05050526/394d3555-15.smil/thumb.jpg?t=3399&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3567,
+      "title": "TR Tyrann: Khomeini",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa05050526/394d3555-15.smil/thumb.jpg?t=3593&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3599,
+      "title": "Topper 07:30",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa05050526/394d3555-15.smil/thumb.jpg?t=3625&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3632,
+      "title": "DIR Siste fra Hormuz",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa05050526/394d3555-15.smil/thumb.jpg?t=3657&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3754,
+      "title": "Oljefondet stemmer nei",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa05050526/394d3555-15.smil/thumb.jpg?t=3780&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3886,
+      "title": "Ulykke i Ålesund",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa05050526/394d3555-15.smil/thumb.jpg?t=3912&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3936,
+      "title": "Snart øker renta",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa05050526/394d3555-15.smil/thumb.jpg?t=3962&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4051,
+      "title": "Ny forskning om eldre skaper bekymring",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa05050526/394d3555-15.smil/thumb.jpg?t=4077&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4074,
+      "title": "DKRO Ungdommar kan ikkje skrive",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa05050526/394d3555-15.smil/thumb.jpg?t=4099&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4223,
+      "title": "GJEST Skjeggkreåte virker lenge",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa05050526/394d3555-15.smil/thumb.jpg?t=4248&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5399,
+      "title": "NRK Nyheter 08:00",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa05050526/394d3555-15.smil/thumb.jpg?t=5424&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5580,
+      "title": "Åpning 08:03",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa05050526/394d3555-15.smil/thumb.jpg?t=5606&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5644,
+      "title": "Ordkrigen mellom USA og Iran",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa05050526/394d3555-15.smil/thumb.jpg?t=5669&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5810,
+      "title": "DIREKTE Maersk-skip gjennom Hormuz",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa05050526/394d3555-15.smil/thumb.jpg?t=5835&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6036,
+      "title": "GJEST Stein Erik Hagen døde i går",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa05050526/394d3555-15.smil/thumb.jpg?t=6061&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6413,
+      "title": "GJEST Veterinærer og arbeidspress",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa05050526/394d3555-15.smil/thumb.jpg?t=6438&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6710,
+      "title": "Snart øker renta",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa05050526/394d3555-15.smil/thumb.jpg?t=6736&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6867,
+      "title": "GJEST Russ og hjernehinnebetennelse",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa05050526/394d3555-15.smil/thumb.jpg?t=6893&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7123,
+      "title": "DIREKTE Norges beste bolle",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa05050526/394d3555-15.smil/thumb.jpg?t=7149&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7303,
+      "title": "Mellomtopper",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa05050526/394d3555-15.smil/thumb.jpg?t=7329&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7353,
+      "title": "DIREKTE Zelenskyj varsler våpenhvile",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa05050526/394d3555-15.smil/thumb.jpg?t=7379&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7584,
+      "title": "Oljefondet stemmer nei",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa05050526/394d3555-15.smil/thumb.jpg?t=7609&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7786,
+      "title": "GJEST Norge med i Pax Silica",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa05050526/394d3555-15.smil/thumb.jpg?t=7811&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7960,
+      "title": "DIR Johansson ferdig i Rosenborg",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa05050526/394d3555-15.smil/thumb.jpg?t=7986&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8138,
+      "title": "DIR Før Ekko i NRK P2",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa05050526/394d3555-15.smil/thumb.jpg?t=8164&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8218,
+      "title": "GJEST Glatt veier flere steder i landet",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa05050526/394d3555-15.smil/thumb.jpg?t=8243&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8371,
+      "title": "GJEST Insektsvennlig hage",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa05050526/394d3555-15.smil/thumb.jpg?t=8396&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8612,
+      "title": "GJEST Anm. av Kai Fjell-utstilling",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa05050526/394d3555-15.smil/thumb.jpg?t=8637&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8837,
+      "title": "GJEST Været i dag",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa05050526/394d3555-15.smil/thumb.jpg?t=8863&scale=480x270&v=high"
+    }
+  ]
+}

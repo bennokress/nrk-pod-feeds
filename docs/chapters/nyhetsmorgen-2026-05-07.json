@@ -1,0 +1,273 @@
+{
+  "version": "1.2.0",
+  "title": "Ventes flere renteøkninger i år",
+  "author": "NRK",
+  "podcastName": "Nyhetsmorgen",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Åpning 06:30",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa05050726/ed0d983b-14.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 68,
+      "title": "Rentemøte i Norges Bank",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa05050726/ed0d983b-14.smil/thumb.jpg?t=94&scale=480x270&v=high"
+    },
+    {
+      "startTime": 130,
+      "title": "DKVT Tregt hyttesalg",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa05050726/ed0d983b-14.smil/thumb.jpg?t=155&scale=480x270&v=high"
+    },
+    {
+      "startTime": 458,
+      "title": "Norge i tet på hjerte- og lungeredning",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa05050726/ed0d983b-14.smil/thumb.jpg?t=483&scale=480x270&v=high"
+    },
+    {
+      "startTime": 661,
+      "title": "GJEST Krise på Cuba",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa05050726/ed0d983b-14.smil/thumb.jpg?t=686&scale=480x270&v=high"
+    },
+    {
+      "startTime": 849,
+      "title": "Folk på Kanariøyene om hantavirus",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa05050726/ed0d983b-14.smil/thumb.jpg?t=874&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1042,
+      "title": "Lokalvalg i Storbritannia",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa05050726/ed0d983b-14.smil/thumb.jpg?t=1068&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1260,
+      "title": "Advarer unge mot å bruke penger i spill",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa05050726/ed0d983b-14.smil/thumb.jpg?t=1285&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1301,
+      "title": "Bayern München-PSG i mesterligaen",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa05050726/ed0d983b-14.smil/thumb.jpg?t=1326&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1361,
+      "title": "Ultraløp: Der siste mann vinner",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa05050726/ed0d983b-14.smil/thumb.jpg?t=1387&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1482,
+      "title": "Ibelin-innspilling i Drammen",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa05050726/ed0d983b-14.smil/thumb.jpg?t=1508&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1768,
+      "title": "Trailer - LESEKLUBBEN_KAFKA PÅ STRANDEN",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa05050726/ed0d983b-14.smil/thumb.jpg?t=1793&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1799,
+      "title": "Åpning 07:00",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa05050726/ed0d983b-14.smil/thumb.jpg?t=1825&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1874,
+      "title": "Rentemøte i Norges Bank",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa05050726/ed0d983b-14.smil/thumb.jpg?t=1900&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2010,
+      "title": "DIREKTE Økonomikommentator om norsk rente",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa05050726/ed0d983b-14.smil/thumb.jpg?t=2036&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2236,
+      "title": "Svensker om den svenske renta",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa05050726/ed0d983b-14.smil/thumb.jpg?t=2261&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2298,
+      "title": "DIREKTE Økonomikommentator om svensk rente",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa05050726/ed0d983b-14.smil/thumb.jpg?t=2324&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2441,
+      "title": "Mener staten må beskytte mot netthets",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa05050726/ed0d983b-14.smil/thumb.jpg?t=2467&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2638,
+      "title": "GJEST KrF sørger for mindre familieinnvand",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa05050726/ed0d983b-14.smil/thumb.jpg?t=2663&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2724,
+      "title": "DIREKTE USA-Iran nærmere avtale",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa05050726/ed0d983b-14.smil/thumb.jpg?t=2750&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2915,
+      "title": "Uttrekning soldater",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa05050726/ed0d983b-14.smil/thumb.jpg?t=2941&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3149,
+      "title": "GJEST Norge får KI-direktør",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa05050726/ed0d983b-14.smil/thumb.jpg?t=3175&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3449,
+      "title": "DKRO Tror på alzheimer-vaksinen",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa05050726/ed0d983b-14.smil/thumb.jpg?t=3474&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3604,
+      "title": "Topper 07:30",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa05050726/ed0d983b-14.smil/thumb.jpg?t=3629&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3637,
+      "title": "Rentemøte i Norges Bank",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa05050726/ed0d983b-14.smil/thumb.jpg?t=3663&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3747,
+      "title": "DIREKTE Økonomikommentator om norsk rente",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa05050726/ed0d983b-14.smil/thumb.jpg?t=3773&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3822,
+      "title": "Folk på Kanariøyene om hantavirus",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa05050726/ed0d983b-14.smil/thumb.jpg?t=3848&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3943,
+      "title": "Norge i tet  på hjerte- og lungeredning",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa05050726/ed0d983b-14.smil/thumb.jpg?t=3968&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4062,
+      "title": "Ibelin-innspilling i Drammen",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa05050726/ed0d983b-14.smil/thumb.jpg?t=4088&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4199,
+      "title": "Åpning 07:40",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa05050726/ed0d983b-14.smil/thumb.jpg?t=4225&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4220,
+      "title": "DKSF Ny forsking på svangerskapskvalme",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa05050726/ed0d983b-14.smil/thumb.jpg?t=4246&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5402,
+      "title": "NRK Nyheter 08:00",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa05050726/ed0d983b-14.smil/thumb.jpg?t=5427&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5581,
+      "title": "Åpning 08:03",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa05050726/ed0d983b-14.smil/thumb.jpg?t=5607&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5635,
+      "title": "Folk på Kanariøyene om hantavirus",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa05050726/ed0d983b-14.smil/thumb.jpg?t=5661&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5836,
+      "title": "Rentemøte i Norges Bank",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa05050726/ed0d983b-14.smil/thumb.jpg?t=5861&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5951,
+      "title": "GJEST Slik pruter du på renta",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa05050726/ed0d983b-14.smil/thumb.jpg?t=5977&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6169,
+      "title": "DKVT Tregt hyttesalg",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa05050726/ed0d983b-14.smil/thumb.jpg?t=6194&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6426,
+      "title": "USA-Iran nærmere avtale",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa05050726/ed0d983b-14.smil/thumb.jpg?t=6451&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6560,
+      "title": "DIREKTE Irans utenriksminister i Kina",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa05050726/ed0d983b-14.smil/thumb.jpg?t=6585&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6840,
+      "title": "Enquete KI og taler",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa05050726/ed0d983b-14.smil/thumb.jpg?t=6866&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6941,
+      "title": "GJEST Taleskriving og KI",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa05050726/ed0d983b-14.smil/thumb.jpg?t=6966&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7263,
+      "title": "Rentemøte i Norges Bank",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa05050726/ed0d983b-14.smil/thumb.jpg?t=7288&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7321,
+      "title": "Svensker om den svenske renta",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa05050726/ed0d983b-14.smil/thumb.jpg?t=7346&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7378,
+      "title": "DIREKTE Svensk renteavgjørelse",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa05050726/ed0d983b-14.smil/thumb.jpg?t=7403&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7539,
+      "title": "Lokalvalg i Storbritannia",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa05050726/ed0d983b-14.smil/thumb.jpg?t=7565&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7756,
+      "title": "Mener staten må beskytte mot netthets",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa05050726/ed0d983b-14.smil/thumb.jpg?t=7781&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7837,
+      "title": "Uttrekning soldater",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa05050726/ed0d983b-14.smil/thumb.jpg?t=7863&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8067,
+      "title": "DIR Før Ekko i NRK P2",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa05050726/ed0d983b-14.smil/thumb.jpg?t=8093&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8157,
+      "title": "KrF sørger for mindre familieinnvandring",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa05050726/ed0d983b-14.smil/thumb.jpg?t=8182&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8400,
+      "title": "Norge i tet på hjerte- og lungeredning",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa05050726/ed0d983b-14.smil/thumb.jpg?t=8426&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8519,
+      "title": "Anmeldelse: Dead Man's Wire",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa05050726/ed0d983b-14.smil/thumb.jpg?t=8544&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8735,
+      "title": "Ibelin-innspilling i Drammen",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa05050726/ed0d983b-14.smil/thumb.jpg?t=8760&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8862,
+      "title": "GJEST Været i dag",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa05050726/ed0d983b-14.smil/thumb.jpg?t=8887&scale=480x270&v=high"
+    }
+  ]
+}

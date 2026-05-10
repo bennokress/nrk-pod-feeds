@@ -1,0 +1,268 @@
+{
+  "version": "1.2.0",
+  "title": "- Staten kan ikke betale medisiner og vaksiner for alle",
+  "author": "NRK",
+  "podcastName": "Nyhetsmorgen",
+  "chapters": [
+    {
+      "startTime": 1,
+      "title": "Åpning 06:30",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa05050826/ef6ab1ec-15.smil/thumb.jpg?t=27&scale=480x270&v=high"
+    },
+    {
+      "startTime": 63,
+      "title": "Alle kan ikke få vaksiner",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa05050826/ef6ab1ec-15.smil/thumb.jpg?t=88&scale=480x270&v=high"
+    },
+    {
+      "startTime": 137,
+      "title": "DKOA Avslutter smertebehandling",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa05050826/ef6ab1ec-15.smil/thumb.jpg?t=163&scale=480x270&v=high"
+    },
+    {
+      "startTime": 257,
+      "title": "Siste nytt",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa05050826/ef6ab1ec-15.smil/thumb.jpg?t=283&scale=480x270&v=high"
+    },
+    {
+      "startTime": 391,
+      "title": "DKTR Vil ha beboerrabatt på fly til Svalbard",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa05050826/ef6ab1ec-15.smil/thumb.jpg?t=416&scale=480x270&v=high"
+    },
+    {
+      "startTime": 604,
+      "title": "Prøver å kjøpe seg til seier i stafetten",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa05050826/ef6ab1ec-15.smil/thumb.jpg?t=629&scale=480x270&v=high"
+    },
+    {
+      "startTime": 707,
+      "title": "Topper 06:45",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa05050826/ef6ab1ec-15.smil/thumb.jpg?t=732&scale=480x270&v=high"
+    },
+    {
+      "startTime": 742,
+      "title": "–Venezuela kan bli et amerikansk protektorat",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa05050826/ef6ab1ec-15.smil/thumb.jpg?t=768&scale=480x270&v=high"
+    },
+    {
+      "startTime": 934,
+      "title": "GJEST Venezuela - Hvordan går det nå?",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa05050826/ef6ab1ec-15.smil/thumb.jpg?t=959&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1186,
+      "title": "DKRO Boligmarkedet og renta",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa05050826/ef6ab1ec-15.smil/thumb.jpg?t=1212&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1348,
+      "title": "DIR Våpenhvilebrudd i Midtøsten",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa05050826/ef6ab1ec-15.smil/thumb.jpg?t=1374&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1558,
+      "title": "Uno-X første gang i Giro d'Italia",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa05050826/ef6ab1ec-15.smil/thumb.jpg?t=1583&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1730,
+      "title": "Teasing dagens sending",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa05050826/ef6ab1ec-15.smil/thumb.jpg?t=1756&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1765,
+      "title": "Brenner deler dikt (ny sesong)",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa05050826/ef6ab1ec-15.smil/thumb.jpg?t=1791&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1797,
+      "title": "Åpning 07:00",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa05050826/ef6ab1ec-15.smil/thumb.jpg?t=1823&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1853,
+      "title": "Alle kan ikke få vaksiner",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa05050826/ef6ab1ec-15.smil/thumb.jpg?t=1879&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2089,
+      "title": "GJEST Før Politisk kvarter",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa05050826/ef6ab1ec-15.smil/thumb.jpg?t=2114&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2118,
+      "title": "DIREKTE Kina og kinesisk spion",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa05050826/ef6ab1ec-15.smil/thumb.jpg?t=2143&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2400,
+      "title": "Sover ute for Marcus & Martinus",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa05050826/ef6ab1ec-15.smil/thumb.jpg?t=2425&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2653,
+      "title": "Hantavirus i Argentina",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa05050826/ef6ab1ec-15.smil/thumb.jpg?t=2678&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2864,
+      "title": "Topper 07:15",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa05050826/ef6ab1ec-15.smil/thumb.jpg?t=2890&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2902,
+      "title": "Studenter om eksamen og KI",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa05050826/ef6ab1ec-15.smil/thumb.jpg?t=2928&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2980,
+      "title": "GJESTER Eksamen og KI",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa05050826/ef6ab1ec-15.smil/thumb.jpg?t=3006&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3379,
+      "title": "Mer enn 80.000 løper Holmenkollstafetten",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa05050826/ef6ab1ec-15.smil/thumb.jpg?t=3404&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3569,
+      "title": "Leseklubben: Kafka på stranden",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa05050826/ef6ab1ec-15.smil/thumb.jpg?t=3595&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3601,
+      "title": "Topper 07:30",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa05050826/ef6ab1ec-15.smil/thumb.jpg?t=3626&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3607,
+      "title": "Alle kan ikke få vaksiner",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa05050826/ef6ab1ec-15.smil/thumb.jpg?t=3633&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3610,
+      "title": "Topper 07:30",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa05050826/ef6ab1ec-15.smil/thumb.jpg?t=3635&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3632,
+      "title": "Alle kan ikke få vaksiner",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa05050826/ef6ab1ec-15.smil/thumb.jpg?t=3658&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3771,
+      "title": "DIREKTE Kina og kinesisk spion",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa05050826/ef6ab1ec-15.smil/thumb.jpg?t=3796&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3874,
+      "title": "NM7 Trump sier våpenhvilen fortsetter",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa05050826/ef6ab1ec-15.smil/thumb.jpg?t=3900&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3947,
+      "title": "Hantavirus i Argentina",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa05050826/ef6ab1ec-15.smil/thumb.jpg?t=3973&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4076,
+      "title": "DKTR Vil ha beboerrabatt på fly til Svalbard",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa05050826/ef6ab1ec-15.smil/thumb.jpg?t=4101&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4200,
+      "title": "Åpning 07:40",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa05050826/ef6ab1ec-15.smil/thumb.jpg?t=4226&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4450,
+      "title": "Topper 07:44",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa05050826/ef6ab1ec-15.smil/thumb.jpg?t=4476&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4500,
+      "title": "Overgang til Politisk kvarter",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa05050826/ef6ab1ec-15.smil/thumb.jpg?t=4525&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5401,
+      "title": "NRK Nyheter 08:00",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa05050826/ef6ab1ec-15.smil/thumb.jpg?t=5426&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5580,
+      "title": "Åpning 08:03",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa05050826/ef6ab1ec-15.smil/thumb.jpg?t=5606&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6007,
+      "title": "GJEST Aasland om eksamen",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa05050826/ef6ab1ec-15.smil/thumb.jpg?t=6032&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6190,
+      "title": "Topper 08:15",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa05050826/ef6ab1ec-15.smil/thumb.jpg?t=6216&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6285,
+      "title": "Fredagspanelet",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa05050826/ef6ab1ec-15.smil/thumb.jpg?t=6310&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7058,
+      "title": "–Venezuela kan bli et amerikansk protektorat",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa05050826/ef6ab1ec-15.smil/thumb.jpg?t=7083&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7245,
+      "title": "Mellomtopper",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa05050826/ef6ab1ec-15.smil/thumb.jpg?t=7270&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7305,
+      "title": "Alle kan ikke få vaksiner",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa05050826/ef6ab1ec-15.smil/thumb.jpg?t=7331&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7440,
+      "title": "Hantavirus i Argentina",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa05050826/ef6ab1ec-15.smil/thumb.jpg?t=7465&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7869,
+      "title": "GJEST DIR Attenborough 100 år",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa05050826/ef6ab1ec-15.smil/thumb.jpg?t=7895&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8419,
+      "title": "Topper 08:45",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa05050826/ef6ab1ec-15.smil/thumb.jpg?t=8444&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8469,
+      "title": "DKRO Boligmarkedet og renta",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa05050826/ef6ab1ec-15.smil/thumb.jpg?t=8495&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8563,
+      "title": "Mer enn 80.000 løper Holmenkollstafetten",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa05050826/ef6ab1ec-15.smil/thumb.jpg?t=8588&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8747,
+      "title": "DKOA Avslutter smertebehandling",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa05050826/ef6ab1ec-15.smil/thumb.jpg?t=8773&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8860,
+      "title": "GJEST Været i dag",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa05050826/ef6ab1ec-15.smil/thumb.jpg?t=8885&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8989,
+      "title": "Avslutning",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa05050826/ef6ab1ec-15.smil/thumb.jpg?t=9004.24&scale=480x270&v=high"
+    }
+  ]
+}
