@@ -1,0 +1,258 @@
+{
+  "version": "1.2.0",
+  "title": "Flere barn overlever kreft i Norge",
+  "author": "NRK",
+  "podcastName": "Nyhetsmorgen",
+  "chapters": [
+    {
+      "startTime": 1,
+      "title": "Åpning 06:30",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa05042826/33bc1e34-15.smil/thumb.jpg?t=26&scale=480x270&v=high"
+    },
+    {
+      "startTime": 65,
+      "title": "Barnekreft overlevelse",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa05042826/33bc1e34-15.smil/thumb.jpg?t=90&scale=480x270&v=high"
+    },
+    {
+      "startTime": 118,
+      "title": "Frykter at arbeidsgivere vil skvise folk ut",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa05042826/33bc1e34-15.smil/thumb.jpg?t=144&scale=480x270&v=high"
+    },
+    {
+      "startTime": 445,
+      "title": "GJEST USA og Iran",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa05042826/33bc1e34-15.smil/thumb.jpg?t=470&scale=480x270&v=high"
+    },
+    {
+      "startTime": 682,
+      "title": "Forbrukerrådet bekymret for kredittgjeld",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa05042826/33bc1e34-15.smil/thumb.jpg?t=707&scale=480x270&v=high"
+    },
+    {
+      "startTime": 953,
+      "title": "GJESTER: Stormøte boligpolitikk",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa05042826/33bc1e34-15.smil/thumb.jpg?t=978&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1432,
+      "title": "NM-finale basket",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa05042826/33bc1e34-15.smil/thumb.jpg?t=1458&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1575,
+      "title": "GJEST Anmeldelse Tame Impala",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa05042826/33bc1e34-15.smil/thumb.jpg?t=1600&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1782,
+      "title": "TR - HELE HISTORIEN_HELIKOPTERSTYRTEN",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa05042826/33bc1e34-15.smil/thumb.jpg?t=1808&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1811,
+      "title": "Åpning 07:00",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa05042826/33bc1e34-15.smil/thumb.jpg?t=1836&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1871,
+      "title": "Barnekreft overlevelse",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa05042826/33bc1e34-15.smil/thumb.jpg?t=1897&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2067,
+      "title": "Økern-skyting og MC-gjenger",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa05042826/33bc1e34-15.smil/thumb.jpg?t=2093&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2231,
+      "title": "GJEST Gjengkriminalitet",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa05042826/33bc1e34-15.smil/thumb.jpg?t=2257&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2641,
+      "title": "Innvandrere bruker hjemmetjenester mindre",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa05042826/33bc1e34-15.smil/thumb.jpg?t=2666&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2871,
+      "title": "GJEST Politisk kvarter om sykefravær",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa05042826/33bc1e34-15.smil/thumb.jpg?t=2896&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2938,
+      "title": "DIREKTE Nytt politisk parti Israel",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa05042826/33bc1e34-15.smil/thumb.jpg?t=2964&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3191,
+      "title": "Bombeangrep i Colombia før valget",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa05042826/33bc1e34-15.smil/thumb.jpg?t=3217&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3367,
+      "title": "DKTE Færre jordpartikler i Oslofjorden",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa05042826/33bc1e34-15.smil/thumb.jpg?t=3392&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3600,
+      "title": "Topper 07:30",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa05042826/33bc1e34-15.smil/thumb.jpg?t=3625&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3644,
+      "title": "Barnekreft overlevelse",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa05042826/33bc1e34-15.smil/thumb.jpg?t=3669&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3769,
+      "title": "Økern-skyting og MC-gjenger",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa05042826/33bc1e34-15.smil/thumb.jpg?t=3794&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3891,
+      "title": "GJEST USA og Iran",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa05042826/33bc1e34-15.smil/thumb.jpg?t=3917&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3992,
+      "title": "Norwegian fortsatt i minus",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa05042826/33bc1e34-15.smil/thumb.jpg?t=4017&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4007,
+      "title": "Forbrukerrådet bekymret for kredittgjeld",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa05042826/33bc1e34-15.smil/thumb.jpg?t=4033&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4022,
+      "title": "Innvandrere bruker  hjemmetjenester mindre",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa05042826/33bc1e34-15.smil/thumb.jpg?t=4048&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4145,
+      "title": "Taylor Swift vil varemerke stemmen",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa05042826/33bc1e34-15.smil/thumb.jpg?t=4171&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4200,
+      "title": "Åpning 07:40",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa05042826/33bc1e34-15.smil/thumb.jpg?t=4225&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4213,
+      "title": "NOAH reagerer på Akvariet i Bergen",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa05042826/33bc1e34-15.smil/thumb.jpg?t=4238&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5399,
+      "title": "NRK Nyheter 08:00",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa05042826/33bc1e34-15.smil/thumb.jpg?t=5425&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5583,
+      "title": "Åpning 08:03",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa05042826/33bc1e34-15.smil/thumb.jpg?t=5609&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5650,
+      "title": "Barnekreft overlevelse",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa05042826/33bc1e34-15.smil/thumb.jpg?t=5675&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5819,
+      "title": "GJEST Barnekreft overlevelse",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa05042826/33bc1e34-15.smil/thumb.jpg?t=5845&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6138,
+      "title": "DIREKTE Brann ved Svartehavet",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa05042826/33bc1e34-15.smil/thumb.jpg?t=6163&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6369,
+      "title": "Topper 08:15",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa05042826/33bc1e34-15.smil/thumb.jpg?t=6395&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6401,
+      "title": "GJEST Musk saksøker Open Ai",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa05042826/33bc1e34-15.smil/thumb.jpg?t=6426&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6590,
+      "title": "DKIN Ulovlig ulvejakt for retten",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa05042826/33bc1e34-15.smil/thumb.jpg?t=6615&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6718,
+      "title": "Innvandrere bruker hjemmetjenester mindre",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa05042826/33bc1e34-15.smil/thumb.jpg?t=6744&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6943,
+      "title": "GJEST- Taylor Swift beskytte stemmen sin",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa05042826/33bc1e34-15.smil/thumb.jpg?t=6968&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7115,
+      "title": "Forbrukerrådet bekymret for kredittgjeld",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa05042826/33bc1e34-15.smil/thumb.jpg?t=7140&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7324,
+      "title": "Trailer - Seriesankk: LIS",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa05042826/33bc1e34-15.smil/thumb.jpg?t=7349&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7356,
+      "title": "Mellomtopper",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa05042826/33bc1e34-15.smil/thumb.jpg?t=7382&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7399,
+      "title": "Festival for folk med funksjonsvariasjoner",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa05042826/33bc1e34-15.smil/thumb.jpg?t=7424&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7664,
+      "title": "DKBU Sliter med blikkontakt",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa05042826/33bc1e34-15.smil/thumb.jpg?t=7690&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7819,
+      "title": "GJEST Merking av katter",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa05042826/33bc1e34-15.smil/thumb.jpg?t=7844&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7979,
+      "title": "Gjengkriminalitet (R)",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa05042826/33bc1e34-15.smil/thumb.jpg?t=8005&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8245,
+      "title": "DIREKTE Spente før eksamenstrekk",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa05042826/33bc1e34-15.smil/thumb.jpg?t=8270&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8381,
+      "title": "Politisk kvarter - Plikt til annet arbeid",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa05042826/33bc1e34-15.smil/thumb.jpg?t=8407&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8547,
+      "title": "DIREKTE Norwegian-resultat",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa05042826/33bc1e34-15.smil/thumb.jpg?t=8572&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8647,
+      "title": "GJEST Anmeldelse Presidentinnene",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa05042826/33bc1e34-15.smil/thumb.jpg?t=8672&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8903,
+      "title": "GJEST Været i dag",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa05042826/33bc1e34-15.smil/thumb.jpg?t=8929&scale=480x270&v=high"
+    }
+  ]
+}

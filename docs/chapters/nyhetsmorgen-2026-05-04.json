@@ -1,0 +1,283 @@
+{
+  "version": "1.2.0",
+  "title": "Bekymringsfullt skolefravær øker",
+  "author": "NRK",
+  "podcastName": "Nyhetsmorgen",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Åpning 06:30",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05050426/d9a30d1d-13.smil/thumb.jpg?t=26&scale=480x270&v=high"
+    },
+    {
+      "startTime": 44,
+      "title": "GJEST Trump vil hjelpe skip ut av Hormuz",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05050426/d9a30d1d-13.smil/thumb.jpg?t=69&scale=480x270&v=high"
+    },
+    {
+      "startTime": 218,
+      "title": "Bekymringsfullt skolefravær",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05050426/d9a30d1d-13.smil/thumb.jpg?t=243&scale=480x270&v=high"
+    },
+    {
+      "startTime": 293,
+      "title": "DKOA Kjønnslemlestelse",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05050426/d9a30d1d-13.smil/thumb.jpg?t=319&scale=480x270&v=high"
+    },
+    {
+      "startTime": 431,
+      "title": "Siste nytt",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05050426/d9a30d1d-13.smil/thumb.jpg?t=456&scale=480x270&v=high"
+    },
+    {
+      "startTime": 547,
+      "title": "Høyesterett endrer spilleregler i USA",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05050426/d9a30d1d-13.smil/thumb.jpg?t=573&scale=480x270&v=high"
+    },
+    {
+      "startTime": 831,
+      "title": "GJEST Gigantoppgjør i kinosalene",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05050426/d9a30d1d-13.smil/thumb.jpg?t=857&scale=480x270&v=high"
+    },
+    {
+      "startTime": 959,
+      "title": "Topper 06:45",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05050426/d9a30d1d-13.smil/thumb.jpg?t=985&scale=480x270&v=high"
+    },
+    {
+      "startTime": 995,
+      "title": "Mini-RISK hjelper barn",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05050426/d9a30d1d-13.smil/thumb.jpg?t=1020&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1236,
+      "title": "GJEST Noe i boks",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05050426/d9a30d1d-13.smil/thumb.jpg?t=1261&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1463,
+      "title": "Svømmesatsing mot OL -28",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05050426/d9a30d1d-13.smil/thumb.jpg?t=1489&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1591,
+      "title": "Kjendiser fortrenger skuespillere",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05050426/d9a30d1d-13.smil/thumb.jpg?t=1617&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1794,
+      "title": "Åpning 07:00",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05050426/d9a30d1d-13.smil/thumb.jpg?t=1820&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1865,
+      "title": "Trump vil hjelpe skip ut av Hormuz-stredet",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05050426/d9a30d1d-13.smil/thumb.jpg?t=1891&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2035,
+      "title": "Bekymringsfullt skolefravær",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05050426/d9a30d1d-13.smil/thumb.jpg?t=2061&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2257,
+      "title": "GJEST Rektor om skolefravær",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05050426/d9a30d1d-13.smil/thumb.jpg?t=2283&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2523,
+      "title": "2026 kan bli El Niño-år",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05050426/d9a30d1d-13.smil/thumb.jpg?t=2548&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2692,
+      "title": "GJEST Listhaug til Polkvart",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05050426/d9a30d1d-13.smil/thumb.jpg?t=2717&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2749,
+      "title": "Topper 07:15",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05050426/d9a30d1d-13.smil/thumb.jpg?t=2774&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2793,
+      "title": "DIREKTE USA henter soldater hjem",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05050426/d9a30d1d-13.smil/thumb.jpg?t=2819&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3005,
+      "title": "GJEST Fredsprisvinnar i fengsel i Iran",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05050426/d9a30d1d-13.smil/thumb.jpg?t=3030&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3303,
+      "title": "DKFI Barnefotball om natta",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05050426/d9a30d1d-13.smil/thumb.jpg?t=3328&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3569,
+      "title": "Leseklubben: Kafka på stranden",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05050426/d9a30d1d-13.smil/thumb.jpg?t=3594&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3600,
+      "title": "Topper 07:30",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05050426/d9a30d1d-13.smil/thumb.jpg?t=3626&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3637,
+      "title": "«Operasjon frihet» i Hormuz-stredet",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05050426/d9a30d1d-13.smil/thumb.jpg?t=3662&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3735,
+      "title": "Bekymringsfullt skolefravær",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05050426/d9a30d1d-13.smil/thumb.jpg?t=3761&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3867,
+      "title": "2026 kan bli El Niño-år",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05050426/d9a30d1d-13.smil/thumb.jpg?t=3893&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3978,
+      "title": "DKOA Kjønnslemlestelse kan opereres i Norge",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05050426/d9a30d1d-13.smil/thumb.jpg?t=4004&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4088,
+      "title": "Kjendiser fortrenger skuespillere",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05050426/d9a30d1d-13.smil/thumb.jpg?t=4114&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4199,
+      "title": "Åpning 07:40",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05050426/d9a30d1d-13.smil/thumb.jpg?t=4224&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4208,
+      "title": "DKTR Emma snakker ikke samme språk som moren",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05050426/d9a30d1d-13.smil/thumb.jpg?t=4234&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4441,
+      "title": "Topper 07:44",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05050426/d9a30d1d-13.smil/thumb.jpg?t=4467&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5400,
+      "title": "NRK Nyheter 08:00",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05050426/d9a30d1d-13.smil/thumb.jpg?t=5425&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5579,
+      "title": "Åpning 08:03",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05050426/d9a30d1d-13.smil/thumb.jpg?t=5604&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5648,
+      "title": "DIREKTE Frykter Iran-krigen blusser opp igjen",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05050426/d9a30d1d-13.smil/thumb.jpg?t=5673&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5884,
+      "title": "Bekymringsfullt skolefravær",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05050426/d9a30d1d-13.smil/thumb.jpg?t=5910&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6026,
+      "title": "DIREKTE Autisme og skolefravær",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05050426/d9a30d1d-13.smil/thumb.jpg?t=6051&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6238,
+      "title": "DKOA Kjønnslemlestelse",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05050426/d9a30d1d-13.smil/thumb.jpg?t=6264&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6369,
+      "title": "Topper 08:15",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05050426/d9a30d1d-13.smil/thumb.jpg?t=6394&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6405,
+      "title": "2026 kan bli El Niño-år",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05050426/d9a30d1d-13.smil/thumb.jpg?t=6430&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6562,
+      "title": "GJEST Met-galla",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05050426/d9a30d1d-13.smil/thumb.jpg?t=6588&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6723,
+      "title": "GJEST DIREKTE Mandagspanelet",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05050426/d9a30d1d-13.smil/thumb.jpg?t=6748&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7161,
+      "title": "Mellomtopper",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05050426/d9a30d1d-13.smil/thumb.jpg?t=7186&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7199,
+      "title": "DIREKTE Stenger siste norske gruve",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05050426/d9a30d1d-13.smil/thumb.jpg?t=7225&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7365,
+      "title": "DIREKTE Vil hente skip ut av Hormuz-stredet",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05050426/d9a30d1d-13.smil/thumb.jpg?t=7391&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7571,
+      "title": "GJEST Markedsreaksjoner Hormuz",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05050426/d9a30d1d-13.smil/thumb.jpg?t=7597&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7699,
+      "title": "DIREKTE Droneangrep Moskva",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05050426/d9a30d1d-13.smil/thumb.jpg?t=7725&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7960,
+      "title": "DIR Før Ekko i NRK P2",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05050426/d9a30d1d-13.smil/thumb.jpg?t=7986&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8013,
+      "title": "Topper 08:45",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05050426/d9a30d1d-13.smil/thumb.jpg?t=8038&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8042,
+      "title": "Listhaug om rasist-uttalelser",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05050426/d9a30d1d-13.smil/thumb.jpg?t=8067&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8260,
+      "title": "GJEST Shakira Copacabana",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05050426/d9a30d1d-13.smil/thumb.jpg?t=8286&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8368,
+      "title": "GJEST Anmeldelse: «Bare la dem komme»",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05050426/d9a30d1d-13.smil/thumb.jpg?t=8394&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8614,
+      "title": "DKSL Mini-RISK hjelper barn",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05050426/d9a30d1d-13.smil/thumb.jpg?t=8640&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8848,
+      "title": "GJEST Været i dag",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05050426/d9a30d1d-13.smil/thumb.jpg?t=8874&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8994,
+      "title": "Avslutning",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05050426/d9a30d1d-13.smil/thumb.jpg?t=9003.24&scale=480x270&v=high"
+    }
+  ]
+}

@@ -53,6 +53,7 @@ GEO_FALLBACK_SERIES = {"dagsrevyen": "dagsrevyen-for-utlandet"}
 # upstream NRK series ID. Slugs not listed here are passed through unchanged.
 NRK_SERIES_ID = {
     "dagsnytt-18": "dagsnytt-atten-tv",
+    "nyhetsmorgen": "nyhetsmorgen-tv",
 }
 
 
