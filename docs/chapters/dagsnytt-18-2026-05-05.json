@@ -1,0 +1,73 @@
+{
+  "version": "1.2.0",
+  "title": "Oljeleting nærmere land",
+  "author": "NRK",
+  "podcastName": "Dagsnytt 18",
+  "chapters": [
+    {
+      "startTime": 1,
+      "title": "Dagsnytt atten",
+      "img": "https://nrk-od-world-38.akamaized.net/open/ps/nnfa/nnfa56050526/58569f0b-14.smil/thumb.jpg?t=27&scale=480x270&v=high"
+    },
+    {
+      "startTime": 70,
+      "title": "Nye oljeblokker",
+      "img": "https://nrk-od-world-38.akamaized.net/open/ps/nnfa/nnfa56050526/58569f0b-14.smil/thumb.jpg?t=95&scale=480x270&v=high"
+    },
+    {
+      "startTime": 809,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-38.akamaized.net/open/ps/nnfa/nnfa56050526/58569f0b-14.smil/thumb.jpg?t=835&scale=480x270&v=high"
+    },
+    {
+      "startTime": 820,
+      "title": "Slår alarm om eldreomsorgen",
+      "img": "https://nrk-od-world-38.akamaized.net/open/ps/nnfa/nnfa56050526/58569f0b-14.smil/thumb.jpg?t=846&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1562,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-38.akamaized.net/open/ps/nnfa/nnfa56050526/58569f0b-14.smil/thumb.jpg?t=1587&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1572,
+      "title": "Betale for personvern",
+      "img": "https://nrk-od-world-38.akamaized.net/open/ps/nnfa/nnfa56050526/58569f0b-14.smil/thumb.jpg?t=1597&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2069,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-38.akamaized.net/open/ps/nnfa/nnfa56050526/58569f0b-14.smil/thumb.jpg?t=2094&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2079,
+      "title": "Kjønn i sosiale medier",
+      "img": "https://nrk-od-world-38.akamaized.net/open/ps/nnfa/nnfa56050526/58569f0b-14.smil/thumb.jpg?t=2105&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2802,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-38.akamaized.net/open/ps/nnfa/nnfa56050526/58569f0b-14.smil/thumb.jpg?t=2827&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2812,
+      "title": "Tyskland ruster opp",
+      "img": "https://nrk-od-world-38.akamaized.net/open/ps/nnfa/nnfa56050526/58569f0b-14.smil/thumb.jpg?t=2837&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3176,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-38.akamaized.net/open/ps/nnfa/nnfa56050526/58569f0b-14.smil/thumb.jpg?t=3202&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3187,
+      "title": "Nasjonalt månedskort",
+      "img": "https://nrk-od-world-38.akamaized.net/open/ps/nnfa/nnfa56050526/58569f0b-14.smil/thumb.jpg?t=3213&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3533,
+      "title": "SLUTTKJENNING",
+      "img": "https://nrk-od-world-38.akamaized.net/open/ps/nnfa/nnfa56050526/58569f0b-14.smil/thumb.jpg?t=3543&scale=480x270&v=high"
+    }
+  ]
+}

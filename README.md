@@ -1,9 +1,9 @@
-# NRK Dagsrevyen Video Podcasts
+# NRK News Video Podcasts
 
 ![update-video-feeds badge](https://github.com/bennokress/nrk-pod-feeds/actions/workflows/update_video_feeds.yml/badge.svg)
 ![ci badge](https://github.com/bennokress/nrk-pod-feeds/actions/workflows/ci.yml/badge.svg)
 
-Unofficial video podcast feeds for NRK's flagship news programme **Dagsrevyen** — main edition (19:00) and late edition (21:00). Each feed carries the latest 10 episodes, refreshed hourly via GitHub Actions. The main edition automatically substitutes the same-day international edition on days when the regular broadcast is geo-blocked outside Norway, so the feed stays playable from any region. For personal use.
+Unofficial video podcast feeds for NRK's news programmes. Each feed carries the latest 10 episodes, refreshed hourly via GitHub Actions. The main Dagsrevyen feed automatically substitutes the same-day international edition on days when the regular broadcast is geo-blocked outside Norway, so the feed stays playable from any region. For personal use.
 
 ## Feeds
 
@@ -11,6 +11,7 @@ Unofficial video podcast feeds for NRK's flagship news programme **Dagsrevyen** 
 |---|---|
 | Dagsrevyen (19:00) | <https://bennokress.github.io/nrk-pod-feeds/rss/video/dagsrevyen.xml> |
 | Dagsrevyen 21 (21:00) | <https://bennokress.github.io/nrk-pod-feeds/rss/video/dagsrevyen-21.xml> |
+| Dagsnytt 18 (18:00) | <https://bennokress.github.io/nrk-pod-feeds/rss/video/dagsnytt-18.xml> |
 
 For a more comfortable subscribe experience (covers, copy buttons, one-click subscribe), open the **[feed page](https://bennokress.github.io/nrk-pod-feeds/)**.
 
@@ -34,7 +35,7 @@ pytest -v
 python3 generate_video_feeds.py
 ```
 
-`tv_programs.json` lists the configured series. The pipeline is generic and works for any NRK TV series, but this repository deliberately ships only the three Dagsrevyen variants.
+`tv_programs.json` lists the configured series. The pipeline is generic and works for any NRK TV series.
 
 ## Acknowledgements
 

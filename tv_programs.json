@@ -12,5 +12,12 @@
         "season": null,
         "enabled": true,
         "type": "video"
+    },
+    {
+        "id": "dagsnytt-18",
+        "title": "De 10 siste fra Dagsnytt 18",
+        "season": null,
+        "enabled": true,
+        "type": "video"
     }
 ]
