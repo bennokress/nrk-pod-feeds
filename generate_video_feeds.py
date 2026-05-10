@@ -260,10 +260,10 @@ def add_podcasting2_tags_to_rss(rss_path, series_id, series_title=None):
 
 def get_podcast_image(series_id):
     """Get podcast image: use local square image if available, else API image."""
-    local_image_path = f"docs/assets/images/{series_id}.jpg"
+    local_image_path = f"docs/assets/images/{series_id}-square.png"
     if os.path.exists(local_image_path):
         # Use the GitHub Pages URL for the local image
-        return f"{web_url}/assets/images/{series_id}.jpg"
+        return f"{web_url}/assets/images/{series_id}-square.png"
     # Fallback to API image (16:9)
     return get_series_image(series_id)
 

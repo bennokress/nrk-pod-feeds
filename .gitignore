@@ -4,6 +4,11 @@ notes.txt
 podcast.xml
 tmp/**
 
+# impeccable design context (local-only)
+PRODUCT.md
+DESIGN.md
+.impeccable/
+
 ### Python ###
 # Byte-compiled / optimized / DLL files
 __pycache__/
