@@ -12,10 +12,10 @@
 <body>
     <main>
         <header class="meta-bar">
-            <span class="meta-bar__date">Søndag, 10. mai 2026</span>
+            <span class="meta-bar__date" data-date></span>
             <span class="meta-bar__status">
                 <span class="dot dot--ok" aria-hidden="true"></span>
-                Last build: 14 hours ago
+                Last build: <time class="meta-bar__build" datetime="2026-05-10T16:46:58Z">just now</time>
             </span>
         </header>
 
@@ -116,6 +116,38 @@
     <div id="toast" class="toast" role="status" aria-live="polite" hidden>URL copied.</div>
 
     <script>
+        // Norwegian date for the meta-bar — computed at view time so it
+        // always matches the visitor's current date, not the build date.
+        (function () {
+            var dateEl = document.querySelector('[data-date]');
+            if (!dateEl) return;
+            var days = ['Søndag', 'Mandag', 'Tirsdag', 'Onsdag', 'Torsdag', 'Fredag', 'Lørdag'];
+            var months = ['januar', 'februar', 'mars', 'april', 'mai', 'juni', 'juli', 'august', 'september', 'oktober', 'november', 'desember'];
+            var d = new Date();
+            dateEl.textContent = days[d.getDay()] + ', ' + d.getDate() + '. ' + months[d.getMonth()] + ' ' + d.getFullYear();
+        })();
+
+        // Render the build timestamp as relative time ("X minutes / hours / days ago"),
+        // computed against the visitor's clock from the ISO datetime stamped by the workflow.
+        (function () {
+            var buildEl = document.querySelector('.meta-bar__build');
+            if (!buildEl) return;
+            var iso = buildEl.getAttribute('datetime');
+            if (!iso) return;
+            var diffMin = Math.floor((Date.now() - new Date(iso).getTime()) / 60000);
+            var text;
+            if (diffMin < 1) text = 'just now';
+            else if (diffMin < 60) text = diffMin + ' minute' + (diffMin === 1 ? '' : 's') + ' ago';
+            else if (diffMin < 1440) {
+                var hrs = Math.floor(diffMin / 60);
+                text = hrs + ' hour' + (hrs === 1 ? '' : 's') + ' ago';
+            } else {
+                var days = Math.floor(diffMin / 1440);
+                text = days + ' day' + (days === 1 ? '' : 's') + ' ago';
+            }
+            buildEl.textContent = text;
+        })();
+
         (function () {
             var toast = document.getElementById('toast');
             var hideTimer;
