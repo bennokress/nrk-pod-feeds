@@ -253,32 +253,7 @@ a:hover {
     font-variation-settings: "opsz" 12, "wght" 400;
 }
 
-/* Latest dispatch block — pull-quote style */
-.dispatch__latest {
-    margin: 0 0 var(--s-3);
-    padding-left: var(--s-3);
-    border-left: 1px solid var(--rule-soft);
-}
-
-.dispatch__latest-label {
-    margin: 0 0 0.3em;
-    font-variant-caps: all-small-caps;
-    letter-spacing: 0.12em;
-    font-size: 0.7rem;
-    font-variation-settings: "opsz" 9, "wght" 600;
-    color: var(--muted);
-}
-
-.dispatch__latest-title {
-    margin: 0;
-    font-size: 1.05rem;
-    font-style: italic;
-    line-height: 1.35;
-    font-variation-settings: "opsz" 14, "SOFT" 50, "wght" 400;
-    color: var(--fg);
-}
-
-/* ───────────── Actions (text-link style, not buttons) ───────────── */
+/* ───────────── Actions (text links with leading icon) ───────────── */
 
 .dispatch__actions {
     display: flex;
@@ -293,42 +268,56 @@ a:hover {
     border: none;
     padding: 0;
     margin: 0;
+    border-radius: 3px; /* shapes the focus-visible outline */
+    text-decoration: none; /* the action__label inside owns the underline */
+
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4em;
+
     font-family: inherit;
     font-size: 1rem;
     font-variation-settings: "opsz" 12, "wght" 500;
     color: inherit;
     cursor: pointer;
+    transition: color 0.15s ease;
+}
+
+.action:focus-visible {
+    outline: 2px solid var(--fg);
+    outline-offset: 4px;
+}
+
+.action__icon {
+    width: 1.1em;
+    height: 1.1em;
+    flex-shrink: 0;
+    color: currentColor;
+}
+
+/* Underline applies to the text label only, and only on hover */
+.action__label {
     text-decoration: underline;
     text-underline-offset: 0.22em;
     text-decoration-thickness: 1px;
-    text-decoration-color: var(--rule-soft);
-    transition: color 0.15s ease, text-decoration-color 0.15s ease;
+    text-decoration-color: transparent;
+    transition: text-decoration-color 0.15s ease;
 }
 
 .action:hover {
     color: var(--accent);
-    text-decoration-color: var(--accent);
+}
+
+.action:hover .action__label {
+    text-decoration-color: color-mix(in oklch, var(--accent) 35%, transparent);
 }
 
 .action--primary {
     color: var(--accent);
-    text-decoration-color: var(--accent);
-    font-variation-settings: "opsz" 12, "wght" 600;
 }
 
 .action--primary:hover {
     color: var(--accent-strong);
-    text-decoration-color: var(--accent-strong);
-}
-
-.action__arrow {
-    display: inline-block;
-    margin-left: 0.35em;
-    transition: transform 0.25s cubic-bezier(0.2, 0.8, 0.2, 1);
-}
-
-.action--primary:hover .action__arrow {
-    transform: translateX(0.3em);
 }
 
 /* ───────────── Colophon (footer) ───────────── */
