@@ -166,10 +166,6 @@ a:hover {
     line-height: 1.5;
     font-variation-settings: "opsz" 16, "wght" 400;
     color: var(--fg);
-    /* Trim the descender + half-leading under the last line so the rule below
-       sits at the baseline distance, not the line-box-bottom distance. */
-    text-box-trim: trim-end;
-    text-box-edge: cap alphabetic;
 }
 
 .masthead__quiet {
@@ -201,7 +197,7 @@ a:hover {
     display: grid;
     grid-template-columns: auto 1fr;
     gap: var(--s-4);
-    align-items: start;
+    align-items: stretch;
 }
 
 .dispatch__cover-link {
@@ -228,6 +224,9 @@ a:hover {
 
 .dispatch__body {
     min-width: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 
 .dispatch__category {
