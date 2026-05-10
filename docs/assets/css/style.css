@@ -5,20 +5,20 @@
    ======================================================================== */
 
 :root {
-    /* Warm newsprint palette */
-    --bg: oklch(98% 0.008 80);
-    --fg: oklch(15% 0.015 60);
-    --muted: oklch(48% 0.015 60);
-    --rule: oklch(18% 0.01 60);
-    --rule-soft: oklch(82% 0.01 70);
-    --tint: oklch(94% 0.012 75);
+    /* NRK core-blue palette (sourced from nrk.no design tokens) */
+    --bg: #eef5ff;          /* core-blue-50 */
+    --fg: #0a2343;          /* core-blue-900 */
+    --muted: #56565c;       /* gray-700 */
+    --rule: #0a2343;        /* core-blue-900 */
+    --rule-soft: #b2cff5;   /* core-blue-200 */
+    --tint: #d9e9ff;        /* core-blue-100 */
 
-    /* NRK red — used only for the edition stamp, category labels, primary CTA */
-    --accent: oklch(56% 0.21 25);
-    --accent-strong: oklch(48% 0.23 25);
+    /* Primary action — NRK core-blue-700 with -750 on hover */
+    --accent: #114f9d;
+    --accent-strong: #073b84;
 
-    /* Status indicator green — ON AIR style */
-    --ok: oklch(58% 0.18 145);
+    /* Status indicator green — NRK cool-green-500 */
+    --ok: #37b359;
 
     /* Type stack: one variable family, used at different opsz/wght/SOFT */
     --serif: 'Fraunces', 'Times New Roman', Georgia, serif;
@@ -40,15 +40,15 @@
 
 @media (prefers-color-scheme: dark) {
     :root {
-        --bg: oklch(16% 0.012 50);
-        --fg: oklch(94% 0.018 75);
-        --muted: oklch(62% 0.012 65);
-        --rule: oklch(85% 0.018 75);
-        --rule-soft: oklch(28% 0.012 55);
-        --tint: oklch(22% 0.012 55);
-        --accent: oklch(72% 0.20 25);
-        --accent-strong: oklch(78% 0.21 25);
-        --ok: oklch(68% 0.18 145);
+        --bg: #061629;          /* core-blue-950 */
+        --fg: #eef5ff;          /* core-blue-50 */
+        --muted: #b6b3b4;       /* gray-300 */
+        --rule: #d9e9ff;        /* core-blue-100 */
+        --rule-soft: #114f9d;   /* core-blue-700 */
+        --tint: #0c366c;        /* core-blue-800 */
+        --accent: #649be2;      /* core-blue-400 */
+        --accent-strong: #8bb5eb;/* core-blue-300 */
+        --ok: #5dc479;          /* cool-green-400 */
     }
 }
 
