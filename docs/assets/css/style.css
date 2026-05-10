@@ -1,220 +1,421 @@
+/* ========================================================================
+   Dagsrevyen, on demand — editorial prototype
+   Newspaper masthead aesthetic, Fraunces variable serif throughout,
+   NRK-red used sparingly as a single editorial accent.
+   ======================================================================== */
+
 :root {
-    color-scheme: light dark;
-    --bg: #ffffff;
-    --fg: #1f2328;
-    --fg-muted: #59636e;
-    --border: #d1d9e0;
-    --surface: #f6f8fa;
-    --accent: #338500;
-    --accent-fg: #ffffff;
-    --link: #0969da;
+    /* NRK core-blue palette (sourced from nrk.no design tokens) */
+    --bg: #eef5ff;          /* core-blue-50 */
+    --fg: #0a2343;          /* core-blue-900 */
+    --muted: #56565c;       /* gray-700 */
+    --rule: #0a2343;        /* core-blue-900 */
+    --rule-soft: #b2cff5;   /* core-blue-200 */
+    --tint: #d9e9ff;        /* core-blue-100 */
+
+    /* Primary action — NRK core-blue-700 with -750 on hover */
+    --accent: #114f9d;
+    --accent-strong: #073b84;
+
+    /* Status indicator green — NRK cool-green-500 */
+    --ok: #37b359;
+
+    /* Type stack: one variable family, used at different opsz/wght/SOFT */
+    --serif: 'Fraunces', 'Times New Roman', Georgia, serif;
+
+    /* Spacing scale — varied, not uniform */
+    --s-1: 0.4rem;
+    --s-2: 0.75rem;
+    --s-3: 1.25rem;
+    --s-4: 2rem;
+    --s-5: 3.5rem;
+
+    /* Shared anchor for the type system: every dispatch (podcast) title is sized
+       to this value, and the masthead title's clamp floor uses it too — that
+       guarantees the page title can never shrink smaller than the podcast titles
+       below it on any viewport. */
+    --podcast-title-size: 2.75rem;
 }
 
 @media (prefers-color-scheme: dark) {
     :root {
-        --bg: #0d1117;
-        --fg: #e6edf3;
-        --fg-muted: #9198a1;
-        --border: #30363d;
-        --surface: #161b22;
-        --accent: #3fb950;
-        --accent-fg: #0d1117;
-        --link: #58a6ff;
+        --bg: #061629;          /* core-blue-950 */
+        --fg: #eef5ff;          /* core-blue-50 */
+        --muted: #b6b3b4;       /* gray-300 */
+        --rule: #d9e9ff;        /* core-blue-100 */
+        --rule-soft: #114f9d;   /* core-blue-700 */
+        --tint: #0c366c;        /* core-blue-800 */
+        --accent: #649be2;      /* core-blue-400 */
+        --accent-strong: #8bb5eb;/* core-blue-300 */
+        --ok: #5dc479;          /* cool-green-400 */
     }
 }
 
-* {
-    box-sizing: border-box;
+* { box-sizing: border-box; }
+
+html {
+    background: var(--bg);
 }
 
-html, body {
+body {
     margin: 0;
-    padding: 0;
     background: var(--bg);
     color: var(--fg);
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-    line-height: 1.5;
+    font-family: var(--serif);
+    font-feature-settings: "kern" 1, "liga" 1, "ss01" 1;
+    font-variation-settings: "opsz" 14, "SOFT" 30;
+    line-height: 1.55;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
 }
 
 main {
-    max-width: 720px;
+    max-width: 960px;
     margin: 0 auto;
-    padding: 48px 24px;
+    padding: clamp(2rem, 5vw, 4rem) clamp(1.25rem, 4vw, 2.5rem) clamp(3rem, 6vw, 5rem);
 }
 
 a {
-    color: var(--link);
-    text-decoration: none;
+    color: inherit;
+    text-decoration: underline;
+    text-underline-offset: 0.18em;
+    text-decoration-thickness: 1px;
+    text-decoration-color: var(--rule-soft);
+    transition: text-decoration-color 0.15s ease, color 0.15s ease;
 }
 
 a:hover {
-    text-decoration: underline;
+    text-decoration-color: var(--accent);
+    color: var(--accent);
 }
 
-.page-header h1 {
-    margin: 0 0 8px;
-    font-size: 28px;
+/* ───────────── Top meta-bar ───────────── */
+
+.meta-bar {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: var(--s-3);
+    flex-wrap: wrap;
+    padding-bottom: var(--s-2);
+    border-bottom: 1px solid var(--rule-soft);
+    margin-bottom: var(--s-5);
+    font-variant-caps: all-small-caps;
+    letter-spacing: 0.12em;
+    font-size: 0.78rem;
+    font-variation-settings: "opsz" 9, "wght" 500;
+    color: var(--muted);
+}
+
+.meta-bar__date {
+    color: var(--accent);
     font-weight: 600;
 }
 
-.page-header .subtitle {
-    margin: 0 0 32px;
-    color: var(--fg-muted);
-    font-size: 15px;
+.dot {
+    width: 0.5em;
+    height: 0.5em;
+    border-radius: 50%;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 0.5em;
 }
 
-.feed-list {
+.dot--ok {
+    background: var(--ok);
+    box-shadow: 0 0 0 0.18em color-mix(in oklch, var(--ok) 25%, transparent);
+}
+
+/* ───────────── Masthead ───────────── */
+
+.masthead {
+    margin-bottom: var(--s-4);
+}
+
+.masthead__title {
+    margin: 0 0 var(--s-3);
+    /* Sized to fit "Dagsrevyen, on demand." on one line at the 960px container.
+       Below that the title scales fluidly with the viewport. The clamp floor is
+       --podcast-title-size, so the page title can never shrink below the podcast
+       titles. At that floor it wraps to two lines (always between the two spans,
+       never inside "on demand." thanks to white-space: nowrap on the inner span). */
+    font-size: clamp(var(--podcast-title-size), 9.5vw, 5.75rem);
+    line-height: 0.95;
+    letter-spacing: -0.025em;
+    font-variation-settings: "opsz" 144, "SOFT" 60, "wght" 400;
+    font-weight: 400;
+    color: var(--fg);
+}
+
+.masthead__line {
+    font-style: italic;
+    white-space: nowrap;
+    font-variation-settings: "opsz" 144, "SOFT" 100, "wght" 500;
+}
+
+.masthead__line--alt {
+    font-style: normal;
+    font-variation-settings: "opsz" 144, "SOFT" 30, "wght" 400;
+    margin-left: 0;
+}
+
+.masthead__deck {
+    margin: 0;
+    font-size: clamp(1.05rem, 1.6vw, 1.18rem);
+    line-height: 1.5;
+    font-variation-settings: "opsz" 16, "wght" 400;
+    color: var(--fg);
+}
+
+.masthead__quiet {
+    color: var(--muted);
+    font-style: italic;
+}
+
+/* ───────────── Rules ───────────── */
+
+.rule {
+    border: none;
+    border-top: 1px solid var(--rule-soft);
+    margin: var(--s-4) 0;
+}
+
+.rule--thick {
+    border-top: 3px solid var(--rule);
+    margin: var(--s-5) 0;
+}
+
+/* Asymmetric bookend margins — golden-ratio short on the text side, full on the
+   cover side. Compensates optically for the half-leading the text adjacent to
+   the rule contributes (a hard image edge has none). */
+.rule--thick:first-of-type {
+    margin-top: var(--s-4);     /* text side (deck above) */
+    margin-bottom: var(--s-5);  /* cover side (first dispatch below) */
+}
+
+.rule--thick:last-of-type {
+    margin-top: var(--s-5);     /* cover side (last dispatch above) */
+    margin-bottom: var(--s-4);  /* text side (colophon below) */
+    border-top-width: 2px;
+}
+
+/* ───────────── Dispatch (each feed) ───────────── */
+
+.dispatch {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    gap: var(--s-4);
+    align-items: stretch;
+}
+
+.dispatch__cover-link {
+    display: block;
+    text-decoration: none;
+    overflow: hidden;
+}
+
+.dispatch__cover {
+    display: block;
+    width: 320px;
+    aspect-ratio: 16 / 9;
+    height: auto;
+    object-fit: cover;
+    background: var(--tint);
+    transition: transform 0.5s cubic-bezier(0.2, 0.8, 0.2, 1), filter 0.3s ease;
+    filter: saturate(0.92) contrast(1.02);
+}
+
+.dispatch__cover-link:hover .dispatch__cover {
+    transform: scale(1.025);
+    filter: saturate(1.05) contrast(1.05);
+}
+
+.dispatch__body {
+    min-width: 0;
     display: flex;
     flex-direction: column;
-    gap: 20px;
+    justify-content: center;
 }
 
-.feed-card {
-    display: flex;
-    gap: 20px;
-    padding: 20px;
-    background: var(--surface);
-    border: 1px solid var(--border);
-    border-radius: 12px;
-    align-items: flex-start;
-}
-
-.feed-cover {
-    width: 140px;
-    height: 140px;
-    flex-shrink: 0;
-    border-radius: 10px;
-    object-fit: cover;
-    background: var(--border);
-}
-
-.feed-body {
-    flex: 1;
-    min-width: 0;
-}
-
-.feed-title {
-    margin: 0 0 4px;
-    font-size: 18px;
-    font-weight: 600;
-}
-
-.feed-meta {
-    margin: 0 0 12px;
-    color: var(--fg-muted);
-    font-size: 14px;
-}
-
-.feed-url {
-    margin: 0 0 14px;
-    overflow-x: auto;
-}
-
-.feed-url code {
-    font-size: 12px;
-    color: var(--fg-muted);
-    word-break: break-all;
-    background: var(--bg);
-    padding: 4px 8px;
-    border-radius: 6px;
-    border: 1px solid var(--border);
+.dispatch__category {
     display: inline-block;
-    max-width: 100%;
+    color: var(--accent);
+    font-variant-caps: all-small-caps;
+    letter-spacing: 0.13em;
+    font-size: 0.78rem;
+    font-variation-settings: "opsz" 9, "wght" 600;
+    margin-bottom: var(--s-2);
 }
 
-.feed-actions {
-    display: flex;
-    gap: 8px;
-    flex-wrap: wrap;
-}
-
-.btn {
-    appearance: none;
-    background: var(--bg);
-    border: 1px solid var(--border);
-    border-radius: 6px;
-    color: var(--fg);
-    cursor: pointer;
-    font: inherit;
-    font-size: 14px;
-    font-weight: 500;
+.dispatch__title {
+    margin: 0 0 var(--s-2);
+    font-size: var(--podcast-title-size);
     line-height: 1;
-    padding: 8px 14px;
-    text-decoration: none;
-    transition: background-color 0.15s ease, border-color 0.15s ease;
+    letter-spacing: -0.018em;
+    font-weight: 400;
+    font-variation-settings: "opsz" 72, "SOFT" 60, "wght" 500;
 }
 
-.btn:hover {
-    background: var(--surface);
-    text-decoration: none;
+.dispatch__title em {
+    font-style: italic;
 }
 
-.btn:active {
-    transform: translateY(1px);
+.dispatch__byline {
+    margin: 0 0 var(--s-3);
+    color: var(--muted);
+    font-style: italic;
+    font-size: 0.98rem;
+    font-variation-settings: "opsz" 12, "wght" 400;
 }
 
-.btn-primary {
-    background: var(--accent);
-    color: var(--accent-fg);
-    border-color: var(--accent);
+/* ───────────── Actions (text links with leading icon) ───────────── */
+
+.dispatch__actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--s-3);
+    align-items: baseline;
 }
 
-.btn-primary:hover {
-    background: var(--accent);
-    color: var(--accent-fg);
-    filter: brightness(1.05);
+.action {
+    appearance: none;
+    background: none;
+    border: none;
+    padding: 0;
+    margin: 0;
+    border-radius: 3px; /* shapes the focus-visible outline */
+    text-decoration: none; /* the action__label inside owns the underline */
+
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4em;
+
+    font-family: inherit;
+    font-size: 1rem;
+    font-variation-settings: "opsz" 12, "wght" 500;
+    color: inherit;
+    cursor: pointer;
+    transition: color 0.15s ease;
 }
 
-.page-footer {
-    margin-top: 48px;
-    padding-top: 24px;
-    border-top: 1px solid var(--border);
-    color: var(--fg-muted);
-    font-size: 13px;
-    text-align: center;
+.action:focus-visible {
+    outline: 2px solid var(--fg);
+    outline-offset: 4px;
 }
 
-.page-footer p {
-    margin: 4px 0;
+.action__arrow {
+    flex-shrink: 0;
+    color: currentColor;
+    /* Optical lift — the › glyph sits low against the cap height of the label */
+    transform: translateY(-0.08em);
 }
 
-.fineprint {
-    font-size: 12px;
-    opacity: 0.8;
+/* Underline applies to the text label only, and only on hover */
+.action__label {
+    text-decoration: underline;
+    text-underline-offset: 0.22em;
+    text-decoration-thickness: 1px;
+    text-decoration-color: transparent;
+    transition: text-decoration-color 0.15s ease;
 }
+
+.action:hover {
+    color: var(--accent);
+}
+
+.action:hover .action__label {
+    text-decoration-color: color-mix(in oklch, var(--accent) 35%, transparent);
+}
+
+.action--primary {
+    color: var(--accent);
+}
+
+.action--primary:hover {
+    color: var(--accent-strong);
+}
+
+/* ───────────── Colophon (footer) ───────────── */
+
+.colophon {
+    color: var(--muted);
+    font-size: 0.92rem;
+    line-height: 1.6;
+    font-variation-settings: "opsz" 11, "wght" 400;
+}
+
+.colophon p {
+    margin: 0 0 var(--s-2);
+}
+
+.colophon__primary {
+    color: var(--fg);
+    font-style: italic;
+    font-size: 1rem;
+    font-variation-settings: "opsz" 12, "SOFT" 50, "wght" 400;
+}
+
+.colophon__fineprint {
+    margin-top: var(--s-3);
+    font-size: 0.82rem;
+    font-style: italic;
+    font-variation-settings: "opsz" 10, "wght" 400;
+    color: var(--muted);
+    opacity: 0.85;
+}
+
+/* ───────────── Toast ───────────── */
 
 .toast {
     position: fixed;
-    bottom: 24px;
+    bottom: 1.6rem;
     left: 50%;
     transform: translateX(-50%);
     background: var(--fg);
     color: var(--bg);
-    padding: 10px 16px;
-    border-radius: 8px;
-    font-size: 14px;
-    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.15);
+    padding: 0.6rem 1.2rem;
+    font-size: 0.88rem;
+    font-style: italic;
+    font-variation-settings: "opsz" 11, "wght" 500;
+    letter-spacing: 0.02em;
     opacity: 0;
     pointer-events: none;
-    transition: opacity 0.2s ease;
+    transition: opacity 0.22s ease, transform 0.22s cubic-bezier(0.2, 0.8, 0.2, 1);
     z-index: 100;
 }
 
-.toast-visible {
+.toast--visible {
     opacity: 1;
+    transform: translateX(-50%) translateY(-0.4rem);
 }
 
-@media (max-width: 520px) {
-    main {
-        padding: 32px 16px;
+/* ───────────── Mobile ───────────── */
+
+@media (max-width: 620px) {
+    .meta-bar {
+        gap: var(--s-1);
     }
-    .feed-card {
-        flex-direction: column;
-        align-items: stretch;
+
+    .dispatch {
+        grid-template-columns: 1fr;
+        gap: var(--s-3);
     }
-    .feed-cover {
+
+    .dispatch__cover {
         width: 100%;
         height: auto;
-        aspect-ratio: 1 / 1;
+        aspect-ratio: 16 / 9;
+    }
+}
+
+/* Reduced motion */
+@media (prefers-reduced-motion: reduce) {
+    *, *::before, *::after {
+        transition: none !important;
+        animation: none !important;
+    }
+    .dispatch__cover-link:hover .dispatch__cover {
+        transform: none;
     }
 }
