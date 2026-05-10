@@ -288,6 +288,13 @@ a:hover {
     outline-offset: 4px;
 }
 
+.action__arrow {
+    flex-shrink: 0;
+    color: currentColor;
+    /* Optical lift — the › glyph sits low against the cap height of the label */
+    transform: translateY(-0.08em);
+}
+
 .action__icon {
     width: 1.1em;
     height: 1.1em;
