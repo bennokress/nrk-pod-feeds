@@ -1,0 +1,63 @@
+{
+  "version": "1.2.0",
+  "title": "For sexy",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa21051026/c77ac6b3-17.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 27,
+      "title": "Krigen i Ukraina",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa21051026/c77ac6b3-17.smil/thumb.jpg?t=52&scale=480x270&v=high"
+    },
+    {
+      "startTime": 73,
+      "title": "Narges Mohammadi",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa21051026/c77ac6b3-17.smil/thumb.jpg?t=98&scale=480x270&v=high"
+    },
+    {
+      "startTime": 98,
+      "title": "Skip evakueres",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa21051026/c77ac6b3-17.smil/thumb.jpg?t=124&scale=480x270&v=high"
+    },
+    {
+      "startTime": 123,
+      "title": "Breien død",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa21051026/c77ac6b3-17.smil/thumb.jpg?t=148&scale=480x270&v=high"
+    },
+    {
+      "startTime": 180,
+      "title": "Revidert nasjonalbudsjett",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa21051026/c77ac6b3-17.smil/thumb.jpg?t=206&scale=480x270&v=high"
+    },
+    {
+      "startTime": 299,
+      "title": "ESC",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa21051026/c77ac6b3-17.smil/thumb.jpg?t=325&scale=480x270&v=high"
+    },
+    {
+      "startTime": 348,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa21051026/c77ac6b3-17.smil/thumb.jpg?t=374&scale=480x270&v=high"
+    },
+    {
+      "startTime": 411,
+      "title": "Jonas Lovv",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa21051026/c77ac6b3-17.smil/thumb.jpg?t=436&scale=480x270&v=high"
+    },
+    {
+      "startTime": 470,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa21051026/c77ac6b3-17.smil/thumb.jpg?t=495&scale=480x270&v=high"
+    },
+    {
+      "startTime": 501,
+      "title": "Været",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa21051026/c77ac6b3-17.smil/thumb.jpg?t=526&scale=480x270&v=high"
+    }
+  ]
+}
