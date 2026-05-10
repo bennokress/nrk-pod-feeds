@@ -1,4 +1,5 @@
 import logging
+from datetime import date
 
 from . import tvapi
 
@@ -137,6 +138,36 @@ def test_dagsrevyen_for_utlandet():
     instalments = tvapi.get_latest_instalments(series_id, limit=3)
     assert instalments is not None
     assert len(instalments) > 0
+
+
+def test_is_geo_blocked():
+    assert tvapi.is_geo_blocked({}) is False
+    assert tvapi.is_geo_blocked({"usageRights": {}}) is False
+    assert tvapi.is_geo_blocked(
+        {"usageRights": {"geoBlock": {"isGeoBlocked": False}}}
+    ) is False
+    assert tvapi.is_geo_blocked(
+        {"usageRights": {"geoBlock": {"isGeoBlocked": True, "displayValue": "Norge"}}}
+    ) is True
+
+
+def test_find_instalment_by_release_date():
+    """The international edition publishes on the same calendar day as the
+    geo-blocked main edition, so any recent date present in its top-30 should
+    be findable; an impossible date returns None."""
+    series_id = "dagsrevyen-for-utlandet"
+
+    instalments = tvapi.get_latest_instalments(series_id, limit=3)
+    assert instalments
+
+    from dateutil import parser as _dp
+    sample_date = _dp.parse(instalments[0]["releaseDateOnDemand"]).date()
+
+    found = tvapi.find_instalment_by_release_date(series_id, sample_date)
+    assert found is not None
+    assert found.get("prfId") == instalments[0].get("prfId")
+
+    assert tvapi.find_instalment_by_release_date(series_id, date(1970, 1, 1)) is None
 
 
 def test_get_program_playback_metadata():

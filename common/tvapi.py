@@ -2,12 +2,18 @@ import logging
 import re
 import requests
 
+from dateutil import parser as _date_parser
+
 from common.helpers import get_version
 
 api_base_url = "https://psapi.nrk.no"
 headers = {
     "User-Agent": f"nrk-pod-feeder {get_version()}"
 }
+
+# Cache of {series_id: {date: instalment}} populated lazily by
+# find_instalment_by_release_date(). Per-process only; resets every run.
+_instalment_index_cache = {}
 
 
 def parse_iso_duration(iso_duration):
@@ -162,6 +168,43 @@ def get_latest_instalments(series_id, limit=10, playable_only=True):
             break
 
     return instalments if instalments else None
+
+
+def is_geo_blocked(instalment):
+    """True if the instalment is geo-restricted (e.g. region "Norge")."""
+    return bool(
+        (instalment or {})
+        .get("usageRights", {})
+        .get("geoBlock", {})
+        .get("isGeoBlocked")
+    )
+
+
+def find_instalment_by_release_date(series_id, target_date, scan_limit=30):
+    """
+    Find an instalment of `series_id` whose releaseDateOnDemand falls on
+    `target_date` (a datetime.date). Returns the instalment dict or None.
+
+    Builds a lazy {date: instalment} index per series_id on first call so
+    repeated lookups within the same run share one season-walk.
+    """
+    index = _instalment_index_cache.get(series_id)
+    if index is None:
+        index = {}
+        scanned = 0
+        for inst in iter_latest_instalments(series_id, playable_only=True):
+            release = inst.get("releaseDateOnDemand")
+            if release:
+                try:
+                    inst_date = _date_parser.parse(release).date()
+                except (ValueError, TypeError):
+                    continue
+                index.setdefault(inst_date, inst)
+            scanned += 1
+            if scanned >= scan_limit:
+                break
+        _instalment_index_cache[series_id] = index
+    return index.get(target_date)
 
 
 def get_program_manifest(program_id, format="json"):
