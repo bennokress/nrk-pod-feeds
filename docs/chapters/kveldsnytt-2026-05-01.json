@@ -1,0 +1,88 @@
+{
+  "version": "1.2.0",
+  "title": "Ikke fornøyd med Iran",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 1,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa23050126/4cf9291b-18.smil/thumb.jpg?t=27&scale=480x270&v=high"
+    },
+    {
+      "startTime": 38,
+      "title": "Trump",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa23050126/4cf9291b-18.smil/thumb.jpg?t=64&scale=480x270&v=high"
+    },
+    {
+      "startTime": 132,
+      "title": "Brann Alver",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa23050126/4cf9291b-18.smil/thumb.jpg?t=157&scale=480x270&v=high"
+    },
+    {
+      "startTime": 162,
+      "title": "Brann Raufoss",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa23050126/4cf9291b-18.smil/thumb.jpg?t=188&scale=480x270&v=high"
+    },
+    {
+      "startTime": 183,
+      "title": "Narges Mohammadi innlagt",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa23050126/4cf9291b-18.smil/thumb.jpg?t=209&scale=480x270&v=high"
+    },
+    {
+      "startTime": 212,
+      "title": "NHO toll",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa23050126/4cf9291b-18.smil/thumb.jpg?t=238&scale=480x270&v=high"
+    },
+    {
+      "startTime": 253,
+      "title": "ATV-ulykke",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa23050126/4cf9291b-18.smil/thumb.jpg?t=279&scale=480x270&v=high"
+    },
+    {
+      "startTime": 271,
+      "title": "Listhaug kritikk",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa23050126/4cf9291b-18.smil/thumb.jpg?t=297&scale=480x270&v=high"
+    },
+    {
+      "startTime": 329,
+      "title": "Lars Saabye Christensen om tid",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa23050126/4cf9291b-18.smil/thumb.jpg?t=354&scale=480x270&v=high"
+    },
+    {
+      "startTime": 485,
+      "title": "Viking-RBK",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa23050126/4cf9291b-18.smil/thumb.jpg?t=511&scale=480x270&v=high"
+    },
+    {
+      "startTime": 563,
+      "title": "Golf",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa23050126/4cf9291b-18.smil/thumb.jpg?t=589&scale=480x270&v=high"
+    },
+    {
+      "startTime": 640,
+      "title": "Casper Ruud raser på rankingen",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa23050126/4cf9291b-18.smil/thumb.jpg?t=666&scale=480x270&v=high"
+    },
+    {
+      "startTime": 703,
+      "title": "Funnet Hvaler",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa23050126/4cf9291b-18.smil/thumb.jpg?t=729&scale=480x270&v=high"
+    },
+    {
+      "startTime": 719,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa23050126/4cf9291b-18.smil/thumb.jpg?t=744&scale=480x270&v=high"
+    },
+    {
+      "startTime": 781,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa23050126/4cf9291b-18.smil/thumb.jpg?t=806&scale=480x270&v=high"
+    },
+    {
+      "startTime": 848,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa23050126/4cf9291b-18.smil/thumb.jpg?t=865.8&scale=480x270&v=high"
+    }
+  ]
+}
