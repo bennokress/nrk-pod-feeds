@@ -29,7 +29,6 @@
     --s-3: 1.25rem;
     --s-4: 2rem;
     --s-5: 3.5rem;
-    --s-6: 6rem;
 
     /* Shared anchor for the type system: every dispatch (podcast) title is sized
        to this value, and the masthead title's clamp floor uses it too — that
@@ -167,6 +166,10 @@ a:hover {
     line-height: 1.5;
     font-variation-settings: "opsz" 16, "wght" 400;
     color: var(--fg);
+    /* Trim the descender + half-leading under the last line so the rule below
+       sits at the baseline distance, not the line-box-bottom distance. */
+    text-box-trim: trim-end;
+    text-box-edge: cap alphabetic;
 }
 
 .masthead__quiet {
@@ -179,12 +182,17 @@ a:hover {
 .rule {
     border: none;
     border-top: 1px solid var(--rule-soft);
-    margin: var(--s-5) 0;
+    margin: var(--s-4) 0;
 }
 
 .rule--thick {
     border-top: 3px solid var(--rule);
-    margin: var(--s-4) 0 var(--s-5);
+    margin: var(--s-5) 0;
+}
+
+/* Bottom bookend is a quieter coda — same colour, half the weight */
+.rule--thick:last-of-type {
+    border-top-width: 2px;
 }
 
 /* ───────────── Dispatch (each feed) ───────────── */
@@ -233,7 +241,7 @@ a:hover {
 }
 
 .dispatch__title {
-    margin: 0 0 0.35em;
+    margin: 0 0 var(--s-2);
     font-size: var(--podcast-title-size);
     line-height: 1;
     letter-spacing: -0.018em;
