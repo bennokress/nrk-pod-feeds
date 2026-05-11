@@ -1,0 +1,113 @@
+{
+  "version": "1.2.0",
+  "title": "Storaksjon mot nettovergrep",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 5,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa19012326/a338573d-15.smil/thumb.jpg?t=31&scale=480x270&v=high"
+    },
+    {
+      "startTime": 63,
+      "title": "Politiaksjon",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa19012326/a338573d-15.smil/thumb.jpg?t=88&scale=480x270&v=high"
+    },
+    {
+      "startTime": 168,
+      "title": "Formuesskatt",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa19012326/a338573d-15.smil/thumb.jpg?t=193&scale=480x270&v=high"
+    },
+    {
+      "startTime": 325,
+      "title": "Flyktning-krav",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa19012326/a338573d-15.smil/thumb.jpg?t=351&scale=480x270&v=high"
+    },
+    {
+      "startTime": 473,
+      "title": "Gjest",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa19012326/a338573d-15.smil/thumb.jpg?t=498&scale=480x270&v=high"
+    },
+    {
+      "startTime": 613,
+      "title": "Grønland",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa19012326/a338573d-15.smil/thumb.jpg?t=638&scale=480x270&v=high"
+    },
+    {
+      "startTime": 659,
+      "title": "Direkte Nuuk",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa19012326/a338573d-15.smil/thumb.jpg?t=684&scale=480x270&v=high"
+    },
+    {
+      "startTime": 766,
+      "title": "Brende i Davos",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa19012326/a338573d-15.smil/thumb.jpg?t=791&scale=480x270&v=high"
+    },
+    {
+      "startTime": 870,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa19012326/a338573d-15.smil/thumb.jpg?t=895&scale=480x270&v=high"
+    },
+    {
+      "startTime": 955,
+      "title": "Ukraina-samtaler",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa19012326/a338573d-15.smil/thumb.jpg?t=981&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1040,
+      "title": "Valentino",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa19012326/a338573d-15.smil/thumb.jpg?t=1066&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1071,
+      "title": "Vixen Awards",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa19012326/a338573d-15.smil/thumb.jpg?t=1097&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1100,
+      "title": "Direkte",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa19012326/a338573d-15.smil/thumb.jpg?t=1125&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1250,
+      "title": "Hockey-serie",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa19012326/a338573d-15.smil/thumb.jpg?t=1275&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1360,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa19012326/a338573d-15.smil/thumb.jpg?t=1385&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1364,
+      "title": "Herrene vant",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa19012326/a338573d-15.smil/thumb.jpg?t=1389&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1407,
+      "title": "Skisprint",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa19012326/a338573d-15.smil/thumb.jpg?t=1432&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1473,
+      "title": "Skiflyging",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa19012326/a338573d-15.smil/thumb.jpg?t=1499&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1492,
+      "title": "Nesten fall",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa19012326/a338573d-15.smil/thumb.jpg?t=1517&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1564,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa19012326/a338573d-15.smil/thumb.jpg?t=1589&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1712,
+      "title": "Prinsessen til Finnmark",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa19012326/a338573d-15.smil/thumb.jpg?t=1737&scale=480x270&v=high"
+    }
+  ]
+}

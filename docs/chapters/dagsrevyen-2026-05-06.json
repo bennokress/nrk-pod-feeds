@@ -1,0 +1,143 @@
+{
+  "version": "1.2.0",
+  "title": "NRK med når beboer får varsel om utkastelse",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 10,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa19050626/3c011baf-17.smil/thumb.jpg?t=35&scale=480x270&v=high"
+    },
+    {
+      "startTime": 95,
+      "title": "Flere har for dårlig råd",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa19050626/3c011baf-17.smil/thumb.jpg?t=120&scale=480x270&v=high"
+    },
+    {
+      "startTime": 298,
+      "title": "Direkte fra Stockholm",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa19050626/3c011baf-17.smil/thumb.jpg?t=324&scale=480x270&v=high"
+    },
+    {
+      "startTime": 390,
+      "title": "Inflasjon Sverige",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa19050626/3c011baf-17.smil/thumb.jpg?t=415&scale=480x270&v=high"
+    },
+    {
+      "startTime": 411,
+      "title": "Direkte fra Stockholm",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa19050626/3c011baf-17.smil/thumb.jpg?t=437&scale=480x270&v=high"
+    },
+    {
+      "startTime": 482,
+      "title": "Virus på cruiseskip",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa19050626/3c011baf-17.smil/thumb.jpg?t=508&scale=480x270&v=high"
+    },
+    {
+      "startTime": 620,
+      "title": "Direkte fra Paris om virus",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa19050626/3c011baf-17.smil/thumb.jpg?t=646&scale=480x270&v=high"
+    },
+    {
+      "startTime": 736,
+      "title": "Gjest: Espen R. Nakstad",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa19050626/3c011baf-17.smil/thumb.jpg?t=762&scale=480x270&v=high"
+    },
+    {
+      "startTime": 859,
+      "title": "Høiby fotlenke",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa19050626/3c011baf-17.smil/thumb.jpg?t=884&scale=480x270&v=high"
+    },
+    {
+      "startTime": 979,
+      "title": "Gjest: Brynjar Meling",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa19050626/3c011baf-17.smil/thumb.jpg?t=1004&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1107,
+      "title": "Hormuz og våpenhvile",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa19050626/3c011baf-17.smil/thumb.jpg?t=1132&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1217,
+      "title": "Morrow konkurs",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa19050626/3c011baf-17.smil/thumb.jpg?t=1243&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1317,
+      "title": "Direkte Arendal",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa19050626/3c011baf-17.smil/thumb.jpg?t=1343&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1506,
+      "title": "Asylregler",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa19050626/3c011baf-17.smil/thumb.jpg?t=1531&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1588,
+      "title": "Utenriksnyheter",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa19050626/3c011baf-17.smil/thumb.jpg?t=1614&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1709,
+      "title": "Starmers skjebne",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa19050626/3c011baf-17.smil/thumb.jpg?t=1735&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1754,
+      "title": "Direkte fra London",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa19050626/3c011baf-17.smil/thumb.jpg?t=1780&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1796,
+      "title": "Starmers skjebne",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa19050626/3c011baf-17.smil/thumb.jpg?t=1822&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1925,
+      "title": "Direkte fra London",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa19050626/3c011baf-17.smil/thumb.jpg?t=1951&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2028,
+      "title": "Bergan svensk ESC",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa19050626/3c011baf-17.smil/thumb.jpg?t=2054&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2159,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa19050626/3c011baf-17.smil/thumb.jpg?t=2185&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2166,
+      "title": "Vålerenga sparket treneren",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa19050626/3c011baf-17.smil/thumb.jpg?t=2191&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2251,
+      "title": "Ranheim-trener",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa19050626/3c011baf-17.smil/thumb.jpg?t=2277&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2282,
+      "title": "Tennis",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa19050626/3c011baf-17.smil/thumb.jpg?t=2308&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2322,
+      "title": "Friidrett",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa19050626/3c011baf-17.smil/thumb.jpg?t=2347&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2400,
+      "title": "Skøyter",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa19050626/3c011baf-17.smil/thumb.jpg?t=2425&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2487,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa19050626/3c011baf-17.smil/thumb.jpg?t=2513&scale=480x270&v=high"
+    }
+  ]
+}

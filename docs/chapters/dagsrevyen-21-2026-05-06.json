@@ -1,0 +1,63 @@
+{
+  "version": "1.2.0",
+  "title": "Vant mot staten i Høyesterett",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa21050626/8098fa09-14.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 30,
+      "title": "Pensjon-Forsvaret",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa21050626/8098fa09-14.smil/thumb.jpg?t=55&scale=480x270&v=high"
+    },
+    {
+      "startTime": 137,
+      "title": "Morrow konkurs",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa21050626/8098fa09-14.smil/thumb.jpg?t=163&scale=480x270&v=high"
+    },
+    {
+      "startTime": 204,
+      "title": "Høiby varetekt",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa21050626/8098fa09-14.smil/thumb.jpg?t=229&scale=480x270&v=high"
+    },
+    {
+      "startTime": 250,
+      "title": "Angrep Beirut",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa21050626/8098fa09-14.smil/thumb.jpg?t=275&scale=480x270&v=high"
+    },
+    {
+      "startTime": 268,
+      "title": "Virus på skip",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa21050626/8098fa09-14.smil/thumb.jpg?t=293&scale=480x270&v=high"
+    },
+    {
+      "startTime": 292,
+      "title": "Skjerper asylkrav",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa21050626/8098fa09-14.smil/thumb.jpg?t=317&scale=480x270&v=high"
+    },
+    {
+      "startTime": 345,
+      "title": "Dekning på Ona",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa21050626/8098fa09-14.smil/thumb.jpg?t=371&scale=480x270&v=high"
+    },
+    {
+      "startTime": 375,
+      "title": "Maud Angelica designer glass på Magnor",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa21050626/8098fa09-14.smil/thumb.jpg?t=401&scale=480x270&v=high"
+    },
+    {
+      "startTime": 487,
+      "title": "Været",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa21050626/8098fa09-14.smil/thumb.jpg?t=512&scale=480x270&v=high"
+    },
+    {
+      "startTime": 532,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa21050626/8098fa09-14.smil/thumb.jpg?t=550.76&scale=480x270&v=high"
+    }
+  ]
+}

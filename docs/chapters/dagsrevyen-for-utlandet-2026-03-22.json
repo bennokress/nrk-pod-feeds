@@ -1,0 +1,118 @@
+{
+  "version": "1.2.0",
+  "title": "Trump med tidsfrist til Iran",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen utenfor Norge og EU",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa20032226/33583093-21.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 52,
+      "title": "Tidsfrist Iran",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa20032226/33583093-21.smil/thumb.jpg?t=77&scale=480x270&v=high"
+    },
+    {
+      "startTime": 184,
+      "title": "Direkte Washington",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa20032226/33583093-21.smil/thumb.jpg?t=209&scale=480x270&v=high"
+    },
+    {
+      "startTime": 281,
+      "title": "Beirut flygeblader",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa20032226/33583093-21.smil/thumb.jpg?t=307&scale=480x270&v=high"
+    },
+    {
+      "startTime": 411,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa20032226/33583093-21.smil/thumb.jpg?t=436&scale=480x270&v=high"
+    },
+    {
+      "startTime": 463,
+      "title": "Karmøy drap oppfølging",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa20032226/33583093-21.smil/thumb.jpg?t=489&scale=480x270&v=high"
+    },
+    {
+      "startTime": 562,
+      "title": "Drap Bærum",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa20032226/33583093-21.smil/thumb.jpg?t=588&scale=480x270&v=high"
+    },
+    {
+      "startTime": 611,
+      "title": "Lønnsoppgjør",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa20032226/33583093-21.smil/thumb.jpg?t=636&scale=480x270&v=high"
+    },
+    {
+      "startTime": 732,
+      "title": "Baby Shower kirke",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa20032226/33583093-21.smil/thumb.jpg?t=757&scale=480x270&v=high"
+    },
+    {
+      "startTime": 895,
+      "title": "USA",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa20032226/33583093-21.smil/thumb.jpg?t=921&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1175,
+      "title": "Valg Danmark",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa20032226/33583093-21.smil/thumb.jpg?t=1201&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1554,
+      "title": "Reigstad før debatt",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa20032226/33583093-21.smil/thumb.jpg?t=1580&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1659,
+      "title": "Flyreiser i Russland",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa20032226/33583093-21.smil/thumb.jpg?t=1684&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2008,
+      "title": "Spellemann",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa20032226/33583093-21.smil/thumb.jpg?t=2033&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2022,
+      "title": "Direkte Spellemann",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa20032226/33583093-21.smil/thumb.jpg?t=2048&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2210,
+      "title": "Ligacupfinale",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa20032226/33583093-21.smil/thumb.jpg?t=2236&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2266,
+      "title": "Eliteserie",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa20032226/33583093-21.smil/thumb.jpg?t=2291&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2341,
+      "title": "Ny konge av Kvitfjell",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa20032226/33583093-21.smil/thumb.jpg?t=2367&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2381,
+      "title": "Braathen",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa20032226/33583093-21.smil/thumb.jpg?t=2406&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2517,
+      "title": "Skiskyting",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa20032226/33583093-21.smil/thumb.jpg?t=2543&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2575,
+      "title": "Olas siste stående",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa20032226/33583093-21.smil/thumb.jpg?t=2601&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2741,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa20032226/33583093-21.smil/thumb.jpg?t=2766&scale=480x270&v=high"
+    }
+  ]
+}

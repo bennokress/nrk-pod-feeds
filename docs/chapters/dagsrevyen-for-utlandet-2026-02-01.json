@@ -1,0 +1,128 @@
+{
+  "version": "1.2.0",
+  "title": "Blir bedt om å melde seg ut",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen utenfor Norge og EU",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa20020126/d29afec7-20.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 50,
+      "title": "Epstein-dokumenter",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa20020126/d29afec7-20.smil/thumb.jpg?t=75&scale=480x270&v=high"
+    },
+    {
+      "startTime": 200,
+      "title": "Direkte: London",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa20020126/d29afec7-20.smil/thumb.jpg?t=226&scale=480x270&v=high"
+    },
+    {
+      "startTime": 349,
+      "title": "Direkte: Washington",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa20020126/d29afec7-20.smil/thumb.jpg?t=375&scale=480x270&v=high"
+    },
+    {
+      "startTime": 482,
+      "title": "Gjest: Sigurd Falkenberg Mikkelsen",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa20020126/d29afec7-20.smil/thumb.jpg?t=508&scale=480x270&v=high"
+    },
+    {
+      "startTime": 661,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa20020126/d29afec7-20.smil/thumb.jpg?t=687&scale=480x270&v=high"
+    },
+    {
+      "startTime": 724,
+      "title": "Tyvegods",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa20020126/d29afec7-20.smil/thumb.jpg?t=749&scale=480x270&v=high"
+    },
+    {
+      "startTime": 894,
+      "title": "Strømnett",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa20020126/d29afec7-20.smil/thumb.jpg?t=919&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1023,
+      "title": "Demonstrasjon Oslo",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa20020126/d29afec7-20.smil/thumb.jpg?t=1049&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1060,
+      "title": "Iran",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa20020126/d29afec7-20.smil/thumb.jpg?t=1085&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1174,
+      "title": "Utenriksnyheter",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa20020126/d29afec7-20.smil/thumb.jpg?t=1199&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1270,
+      "title": "Kom deg ut-dagen",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa20020126/d29afec7-20.smil/thumb.jpg?t=1295&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1372,
+      "title": "Pokemon",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa20020126/d29afec7-20.smil/thumb.jpg?t=1397&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1497,
+      "title": "England",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa20020126/d29afec7-20.smil/thumb.jpg?t=1522&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1893,
+      "title": "Ukraina",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa20020126/d29afec7-20.smil/thumb.jpg?t=1918&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2282,
+      "title": "Premier League",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa20020126/d29afec7-20.smil/thumb.jpg?t=2308&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2337,
+      "title": "Premier League",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa20020126/d29afec7-20.smil/thumb.jpg?t=2362&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2383,
+      "title": "Tennis",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa20020126/d29afec7-20.smil/thumb.jpg?t=2409&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2414,
+      "title": "Friidrett",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa20020126/d29afec7-20.smil/thumb.jpg?t=2440&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2436,
+      "title": "Vinterpakke",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa20020126/d29afec7-20.smil/thumb.jpg?t=2462&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2507,
+      "title": "Håndball EM",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa20020126/d29afec7-20.smil/thumb.jpg?t=2532&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2572,
+      "title": "Ragne Wiklund",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa20020126/d29afec7-20.smil/thumb.jpg?t=2597&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2677,
+      "title": "Jaktar Paralympics i ny idrett",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa20020126/d29afec7-20.smil/thumb.jpg?t=2702&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2814,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa20020126/d29afec7-20.smil/thumb.jpg?t=2839&scale=480x270&v=high"
+    }
+  ]
+}

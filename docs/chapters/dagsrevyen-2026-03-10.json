@@ -1,0 +1,143 @@
+{
+  "version": "1.2.0",
+  "title": "Dyrere flybilletter",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 6,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa19031026/21729e89-14.smil/thumb.jpg?t=31&scale=480x270&v=high"
+    },
+    {
+      "startTime": 56,
+      "title": "Drivstoffpriser",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa19031026/21729e89-14.smil/thumb.jpg?t=81&scale=480x270&v=high"
+    },
+    {
+      "startTime": 264,
+      "title": "Direkte: Brussel",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa19031026/21729e89-14.smil/thumb.jpg?t=289&scale=480x270&v=high"
+    },
+    {
+      "startTime": 409,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa19031026/21729e89-14.smil/thumb.jpg?t=434&scale=480x270&v=high"
+    },
+    {
+      "startTime": 463,
+      "title": "Epstein-bolig",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa19031026/21729e89-14.smil/thumb.jpg?t=488&scale=480x270&v=high"
+    },
+    {
+      "startTime": 500,
+      "title": "Direkte: Washington D.C.",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa19031026/21729e89-14.smil/thumb.jpg?t=525&scale=480x270&v=high"
+    },
+    {
+      "startTime": 617,
+      "title": "Krigen i Midtøsten",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa19031026/21729e89-14.smil/thumb.jpg?t=642&scale=480x270&v=high"
+    },
+    {
+      "startTime": 704,
+      "title": "Direkte: Irak",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa19031026/21729e89-14.smil/thumb.jpg?t=729&scale=480x270&v=high"
+    },
+    {
+      "startTime": 783,
+      "title": "Krigen i Midtøsten",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa19031026/21729e89-14.smil/thumb.jpg?t=809&scale=480x270&v=high"
+    },
+    {
+      "startTime": 920,
+      "title": "Bofellesskap",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa19031026/21729e89-14.smil/thumb.jpg?t=945&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1055,
+      "title": "Innlandet vgs",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa19031026/21729e89-14.smil/thumb.jpg?t=1081&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1194,
+      "title": "Direkte: Nairobi",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa19031026/21729e89-14.smil/thumb.jpg?t=1220&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1268,
+      "title": "Bistandskutt",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa19031026/21729e89-14.smil/thumb.jpg?t=1294&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1427,
+      "title": "Krisesentere",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa19031026/21729e89-14.smil/thumb.jpg?t=1453&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1536,
+      "title": "Hegseth retorikk",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa19031026/21729e89-14.smil/thumb.jpg?t=1561&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1603,
+      "title": "Direkte: Washington",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa19031026/21729e89-14.smil/thumb.jpg?t=1628&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1672,
+      "title": "Hegseth retorikk",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa19031026/21729e89-14.smil/thumb.jpg?t=1698&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1736,
+      "title": "Direkte: Washington",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa19031026/21729e89-14.smil/thumb.jpg?t=1762&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1869,
+      "title": "KI fikser gatelys",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa19031026/21729e89-14.smil/thumb.jpg?t=1894&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2004,
+      "title": "Pop-up kor",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa19031026/21729e89-14.smil/thumb.jpg?t=2030&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2009,
+      "title": "Direkte: Oslo",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa19031026/21729e89-14.smil/thumb.jpg?t=2035&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2115,
+      "title": "Trailer Debatten",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa19031026/21729e89-14.smil/thumb.jpg?t=2141&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2166,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa19031026/21729e89-14.smil/thumb.jpg?t=2191&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2171,
+      "title": "Paralympics",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa19031026/21729e89-14.smil/thumb.jpg?t=2197&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2307,
+      "title": "Fotball Mesterliga",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa19031026/21729e89-14.smil/thumb.jpg?t=2332&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2398,
+      "title": "Direkte: Bodø",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa19031026/21729e89-14.smil/thumb.jpg?t=2423&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2464,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa19031026/21729e89-14.smil/thumb.jpg?t=2489&scale=480x270&v=high"
+    }
+  ]
+}

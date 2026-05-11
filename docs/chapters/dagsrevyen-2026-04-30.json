@@ -1,0 +1,138 @@
+{
+  "version": "1.2.0",
+  "title": "Folkekjær konge",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 4,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa19043026/ed7a4c6d-15.smil/thumb.jpg?t=29&scale=480x270&v=high"
+    },
+    {
+      "startTime": 55,
+      "title": "Drivstoffavgift",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa19043026/ed7a4c6d-15.smil/thumb.jpg?t=80&scale=480x270&v=high"
+    },
+    {
+      "startTime": 281,
+      "title": "Gjest: Tone Sofie Aglen",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa19043026/ed7a4c6d-15.smil/thumb.jpg?t=306&scale=480x270&v=high"
+    },
+    {
+      "startTime": 398,
+      "title": "Kritisk Elden",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa19043026/ed7a4c6d-15.smil/thumb.jpg?t=424&scale=480x270&v=high"
+    },
+    {
+      "startTime": 523,
+      "title": "Gjest Hammerstad",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa19043026/ed7a4c6d-15.smil/thumb.jpg?t=549&scale=480x270&v=high"
+    },
+    {
+      "startTime": 645,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa19043026/ed7a4c6d-15.smil/thumb.jpg?t=671&scale=480x270&v=high"
+    },
+    {
+      "startTime": 801,
+      "title": "Helikopterkrangel",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa19043026/ed7a4c6d-15.smil/thumb.jpg?t=827&scale=480x270&v=high"
+    },
+    {
+      "startTime": 911,
+      "title": "Nærlingsliv i Dubai",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa19043026/ed7a4c6d-15.smil/thumb.jpg?t=936&scale=480x270&v=high"
+    },
+    {
+      "startTime": 936,
+      "title": "Direkte: Dubai",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa19043026/ed7a4c6d-15.smil/thumb.jpg?t=961&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1013,
+      "title": "Nærlingsliv i Dubai",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa19043026/ed7a4c6d-15.smil/thumb.jpg?t=1038&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1121,
+      "title": "Utenriksnyheter",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa19043026/ed7a4c6d-15.smil/thumb.jpg?t=1147&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1212,
+      "title": "Statsbesøk USA",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa19043026/ed7a4c6d-15.smil/thumb.jpg?t=1237&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1315,
+      "title": "Rydder snø",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa19043026/ed7a4c6d-15.smil/thumb.jpg?t=1340&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1415,
+      "title": "Direkte: Byglandsfjord",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa19043026/ed7a4c6d-15.smil/thumb.jpg?t=1440&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1474,
+      "title": "Carl Gustaf 80 år",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa19043026/ed7a4c6d-15.smil/thumb.jpg?t=1499&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1840,
+      "title": "Direkte: Stockholm",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa19043026/ed7a4c6d-15.smil/thumb.jpg?t=1866&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1939,
+      "title": "Karpe",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa19043026/ed7a4c6d-15.smil/thumb.jpg?t=1965&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2033,
+      "title": "Løveunger",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa19043026/ed7a4c6d-15.smil/thumb.jpg?t=2059&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2060,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa19043026/ed7a4c6d-15.smil/thumb.jpg?t=2086&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2106,
+      "title": "Ruud i Madrid",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa19043026/ed7a4c6d-15.smil/thumb.jpg?t=2132&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2189,
+      "title": "Fifa-kongress",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa19043026/ed7a4c6d-15.smil/thumb.jpg?t=2215&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2249,
+      "title": "Direkte",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa19043026/ed7a4c6d-15.smil/thumb.jpg?t=2275&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2286,
+      "title": "Landslaget før VM",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa19043026/ed7a4c6d-15.smil/thumb.jpg?t=2311&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2382,
+      "title": "PGA-touren",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa19043026/ed7a4c6d-15.smil/thumb.jpg?t=2408&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2404,
+      "title": "Trailer Debatten",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa19043026/ed7a4c6d-15.smil/thumb.jpg?t=2430&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2435,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa19043026/ed7a4c6d-15.smil/thumb.jpg?t=2460&scale=480x270&v=high"
+    }
+  ]
+}

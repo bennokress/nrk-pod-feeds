@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>NRK Dagsrevyen Video Podcasts</title>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width,initial-scale=1" />
+        <meta name="description" content="Unofficial RSS video feeds for NRK Dagsrevyen — main edition (19:00), late edition (21:00), and the international edition. For personal use." />
+        <meta http-equiv="Content-Security-Policy" content="default-src 'self' 'unsafe-inline'; img-src 'self' data:;">
+        <link rel="stylesheet" href="assets/css/style.css">
+    </head>
+
+    <body>
+        <main>
+            <header class="page-header">
+                <h1>NRK Dagsrevyen Video Podcasts</h1>
+                <p class="subtitle">Unofficial video feeds for NRK's flagship news programme. For personal use.</p>
+            </header>
+
+            <section class="feed-list">
+                <article class="feed-card">
+                    <img class="feed-cover" src="assets/images/dagsrevyen.jpg" alt="Dagsrevyen cover" loading="lazy">
+                    <div class="feed-body">
+                        <h2 class="feed-title">Dagsrevyen</h2>
+                        <p class="feed-meta">Main evening news · 19:00</p>
+                        <p class="feed-url">
+                            <code>https://bennokress.github.io/nrk-pod-feeds/rss/video/dagsrevyen.xml</code>
+                        </p>
+                        <div class="feed-actions">
+                            <a class="btn btn-primary" href="podcast://bennokress.github.io/nrk-pod-feeds/rss/video/dagsrevyen.xml">Subscribe</a>
+                            <button class="btn" type="button" data-copy="https://bennokress.github.io/nrk-pod-feeds/rss/video/dagsrevyen.xml">Copy URL</button>
+                        </div>
+                    </div>
+                </article>
+
+                <article class="feed-card">
+                    <img class="feed-cover" src="assets/images/dagsrevyen-21.jpg" alt="Dagsrevyen 21 cover" loading="lazy">
+                    <div class="feed-body">
+                        <h2 class="feed-title">Dagsrevyen 21</h2>
+                        <p class="feed-meta">Late evening news · 21:00</p>
+                        <p class="feed-url">
+                            <code>https://bennokress.github.io/nrk-pod-feeds/rss/video/dagsrevyen-21.xml</code>
+                        </p>
+                        <div class="feed-actions">
+                            <a class="btn btn-primary" href="podcast://bennokress.github.io/nrk-pod-feeds/rss/video/dagsrevyen-21.xml">Subscribe</a>
+                            <button class="btn" type="button" data-copy="https://bennokress.github.io/nrk-pod-feeds/rss/video/dagsrevyen-21.xml">Copy URL</button>
+                        </div>
+                    </div>
+                </article>
+
+                <article class="feed-card">
+                    <img class="feed-cover" src="assets/images/dagsrevyen-for-utlandet.jpg" alt="Dagsrevyen for utlandet cover" loading="lazy">
+                    <div class="feed-body">
+                        <h2 class="feed-title">Dagsrevyen for utlandet</h2>
+                        <p class="feed-meta">International edition · viewable outside Norway and the EU</p>
+                        <p class="feed-url">
+                            <code>https://bennokress.github.io/nrk-pod-feeds/rss/video/dagsrevyen-for-utlandet.xml</code>
+                        </p>
+                        <div class="feed-actions">
+                            <a class="btn btn-primary" href="podcast://bennokress.github.io/nrk-pod-feeds/rss/video/dagsrevyen-for-utlandet.xml">Subscribe</a>
+                            <button class="btn" type="button" data-copy="https://bennokress.github.io/nrk-pod-feeds/rss/video/dagsrevyen-for-utlandet.xml">Copy URL</button>
+                        </div>
+                    </div>
+                </article>
+            </section>
+
+            <footer class="page-footer">
+                <p>
+                    <a href="https://github.com/bennokress/nrk-pod-feeds">Source on GitHub</a>
+                    ·
+                    Originally forked from <a href="https://github.com/sindrel/nrk-pod-feeds">sindrel/nrk-pod-feeds</a>
+                </p>
+                <p class="fineprint">Content © NRK. Feeds are unofficial and for personal use only.</p>
+            </footer>
+        </main>
+
+        <div id="toast" class="toast" role="status" aria-live="polite" hidden>Copied</div>
+
+        <script>
+            (function () {
+                var toast = document.getElementById('toast');
+                var toastTimeout;
+
+                function showToast(message) {
+                    toast.textContent = message;
+                    toast.hidden = false;
+                    toast.classList.add('toast-visible');
+                    clearTimeout(toastTimeout);
+                    toastTimeout = setTimeout(function () {
+                        toast.classList.remove('toast-visible');
+                        setTimeout(function () { toast.hidden = true; }, 200);
+                    }, 1600);
+                }
+
+                document.querySelectorAll('button[data-copy]').forEach(function (btn) {
+                    btn.addEventListener('click', function () {
+                        var url = btn.getAttribute('data-copy');
+                        if (navigator.clipboard && navigator.clipboard.writeText) {
+                            navigator.clipboard.writeText(url).then(
+                                function () { showToast('Copied'); },
+                                function () { showToast('Copy failed'); }
+                            );
+                        } else {
+                            // Fallback for older browsers
+                            var ta = document.createElement('textarea');
+                            ta.value = url;
+                            document.body.appendChild(ta);
+                            ta.select();
+                            try { document.execCommand('copy'); showToast('Copied'); }
+                            catch (e) { showToast('Copy failed'); }
+                            document.body.removeChild(ta);
+                        }
+                    });
+                });
+            })();
+        </script>
+    </body>
+</html>

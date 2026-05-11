@@ -1,0 +1,148 @@
+{
+  "version": "1.2.0",
+  "title": "Snur om dieselavgift",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 7,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa19042926/1c5fcf7a-17.smil/thumb.jpg?t=32&scale=480x270&v=high"
+    },
+    {
+      "startTime": 67,
+      "title": "Snur om dieselavgift",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa19042926/1c5fcf7a-17.smil/thumb.jpg?t=92&scale=480x270&v=high"
+    },
+    {
+      "startTime": 217,
+      "title": "Gjest: Lars Nehru Sand",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa19042926/1c5fcf7a-17.smil/thumb.jpg?t=243&scale=480x270&v=high"
+    },
+    {
+      "startTime": 329,
+      "title": "Krona styrket",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa19042926/1c5fcf7a-17.smil/thumb.jpg?t=355&scale=480x270&v=high"
+    },
+    {
+      "startTime": 405,
+      "title": "Gjest: Sindre Heyerdahl",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa19042926/1c5fcf7a-17.smil/thumb.jpg?t=431&scale=480x270&v=high"
+    },
+    {
+      "startTime": 516,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa19042926/1c5fcf7a-17.smil/thumb.jpg?t=541&scale=480x270&v=high"
+    },
+    {
+      "startTime": 570,
+      "title": "Direkte: Vestre Toten",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa19042926/1c5fcf7a-17.smil/thumb.jpg?t=596&scale=480x270&v=high"
+    },
+    {
+      "startTime": 668,
+      "title": "Skyting Skjetten",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa19042926/1c5fcf7a-17.smil/thumb.jpg?t=694&scale=480x270&v=high"
+    },
+    {
+      "startTime": 760,
+      "title": "Bestillingsvold",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa19042926/1c5fcf7a-17.smil/thumb.jpg?t=786&scale=480x270&v=high"
+    },
+    {
+      "startTime": 895,
+      "title": "Olje",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa19042926/1c5fcf7a-17.smil/thumb.jpg?t=921&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1047,
+      "title": "Magyar i Brussel",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa19042926/1c5fcf7a-17.smil/thumb.jpg?t=1072&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1071,
+      "title": "Direkte: Brussel",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa19042926/1c5fcf7a-17.smil/thumb.jpg?t=1097&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1171,
+      "title": "Utenriksnyheter",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa19042926/1c5fcf7a-17.smil/thumb.jpg?t=1197&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1279,
+      "title": "Turøy-ulykken",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa19042926/1c5fcf7a-17.smil/thumb.jpg?t=1304&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1303,
+      "title": "Direkte: Turøy",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa19042926/1c5fcf7a-17.smil/thumb.jpg?t=1329&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1371,
+      "title": "Turøy-ulykken",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa19042926/1c5fcf7a-17.smil/thumb.jpg?t=1396&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1462,
+      "title": "Europa varmes opp",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa19042926/1c5fcf7a-17.smil/thumb.jpg?t=1488&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1553,
+      "title": "Gjest: Hygen",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa19042926/1c5fcf7a-17.smil/thumb.jpg?t=1579&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1715,
+      "title": "Levninger heves",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa19042926/1c5fcf7a-17.smil/thumb.jpg?t=1740&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1832,
+      "title": "Kong Carl Gustaf",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa19042926/1c5fcf7a-17.smil/thumb.jpg?t=1857&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1950,
+      "title": "Direkte: Stockholm",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa19042926/1c5fcf7a-17.smil/thumb.jpg?t=1975&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2044,
+      "title": "Karpe legger opp",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa19042926/1c5fcf7a-17.smil/thumb.jpg?t=2069&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2168,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa19042926/1c5fcf7a-17.smil/thumb.jpg?t=2193&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2174,
+      "title": "Skiskyting uttak",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa19042926/1c5fcf7a-17.smil/thumb.jpg?t=2200&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2272,
+      "title": "Norsk FIFA-kritikk",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa19042926/1c5fcf7a-17.smil/thumb.jpg?t=2298&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2349,
+      "title": "Før Arsenal-Atlético",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa19042926/1c5fcf7a-17.smil/thumb.jpg?t=2374&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2411,
+      "title": "Golf",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa19042926/1c5fcf7a-17.smil/thumb.jpg?t=2436&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2483,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa19042926/1c5fcf7a-17.smil/thumb.jpg?t=2508&scale=480x270&v=high"
+    }
+  ]
+}

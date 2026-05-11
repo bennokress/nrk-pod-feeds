@@ -1,0 +1,123 @@
+{
+  "version": "1.2.0",
+  "title": "Bekymret for utviklingen",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 8,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa19012626/7bb25be3-16.smil/thumb.jpg?t=33&scale=480x270&v=high"
+    },
+    {
+      "startTime": 63,
+      "title": "Fakkeltog Holmlia",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa19012626/7bb25be3-16.smil/thumb.jpg?t=89&scale=480x270&v=high"
+    },
+    {
+      "startTime": 109,
+      "title": "Direkte Holmlia",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa19012626/7bb25be3-16.smil/thumb.jpg?t=134&scale=480x270&v=high"
+    },
+    {
+      "startTime": 193,
+      "title": "Benjamin Hermansen",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa19012626/7bb25be3-16.smil/thumb.jpg?t=219&scale=480x270&v=high"
+    },
+    {
+      "startTime": 297,
+      "title": "Gjest: Astri Aas-Hansen",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa19012626/7bb25be3-16.smil/thumb.jpg?t=323&scale=480x270&v=high"
+    },
+    {
+      "startTime": 446,
+      "title": "Minneapolis",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa19012626/7bb25be3-16.smil/thumb.jpg?t=471&scale=480x270&v=high"
+    },
+    {
+      "startTime": 607,
+      "title": "Direkte Minneapolis",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa19012626/7bb25be3-16.smil/thumb.jpg?t=633&scale=480x270&v=high"
+    },
+    {
+      "startTime": 735,
+      "title": "Minneapolis",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa19012626/7bb25be3-16.smil/thumb.jpg?t=761&scale=480x270&v=high"
+    },
+    {
+      "startTime": 843,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa19012626/7bb25be3-16.smil/thumb.jpg?t=868&scale=480x270&v=high"
+    },
+    {
+      "startTime": 892,
+      "title": "Spiseforstyrrelser",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa19012626/7bb25be3-16.smil/thumb.jpg?t=918&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1013,
+      "title": "Gjest: Øyvind Rø",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa19012626/7bb25be3-16.smil/thumb.jpg?t=1039&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1186,
+      "title": "Utenriksnyheter",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa19012626/7bb25be3-16.smil/thumb.jpg?t=1211&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1278,
+      "title": "Prinsesse i Finnmark",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa19012626/7bb25be3-16.smil/thumb.jpg?t=1303&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1435,
+      "title": "Direkte Finland",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa19012626/7bb25be3-16.smil/thumb.jpg?t=1461&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1544,
+      "title": "Historisk skøyteløp",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa19012626/7bb25be3-16.smil/thumb.jpg?t=1569&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1758,
+      "title": "Direkte: Sander Eitrem",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa19012626/7bb25be3-16.smil/thumb.jpg?t=1783&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1816,
+      "title": "Historisk skøyteløp",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa19012626/7bb25be3-16.smil/thumb.jpg?t=1842&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2063,
+      "title": "Hvalsafari",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa19012626/7bb25be3-16.smil/thumb.jpg?t=2088&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2185,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa19012626/7bb25be3-16.smil/thumb.jpg?t=2211&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2191,
+      "title": "Håndball-EM",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa19012626/7bb25be3-16.smil/thumb.jpg?t=2217&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2295,
+      "title": "Australian Open",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa19012626/7bb25be3-16.smil/thumb.jpg?t=2321&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2337,
+      "title": "OL-Uttak",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa19012626/7bb25be3-16.smil/thumb.jpg?t=2363&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2444,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa19012626/7bb25be3-16.smil/thumb.jpg?t=2470&scale=480x270&v=high"
+    }
+  ]
+}

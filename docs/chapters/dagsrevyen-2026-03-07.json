@@ -1,0 +1,123 @@
+{
+  "version": "1.2.0",
+  "title": "Ber om unnskyldning",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 9,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa19030726/70e9424b-16.smil/thumb.jpg?t=35&scale=480x270&v=high"
+    },
+    {
+      "startTime": 62,
+      "title": "Midtøsten",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa19030726/70e9424b-16.smil/thumb.jpg?t=87&scale=480x270&v=high"
+    },
+    {
+      "startTime": 192,
+      "title": "Én uke med krig",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa19030726/70e9424b-16.smil/thumb.jpg?t=217&scale=480x270&v=high"
+    },
+    {
+      "startTime": 245,
+      "title": "Direkte: Tel Aviv",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa19030726/70e9424b-16.smil/thumb.jpg?t=270&scale=480x270&v=high"
+    },
+    {
+      "startTime": 363,
+      "title": "Amerikanere om krigen",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa19030726/70e9424b-16.smil/thumb.jpg?t=389&scale=480x270&v=high"
+    },
+    {
+      "startTime": 487,
+      "title": "Direkte: Florida",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa19030726/70e9424b-16.smil/thumb.jpg?t=512&scale=480x270&v=high"
+    },
+    {
+      "startTime": 584,
+      "title": "Oljeprisen",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa19030726/70e9424b-16.smil/thumb.jpg?t=609&scale=480x270&v=high"
+    },
+    {
+      "startTime": 695,
+      "title": "Nordmenn hjem",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa19030726/70e9424b-16.smil/thumb.jpg?t=721&scale=480x270&v=high"
+    },
+    {
+      "startTime": 802,
+      "title": "Snøskred",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa19030726/70e9424b-16.smil/thumb.jpg?t=827&scale=480x270&v=high"
+    },
+    {
+      "startTime": 824,
+      "title": "Gjest: Meteorolog",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa19030726/70e9424b-16.smil/thumb.jpg?t=850&scale=480x270&v=high"
+    },
+    {
+      "startTime": 886,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa19030726/70e9424b-16.smil/thumb.jpg?t=912&scale=480x270&v=high"
+    },
+    {
+      "startTime": 915,
+      "title": "Varsling ambulanse",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa19030726/70e9424b-16.smil/thumb.jpg?t=941&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1100,
+      "title": "Sterke kvinner",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa19030726/70e9424b-16.smil/thumb.jpg?t=1126&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1389,
+      "title": "Lever som nonne",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa19030726/70e9424b-16.smil/thumb.jpg?t=1414&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1704,
+      "title": "Velger bort alkohol",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa19030726/70e9424b-16.smil/thumb.jpg?t=1729&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2122,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa19030726/70e9424b-16.smil/thumb.jpg?t=2147&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2129,
+      "title": "Saltvik Pedersen gull",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa19030726/70e9424b-16.smil/thumb.jpg?t=2154&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2216,
+      "title": "Curling tap",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa19030726/70e9424b-16.smil/thumb.jpg?t=2241&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2251,
+      "title": "Skøyter VM",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa19030726/70e9424b-16.smil/thumb.jpg?t=2276&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2285,
+      "title": "Skistad disk",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa19030726/70e9424b-16.smil/thumb.jpg?t=2310&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2354,
+      "title": "Stafett seier",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa19030726/70e9424b-16.smil/thumb.jpg?t=2380&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2376,
+      "title": "Norge til nå",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa19030726/70e9424b-16.smil/thumb.jpg?t=2401&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2439,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa19030726/70e9424b-16.smil/thumb.jpg?t=2465&scale=480x270&v=high"
+    }
+  ]
+}

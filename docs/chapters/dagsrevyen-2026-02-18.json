@@ -1,0 +1,153 @@
+{
+  "version": "1.2.0",
+  "title": "Flere feiloperert",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 11,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-15.akamaized.net/open/ps/nnfa/nnfa19021826/38b07183-14.smil/thumb.jpg?t=37&scale=480x270&v=high"
+    },
+    {
+      "startTime": 62,
+      "title": "Skyting i Bergen",
+      "img": "https://nrk-od-world-15.akamaized.net/open/ps/nnfa/nnfa19021826/38b07183-14.smil/thumb.jpg?t=87&scale=480x270&v=high"
+    },
+    {
+      "startTime": 77,
+      "title": "Direkte: Bergen",
+      "img": "https://nrk-od-world-15.akamaized.net/open/ps/nnfa/nnfa19021826/38b07183-14.smil/thumb.jpg?t=103&scale=480x270&v=high"
+    },
+    {
+      "startTime": 116,
+      "title": "Skyting i Bergen",
+      "img": "https://nrk-od-world-15.akamaized.net/open/ps/nnfa/nnfa19021826/38b07183-14.smil/thumb.jpg?t=142&scale=480x270&v=high"
+    },
+    {
+      "startTime": 203,
+      "title": "Direkte: Bergen",
+      "img": "https://nrk-od-world-15.akamaized.net/open/ps/nnfa/nnfa19021826/38b07183-14.smil/thumb.jpg?t=229&scale=480x270&v=high"
+    },
+    {
+      "startTime": 317,
+      "title": "Flekkefjordlegen",
+      "img": "https://nrk-od-world-15.akamaized.net/open/ps/nnfa/nnfa19021826/38b07183-14.smil/thumb.jpg?t=343&scale=480x270&v=high"
+    },
+    {
+      "startTime": 556,
+      "title": "Direkte",
+      "img": "https://nrk-od-world-15.akamaized.net/open/ps/nnfa/nnfa19021826/38b07183-14.smil/thumb.jpg?t=581&scale=480x270&v=high"
+    },
+    {
+      "startTime": 689,
+      "title": "Høiby-saken",
+      "img": "https://nrk-od-world-15.akamaized.net/open/ps/nnfa/nnfa19021826/38b07183-14.smil/thumb.jpg?t=714&scale=480x270&v=high"
+    },
+    {
+      "startTime": 827,
+      "title": "Direkte: Bodø",
+      "img": "https://nrk-od-world-15.akamaized.net/open/ps/nnfa/nnfa19021826/38b07183-14.smil/thumb.jpg?t=852&scale=480x270&v=high"
+    },
+    {
+      "startTime": 949,
+      "title": "Løten-drapet",
+      "img": "https://nrk-od-world-15.akamaized.net/open/ps/nnfa/nnfa19021826/38b07183-14.smil/thumb.jpg?t=974&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1065,
+      "title": "Direkte: Hamar",
+      "img": "https://nrk-od-world-15.akamaized.net/open/ps/nnfa/nnfa19021826/38b07183-14.smil/thumb.jpg?t=1090&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1205,
+      "title": "Ramadan starter",
+      "img": "https://nrk-od-world-15.akamaized.net/open/ps/nnfa/nnfa19021826/38b07183-14.smil/thumb.jpg?t=1230&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1265,
+      "title": "Syria",
+      "img": "https://nrk-od-world-15.akamaized.net/open/ps/nnfa/nnfa19021826/38b07183-14.smil/thumb.jpg?t=1291&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1291,
+      "title": "Direkte: Damaskus",
+      "img": "https://nrk-od-world-15.akamaized.net/open/ps/nnfa/nnfa19021826/38b07183-14.smil/thumb.jpg?t=1316&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1323,
+      "title": "Syria",
+      "img": "https://nrk-od-world-15.akamaized.net/open/ps/nnfa/nnfa19021826/38b07183-14.smil/thumb.jpg?t=1348&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1357,
+      "title": "Direkte: Damaskus",
+      "img": "https://nrk-od-world-15.akamaized.net/open/ps/nnfa/nnfa19021826/38b07183-14.smil/thumb.jpg?t=1383&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1399,
+      "title": "Krigen i Ukraina",
+      "img": "https://nrk-od-world-15.akamaized.net/open/ps/nnfa/nnfa19021826/38b07183-14.smil/thumb.jpg?t=1425&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1507,
+      "title": "Utenriksnyheter",
+      "img": "https://nrk-od-world-15.akamaized.net/open/ps/nnfa/nnfa19021826/38b07183-14.smil/thumb.jpg?t=1532&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1640,
+      "title": "Elsparkesykler",
+      "img": "https://nrk-od-world-15.akamaized.net/open/ps/nnfa/nnfa19021826/38b07183-14.smil/thumb.jpg?t=1666&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1745,
+      "title": "Danielsen Lie i ny rolle",
+      "img": "https://nrk-od-world-15.akamaized.net/open/ps/nnfa/nnfa19021826/38b07183-14.smil/thumb.jpg?t=1771&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1843,
+      "title": "Gjest: Anders Danielsen Lie",
+      "img": "https://nrk-od-world-15.akamaized.net/open/ps/nnfa/nnfa19021826/38b07183-14.smil/thumb.jpg?t=1869&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2065,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-15.akamaized.net/open/ps/nnfa/nnfa19021826/38b07183-14.smil/thumb.jpg?t=2091&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2072,
+      "title": "OL langrenn lagsprint",
+      "img": "https://nrk-od-world-15.akamaized.net/open/ps/nnfa/nnfa19021826/38b07183-14.smil/thumb.jpg?t=2097&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2172,
+      "title": "OL skiskyting",
+      "img": "https://nrk-od-world-15.akamaized.net/open/ps/nnfa/nnfa19021826/38b07183-14.smil/thumb.jpg?t=2198&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2243,
+      "title": "OL slalåm kvinner",
+      "img": "https://nrk-od-world-15.akamaized.net/open/ps/nnfa/nnfa19021826/38b07183-14.smil/thumb.jpg?t=2269&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2328,
+      "title": "OL curling",
+      "img": "https://nrk-od-world-15.akamaized.net/open/ps/nnfa/nnfa19021826/38b07183-14.smil/thumb.jpg?t=2353&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2357,
+      "title": "OL snowboard slope",
+      "img": "https://nrk-od-world-15.akamaized.net/open/ps/nnfa/nnfa19021826/38b07183-14.smil/thumb.jpg?t=2382&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2416,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-15.akamaized.net/open/ps/nnfa/nnfa19021826/38b07183-14.smil/thumb.jpg?t=2442&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2573,
+      "title": "Direkte: Bergen",
+      "img": "https://nrk-od-world-15.akamaized.net/open/ps/nnfa/nnfa19021826/38b07183-14.smil/thumb.jpg?t=2599&scale=480x270&v=high"
+    }
+  ]
+}

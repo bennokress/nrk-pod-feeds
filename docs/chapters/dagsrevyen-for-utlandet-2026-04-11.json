@@ -1,0 +1,118 @@
+{
+  "version": "1.2.0",
+  "title": "4 års venting er over",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen utenfor Norge og EU",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa20041126/6fadd2c6-14.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 78,
+      "title": "Ukraina",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa20041126/6fadd2c6-14.smil/thumb.jpg?t=104&scale=480x270&v=high"
+    },
+    {
+      "startTime": 216,
+      "title": "Direkte fra Tsjernihiv",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa20041126/6fadd2c6-14.smil/thumb.jpg?t=242&scale=480x270&v=high"
+    },
+    {
+      "startTime": 324,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa20041126/6fadd2c6-14.smil/thumb.jpg?t=349&scale=480x270&v=high"
+    },
+    {
+      "startTime": 380,
+      "title": "Iran-USA",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa20041126/6fadd2c6-14.smil/thumb.jpg?t=405&scale=480x270&v=high"
+    },
+    {
+      "startTime": 462,
+      "title": "Direkte: Beirut",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa20041126/6fadd2c6-14.smil/thumb.jpg?t=488&scale=480x270&v=high"
+    },
+    {
+      "startTime": 547,
+      "title": "Fpu landsmøte",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa20041126/6fadd2c6-14.smil/thumb.jpg?t=573&scale=480x270&v=high"
+    },
+    {
+      "startTime": 682,
+      "title": "Artemis II",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa20041126/6fadd2c6-14.smil/thumb.jpg?t=708&scale=480x270&v=high"
+    },
+    {
+      "startTime": 781,
+      "title": "Gjest: Sandberg",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa20041126/6fadd2c6-14.smil/thumb.jpg?t=806&scale=480x270&v=high"
+    },
+    {
+      "startTime": 866,
+      "title": "Vintrøbbel",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa20041126/6fadd2c6-14.smil/thumb.jpg?t=892&scale=480x270&v=high"
+    },
+    {
+      "startTime": 977,
+      "title": "Siste Lotto-sending",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa20041126/6fadd2c6-14.smil/thumb.jpg?t=1002&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1113,
+      "title": "Organdonasjon",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa20041126/6fadd2c6-14.smil/thumb.jpg?t=1139&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1472,
+      "title": "Bondedrømmen",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa20041126/6fadd2c6-14.smil/thumb.jpg?t=1498&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1807,
+      "title": "Heroinassistert behandling",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa20041126/6fadd2c6-14.smil/thumb.jpg?t=1833&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2199,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa20041126/6fadd2c6-14.smil/thumb.jpg?t=2225&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2204,
+      "title": "Viking knuser glimt",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa20041126/6fadd2c6-14.smil/thumb.jpg?t=2229&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2240,
+      "title": "Eliteserien i fotball",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa20041126/6fadd2c6-14.smil/thumb.jpg?t=2266&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2315,
+      "title": "Arsenal - Bournemouth",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa20041126/6fadd2c6-14.smil/thumb.jpg?t=2340&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2381,
+      "title": "Kuppet kvinnetrener",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa20041126/6fadd2c6-14.smil/thumb.jpg?t=2407&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2389,
+      "title": "Lundes avskjed",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa20041126/6fadd2c6-14.smil/thumb.jpg?t=2415&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2464,
+      "title": "Sveits isbre",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa20041126/6fadd2c6-14.smil/thumb.jpg?t=2490&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2516,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa20041126/6fadd2c6-14.smil/thumb.jpg?t=2541&scale=480x270&v=high"
+    }
+  ]
+}

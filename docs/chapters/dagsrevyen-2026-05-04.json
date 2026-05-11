@@ -1,0 +1,133 @@
+{
+  "version": "1.2.0",
+  "title": "Stein Erik Hagen død",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 10,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa19050426/2d5343bb-15.smil/thumb.jpg?t=35&scale=480x270&v=high"
+    },
+    {
+      "startTime": 55,
+      "title": "Hagen død",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa19050426/2d5343bb-15.smil/thumb.jpg?t=80&scale=480x270&v=high"
+    },
+    {
+      "startTime": 70,
+      "title": "Direkte Fornebu",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa19050426/2d5343bb-15.smil/thumb.jpg?t=96&scale=480x270&v=high"
+    },
+    {
+      "startTime": 162,
+      "title": "Gjest om Stein Erik Hagen",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa19050426/2d5343bb-15.smil/thumb.jpg?t=188&scale=480x270&v=high"
+    },
+    {
+      "startTime": 274,
+      "title": "Stein Erik Hagen død",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa19050426/2d5343bb-15.smil/thumb.jpg?t=299&scale=480x270&v=high"
+    },
+    {
+      "startTime": 393,
+      "title": "Direkte: Dubai",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa19050426/2d5343bb-15.smil/thumb.jpg?t=419&scale=480x270&v=high"
+    },
+    {
+      "startTime": 457,
+      "title": "Hormuzstredet",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa19050426/2d5343bb-15.smil/thumb.jpg?t=483&scale=480x270&v=high"
+    },
+    {
+      "startTime": 562,
+      "title": "Direkte: Washington",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa19050426/2d5343bb-15.smil/thumb.jpg?t=587&scale=480x270&v=high"
+    },
+    {
+      "startTime": 703,
+      "title": "Direkte: Dubai",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa19050426/2d5343bb-15.smil/thumb.jpg?t=729&scale=480x270&v=high"
+    },
+    {
+      "startTime": 740,
+      "title": "Bil i folkemengde",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa19050426/2d5343bb-15.smil/thumb.jpg?t=766&scale=480x270&v=high"
+    },
+    {
+      "startTime": 762,
+      "title": "Skolefravær",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa19050426/2d5343bb-15.smil/thumb.jpg?t=788&scale=480x270&v=high"
+    },
+    {
+      "startTime": 957,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa19050426/2d5343bb-15.smil/thumb.jpg?t=982&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1025,
+      "title": "Drap Hamar",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa19050426/2d5343bb-15.smil/thumb.jpg?t=1051&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1136,
+      "title": "Konfirmasjonsgaver",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa19050426/2d5343bb-15.smil/thumb.jpg?t=1162&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1278,
+      "title": "Gjest",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa19050426/2d5343bb-15.smil/thumb.jpg?t=1304&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1417,
+      "title": "Streik utvidet",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa19050426/2d5343bb-15.smil/thumb.jpg?t=1443&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1548,
+      "title": "Slutt på gruvedrift Svalbard",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa19050426/2d5343bb-15.smil/thumb.jpg?t=1574&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1654,
+      "title": "Suvatne til Debatten",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa19050426/2d5343bb-15.smil/thumb.jpg?t=1679&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1763,
+      "title": "Gjest: Steinar Suvatne",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa19050426/2d5343bb-15.smil/thumb.jpg?t=1788&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1994,
+      "title": "Travle hattemakere",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa19050426/2d5343bb-15.smil/thumb.jpg?t=2019&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2084,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa19050426/2d5343bb-15.smil/thumb.jpg?t=2109&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2088,
+      "title": "Friidrett",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa19050426/2d5343bb-15.smil/thumb.jpg?t=2114&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2195,
+      "title": "Rosenborg",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa19050426/2d5343bb-15.smil/thumb.jpg?t=2221&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2232,
+      "title": "Rally",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa19050426/2d5343bb-15.smil/thumb.jpg?t=2258&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2336,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa19050426/2d5343bb-15.smil/thumb.jpg?t=2362&scale=480x270&v=high"
+    }
+  ]
+}

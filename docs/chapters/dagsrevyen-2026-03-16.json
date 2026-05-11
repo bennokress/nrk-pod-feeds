@@ -1,0 +1,133 @@
+{
+  "version": "1.2.0",
+  "title": "Skrev norsk filmhistorie",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 14,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa19031626/2ae1da60-15.smil/thumb.jpg?t=39&scale=480x270&v=high"
+    },
+    {
+      "startTime": 79,
+      "title": "Oscar-utdeling",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa19031626/2ae1da60-15.smil/thumb.jpg?t=104&scale=480x270&v=high"
+    },
+    {
+      "startTime": 108,
+      "title": "Direkte: Los Angeles",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa19031626/2ae1da60-15.smil/thumb.jpg?t=134&scale=480x270&v=high"
+    },
+    {
+      "startTime": 237,
+      "title": "Oscar-utdeling",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa19031626/2ae1da60-15.smil/thumb.jpg?t=262&scale=480x270&v=high"
+    },
+    {
+      "startTime": 403,
+      "title": "Høiby-saken",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa19031626/2ae1da60-15.smil/thumb.jpg?t=428&scale=480x270&v=high"
+    },
+    {
+      "startTime": 581,
+      "title": "Gjest Meling",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa19031626/2ae1da60-15.smil/thumb.jpg?t=607&scale=480x270&v=high"
+    },
+    {
+      "startTime": 677,
+      "title": "Kritikk av sykehus",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa19031626/2ae1da60-15.smil/thumb.jpg?t=703&scale=480x270&v=high"
+    },
+    {
+      "startTime": 789,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa19031626/2ae1da60-15.smil/thumb.jpg?t=815&scale=480x270&v=high"
+    },
+    {
+      "startTime": 852,
+      "title": "Trup presser Nato",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa19031626/2ae1da60-15.smil/thumb.jpg?t=877&scale=480x270&v=high"
+    },
+    {
+      "startTime": 964,
+      "title": "Direkte: Brüssel",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa19031626/2ae1da60-15.smil/thumb.jpg?t=990&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1061,
+      "title": "Israel og Libanon",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa19031626/2ae1da60-15.smil/thumb.jpg?t=1087&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1104,
+      "title": "Direkte: Tel Aviv",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa19031626/2ae1da60-15.smil/thumb.jpg?t=1129&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1182,
+      "title": "Israel angrepet",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa19031626/2ae1da60-15.smil/thumb.jpg?t=1208&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1287,
+      "title": "Barbeint i snøen",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa19031626/2ae1da60-15.smil/thumb.jpg?t=1312&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1447,
+      "title": "Elg angrep kvinne",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa19031626/2ae1da60-15.smil/thumb.jpg?t=1472&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1506,
+      "title": "Bocuse d'Or Europa",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa19031626/2ae1da60-15.smil/thumb.jpg?t=1531&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1531,
+      "title": "Reddet klinisk død",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa19031626/2ae1da60-15.smil/thumb.jpg?t=1557&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1674,
+      "title": "Oscar",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa19031626/2ae1da60-15.smil/thumb.jpg?t=1699&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1692,
+      "title": "Oscar: Hobbelstad & Poppe",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa19031626/2ae1da60-15.smil/thumb.jpg?t=1718&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2005,
+      "title": "Kvenfolkets dag",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa19031626/2ae1da60-15.smil/thumb.jpg?t=2031&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2116,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa19031626/2ae1da60-15.smil/thumb.jpg?t=2141&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2124,
+      "title": "Bodø Glimt i mesterligaen",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa19031626/2ae1da60-15.smil/thumb.jpg?t=2150&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2199,
+      "title": "Direkte: Lisboa",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa19031626/2ae1da60-15.smil/thumb.jpg?t=2224&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2330,
+      "title": "Frikjøring",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa19031626/2ae1da60-15.smil/thumb.jpg?t=2355&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2394,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa19031626/2ae1da60-15.smil/thumb.jpg?t=2419&scale=480x270&v=high"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "version": "1.2.0",
+  "title": "Enklere å få erstatning",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa21050726/f2eb9b0d-16.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 29,
+      "title": "Morrow-konkurs",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa21050726/f2eb9b0d-16.smil/thumb.jpg?t=54&scale=480x270&v=high"
+    },
+    {
+      "startTime": 121,
+      "title": "Kinesisk borger",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa21050726/f2eb9b0d-16.smil/thumb.jpg?t=146&scale=480x270&v=high"
+    },
+    {
+      "startTime": 174,
+      "title": "Menneskehandel",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa21050726/f2eb9b0d-16.smil/thumb.jpg?t=199&scale=480x270&v=high"
+    },
+    {
+      "startTime": 213,
+      "title": "Hever renten",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa21050726/f2eb9b0d-16.smil/thumb.jpg?t=238&scale=480x270&v=high"
+    },
+    {
+      "startTime": 260,
+      "title": "Flere får erstatning for skader på jobb",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa21050726/f2eb9b0d-16.smil/thumb.jpg?t=286&scale=480x270&v=high"
+    },
+    {
+      "startTime": 368,
+      "title": "Stenger Lærdalstunnelen",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa21050726/f2eb9b0d-16.smil/thumb.jpg?t=393&scale=480x270&v=high"
+    },
+    {
+      "startTime": 473,
+      "title": "Været",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa21050726/f2eb9b0d-16.smil/thumb.jpg?t=498&scale=480x270&v=high"
+    },
+    {
+      "startTime": 529,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa21050726/f2eb9b0d-16.smil/thumb.jpg?t=547.55&scale=480x270&v=high"
+    }
+  ]
+}

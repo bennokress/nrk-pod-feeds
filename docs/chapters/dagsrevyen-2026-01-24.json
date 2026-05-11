@@ -1,0 +1,113 @@
+{
+  "version": "1.2.0",
+  "title": "Ny skyting i Minneapolis",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 7,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa19012426/bea3346a-17.smil/thumb.jpg?t=33&scale=480x270&v=high"
+    },
+    {
+      "startTime": 66,
+      "title": "Minneapolis skyting",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa19012426/bea3346a-17.smil/thumb.jpg?t=92&scale=480x270&v=high"
+    },
+    {
+      "startTime": 156,
+      "title": "Direkte Washington",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa19012426/bea3346a-17.smil/thumb.jpg?t=181&scale=480x270&v=high"
+    },
+    {
+      "startTime": 264,
+      "title": "Nato i Afghanistan",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa19012426/bea3346a-17.smil/thumb.jpg?t=290&scale=480x270&v=high"
+    },
+    {
+      "startTime": 402,
+      "title": "Direkte: Trondheim",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa19012426/bea3346a-17.smil/thumb.jpg?t=427&scale=480x270&v=high"
+    },
+    {
+      "startTime": 545,
+      "title": "Gjest: Tove Bjørgaas",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa19012426/bea3346a-17.smil/thumb.jpg?t=571&scale=480x270&v=high"
+    },
+    {
+      "startTime": 663,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa19012426/bea3346a-17.smil/thumb.jpg?t=688&scale=480x270&v=high"
+    },
+    {
+      "startTime": 711,
+      "title": "Snøkrabbe",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa19012426/bea3346a-17.smil/thumb.jpg?t=737&scale=480x270&v=high"
+    },
+    {
+      "startTime": 883,
+      "title": "Barn og lek",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa19012426/bea3346a-17.smil/thumb.jpg?t=909&scale=480x270&v=high"
+    },
+    {
+      "startTime": 984,
+      "title": "Støttekonsert Gaza",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa19012426/bea3346a-17.smil/thumb.jpg?t=1010&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1001,
+      "title": "Direkte: Støttekonsert",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa19012426/bea3346a-17.smil/thumb.jpg?t=1027&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1109,
+      "title": "Anoreksi",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa19012426/bea3346a-17.smil/thumb.jpg?t=1134&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1542,
+      "title": "Solidaritet",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa19012426/bea3346a-17.smil/thumb.jpg?t=1567&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1825,
+      "title": "Styrketrening",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa19012426/bea3346a-17.smil/thumb.jpg?t=1850&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2153,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa19012426/bea3346a-17.smil/thumb.jpg?t=2178&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2162,
+      "title": "Verdensrekord",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa19012426/bea3346a-17.smil/thumb.jpg?t=2188&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2226,
+      "title": "VM i skiflyging",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa19012426/bea3346a-17.smil/thumb.jpg?t=2251&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2248,
+      "title": "Direkte håndball",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa19012426/bea3346a-17.smil/thumb.jpg?t=2273&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2312,
+      "title": "Valnes raser",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa19012426/bea3346a-17.smil/thumb.jpg?t=2337&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2387,
+      "title": "Vinner i tårer",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa19012426/bea3346a-17.smil/thumb.jpg?t=2413&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2483,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa19012426/bea3346a-17.smil/thumb.jpg?t=2509&scale=480x270&v=high"
+    }
+  ]
+}

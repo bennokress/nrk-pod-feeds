@@ -1,0 +1,173 @@
+{
+  "version": "1.2.0",
+  "title": "Storbrann i Ålesund",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 4,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa19031726/4a1f1b94-15.smil/thumb.jpg?t=30&scale=480x270&v=high"
+    },
+    {
+      "startTime": 55,
+      "title": "Lyngbrann Ålesund",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa19031726/4a1f1b94-15.smil/thumb.jpg?t=81&scale=480x270&v=high"
+    },
+    {
+      "startTime": 75,
+      "title": "Direkte: Ålesund",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa19031726/4a1f1b94-15.smil/thumb.jpg?t=101&scale=480x270&v=high"
+    },
+    {
+      "startTime": 190,
+      "title": "Direkte Ålesund",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa19031726/4a1f1b94-15.smil/thumb.jpg?t=215&scale=480x270&v=high"
+    },
+    {
+      "startTime": 239,
+      "title": "Evakuerte",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa19031726/4a1f1b94-15.smil/thumb.jpg?t=264&scale=480x270&v=high"
+    },
+    {
+      "startTime": 255,
+      "title": "Gjest: Meteorolog",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa19031726/4a1f1b94-15.smil/thumb.jpg?t=280&scale=480x270&v=high"
+    },
+    {
+      "startTime": 304,
+      "title": "Mette-Marit utblir",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa19031726/4a1f1b94-15.smil/thumb.jpg?t=329&scale=480x270&v=high"
+    },
+    {
+      "startTime": 394,
+      "title": "Gjest: Kristi Marie Skrede",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa19031726/4a1f1b94-15.smil/thumb.jpg?t=419&scale=480x270&v=high"
+    },
+    {
+      "startTime": 510,
+      "title": "Kontraterrorsjef slutter",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa19031726/4a1f1b94-15.smil/thumb.jpg?t=535&scale=480x270&v=high"
+    },
+    {
+      "startTime": 567,
+      "title": "Direkte: Washington",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa19031726/4a1f1b94-15.smil/thumb.jpg?t=593&scale=480x270&v=high"
+    },
+    {
+      "startTime": 669,
+      "title": "Rederiforbundet Hormuz",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa19031726/4a1f1b94-15.smil/thumb.jpg?t=694&scale=480x270&v=high"
+    },
+    {
+      "startTime": 790,
+      "title": "Zelenskyj hos Starmer",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa19031726/4a1f1b94-15.smil/thumb.jpg?t=815&scale=480x270&v=high"
+    },
+    {
+      "startTime": 836,
+      "title": "Foxtrot-drapene",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa19031726/4a1f1b94-15.smil/thumb.jpg?t=862&scale=480x270&v=high"
+    },
+    {
+      "startTime": 948,
+      "title": "Direkte Ålesund",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa19031726/4a1f1b94-15.smil/thumb.jpg?t=974&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1071,
+      "title": "Dom Løten",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa19031726/4a1f1b94-15.smil/thumb.jpg?t=1096&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1092,
+      "title": "Påstand Lier-Hansen",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa19031726/4a1f1b94-15.smil/thumb.jpg?t=1117&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1165,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa19031726/4a1f1b94-15.smil/thumb.jpg?t=1191&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1212,
+      "title": "Beholder post",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa19031726/4a1f1b94-15.smil/thumb.jpg?t=1237&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1314,
+      "title": "Langtidsplan forsvaret",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa19031726/4a1f1b94-15.smil/thumb.jpg?t=1339&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1425,
+      "title": "Direkte fra Ålesund",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa19031726/4a1f1b94-15.smil/thumb.jpg?t=1451&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1516,
+      "title": "Strandsone-opprør",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa19031726/4a1f1b94-15.smil/thumb.jpg?t=1541&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1624,
+      "title": "Cuba og USA",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa19031726/4a1f1b94-15.smil/thumb.jpg?t=1649&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1747,
+      "title": "Ambassadør om Cuba",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa19031726/4a1f1b94-15.smil/thumb.jpg?t=1773&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1872,
+      "title": "Direkte: Washington",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa19031726/4a1f1b94-15.smil/thumb.jpg?t=1898&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1918,
+      "title": "Direkte: Ålesund",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa19031726/4a1f1b94-15.smil/thumb.jpg?t=1944&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2013,
+      "title": "Trailer Debatten",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa19031726/4a1f1b94-15.smil/thumb.jpg?t=2038&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2041,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa19031726/4a1f1b94-15.smil/thumb.jpg?t=2066&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2045,
+      "title": "Fotball Mesterliga",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa19031726/4a1f1b94-15.smil/thumb.jpg?t=2070&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2099,
+      "title": "Direkte Bodø",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa19031726/4a1f1b94-15.smil/thumb.jpg?t=2125&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2199,
+      "title": "Fotball Mesterliga",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa19031726/4a1f1b94-15.smil/thumb.jpg?t=2225&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2344,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa19031726/4a1f1b94-15.smil/thumb.jpg?t=2370&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2499,
+      "title": "Brann Ålesund",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa19031726/4a1f1b94-15.smil/thumb.jpg?t=2524&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2517,
+      "title": "Direkte: Ålesund",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa19031726/4a1f1b94-15.smil/thumb.jpg?t=2542&scale=480x270&v=high"
+    }
+  ]
+}
