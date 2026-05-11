@@ -8,6 +8,9 @@ on:
 jobs:
   update-video-feeds:
     runs-on: ubuntu-24.04
+    permissions:
+      contents: write
+      pull-requests: write
     steps:
 
       - name: Checkout repository
@@ -42,9 +45,37 @@ jobs:
             echo "No feed changes; skipping index timestamp update."
           fi
 
-      - name: Auto-commit changes and push
-        uses: stefanzweifel/git-auto-commit-action@v7
-        with:
-          commit_message: "chore(auto): Update video podcast feed(s)"
-          commit_author: Feed Updater <actions@github.com>
-          file_pattern: docs
+      - name: Detect docs changes
+        id: changes
+        run: |
+          if [ -z "$(git status --porcelain docs/)" ]; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "No docs changes; nothing to publish."
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Commit changes on feed branch
+        if: steps.changes.outputs.changed == 'true'
+        env:
+          BRANCH: feed/auto-${{ github.run_id }}
+        run: |
+          git config user.name "Feed Updater"
+          git config user.email "actions@github.com"
+          git checkout -b "$BRANCH"
+          git add docs
+          git commit -m "chore(auto): Update video podcast feed(s)"
+          git push origin "$BRANCH"
+
+      - name: Open PR and enable auto-merge
+        if: steps.changes.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BRANCH: feed/auto-${{ github.run_id }}
+        run: |
+          gh pr create \
+            --base main \
+            --head "$BRANCH" \
+            --title "chore(auto): Update video podcast feed(s)" \
+            --body "Automated hourly feed update."
+          gh pr merge "$BRANCH" --auto --merge --delete-branch
