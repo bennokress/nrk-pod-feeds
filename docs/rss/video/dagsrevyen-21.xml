@@ -8,9 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sun, 10 May 2026 20:42:29 +0000</lastBuildDate>
-    <pubDate>Sun, 10 May 2026 20:57:09 +0200</pubDate>
+    <lastBuildDate>Mon, 11 May 2026 19:05:28 +0000</lastBuildDate>
+    <pubDate>Mon, 11 May 2026 21:00:00 +0200</pubDate>
     <itunes:image href="https://bennokress.github.io/nrk-pod-feeds/assets/images/dagsrevyen-21-square.png" />
+    <item>
+      <title>Lenge til vi får el-fly i trafikk</title>
+      <description>Myndighetene er alt for optimistiske, mener forsker.</description>
+      <guid isPermaLink="false">https://nrk-live-world.akamaized.net/nrk1-aaf-vU1au1fWLnVqaNicCaokqAmqt3StZ!world/muxed.m3u8?adap=small&amp;aco=aac</guid>
+      <enclosure url="https://nrk-live-world.akamaized.net/nrk1-aaf-vU1au1fWLnVqaNicCaokqAmqt3StZ!world/muxed.m3u8?adap=small&amp;aco=aac" length="0" type="application/vnd.apple.mpegurl" />
+      <itunes:duration>09:00</itunes:duration>
+      <pubDate>Mon, 11 May 2026 21:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/hybMSs-riFxmtMXR1G_rMQx5GKy98Ch-_cMDaVSdAy4A" />
+    <podcast:alternateEnclosure type="application/x-mpegURL" length="0" default="true" title="HLS Video Stream"><podcast:source uri="https://nrk-live-world.akamaized.net/nrk1-aaf-vU1au1fWLnVqaNicCaokqAmqt3StZ!world/muxed.m3u8?adap=small&amp;aco=aac" /></podcast:alternateEnclosure><podcast:person role="host" href="https://www.nrk.no">NRK</podcast:person></item>
     <item>
       <title>For sexy</title>
       <description>Jonas Lovv har fått advarsel for sin sceneopptreden. I dag startet ESC-festen.</description>
@@ -92,14 +101,5 @@
       <pubDate>Tue, 28 Apr 2026 20:59:59 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/LA2w9LO_GsggOClDiWp5ygB_P8uoHCfT7k0k1YrWBulw" />
     <psc:chapters version="1.2"><psc:chapter start="0:00" title="Dagsrevyen 21" image="https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa21042826/1701d1fd-17.smil/thumb.jpg?t=25&amp;scale=480x270&amp;v=high" /><psc:chapter start="0:35" title="Holmen død" image="https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa21042826/1701d1fd-17.smil/thumb.jpg?t=61&amp;scale=480x270&amp;v=high" /><psc:chapter start="0:56" title="Direkte:" image="https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa21042826/1701d1fd-17.smil/thumb.jpg?t=81&amp;scale=480x270&amp;v=high" /><psc:chapter start="2:22" title="Direkte:" image="https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa21042826/1701d1fd-17.smil/thumb.jpg?t=167&amp;scale=480x270&amp;v=high" /><psc:chapter start="6:07" title="Frp -utspill" image="https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa21042826/1701d1fd-17.smil/thumb.jpg?t=393&amp;scale=480x270&amp;v=high" /><psc:chapter start="7:14" title="Karpe" image="https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa21042826/1701d1fd-17.smil/thumb.jpg?t=460&amp;scale=480x270&amp;v=high" /><psc:chapter start="8:01" title="Direkte:" image="https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa21042826/1701d1fd-17.smil/thumb.jpg?t=507&amp;scale=480x270&amp;v=high" /><psc:chapter start="9:36" title="Været" image="https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa21042826/1701d1fd-17.smil/thumb.jpg?t=601&amp;scale=480x270&amp;v=high" /><psc:chapter start="10:29" title="AVSLUTT" image="https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa21042826/1701d1fd-17.smil/thumb.jpg?t=648.67&amp;scale=480x270&amp;v=high" /></psc:chapters><podcast:chapters url="https://cdn.jsdelivr.net/gh/bennokress/nrk-pod-feeds@main/docs/chapters/dagsrevyen-21-2026-04-28.json" type="application/json+chapters" /><podcast:alternateEnclosure type="application/x-mpegURL" length="0" default="true" title="HLS Video Stream"><podcast:source uri="https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa21042826/1701d1fd-17.smil/muxed.m3u8?adap=small&amp;s=0&amp;aco=aac" /></podcast:alternateEnclosure><podcast:person role="host" href="https://www.nrk.no">NRK</podcast:person></item>
-    <item>
-      <title>Samarbeider om gigantisk klimakutt</title>
-      <description>Elkem og Enova vil sammen kutte én prosent av Norges samlede Co2-utslipp.</description>
-      <guid isPermaLink="false">https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa21042726/e3277f96-14.smil/muxed.m3u8?adap=small&amp;s=0&amp;aco=aac</guid>
-      <enclosure url="https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa21042726/e3277f96-14.smil/muxed.m3u8?adap=small&amp;s=0&amp;aco=aac" length="0" type="application/vnd.apple.mpegurl" />
-      <itunes:duration>09:09</itunes:duration>
-      <pubDate>Mon, 27 Apr 2026 21:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/uydqOsoLEDgmMY76e1izkAGL_U28xHq32iNW0X82q9Bw" />
-    <psc:chapters version="1.2"><psc:chapter start="0:00" title="Dagsrevyen 21" image="https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa21042726/e3277f96-14.smil/thumb.jpg?t=25&amp;scale=480x270&amp;v=high" /><psc:chapter start="0:31" title="Elkem og enova samarbeider om stort klimagasskutt" image="https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa21042726/e3277f96-14.smil/thumb.jpg?t=57&amp;scale=480x270&amp;v=high" /><psc:chapter start="2:16" title="Gjeldsproblemer og selvmord" image="https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa21042726/e3277f96-14.smil/thumb.jpg?t=161&amp;scale=480x270&amp;v=high" /><psc:chapter start="4:14" title="DAGSREVYPAKKE" image="https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa21042726/e3277f96-14.smil/thumb.jpg?t=279&amp;scale=480x270&amp;v=high" /><psc:chapter start="6:06" title="25 års-markering av Equinor på børsen" image="https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa21042726/e3277f96-14.smil/thumb.jpg?t=391&amp;scale=480x270&amp;v=high" /><psc:chapter start="7:59" title="Været" image="https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa21042726/e3277f96-14.smil/thumb.jpg?t=504&amp;scale=480x270&amp;v=high" /><psc:chapter start="8:50" title="AVSLUTT" image="https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa21042726/e3277f96-14.smil/thumb.jpg?t=549.76&amp;scale=480x270&amp;v=high" /></psc:chapters><podcast:chapters url="https://cdn.jsdelivr.net/gh/bennokress/nrk-pod-feeds@main/docs/chapters/dagsrevyen-21-2026-04-27.json" type="application/json+chapters" /><podcast:alternateEnclosure type="application/x-mpegURL" length="0" default="true" title="HLS Video Stream"><podcast:source uri="https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa21042726/e3277f96-14.smil/muxed.m3u8?adap=small&amp;s=0&amp;aco=aac" /></podcast:alternateEnclosure><podcast:person role="host" href="https://www.nrk.no">NRK</podcast:person></item>
   <podcast:guid>5495f966-7c31-501b-8eca-3ddc788e4954</podcast:guid><podcast:locked>yes</podcast:locked><podcast:medium>video</podcast:medium><podcast:person role="host" href="https://www.nrk.no">NRK</podcast:person><itunes:author>NRK</itunes:author><itunes:category text="News" /></channel>
 </rss>
