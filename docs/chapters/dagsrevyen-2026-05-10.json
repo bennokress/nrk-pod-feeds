@@ -1,0 +1,158 @@
+{
+  "version": "1.2.0",
+  "title": "Endelig evakuert",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa20051026/5c91fb42-16.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 54,
+      "title": "Hantavirus",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa20051026/5c91fb42-16.smil/thumb.jpg?t=80&scale=480x270&v=high"
+    },
+    {
+      "startTime": 68,
+      "title": "Direkte: Tenerife",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa20051026/5c91fb42-16.smil/thumb.jpg?t=94&scale=480x270&v=high"
+    },
+    {
+      "startTime": 118,
+      "title": "Hantavirus",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa20051026/5c91fb42-16.smil/thumb.jpg?t=143&scale=480x270&v=high"
+    },
+    {
+      "startTime": 213,
+      "title": "Direkte: Tenerife",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa20051026/5c91fb42-16.smil/thumb.jpg?t=239&scale=480x270&v=high"
+    },
+    {
+      "startTime": 268,
+      "title": "Hantavirus",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa20051026/5c91fb42-16.smil/thumb.jpg?t=293&scale=480x270&v=high"
+    },
+    {
+      "startTime": 357,
+      "title": "Revidert nasjonalbudsjett",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa20051026/5c91fb42-16.smil/thumb.jpg?t=383&scale=480x270&v=high"
+    },
+    {
+      "startTime": 503,
+      "title": "Anja Breien død",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa20051026/5c91fb42-16.smil/thumb.jpg?t=529&scale=480x270&v=high"
+    },
+    {
+      "startTime": 594,
+      "title": "Gjest",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa20051026/5c91fb42-16.smil/thumb.jpg?t=619&scale=480x270&v=high"
+    },
+    {
+      "startTime": 754,
+      "title": "Anja Breien melding",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa20051026/5c91fb42-16.smil/thumb.jpg?t=780&scale=480x270&v=high"
+    },
+    {
+      "startTime": 771,
+      "title": "Utenriksnyheter",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa20051026/5c91fb42-16.smil/thumb.jpg?t=796&scale=480x270&v=high"
+    },
+    {
+      "startTime": 863,
+      "title": "Direkte: London",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa20051026/5c91fb42-16.smil/thumb.jpg?t=889&scale=480x270&v=high"
+    },
+    {
+      "startTime": 969,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa20051026/5c91fb42-16.smil/thumb.jpg?t=995&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1039,
+      "title": "Kuslipp",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa20051026/5c91fb42-16.smil/thumb.jpg?t=1064&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1186,
+      "title": "Nedgangstider i Russland",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa20051026/5c91fb42-16.smil/thumb.jpg?t=1212&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1538,
+      "title": "Selvforsyning i Kina",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa20051026/5c91fb42-16.smil/thumb.jpg?t=1563&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1940,
+      "title": "Turister ved Svartehavet",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa20051026/5c91fb42-16.smil/thumb.jpg?t=1966&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2242,
+      "title": "RBK-Lillestrøm",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa20051026/5c91fb42-16.smil/thumb.jpg?t=2268&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2316,
+      "title": "Tromsø-Molde",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa20051026/5c91fb42-16.smil/thumb.jpg?t=2342&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2373,
+      "title": "Kfum-Viking",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa20051026/5c91fb42-16.smil/thumb.jpg?t=2399&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2412,
+      "title": "Sandefjord-KBK",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa20051026/5c91fb42-16.smil/thumb.jpg?t=2437&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2431,
+      "title": "Strømmen-Hødd",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa20051026/5c91fb42-16.smil/thumb.jpg?t=2456&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2457,
+      "title": "Premier League",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa20051026/5c91fb42-16.smil/thumb.jpg?t=2483&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2526,
+      "title": "Tennis",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa20051026/5c91fb42-16.smil/thumb.jpg?t=2552&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2569,
+      "title": "Giro D Italia",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa20051026/5c91fb42-16.smil/thumb.jpg?t=2594&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2591,
+      "title": "Reitan ut PGA",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa20051026/5c91fb42-16.smil/thumb.jpg?t=2616&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2620,
+      "title": "Hest",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa20051026/5c91fb42-16.smil/thumb.jpg?t=2645&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2725,
+      "title": "Born to Play",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa20051026/5c91fb42-16.smil/thumb.jpg?t=2750&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2847,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa20051026/5c91fb42-16.smil/thumb.jpg?t=2872&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3006,
+      "title": "Eurovision",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa20051026/5c91fb42-16.smil/thumb.jpg?t=3032&scale=480x270&v=high"
+    }
+  ]
+}
