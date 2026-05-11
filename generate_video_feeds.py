@@ -775,7 +775,7 @@ def _run_personal_overlay_if_configured():
         episode_metadata.clear()
 
         feed = get_video_feed(
-            source_series, None, tmpdir, ep_count=3,
+            source_series, None, tmpdir, ep_count=5,
             mp4_enabled=True,
             bunny_prefix=prefix,
             cdn_base=cdn_base,
