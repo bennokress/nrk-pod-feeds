@@ -1,0 +1,98 @@
+{
+  "version": "1.2.0",
+  "title": "Reitan storspiller",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 34,
+      "title": "Trump om Iran",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa23051026/05644cf3-7.smil/thumb.jpg?t=60&scale=480x270&v=high"
+    },
+    {
+      "startTime": 59,
+      "title": "Hantaviruset",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa23051026/05644cf3-7.smil/thumb.jpg?t=84&scale=480x270&v=high"
+    },
+    {
+      "startTime": 89,
+      "title": "Krigen i Ukraina",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa23051026/05644cf3-7.smil/thumb.jpg?t=115&scale=480x270&v=high"
+    },
+    {
+      "startTime": 136,
+      "title": "Gaza",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa23051026/05644cf3-7.smil/thumb.jpg?t=162&scale=480x270&v=high"
+    },
+    {
+      "startTime": 204,
+      "title": "Demonstrasjon",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa23051026/05644cf3-7.smil/thumb.jpg?t=230&scale=480x270&v=high"
+    },
+    {
+      "startTime": 226,
+      "title": "Politifolk drept",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa23051026/05644cf3-7.smil/thumb.jpg?t=251&scale=480x270&v=high"
+    },
+    {
+      "startTime": 252,
+      "title": "Breien død",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa23051026/05644cf3-7.smil/thumb.jpg?t=277&scale=480x270&v=high"
+    },
+    {
+      "startTime": 304,
+      "title": "Anja Breien melding",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa23051026/05644cf3-7.smil/thumb.jpg?t=329&scale=480x270&v=high"
+    },
+    {
+      "startTime": 323,
+      "title": "Nettpromo",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa23051026/05644cf3-7.smil/thumb.jpg?t=349&scale=480x270&v=high"
+    },
+    {
+      "startTime": 336,
+      "title": "Jonas Lovv må tone ned Eurovision-opptredenen",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa23051026/05644cf3-7.smil/thumb.jpg?t=362&scale=480x270&v=high"
+    },
+    {
+      "startTime": 447,
+      "title": "Reitan imponerer",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa23051026/05644cf3-7.smil/thumb.jpg?t=473&scale=480x270&v=high"
+    },
+    {
+      "startTime": 505,
+      "title": "Gjest:",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa23051026/05644cf3-7.smil/thumb.jpg?t=530&scale=480x270&v=high"
+    },
+    {
+      "startTime": 571,
+      "title": "Barcelona blir seriemeistrar i EL Classico mot Real Madrid",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa23051026/05644cf3-7.smil/thumb.jpg?t=596&scale=480x270&v=high"
+    },
+    {
+      "startTime": 649,
+      "title": "Rar verdensrekord",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa23051026/05644cf3-7.smil/thumb.jpg?t=674&scale=480x270&v=high"
+    },
+    {
+      "startTime": 675,
+      "title": "Kuslipp Bygdøy",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa23051026/05644cf3-7.smil/thumb.jpg?t=701&scale=480x270&v=high"
+    },
+    {
+      "startTime": 703,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa23051026/05644cf3-7.smil/thumb.jpg?t=728&scale=480x270&v=high"
+    },
+    {
+      "startTime": 765,
+      "title": "Golf",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa23051026/05644cf3-7.smil/thumb.jpg?t=790&scale=480x270&v=high"
+    },
+    {
+      "startTime": 797,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa23051026/05644cf3-7.smil/thumb.jpg?t=814.6&scale=480x270&v=high"
+    }
+  ]
+}
