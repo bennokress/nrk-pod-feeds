@@ -115,6 +115,72 @@ def test_get_hls_stream_url_handles_none():
     assert tvapi.get_hls_stream_url({"playable": None}) is None
 
 
+def test_get_subtitles_handles_missing_manifest():
+    assert tvapi.get_subtitles(None) == []
+    assert tvapi.get_subtitles({}) == []
+    assert tvapi.get_subtitles({"playable": None}) == []
+    assert tvapi.get_subtitles({"playable": {}}) == []
+    assert tvapi.get_subtitles({"playable": {"subtitles": []}}) == []
+
+
+def test_get_subtitles_returns_forced_and_full_for_recent_episode():
+    """Live call: a recent dagsrevyen-for-utlandet episode exposes both
+    Norwegian subtitle tracks (forced + full SDH)."""
+    instalments = tvapi.get_latest_instalments(
+        "dagsrevyen-for-utlandet", limit=1, playable_only=True
+    )
+    assert instalments
+
+    program_id = instalments[0]["prfId"]
+    manifest = tvapi.get_program_manifest(program_id)
+    assert manifest
+
+    subs = tvapi.get_subtitles(manifest)
+    assert len(subs) >= 1
+
+    types = [s["type"] for s in subs]
+    # Forced track ('nor') should come first per the default ordering.
+    assert types[0] == "nor"
+    if "ttv" in types:
+        assert types.index("nor") < types.index("ttv")
+
+    for s in subs:
+        assert s["webVtt"].startswith("https://")
+        assert s["language"] == "nb"
+        assert s["label"]
+
+
+def test_get_subtitles_respects_types_filter_and_ordering():
+    fake_manifest = {
+        "playable": {
+            "subtitles": [
+                {"type": "ttv", "language": "nb", "label": "Full",
+                 "webVtt": "https://example/full.vtt", "defaultOn": True},
+                {"type": "nor", "language": "nb", "label": "Forced",
+                 "webVtt": "https://example/forced.vtt", "defaultOn": False},
+                {"type": "eng", "language": "en", "label": "English",
+                 "webVtt": "https://example/en.vtt", "defaultOn": False},
+            ]
+        }
+    }
+
+    # Default filter: nor (forced) before ttv (full); eng excluded
+    subs = tvapi.get_subtitles(fake_manifest)
+    assert [s["type"] for s in subs] == ["nor", "ttv"]
+
+    # Custom filter
+    subs = tvapi.get_subtitles(fake_manifest, types=("ttv",))
+    assert [s["type"] for s in subs] == ["ttv"]
+    assert subs[0]["default_on"] is True
+
+    # Entries without webVtt URL are dropped
+    fake_manifest["playable"]["subtitles"].append(
+        {"type": "noo", "language": "nb", "label": "X", "webVtt": ""}
+    )
+    subs = tvapi.get_subtitles(fake_manifest, types=("noo",))
+    assert subs == []
+
+
 def test_get_series_title():
     series_id = "dagsrevyen-21"
 
