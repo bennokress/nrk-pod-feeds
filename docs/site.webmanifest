@@ -1,0 +1,15 @@
+{
+  "name": "Nyheter, on demand.",
+  "short_name": "Nyheter",
+  "description": "NRK's news programmes as auto-refreshed Podcasting 2.0 video feeds.",
+  "start_url": "/nrk-pod-feeds/",
+  "scope": "/nrk-pod-feeds/",
+  "display": "browser",
+  "theme_color": "#114f9d",
+  "background_color": "#eef5ff",
+  "icons": [
+    { "src": "assets/favicons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "assets/favicons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "assets/favicons/icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
