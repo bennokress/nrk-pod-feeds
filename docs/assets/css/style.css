@@ -210,14 +210,28 @@ a:hover {
 }
 
 .dispatch__cover-link {
+    position: relative;
     display: block;
+    width: 320px;
+    padding: 0;
+    margin: 0;
+    border: 0;
+    background: transparent;
+    color: inherit;
+    font: inherit;
     text-decoration: none;
     overflow: hidden;
+    cursor: pointer;
+}
+
+.dispatch__cover-link:focus-visible {
+    outline: 2px solid var(--fg);
+    outline-offset: 4px;
 }
 
 .dispatch__cover {
     display: block;
-    width: 320px;
+    width: 100%;
     aspect-ratio: 16 / 9;
     height: auto;
     object-fit: cover;
@@ -226,9 +240,159 @@ a:hover {
     filter: saturate(0.92) contrast(1.02);
 }
 
-.dispatch__cover-link:hover .dispatch__cover {
+.dispatch__cover-link:hover .dispatch__cover,
+.dispatch__cover-link:focus-visible .dispatch__cover {
     transform: scale(1.025);
     filter: saturate(1.05) contrast(1.05);
+}
+
+/* Bottom-edge caption ribbon — the cover's affordance in the page's own
+   small-caps + chevron vocabulary. Slides up on hover/focus/loading. */
+.dispatch__play {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    display: inline-flex;
+    align-items: baseline;
+    gap: 0.4em;
+    padding: var(--s-1) var(--s-2);
+    background: var(--accent);
+    color: var(--bg);
+    font-variant-caps: all-small-caps;
+    letter-spacing: 0.13em;
+    font-size: 0.78rem;
+    font-variation-settings: "opsz" 9, "wght" 600;
+    transform: translateY(100%);
+    pointer-events: none;
+    transition: transform 0.35s cubic-bezier(0.2, 0.8, 0.2, 1);
+}
+
+.dispatch__play-arrow {
+    flex-shrink: 0;
+    /* Same optical lift as .action__arrow — the › glyph sits low against caps */
+    transform: translateY(-0.08em);
+}
+
+.dispatch__cover-link:hover .dispatch__play,
+.dispatch__cover-link:focus-visible .dispatch__play,
+.dispatch__cover-link.is-loading .dispatch__play {
+    transform: translateY(0);
+}
+
+/* Touch devices — replace the hover-revealed ribbon with the classic
+   centered play disc. The ribbon assumes a hover state that doesn't
+   exist on touch, and an always-visible ribbon competes with the cover. */
+.dispatch__play-touch {
+    display: none;
+}
+
+@media (hover: none) {
+    .dispatch__play {
+        display: none;
+    }
+    .dispatch__play-touch {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        width: 56px;
+        height: 56px;
+        transform: translate(-50%, -50%);
+        display: grid;
+        place-items: center;
+        /* Frosted-glass overlay — the touch context is platform-native, where
+           translucent discs are the long-standing convention for play
+           affordances on video thumbnails. Tint and glyph both follow the
+           page surface tokens, so the disc flips with prefers-color-scheme:
+           milky-light in light mode, smoked-dark in dark mode. The blur
+           preserves disc shape even at very low tint opacity. */
+        background: color-mix(in oklch, var(--bg) 20%, transparent);
+        backdrop-filter: blur(12px);
+        -webkit-backdrop-filter: blur(12px);
+        color: var(--fg);
+        border-radius: 50%;
+    }
+    .dispatch__play-touch svg {
+        width: 39px;
+        height: 39px;
+        fill: currentColor;
+        /* Optical center — the play triangle's centroid sits ~0.33 viewBox
+           units left of the bbox center; nudge right just enough to land it
+           on the SVG's geometric centre. */
+        transform: translateX(1px);
+    }
+}
+
+.dispatch__player {
+    position: relative;
+    display: block;
+    width: 320px;
+    aspect-ratio: 16 / 9;
+    background: var(--fg);
+    overflow: hidden;
+}
+
+.dispatch__video {
+    display: block;
+    width: 100%;
+    height: 100%;
+    background: var(--fg);
+}
+
+.dispatch__close {
+    position: absolute;
+    top: var(--s-1);
+    right: var(--s-1);
+    width: 28px;
+    height: 28px;
+    border: 0;
+    border-radius: 3px;
+    background: var(--accent);
+    color: var(--bg);
+    font: inherit;
+    font-size: 18px;
+    line-height: 1;
+    cursor: pointer;
+    display: grid;
+    place-items: center;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.2s ease, background 0.15s ease;
+    z-index: 2;
+}
+
+.dispatch__player:hover .dispatch__close,
+.dispatch__close:focus {
+    opacity: 1;
+    pointer-events: auto;
+}
+
+.dispatch__close:hover,
+.dispatch__close:focus-visible {
+    background: var(--accent-strong);
+    outline: none;
+}
+
+@media (hover: none) {
+    .dispatch__close {
+        opacity: 1;
+        pointer-events: auto;
+    }
+}
+
+.dispatch__error {
+    position: absolute;
+    inset: 0;
+    display: grid;
+    place-items: center;
+    padding: var(--s-3);
+    text-align: center;
+    background: var(--accent);
+    color: var(--bg);
+    font-style: italic;
+    font-size: 0.98rem;
+    line-height: 1.4;
+    font-variation-settings: "opsz" 12, "wght" 400;
 }
 
 .dispatch__body {
@@ -402,6 +566,11 @@ a:hover {
         gap: var(--s-3);
     }
 
+    .dispatch__cover-link,
+    .dispatch__player {
+        width: 100%;
+    }
+
     .dispatch__cover {
         width: 100%;
         height: auto;
@@ -415,7 +584,8 @@ a:hover {
         transition: none !important;
         animation: none !important;
     }
-    .dispatch__cover-link:hover .dispatch__cover {
+    .dispatch__cover-link:hover .dispatch__cover,
+    .dispatch__cover-link:focus-visible .dispatch__cover {
         transform: none;
     }
 }
