@@ -1,0 +1,303 @@
+{
+  "version": "1.2.0",
+  "title": "Nytt drivstoff-drama",
+  "author": "NRK",
+  "podcastName": "Nyhetsmorgen",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Åpning 06:30",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa05043026/f7ba107b-15.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 84,
+      "title": "KrFU peker på Listhaug",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa05043026/f7ba107b-15.smil/thumb.jpg?t=110&scale=480x270&v=high"
+    },
+    {
+      "startTime": 130,
+      "title": "Strid om 1. mai-parole",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa05043026/f7ba107b-15.smil/thumb.jpg?t=155&scale=480x270&v=high"
+    },
+    {
+      "startTime": 309,
+      "title": "DKBU Folk på gata om 1. mai",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa05043026/f7ba107b-15.smil/thumb.jpg?t=334&scale=480x270&v=high"
+    },
+    {
+      "startTime": 496,
+      "title": "DIR Oljeprisen stiger",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa05043026/f7ba107b-15.smil/thumb.jpg?t=522&scale=480x270&v=high"
+    },
+    {
+      "startTime": 642,
+      "title": "DKIN Utbygging Hafjell skaper konflikt",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa05043026/f7ba107b-15.smil/thumb.jpg?t=667&scale=480x270&v=high"
+    },
+    {
+      "startTime": 820,
+      "title": "GJEST: Krangel om arven etter Hendrix",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa05043026/f7ba107b-15.smil/thumb.jpg?t=845&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1026,
+      "title": "Fotoråd i barneidretten",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa05043026/f7ba107b-15.smil/thumb.jpg?t=1052&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1162,
+      "title": "Premiere på «The Devil Wears Prada 2»",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa05043026/f7ba107b-15.smil/thumb.jpg?t=1188&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1379,
+      "title": "Artister om Karpe",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa05043026/f7ba107b-15.smil/thumb.jpg?t=1404&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1528,
+      "title": "DKHO Bøndene får hjelp av omreisende bier",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa05043026/f7ba107b-15.smil/thumb.jpg?t=1554&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1766,
+      "title": "TR Utro, håp og kjærlighet",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa05043026/f7ba107b-15.smil/thumb.jpg?t=1791&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1870,
+      "title": "Avgiftsdrama",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa05043026/f7ba107b-15.smil/thumb.jpg?t=1895&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2179,
+      "title": "GJEST Drivstoffdrama i Polkvart",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa05043026/f7ba107b-15.smil/thumb.jpg?t=2205&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2224,
+      "title": "Kosovo og Gaza",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa05043026/f7ba107b-15.smil/thumb.jpg?t=2250&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2391,
+      "title": "DIREKTE Fredsplan for Gaza",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa05043026/f7ba107b-15.smil/thumb.jpg?t=2416&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2580,
+      "title": "Topper 07:15",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa05043026/f7ba107b-15.smil/thumb.jpg?t=2605&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2628,
+      "title": "KrFU peker på Listhaug",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa05043026/f7ba107b-15.smil/thumb.jpg?t=2653&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2762,
+      "title": "GJESTER Unge og sommerjobb",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa05043026/f7ba107b-15.smil/thumb.jpg?t=2788&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3276,
+      "title": "Oljeprisen stiger",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa05043026/f7ba107b-15.smil/thumb.jpg?t=3301&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3332,
+      "title": "DKIN Har venta på asylintervju i tre år",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa05043026/f7ba107b-15.smil/thumb.jpg?t=3357&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3569,
+      "title": "Hele historien: Helikopterstyrten",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa05043026/f7ba107b-15.smil/thumb.jpg?t=3594&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3600,
+      "title": "Topper 07:30",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa05043026/f7ba107b-15.smil/thumb.jpg?t=3625&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3626,
+      "title": "Avgiftsdrama",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa05043026/f7ba107b-15.smil/thumb.jpg?t=3651&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3747,
+      "title": "GJEST Avgiftsdrama",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa05043026/f7ba107b-15.smil/thumb.jpg?t=3772&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3799,
+      "title": "Oljeprisen over 125 dollar fatet",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa05043026/f7ba107b-15.smil/thumb.jpg?t=3825&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3825,
+      "title": "KrFU peker på Listhaug",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa05043026/f7ba107b-15.smil/thumb.jpg?t=3850&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3933,
+      "title": "DKTR Forsvaret ønsker å bedre fysisk form",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa05043026/f7ba107b-15.smil/thumb.jpg?t=3958&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4007,
+      "title": "GJEST Varsler høysommervarme sørpå",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa05043026/f7ba107b-15.smil/thumb.jpg?t=4032&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4108,
+      "title": "Kong Carl Gustaf 80 år",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa05043026/f7ba107b-15.smil/thumb.jpg?t=4133&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4154,
+      "title": "Siste frist for skattemeldinga",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa05043026/f7ba107b-15.smil/thumb.jpg?t=4180&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4199,
+      "title": "Åpning 07:40",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa05043026/f7ba107b-15.smil/thumb.jpg?t=4225&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4213,
+      "title": "DKBU Sommerjobbsentralen",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa05043026/f7ba107b-15.smil/thumb.jpg?t=4238&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5400,
+      "title": "NRK Nyheter 08:00",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa05043026/f7ba107b-15.smil/thumb.jpg?t=5425&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5581,
+      "title": "Åpning 08:03",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa05043026/f7ba107b-15.smil/thumb.jpg?t=5607&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5656,
+      "title": "GJEST Kommentator om avgiftsdrama",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa05043026/f7ba107b-15.smil/thumb.jpg?t=5682&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5885,
+      "title": "KrFU peker på Listhaug",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa05043026/f7ba107b-15.smil/thumb.jpg?t=5911&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6033,
+      "title": "DIREKTE Kina blokkerer Meta-oppkjøp",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa05043026/f7ba107b-15.smil/thumb.jpg?t=6059&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6273,
+      "title": "Topper 08:15",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa05043026/f7ba107b-15.smil/thumb.jpg?t=6298&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6312,
+      "title": "DIREKTE Kan man stole på samfunnsforskning?",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa05043026/f7ba107b-15.smil/thumb.jpg?t=6338&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6558,
+      "title": "Kong Carl Gustaf 80 år",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa05043026/f7ba107b-15.smil/thumb.jpg?t=6584&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6731,
+      "title": "DIREKTE Kong Carl Gustaf 80 år",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa05043026/f7ba107b-15.smil/thumb.jpg?t=6756&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6974,
+      "title": "DKTR Forsvaret ønsker å bedre fysisk form",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa05043026/f7ba107b-15.smil/thumb.jpg?t=7000&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7186,
+      "title": "Mellomtopper",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa05043026/f7ba107b-15.smil/thumb.jpg?t=7211&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7242,
+      "title": "DIREKTE Oljeprisen stiger",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa05043026/f7ba107b-15.smil/thumb.jpg?t=7267&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7425,
+      "title": "Pol.Kvart Avgiftsdrama",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa05043026/f7ba107b-15.smil/thumb.jpg?t=7450&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7650,
+      "title": "Fotoråd i barneidretten",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa05043026/f7ba107b-15.smil/thumb.jpg?t=7675&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7802,
+      "title": "ENQUETE Unge mellom vgs og studier",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa05043026/f7ba107b-15.smil/thumb.jpg?t=7828&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8133,
+      "title": "DIREKTE Før Ekko i NRK P2",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa05043026/f7ba107b-15.smil/thumb.jpg?t=8158&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8173,
+      "title": "Topper 08:45",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa05043026/f7ba107b-15.smil/thumb.jpg?t=8199&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8179,
+      "title": "Kosovo og Gaza",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa05043026/f7ba107b-15.smil/thumb.jpg?t=8204&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8185,
+      "title": "Topper 08:45",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa05043026/f7ba107b-15.smil/thumb.jpg?t=8211&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8237,
+      "title": "Kosovo og Gaza",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa05043026/f7ba107b-15.smil/thumb.jpg?t=8263&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8336,
+      "title": "Gaza gjenoppbygging",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa05043026/f7ba107b-15.smil/thumb.jpg?t=8361&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8418,
+      "title": "Filmanmeldelse:«The Devil Wears Prada 2»",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa05043026/f7ba107b-15.smil/thumb.jpg?t=8444&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8636,
+      "title": "Strid om 1. mai-parole",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa05043026/f7ba107b-15.smil/thumb.jpg?t=8661&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8778,
+      "title": "DKBU Folk på gata om 1.mai",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa05043026/f7ba107b-15.smil/thumb.jpg?t=8804&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8905,
+      "title": "GJEST Været i dag",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa05043026/f7ba107b-15.smil/thumb.jpg?t=8930&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8994,
+      "title": "Avslutning",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa05043026/f7ba107b-15.smil/thumb.jpg?t=9003.16&scale=480x270&v=high"
+    }
+  ]
+}

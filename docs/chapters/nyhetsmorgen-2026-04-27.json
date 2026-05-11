@@ -1,0 +1,288 @@
+{
+  "version": "1.2.0",
+  "title": "Gjeldsproblemer og selvmord",
+  "author": "NRK",
+  "podcastName": "Nyhetsmorgen",
+  "chapters": [
+    {
+      "startTime": 3,
+      "title": "Åpning 06:30",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa05042726/eeb85eda-14.smil/thumb.jpg?t=28&scale=480x270&v=high"
+    },
+    {
+      "startTime": 93,
+      "title": "GJEST- Motivet til gjerningsmann i USA",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa05042726/eeb85eda-14.smil/thumb.jpg?t=119&scale=480x270&v=high"
+    },
+    {
+      "startTime": 306,
+      "title": "Gjeld og selvmord",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa05042726/eeb85eda-14.smil/thumb.jpg?t=332&scale=480x270&v=high"
+    },
+    {
+      "startTime": 400,
+      "title": "Siste nytt",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa05042726/eeb85eda-14.smil/thumb.jpg?t=426&scale=480x270&v=high"
+    },
+    {
+      "startTime": 516,
+      "title": "GJEST Skogbrann i Fitjar",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa05042726/eeb85eda-14.smil/thumb.jpg?t=541&scale=480x270&v=high"
+    },
+    {
+      "startTime": 653,
+      "title": "Basketfeber i Bergen",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa05042726/eeb85eda-14.smil/thumb.jpg?t=679&scale=480x270&v=high"
+    },
+    {
+      "startTime": 841,
+      "title": "Topper 06:45",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa05042726/eeb85eda-14.smil/thumb.jpg?t=867&scale=480x270&v=high"
+    },
+    {
+      "startTime": 920,
+      "title": "GJEST «77 historier»",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa05042726/eeb85eda-14.smil/thumb.jpg?t=945&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1249,
+      "title": "Jordskjelv og beredskap",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa05042726/eeb85eda-14.smil/thumb.jpg?t=1274&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1368,
+      "title": "GJEST: Anm. av En tornefull dans",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa05042726/eeb85eda-14.smil/thumb.jpg?t=1394&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1588,
+      "title": "DKTR Trøblete toalettvaner",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa05042726/eeb85eda-14.smil/thumb.jpg?t=1614&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1801,
+      "title": "Åpning 07:00",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa05042726/eeb85eda-14.smil/thumb.jpg?t=1827&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1893,
+      "title": "Gjeld og selvmord",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa05042726/eeb85eda-14.smil/thumb.jpg?t=1918&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2087,
+      "title": "GJEST Dødstatistikk for 2025",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa05042726/eeb85eda-14.smil/thumb.jpg?t=2113&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2303,
+      "title": "Trump om gjerningsmannen",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa05042726/eeb85eda-14.smil/thumb.jpg?t=2328&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2350,
+      "title": "GJEST Attentatforsøk mot Donald Trump",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa05042726/eeb85eda-14.smil/thumb.jpg?t=2376&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2634,
+      "title": "Topper 07:15",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa05042726/eeb85eda-14.smil/thumb.jpg?t=2660&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2683,
+      "title": "GJEST Før Politisk kvarter",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa05042726/eeb85eda-14.smil/thumb.jpg?t=2708&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2734,
+      "title": "GJEST Skogbrann i Fitjar",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa05042726/eeb85eda-14.smil/thumb.jpg?t=2760&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2866,
+      "title": "GJEST Hvor farlig er brannrøyk?",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa05042726/eeb85eda-14.smil/thumb.jpg?t=2892&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3155,
+      "title": "GJEST Utfasing av olje og gass",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa05042726/eeb85eda-14.smil/thumb.jpg?t=3180&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3354,
+      "title": "DKØS Kvikksølvfunn bekymrer i Sverige",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa05042726/eeb85eda-14.smil/thumb.jpg?t=3379&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3566,
+      "title": "Teasing dagens sending",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa05042726/eeb85eda-14.smil/thumb.jpg?t=3592&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3600,
+      "title": "Topper 07:30",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa05042726/eeb85eda-14.smil/thumb.jpg?t=3626&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3624,
+      "title": "Gjeld og selvmord",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa05042726/eeb85eda-14.smil/thumb.jpg?t=3650&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3748,
+      "title": "FHIs dødsårsaksrapport",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa05042726/eeb85eda-14.smil/thumb.jpg?t=3774&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3807,
+      "title": "Kontroll skogbrann Fitjar",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa05042726/eeb85eda-14.smil/thumb.jpg?t=3832&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3827,
+      "title": "GJEST Motiv attentatforsøk",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa05042726/eeb85eda-14.smil/thumb.jpg?t=3852&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3922,
+      "title": "Jordskjelv og beredskap",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa05042726/eeb85eda-14.smil/thumb.jpg?t=3948&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4036,
+      "title": "DKRO Analogt trender digitalt",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa05042726/eeb85eda-14.smil/thumb.jpg?t=4061&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4168,
+      "title": "Rekordlang tiramisu",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa05042726/eeb85eda-14.smil/thumb.jpg?t=4194&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4200,
+      "title": "Åpning 07:40",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa05042726/eeb85eda-14.smil/thumb.jpg?t=4225&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4222,
+      "title": "GJEST Gjeld og selvmord",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa05042726/eeb85eda-14.smil/thumb.jpg?t=4248&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4490,
+      "title": "Overgang til Politisk kvarter",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa05042726/eeb85eda-14.smil/thumb.jpg?t=4515&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5400,
+      "title": "NRK Nyheter 08:00",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa05042726/eeb85eda-14.smil/thumb.jpg?t=5426&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5580,
+      "title": "Åpning 08:03",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa05042726/eeb85eda-14.smil/thumb.jpg?t=5605&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5645,
+      "title": "Gjeld og selvmord",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa05042726/eeb85eda-14.smil/thumb.jpg?t=5670&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5841,
+      "title": "GJEST: Gjeldsoffer-Alliansen",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa05042726/eeb85eda-14.smil/thumb.jpg?t=5866&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6149,
+      "title": "Store angrep i Mali",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa05042726/eeb85eda-14.smil/thumb.jpg?t=6175&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6335,
+      "title": "Topper 08:15",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa05042726/eeb85eda-14.smil/thumb.jpg?t=6360&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6399,
+      "title": "DIREKTE Skudd ved fotballbane i Oslo",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa05042726/eeb85eda-14.smil/thumb.jpg?t=6425&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6625,
+      "title": "DIREKTE Markering Oslo Børs",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa05042726/eeb85eda-14.smil/thumb.jpg?t=6650&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6778,
+      "title": "Mandagspanelet",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa05042726/eeb85eda-14.smil/thumb.jpg?t=6803&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7288,
+      "title": "Mellomtopper",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa05042726/eeb85eda-14.smil/thumb.jpg?t=7314&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7342,
+      "title": "GJEST Iran har gitt USA nytt forslag",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa05042726/eeb85eda-14.smil/thumb.jpg?t=7367&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7487,
+      "title": "DIR Britisk statsbesøk til USA",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa05042726/eeb85eda-14.smil/thumb.jpg?t=7513&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7819,
+      "title": "Jordskjelv og beredskap",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa05042726/eeb85eda-14.smil/thumb.jpg?t=7845&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8014,
+      "title": "GJEST Havnå innrømmer gammelt ran",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa05042726/eeb85eda-14.smil/thumb.jpg?t=8039&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8183,
+      "title": "DIREKTE Før Ekko i NRK P2",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa05042726/eeb85eda-14.smil/thumb.jpg?t=8208&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8214,
+      "title": "Topper 08:45",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa05042726/eeb85eda-14.smil/thumb.jpg?t=8240&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8284,
+      "title": "MDG garantist for Støre?",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa05042726/eeb85eda-14.smil/thumb.jpg?t=8310&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8462,
+      "title": "DKSL Kosehund mot eksamensnerver",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa05042726/eeb85eda-14.smil/thumb.jpg?t=8488&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8564,
+      "title": "DKRO Analogt trender digitalt",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa05042726/eeb85eda-14.smil/thumb.jpg?t=8589&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8674,
+      "title": "DKHO Alec Luhn tilbake for å takke",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa05042726/eeb85eda-14.smil/thumb.jpg?t=8699&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8907,
+      "title": "GJEST Været i dag",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa05042726/eeb85eda-14.smil/thumb.jpg?t=8932&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8991,
+      "title": "Avslutning",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa05042726/eeb85eda-14.smil/thumb.jpg?t=9003.32&scale=480x270&v=high"
+    }
+  ]
+}

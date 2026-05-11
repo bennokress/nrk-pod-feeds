@@ -1,0 +1,313 @@
+{
+  "version": "1.2.0",
+  "title": "Høiby får svar om hjemmesoning",
+  "author": "NRK",
+  "podcastName": "Nyhetsmorgen",
+  "chapters": [
+    {
+      "startTime": 10,
+      "title": "Åpning 06:30",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa05050626/896e16d1-14.smil/thumb.jpg?t=36&scale=480x270&v=high"
+    },
+    {
+      "startTime": 79,
+      "title": "GJEST Sikkerhetsrådet om Hormuz",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa05050626/896e16d1-14.smil/thumb.jpg?t=105&scale=480x270&v=high"
+    },
+    {
+      "startTime": 316,
+      "title": "Vedum om Coop-flytting: Nederlag",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa05050626/896e16d1-14.smil/thumb.jpg?t=342&scale=480x270&v=high"
+    },
+    {
+      "startTime": 471,
+      "title": "Siste nytt",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa05050626/896e16d1-14.smil/thumb.jpg?t=496&scale=480x270&v=high"
+    },
+    {
+      "startTime": 475,
+      "title": "DKNO Legeforeningen ut mot dobbeltroller",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa05050626/896e16d1-14.smil/thumb.jpg?t=501&scale=480x270&v=high"
+    },
+    {
+      "startTime": 484,
+      "title": "Siste nytt",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa05050626/896e16d1-14.smil/thumb.jpg?t=510&scale=480x270&v=high"
+    },
+    {
+      "startTime": 636,
+      "title": "DKNO Legeforeningen ut mot dobbeltroller",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa05050626/896e16d1-14.smil/thumb.jpg?t=661&scale=480x270&v=high"
+    },
+    {
+      "startTime": 779,
+      "title": "DKHO Forsvaret har betalt for lite pensjon",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa05050626/896e16d1-14.smil/thumb.jpg?t=804&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1017,
+      "title": "Topper 06:45",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa05050626/896e16d1-14.smil/thumb.jpg?t=1043&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1107,
+      "title": "Styrkeløft-juniorer dominerer",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa05050626/896e16d1-14.smil/thumb.jpg?t=1133&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1252,
+      "title": "Julie Bergan bak svensk ESC-vinner",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa05050626/896e16d1-14.smil/thumb.jpg?t=1277&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1464,
+      "title": "DKBU Dårlig vedlikehold av tilfluktsrom",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa05050626/896e16d1-14.smil/thumb.jpg?t=1490&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1625,
+      "title": "DKØS Emilian kjører bilcross",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa05050626/896e16d1-14.smil/thumb.jpg?t=1651&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1790,
+      "title": "Trailer - BRENNER DELER DIKT NY",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa05050626/896e16d1-14.smil/thumb.jpg?t=1816&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1821,
+      "title": "Åpning 07:00",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa05050626/896e16d1-14.smil/thumb.jpg?t=1846&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1886,
+      "title": "GJEST Equinor-resultatet",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa05050626/896e16d1-14.smil/thumb.jpg?t=1911&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2057,
+      "title": "DIREKTE Trump setter Project Freedom på pause",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa05050626/896e16d1-14.smil/thumb.jpg?t=2082&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2388,
+      "title": "Høiby ber om fotlenke",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa05050626/896e16d1-14.smil/thumb.jpg?t=2414&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2868,
+      "title": "Topper 07:15",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa05050626/896e16d1-14.smil/thumb.jpg?t=2894&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2926,
+      "title": "Musepest på cruiseskip",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa05050626/896e16d1-14.smil/thumb.jpg?t=2952&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3099,
+      "title": "GJEST Enighet i varahandelen",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa05050626/896e16d1-14.smil/thumb.jpg?t=3125&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3166,
+      "title": "Ett år med Merz-regjering",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa05050626/896e16d1-14.smil/thumb.jpg?t=3191&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3391,
+      "title": "DKMR Gjødsel med fiskelukt",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa05050626/896e16d1-14.smil/thumb.jpg?t=3416&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3571,
+      "title": "Trailer - TYRANN_KHOMEINI",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa05050626/896e16d1-14.smil/thumb.jpg?t=3597&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3601,
+      "title": "Topper 07:30",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa05050626/896e16d1-14.smil/thumb.jpg?t=3627&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3676,
+      "title": "GJEST Equinor-resultatet",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa05050626/896e16d1-14.smil/thumb.jpg?t=3702&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3718,
+      "title": "DIR Evakuering av Hormuz-stredert",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa05050626/896e16d1-14.smil/thumb.jpg?t=3744&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3815,
+      "title": "Høiby ber om fotlenke",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa05050626/896e16d1-14.smil/thumb.jpg?t=3841&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3934,
+      "title": "Semje butikkmekling",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa05050626/896e16d1-14.smil/thumb.jpg?t=3960&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3961,
+      "title": "DKRO Ber syklistar byta hjelm oftare",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa05050626/896e16d1-14.smil/thumb.jpg?t=3986&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4056,
+      "title": "Vedum om Coop-flytting: Nederlag",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa05050626/896e16d1-14.smil/thumb.jpg?t=4081&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4198,
+      "title": "Åpning 07:40",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa05050626/896e16d1-14.smil/thumb.jpg?t=4224&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4209,
+      "title": "DKHO Fryktar streikekonkurs",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa05050626/896e16d1-14.smil/thumb.jpg?t=4235&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4451,
+      "title": "Topper 07:44",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa05050626/896e16d1-14.smil/thumb.jpg?t=4476&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4491,
+      "title": "Overgang til Politisk kvarter",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa05050626/896e16d1-14.smil/thumb.jpg?t=4517&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5396,
+      "title": "NRK Nyheter 08:00",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa05050626/896e16d1-14.smil/thumb.jpg?t=5422&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5580,
+      "title": "Åpning 08:03",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa05050626/896e16d1-14.smil/thumb.jpg?t=5605&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5598,
+      "title": "Musepest på cruiseskip",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa05050626/896e16d1-14.smil/thumb.jpg?t=5624&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5612,
+      "title": "Åpning 08:03",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa05050626/896e16d1-14.smil/thumb.jpg?t=5637&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5665,
+      "title": "Musepest på cruiseskip",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa05050626/896e16d1-14.smil/thumb.jpg?t=5690&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5836,
+      "title": "GJEST: Hantavirus på cruiseskip",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa05050626/896e16d1-14.smil/thumb.jpg?t=5862&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6124,
+      "title": "DIREKTE Hva med Europa uten USA",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa05050626/896e16d1-14.smil/thumb.jpg?t=6150&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6358,
+      "title": "DKTR Norge og Natos røde linje",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa05050626/896e16d1-14.smil/thumb.jpg?t=6383&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6504,
+      "title": "Topper 08:15",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa05050626/896e16d1-14.smil/thumb.jpg?t=6530&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6541,
+      "title": "Høiby ber om fotlenke",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa05050626/896e16d1-14.smil/thumb.jpg?t=6567&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6666,
+      "title": "GJEST Varetekt med fotlenke",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa05050626/896e16d1-14.smil/thumb.jpg?t=6691&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6973,
+      "title": "Julie Bergan bak svensk ESC-vinner",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa05050626/896e16d1-14.smil/thumb.jpg?t=6999&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7177,
+      "title": "Mellomtopper",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa05050626/896e16d1-14.smil/thumb.jpg?t=7202&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7265,
+      "title": "Equinor håver inn",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa05050626/896e16d1-14.smil/thumb.jpg?t=7291&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7441,
+      "title": "DIREKTE USA håper på fredsavtale med Iran",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa05050626/896e16d1-14.smil/thumb.jpg?t=7466&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7690,
+      "title": "DKBU Dårlig vedlikehold av tilfluktsrom",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa05050626/896e16d1-14.smil/thumb.jpg?t=7716&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7854,
+      "title": "Vedum om Coop-flytting: Nederlag",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa05050626/896e16d1-14.smil/thumb.jpg?t=7880&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8024,
+      "title": "DIR Før Ekko i NRK P2",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa05050626/896e16d1-14.smil/thumb.jpg?t=8049&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8050,
+      "title": "Topper 08:45",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa05050626/896e16d1-14.smil/thumb.jpg?t=8075&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8088,
+      "title": "DKHO Fryktar streikekonkurs",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa05050626/896e16d1-14.smil/thumb.jpg?t=8114&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8257,
+      "title": "GJEST Stor økning i krefttilfeller",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa05050626/896e16d1-14.smil/thumb.jpg?t=8282&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8455,
+      "title": "GJEST Anmeldelse: «Pokopia»",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa05050626/896e16d1-14.smil/thumb.jpg?t=8481&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8666,
+      "title": "DKRO Ber syklistar byta hjelm oftare",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa05050626/896e16d1-14.smil/thumb.jpg?t=8692&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8771,
+      "title": "Semje butikkmekling",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa05050626/896e16d1-14.smil/thumb.jpg?t=8796&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8834,
+      "title": "GJEST Været i dag",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa05050626/896e16d1-14.smil/thumb.jpg?t=8860&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8988,
+      "title": "Avslutning",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa05050626/896e16d1-14.smil/thumb.jpg?t=9003.4&scale=480x270&v=high"
+    }
+  ]
+}

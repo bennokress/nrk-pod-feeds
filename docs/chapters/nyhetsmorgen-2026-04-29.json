@@ -1,0 +1,283 @@
+{
+  "version": "1.2.0",
+  "title": "Bøndene med høye forventninger til staten",
+  "author": "NRK",
+  "podcastName": "Nyhetsmorgen",
+  "chapters": [
+    {
+      "startTime": 1,
+      "title": "Åpning 06:30",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa05042926/f9ad5607-23.smil/thumb.jpg?t=26&scale=480x270&v=high"
+    },
+    {
+      "startTime": 74,
+      "title": "Advarer mot for lite politi i gatene",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa05042926/f9ad5607-23.smil/thumb.jpg?t=99&scale=480x270&v=high"
+    },
+    {
+      "startTime": 239,
+      "title": "Dyrt bondekrav",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa05042926/f9ad5607-23.smil/thumb.jpg?t=264&scale=480x270&v=high"
+    },
+    {
+      "startTime": 277,
+      "title": "Siste nytt",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa05042926/f9ad5607-23.smil/thumb.jpg?t=303&scale=480x270&v=high"
+    },
+    {
+      "startTime": 408,
+      "title": "GJEST Europa varmes dobbelt så fort",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa05042926/f9ad5607-23.smil/thumb.jpg?t=434&scale=480x270&v=high"
+    },
+    {
+      "startTime": 583,
+      "title": "GJEST Karpe gir seg",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa05042926/f9ad5607-23.smil/thumb.jpg?t=608&scale=480x270&v=high"
+    },
+    {
+      "startTime": 818,
+      "title": "Mesterliga PSG-Bayern München",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa05042926/f9ad5607-23.smil/thumb.jpg?t=843&scale=480x270&v=high"
+    },
+    {
+      "startTime": 946,
+      "title": "Unødvendig bruk av gels",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa05042926/f9ad5607-23.smil/thumb.jpg?t=972&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1114,
+      "title": "Kong Charles på middag i Det hvite hus",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa05042926/f9ad5607-23.smil/thumb.jpg?t=1140&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1251,
+      "title": "DIREKTE Mustad om kongebesøket og forholdet",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa05042926/f9ad5607-23.smil/thumb.jpg?t=1276&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1512,
+      "title": "Kunsttyveri i Oslo",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa05042926/f9ad5607-23.smil/thumb.jpg?t=1538&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1728,
+      "title": "Nye pass i USA prydes med Trump-bilde",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa05042926/f9ad5607-23.smil/thumb.jpg?t=1753&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1765,
+      "title": "Teasing dagens sending",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa05042926/f9ad5607-23.smil/thumb.jpg?t=1790&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1767,
+      "title": "Tuva & Ronny - Eit lite hotell i Hellas",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa05042926/f9ad5607-23.smil/thumb.jpg?t=1792&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1860,
+      "title": "Dyrt bondekrav",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa05042926/f9ad5607-23.smil/thumb.jpg?t=1886&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2038,
+      "title": "GJEST Kommentator om jordbruksoppgjøret",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa05042926/f9ad5607-23.smil/thumb.jpg?t=2063&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2294,
+      "title": "DKVL Helikoptre ti år etter Turøy-ulykka",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa05042926/f9ad5607-23.smil/thumb.jpg?t=2319&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2523,
+      "title": "GJEST Før Politisk kvarter",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa05042926/f9ad5607-23.smil/thumb.jpg?t=2549&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2603,
+      "title": "GJEST Karpe gir seg",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa05042926/f9ad5607-23.smil/thumb.jpg?t=2629&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2884,
+      "title": "DIREKTE Emiratene og Opec",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa05042926/f9ad5607-23.smil/thumb.jpg?t=2909&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3099,
+      "title": "DIREKTE Ungarns nye leder til Brussel",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa05042926/f9ad5607-23.smil/thumb.jpg?t=3124&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3313,
+      "title": "DKTL Ønsker mer lokalkultur inn i skolen",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa05042926/f9ad5607-23.smil/thumb.jpg?t=3339&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3566,
+      "title": "Norsken, svensken og dansken",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa05042926/f9ad5607-23.smil/thumb.jpg?t=3591&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3603,
+      "title": "Topper 07:30",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa05042926/f9ad5607-23.smil/thumb.jpg?t=3628&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3627,
+      "title": "Dyrt bondekrav",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa05042926/f9ad5607-23.smil/thumb.jpg?t=3652&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3749,
+      "title": "GJEST Kommentator om jordbruksoppgjøret",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa05042926/f9ad5607-23.smil/thumb.jpg?t=3775&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3823,
+      "title": "Advarer mot for lite politi i gatene",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa05042926/f9ad5607-23.smil/thumb.jpg?t=3848&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3943,
+      "title": "GJEST Europa varmes dobbelt så fort",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa05042926/f9ad5607-23.smil/thumb.jpg?t=3969&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4024,
+      "title": "Mann siktet drap Holmenkollen",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa05042926/f9ad5607-23.smil/thumb.jpg?t=4049&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4045,
+      "title": "Karpe",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa05042926/f9ad5607-23.smil/thumb.jpg?t=4070&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4154,
+      "title": "Musk i retten",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa05042926/f9ad5607-23.smil/thumb.jpg?t=4180&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4182,
+      "title": "Mindre klamydia og gonoré",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa05042926/f9ad5607-23.smil/thumb.jpg?t=4208&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4200,
+      "title": "Åpning 07:40",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa05042926/f9ad5607-23.smil/thumb.jpg?t=4226&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4217,
+      "title": "GJEST Levninger fra 2. verdenskrig heves",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa05042926/f9ad5607-23.smil/thumb.jpg?t=4243&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5400,
+      "title": "NRK Nyheter 08:00",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa05042926/f9ad5607-23.smil/thumb.jpg?t=5426&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5580,
+      "title": "Åpning 08:03",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa05042926/f9ad5607-23.smil/thumb.jpg?t=5606&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5634,
+      "title": "GJEST Hva spiser vi?",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa05042926/f9ad5607-23.smil/thumb.jpg?t=5659&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5761,
+      "title": "Hva spiser du?",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa05042926/f9ad5607-23.smil/thumb.jpg?t=5787&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5814,
+      "title": "GJEST Mattrender i 2026",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa05042926/f9ad5607-23.smil/thumb.jpg?t=5839&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6071,
+      "title": "DIR Ingen våpen i seiersparade Russland",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa05042926/f9ad5607-23.smil/thumb.jpg?t=6097&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6345,
+      "title": "Advarer mot for lite politi i gatene",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa05042926/f9ad5607-23.smil/thumb.jpg?t=6371&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6510,
+      "title": "GJESTER Norge i verdenstoppen i cheerleading",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa05042926/f9ad5607-23.smil/thumb.jpg?t=6535&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6888,
+      "title": "Kunsttyveri i Oslo",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa05042926/f9ad5607-23.smil/thumb.jpg?t=6913&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7065,
+      "title": "Mellomtopper",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa05042926/f9ad5607-23.smil/thumb.jpg?t=7091&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7108,
+      "title": "Dyrt bondekrav",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa05042926/f9ad5607-23.smil/thumb.jpg?t=7133&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7233,
+      "title": "DIREKTE Ulvetiltale i Innlandet",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa05042926/f9ad5607-23.smil/thumb.jpg?t=7258&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7417,
+      "title": "En løpebølge skyller over landet",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa05042926/f9ad5607-23.smil/thumb.jpg?t=7442&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7505,
+      "title": "GJEST Maratonrekorder og løpebølge",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa05042926/f9ad5607-23.smil/thumb.jpg?t=7531&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7770,
+      "title": "GJEST Narkosmugler arrestert i Mexico",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa05042926/f9ad5607-23.smil/thumb.jpg?t=7795&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7978,
+      "title": "DIREKTE Før Ekko i NRK P2",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa05042926/f9ad5607-23.smil/thumb.jpg?t=8003&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8048,
+      "title": "GJEST Europeisk aksjon mot bestillingsvold",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa05042926/f9ad5607-23.smil/thumb.jpg?t=8074&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8135,
+      "title": "Karpe gir seg",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa05042926/f9ad5607-23.smil/thumb.jpg?t=8160&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8367,
+      "title": "GJEST Anmeldelse: Ny plate fra Andsnes",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa05042926/f9ad5607-23.smil/thumb.jpg?t=8392&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8649,
+      "title": "DKOS Vil ikke dumpe mudder i Oslofjorden",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa05042926/f9ad5607-23.smil/thumb.jpg?t=8675&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8833,
+      "title": "GJEST Været i dag",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa05042926/f9ad5607-23.smil/thumb.jpg?t=8859&scale=480x270&v=high"
+    }
+  ]
+}

@@ -14,8 +14,22 @@
         "type": "video"
     },
     {
-        "id": "dagsrevyen-for-utlandet",
-        "title": "De 10 siste fra Dagsrevyen for utlandet",
+        "id": "dagsnytt-18",
+        "title": "De 10 siste fra Dagsnytt 18",
+        "season": null,
+        "enabled": true,
+        "type": "video"
+    },
+    {
+        "id": "kveldsnytt",
+        "title": "De 10 siste fra Kveldsnytt",
+        "season": null,
+        "enabled": true,
+        "type": "video"
+    },
+    {
+        "id": "nyhetsmorgen",
+        "title": "De 10 siste fra Nyhetsmorgen",
         "season": null,
         "enabled": true,
         "type": "video"

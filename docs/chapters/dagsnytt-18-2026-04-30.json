@@ -1,0 +1,58 @@
+{
+  "version": "1.2.0",
+  "title": "Drivstoffdramaet i Stortinget",
+  "author": "NRK",
+  "podcastName": "Dagsnytt 18",
+  "chapters": [
+    {
+      "startTime": 1,
+      "title": "Dagsnytt atten",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa56043026/33e14781-14.smil/thumb.jpg?t=27&scale=480x270&v=high"
+    },
+    {
+      "startTime": 60,
+      "title": "Drivstoffdramaet i Stortinget",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa56043026/33e14781-14.smil/thumb.jpg?t=86&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1138,
+      "title": "Kommentar fra Aglen",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa56043026/33e14781-14.smil/thumb.jpg?t=1164&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1149,
+      "title": "- Umenneskelig offentlighet",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa56043026/33e14781-14.smil/thumb.jpg?t=1175&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1789,
+      "title": "Kronen styrker seg",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa56043026/33e14781-14.smil/thumb.jpg?t=1815&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2155,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa56043026/33e14781-14.smil/thumb.jpg?t=2181&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2168,
+      "title": "Samtidskunst på Munchmuseet",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa56043026/33e14781-14.smil/thumb.jpg?t=2194&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2649,
+      "title": "Krfu peker på Listhaug",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa56043026/33e14781-14.smil/thumb.jpg?t=2674&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3050,
+      "title": "Hovedparole 1.mai i Oslo",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa56043026/33e14781-14.smil/thumb.jpg?t=3076&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3527,
+      "title": "AVSLUTNING",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa56043026/33e14781-14.smil/thumb.jpg?t=3545.76&scale=480x270&v=high"
+    }
+  ]
+}

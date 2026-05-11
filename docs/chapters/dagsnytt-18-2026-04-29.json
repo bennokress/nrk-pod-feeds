@@ -1,0 +1,68 @@
+{
+  "version": "1.2.0",
+  "title": "Høyre pauser avgiftskutt",
+  "author": "NRK",
+  "podcastName": "Dagsnytt 18",
+  "chapters": [
+    {
+      "startTime": 58,
+      "title": "Avgiftskutt på pause",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa56042926/72bd95ad-14.smil/thumb.jpg?t=84&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1337,
+      "title": "Kommentator avgiftskutt",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa56042926/72bd95ad-14.smil/thumb.jpg?t=1362&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1340,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa56042926/72bd95ad-14.smil/thumb.jpg?t=1365&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1351,
+      "title": "Politiaksjon mot bestillingsvold",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa56042926/72bd95ad-14.smil/thumb.jpg?t=1377&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1854,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa56042926/72bd95ad-14.smil/thumb.jpg?t=1879&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1868,
+      "title": "Jordbrukskravet overleveres",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa56042926/72bd95ad-14.smil/thumb.jpg?t=1894&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2499,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa56042926/72bd95ad-14.smil/thumb.jpg?t=2525&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2511,
+      "title": "Epstein-spørsmål til kongehuset",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa56042926/72bd95ad-14.smil/thumb.jpg?t=2537&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3024,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa56042926/72bd95ad-14.smil/thumb.jpg?t=3049&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3038,
+      "title": "NRK og mediemangfold",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa56042926/72bd95ad-14.smil/thumb.jpg?t=3063&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3536,
+      "title": "AVSLUTNING",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa56042926/72bd95ad-14.smil/thumb.jpg?t=3543.72&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3538,
+      "title": "SLUTTKJENNING",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa56042926/72bd95ad-14.smil/thumb.jpg?t=3543.72&scale=480x270&v=high"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "version": "1.2.0",
+  "title": "Karpe gir seg etter 28 år",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 1,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa23042826/1ada76ac-18.smil/thumb.jpg?t=26&scale=480x270&v=high"
+    },
+    {
+      "startTime": 37,
+      "title": "Sylvi duell med Jonas",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa23042826/1ada76ac-18.smil/thumb.jpg?t=63&scale=480x270&v=high"
+    },
+    {
+      "startTime": 162,
+      "title": "Holmen drap",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa23042826/1ada76ac-18.smil/thumb.jpg?t=187&scale=480x270&v=high"
+    },
+    {
+      "startTime": 235,
+      "title": "Kong Charles",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa23042826/1ada76ac-18.smil/thumb.jpg?t=260&scale=480x270&v=high"
+    },
+    {
+      "startTime": 309,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa23042826/1ada76ac-18.smil/thumb.jpg?t=335&scale=480x270&v=high"
+    },
+    {
+      "startTime": 423,
+      "title": "Karpe legger opp",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa23042826/1ada76ac-18.smil/thumb.jpg?t=449&scale=480x270&v=high"
+    },
+    {
+      "startTime": 547,
+      "title": "Mesterliga",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa23042826/1ada76ac-18.smil/thumb.jpg?t=573&scale=480x270&v=high"
+    },
+    {
+      "startTime": 639,
+      "title": "Boutera skade",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa23042826/1ada76ac-18.smil/thumb.jpg?t=665&scale=480x270&v=high"
+    },
+    {
+      "startTime": 714,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa23042826/1ada76ac-18.smil/thumb.jpg?t=739&scale=480x270&v=high"
+    },
+    {
+      "startTime": 776,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa23042826/1ada76ac-18.smil/thumb.jpg?t=796.6&scale=480x270&v=high"
+    }
+  ]
+}

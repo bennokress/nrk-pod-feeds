@@ -1,0 +1,68 @@
+{
+  "version": "1.2.0",
+  "title": "Våpenhvile før Seiersdagen",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-49.akamaized.net/open/ps/nnfa/nnfa23050726/a42155c4-16.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 50,
+      "title": "Våpenhvile i Ukraina-krigen",
+      "img": "https://nrk-od-world-49.akamaized.net/open/ps/nnfa/nnfa23050726/a42155c4-16.smil/thumb.jpg?t=76&scale=480x270&v=high"
+    },
+    {
+      "startTime": 147,
+      "title": "Hormuzstredet",
+      "img": "https://nrk-od-world-49.akamaized.net/open/ps/nnfa/nnfa23050726/a42155c4-16.smil/thumb.jpg?t=173&scale=480x270&v=high"
+    },
+    {
+      "startTime": 174,
+      "title": "Spionasjesak",
+      "img": "https://nrk-od-world-49.akamaized.net/open/ps/nnfa/nnfa23050726/a42155c4-16.smil/thumb.jpg?t=200&scale=480x270&v=high"
+    },
+    {
+      "startTime": 200,
+      "title": "Norge Sverige renteheving",
+      "img": "https://nrk-od-world-49.akamaized.net/open/ps/nnfa/nnfa23050726/a42155c4-16.smil/thumb.jpg?t=226&scale=480x270&v=high"
+    },
+    {
+      "startTime": 322,
+      "title": "siktet for drap av jerv",
+      "img": "https://nrk-od-world-49.akamaized.net/open/ps/nnfa/nnfa23050726/a42155c4-16.smil/thumb.jpg?t=348&scale=480x270&v=high"
+    },
+    {
+      "startTime": 427,
+      "title": "Fritt Ords pris",
+      "img": "https://nrk-od-world-49.akamaized.net/open/ps/nnfa/nnfa23050726/a42155c4-16.smil/thumb.jpg?t=453&scale=480x270&v=high"
+    },
+    {
+      "startTime": 484,
+      "title": "Europaligaen",
+      "img": "https://nrk-od-world-49.akamaized.net/open/ps/nnfa/nnfa23050726/a42155c4-16.smil/thumb.jpg?t=509&scale=480x270&v=high"
+    },
+    {
+      "startTime": 536,
+      "title": "Golf, ishockey og rally",
+      "img": "https://nrk-od-world-49.akamaized.net/open/ps/nnfa/nnfa23050726/a42155c4-16.smil/thumb.jpg?t=561&scale=480x270&v=high"
+    },
+    {
+      "startTime": 607,
+      "title": "Historisk Galopp",
+      "img": "https://nrk-od-world-49.akamaized.net/open/ps/nnfa/nnfa23050726/a42155c4-16.smil/thumb.jpg?t=633&scale=480x270&v=high"
+    },
+    {
+      "startTime": 668,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-49.akamaized.net/open/ps/nnfa/nnfa23050726/a42155c4-16.smil/thumb.jpg?t=693&scale=480x270&v=high"
+    },
+    {
+      "startTime": 729,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-49.akamaized.net/open/ps/nnfa/nnfa23050726/a42155c4-16.smil/thumb.jpg?t=751.72&scale=480x270&v=high"
+    }
+  ]
+}
