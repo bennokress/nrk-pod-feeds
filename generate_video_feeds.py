@@ -79,12 +79,19 @@ def _list_existing_mp4s(bunny, prefix):
     return existing
 
 
-def _ensure_mp4(bunny, existing_mp4s, prefix, cdn_base, episode_date, hls_master_url):
+def _ensure_mp4(
+    bunny, existing_mp4s, prefix, cdn_base, episode_date, hls_master_url,
+    chapters=None, duration_seconds=None,
+):
     """
     Ensure an MP4 for `episode_date` exists on Bunny Storage under `prefix/`.
 
     If already present, return (public_url, size) from the directory listing.
     Otherwise mux the highest HLS variant and upload. Returns None on failure.
+
+    `chapters` (list of {title, start_seconds, ...} from `get_index_points`)
+    and `duration_seconds` are forwarded to the muxer so the produced MP4
+    carries native chapter atoms for Apple Podcasts.
     """
     filename = f"{episode_date.strftime('%Y-%m-%d')}.mp4"
     public_url = _bunny_public_url(cdn_base, prefix, episode_date)
@@ -95,7 +102,10 @@ def _ensure_mp4(bunny, existing_mp4s, prefix, cdn_base, episode_date, hls_master
     variant_url = pick_best_variant(hls_master_url)
     tmp_path = f"/tmp/nrk-mp4-{filename}"
     try:
-        size = mux_to_mp4(variant_url, tmp_path)
+        size = mux_to_mp4(
+            variant_url, tmp_path,
+            chapters=chapters, total_duration_seconds=duration_seconds,
+        )
         bunny.put(_bunny_remote_path(prefix, episode_date), tmp_path)
         existing_mp4s[filename] = size
         return public_url, size
@@ -581,12 +591,20 @@ def get_video_feed(
             except Exception:
                 parsed_date = None
 
+        # Fetch chapters (index points) for this episode. Done before MP4
+        # muxing so we can embed them as native MP4 chapter atoms (Apple
+        # Podcasts reads chapters from the file, not from the RSS).
+        chapters = get_index_points(program_id)
+        if chapters:
+            logging.info(f"  Found {len(chapters)} chapters")
+
         # If MP4 rehosting is enabled and we have a parseable date, ensure an
         # MP4 exists on Bunny Storage and swap the enclosure to point at it.
         if bunny is not None and parsed_date is not None:
             try:
                 mp4_result = _ensure_mp4(
-                    bunny, existing_mp4s, prefix, base, parsed_date.date(), hls_url
+                    bunny, existing_mp4s, prefix, base, parsed_date.date(), hls_url,
+                    chapters=chapters, duration_seconds=duration,
                 )
                 if mp4_result is not None:
                     enclosure_url, enclosure_size = mp4_result
@@ -597,11 +615,10 @@ def get_video_feed(
                     "  MP4 mux/upload failed; falling back to HLS enclosure for this episode"
                 )
 
-        # Fetch chapters (index points) for this episode
-        chapters = get_index_points(program_id)
+        # Store the chapter list keyed by the final enclosure URL so the
+        # Podcasting 2.0 post-processor can emit inline <psc:chapters> too.
         if chapters:
             episode_chapters[enclosure_url] = chapters
-            logging.info(f"  Found {len(chapters)} chapters")
 
         # Store episode metadata (keyed by the final enclosure URL so the
         # Podcasting 2.0 post-processor can find chapters + HLS fallback).
