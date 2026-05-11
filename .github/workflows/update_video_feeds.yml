@@ -34,8 +34,23 @@ jobs:
           mkdir -p docs/rss/video
           mkdir -p docs/chapters
 
+      - name: Ensure ffmpeg is available
+        run: |
+          if ! command -v ffmpeg >/dev/null 2>&1; then
+            sudo apt-get update
+            sudo apt-get install -y ffmpeg
+          fi
+          ffmpeg -version | head -n 1
+
       - name: Execute video feed generation script
         run: python generate_video_feeds.py
+        env:
+          BUNNY_STORAGE_ZONE_NAME: ${{ secrets.BUNNY_STORAGE_ZONE_NAME }}
+          BUNNY_STORAGE_ACCESS_KEY: ${{ secrets.BUNNY_STORAGE_ACCESS_KEY }}
+          PERSONAL_FEED_CDN_BASE: ${{ secrets.PERSONAL_FEED_CDN_BASE }}
+          PERSONAL_FEED_PATH_PREFIX: ${{ secrets.PERSONAL_FEED_PATH_PREFIX }}
+          PERSONAL_FEED_SOURCE_SERIES: ${{ secrets.PERSONAL_FEED_SOURCE_SERIES }}
+          PERSONAL_FEED_SUBSCRIPTION_SLUG: ${{ secrets.PERSONAL_FEED_SUBSCRIPTION_SLUG }}
 
       - name: Stamp build timestamp into index.html (only when feeds changed)
         run: |
