@@ -1,3 +1,4 @@
+import os
 import subprocess
 from urllib.parse import urlparse
 
@@ -129,6 +130,106 @@ def test_mux_to_mp4_argv_omits_metadata_input_when_no_chapters(monkeypatch, tmp_
     cmd = captured["cmd"]
     assert cmd.count("-i") == 1
     assert "-map_metadata" not in cmd
+
+
+def test_mux_to_mp4_argv_includes_subtitle_inputs_when_subs_provided(monkeypatch, tmp_path):
+    captured = {}
+
+    def fake_run(cmd, *args, **kwargs):
+        captured["cmd"] = list(cmd)
+        return _FakeCompletedProcess()
+
+    def fake_download(subtitles, target_dir):
+        return [
+            {
+                "path": os.path.join(target_dir, f"{s['type']}.vtt"),
+                "language": "nob",
+                "title": s.get("label") or "",
+            }
+            for s in subtitles
+        ]
+
+    monkeypatch.setattr(subprocess, "run", fake_run)
+    monkeypatch.setattr(muxer, "_download_subtitles_to_dir", fake_download)
+
+    subs = [
+        {"type": "nor", "language": "nb", "label": "Norsk – kun andre språk",
+         "webVtt": "https://undertekst.test/forced.vtt", "default_on": False},
+        {"type": "ttv", "language": "nb", "label": "Norsk – på all tale",
+         "webVtt": "https://undertekst.test/full.vtt", "default_on": True},
+    ]
+    out = tmp_path / "out.mp4"
+
+    try:
+        muxer.mux_to_mp4("https://example.test/master.m3u8", str(out), subtitles=subs)
+    except RuntimeError:
+        pass
+
+    cmd = captured["cmd"]
+    # 1 HLS + 2 subtitle inputs
+    assert cmd.count("-i") == 3, f"expected 3 inputs, got: {cmd}"
+    # mov_text codec for subtitle streams
+    assert "-c:s" in cmd
+    assert cmd[cmd.index("-c:s") + 1] == "mov_text"
+    # Explicit map: 0:v, 0:a, 1, 2
+    map_idxs = [i for i, x in enumerate(cmd) if x == "-map"]
+    assert [cmd[i + 1] for i in map_idxs] == ["0:v", "0:a", "1", "2"]
+    # Per-track metadata for both subtitles
+    assert "-metadata:s:s:0" in cmd
+    assert "-metadata:s:s:1" in cmd
+    # Each subtitle gets both language and title
+    s0_metas = [cmd[i + 1] for i, x in enumerate(cmd) if x == "-metadata:s:s:0"]
+    assert any(m.startswith("language=nob") for m in s0_metas)
+    assert any("Norsk – kun andre språk" in m for m in s0_metas)
+
+
+def test_mux_to_mp4_combines_subtitles_and_chapters(monkeypatch, tmp_path):
+    captured = {}
+
+    def fake_run(cmd, *args, **kwargs):
+        captured["cmd"] = list(cmd)
+        return _FakeCompletedProcess()
+
+    def fake_download(subtitles, target_dir):
+        return [{
+            "path": os.path.join(target_dir, "nor.vtt"),
+            "language": "nob",
+            "title": "Forced",
+        }]
+
+    monkeypatch.setattr(subprocess, "run", fake_run)
+    monkeypatch.setattr(muxer, "_download_subtitles_to_dir", fake_download)
+
+    subs = [{"type": "nor", "language": "nb", "label": "Forced",
+             "webVtt": "https://undertekst.test/forced.vtt"}]
+    chapters = [{"title": "A", "start_seconds": 0}, {"title": "B", "start_seconds": 5}]
+    out = tmp_path / "out.mp4"
+
+    try:
+        muxer.mux_to_mp4(
+            "https://example.test/master.m3u8", str(out),
+            chapters=chapters, total_duration_seconds=10, subtitles=subs,
+        )
+    except RuntimeError:
+        pass
+
+    cmd = captured["cmd"]
+    # HLS + 1 subtitle + 1 metadata file
+    assert cmd.count("-i") == 3
+    # map_metadata index = 1 (HLS) + 1 (one subtitle) = 2
+    assert cmd[cmd.index("-map_metadata") + 1] == "2"
+    # Both chapter and subtitle plumbing present
+    assert "-c:s" in cmd
+    assert "-map_metadata" in cmd
+
+
+def test_language_to_iso639_2_handles_nrk_codes():
+    assert muxer._language_to_iso639_2("nb") == "nob"
+    assert muxer._language_to_iso639_2("nn") == "nno"
+    assert muxer._language_to_iso639_2("en") == "eng"
+    assert muxer._language_to_iso639_2("zz") == "zz"  # passthrough
+    assert muxer._language_to_iso639_2(None) == "und"
+    assert muxer._language_to_iso639_2("") == "und"
 
 
 def test_pick_best_variant_against_real_nrk_master():

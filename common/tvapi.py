@@ -227,6 +227,48 @@ def get_program_manifest(program_id, format="json"):
     return r.json()
 
 
+def get_subtitles(manifest, types=("nor", "ttv")):
+    """
+    Extract the subtitle tracks from a playback manifest.
+
+    Returns a list of dicts with keys: type, language, label, webVtt,
+    default_on. Entries are filtered to the requested `types` and returned in
+    the order of `types` (so callers can present the Forced track before the
+    Full SDH track, for example).
+
+    NRK exposes two Norwegian WebVTT tracks:
+      type="nor" -> "Forced" (translations of non-Norwegian speech only)
+      type="ttv" -> "Full SDH" (every speaker, including Norwegian)
+    The label "Norsk" on the Forced track is intentionally ambiguous on NRK's
+    side; the filename suffix (non-sdh-translated vs sdh) is the authoritative
+    cue if you need to disambiguate.
+
+    Entries without a webVtt URL are skipped.
+    """
+    if not manifest:
+        return []
+
+    playable = manifest.get("playable")
+    if not playable:
+        return []
+
+    raw = playable.get("subtitles") or []
+    by_type = {}
+    for entry in raw:
+        vtt = entry.get("webVtt")
+        if not vtt:
+            continue
+        by_type[entry.get("type")] = {
+            "type": entry.get("type"),
+            "language": entry.get("language"),
+            "label": entry.get("label"),
+            "webVtt": vtt,
+            "default_on": bool(entry.get("defaultOn")),
+        }
+
+    return [by_type[t] for t in types if t in by_type]
+
+
 def get_hls_stream_url(manifest):
     """
     Extract HLS stream URL and MIME type from manifest.

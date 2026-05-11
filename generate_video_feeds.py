@@ -19,6 +19,7 @@ from common.tvapi import (
     iter_latest_instalments,
     get_program_manifest,
     get_hls_stream_url,
+    get_subtitles,
     parse_iso_duration,
     get_index_points,
     is_geo_blocked,
@@ -81,7 +82,7 @@ def _list_existing_mp4s(bunny, prefix):
 
 def _ensure_mp4(
     bunny, existing_mp4s, prefix, cdn_base, episode_date, hls_master_url,
-    chapters=None, duration_seconds=None,
+    chapters=None, duration_seconds=None, subtitles=None,
 ):
     """
     Ensure an MP4 for `episode_date` exists on Bunny Storage under `prefix/`.
@@ -89,9 +90,10 @@ def _ensure_mp4(
     If already present, return (public_url, size) from the directory listing.
     Otherwise mux the highest HLS variant and upload. Returns None on failure.
 
-    `chapters` (list of {title, start_seconds, ...} from `get_index_points`)
-    and `duration_seconds` are forwarded to the muxer so the produced MP4
-    carries native chapter atoms for Apple Podcasts.
+    `chapters` + `duration_seconds` are forwarded to the muxer so the MP4
+    carries native chapter atoms; `subtitles` (a list from `get_subtitles`)
+    causes each WebVTT to be embedded as a `mov_text` track that Apple
+    Podcasts surfaces in the captions menu.
     """
     filename = f"{episode_date.strftime('%Y-%m-%d')}.mp4"
     public_url = _bunny_public_url(cdn_base, prefix, episode_date)
@@ -104,7 +106,9 @@ def _ensure_mp4(
     try:
         size = mux_to_mp4(
             variant_url, tmp_path,
-            chapters=chapters, total_duration_seconds=duration_seconds,
+            chapters=chapters,
+            total_duration_seconds=duration_seconds,
+            subtitles=subtitles,
         )
         bunny.put(_bunny_remote_path(prefix, episode_date), tmp_path)
         existing_mp4s[filename] = size
@@ -598,6 +602,13 @@ def get_video_feed(
         if chapters:
             logging.info(f"  Found {len(chapters)} chapters")
 
+        # Fetch subtitle tracks (Norwegian forced + full SDH). Only the
+        # rehosted MP4 path consumes these; the public HLS feed exposes them
+        # via NRK's own player only.
+        subtitles = get_subtitles(manifest) if bunny is not None else []
+        if subtitles:
+            logging.info(f"  Found {len(subtitles)} subtitle track(s)")
+
         # If MP4 rehosting is enabled and we have a parseable date, ensure an
         # MP4 exists on Bunny Storage and swap the enclosure to point at it.
         if bunny is not None and parsed_date is not None:
@@ -605,6 +616,7 @@ def get_video_feed(
                 mp4_result = _ensure_mp4(
                     bunny, existing_mp4s, prefix, base, parsed_date.date(), hls_url,
                     chapters=chapters, duration_seconds=duration,
+                    subtitles=subtitles,
                 )
                 if mp4_result is not None:
                     enclosure_url, enclosure_size = mp4_result

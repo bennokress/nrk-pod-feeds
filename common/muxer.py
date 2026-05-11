@@ -2,6 +2,7 @@ import logging
 import os
 import re
 import subprocess
+import tempfile
 from urllib.parse import urljoin
 
 import requests
@@ -12,6 +13,54 @@ from common.helpers import get_version
 _STREAM_INF_RE = re.compile(r"#EXT-X-STREAM-INF:(?P<attrs>.+)")
 _BANDWIDTH_RE = re.compile(r"BANDWIDTH=(\d+)")
 _USER_AGENT = f"nrk-pod-feeder {get_version()}"
+
+# NRK exposes ISO 639-1 codes (e.g. "nb"); MP4 timed-text expects ISO 639-2
+# 3-letter codes. Unknown codes are passed through unchanged.
+_LANG_ISO639_1_TO_2 = {
+    "nb": "nob",
+    "nn": "nno",
+    "no": "nor",
+    "en": "eng",
+    "se": "sme",
+}
+
+
+def _language_to_iso639_2(code):
+    if not code:
+        return "und"
+    return _LANG_ISO639_1_TO_2.get(code, code)
+
+
+def _download_subtitles_to_dir(subtitles, target_dir):
+    """Fetch each subtitle's WebVTT URL to a local file under `target_dir`.
+
+    Returns the list of `{path, language, title}` dicts in the same order as
+    the input, skipping any whose fetch failed (logged at WARNING). Never
+    raises — a partial or empty result is preferable to failing the mux.
+    """
+    out = []
+    for sub in subtitles:
+        vtt_url = sub.get("webVtt")
+        if not vtt_url:
+            continue
+        sub_type = sub.get("type") or "sub"
+        local_path = os.path.join(target_dir, f"{sub_type}.vtt")
+        try:
+            r = requests.get(
+                vtt_url, headers={"User-Agent": _USER_AGENT}, timeout=30,
+            )
+            r.raise_for_status()
+            with open(local_path, "wb") as f:
+                f.write(r.content)
+        except Exception as e:
+            logging.warning(f"  subtitle download failed ({sub_type}): {e}")
+            continue
+        out.append({
+            "path": local_path,
+            "language": _language_to_iso639_2(sub.get("language")),
+            "title": sub.get("label") or "",
+        })
+    return out
 
 
 def _parse_variants(playlist_text):
@@ -88,54 +137,85 @@ def _write_ffmetadata(path, chapters, total_duration_seconds):
             f.write(f"title={title}\n")
 
 
-def mux_to_mp4(variant_m3u8_url, output_path, chapters=None, total_duration_seconds=None):
+def mux_to_mp4(
+    variant_m3u8_url, output_path,
+    chapters=None, total_duration_seconds=None, subtitles=None,
+):
     """
     Mux the given HLS media playlist into a single progressive MP4 using ffmpeg
     with stream copy (no re-encode). Returns the local file size in bytes.
 
-    When `chapters` is a non-empty list, an ffmpeg metadata file is generated
-    from the chapter data and merged into the output as native MP4 chapter
-    atoms (`moov.udta.chpl`), which Apple Podcasts surfaces as a tappable
-    chapter list. `total_duration_seconds` is used to derive the END time of
-    the last chapter; pass the episode duration from the NRK manifest.
+    Optional inputs:
 
-    Flags:
-      -c copy                       no re-encode
+    - `chapters` (list of {title, start_seconds, ...} from `get_index_points`)
+      + `total_duration_seconds`: when present, an ffmpeg metadata file is
+      generated and merged via `-map_metadata`, baking native MP4 chapter
+      atoms (`moov.udta.chpl`) that Apple Podcasts surfaces as a tappable
+      chapter list.
+
+    - `subtitles` (list of {webVtt, language, label, ...} from
+      `tvapi.get_subtitles`): each WebVTT is downloaded to a temporary file
+      and added as a separate ffmpeg input. Output MP4 carries one timed-text
+      track per subtitle (`mov_text` codec), with `language=<iso639-2>` and
+      `title=<NRK label>` metadata so the captions menu in Apple Podcasts
+      labels them correctly.
+
+    Flags (ordered after inputs and maps):
+      -c copy                       no re-encode for video/audio
+      -c:s mov_text                 (subtitle mode) convert WebVTT to MP4 timed text
       -bsf:a aac_adtstoasc          fix AAC bitstream for the MP4 container
       -movflags +faststart          place moov atom at start for early playback
-      -map 0 -map_metadata 1        (chapter mode) preserve HLS streams, take
-                                    metadata from the chapters input
     """
     os.makedirs(os.path.dirname(output_path) or ".", exist_ok=True)
 
-    cmd = [
-        "ffmpeg",
-        "-hide_banner",
-        "-loglevel", "warning",
-        "-y",
-        "-user_agent", _USER_AGENT,
-        "-i", variant_m3u8_url,
-    ]
+    with tempfile.TemporaryDirectory(prefix="nrk-mux-") as workdir:
+        cmd = [
+            "ffmpeg",
+            "-hide_banner",
+            "-loglevel", "warning",
+            "-y",
+            "-user_agent", _USER_AGENT,
+            "-i", variant_m3u8_url,
+        ]
 
-    metadata_path = None
-    if chapters:
-        metadata_path = output_path + ".ffmetadata"
-        _write_ffmetadata(metadata_path, chapters, total_duration_seconds)
-        cmd += ["-i", metadata_path, "-map", "0", "-map_metadata", "1"]
+        # Subtitle inputs: 1..N
+        downloaded_subs = []
+        if subtitles:
+            downloaded_subs = _download_subtitles_to_dir(subtitles, workdir)
+            for sub in downloaded_subs:
+                cmd += ["-i", sub["path"]]
 
-    cmd += [
-        "-c", "copy",
-        "-bsf:a", "aac_adtstoasc",
-        "-movflags", "+faststart",
-        output_path,
-    ]
+        # Chapter metadata input: last
+        if chapters:
+            metadata_path = os.path.join(workdir, "chapters.ffmetadata")
+            _write_ffmetadata(metadata_path, chapters, total_duration_seconds)
+            cmd += ["-i", metadata_path]
 
-    logging.info(f"  Muxing HLS to {output_path}")
-    try:
+        # Stream mapping
+        if downloaded_subs:
+            cmd += ["-map", "0:v", "-map", "0:a"]
+            for i, _ in enumerate(downloaded_subs):
+                cmd += ["-map", str(i + 1)]
+        elif chapters:
+            cmd += ["-map", "0"]
+
+        if chapters:
+            metadata_input_index = 1 + len(downloaded_subs)
+            cmd += ["-map_metadata", str(metadata_input_index)]
+
+        # Codecs
+        cmd += ["-c", "copy", "-bsf:a", "aac_adtstoasc"]
+        if downloaded_subs:
+            cmd += ["-c:s", "mov_text"]
+            for i, sub in enumerate(downloaded_subs):
+                cmd += [f"-metadata:s:s:{i}", f"language={sub['language']}"]
+                if sub.get("title"):
+                    cmd += [f"-metadata:s:s:{i}", f"title={sub['title']}"]
+
+        cmd += ["-movflags", "+faststart", output_path]
+
+        logging.info(f"  Muxing HLS to {output_path}")
         result = subprocess.run(cmd, capture_output=True, text=True)
-    finally:
-        if metadata_path and os.path.exists(metadata_path):
-            os.remove(metadata_path)
 
     if result.returncode != 0:
         logging.warning(f"ffmpeg failed (rc={result.returncode}): {result.stderr[:500]}")
