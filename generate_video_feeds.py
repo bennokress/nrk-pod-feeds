@@ -1,9 +1,11 @@
 import json
 import logging
 import os
+import tempfile
 import uuid
 import xml.etree.ElementTree as ET
 
+import requests
 from podgen import Podcast, Episode, Media
 from dateutil import parser
 from datetime import timedelta
@@ -22,6 +24,8 @@ from common.tvapi import (
     is_geo_blocked,
     find_instalment_by_release_date
 )
+from common.bunny import BunnyStorage
+from common.muxer import pick_best_variant, mux_to_mp4
 
 podgen_agent = f"nrk-pod-feeder v{get_version()} (with help from python-podgen)"
 tv_programs_cfg_file = "tv_programs.json"
@@ -55,6 +59,63 @@ NRK_SERIES_ID = {
     "dagsnytt-18": "dagsnytt-atten-tv",
     "nyhetsmorgen": "nyhetsmorgen-tv",
 }
+
+
+def _bunny_remote_path(prefix, episode_date):
+    return f"{prefix}/{episode_date.strftime('%Y-%m-%d')}.mp4"
+
+
+def _bunny_public_url(cdn_base, prefix, episode_date):
+    return f"{cdn_base.rstrip('/')}/{_bunny_remote_path(prefix, episode_date)}"
+
+
+def _list_existing_mp4s(bunny, prefix):
+    """Return {filename: size_bytes} of MP4s already under `prefix/` on Bunny."""
+    existing = {}
+    for entry in bunny.list(prefix):
+        name = entry.get("ObjectName", "")
+        if name.endswith(".mp4"):
+            existing[name] = int(entry.get("Length", 0) or 0)
+    return existing
+
+
+def _ensure_mp4(bunny, existing_mp4s, prefix, cdn_base, episode_date, hls_master_url):
+    """
+    Ensure an MP4 for `episode_date` exists on Bunny Storage under `prefix/`.
+
+    If already present, return (public_url, size) from the directory listing.
+    Otherwise mux the highest HLS variant and upload. Returns None on failure.
+    """
+    filename = f"{episode_date.strftime('%Y-%m-%d')}.mp4"
+    public_url = _bunny_public_url(cdn_base, prefix, episode_date)
+
+    if filename in existing_mp4s and existing_mp4s[filename] > 0:
+        return public_url, existing_mp4s[filename]
+
+    variant_url = pick_best_variant(hls_master_url)
+    tmp_path = f"/tmp/nrk-mp4-{filename}"
+    try:
+        size = mux_to_mp4(variant_url, tmp_path)
+        bunny.put(_bunny_remote_path(prefix, episode_date), tmp_path)
+        existing_mp4s[filename] = size
+        return public_url, size
+    finally:
+        if os.path.exists(tmp_path):
+            os.remove(tmp_path)
+
+
+def _prune_stale_mp4s(bunny, prefix, keep_dates):
+    """Remove MP4s under `prefix/` whose date is not in keep_dates."""
+    keep_filenames = {d.strftime("%Y-%m-%d") + ".mp4" for d in keep_dates}
+    for entry in bunny.list(prefix):
+        name = entry.get("ObjectName", "")
+        if not name.endswith(".mp4"):
+            continue
+        if name not in keep_filenames:
+            try:
+                bunny.delete(f"{prefix}/{name}")
+            except Exception:
+                logging.warning("  Could not delete stale MP4")
 
 
 def format_npt(seconds):
@@ -148,7 +209,10 @@ def generate_chapters_json(series_id, episode_date, episode_title, chapters, ser
     return filename, cdn_url
 
 
-def add_podcasting2_tags_to_rss(rss_path, series_id, series_title=None):
+def add_podcasting2_tags_to_rss(
+    rss_path, series_id, series_title=None,
+    external_chapters=True, feed_url=None,
+):
     """
     Add Podcasting 2.0 tags and Podlove Simple Chapters to RSS file.
 
@@ -170,6 +234,13 @@ def add_podcasting2_tags_to_rss(rss_path, series_id, series_title=None):
         rss_path: Path to RSS XML file
         series_id: The TV series identifier
         series_title: Title of the series (optional)
+        external_chapters: When True (default), generate JSON chapter files
+            under docs/chapters/ and reference them via <podcast:chapters>.
+            When False, only inline <psc:chapters> is emitted (no files are
+            written anywhere) — used by callers that must not leak chapter
+            artefacts into the public docs tree.
+        feed_url: Explicit feed URL used to derive <podcast:guid>. When
+            omitted, defaults to the public GitHub Pages URL pattern.
     """
     # Parse the RSS file
     tree = ET.parse(rss_path)
@@ -184,9 +255,10 @@ def add_podcasting2_tags_to_rss(rss_path, series_id, series_title=None):
 
     channel = root.find('channel')
     if channel is not None:
-        # Generate podcast:guid
-        feed_url = f"https://bennokress.github.io/nrk-pod-feeds/rss/video/{series_id}.xml"
-        guid = generate_podcast_guid(feed_url)
+        # Generate podcast:guid from the supplied feed URL (or default to the
+        # public GitHub Pages URL pattern for series that publish there).
+        guid_feed_url = feed_url or f"https://bennokress.github.io/nrk-pod-feeds/rss/video/{series_id}.xml"
+        guid = generate_podcast_guid(guid_feed_url)
 
         # Add channel-level Podcasting 2.0 tags if not present
         def add_if_missing(tag_name, text, ns=PODCAST_NS):
@@ -237,8 +309,10 @@ def add_podcasting2_tags_to_rss(rss_path, series_id, series_title=None):
                 if ch.get('image_url'):
                     psc_chapter.set('image', ch['image_url'])
 
-            # Generate JSON chapters file and add podcast:chapters reference
-            if metadata.get('date'):
+            # Optionally generate the external JSON chapters file and reference
+            # it via <podcast:chapters>. Disabled by callers (e.g. the personal
+            # overlay) that must not write artefacts under docs/.
+            if external_chapters and metadata.get('date'):
                 filename, cdn_url = generate_chapters_json(
                     series_id,
                     metadata['date'],
@@ -253,14 +327,39 @@ def add_podcasting2_tags_to_rss(rss_path, series_id, series_title=None):
 
             chapters_added += 1
 
-        # Add podcast:alternateEnclosure for video
-        alt_enc = ET.SubElement(item, f'{{{PODCAST_NS}}}alternateEnclosure')
-        alt_enc.set('type', 'application/x-mpegURL')
-        alt_enc.set('length', '0')
-        alt_enc.set('default', 'true')
-        alt_enc.set('title', 'HLS Video Stream')
-        source = ET.SubElement(alt_enc, f'{{{PODCAST_NS}}}source')
-        source.set('uri', url)
+        # Add podcast:alternateEnclosure tags
+        enc_type = enclosure.get('type', '')
+        enc_length = enclosure.get('length', '0')
+        hls_url = metadata.get('hls_url')
+
+        if enc_type == 'video/mp4':
+            # MP4 is the primary enclosure: mirror it in alternateEnclosure as default,
+            # and add the HLS URL as a non-default alternate for Podcasting 2.0 clients
+            # that prefer streaming.
+            alt_mp4 = ET.SubElement(item, f'{{{PODCAST_NS}}}alternateEnclosure')
+            alt_mp4.set('type', 'video/mp4')
+            alt_mp4.set('length', enc_length)
+            alt_mp4.set('default', 'true')
+            alt_mp4.set('title', 'Progressive MP4')
+            mp4_source = ET.SubElement(alt_mp4, f'{{{PODCAST_NS}}}source')
+            mp4_source.set('uri', url)
+
+            if hls_url:
+                alt_hls = ET.SubElement(item, f'{{{PODCAST_NS}}}alternateEnclosure')
+                alt_hls.set('type', 'application/x-mpegURL')
+                alt_hls.set('length', '0')
+                alt_hls.set('title', 'HLS Video Stream')
+                hls_source = ET.SubElement(alt_hls, f'{{{PODCAST_NS}}}source')
+                hls_source.set('uri', hls_url)
+        else:
+            # HLS-only fallback (current behavior for series without mp4_enclosure).
+            alt_enc = ET.SubElement(item, f'{{{PODCAST_NS}}}alternateEnclosure')
+            alt_enc.set('type', 'application/x-mpegURL')
+            alt_enc.set('length', '0')
+            alt_enc.set('default', 'true')
+            alt_enc.set('title', 'HLS Video Stream')
+            source = ET.SubElement(alt_enc, f'{{{PODCAST_NS}}}source')
+            source.set('uri', url)
 
         # Add podcast:person at item level
         person = ET.SubElement(item, f'{{{PODCAST_NS}}}person')
@@ -274,26 +373,76 @@ def add_podcasting2_tags_to_rss(rss_path, series_id, series_title=None):
 
 
 def get_podcast_image(series_id, nrk_id=None):
-    """Get podcast image: use local square image if available, else API image."""
+    """Get podcast image: use local square image if available, else API image.
+
+    Where `series_id` differs from `nrk_id`, the slug-specific PNG won't
+    exist; fall back to the upstream NRK ID's local PNG before going to the
+    API image. This keeps cover artwork consistent across slugs that share
+    an upstream source.
+    """
     local_image_path = f"docs/assets/images/{series_id}-square.png"
     if os.path.exists(local_image_path):
-        # Use the GitHub Pages URL for the local image
         return f"{web_url}/assets/images/{series_id}-square.png"
+    if nrk_id and nrk_id != series_id:
+        nrk_local_path = f"docs/assets/images/{nrk_id}-square.png"
+        if os.path.exists(nrk_local_path):
+            return f"{web_url}/assets/images/{nrk_id}-square.png"
     # Fallback to API image (16:9) — needs the upstream NRK series ID
     return get_series_image(nrk_id or series_id)
 
 
-def get_video_feed(series_id, season, feeds_dir, ep_count=10):
+def get_video_feed(
+    series_id, season, feeds_dir, ep_count=10,
+    mp4_enabled=False, bunny_prefix=None, cdn_base=None, bunny_client=None,
+):
     """
     Generate a video podcast feed for a TV series.
 
     `series_id` is our public-facing slug (used for the RSS filename, cover
-    image lookup, and chapter JSON paths). `nrk_id` is the upstream NRK series
-    identifier used for all psapi.nrk.no calls and the public NRK website URL;
-    it differs from the slug for series listed in NRK_SERIES_ID.
+    image lookup, and chapter JSON paths). The upstream NRK series identifier
+    is looked up via NRK_SERIES_ID, defaulting to `series_id` itself.
+
+    When `mp4_enabled` is True, each episode's HLS source is muxed into a
+    progressive MP4 and uploaded to Bunny Storage so podcatchers (notably
+    Apple Podcasts) treat episodes as Video with Download/Auto-download
+    enabled. The caller may supply `bunny_client`, `bunny_prefix`, and
+    `cdn_base` to control where MP4s are stored and how their public URLs are
+    constructed; if omitted, they fall back to the BUNNY_STORAGE_* env vars
+    and `series_id` as the prefix.
     """
     nrk_id = NRK_SERIES_ID.get(series_id, series_id)
     existing_feed = get_last_feed(feeds_dir, series_id)
+
+    bunny = bunny_client
+    prefix = bunny_prefix or series_id
+    base = cdn_base
+    existing_mp4s = {}
+    kept_dates = set()
+    if mp4_enabled and bunny is None:
+        bunny_zone = os.getenv("BUNNY_STORAGE_ZONE_NAME")
+        bunny_key = os.getenv("BUNNY_STORAGE_ACCESS_KEY")
+        if bunny_zone and bunny_key:
+            bunny = BunnyStorage(bunny_zone, bunny_key)
+        else:
+            logging.warning(
+                "  mp4 enclosure requested but BUNNY_STORAGE_* env vars missing; "
+                "falling back to HLS enclosure"
+            )
+
+    if mp4_enabled and bunny is not None:
+        if not base:
+            logging.warning(
+                "  mp4 enclosure requested but no CDN base supplied; "
+                "falling back to HLS enclosure"
+            )
+            bunny = None
+        else:
+            try:
+                existing_mp4s = _list_existing_mp4s(bunny, prefix)
+            except Exception:
+                logging.warning(
+                    "  Could not list existing MP4s on Bunny; will re-upload as needed"
+                )
 
     last_feed_update = parser.parse("1970-01-01 00:00:01+00:00")
     existing_image = None
@@ -402,7 +551,10 @@ def get_video_feed(series_id, season, feeds_dir, ep_count=10):
         # Episode is valid - process it
         logging.info(f"Episode #{valid_episodes} (checked {checked_episodes}):")
 
-        video_url, video_mime = stream_result
+        hls_url, hls_mime = stream_result
+        enclosure_url = hls_url
+        enclosure_mime = hls_mime
+        enclosure_size = 0
 
         # Get episode image
         images = inst.get("image", [])
@@ -422,34 +574,58 @@ def get_video_feed(series_id, season, feeds_dir, ep_count=10):
         # Get release date
         date = inst.get("releaseDateOnDemand") or inst.get("firstTransmissionDateDisplayValue", "")
 
-        # Fetch chapters (index points) for this episode
-        chapters = get_index_points(program_id)
-        if chapters:
-            episode_chapters[video_url] = chapters
-            logging.info(f"  Found {len(chapters)} chapters")
-
-        # Store episode metadata for Podcasting 2.0 JSON chapters
+        parsed_date = None
         if date:
             try:
                 parsed_date = parser.parse(date)
-                episode_metadata[video_url] = {
-                    'date': parsed_date,
-                    'title': normalize_episode_title(episode_title),
-                    'series_id': series_id
-                }
-            except:
-                pass
+            except Exception:
+                parsed_date = None
+
+        # If MP4 rehosting is enabled and we have a parseable date, ensure an
+        # MP4 exists on Bunny Storage and swap the enclosure to point at it.
+        if bunny is not None and parsed_date is not None:
+            try:
+                mp4_result = _ensure_mp4(
+                    bunny, existing_mp4s, prefix, base, parsed_date.date(), hls_url
+                )
+                if mp4_result is not None:
+                    enclosure_url, enclosure_size = mp4_result
+                    enclosure_mime = "video/mp4"
+                    kept_dates.add(parsed_date.date())
+            except Exception:
+                logging.warning(
+                    "  MP4 mux/upload failed; falling back to HLS enclosure for this episode"
+                )
+
+        # Fetch chapters (index points) for this episode
+        chapters = get_index_points(program_id)
+        if chapters:
+            episode_chapters[enclosure_url] = chapters
+            logging.info(f"  Found {len(chapters)} chapters")
+
+        # Store episode metadata (keyed by the final enclosure URL so the
+        # Podcasting 2.0 post-processor can find chapters + HLS fallback).
+        if parsed_date is not None:
+            episode_metadata[enclosure_url] = {
+                'date': parsed_date,
+                'title': normalize_episode_title(episode_title),
+                'series_id': series_id,
+                'hls_url': hls_url,
+            }
 
         logging.info(f"  Episode title: {episode_title}")
         logging.info(f"  Episode duration: {duration}s")
         logging.info(f"  Episode date: {date}")
-        logging.info(f"  Video URL: {video_url[:80]}...")
+        logging.info(f"  Enclosure: {enclosure_mime} {enclosure_url[:80]}...")
         logging.debug(f"  Episode image URL: {episode_image}")
 
-        # Create episode with video enclosure
+        # Create episode with the final enclosure (MP4 if rehosted, else HLS)
         episode = Episode(
             title=normalize_episode_title(episode_title),
-            media=Media(video_url, 0, type=video_mime, duration=timedelta(seconds=duration)),
+            media=Media(
+                enclosure_url, enclosure_size, type=enclosure_mime,
+                duration=timedelta(seconds=duration)
+            ),
             summary=episode_subtitle,
             image=episode_image
         )
@@ -472,6 +648,15 @@ def get_video_feed(series_id, season, feeds_dir, ep_count=10):
         logging.info(f"No valid episodes found for TV series {series_id}")
         return None
 
+    # Drop MP4s for episodes no longer in the current feed window. We do this
+    # before the early-return below so storage stays clean even when the feed
+    # didn't otherwise need a rebuild.
+    if bunny is not None and kept_dates:
+        try:
+            _prune_stale_mp4s(bunny, prefix, kept_dates)
+        except Exception:
+            logging.warning("  Pruning Bunny MP4s failed")
+
     if not new_episode and not channel_changed:
         logging.info("  No new episodes or channel changes since feed was last updated")
         return None
@@ -493,16 +678,100 @@ def get_video_feed(series_id, season, feeds_dir, ep_count=10):
     return p
 
 
-def write_video_xml(feeds_dir, series_id, podcast):
+def write_video_xml(
+    feeds_dir, series_id, podcast,
+    external_chapters=True, feed_url=None,
+):
     """Write video podcast RSS to file with Podcasting 2.0 tags and chapters."""
     output_path = f"{feeds_dir}/{series_id}.xml"
     podcast.rss_file(output_path, minimize=False)
 
     # Add Podcasting 2.0 tags and chapters (both Podlove inline and JSON external)
-    add_podcasting2_tags_to_rss(output_path, series_id, podcast.name)
+    add_podcasting2_tags_to_rss(
+        output_path, series_id, podcast.name,
+        external_chapters=external_chapters, feed_url=feed_url,
+    )
 
     logging.info(f"Video feed XML successfully written to file: {output_path}\n---")
     return output_path
+
+
+def _run_personal_overlay_if_configured():
+    """
+    Generate an additional video feed configured exclusively via environment.
+
+    Reads PERSONAL_FEED_CDN_BASE, PERSONAL_FEED_PATH_PREFIX,
+    PERSONAL_FEED_SOURCE_SERIES, PERSONAL_FEED_SUBSCRIPTION_SLUG plus the
+    existing BUNNY_STORAGE_*. Returns silently if any are missing. Nothing
+    about this overlay (slug, hostname, prefix, source series) appears
+    anywhere in the repository.
+
+    Logging is deliberately generic: a casual reader of the public CI logs
+    sees that "an overlay step ran" but no concrete identifier.
+    """
+    cdn_base = os.getenv("PERSONAL_FEED_CDN_BASE")
+    prefix = os.getenv("PERSONAL_FEED_PATH_PREFIX")
+    source_series = os.getenv("PERSONAL_FEED_SOURCE_SERIES")
+    subscription_slug = os.getenv("PERSONAL_FEED_SUBSCRIPTION_SLUG")
+    if not (cdn_base and prefix and source_series and subscription_slug):
+        return
+
+    bunny_zone = os.getenv("BUNNY_STORAGE_ZONE_NAME")
+    bunny_key = os.getenv("BUNNY_STORAGE_ACCESS_KEY")
+    if not (bunny_zone and bunny_key):
+        logging.info("[overlay] storage credentials missing; skipping")
+        return
+
+    bunny = BunnyStorage(bunny_zone, bunny_key)
+
+    logging.info("[overlay] starting")
+    with tempfile.TemporaryDirectory() as tmpdir:
+        # Seed the temp dir with the previously published XML, if any, so the
+        # new-episode detection in get_video_feed compares against the right
+        # baseline. A 404 just means this is the first run.
+        seed_path = os.path.join(tmpdir, f"{source_series}.xml")
+        feed_url = f"{cdn_base.rstrip('/')}/{subscription_slug}"
+        try:
+            prev = requests.get(
+                feed_url, headers={"User-Agent": f"nrk-pod-feeder {get_version()}"},
+                timeout=15,
+            )
+            if prev.ok and prev.content:
+                with open(seed_path, "wb") as f:
+                    f.write(prev.content)
+        except Exception:
+            pass  # first-run or transient — proceed without baseline
+
+        episode_chapters.clear()
+        episode_metadata.clear()
+
+        feed = get_video_feed(
+            source_series, None, tmpdir, ep_count=3,
+            mp4_enabled=True,
+            bunny_prefix=prefix,
+            cdn_base=cdn_base,
+            bunny_client=bunny,
+        )
+        if not feed:
+            logging.info("[overlay] no changes; nothing to upload")
+            return
+
+        write_video_xml(
+            tmpdir, source_series, feed,
+            external_chapters=False,
+            feed_url=feed_url,
+        )
+
+        try:
+            bunny.put(
+                subscription_slug, seed_path,
+                content_type="application/rss+xml",
+            )
+        except Exception:
+            logging.warning("[overlay] feed XML upload failed")
+            return
+
+    logging.info("[overlay] done")
 
 
 if __name__ == '__main__':
@@ -523,16 +792,21 @@ if __name__ == '__main__':
         series_id = p["id"]
         series_season = p.get("season")
         ep_count = p.get("episodes", 10)
+        mp4_enabled = p.get("mp4_enclosure", False)
 
         # Clear episode data for each series to avoid leakage
         episode_chapters.clear()
         episode_metadata.clear()
 
-        feed = get_video_feed(series_id, series_season, feeds_dir, ep_count)
+        feed = get_video_feed(
+            series_id, series_season, feeds_dir, ep_count, mp4_enabled=mp4_enabled
+        )
         if not feed:
             logging.debug(f"Got empty result when fetching TV series {series_id}")
             continue
 
         write_video_xml(feeds_dir, series_id, feed)
+
+    _run_personal_overlay_if_configured()
 
     logging.info("Done")
