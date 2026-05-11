@@ -56,9 +56,16 @@
         <hr class="rule rule--thick">
 
         <article class="dispatch">
-            <a class="dispatch__cover-link" href="podcast://bennokress.github.io/nrk-pod-feeds/rss/video/dagsrevyen.xml" aria-label="Subscribe to Dagsrevyen">
+            <button class="dispatch__cover-link" type="button" data-feed="rss/video/dagsrevyen.xml" data-series-name="Dagsrevyen" aria-label="Play latest Dagsrevyen episode">
                 <img class="dispatch__cover" src="assets/images/dagsrevyen-horizontal.png" alt="Dagsrevyen cover" width="1280" height="720">
-            </a>
+                <span class="dispatch__play" aria-hidden="true">
+                    <span class="dispatch__play-arrow">›</span>
+                    <span class="dispatch__play-label">Play latest episode</span>
+                </span>
+                <span class="dispatch__play-touch" aria-hidden="true">
+                    <svg viewBox="0 0 24 24" focusable="false"><path d="M8 5.5v13l11-6.5z"/></svg>
+                </span>
+            </button>
             <div class="dispatch__body">
                 <span class="dispatch__category">Hovedsending</span>
                 <h2 class="dispatch__title"><em>Dagsrevyen</em></h2>
@@ -79,9 +86,16 @@
         <hr class="rule">
 
         <article class="dispatch">
-            <a class="dispatch__cover-link" href="podcast://bennokress.github.io/nrk-pod-feeds/rss/video/dagsrevyen-21.xml" aria-label="Subscribe to Dagsrevyen 21">
+            <button class="dispatch__cover-link" type="button" data-feed="rss/video/dagsrevyen-21.xml" data-series-name="Dagsrevyen 21" aria-label="Play latest Dagsrevyen 21 episode">
                 <img class="dispatch__cover" src="assets/images/dagsrevyen-21-horizontal.png" alt="Dagsrevyen 21 cover" width="1280" height="720">
-            </a>
+                <span class="dispatch__play" aria-hidden="true">
+                    <span class="dispatch__play-arrow">›</span>
+                    <span class="dispatch__play-label">Play latest episode</span>
+                </span>
+                <span class="dispatch__play-touch" aria-hidden="true">
+                    <svg viewBox="0 0 24 24" focusable="false"><path d="M8 5.5v13l11-6.5z"/></svg>
+                </span>
+            </button>
             <div class="dispatch__body">
                 <span class="dispatch__category">Senkveldssending</span>
                 <h2 class="dispatch__title"><em>Dagsrevyen&nbsp;21</em></h2>
@@ -102,9 +116,16 @@
         <hr class="rule">
 
         <article class="dispatch">
-            <a class="dispatch__cover-link" href="podcast://bennokress.github.io/nrk-pod-feeds/rss/video/dagsnytt-18.xml" aria-label="Subscribe to Dagsnytt 18">
+            <button class="dispatch__cover-link" type="button" data-feed="rss/video/dagsnytt-18.xml" data-series-name="Dagsnytt 18" aria-label="Play latest Dagsnytt 18 episode">
                 <img class="dispatch__cover" src="assets/images/dagsnytt-18-horizontal.png" alt="Dagsnytt 18 cover" width="1280" height="720">
-            </a>
+                <span class="dispatch__play" aria-hidden="true">
+                    <span class="dispatch__play-arrow">›</span>
+                    <span class="dispatch__play-label">Play latest episode</span>
+                </span>
+                <span class="dispatch__play-touch" aria-hidden="true">
+                    <svg viewBox="0 0 24 24" focusable="false"><path d="M8 5.5v13l11-6.5z"/></svg>
+                </span>
+            </button>
             <div class="dispatch__body">
                 <span class="dispatch__category">Debattsending</span>
                 <h2 class="dispatch__title"><em>Dagsnytt&nbsp;18</em></h2>
@@ -125,9 +146,16 @@
         <hr class="rule">
 
         <article class="dispatch">
-            <a class="dispatch__cover-link" href="podcast://bennokress.github.io/nrk-pod-feeds/rss/video/kveldsnytt.xml" aria-label="Subscribe to Kveldsnytt">
+            <button class="dispatch__cover-link" type="button" data-feed="rss/video/kveldsnytt.xml" data-series-name="Kveldsnytt" aria-label="Play latest Kveldsnytt episode">
                 <img class="dispatch__cover" src="assets/images/kveldsnytt-horizontal.png" alt="Kveldsnytt cover" width="1280" height="720">
-            </a>
+                <span class="dispatch__play" aria-hidden="true">
+                    <span class="dispatch__play-arrow">›</span>
+                    <span class="dispatch__play-label">Play latest episode</span>
+                </span>
+                <span class="dispatch__play-touch" aria-hidden="true">
+                    <svg viewBox="0 0 24 24" focusable="false"><path d="M8 5.5v13l11-6.5z"/></svg>
+                </span>
+            </button>
             <div class="dispatch__body">
                 <span class="dispatch__category">Nattsending</span>
                 <h2 class="dispatch__title"><em>Kveldsnytt</em></h2>
@@ -148,9 +176,16 @@
         <hr class="rule">
 
         <article class="dispatch">
-            <a class="dispatch__cover-link" href="podcast://bennokress.github.io/nrk-pod-feeds/rss/video/nyhetsmorgen.xml" aria-label="Subscribe to Nyhetsmorgen">
+            <button class="dispatch__cover-link" type="button" data-feed="rss/video/nyhetsmorgen.xml" data-series-name="Nyhetsmorgen" aria-label="Play latest Nyhetsmorgen episode">
                 <img class="dispatch__cover" src="assets/images/nyhetsmorgen-horizontal.png" alt="Nyhetsmorgen cover" width="1280" height="720">
-            </a>
+                <span class="dispatch__play" aria-hidden="true">
+                    <span class="dispatch__play-arrow">›</span>
+                    <span class="dispatch__play-label">Play latest episode</span>
+                </span>
+                <span class="dispatch__play-touch" aria-hidden="true">
+                    <svg viewBox="0 0 24 24" focusable="false"><path d="M8 5.5v13l11-6.5z"/></svg>
+                </span>
+            </button>
             <div class="dispatch__body">
                 <span class="dispatch__category">Morgensending</span>
                 <h2 class="dispatch__title"><em>Nyhetsmorgen</em></h2>
@@ -251,6 +286,236 @@
                         document.body.removeChild(ta);
                     }
                 });
+            });
+        })();
+
+        // Inline HLS playback on the cover. Click the cover → fetch the feed,
+        // grab the first <enclosure url>, swap the cover for a <video> element
+        // of the same dimensions, stream via native HLS (Safari) or hls.js.
+        (function () {
+            var HLS_JS_URL = 'https://cdn.jsdelivr.net/npm/hls.js@1/dist/hls.min.js';
+            var hlsLoader = null;
+            var activeRestore = null;
+            var feedCache = new Map();
+
+            function loadHlsJs() {
+                if (window.Hls) return Promise.resolve(window.Hls);
+                if (hlsLoader) return hlsLoader;
+                hlsLoader = new Promise(function (resolve, reject) {
+                    var s = document.createElement('script');
+                    s.src = HLS_JS_URL;
+                    s.async = true;
+                    s.onload = function () { resolve(window.Hls); };
+                    s.onerror = function () { hlsLoader = null; reject(new Error('hls.js failed to load')); };
+                    document.head.appendChild(s);
+                });
+                return hlsLoader;
+            }
+
+            function fetchLatestEpisode(feedUrl) {
+                if (feedCache.has(feedUrl)) return feedCache.get(feedUrl);
+                var promise = fetch(feedUrl, { cache: 'no-cache' })
+                    .then(function (r) {
+                        if (!r.ok) throw new Error('Feed HTTP ' + r.status);
+                        return r.text();
+                    })
+                    .then(function (xml) {
+                        var doc = new DOMParser().parseFromString(xml, 'application/xml');
+                        if (doc.querySelector('parsererror')) throw new Error('Feed parse error');
+                        var item = doc.querySelector('item');
+                        if (!item) throw new Error('No <item> in feed');
+                        var hlsAlt = item.querySelector(
+                            'alternateEnclosure[type="application/x-mpegURL"] source[uri], ' +
+                            'alternateEnclosure[type="application/vnd.apple.mpegurl"] source[uri]'
+                        );
+                        var url = hlsAlt && hlsAlt.getAttribute('uri');
+                        if (!url) {
+                            var enc = item.querySelector('enclosure[url]');
+                            url = enc && enc.getAttribute('url');
+                        }
+                        if (!url) throw new Error('No enclosure URL');
+                        var pubDateEl = item.querySelector('pubDate');
+                        return { url: url, pubDate: pubDateEl ? pubDateEl.textContent : null };
+                    })
+                    .catch(function (err) {
+                        feedCache.delete(feedUrl);
+                        throw err;
+                    });
+                feedCache.set(feedUrl, promise);
+                return promise;
+            }
+
+            function relativeEpisodeWord(rfc2822) {
+                if (!rfc2822) return 'latest';
+                var pub = new Date(rfc2822);
+                if (isNaN(pub.getTime())) return 'latest';
+                var startOfDay = function (d) { var c = new Date(d); c.setHours(0, 0, 0, 0); return c.getTime(); };
+                var diffDays = Math.round((startOfDay(new Date()) - startOfDay(pub)) / 86400000);
+                if (diffDays === 0) return "today's";
+                if (diffDays === 1) return "yesterday's";
+                return 'latest';
+            }
+
+            function updateRibbonLabel(button, word) {
+                var labelEl = button.querySelector('.dispatch__play-label');
+                if (labelEl) labelEl.textContent = 'Play ' + word + ' episode';
+                button.setAttribute('aria-label', 'Play ' + word + ' ' + (button.getAttribute('data-series-name') || '') + ' episode');
+            }
+
+            function tearDownActive() {
+                if (activeRestore) {
+                    try { activeRestore(); } catch (e) { /* swallow */ }
+                    activeRestore = null;
+                }
+            }
+
+            function attachVideoSource(video, url) {
+                // Prefer hls.js over native HLS: macOS Chrome's native pipeline
+                // hits a VideoToolbox decode error (-12909) on NRK's muxed stream
+                // after ~1 frame. hls.js re-muxes .ts to fMP4 before MSE, which
+                // produces a bitstream the decoder accepts.
+                return loadHlsJs().catch(function () { return null; }).then(function (Hls) {
+                    if (Hls && Hls.isSupported()) {
+                        var hls = new Hls({
+                            debug: false,
+                            maxBufferLength: 30,
+                            maxMaxBufferLength: 60
+                        });
+                        hls.loadSource(url);
+                        hls.attachMedia(video);
+                        return hls;
+                    }
+                    if (video.canPlayType('application/vnd.apple.mpegurl')) {
+                        video.src = url;
+                        return null;
+                    }
+                    throw new Error('No HLS playback path available');
+                });
+            }
+
+            function mediaErrorText(err) {
+                if (!err) return 'unknown';
+                var codes = { 1: 'aborted', 2: 'network', 3: 'decode', 4: 'unsupported source' };
+                return codes[err.code] || ('code ' + err.code);
+            }
+
+            function showError(button, player, message) {
+                while (player.firstChild) player.removeChild(player.firstChild);
+                var msg = document.createElement('div');
+                msg.className = 'dispatch__error';
+                msg.textContent = message;
+                player.appendChild(msg);
+                var close = makeCloseButton(button);
+                player.appendChild(close);
+            }
+
+            function makeCloseButton(button) {
+                var close = document.createElement('button');
+                close.type = 'button';
+                close.className = 'dispatch__close';
+                close.setAttribute('aria-label', 'Close player');
+                close.textContent = '×';
+                close.addEventListener('click', function (ev) {
+                    ev.stopPropagation();
+                    tearDownActive();
+                });
+                return close;
+            }
+
+            function play(button) {
+                if (button.classList.contains('is-loading')) return;
+                tearDownActive();
+
+                var feedUrl = button.getAttribute('data-feed');
+                var seriesName = button.getAttribute('data-series-name') || 'episode';
+                if (!feedUrl) return;
+
+                button.classList.add('is-loading');
+
+                var parent = button.parentNode;
+                var hlsInstance = null;
+
+                function restore() {
+                    if (hlsInstance && typeof hlsInstance.destroy === 'function') {
+                        try { hlsInstance.destroy(); } catch (e) { /* swallow */ }
+                    }
+                    if (player.parentNode === parent) {
+                        parent.replaceChild(button, player);
+                    }
+                    button.classList.remove('is-loading');
+                }
+
+                var player = document.createElement('div');
+                player.className = 'dispatch__player';
+
+                fetchLatestEpisode(feedUrl)
+                    .then(function (meta) {
+                        var url = meta.url;
+                        var video = document.createElement('video');
+                        video.className = 'dispatch__video';
+                        video.controls = true;
+                        video.autoplay = true;
+                        video.playsInline = true;
+                        video.preload = 'metadata';
+                        video.addEventListener('ended', function () {
+                            if (activeRestore === restore) tearDownActive();
+                        });
+
+                        parent.replaceChild(player, button);
+                        player.appendChild(video);
+                        player.appendChild(makeCloseButton(button));
+                        activeRestore = restore;
+
+                        return attachVideoSource(video, url).then(function (hls) {
+                            hlsInstance = hls;
+                            if (hls && hls.on) {
+                                // hls.js path: let hls.js own error handling so it
+                                // can attempt recoverMediaError before we declare
+                                // failure.
+                                var mediaRecoveries = 0;
+                                hls.on(window.Hls.Events.ERROR, function (_e, data) {
+                                    if (!data || !data.fatal) return;
+                                    if (data.type === window.Hls.ErrorTypes.MEDIA_ERROR && mediaRecoveries < 2) {
+                                        mediaRecoveries += 1;
+                                        try {
+                                            if (mediaRecoveries === 2 && typeof hls.swapAudioCodec === 'function') {
+                                                hls.swapAudioCodec();
+                                            }
+                                            hls.recoverMediaError();
+                                        } catch (e) { /* fall through to error chip */ }
+                                        return;
+                                    }
+                                    showError(button, player, 'Stream unavailable. ' + seriesName + ' may be geo-restricted.');
+                                });
+                            } else {
+                                // Native HLS (Safari) path: <video> element is the
+                                // only source of error signal we'll get.
+                                video.addEventListener('error', function () {
+                                    showError(button, player, 'Playback failed (' + mediaErrorText(video.error) + ').');
+                                });
+                            }
+                            var p = video.play();
+                            if (p && typeof p.catch === 'function') {
+                                p.catch(function () { /* user can press play */ });
+                            }
+                        });
+                    })
+                    .catch(function () {
+                        if (!player.parentNode) {
+                            button.classList.remove('is-loading');
+                            return;
+                        }
+                        showError(button, player, 'Could not load the latest ' + seriesName + ' episode.');
+                    });
+            }
+
+            document.querySelectorAll('.dispatch__cover-link').forEach(function (btn) {
+                btn.addEventListener('click', function () { play(btn); });
+                var feedUrl = btn.getAttribute('data-feed');
+                if (!feedUrl) return;
+                fetchLatestEpisode(feedUrl).then(function (meta) {
+                    updateRibbonLabel(btn, relativeEpisodeWord(meta.pubDate));
+                }).catch(function () { /* default "latest" label stays */ });
             });
         })();
     </script>
