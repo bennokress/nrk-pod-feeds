@@ -93,4 +93,4 @@ jobs:
             --head "$BRANCH" \
             --title "chore(auto): Update video podcast feed(s)" \
             --body "Automated hourly feed update."
-          gh pr merge "$BRANCH" --auto --merge --delete-branch
+          gh pr merge "$BRANCH" --merge --delete-branch
