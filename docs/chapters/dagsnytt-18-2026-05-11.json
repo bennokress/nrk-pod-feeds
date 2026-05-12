@@ -1,0 +1,63 @@
+{
+  "version": "1.2.0",
+  "title": "Streiken fortsetter",
+  "author": "NRK",
+  "podcastName": "Dagsnytt 18",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsnytt atten",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa56051126/62e82512-17.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 57,
+      "title": "Skyting i Nice",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa56051126/62e82512-17.smil/thumb.jpg?t=83&scale=480x270&v=high"
+    },
+    {
+      "startTime": 153,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa56051126/62e82512-17.smil/thumb.jpg?t=178&scale=480x270&v=high"
+    },
+    {
+      "startTime": 156,
+      "title": "Forskuttering av sykepenger",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa56051126/62e82512-17.smil/thumb.jpg?t=182&scale=480x270&v=high"
+    },
+    {
+      "startTime": 697,
+      "title": "Eldreomsorg",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa56051126/62e82512-17.smil/thumb.jpg?t=723&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1393,
+      "title": "Intern Høyre-kritikk",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa56051126/62e82512-17.smil/thumb.jpg?t=1418&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1860,
+      "title": "Starmer i trøbbel",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa56051126/62e82512-17.smil/thumb.jpg?t=1886&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2301,
+      "title": "Lærere og ytringsfrihet",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa56051126/62e82512-17.smil/thumb.jpg?t=2326&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2811,
+      "title": "Russebusser",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa56051126/62e82512-17.smil/thumb.jpg?t=2837&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3523,
+      "title": "AVSLUTNING",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa56051126/62e82512-17.smil/thumb.jpg?t=3543.76&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3526,
+      "title": "SLUTTKJENNING",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa56051126/62e82512-17.smil/thumb.jpg?t=3543.76&scale=480x270&v=high"
+    }
+  ]
+}
