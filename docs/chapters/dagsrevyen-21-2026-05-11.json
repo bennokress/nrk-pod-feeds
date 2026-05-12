@@ -1,0 +1,63 @@
+{
+  "version": "1.2.0",
+  "title": "Lenge til vi får el-fly i trafikk",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa21051126/2ad8c6f1-15.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 32,
+      "title": "Ukraina",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa21051126/2ad8c6f1-15.smil/thumb.jpg?t=58&scale=480x270&v=high"
+    },
+    {
+      "startTime": 146,
+      "title": "Stubb om Ukraina",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa21051126/2ad8c6f1-15.smil/thumb.jpg?t=172&scale=480x270&v=high"
+    },
+    {
+      "startTime": 169,
+      "title": "Virusskip",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa21051126/2ad8c6f1-15.smil/thumb.jpg?t=194&scale=480x270&v=high"
+    },
+    {
+      "startTime": 191,
+      "title": "Brann Levanger",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa21051126/2ad8c6f1-15.smil/thumb.jpg?t=217&scale=480x270&v=high"
+    },
+    {
+      "startTime": 203,
+      "title": "Sykepenger",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa21051126/2ad8c6f1-15.smil/thumb.jpg?t=228&scale=480x270&v=high"
+    },
+    {
+      "startTime": 282,
+      "title": "Prisvekst",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa21051126/2ad8c6f1-15.smil/thumb.jpg?t=308&scale=480x270&v=high"
+    },
+    {
+      "startTime": 342,
+      "title": "Trump om Iran",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa21051126/2ad8c6f1-15.smil/thumb.jpg?t=367&scale=480x270&v=high"
+    },
+    {
+      "startTime": 382,
+      "title": "El-fly skepsis",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa21051126/2ad8c6f1-15.smil/thumb.jpg?t=408&scale=480x270&v=high"
+    },
+    {
+      "startTime": 492,
+      "title": "Været",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa21051126/2ad8c6f1-15.smil/thumb.jpg?t=518&scale=480x270&v=high"
+    },
+    {
+      "startTime": 542,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa21051126/2ad8c6f1-15.smil/thumb.jpg?t=560.6&scale=480x270&v=high"
+    }
+  ]
+}
