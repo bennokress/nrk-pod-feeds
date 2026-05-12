@@ -1,0 +1,148 @@
+{
+  "version": "1.2.0",
+  "title": "Alle hyller golfsensasjonen",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 9,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa19051126/4373c103-16.smil/thumb.jpg?t=35&scale=480x270&v=high"
+    },
+    {
+      "startTime": 70,
+      "title": "MS Hondius",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa19051126/4373c103-16.smil/thumb.jpg?t=96&scale=480x270&v=high"
+    },
+    {
+      "startTime": 187,
+      "title": "Skyting Nice",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa19051126/4373c103-16.smil/thumb.jpg?t=213&scale=480x270&v=high"
+    },
+    {
+      "startTime": 215,
+      "title": "Prisvekst",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa19051126/4373c103-16.smil/thumb.jpg?t=241&scale=480x270&v=high"
+    },
+    {
+      "startTime": 328,
+      "title": "Gjest",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa19051126/4373c103-16.smil/thumb.jpg?t=354&scale=480x270&v=high"
+    },
+    {
+      "startTime": 449,
+      "title": "Turistfiskere ulykke",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa19051126/4373c103-16.smil/thumb.jpg?t=474&scale=480x270&v=high"
+    },
+    {
+      "startTime": 618,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa19051126/4373c103-16.smil/thumb.jpg?t=643&scale=480x270&v=high"
+    },
+    {
+      "startTime": 679,
+      "title": "Iran USA",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa19051126/4373c103-16.smil/thumb.jpg?t=705&scale=480x270&v=high"
+    },
+    {
+      "startTime": 711,
+      "title": "Direkte Beirut",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa19051126/4373c103-16.smil/thumb.jpg?t=737&scale=480x270&v=high"
+    },
+    {
+      "startTime": 823,
+      "title": "Starmer krise",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa19051126/4373c103-16.smil/thumb.jpg?t=848&scale=480x270&v=high"
+    },
+    {
+      "startTime": 911,
+      "title": "Direkte London",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa19051126/4373c103-16.smil/thumb.jpg?t=937&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1036,
+      "title": "Nyheter Norge rundt",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa19051126/4373c103-16.smil/thumb.jpg?t=1062&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1145,
+      "title": "Sykemelding",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa19051126/4373c103-16.smil/thumb.jpg?t=1171&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1265,
+      "title": "Sprengstoffanlegg",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa19051126/4373c103-16.smil/thumb.jpg?t=1290&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1457,
+      "title": "Reitans golfseier",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa19051126/4373c103-16.smil/thumb.jpg?t=1482&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1518,
+      "title": "Golf",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa19051126/4373c103-16.smil/thumb.jpg?t=1543&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1632,
+      "title": "Gjest: Peter Kaensche",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa19051126/4373c103-16.smil/thumb.jpg?t=1657&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1790,
+      "title": "Reitans golfseier",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa19051126/4373c103-16.smil/thumb.jpg?t=1815&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1865,
+      "title": "Gjest: Peter Kaensche",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa19051126/4373c103-16.smil/thumb.jpg?t=1890&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1955,
+      "title": "ESC Wien",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa19051126/4373c103-16.smil/thumb.jpg?t=1980&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1992,
+      "title": "Direkte Wien",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa19051126/4373c103-16.smil/thumb.jpg?t=2018&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2106,
+      "title": "Gjeldskampen",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa19051126/4373c103-16.smil/thumb.jpg?t=2131&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2223,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa19051126/4373c103-16.smil/thumb.jpg?t=2249&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2228,
+      "title": "Friidrett",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa19051126/4373c103-16.smil/thumb.jpg?t=2254&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2306,
+      "title": "Fotball",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa19051126/4373c103-16.smil/thumb.jpg?t=2331&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2331,
+      "title": "Ny landslagstrener",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa19051126/4373c103-16.smil/thumb.jpg?t=2357&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2348,
+      "title": "Langrenn",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa19051126/4373c103-16.smil/thumb.jpg?t=2373&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2440,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa19051126/4373c103-16.smil/thumb.jpg?t=2465&scale=480x270&v=high"
+    }
+  ]
+}
