@@ -1,0 +1,303 @@
+{
+  "version": "1.2.0",
+  "title": "- Vær forberedt på kanselleringer i sommer",
+  "author": "NRK",
+  "podcastName": "Nyhetsmorgen",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Åpning 06:30",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05051126/ea04b117-17.smil/thumb.jpg?t=26&scale=480x270&v=high"
+    },
+    {
+      "startTime": 74,
+      "title": "Streiken: Sier nei til midlertidig løsning",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05051126/ea04b117-17.smil/thumb.jpg?t=100&scale=480x270&v=high"
+    },
+    {
+      "startTime": 265,
+      "title": "Reisetrøbbel i sommer",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05051126/ea04b117-17.smil/thumb.jpg?t=290&scale=480x270&v=high"
+    },
+    {
+      "startTime": 315,
+      "title": "Siste nytt",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05051126/ea04b117-17.smil/thumb.jpg?t=340&scale=480x270&v=high"
+    },
+    {
+      "startTime": 434,
+      "title": "DKOA Kutt i hjemmetjenesten",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05051126/ea04b117-17.smil/thumb.jpg?t=460&scale=480x270&v=high"
+    },
+    {
+      "startTime": 541,
+      "title": "DKBU Gjeldskampen",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05051126/ea04b117-17.smil/thumb.jpg?t=567&scale=480x270&v=high"
+    },
+    {
+      "startTime": 685,
+      "title": "Skoene som bryter rekorder",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05051126/ea04b117-17.smil/thumb.jpg?t=711&scale=480x270&v=high"
+    },
+    {
+      "startTime": 826,
+      "title": "Topper 06:45",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05051126/ea04b117-17.smil/thumb.jpg?t=851&scale=480x270&v=high"
+    },
+    {
+      "startTime": 860,
+      "title": "GJEST Norsk golfbragd",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05051126/ea04b117-17.smil/thumb.jpg?t=886&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1042,
+      "title": "Anja Breien døde i går",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05051126/ea04b117-17.smil/thumb.jpg?t=1068&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1189,
+      "title": "GJEST Minnes Anja Breien",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05051126/ea04b117-17.smil/thumb.jpg?t=1215&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1576,
+      "title": "Plass i søskenflokken",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05051126/ea04b117-17.smil/thumb.jpg?t=1602&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1732,
+      "title": "Enquete plassering søskenflokk",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05051126/ea04b117-17.smil/thumb.jpg?t=1757&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1818,
+      "title": "Teasing dagens sending",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05051126/ea04b117-17.smil/thumb.jpg?t=1844&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1850,
+      "title": "Åpning 07:00",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05051126/ea04b117-17.smil/thumb.jpg?t=1876&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1909,
+      "title": "DKTL 7 av 10 vil ha kortere arbeidsuke",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05051126/ea04b117-17.smil/thumb.jpg?t=1934&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2132,
+      "title": "GJEST Forskningssjef om kortere arbeidsuke",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05051126/ea04b117-17.smil/thumb.jpg?t=2157&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2339,
+      "title": "Reisetrøbbel i sommer",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05051126/ea04b117-17.smil/thumb.jpg?t=2364&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2559,
+      "title": "Pålegg om standardiserte sykmeldinger",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05051126/ea04b117-17.smil/thumb.jpg?t=2585&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2633,
+      "title": "GJEST Før Politisk kvarter",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05051126/ea04b117-17.smil/thumb.jpg?t=2658&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2665,
+      "title": "Topper 07:15",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05051126/ea04b117-17.smil/thumb.jpg?t=2691&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2698,
+      "title": "GJEST Siste om fredsforhandlinger USA - Iran",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05051126/ea04b117-17.smil/thumb.jpg?t=2724&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2898,
+      "title": "Israels statsminister intervjuet i natt",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05051126/ea04b117-17.smil/thumb.jpg?t=2923&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3060,
+      "title": "DIREKTE Presset mot Starmer øker",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05051126/ea04b117-17.smil/thumb.jpg?t=3086&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3356,
+      "title": "DKNO Sykehus må ruste seg for krise og krig",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05051126/ea04b117-17.smil/thumb.jpg?t=3381&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3560,
+      "title": "Teasing dagens sending",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05051126/ea04b117-17.smil/thumb.jpg?t=3586&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3567,
+      "title": "Leseklubben: Kafka på stranden",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05051126/ea04b117-17.smil/thumb.jpg?t=3593&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3599,
+      "title": "Topper 07:30",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05051126/ea04b117-17.smil/thumb.jpg?t=3625&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3631,
+      "title": "Reisetrøbbel i sommer",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05051126/ea04b117-17.smil/thumb.jpg?t=3656&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3759,
+      "title": "Reitan til topps i PGA-turnering",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05051126/ea04b117-17.smil/thumb.jpg?t=3785&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3840,
+      "title": "DKTL 7 av 10 vil ha kortere arbeidsuke",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05051126/ea04b117-17.smil/thumb.jpg?t=3865&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3957,
+      "title": "Streiken: Sier nei til midlertidig løsning",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05051126/ea04b117-17.smil/thumb.jpg?t=3983&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4081,
+      "title": "Plass i søskenflokken",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05051126/ea04b117-17.smil/thumb.jpg?t=4106&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4198,
+      "title": "Åpning 07:40",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05051126/ea04b117-17.smil/thumb.jpg?t=4223&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4214,
+      "title": "DKFI Utfordring med KI i nord",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05051126/ea04b117-17.smil/thumb.jpg?t=4240&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4460,
+      "title": "Topper 07:44",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05051126/ea04b117-17.smil/thumb.jpg?t=4486&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4464,
+      "title": "Overgang til Politisk kvarter",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05051126/ea04b117-17.smil/thumb.jpg?t=4489&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5400,
+      "title": "NRK Nyheter 08:00",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05051126/ea04b117-17.smil/thumb.jpg?t=5425&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5579,
+      "title": "Åpning 08:03",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05051126/ea04b117-17.smil/thumb.jpg?t=5604&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5646,
+      "title": "GJEST KPI prisene i april",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05051126/ea04b117-17.smil/thumb.jpg?t=5671&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5845,
+      "title": "DIREKTE Status fredsforhandlinger USA-Iran",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05051126/ea04b117-17.smil/thumb.jpg?t=5871&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6057,
+      "title": "DKTL 7 av 10 vil ha kortere arbeidsuke",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05051126/ea04b117-17.smil/thumb.jpg?t=6083&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6280,
+      "title": "Topper 08:15",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05051126/ea04b117-17.smil/thumb.jpg?t=6306&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6318,
+      "title": "Streiken: Sier nei til midlertidig løsning",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05051126/ea04b117-17.smil/thumb.jpg?t=6343&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6509,
+      "title": "DIREKTE Streiken trappes opp",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05051126/ea04b117-17.smil/thumb.jpg?t=6535&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6640,
+      "title": "Mandagspanelet",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05051126/ea04b117-17.smil/thumb.jpg?t=6666&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7128,
+      "title": "Mellomtopper",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05051126/ea04b117-17.smil/thumb.jpg?t=7153&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7186,
+      "title": "Reisetrøbbel i sommer",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05051126/ea04b117-17.smil/thumb.jpg?t=7212&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7402,
+      "title": "GJEST Økonomikommentator om KPI-tall for april",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05051126/ea04b117-17.smil/thumb.jpg?t=7428&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7665,
+      "title": "Strammer inn på sykemeldingsordningen",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05051126/ea04b117-17.smil/thumb.jpg?t=7691&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7889,
+      "title": "Israels statsminister intervjuet i natt",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05051126/ea04b117-17.smil/thumb.jpg?t=7914&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8051,
+      "title": "DIR Før Ekko i NRK P2",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05051126/ea04b117-17.smil/thumb.jpg?t=8076&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8084,
+      "title": "Topper 08:45",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05051126/ea04b117-17.smil/thumb.jpg?t=8110&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8122,
+      "title": "GJEST Joachim Trier om Breien",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05051126/ea04b117-17.smil/thumb.jpg?t=8147&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8421,
+      "title": "GJEST «Adolescence» historisk  Bafta",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05051126/ea04b117-17.smil/thumb.jpg?t=8446&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8555,
+      "title": "Reitan til topps i PGA-turnering",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05051126/ea04b117-17.smil/thumb.jpg?t=8580&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8630,
+      "title": "GJEST Anmeldelse: «Mixtape»",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05051126/ea04b117-17.smil/thumb.jpg?t=8656&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8935,
+      "title": "GJEST Været i dag",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05051126/ea04b117-17.smil/thumb.jpg?t=8960&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8999,
+      "title": "Avslutning",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05051126/ea04b117-17.smil/thumb.jpg?t=9003.44&scale=480x270&v=high"
+    }
+  ]
+}
