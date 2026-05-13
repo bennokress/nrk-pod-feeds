@@ -1,0 +1,168 @@
+{
+  "version": "1.2.0",
+  "title": "Verdens mektigste menn møtes",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 12,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa19051226/ddebe4b9-6.smil/thumb.jpg?t=37&scale=480x270&v=high"
+    },
+    {
+      "startTime": 69,
+      "title": "Ulykke Enebakk",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa19051226/ddebe4b9-6.smil/thumb.jpg?t=95&scale=480x270&v=high"
+    },
+    {
+      "startTime": 86,
+      "title": "Revidert nasjonalbudsjett",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa19051226/ddebe4b9-6.smil/thumb.jpg?t=111&scale=480x270&v=high"
+    },
+    {
+      "startTime": 118,
+      "title": "Gjest Aglen",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa19051226/ddebe4b9-6.smil/thumb.jpg?t=143&scale=480x270&v=high"
+    },
+    {
+      "startTime": 161,
+      "title": "Revidert nasjonalbudsjett",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa19051226/ddebe4b9-6.smil/thumb.jpg?t=186&scale=480x270&v=high"
+    },
+    {
+      "startTime": 416,
+      "title": "Gjest Aglen",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa19051226/ddebe4b9-6.smil/thumb.jpg?t=441&scale=480x270&v=high"
+    },
+    {
+      "startTime": 516,
+      "title": "Kniv i retten",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa19051226/ddebe4b9-6.smil/thumb.jpg?t=541&scale=480x270&v=high"
+    },
+    {
+      "startTime": 628,
+      "title": "Frankrike dødshjelp",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa19051226/ddebe4b9-6.smil/thumb.jpg?t=654&scale=480x270&v=high"
+    },
+    {
+      "startTime": 687,
+      "title": "Direkte Brussel",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa19051226/ddebe4b9-6.smil/thumb.jpg?t=712&scale=480x270&v=high"
+    },
+    {
+      "startTime": 757,
+      "title": "Frankrike dødshjelp",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa19051226/ddebe4b9-6.smil/thumb.jpg?t=783&scale=480x270&v=high"
+    },
+    {
+      "startTime": 905,
+      "title": "Utenriksnyheter",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa19051226/ddebe4b9-6.smil/thumb.jpg?t=931&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1068,
+      "title": "Ukraina korrupsjon",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa19051226/ddebe4b9-6.smil/thumb.jpg?t=1093&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1204,
+      "title": "Frølich",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa19051226/ddebe4b9-6.smil/thumb.jpg?t=1229&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1368,
+      "title": "Direkte Kyiv",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa19051226/ddebe4b9-6.smil/thumb.jpg?t=1394&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1469,
+      "title": "Trump til Kina",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa19051226/ddebe4b9-6.smil/thumb.jpg?t=1495&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1554,
+      "title": "Direkte Beijing",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa19051226/ddebe4b9-6.smil/thumb.jpg?t=1579&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1658,
+      "title": "Direkte USA",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa19051226/ddebe4b9-6.smil/thumb.jpg?t=1684&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1760,
+      "title": "ESC semifinale",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa19051226/ddebe4b9-6.smil/thumb.jpg?t=1785&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1873,
+      "title": "Direkte Wien",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa19051226/ddebe4b9-6.smil/thumb.jpg?t=1898&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1933,
+      "title": "Prinsesse Astrid",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa19051226/ddebe4b9-6.smil/thumb.jpg?t=1959&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1964,
+      "title": "Kongeparet",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa19051226/ddebe4b9-6.smil/thumb.jpg?t=1990&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2083,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa19051226/ddebe4b9-6.smil/thumb.jpg?t=2109&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2089,
+      "title": "Casper Ruud",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa19051226/ddebe4b9-6.smil/thumb.jpg?t=2114&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2159,
+      "title": "Mosgaard",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa19051226/ddebe4b9-6.smil/thumb.jpg?t=2185&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2182,
+      "title": "Sverige tropp",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa19051226/ddebe4b9-6.smil/thumb.jpg?t=2207&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2199,
+      "title": "Synk Potter",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa19051226/ddebe4b9-6.smil/thumb.jpg?t=2224&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2228,
+      "title": "Weng",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa19051226/ddebe4b9-6.smil/thumb.jpg?t=2253&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2246,
+      "title": "Håndball",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa19051226/ddebe4b9-6.smil/thumb.jpg?t=2272&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2329,
+      "title": "Warholm",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa19051226/ddebe4b9-6.smil/thumb.jpg?t=2354&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2399,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa19051226/ddebe4b9-6.smil/thumb.jpg?t=2425&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2577,
+      "title": "Enebakk",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa19051226/ddebe4b9-6.smil/thumb.jpg?t=2603&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2588,
+      "title": "Direkte Enebakk",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa19051226/ddebe4b9-6.smil/thumb.jpg?t=2613&scale=480x270&v=high"
+    }
+  ]
+}
