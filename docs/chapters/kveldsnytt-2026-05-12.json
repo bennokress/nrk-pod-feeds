@@ -1,0 +1,68 @@
+{
+  "version": "1.2.0",
+  "title": "Alle sier nei til Støres VM-fest",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa23051226/c6c977e6-8.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 34,
+      "title": "Ulykke Enebakk",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa23051226/c6c977e6-8.smil/thumb.jpg?t=59&scale=480x270&v=high"
+    },
+    {
+      "startTime": 126,
+      "title": "Statsminister får ikke rødgrønn skjenkestøtte",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa23051226/c6c977e6-8.smil/thumb.jpg?t=151&scale=480x270&v=high"
+    },
+    {
+      "startTime": 222,
+      "title": "Høring Patel",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa23051226/c6c977e6-8.smil/thumb.jpg?t=248&scale=480x270&v=high"
+    },
+    {
+      "startTime": 278,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa23051226/c6c977e6-8.smil/thumb.jpg?t=303&scale=480x270&v=high"
+    },
+    {
+      "startTime": 364,
+      "title": "Første semifinale ESC",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa23051226/c6c977e6-8.smil/thumb.jpg?t=389&scale=480x270&v=high"
+    },
+    {
+      "startTime": 449,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa23051226/c6c977e6-8.smil/thumb.jpg?t=475&scale=480x270&v=high"
+    },
+    {
+      "startTime": 536,
+      "title": "Roma Open",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa23051226/c6c977e6-8.smil/thumb.jpg?t=562&scale=480x270&v=high"
+    },
+    {
+      "startTime": 596,
+      "title": "Engelsk fotball",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa23051226/c6c977e6-8.smil/thumb.jpg?t=621&scale=480x270&v=high"
+    },
+    {
+      "startTime": 657,
+      "title": "Håndball",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa23051226/c6c977e6-8.smil/thumb.jpg?t=683&scale=480x270&v=high"
+    },
+    {
+      "startTime": 728,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa23051226/c6c977e6-8.smil/thumb.jpg?t=754&scale=480x270&v=high"
+    },
+    {
+      "startTime": 795,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa23051226/c6c977e6-8.smil/thumb.jpg?t=814.64&scale=480x270&v=high"
+    }
+  ]
+}
