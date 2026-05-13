@@ -1,0 +1,73 @@
+{
+  "version": "1.2.0",
+  "title": "Regjeringen har lagt frem revidert nasjonalbudsjett",
+  "author": "NRK",
+  "podcastName": "Dagsnytt 18",
+  "chapters": [
+    {
+      "startTime": 2,
+      "title": "Dagsnytt atten",
+      "img": "https://nrk-od-world-07.akamaized.net/open/ps/nnfa/nnfa56051226/83235106-7.smil/thumb.jpg?t=27&scale=480x270&v=high"
+    },
+    {
+      "startTime": 55,
+      "title": "Revidert og samarbeid",
+      "img": "https://nrk-od-world-07.akamaized.net/open/ps/nnfa/nnfa56051226/83235106-7.smil/thumb.jpg?t=80&scale=480x270&v=high"
+    },
+    {
+      "startTime": 972,
+      "title": "Revidert og opposisjonen",
+      "img": "https://nrk-od-world-07.akamaized.net/open/ps/nnfa/nnfa56051226/83235106-7.smil/thumb.jpg?t=998&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1430,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-07.akamaized.net/open/ps/nnfa/nnfa56051226/83235106-7.smil/thumb.jpg?t=1456&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1447,
+      "title": "Kommentatorer om revidert",
+      "img": "https://nrk-od-world-07.akamaized.net/open/ps/nnfa/nnfa56051226/83235106-7.smil/thumb.jpg?t=1473&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1878,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-07.akamaized.net/open/ps/nnfa/nnfa56051226/83235106-7.smil/thumb.jpg?t=1904&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1894,
+      "title": "Nasjonale ungdomsråd",
+      "img": "https://nrk-od-world-07.akamaized.net/open/ps/nnfa/nnfa56051226/83235106-7.smil/thumb.jpg?t=1920&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2378,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-07.akamaized.net/open/ps/nnfa/nnfa56051226/83235106-7.smil/thumb.jpg?t=2404&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2390,
+      "title": "Aborttallene øker",
+      "img": "https://nrk-od-world-07.akamaized.net/open/ps/nnfa/nnfa56051226/83235106-7.smil/thumb.jpg?t=2416&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2993,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-07.akamaized.net/open/ps/nnfa/nnfa56051226/83235106-7.smil/thumb.jpg?t=3018&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3002,
+      "title": "KI i skolen",
+      "img": "https://nrk-od-world-07.akamaized.net/open/ps/nnfa/nnfa56051226/83235106-7.smil/thumb.jpg?t=3027&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3529,
+      "title": "AVSLUTNING",
+      "img": "https://nrk-od-world-07.akamaized.net/open/ps/nnfa/nnfa56051226/83235106-7.smil/thumb.jpg?t=3544.8&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3534,
+      "title": "SLUTTKJENNING",
+      "img": "https://nrk-od-world-07.akamaized.net/open/ps/nnfa/nnfa56051226/83235106-7.smil/thumb.jpg?t=3544.8&scale=480x270&v=high"
+    }
+  ]
+}
