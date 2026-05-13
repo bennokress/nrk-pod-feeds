@@ -9,6 +9,7 @@
   "prConcurrentLimit": 1,
   "dependencyDashboard": false,
   "assignees": ["bennokress"],
+  "reviewers": ["bennokress"],
   "packageRules": [
     {
       "description": "Automerge non-major updates",
