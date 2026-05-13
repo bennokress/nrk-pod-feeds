@@ -1,0 +1,48 @@
+{
+  "version": "1.2.0",
+  "title": "Alvorlig trafikkulykke",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa21051226/ff03e3bb-7.smil/thumb.jpg?t=26&scale=480x270&v=high"
+    },
+    {
+      "startTime": 31,
+      "title": "Ulykke Enebakk",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa21051226/ff03e3bb-7.smil/thumb.jpg?t=57&scale=480x270&v=high"
+    },
+    {
+      "startTime": 98,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa21051226/ff03e3bb-7.smil/thumb.jpg?t=123&scale=480x270&v=high"
+    },
+    {
+      "startTime": 179,
+      "title": "Norgespris",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa21051226/ff03e3bb-7.smil/thumb.jpg?t=204&scale=480x270&v=high"
+    },
+    {
+      "startTime": 306,
+      "title": "ADHD medisiner",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa21051226/ff03e3bb-7.smil/thumb.jpg?t=332&scale=480x270&v=high"
+    },
+    {
+      "startTime": 430,
+      "title": "Norge og Iran",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa21051226/ff03e3bb-7.smil/thumb.jpg?t=456&scale=480x270&v=high"
+    },
+    {
+      "startTime": 510,
+      "title": "Været",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa21051226/ff03e3bb-7.smil/thumb.jpg?t=535&scale=480x270&v=high"
+    },
+    {
+      "startTime": 557,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa21051226/ff03e3bb-7.smil/thumb.jpg?t=575.6&scale=480x270&v=high"
+    }
+  ]
+}
