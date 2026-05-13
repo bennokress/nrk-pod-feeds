@@ -8,15 +8,13 @@ on:
 jobs:
   update-video-feeds:
     runs-on: ubuntu-24.04
-    permissions:
-      contents: write
-      pull-requests: write
     steps:
 
       - name: Checkout repository
         uses: actions/checkout@v6
         with:
           fetch-depth: 0
+          token: ${{ secrets.FEED_PUSH_TOKEN }}
 
       - name: Setup Python
         uses: actions/setup-python@v6
@@ -70,27 +68,41 @@ jobs:
             echo "changed=true" >> "$GITHUB_OUTPUT"
           fi
 
-      - name: Commit changes on feed branch
+      - name: Commit on feed branch and merge into main
         if: steps.changes.outputs.changed == 'true'
         env:
           BRANCH: feed/auto-${{ github.run_id }}
         run: |
+          set -euo pipefail
           git config user.name "Feed Updater"
           git config user.email "actions@github.com"
           git checkout -b "$BRANCH"
           git add docs
           git commit -m "chore(auto): Update video podcast feed(s)"
-          git push origin "$BRANCH"
 
-      - name: Open PR and enable auto-merge
-        if: steps.changes.outputs.changed == 'true'
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          BRANCH: feed/auto-${{ github.run_id }}
-        run: |
-          gh pr create \
-            --base main \
-            --head "$BRANCH" \
-            --title "chore(auto): Update video podcast feed(s)" \
-            --body "Automated hourly feed update."
-          gh pr merge "$BRANCH" --merge --delete-branch
+          attempt=0
+          max_attempts=3
+          while true; do
+            attempt=$((attempt + 1))
+            git fetch origin main
+
+            if ! git rebase origin/main "$BRANCH"; then
+              echo "::error::Rebase of $BRANCH onto origin/main conflicted; aborting."
+              git rebase --abort || true
+              exit 1
+            fi
+
+            git checkout -B main origin/main
+            git merge --no-ff "$BRANCH" -m "chore(auto): Update video podcast feed(s)"
+
+            if git push origin main; then
+              echo "Pushed merge commit to main on attempt $attempt."
+              break
+            fi
+
+            if [ "$attempt" -ge "$max_attempts" ]; then
+              echo "::error::Push to main failed after $max_attempts attempts."
+              exit 1
+            fi
+            echo "Push rejected (likely concurrent update); retrying."
+          done
