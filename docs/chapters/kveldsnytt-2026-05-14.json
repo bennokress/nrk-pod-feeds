@@ -1,0 +1,78 @@
+{
+  "version": "1.2.0",
+  "title": "Spenning i ESC",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 9,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa23051426/fbc9993d-8.smil/thumb.jpg?t=35&scale=480x270&v=high"
+    },
+    {
+      "startTime": 50,
+      "title": "Uenige om Taiwan",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa23051426/fbc9993d-8.smil/thumb.jpg?t=76&scale=480x270&v=high"
+    },
+    {
+      "startTime": 134,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa23051426/fbc9993d-8.smil/thumb.jpg?t=160&scale=480x270&v=high"
+    },
+    {
+      "startTime": 236,
+      "title": "Trump",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa23051426/fbc9993d-8.smil/thumb.jpg?t=261&scale=480x270&v=high"
+    },
+    {
+      "startTime": 301,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa23051426/fbc9993d-8.smil/thumb.jpg?t=327&scale=480x270&v=high"
+    },
+    {
+      "startTime": 358,
+      "title": "Fengsling Økern",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa23051426/fbc9993d-8.smil/thumb.jpg?t=384&scale=480x270&v=high"
+    },
+    {
+      "startTime": 388,
+      "title": "ESC",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa23051426/fbc9993d-8.smil/thumb.jpg?t=413&scale=480x270&v=high"
+    },
+    {
+      "startTime": 448,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa23051426/fbc9993d-8.smil/thumb.jpg?t=474&scale=480x270&v=high"
+    },
+    {
+      "startTime": 538,
+      "title": "Frankrike VM-tropp",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa23051426/fbc9993d-8.smil/thumb.jpg?t=564&scale=480x270&v=high"
+    },
+    {
+      "startTime": 570,
+      "title": "Sykkel, Italia",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa23051426/fbc9993d-8.smil/thumb.jpg?t=595&scale=480x270&v=high"
+    },
+    {
+      "startTime": 640,
+      "title": "Håndball, semi",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa23051426/fbc9993d-8.smil/thumb.jpg?t=666&scale=480x270&v=high"
+    },
+    {
+      "startTime": 690,
+      "title": "Golf, PGA",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa23051426/fbc9993d-8.smil/thumb.jpg?t=716&scale=480x270&v=high"
+    },
+    {
+      "startTime": 736,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa23051426/fbc9993d-8.smil/thumb.jpg?t=761&scale=480x270&v=high"
+    },
+    {
+      "startTime": 799,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa23051426/fbc9993d-8.smil/thumb.jpg?t=820.67&scale=480x270&v=high"
+    }
+  ]
+}
