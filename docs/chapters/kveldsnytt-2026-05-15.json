@@ -1,0 +1,68 @@
+{
+  "version": "1.2.0",
+  "title": "Tilbake på Tryvann",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa23051526/520e7602-8.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 41,
+      "title": "Dødsulykke i Oslo",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa23051526/520e7602-8.smil/thumb.jpg?t=67&scale=480x270&v=high"
+    },
+    {
+      "startTime": 158,
+      "title": "Siktet for drap",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa23051526/520e7602-8.smil/thumb.jpg?t=183&scale=480x270&v=high"
+    },
+    {
+      "startTime": 241,
+      "title": "Trump og Xi",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa23051526/520e7602-8.smil/thumb.jpg?t=267&scale=480x270&v=high"
+    },
+    {
+      "startTime": 345,
+      "title": "Kickstarter russetiden",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa23051526/520e7602-8.smil/thumb.jpg?t=371&scale=480x270&v=high"
+    },
+    {
+      "startTime": 430,
+      "title": "Fotball, England",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa23051526/520e7602-8.smil/thumb.jpg?t=455&scale=480x270&v=high"
+    },
+    {
+      "startTime": 493,
+      "title": "Toppserien",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa23051526/520e7602-8.smil/thumb.jpg?t=519&scale=480x270&v=high"
+    },
+    {
+      "startTime": 547,
+      "title": "Storhamar til finale",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa23051526/520e7602-8.smil/thumb.jpg?t=573&scale=480x270&v=high"
+    },
+    {
+      "startTime": 584,
+      "title": "Hovland Reitan dag 2",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa23051526/520e7602-8.smil/thumb.jpg?t=609&scale=480x270&v=high"
+    },
+    {
+      "startTime": 631,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa23051526/520e7602-8.smil/thumb.jpg?t=657&scale=480x270&v=high"
+    },
+    {
+      "startTime": 703,
+      "title": "DAGENS",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa23051526/520e7602-8.smil/thumb.jpg?t=729&scale=480x270&v=high"
+    },
+    {
+      "startTime": 733,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa23051526/520e7602-8.smil/thumb.jpg?t=747.55&scale=480x270&v=high"
+    }
+  ]
+}
