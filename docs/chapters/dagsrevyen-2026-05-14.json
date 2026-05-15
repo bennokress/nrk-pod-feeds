@@ -1,0 +1,118 @@
+{
+  "version": "1.2.0",
+  "title": "Bare gode venner?",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 10,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa19051426/41ca83ed-6.smil/thumb.jpg?t=36&scale=480x270&v=high"
+    },
+    {
+      "startTime": 54,
+      "title": "Trump i Kina",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa19051426/41ca83ed-6.smil/thumb.jpg?t=79&scale=480x270&v=high"
+    },
+    {
+      "startTime": 171,
+      "title": "Direkte: Beijing",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa19051426/41ca83ed-6.smil/thumb.jpg?t=196&scale=480x270&v=high"
+    },
+    {
+      "startTime": 238,
+      "title": "Direkte Washington",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa19051426/41ca83ed-6.smil/thumb.jpg?t=263&scale=480x270&v=high"
+    },
+    {
+      "startTime": 341,
+      "title": "Direkte Beirut",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa19051426/41ca83ed-6.smil/thumb.jpg?t=367&scale=480x270&v=high"
+    },
+    {
+      "startTime": 407,
+      "title": "Direkte Moskva",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa19051426/41ca83ed-6.smil/thumb.jpg?t=433&scale=480x270&v=high"
+    },
+    {
+      "startTime": 486,
+      "title": "Direkte: Beijing",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa19051426/41ca83ed-6.smil/thumb.jpg?t=511&scale=480x270&v=high"
+    },
+    {
+      "startTime": 553,
+      "title": "Dronning Margrethe",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa19051426/41ca83ed-6.smil/thumb.jpg?t=579&scale=480x270&v=high"
+    },
+    {
+      "startTime": 616,
+      "title": "Fengsling Økern",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa19051426/41ca83ed-6.smil/thumb.jpg?t=641&scale=480x270&v=high"
+    },
+    {
+      "startTime": 674,
+      "title": "Atomavfall",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa19051426/41ca83ed-6.smil/thumb.jpg?t=699&scale=480x270&v=high"
+    },
+    {
+      "startTime": 805,
+      "title": "Storbritannia",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa19051426/41ca83ed-6.smil/thumb.jpg?t=831&scale=480x270&v=high"
+    },
+    {
+      "startTime": 832,
+      "title": "Angrep Ukraina",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa19051426/41ca83ed-6.smil/thumb.jpg?t=858&scale=480x270&v=high"
+    },
+    {
+      "startTime": 951,
+      "title": "Eurovision",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa19051426/41ca83ed-6.smil/thumb.jpg?t=976&scale=480x270&v=high"
+    },
+    {
+      "startTime": 991,
+      "title": "Direkte: Wien",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa19051426/41ca83ed-6.smil/thumb.jpg?t=1016&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1089,
+      "title": "ESC",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa19051426/41ca83ed-6.smil/thumb.jpg?t=1114&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1095,
+      "title": "Sosiale medier og dietter",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa19051426/41ca83ed-6.smil/thumb.jpg?t=1121&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1327,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa19051426/41ca83ed-6.smil/thumb.jpg?t=1352&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1334,
+      "title": "Fotball, VIF",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa19051426/41ca83ed-6.smil/thumb.jpg?t=1359&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1426,
+      "title": "Fotball, landslag",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa19051426/41ca83ed-6.smil/thumb.jpg?t=1452&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1453,
+      "title": "Sykkel, Italia",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa19051426/41ca83ed-6.smil/thumb.jpg?t=1479&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1488,
+      "title": "Friidrett, helse",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa19051426/41ca83ed-6.smil/thumb.jpg?t=1513&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1590,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa19051426/41ca83ed-6.smil/thumb.jpg?t=1615&scale=480x270&v=high"
+    }
+  ]
+}
