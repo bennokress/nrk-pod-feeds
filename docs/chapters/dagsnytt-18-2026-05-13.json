@@ -1,0 +1,53 @@
+{
+  "version": "1.2.0",
+  "title": "Trump i Kina",
+  "author": "NRK",
+  "podcastName": "Dagsnytt 18",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsnytt atten",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa56051326/2662378e-6.smil/thumb.jpg?t=26&scale=480x270&v=high"
+    },
+    {
+      "startTime": 64,
+      "title": "Trump til Kina",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa56051326/2662378e-6.smil/thumb.jpg?t=89&scale=480x270&v=high"
+    },
+    {
+      "startTime": 885,
+      "title": "Flytilbud i Sør-Norge",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa56051326/2662378e-6.smil/thumb.jpg?t=911&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1668,
+      "title": "Ukrainere og etterretning",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa56051326/2662378e-6.smil/thumb.jpg?t=1693&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2232,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa56051326/2662378e-6.smil/thumb.jpg?t=2257&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2246,
+      "title": "Hets i kommentarfelt",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa56051326/2662378e-6.smil/thumb.jpg?t=2271&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3073,
+      "title": "- Supportere er ikke viktige",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa56051326/2662378e-6.smil/thumb.jpg?t=3099&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3516,
+      "title": "AVSLUTNING",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa56051326/2662378e-6.smil/thumb.jpg?t=3541&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3528,
+      "title": "SLUTTKJENNING",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa56051326/2662378e-6.smil/thumb.jpg?t=3543.84&scale=480x270&v=high"
+    }
+  ]
+}
