@@ -1,0 +1,113 @@
+{
+  "version": "1.2.0",
+  "title": "Feil og mangler",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 14,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-18.akamaized.net/open/ps/nnfa/nnfa19051526/cd54c684-6.smil/thumb.jpg?t=39&scale=480x270&v=high"
+    },
+    {
+      "startTime": 68,
+      "title": "Trafikkulykke Oslo",
+      "img": "https://nrk-od-world-18.akamaized.net/open/ps/nnfa/nnfa19051526/cd54c684-6.smil/thumb.jpg?t=93&scale=480x270&v=high"
+    },
+    {
+      "startTime": 114,
+      "title": "Direkte: Oslo",
+      "img": "https://nrk-od-world-18.akamaized.net/open/ps/nnfa/nnfa19051526/cd54c684-6.smil/thumb.jpg?t=140&scale=480x270&v=high"
+    },
+    {
+      "startTime": 209,
+      "title": "Russebusser",
+      "img": "https://nrk-od-world-18.akamaized.net/open/ps/nnfa/nnfa19051526/cd54c684-6.smil/thumb.jpg?t=234&scale=480x270&v=high"
+    },
+    {
+      "startTime": 320,
+      "title": "Direkte: Tryvann",
+      "img": "https://nrk-od-world-18.akamaized.net/open/ps/nnfa/nnfa19051526/cd54c684-6.smil/thumb.jpg?t=346&scale=480x270&v=high"
+    },
+    {
+      "startTime": 420,
+      "title": "Direkte: Sortland",
+      "img": "https://nrk-od-world-18.akamaized.net/open/ps/nnfa/nnfa19051526/cd54c684-6.smil/thumb.jpg?t=446&scale=480x270&v=high"
+    },
+    {
+      "startTime": 537,
+      "title": "Droner",
+      "img": "https://nrk-od-world-18.akamaized.net/open/ps/nnfa/nnfa19051526/cd54c684-6.smil/thumb.jpg?t=563&scale=480x270&v=high"
+    },
+    {
+      "startTime": 647,
+      "title": "Toppmøte Kina",
+      "img": "https://nrk-od-world-18.akamaized.net/open/ps/nnfa/nnfa19051526/cd54c684-6.smil/thumb.jpg?t=673&scale=480x270&v=high"
+    },
+    {
+      "startTime": 784,
+      "title": "Utenriksnyheter",
+      "img": "https://nrk-od-world-18.akamaized.net/open/ps/nnfa/nnfa19051526/cd54c684-6.smil/thumb.jpg?t=810&scale=480x270&v=high"
+    },
+    {
+      "startTime": 867,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-18.akamaized.net/open/ps/nnfa/nnfa19051526/cd54c684-6.smil/thumb.jpg?t=893&scale=480x270&v=high"
+    },
+    {
+      "startTime": 913,
+      "title": "Wien protester",
+      "img": "https://nrk-od-world-18.akamaized.net/open/ps/nnfa/nnfa19051526/cd54c684-6.smil/thumb.jpg?t=938&scale=480x270&v=high"
+    },
+    {
+      "startTime": 941,
+      "title": "Direkte Wien",
+      "img": "https://nrk-od-world-18.akamaized.net/open/ps/nnfa/nnfa19051526/cd54c684-6.smil/thumb.jpg?t=966&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1050,
+      "title": "Hvalross Rogaland",
+      "img": "https://nrk-od-world-18.akamaized.net/open/ps/nnfa/nnfa19051526/cd54c684-6.smil/thumb.jpg?t=1075&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1119,
+      "title": "Dugnadsånd",
+      "img": "https://nrk-od-world-18.akamaized.net/open/ps/nnfa/nnfa19051526/cd54c684-6.smil/thumb.jpg?t=1145&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1247,
+      "title": "Øver til 17. mai",
+      "img": "https://nrk-od-world-18.akamaized.net/open/ps/nnfa/nnfa19051526/cd54c684-6.smil/thumb.jpg?t=1273&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1336,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-18.akamaized.net/open/ps/nnfa/nnfa19051526/cd54c684-6.smil/thumb.jpg?t=1361&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1340,
+      "title": "Tennis, Roma",
+      "img": "https://nrk-od-world-18.akamaized.net/open/ps/nnfa/nnfa19051526/cd54c684-6.smil/thumb.jpg?t=1366&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1405,
+      "title": "Fotball, helse",
+      "img": "https://nrk-od-world-18.akamaized.net/open/ps/nnfa/nnfa19051526/cd54c684-6.smil/thumb.jpg?t=1431&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1429,
+      "title": "Fotball, eliteserie",
+      "img": "https://nrk-od-world-18.akamaized.net/open/ps/nnfa/nnfa19051526/cd54c684-6.smil/thumb.jpg?t=1455&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1497,
+      "title": "Skøyter, Wiklund",
+      "img": "https://nrk-od-world-18.akamaized.net/open/ps/nnfa/nnfa19051526/cd54c684-6.smil/thumb.jpg?t=1523&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1588,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-18.akamaized.net/open/ps/nnfa/nnfa19051526/cd54c684-6.smil/thumb.jpg?t=1613&scale=480x270&v=high"
+    }
+  ]
+}
