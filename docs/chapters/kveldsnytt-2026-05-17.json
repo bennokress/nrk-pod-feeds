@@ -1,0 +1,58 @@
+{
+  "version": "1.2.0",
+  "title": "Kritiske til MDGs flypolitikk",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa23051626/327510a0-8.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 43,
+      "title": "Reagerer på flystøtte - reax-fotruter",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa23051626/327510a0-8.smil/thumb.jpg?t=69&scale=480x270&v=high"
+    },
+    {
+      "startTime": 164,
+      "title": "Bil i folkemengde i Italia",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa23051626/327510a0-8.smil/thumb.jpg?t=190&scale=480x270&v=high"
+    },
+    {
+      "startTime": 270,
+      "title": "Taiwan",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa23051626/327510a0-8.smil/thumb.jpg?t=295&scale=480x270&v=high"
+    },
+    {
+      "startTime": 375,
+      "title": "Vinner Esc",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa23051626/327510a0-8.smil/thumb.jpg?t=400&scale=480x270&v=high"
+    },
+    {
+      "startTime": 402,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa23051626/327510a0-8.smil/thumb.jpg?t=427&scale=480x270&v=high"
+    },
+    {
+      "startTime": 469,
+      "title": "Reitan dag 3",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa23051626/327510a0-8.smil/thumb.jpg?t=494&scale=480x270&v=high"
+    },
+    {
+      "startTime": 497,
+      "title": "Fotball, eliteserien",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa23051626/327510a0-8.smil/thumb.jpg?t=522&scale=480x270&v=high"
+    },
+    {
+      "startTime": 694,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa23051626/327510a0-8.smil/thumb.jpg?t=719&scale=480x270&v=high"
+    },
+    {
+      "startTime": 767,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa23051626/327510a0-8.smil/thumb.jpg?t=791.55&scale=480x270&v=high"
+    }
+  ]
+}
