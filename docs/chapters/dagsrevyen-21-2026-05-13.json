@@ -1,0 +1,53 @@
+{
+  "version": "1.2.0",
+  "title": "Svenske priser stuper",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa21051326/c72b3a20-7.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 28,
+      "title": "Svenskepriser stuper",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa21051326/c72b3a20-7.smil/thumb.jpg?t=53&scale=480x270&v=high"
+    },
+    {
+      "startTime": 141,
+      "title": "Partene i hotellstreiken innkalles til møte",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa21051326/c72b3a20-7.smil/thumb.jpg?t=167&scale=480x270&v=high"
+    },
+    {
+      "startTime": 194,
+      "title": "Flyruter",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa21051326/c72b3a20-7.smil/thumb.jpg?t=219&scale=480x270&v=high"
+    },
+    {
+      "startTime": 223,
+      "title": "Enebakk",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa21051326/c72b3a20-7.smil/thumb.jpg?t=249&scale=480x270&v=high"
+    },
+    {
+      "startTime": 291,
+      "title": "Trump i Kina",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa21051326/c72b3a20-7.smil/thumb.jpg?t=317&scale=480x270&v=high"
+    },
+    {
+      "startTime": 370,
+      "title": "Svalbard: Fastboende lei nye reguleringer",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa21051326/c72b3a20-7.smil/thumb.jpg?t=396&scale=480x270&v=high"
+    },
+    {
+      "startTime": 487,
+      "title": "Været",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa21051326/c72b3a20-7.smil/thumb.jpg?t=512&scale=480x270&v=high"
+    },
+    {
+      "startTime": 537,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa21051326/c72b3a20-7.smil/thumb.jpg?t=558.52&scale=480x270&v=high"
+    }
+  ]
+}
