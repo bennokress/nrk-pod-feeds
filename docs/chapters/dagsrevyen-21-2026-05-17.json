@@ -1,0 +1,48 @@
+{
+  "version": "1.2.0",
+  "title": "Sprer seg i Kongo",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa21051726/154a0584-6.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 29,
+      "title": "Ulykke Nittedal",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa21051726/154a0584-6.smil/thumb.jpg?t=55&scale=480x270&v=high"
+    },
+    {
+      "startTime": 96,
+      "title": "Advarer Ebola",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa21051726/154a0584-6.smil/thumb.jpg?t=122&scale=480x270&v=high"
+    },
+    {
+      "startTime": 198,
+      "title": "Brussel",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa21051726/154a0584-6.smil/thumb.jpg?t=223&scale=480x270&v=high"
+    },
+    {
+      "startTime": 328,
+      "title": "Enebakk kortesje",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa21051726/154a0584-6.smil/thumb.jpg?t=353&scale=480x270&v=high"
+    },
+    {
+      "startTime": 439,
+      "title": "Bråk 17.mai",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa21051726/154a0584-6.smil/thumb.jpg?t=465&scale=480x270&v=high"
+    },
+    {
+      "startTime": 469,
+      "title": "Været",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa21051726/154a0584-6.smil/thumb.jpg?t=494&scale=480x270&v=high"
+    },
+    {
+      "startTime": 524,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa21051726/154a0584-6.smil/thumb.jpg?t=544.55&scale=480x270&v=high"
+    }
+  ]
+}
