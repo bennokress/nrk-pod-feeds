@@ -1,0 +1,113 @@
+{
+  "version": "1.2.0",
+  "title": "Store demonstrasjoner i London",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 10,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa19051626/883873cc-7.smil/thumb.jpg?t=35&scale=480x270&v=high"
+    },
+    {
+      "startTime": 63,
+      "title": "Stordemo London",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa19051626/883873cc-7.smil/thumb.jpg?t=88&scale=480x270&v=high"
+    },
+    {
+      "startTime": 183,
+      "title": "Kriminelt MC-mijlø",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa19051626/883873cc-7.smil/thumb.jpg?t=208&scale=480x270&v=high"
+    },
+    {
+      "startTime": 239,
+      "title": "Skadet i Stange",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa19051626/883873cc-7.smil/thumb.jpg?t=264&scale=480x270&v=high"
+    },
+    {
+      "startTime": 291,
+      "title": "Russebuss brann",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa19051626/883873cc-7.smil/thumb.jpg?t=316&scale=480x270&v=high"
+    },
+    {
+      "startTime": 314,
+      "title": "Ulykke Åre",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa19051626/883873cc-7.smil/thumb.jpg?t=340&scale=480x270&v=high"
+    },
+    {
+      "startTime": 332,
+      "title": "Jordbruksoppgjøret",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa19051626/883873cc-7.smil/thumb.jpg?t=357&scale=480x270&v=high"
+    },
+    {
+      "startTime": 457,
+      "title": "Bil i folkemengde",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa19051626/883873cc-7.smil/thumb.jpg?t=482&scale=480x270&v=high"
+    },
+    {
+      "startTime": 478,
+      "title": "Verden lørdag",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa19051626/883873cc-7.smil/thumb.jpg?t=504&scale=480x270&v=high"
+    },
+    {
+      "startTime": 586,
+      "title": "ESC-bråk",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa19051626/883873cc-7.smil/thumb.jpg?t=612&scale=480x270&v=high"
+    },
+    {
+      "startTime": 699,
+      "title": "Direkte fra Wien",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa19051626/883873cc-7.smil/thumb.jpg?t=725&scale=480x270&v=high"
+    },
+    {
+      "startTime": 808,
+      "title": "Før finalen ESC",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa19051626/883873cc-7.smil/thumb.jpg?t=834&scale=480x270&v=high"
+    },
+    {
+      "startTime": 898,
+      "title": "Skatteflyktningene",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa19051626/883873cc-7.smil/thumb.jpg?t=924&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1325,
+      "title": "Talefest",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa19051626/883873cc-7.smil/thumb.jpg?t=1351&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1583,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa19051626/883873cc-7.smil/thumb.jpg?t=1609&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1589,
+      "title": "Fotball, eliteserie",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa19051626/883873cc-7.smil/thumb.jpg?t=1615&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1781,
+      "title": "Fotball, FA-cup",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa19051626/883873cc-7.smil/thumb.jpg?t=1807&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1832,
+      "title": "Håndball, VM-kval",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa19051626/883873cc-7.smil/thumb.jpg?t=1858&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1854,
+      "title": "Ishockey, VM",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa19051626/883873cc-7.smil/thumb.jpg?t=1880&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1881,
+      "title": "Friidrett, DL",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa19051626/883873cc-7.smil/thumb.jpg?t=1906&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1935,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa19051626/883873cc-7.smil/thumb.jpg?t=1960&scale=480x270&v=high"
+    }
+  ]
+}
