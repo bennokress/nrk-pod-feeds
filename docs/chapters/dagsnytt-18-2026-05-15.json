@@ -1,0 +1,78 @@
+{
+  "version": "1.2.0",
+  "title": "Toppmøte i Kina",
+  "author": "NRK",
+  "podcastName": "Dagsnytt 18",
+  "chapters": [
+    {
+      "startTime": 2,
+      "title": "Dagsnytt atten",
+      "img": "https://nrk-od-world-80.akamaized.net/open/ps/nnfa/nnfa56051526/4537868d-6.smil/thumb.jpg?t=27&scale=480x270&v=high"
+    },
+    {
+      "startTime": 73,
+      "title": "Trumps besøk til Kina",
+      "img": "https://nrk-od-world-80.akamaized.net/open/ps/nnfa/nnfa56051526/4537868d-6.smil/thumb.jpg?t=99&scale=480x270&v=high"
+    },
+    {
+      "startTime": 748,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-80.akamaized.net/open/ps/nnfa/nnfa56051526/4537868d-6.smil/thumb.jpg?t=773&scale=480x270&v=high"
+    },
+    {
+      "startTime": 758,
+      "title": "Styrkeprøven er avlyst",
+      "img": "https://nrk-od-world-80.akamaized.net/open/ps/nnfa/nnfa56051526/4537868d-6.smil/thumb.jpg?t=784&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1546,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-80.akamaized.net/open/ps/nnfa/nnfa56051526/4537868d-6.smil/thumb.jpg?t=1571&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1561,
+      "title": "Flere på gradert sykemelding",
+      "img": "https://nrk-od-world-80.akamaized.net/open/ps/nnfa/nnfa56051526/4537868d-6.smil/thumb.jpg?t=1586&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1978,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-80.akamaized.net/open/ps/nnfa/nnfa56051526/4537868d-6.smil/thumb.jpg?t=2004&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1993,
+      "title": "Gatekunst om Gaza",
+      "img": "https://nrk-od-world-80.akamaized.net/open/ps/nnfa/nnfa56051526/4537868d-6.smil/thumb.jpg?t=2018&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2465,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-80.akamaized.net/open/ps/nnfa/nnfa56051526/4537868d-6.smil/thumb.jpg?t=2490&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2481,
+      "title": "Nye klimakrav for offshorefartøy",
+      "img": "https://nrk-od-world-80.akamaized.net/open/ps/nnfa/nnfa56051526/4537868d-6.smil/thumb.jpg?t=2506&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2902,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-80.akamaized.net/open/ps/nnfa/nnfa56051526/4537868d-6.smil/thumb.jpg?t=2928&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2921,
+      "title": "Dyre IVF-forsøk",
+      "img": "https://nrk-od-world-80.akamaized.net/open/ps/nnfa/nnfa56051526/4537868d-6.smil/thumb.jpg?t=2947&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3538,
+      "title": "AVSLUTNING",
+      "img": "https://nrk-od-world-80.akamaized.net/open/ps/nnfa/nnfa56051526/4537868d-6.smil/thumb.jpg?t=3543.8&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3540,
+      "title": "SLUTTKJENNING",
+      "img": "https://nrk-od-world-80.akamaized.net/open/ps/nnfa/nnfa56051526/4537868d-6.smil/thumb.jpg?t=3543.8&scale=480x270&v=high"
+    }
+  ]
+}
