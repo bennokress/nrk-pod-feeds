@@ -1,0 +1,93 @@
+{
+  "version": "1.2.0",
+  "title": "Stor feiring",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 9,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa19051726/502a67b0-6.smil/thumb.jpg?t=34&scale=480x270&v=high"
+    },
+    {
+      "startTime": 74,
+      "title": "17.mai-toget",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa19051726/502a67b0-6.smil/thumb.jpg?t=100&scale=480x270&v=high"
+    },
+    {
+      "startTime": 231,
+      "title": "Ingrid Alexandra",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa19051726/502a67b0-6.smil/thumb.jpg?t=257&scale=480x270&v=high"
+    },
+    {
+      "startTime": 335,
+      "title": "Nordmenn i utlandet",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa19051726/502a67b0-6.smil/thumb.jpg?t=360&scale=480x270&v=high"
+    },
+    {
+      "startTime": 402,
+      "title": "17.mai-frokost",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa19051726/502a67b0-6.smil/thumb.jpg?t=428&scale=480x270&v=high"
+    },
+    {
+      "startTime": 509,
+      "title": "Bråk 17.mai",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa19051726/502a67b0-6.smil/thumb.jpg?t=535&scale=480x270&v=high"
+    },
+    {
+      "startTime": 538,
+      "title": "Siktet spionasje",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa19051726/502a67b0-6.smil/thumb.jpg?t=564&scale=480x270&v=high"
+    },
+    {
+      "startTime": 578,
+      "title": "Behandling autoimmun",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa19051726/502a67b0-6.smil/thumb.jpg?t=604&scale=480x270&v=high"
+    },
+    {
+      "startTime": 757,
+      "title": "Utenriksnyheter",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa19051726/502a67b0-6.smil/thumb.jpg?t=783&scale=480x270&v=high"
+    },
+    {
+      "startTime": 864,
+      "title": "Svindel some",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa19051726/502a67b0-6.smil/thumb.jpg?t=889&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1030,
+      "title": "Arbeiderkulturen forsvinner",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa19051726/502a67b0-6.smil/thumb.jpg?t=1055&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1351,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa19051726/502a67b0-6.smil/thumb.jpg?t=1376&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1357,
+      "title": "Tennis, Roma",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa19051726/502a67b0-6.smil/thumb.jpg?t=1382&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1409,
+      "title": "Seiling, 49er",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa19051726/502a67b0-6.smil/thumb.jpg?t=1435&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1473,
+      "title": "Fotball, 17.mai",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa19051726/502a67b0-6.smil/thumb.jpg?t=1499&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1544,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa19051726/502a67b0-6.smil/thumb.jpg?t=1570&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1674,
+      "title": "Slottsplassen",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa19051726/502a67b0-6.smil/thumb.jpg?t=1699&scale=480x270&v=high"
+    }
+  ]
+}
