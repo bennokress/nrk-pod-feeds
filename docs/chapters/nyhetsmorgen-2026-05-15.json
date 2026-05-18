@@ -1,0 +1,268 @@
+{
+  "version": "1.2.0",
+  "title": "Trump besøker Kina",
+  "author": "NRK",
+  "podcastName": "Nyhetsmorgen",
+  "chapters": [
+    {
+      "startTime": 2,
+      "title": "Åpning 06:30",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05051526/b5075120-6.smil/thumb.jpg?t=28&scale=480x270&v=high"
+    },
+    {
+      "startTime": 84,
+      "title": "Toppmøtet mellom Trump og Xi",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05051526/b5075120-6.smil/thumb.jpg?t=109&scale=480x270&v=high"
+    },
+    {
+      "startTime": 330,
+      "title": "TACO og NACHO i storpolitikken",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05051526/b5075120-6.smil/thumb.jpg?t=356&scale=480x270&v=high"
+    },
+    {
+      "startTime": 645,
+      "title": "56 prosent av nordmenn bruker KI",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05051526/b5075120-6.smil/thumb.jpg?t=670&scale=480x270&v=high"
+    },
+    {
+      "startTime": 707,
+      "title": "Siste nytt",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05051526/b5075120-6.smil/thumb.jpg?t=732&scale=480x270&v=high"
+    },
+    {
+      "startTime": 829,
+      "title": "Pengane flyr - vil dempe forbruket",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05051526/b5075120-6.smil/thumb.jpg?t=854&scale=480x270&v=high"
+    },
+    {
+      "startTime": 967,
+      "title": "Håndballherrene skal få ny landslagssjef",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05051526/b5075120-6.smil/thumb.jpg?t=993&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1144,
+      "title": "Overskrifter 06:45",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05051526/b5075120-6.smil/thumb.jpg?t=1170&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1195,
+      "title": "Dronealarm i Helsingfors",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05051526/b5075120-6.smil/thumb.jpg?t=1220&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1384,
+      "title": "Norge til finalen Eurovision Song Contest",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05051526/b5075120-6.smil/thumb.jpg?t=1409&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1508,
+      "title": "Kritiserte ledelsen og fikk advarsel",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05051526/b5075120-6.smil/thumb.jpg?t=1534&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1656,
+      "title": "Fritidsklubber mangler penger",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05051526/b5075120-6.smil/thumb.jpg?t=1682&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1822,
+      "title": "Teasing dagens sending",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05051526/b5075120-6.smil/thumb.jpg?t=1848&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1900,
+      "title": "Trump og Xi i Kina",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05051526/b5075120-6.smil/thumb.jpg?t=1926&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2207,
+      "title": "56 prosent av nordmenn bruker KI",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05051526/b5075120-6.smil/thumb.jpg?t=2233&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2339,
+      "title": "Israel saksøker New York Times",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05051526/b5075120-6.smil/thumb.jpg?t=2364&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2563,
+      "title": "PK Den revolusjonære Jesus",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05051526/b5075120-6.smil/thumb.jpg?t=2588&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2630,
+      "title": "Overskrifter 07:15",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05051526/b5075120-6.smil/thumb.jpg?t=2655&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2689,
+      "title": "Norge til finalen i Eurovision i Wien",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05051526/b5075120-6.smil/thumb.jpg?t=2715&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2878,
+      "title": "Regjeringskrise i Romania",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05051526/b5075120-6.smil/thumb.jpg?t=2903&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3078,
+      "title": "Hvor ble det av bløtkaken?",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05051526/b5075120-6.smil/thumb.jpg?t=3104&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3160,
+      "title": "Kakebordet på 17.mai",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05051526/b5075120-6.smil/thumb.jpg?t=3185&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3372,
+      "title": "Mange vil kjøpe brukt",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05051526/b5075120-6.smil/thumb.jpg?t=3398&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3569,
+      "title": "Leseklubben: Kafka på stranden",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05051526/b5075120-6.smil/thumb.jpg?t=3594&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3600,
+      "title": "Overskrifter 07:30",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05051526/b5075120-6.smil/thumb.jpg?t=3626&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3634,
+      "title": "Trump besøker Kina",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05051526/b5075120-6.smil/thumb.jpg?t=3659&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3761,
+      "title": "Dronealarm i Finland og Latvia",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05051526/b5075120-6.smil/thumb.jpg?t=3786&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3834,
+      "title": "56 prosent av nordmenn bruker KI",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05051526/b5075120-6.smil/thumb.jpg?t=3859&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3957,
+      "title": "Helse-rådgivere har millionlønn",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05051526/b5075120-6.smil/thumb.jpg?t=3983&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3981,
+      "title": "Pengane flyr - vil dempe forbruket",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05051526/b5075120-6.smil/thumb.jpg?t=4007&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4085,
+      "title": "ESC: Norge videre til finalen",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05051526/b5075120-6.smil/thumb.jpg?t=4110&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4192,
+      "title": "Avslutning",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05051526/b5075120-6.smil/thumb.jpg?t=4218&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4200,
+      "title": "Åpning 07:40",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05051526/b5075120-6.smil/thumb.jpg?t=4226&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4216,
+      "title": "Skader på bunaden",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05051526/b5075120-6.smil/thumb.jpg?t=4241&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5400,
+      "title": "NRK Nyheter 08:00",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05051526/b5075120-6.smil/thumb.jpg?t=5426&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5580,
+      "title": "Åpning 08:03",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05051526/b5075120-6.smil/thumb.jpg?t=5606&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5649,
+      "title": "Møtet mellom Xi og Trump",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05051526/b5075120-6.smil/thumb.jpg?t=5675&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5995,
+      "title": "56 prosent av nordmenn bruker KI",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05051526/b5075120-6.smil/thumb.jpg?t=6021&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6242,
+      "title": "Poliitet: Dette må russen vite",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05051526/b5075120-6.smil/thumb.jpg?t=6267&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6522,
+      "title": "Overskrifter 08:15",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05051526/b5075120-6.smil/thumb.jpg?t=6548&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6672,
+      "title": "ESC: Norge videre til finalen",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05051526/b5075120-6.smil/thumb.jpg?t=6698&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7428,
+      "title": "Overskrifter 08:30",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05051526/b5075120-6.smil/thumb.jpg?t=7453&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7490,
+      "title": "Toppmøte i Kina ferdig",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05051526/b5075120-6.smil/thumb.jpg?t=7515&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7819,
+      "title": "Helse-rådgivere har millionlønn",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05051526/b5075120-6.smil/thumb.jpg?t=7844&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7954,
+      "title": "Stormen rundt Starmer fortsetter",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05051526/b5075120-6.smil/thumb.jpg?t=7980&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8178,
+      "title": "CIA-sjefen besøkte Cuba",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05051526/b5075120-6.smil/thumb.jpg?t=8204&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8361,
+      "title": "Overskrifter 08:45",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05051526/b5075120-6.smil/thumb.jpg?t=8386&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8418,
+      "title": "Politisk Kvarter- Revolusjonær Jesus?",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05051526/b5075120-6.smil/thumb.jpg?t=8444&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8629,
+      "title": "Filmanmeldelse: In the Grey",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05051526/b5075120-6.smil/thumb.jpg?t=8654&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8838,
+      "title": "Hvor ble det av bløtkaken?",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05051526/b5075120-6.smil/thumb.jpg?t=8863&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8953,
+      "title": "Vær i dag og 17. mai-været!!",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05051526/b5075120-6.smil/thumb.jpg?t=8978&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8990,
+      "title": "Avslutning",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05051526/b5075120-6.smil/thumb.jpg?t=9003.32&scale=480x270&v=high"
+    }
+  ]
+}
