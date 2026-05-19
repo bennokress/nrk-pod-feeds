@@ -1,0 +1,298 @@
+{
+  "version": "1.2.0",
+  "title": "- Apper endrer vanene våre",
+  "author": "NRK",
+  "podcastName": "Nyhetsmorgen",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Åpning 06:30",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05051826/f42fe018-6.smil/thumb.jpg?t=26&scale=480x270&v=high"
+    },
+    {
+      "startTime": 88,
+      "title": "Teknologi endrer spise- og handlemønster",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05051826/f42fe018-6.smil/thumb.jpg?t=114&scale=480x270&v=high"
+    },
+    {
+      "startTime": 145,
+      "title": "Flere er på kokainavrusning",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05051826/f42fe018-6.smil/thumb.jpg?t=171&scale=480x270&v=high"
+    },
+    {
+      "startTime": 270,
+      "title": "Reagerer på flystøtte",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05051826/f42fe018-6.smil/thumb.jpg?t=296&scale=480x270&v=high"
+    },
+    {
+      "startTime": 444,
+      "title": "Siste nytt",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05051826/f42fe018-6.smil/thumb.jpg?t=470&scale=480x270&v=high"
+    },
+    {
+      "startTime": 557,
+      "title": "Dødsstraff øker i verden",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05051826/f42fe018-6.smil/thumb.jpg?t=583&scale=480x270&v=high"
+    },
+    {
+      "startTime": 823,
+      "title": "Apotek 1 måtte endre løsninger for blinde",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05051826/f42fe018-6.smil/thumb.jpg?t=849&scale=480x270&v=high"
+    },
+    {
+      "startTime": 947,
+      "title": "Overskrifter 06:45",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05051826/f42fe018-6.smil/thumb.jpg?t=972&scale=480x270&v=high"
+    },
+    {
+      "startTime": 983,
+      "title": "Narendra Modi til Norge",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05051826/f42fe018-6.smil/thumb.jpg?t=1008&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1172,
+      "title": "Forskningssamarbeid India",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05051826/f42fe018-6.smil/thumb.jpg?t=1198&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1415,
+      "title": "Rekordmange søkte sommerjobb",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05051826/f42fe018-6.smil/thumb.jpg?t=1440&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1582,
+      "title": "Drake slapp tre album på én dag",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05051826/f42fe018-6.smil/thumb.jpg?t=1607&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1771,
+      "title": "Teasing dagens sending",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05051826/f42fe018-6.smil/thumb.jpg?t=1797&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1779,
+      "title": "Leseklubben: Kafka på stran",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05051826/f42fe018-6.smil/thumb.jpg?t=1804&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1810,
+      "title": "Åpning 07:00",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05051826/f42fe018-6.smil/thumb.jpg?t=1835&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1895,
+      "title": "Angrep tross våpenhvile Israel Hizbollah",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05051826/f42fe018-6.smil/thumb.jpg?t=1921&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2167,
+      "title": "Teknologi endrer spise- og handlemønster",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05051826/f42fe018-6.smil/thumb.jpg?t=2193&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2342,
+      "title": "Konsekvenser av nye mønstre",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05051826/f42fe018-6.smil/thumb.jpg?t=2368&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2587,
+      "title": "Skatteflyktningene doblet verdien",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05051826/f42fe018-6.smil/thumb.jpg?t=2613&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2699,
+      "title": "Overskrifter 07:15",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05051826/f42fe018-6.smil/thumb.jpg?t=2724&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2779,
+      "title": "Ebola: USA henter borgere ut fra Kongo",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05051826/f42fe018-6.smil/thumb.jpg?t=2805&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2988,
+      "title": "Sverige samler Natos utenriksministre",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05051826/f42fe018-6.smil/thumb.jpg?t=3014&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3361,
+      "title": "Pårørendebevegelse",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05051826/f42fe018-6.smil/thumb.jpg?t=3387&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3569,
+      "title": "Teasing dagens sending",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05051826/f42fe018-6.smil/thumb.jpg?t=3594&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3572,
+      "title": "Brenner deler dikt (ny sesong)",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05051826/f42fe018-6.smil/thumb.jpg?t=3597&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3603,
+      "title": "Overskrifter 07:30",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05051826/f42fe018-6.smil/thumb.jpg?t=3629&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3630,
+      "title": "Trumps trusler mot Iran",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05051826/f42fe018-6.smil/thumb.jpg?t=3656&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3754,
+      "title": "Teknologi endrer spise- og handlemønster",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05051826/f42fe018-6.smil/thumb.jpg?t=3780&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3864,
+      "title": "Flere er på kokainavrusning",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05051826/f42fe018-6.smil/thumb.jpg?t=3890&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3921,
+      "title": "Skatteflyktningene doblet verdien",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05051826/f42fe018-6.smil/thumb.jpg?t=3946&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3979,
+      "title": "Narendra Modi til Norge",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05051826/f42fe018-6.smil/thumb.jpg?t=4005&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4040,
+      "title": "USA henter ut amerikanere fra Kongo",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05051826/f42fe018-6.smil/thumb.jpg?t=4066&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4061,
+      "title": "Rekordmange søkte sommerjobb",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05051826/f42fe018-6.smil/thumb.jpg?t=4086&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4167,
+      "title": "Russiske angrep på Ukraina",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05051826/f42fe018-6.smil/thumb.jpg?t=4193&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4198,
+      "title": "Åpning 07:40",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05051826/f42fe018-6.smil/thumb.jpg?t=4224&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4245,
+      "title": "Advarer mot mirakelmidler",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05051826/f42fe018-6.smil/thumb.jpg?t=4270&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5400,
+      "title": "NRK Nyheter 08:00",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05051826/f42fe018-6.smil/thumb.jpg?t=5426&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5581,
+      "title": "Åpning 08:03",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05051826/f42fe018-6.smil/thumb.jpg?t=5607&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5655,
+      "title": "Teknologi endrer spise- og handlemønster",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05051826/f42fe018-6.smil/thumb.jpg?t=5680&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5841,
+      "title": "Økning kokainavrusning",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05051826/f42fe018-6.smil/thumb.jpg?t=5866&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5967,
+      "title": "Kokain på Leos lekeland",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05051826/f42fe018-6.smil/thumb.jpg?t=5992&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6237,
+      "title": "Overskrifter 08:15",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05051826/f42fe018-6.smil/thumb.jpg?t=6262&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6271,
+      "title": "Trump truer Iran igjen",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05051826/f42fe018-6.smil/thumb.jpg?t=6297&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6528,
+      "title": "Hormuzkonflikten sett fra Iran",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05051826/f42fe018-6.smil/thumb.jpg?t=6554&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6793,
+      "title": "Mandagspanelet",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05051826/f42fe018-6.smil/thumb.jpg?t=6818&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7256,
+      "title": "Overskrifter 08:30",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05051826/f42fe018-6.smil/thumb.jpg?t=7282&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7342,
+      "title": "Narendra Modi til Norge",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05051826/f42fe018-6.smil/thumb.jpg?t=7368&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7456,
+      "title": "Reddet ut av gruve",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05051826/f42fe018-6.smil/thumb.jpg?t=7482&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7623,
+      "title": "Skatteflyktningene doblet verdien",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05051826/f42fe018-6.smil/thumb.jpg?t=7649&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7772,
+      "title": "Anm. ny sesongutstilling Kistefos",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05051826/f42fe018-6.smil/thumb.jpg?t=7798&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7777,
+      "title": "Skatteflyktningene doblet verdien",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05051826/f42fe018-6.smil/thumb.jpg?t=7802&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7813,
+      "title": "Anm. ny sesongutstilling Kistefos",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05051826/f42fe018-6.smil/thumb.jpg?t=7839&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8071,
+      "title": "DIR Før Ekko i NRK P2",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05051826/f42fe018-6.smil/thumb.jpg?t=8096&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8104,
+      "title": "Overskrifter 08:45",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05051826/f42fe018-6.smil/thumb.jpg?t=8129&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8145,
+      "title": "Norge kan bli et bombemål",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05051826/f42fe018-6.smil/thumb.jpg?t=8171&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8365,
+      "title": "Sverige samler Natos utenriksministre",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05051826/f42fe018-6.smil/thumb.jpg?t=8390&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8698,
+      "title": "Drake slapp tre album på én dag",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05051826/f42fe018-6.smil/thumb.jpg?t=8724&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8845,
+      "title": "GJEST Været i dag",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05051826/f42fe018-6.smil/thumb.jpg?t=8871&scale=480x270&v=high"
+    }
+  ]
+}
