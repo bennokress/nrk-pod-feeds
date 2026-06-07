@@ -39,6 +39,22 @@ def test_get_series_seasons():
         assert "title" in season
 
 
+def test_get_series_seasons_returns_newest_first():
+    """Guards against a regression where NRK's _embedded.seasons ordering
+    flipped and our reverse() call started feeding 1962 first."""
+    from datetime import datetime, timedelta
+
+    seasons = tvapi.get_series_seasons("dagsrevyen-21")
+    assert seasons
+    assert seasons[0]["id"] > seasons[1]["id"]
+
+    newest = datetime.strptime(seasons[0]["id"], "%Y%m")
+    assert newest >= datetime.now() - timedelta(days=60), (
+        f"Newest season is {seasons[0]['id']}, expected something from the "
+        "last 60 days. Check season ordering in get_series_seasons()."
+    )
+
+
 def test_get_series_instalments():
     series_id = "dagsrevyen-21"
 
