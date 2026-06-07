@@ -1,0 +1,248 @@
+{
+  "version": "1.2.0",
+  "title": "Sykehusdirektører pendlet for millioner",
+  "author": "NRK",
+  "podcastName": "Nyhetsmorgen",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Åpning 06:30",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa05060326/289690ea-6.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 70,
+      "title": "Pendlande sjukehusdirektørar",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa05060326/289690ea-6.smil/thumb.jpg?t=95&scale=480x270&v=high"
+    },
+    {
+      "startTime": 212,
+      "title": "Påstand tenåringar for valdsoppdrag",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa05060326/289690ea-6.smil/thumb.jpg?t=238&scale=480x270&v=high"
+    },
+    {
+      "startTime": 506,
+      "title": "Ulike angrep Gulfen",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa05060326/289690ea-6.smil/thumb.jpg?t=532&scale=480x270&v=high"
+    },
+    {
+      "startTime": 624,
+      "title": "Kronprinsen i Japan",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa05060326/289690ea-6.smil/thumb.jpg?t=650&scale=480x270&v=high"
+    },
+    {
+      "startTime": 917,
+      "title": "Norge møter Tyskland i VM-kvalifiseringen",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa05060326/289690ea-6.smil/thumb.jpg?t=942&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1031,
+      "title": "Fotballandslaget har landet i USA",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa05060326/289690ea-6.smil/thumb.jpg?t=1056&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1137,
+      "title": "Økning i energidrikk blant ungdom",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa05060326/289690ea-6.smil/thumb.jpg?t=1163&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1339,
+      "title": "Vil drepe all fisk i Lierelva",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa05060326/289690ea-6.smil/thumb.jpg?t=1365&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1535,
+      "title": "Gjær fra Ötzis mage brukt i brødbaking",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa05060326/289690ea-6.smil/thumb.jpg?t=1560&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1698,
+      "title": "Mann pågrepet i Australia",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa05060326/289690ea-6.smil/thumb.jpg?t=1723&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1776,
+      "title": "Mørch og VM",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa05060326/289690ea-6.smil/thumb.jpg?t=1802&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1871,
+      "title": "Pendlande sjukehusdirektørar",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa05060326/289690ea-6.smil/thumb.jpg?t=1896&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2120,
+      "title": "Dagens Medisin om pendlande sjukehusdirektør",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa05060326/289690ea-6.smil/thumb.jpg?t=2146&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2405,
+      "title": "Hets og trusler mot rikspolitikere",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa05060326/289690ea-6.smil/thumb.jpg?t=2430&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2620,
+      "title": "Konsekvens av innvandringspolitikk i EU",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa05060326/289690ea-6.smil/thumb.jpg?t=2645&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2673,
+      "title": "Kontrollkomite om Utvik Senior",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa05060326/289690ea-6.smil/thumb.jpg?t=2699&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3010,
+      "title": "Enquete viking og fotball",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa05060326/289690ea-6.smil/thumb.jpg?t=3036&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3243,
+      "title": "Imaget til landslaget",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa05060326/289690ea-6.smil/thumb.jpg?t=3268&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3373,
+      "title": "LHL hjartestartar",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa05060326/289690ea-6.smil/thumb.jpg?t=3399&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3570,
+      "title": "Historiske kjendiser",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa05060326/289690ea-6.smil/thumb.jpg?t=3596&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3600,
+      "title": "Overskrifter 07:30",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa05060326/289690ea-6.smil/thumb.jpg?t=3626&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3639,
+      "title": "Hets og trusler mot rikspolitikere",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa05060326/289690ea-6.smil/thumb.jpg?t=3665&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3753,
+      "title": "Pendlande sjukehusdirektørar",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa05060326/289690ea-6.smil/thumb.jpg?t=3779&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3896,
+      "title": "Fotballandslaget har landet i USA",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa05060326/289690ea-6.smil/thumb.jpg?t=3922&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3966,
+      "title": "Påstand tenåringar for valdsoppdrag",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa05060326/289690ea-6.smil/thumb.jpg?t=3991&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4078,
+      "title": "Økning i energidrikk blant ungdom",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa05060326/289690ea-6.smil/thumb.jpg?t=4103&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4198,
+      "title": "Åpning 07:40",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa05060326/289690ea-6.smil/thumb.jpg?t=4224&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4216,
+      "title": "Pride-strid til Statsforvalteren",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa05060326/289690ea-6.smil/thumb.jpg?t=4241&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5398,
+      "title": "NRK Nyheter 08:00",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa05060326/289690ea-6.smil/thumb.jpg?t=5424&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5580,
+      "title": "Åpning 08:03",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa05060326/289690ea-6.smil/thumb.jpg?t=5606&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5639,
+      "title": "Påstand tenåringar for valdsoppdrag",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa05060326/289690ea-6.smil/thumb.jpg?t=5665&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5815,
+      "title": "Voldsoppdrag på bestilling",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa05060326/289690ea-6.smil/thumb.jpg?t=5840&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6043,
+      "title": "Bensinpriser i Russland",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa05060326/289690ea-6.smil/thumb.jpg?t=6069&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6370,
+      "title": "Angrep fra USA og Iran",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa05060326/289690ea-6.smil/thumb.jpg?t=6395&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6657,
+      "title": "Hets og trusler mot rikspolitikere",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa05060326/289690ea-6.smil/thumb.jpg?t=6683&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6874,
+      "title": "Fotballandslaget har landet i USA",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa05060326/289690ea-6.smil/thumb.jpg?t=6900&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6978,
+      "title": "Fem på gata om landslaget om vikinger",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa05060326/289690ea-6.smil/thumb.jpg?t=7003&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7060,
+      "title": "Landslagets viking-image",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa05060326/289690ea-6.smil/thumb.jpg?t=7085&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7257,
+      "title": "Pendlande sjukehusdirektørar",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa05060326/289690ea-6.smil/thumb.jpg?t=7282&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7509,
+      "title": "Kulturpris til Sølvguttene",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa05060326/289690ea-6.smil/thumb.jpg?t=7534&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7980,
+      "title": "Økning i energidrikk blant ungdom",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa05060326/289690ea-6.smil/thumb.jpg?t=8005&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8096,
+      "title": "Før Ekko i NRK P2",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa05060326/289690ea-6.smil/thumb.jpg?t=8122&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8222,
+      "title": "Vil ha retursenter",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa05060326/289690ea-6.smil/thumb.jpg?t=8247&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8377,
+      "title": "Kina korrupsjon",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa05060326/289690ea-6.smil/thumb.jpg?t=8402&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8578,
+      "title": "Kvantebrikke",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa05060326/289690ea-6.smil/thumb.jpg?t=8603&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8753,
+      "title": "Norge møter Tyskland i VM-kvalifiseringen",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa05060326/289690ea-6.smil/thumb.jpg?t=8779&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8866,
+      "title": "GJEST Været i dag",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa05060326/289690ea-6.smil/thumb.jpg?t=8892&scale=480x270&v=high"
+    }
+  ]
+}

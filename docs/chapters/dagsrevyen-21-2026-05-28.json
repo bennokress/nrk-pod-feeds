@@ -1,0 +1,63 @@
+{
+  "version": "1.2.0",
+  "title": "Råkjøring ved Trollstigen",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa21052826/1e392b80-6.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 26,
+      "title": "SYNK-RULAND",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa21052826/1e392b80-6.smil/thumb.jpg?t=52&scale=480x270&v=high"
+    },
+    {
+      "startTime": 112,
+      "title": "Høg fart under Trollstigen",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa21052826/1e392b80-6.smil/thumb.jpg?t=137&scale=480x270&v=high"
+    },
+    {
+      "startTime": 226,
+      "title": "Island EU",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa21052826/1e392b80-6.smil/thumb.jpg?t=252&scale=480x270&v=high"
+    },
+    {
+      "startTime": 246,
+      "title": "Ebola",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa21052826/1e392b80-6.smil/thumb.jpg?t=271&scale=480x270&v=high"
+    },
+    {
+      "startTime": 279,
+      "title": "Varme i Europa",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa21052826/1e392b80-6.smil/thumb.jpg?t=305&scale=480x270&v=high"
+    },
+    {
+      "startTime": 385,
+      "title": "Kong Harald",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa21052826/1e392b80-6.smil/thumb.jpg?t=411&scale=480x270&v=high"
+    },
+    {
+      "startTime": 446,
+      "title": "Nettpromo",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa21052826/1e392b80-6.smil/thumb.jpg?t=472&scale=480x270&v=high"
+    },
+    {
+      "startTime": 460,
+      "title": "Ishockey",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa21052826/1e392b80-6.smil/thumb.jpg?t=486&scale=480x270&v=high"
+    },
+    {
+      "startTime": 480,
+      "title": "Været",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa21052826/1e392b80-6.smil/thumb.jpg?t=506&scale=480x270&v=high"
+    },
+    {
+      "startTime": 534,
+      "title": "Avslutt",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa21052826/1e392b80-6.smil/thumb.jpg?t=556.4&scale=480x270&v=high"
+    }
+  ]
+}

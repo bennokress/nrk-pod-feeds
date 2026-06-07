@@ -1,0 +1,118 @@
+{
+  "version": "1.2.0",
+  "title": "Ny mann siktet",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 11,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa19053026/9083b001-16.smil/thumb.jpg?t=36&scale=480x270&v=high"
+    },
+    {
+      "startTime": 93,
+      "title": "Anne Elisbeth Hagen",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa19053026/9083b001-16.smil/thumb.jpg?t=118&scale=480x270&v=high"
+    },
+    {
+      "startTime": 215,
+      "title": "Gjest: Jørstad",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa19053026/9083b001-16.smil/thumb.jpg?t=240&scale=480x270&v=high"
+    },
+    {
+      "startTime": 283,
+      "title": "Brann Lørenskog",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa19053026/9083b001-16.smil/thumb.jpg?t=309&scale=480x270&v=high"
+    },
+    {
+      "startTime": 390,
+      "title": "Hegseth om Asia",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa19053026/9083b001-16.smil/thumb.jpg?t=416&scale=480x270&v=high"
+    },
+    {
+      "startTime": 507,
+      "title": "Israel og Libanon",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa19053026/9083b001-16.smil/thumb.jpg?t=532&scale=480x270&v=high"
+    },
+    {
+      "startTime": 530,
+      "title": "Gjest: Yama Wolasmal",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa19053026/9083b001-16.smil/thumb.jpg?t=555&scale=480x270&v=high"
+    },
+    {
+      "startTime": 665,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa19053026/9083b001-16.smil/thumb.jpg?t=690&scale=480x270&v=high"
+    },
+    {
+      "startTime": 795,
+      "title": "Svartehavet miner",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa19053026/9083b001-16.smil/thumb.jpg?t=820&scale=480x270&v=high"
+    },
+    {
+      "startTime": 969,
+      "title": "Skjenkekontroll",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa19053026/9083b001-16.smil/thumb.jpg?t=995&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1071,
+      "title": "Direkte: Oslo",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa19053026/9083b001-16.smil/thumb.jpg?t=1097&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1229,
+      "title": "Fosterhjem",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa19053026/9083b001-16.smil/thumb.jpg?t=1255&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1497,
+      "title": "Ary nytt album",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa19053026/9083b001-16.smil/thumb.jpg?t=1522&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1750,
+      "title": "Klasseskille i arbeidslivet",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa19053026/9083b001-16.smil/thumb.jpg?t=1775&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1991,
+      "title": "Philip Lote sykdom",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa19053026/9083b001-16.smil/thumb.jpg?t=2017&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2110,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa19053026/9083b001-16.smil/thumb.jpg?t=2135&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2115,
+      "title": "Hockey-VM",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa19053026/9083b001-16.smil/thumb.jpg?t=2140&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2215,
+      "title": "Direkte: Zürich",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa19053026/9083b001-16.smil/thumb.jpg?t=2240&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2312,
+      "title": "Mesterligafinale",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa19053026/9083b001-16.smil/thumb.jpg?t=2338&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2384,
+      "title": "Liverpool",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa19053026/9083b001-16.smil/thumb.jpg?t=2409&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2403,
+      "title": "Norsk fotball",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa19053026/9083b001-16.smil/thumb.jpg?t=2429&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2484,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa19053026/9083b001-16.smil/thumb.jpg?t=2509&scale=480x270&v=high"
+    }
+  ]
+}

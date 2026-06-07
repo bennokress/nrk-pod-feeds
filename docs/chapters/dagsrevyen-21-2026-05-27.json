@@ -1,0 +1,58 @@
+{
+  "version": "1.2.0",
+  "title": "Dronning Sonja på sykehus",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa21052726/395969f0-6.smil/thumb.jpg?t=26&scale=480x270&v=high"
+    },
+    {
+      "startTime": 32,
+      "title": "Dronningen innlagt",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa21052726/395969f0-6.smil/thumb.jpg?t=57&scale=480x270&v=high"
+    },
+    {
+      "startTime": 50,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa21052726/395969f0-6.smil/thumb.jpg?t=76&scale=480x270&v=high"
+    },
+    {
+      "startTime": 191,
+      "title": "Ny laserskade",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa21052726/395969f0-6.smil/thumb.jpg?t=216&scale=480x270&v=high"
+    },
+    {
+      "startTime": 235,
+      "title": "Solstad Offshore",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa21052726/395969f0-6.smil/thumb.jpg?t=261&scale=480x270&v=high"
+    },
+    {
+      "startTime": 311,
+      "title": "Fjerner kompetansekrav i kommunene",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa21052726/395969f0-6.smil/thumb.jpg?t=337&scale=480x270&v=high"
+    },
+    {
+      "startTime": 411,
+      "title": "Forsvarsavtale",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa21052726/395969f0-6.smil/thumb.jpg?t=437&scale=480x270&v=high"
+    },
+    {
+      "startTime": 449,
+      "title": "Kong Harald",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa21052726/395969f0-6.smil/thumb.jpg?t=475&scale=480x270&v=high"
+    },
+    {
+      "startTime": 496,
+      "title": "Været",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa21052726/395969f0-6.smil/thumb.jpg?t=522&scale=480x270&v=high"
+    },
+    {
+      "startTime": 549,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa21052726/395969f0-6.smil/thumb.jpg?t=567.55&scale=480x270&v=high"
+    }
+  ]
+}

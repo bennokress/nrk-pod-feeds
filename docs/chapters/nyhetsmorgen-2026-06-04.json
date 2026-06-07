@@ -1,0 +1,258 @@
+{
+  "version": "1.2.0",
+  "title": "Vil ha strengere krav til teleselskapene",
+  "author": "NRK",
+  "podcastName": "Nyhetsmorgen",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Åpning 06:30",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa05060426/4545c1f1-6.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 71,
+      "title": "Etterlyser strengere krav til teleselskapene",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa05060426/4545c1f1-6.smil/thumb.jpg?t=96&scale=480x270&v=high"
+    },
+    {
+      "startTime": 130,
+      "title": "Rettssaken mot Steinar Wangen",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa05060426/4545c1f1-6.smil/thumb.jpg?t=156&scale=480x270&v=high"
+    },
+    {
+      "startTime": 252,
+      "title": "Siste nytt",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa05060426/4545c1f1-6.smil/thumb.jpg?t=277&scale=480x270&v=high"
+    },
+    {
+      "startTime": 370,
+      "title": "Syke jordbærplanter",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa05060426/4545c1f1-6.smil/thumb.jpg?t=396&scale=480x270&v=high"
+    },
+    {
+      "startTime": 551,
+      "title": "Kongressen sa nei til Trump-krig",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa05060426/4545c1f1-6.smil/thumb.jpg?t=577&scale=480x270&v=high"
+    },
+    {
+      "startTime": 721,
+      "title": "Victor Wembanyama i NBA-sluttspillet",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa05060426/4545c1f1-6.smil/thumb.jpg?t=747&scale=480x270&v=high"
+    },
+    {
+      "startTime": 909,
+      "title": "Slik skal spillselskapene kapre spillerne",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa05060426/4545c1f1-6.smil/thumb.jpg?t=934&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1097,
+      "title": "Kriminelle fra de beste familiene",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa05060426/4545c1f1-6.smil/thumb.jpg?t=1122&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1239,
+      "title": "Reiseregler for kjæledyr",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa05060426/4545c1f1-6.smil/thumb.jpg?t=1265&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1609,
+      "title": "23 Michelin-restauranter i Norge",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa05060426/4545c1f1-6.smil/thumb.jpg?t=1635&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1808,
+      "title": "Åpning 07:00",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa05060426/4545c1f1-6.smil/thumb.jpg?t=1834&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1876,
+      "title": "Etterlyser strengere krav til teleselskap",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa05060426/4545c1f1-6.smil/thumb.jpg?t=1902&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2090,
+      "title": "Sivilombudet om barn i fengsel",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa05060426/4545c1f1-6.smil/thumb.jpg?t=2116&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2356,
+      "title": "Droner mot St. Petersburg",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa05060426/4545c1f1-6.smil/thumb.jpg?t=2382&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2842,
+      "title": "GJEST Før Politisk kvarter",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa05060426/4545c1f1-6.smil/thumb.jpg?t=2868&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2893,
+      "title": "Shada-saken og konspirasjonsteorier",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa05060426/4545c1f1-6.smil/thumb.jpg?t=2919&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3212,
+      "title": "Reaksjonar på direktørpendling",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa05060426/4545c1f1-6.smil/thumb.jpg?t=3237&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3407,
+      "title": "Mangler bioingeniører",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa05060426/4545c1f1-6.smil/thumb.jpg?t=3433&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3568,
+      "title": "Trailer- Brenner deler dikt",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa05060426/4545c1f1-6.smil/thumb.jpg?t=3594&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3601,
+      "title": "Overskrifter 07:30",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa05060426/4545c1f1-6.smil/thumb.jpg?t=3627&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3638,
+      "title": "Etterlyser strengere krav til teleselskap",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa05060426/4545c1f1-6.smil/thumb.jpg?t=3664&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3753,
+      "title": "Steinar Wangen rettsak",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa05060426/4545c1f1-6.smil/thumb.jpg?t=3779&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3873,
+      "title": "Kongressen sa nei til Trump-krig",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa05060426/4545c1f1-6.smil/thumb.jpg?t=3899&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3988,
+      "title": "Våpenhvile Israel og Libanon",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa05060426/4545c1f1-6.smil/thumb.jpg?t=4014&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4026,
+      "title": "Syke jordbærplanter",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa05060426/4545c1f1-6.smil/thumb.jpg?t=4052&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4078,
+      "title": "23 Michelin-restauranter i Norge",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa05060426/4545c1f1-6.smil/thumb.jpg?t=4104&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4199,
+      "title": "Åpning 07:40",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa05060426/4545c1f1-6.smil/thumb.jpg?t=4224&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4214,
+      "title": "Litteraturfestivalen på Lillehammer",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa05060426/4545c1f1-6.smil/thumb.jpg?t=4240&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5399,
+      "title": "NRK Nyheter 08:00",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa05060426/4545c1f1-6.smil/thumb.jpg?t=5424&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5580,
+      "title": "Åpning 08:03",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa05060426/4545c1f1-6.smil/thumb.jpg?t=5605&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5652,
+      "title": "Etterlyser strengere krav til teleselskap",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa05060426/4545c1f1-6.smil/thumb.jpg?t=5677&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5859,
+      "title": "Advarer mot kinesiske spioner",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa05060426/4545c1f1-6.smil/thumb.jpg?t=5885&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5874,
+      "title": "Ukrainske droner i Russland",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa05060426/4545c1f1-6.smil/thumb.jpg?t=5899&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5878,
+      "title": "Advarer mot kinesiske spioner",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa05060426/4545c1f1-6.smil/thumb.jpg?t=5904&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6041,
+      "title": "Ukrainske droner i Russland",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa05060426/4545c1f1-6.smil/thumb.jpg?t=6066&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6375,
+      "title": "Musk kan bli dollar-billionær",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa05060426/4545c1f1-6.smil/thumb.jpg?t=6401&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6580,
+      "title": "Steinar Wangen rettssak",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa05060426/4545c1f1-6.smil/thumb.jpg?t=6606&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6682,
+      "title": "Rettsaken mot Steinar Wangen starter i dag",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa05060426/4545c1f1-6.smil/thumb.jpg?t=6707&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6982,
+      "title": "Reaksjonar på direktørpendling",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa05060426/4545c1f1-6.smil/thumb.jpg?t=7007&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7196,
+      "title": "SSB-tall utslipp",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa05060426/4545c1f1-6.smil/thumb.jpg?t=7221&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7367,
+      "title": "Norsk 19-åring i rettsak i London",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa05060426/4545c1f1-6.smil/thumb.jpg?t=7393&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7568,
+      "title": "Shada-saken og konspirasjonsteorier",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa05060426/4545c1f1-6.smil/thumb.jpg?t=7594&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7762,
+      "title": "Reinsve-film topper kinolistene",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa05060426/4545c1f1-6.smil/thumb.jpg?t=7787&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7960,
+      "title": "Tannhelse og budsjett",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa05060426/4545c1f1-6.smil/thumb.jpg?t=7985&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8193,
+      "title": "Kriminelle fra de beste familiene",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa05060426/4545c1f1-6.smil/thumb.jpg?t=8219&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8342,
+      "title": "Vil ha Nyt Norge på norsk ull",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa05060426/4545c1f1-6.smil/thumb.jpg?t=8368&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8487,
+      "title": "Filmanmeldelse",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa05060426/4545c1f1-6.smil/thumb.jpg?t=8513&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8708,
+      "title": "23 Michelin-restauranter i Norge",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa05060426/4545c1f1-6.smil/thumb.jpg?t=8734&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8832,
+      "title": "GJEST Været i dag",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa05060426/4545c1f1-6.smil/thumb.jpg?t=8858&scale=480x270&v=high"
+    }
+  ]
+}

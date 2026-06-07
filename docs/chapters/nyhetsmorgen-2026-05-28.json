@@ -1,0 +1,268 @@
+{
+  "version": "1.2.0",
+  "title": "Nytt budsjettkrav fra MDG",
+  "author": "NRK",
+  "podcastName": "Nyhetsmorgen",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Åpning 06:30",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa05052826/e6390775-40.smil/thumb.jpg?t=26&scale=480x270&v=high"
+    },
+    {
+      "startTime": 69,
+      "title": "Streik stort sett over",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa05052826/e6390775-40.smil/thumb.jpg?t=94&scale=480x270&v=high"
+    },
+    {
+      "startTime": 221,
+      "title": "Krever en halv milliard til Oslofjorden",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa05052826/e6390775-40.smil/thumb.jpg?t=247&scale=480x270&v=high"
+    },
+    {
+      "startTime": 416,
+      "title": "Mener forlag bruker KI",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa05052826/e6390775-40.smil/thumb.jpg?t=442&scale=480x270&v=high"
+    },
+    {
+      "startTime": 599,
+      "title": "Fransk-norsk forsvarsavtale",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa05052826/e6390775-40.smil/thumb.jpg?t=625&scale=480x270&v=high"
+    },
+    {
+      "startTime": 718,
+      "title": "Amnesty vil forby KI",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa05052826/e6390775-40.smil/thumb.jpg?t=744&scale=480x270&v=high"
+    },
+    {
+      "startTime": 979,
+      "title": "Hockey før VM-kvartfinale",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa05052826/e6390775-40.smil/thumb.jpg?t=1004&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1113,
+      "title": "Dronning Sonja innlagt på sykehus",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa05052826/e6390775-40.smil/thumb.jpg?t=1138&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1377,
+      "title": "Taliban vil gifte bort 9-åringer",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa05052826/e6390775-40.smil/thumb.jpg?t=1402&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1525,
+      "title": "Skjervøy gir bort gratis tomt",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa05052826/e6390775-40.smil/thumb.jpg?t=1550&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1775,
+      "title": "Trailer - Vi skal til VM",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa05052826/e6390775-40.smil/thumb.jpg?t=1800&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1864,
+      "title": "Tone Sofie Aglen om streiken",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa05052826/e6390775-40.smil/thumb.jpg?t=1890&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2070,
+      "title": "Krever en halv milliard til Oslofjord",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa05052826/e6390775-40.smil/thumb.jpg?t=2096&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2250,
+      "title": "Tone Sofie Aglen om MDGs utspill",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa05052826/e6390775-40.smil/thumb.jpg?t=2275&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2383,
+      "title": "Forsvarsavtalen med Frankrike",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa05052826/e6390775-40.smil/thumb.jpg?t=2409&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2521,
+      "title": "Sverre Diesen om ny forsvarsavtale",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa05052826/e6390775-40.smil/thumb.jpg?t=2547&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2814,
+      "title": "Mediehuset 100 procent Sverige",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa05052826/e6390775-40.smil/thumb.jpg?t=2839&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3104,
+      "title": "Politisk kvarter om lakseskatt",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa05052826/e6390775-40.smil/thumb.jpg?t=3130&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3161,
+      "title": "Høg fart under Trollstigen",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa05052826/e6390775-40.smil/thumb.jpg?t=3187&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3295,
+      "title": "Norge spiller kvartfinale i ishockey-VM",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa05052826/e6390775-40.smil/thumb.jpg?t=3320&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3568,
+      "title": "Historier fra virkeligheten- Demonutdriveren",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa05052826/e6390775-40.smil/thumb.jpg?t=3594&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3600,
+      "title": "Overskrifter 07:30",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa05052826/e6390775-40.smil/thumb.jpg?t=3626&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3629,
+      "title": "Streik stort sett over",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa05052826/e6390775-40.smil/thumb.jpg?t=3655&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3755,
+      "title": "Vil ha en halv milliard til Oslofjorden",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa05052826/e6390775-40.smil/thumb.jpg?t=3780&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3792,
+      "title": "USA og Iran har angrepet flybaser",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa05052826/e6390775-40.smil/thumb.jpg?t=3818&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3817,
+      "title": "Vil ha en halv milliard til Oslofjorden",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa05052826/e6390775-40.smil/thumb.jpg?t=3842&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3921,
+      "title": "Reaksjoner på ny forsvarsavtale",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa05052826/e6390775-40.smil/thumb.jpg?t=3947&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4005,
+      "title": "Dronning Sonja innlagt",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa05052826/e6390775-40.smil/thumb.jpg?t=4030&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4097,
+      "title": "Kvartfinale ishockey",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa05052826/e6390775-40.smil/thumb.jpg?t=4123&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4200,
+      "title": "Åpning 07:40",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa05052826/e6390775-40.smil/thumb.jpg?t=4226&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4214,
+      "title": "Festival frustrerer og begeistrer",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa05052826/e6390775-40.smil/thumb.jpg?t=4239&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5399,
+      "title": "NRK Nyheter 08:00",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa05052826/e6390775-40.smil/thumb.jpg?t=5425&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5581,
+      "title": "Åpning 08:03",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa05052826/e6390775-40.smil/thumb.jpg?t=5607&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5663,
+      "title": "Streiken delvis over",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa05052826/e6390775-40.smil/thumb.jpg?t=5688&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5798,
+      "title": "Nye trefninger i Midtøsten i natt",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa05052826/e6390775-40.smil/thumb.jpg?t=5823&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6039,
+      "title": "Nav om sykefraværstall",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa05052826/e6390775-40.smil/thumb.jpg?t=6065&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6295,
+      "title": "Taliban vil gifte bort 9-åringer",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa05052826/e6390775-40.smil/thumb.jpg?t=6320&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6439,
+      "title": "Talibans jerngrep om afghanske kvinner",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa05052826/e6390775-40.smil/thumb.jpg?t=6465&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6691,
+      "title": "Hockey før VM-kvartfinale",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa05052826/e6390775-40.smil/thumb.jpg?t=6717&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6828,
+      "title": "Norge spiller kvartfinale i ishockey-VM",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa05052826/e6390775-40.smil/thumb.jpg?t=6853&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7079,
+      "title": "Mener forlag bruker KI",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa05052826/e6390775-40.smil/thumb.jpg?t=7105&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7302,
+      "title": "Krever en halv milliard til Oslofjord",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa05052826/e6390775-40.smil/thumb.jpg?t=7328&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7432,
+      "title": "Tone Sofie Aglen om MDGs utspill",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa05052826/e6390775-40.smil/thumb.jpg?t=7457&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7557,
+      "title": "Forsvarsavtalen med Frankrike",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa05052826/e6390775-40.smil/thumb.jpg?t=7583&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7702,
+      "title": "Amnesty vil forby KI",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa05052826/e6390775-40.smil/thumb.jpg?t=7727&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7921,
+      "title": "Før Ekko i NRK P2",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa05052826/e6390775-40.smil/thumb.jpg?t=7946&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8024,
+      "title": "Streiken delvis over",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa05052826/e6390775-40.smil/thumb.jpg?t=8050&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8154,
+      "title": "Streiken delvis avsluttet",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa05052826/e6390775-40.smil/thumb.jpg?t=8179&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8349,
+      "title": "Lakseskattdebatt fra Politisk kvarter",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa05052826/e6390775-40.smil/thumb.jpg?t=8375&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8561,
+      "title": "Musikkterapi etter kreftbehandling",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa05052826/e6390775-40.smil/thumb.jpg?t=8587&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8763,
+      "title": "Skjervøy gir bort gratis tomt",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa05052826/e6390775-40.smil/thumb.jpg?t=8788&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8863,
+      "title": "GJEST Været i dag",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa05052826/e6390775-40.smil/thumb.jpg?t=8889&scale=480x270&v=high"
+    }
+  ]
+}

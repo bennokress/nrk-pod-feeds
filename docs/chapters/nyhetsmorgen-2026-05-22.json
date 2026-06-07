@@ -1,0 +1,263 @@
+{
+  "version": "1.2.0",
+  "title": "Vil ha ned skolefraværet",
+  "author": "NRK",
+  "podcastName": "Nyhetsmorgen",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Åpning 06:30",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa05052226/fabc12a7-14.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 80,
+      "title": "Holdninger til skolefravær",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa05052226/fabc12a7-14.smil/thumb.jpg?t=105&scale=480x270&v=high"
+    },
+    {
+      "startTime": 173,
+      "title": "Glede og selvtillitt etter VM-uttaket",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa05052226/fabc12a7-14.smil/thumb.jpg?t=198&scale=480x270&v=high"
+    },
+    {
+      "startTime": 327,
+      "title": "Siste nytt",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa05052226/fabc12a7-14.smil/thumb.jpg?t=352&scale=480x270&v=high"
+    },
+    {
+      "startTime": 434,
+      "title": "Dragkamp om forsvarsplan",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa05052226/fabc12a7-14.smil/thumb.jpg?t=460&scale=480x270&v=high"
+    },
+    {
+      "startTime": 603,
+      "title": "Generalsekretær Unicef om ebola-utbruddet",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa05052226/fabc12a7-14.smil/thumb.jpg?t=629&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1053,
+      "title": "Overskrifter 06:45",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa05052226/fabc12a7-14.smil/thumb.jpg?t=1079&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1096,
+      "title": "Ukrainske droneangrep mot Russland",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa05052226/fabc12a7-14.smil/thumb.jpg?t=1122&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1281,
+      "title": "Droneangrep mot russiske oljeinstalasjoner",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa05052226/fabc12a7-14.smil/thumb.jpg?t=1306&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1452,
+      "title": "Graham Hansen drømmer om hjemmetriumf",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa05052226/fabc12a7-14.smil/thumb.jpg?t=1477&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1597,
+      "title": "Unge brukar solkrem hver dag",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa05052226/fabc12a7-14.smil/thumb.jpg?t=1623&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1756,
+      "title": "Teasing dagens sending",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa05052226/fabc12a7-14.smil/thumb.jpg?t=1781&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1760,
+      "title": "Trailer HISTORISKE KJENDISER",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa05052226/fabc12a7-14.smil/thumb.jpg?t=1785&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1792,
+      "title": "Åpning 07:00",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa05052226/fabc12a7-14.smil/thumb.jpg?t=1817&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1898,
+      "title": "Holdninger til skolefravær",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa05052226/fabc12a7-14.smil/thumb.jpg?t=1924&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2070,
+      "title": "– For kjapt av kunnskapsministeren",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa05052226/fabc12a7-14.smil/thumb.jpg?t=2095&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2278,
+      "title": "Politisk kvarter om cruisetrafikk",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa05052226/fabc12a7-14.smil/thumb.jpg?t=2303&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2347,
+      "title": "Fotballfest før Mesterligafinalen",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa05052226/fabc12a7-14.smil/thumb.jpg?t=2373&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2486,
+      "title": "Forvirring om VM-videoen",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa05052226/fabc12a7-14.smil/thumb.jpg?t=2512&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2717,
+      "title": "Overskrifter 07:15",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa05052226/fabc12a7-14.smil/thumb.jpg?t=2742&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2763,
+      "title": "Nato-møte i en vanskelig tid for alliansen",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa05052226/fabc12a7-14.smil/thumb.jpg?t=2788&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3364,
+      "title": "Sjokkbølger av parfyme",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa05052226/fabc12a7-14.smil/thumb.jpg?t=3389&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3573,
+      "title": "Trailer - VI SKAL TIL VM - se det nå",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa05052226/fabc12a7-14.smil/thumb.jpg?t=3598&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3599,
+      "title": "Overskrifter 07:30",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa05052226/fabc12a7-14.smil/thumb.jpg?t=3625&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3638,
+      "title": "Holdninger skolefravær",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa05052226/fabc12a7-14.smil/thumb.jpg?t=3663&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3765,
+      "title": "Dragkamp om forsvarsplan",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa05052226/fabc12a7-14.smil/thumb.jpg?t=3791&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3879,
+      "title": "NATOs toppmøte i Sverige åpner",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa05052226/fabc12a7-14.smil/thumb.jpg?t=3904&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3990,
+      "title": "Unge brukar solkrem hver dag",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa05052226/fabc12a7-14.smil/thumb.jpg?t=4016&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4093,
+      "title": "Forvirring om VM-videoen",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa05052226/fabc12a7-14.smil/thumb.jpg?t=4118&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4186,
+      "title": "Avslutning",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa05052226/fabc12a7-14.smil/thumb.jpg?t=4212&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4199,
+      "title": "Åpning 07:40",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa05052226/fabc12a7-14.smil/thumb.jpg?t=4225&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4216,
+      "title": "Mesterligafinale i Oslo",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa05052226/fabc12a7-14.smil/thumb.jpg?t=4242&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5399,
+      "title": "NRK Nyheter 08:00",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa05052226/fabc12a7-14.smil/thumb.jpg?t=5425&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5579,
+      "title": "Åpning 08:03",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa05052226/fabc12a7-14.smil/thumb.jpg?t=5605&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5671,
+      "title": "Holdninger skolefravær",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa05052226/fabc12a7-14.smil/thumb.jpg?t=5697&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5800,
+      "title": "Store skader fra splinter og skudd i Gaza",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa05052226/fabc12a7-14.smil/thumb.jpg?t=5826&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6122,
+      "title": "Mini Jakobsen om å spille i VM",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa05052226/fabc12a7-14.smil/thumb.jpg?t=6148&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6457,
+      "title": "Overskrifter 08:15",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa05052226/fabc12a7-14.smil/thumb.jpg?t=6482&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6496,
+      "title": "Thailand skjerper reglene for opphold",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa05052226/fabc12a7-14.smil/thumb.jpg?t=6521&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6646,
+      "title": "Fredagspanelet",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa05052226/fabc12a7-14.smil/thumb.jpg?t=6671&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7462,
+      "title": "Overskrifter 08:30",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa05052226/fabc12a7-14.smil/thumb.jpg?t=7487&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7505,
+      "title": "Morten Thorsby ble tatt ut i VM-troppen",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa05052226/fabc12a7-14.smil/thumb.jpg?t=7530&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7827,
+      "title": "Dragkamp om forsvarsplan",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa05052226/fabc12a7-14.smil/thumb.jpg?t=7852&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7990,
+      "title": "Sentralbanksjefen i USA taes i ed",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa05052226/fabc12a7-14.smil/thumb.jpg?t=8016&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8181,
+      "title": "Overskrifter 08:45",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa05052226/fabc12a7-14.smil/thumb.jpg?t=8207&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8225,
+      "title": "Mattegjennombrudd med KI",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa05052226/fabc12a7-14.smil/thumb.jpg?t=8250&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8400,
+      "title": "Delte usladda valdsbilde",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa05052226/fabc12a7-14.smil/thumb.jpg?t=8426&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8593,
+      "title": "Nato-møte i Helsingborg",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa05052226/fabc12a7-14.smil/thumb.jpg?t=8618&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8825,
+      "title": "Hør Abels tårn i NRK P2",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa05052226/fabc12a7-14.smil/thumb.jpg?t=8850&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8900,
+      "title": "Været i dag",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa05052226/fabc12a7-14.smil/thumb.jpg?t=8926&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8990,
+      "title": "Avslutning",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa05052226/fabc12a7-14.smil/thumb.jpg?t=9003.4&scale=480x270&v=high"
+    }
+  ]
+}

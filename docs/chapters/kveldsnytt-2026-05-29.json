@@ -1,0 +1,68 @@
+{
+  "version": "1.2.0",
+  "title": "Flere laserskader",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa23052926/6d860c63-6.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 35,
+      "title": "Russ øyeskade",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa23052926/6d860c63-6.smil/thumb.jpg?t=61&scale=480x270&v=high"
+    },
+    {
+      "startTime": 126,
+      "title": "Møteti det hvite hus over - ingen forlenget fredsavtale i dag heller",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa23052926/6d860c63-6.smil/thumb.jpg?t=152&scale=480x270&v=high"
+    },
+    {
+      "startTime": 154,
+      "title": "Terrorsiktede fengslet",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa23052926/6d860c63-6.smil/thumb.jpg?t=180&scale=480x270&v=high"
+    },
+    {
+      "startTime": 186,
+      "title": "Drap Flood",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa23052926/6d860c63-6.smil/thumb.jpg?t=212&scale=480x270&v=high"
+    },
+    {
+      "startTime": 223,
+      "title": "Laksefisket",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa23052926/6d860c63-6.smil/thumb.jpg?t=249&scale=480x270&v=high"
+    },
+    {
+      "startTime": 311,
+      "title": "KORK-dirigent",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa23052926/6d860c63-6.smil/thumb.jpg?t=337&scale=480x270&v=high"
+    },
+    {
+      "startTime": 416,
+      "title": "Eliteserien",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa23052926/6d860c63-6.smil/thumb.jpg?t=442&scale=480x270&v=high"
+    },
+    {
+      "startTime": 547,
+      "title": "Tennis",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa23052926/6d860c63-6.smil/thumb.jpg?t=572&scale=480x270&v=high"
+    },
+    {
+      "startTime": 574,
+      "title": "Ishockey",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa23052926/6d860c63-6.smil/thumb.jpg?t=599&scale=480x270&v=high"
+    },
+    {
+      "startTime": 637,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa23052926/6d860c63-6.smil/thumb.jpg?t=663&scale=480x270&v=high"
+    },
+    {
+      "startTime": 706,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa23052926/6d860c63-6.smil/thumb.jpg?t=724.48&scale=480x270&v=high"
+    }
+  ]
+}

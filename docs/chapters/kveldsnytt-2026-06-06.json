@@ -1,0 +1,93 @@
+{
+  "version": "1.2.0",
+  "title": "Elleville tall",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa23060626/5e527783-7.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 35,
+      "title": "Organdonasjon",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa23060626/5e527783-7.smil/thumb.jpg?t=61&scale=480x270&v=high"
+    },
+    {
+      "startTime": 59,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa23060626/5e527783-7.smil/thumb.jpg?t=84&scale=480x270&v=high"
+    },
+    {
+      "startTime": 179,
+      "title": "Drap Stavanger",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa23060626/5e527783-7.smil/thumb.jpg?t=205&scale=480x270&v=high"
+    },
+    {
+      "startTime": 212,
+      "title": "Omkom fall",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa23060626/5e527783-7.smil/thumb.jpg?t=237&scale=480x270&v=high"
+    },
+    {
+      "startTime": 227,
+      "title": "Ebola",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa23060626/5e527783-7.smil/thumb.jpg?t=253&scale=480x270&v=high"
+    },
+    {
+      "startTime": 321,
+      "title": "Paven Spania",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa23060626/5e527783-7.smil/thumb.jpg?t=347&scale=480x270&v=high"
+    },
+    {
+      "startTime": 347,
+      "title": "Kongelig bryllup",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa23060626/5e527783-7.smil/thumb.jpg?t=373&scale=480x270&v=high"
+    },
+    {
+      "startTime": 377,
+      "title": "Høyre om Stad",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa23060626/5e527783-7.smil/thumb.jpg?t=403&scale=480x270&v=high"
+    },
+    {
+      "startTime": 455,
+      "title": "Svensk nasjonaldag",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa23060626/5e527783-7.smil/thumb.jpg?t=480&scale=480x270&v=high"
+    },
+    {
+      "startTime": 491,
+      "title": "Nettpromo",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa23060626/5e527783-7.smil/thumb.jpg?t=516&scale=480x270&v=high"
+    },
+    {
+      "startTime": 502,
+      "title": "Festivalen Rodeo arrangert for første gang",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa23060626/5e527783-7.smil/thumb.jpg?t=527&scale=480x270&v=high"
+    },
+    {
+      "startTime": 609,
+      "title": "Treningskamper",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa23060626/5e527783-7.smil/thumb.jpg?t=634&scale=480x270&v=high"
+    },
+    {
+      "startTime": 686,
+      "title": "Friidrett",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa23060626/5e527783-7.smil/thumb.jpg?t=711&scale=480x270&v=high"
+    },
+    {
+      "startTime": 750,
+      "title": "Aysha Medina Abid drømmer om seier i VM i thai-boxing.",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa23060626/5e527783-7.smil/thumb.jpg?t=775&scale=480x270&v=high"
+    },
+    {
+      "startTime": 830,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa23060626/5e527783-7.smil/thumb.jpg?t=855&scale=480x270&v=high"
+    },
+    {
+      "startTime": 901,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa23060626/5e527783-7.smil/thumb.jpg?t=921.6&scale=480x270&v=high"
+    }
+  ]
+}

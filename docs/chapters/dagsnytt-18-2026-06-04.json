@@ -1,0 +1,83 @@
+{
+  "version": "1.2.0",
+  "title": "Kronprinsessen på sykehus",
+  "author": "NRK",
+  "podcastName": "Dagsnytt 18",
+  "chapters": [
+    {
+      "startTime": 1,
+      "title": "Dagsnytt atten",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa56060426/eb5b2af6-6.smil/thumb.jpg?t=26&scale=480x270&v=high"
+    },
+    {
+      "startTime": 68,
+      "title": "Kronprinsessen på sykehus",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa56060426/eb5b2af6-6.smil/thumb.jpg?t=94&scale=480x270&v=high"
+    },
+    {
+      "startTime": 407,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa56060426/eb5b2af6-6.smil/thumb.jpg?t=432&scale=480x270&v=high"
+    },
+    {
+      "startTime": 417,
+      "title": "Dagslys i boliger",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa56060426/eb5b2af6-6.smil/thumb.jpg?t=442&scale=480x270&v=high"
+    },
+    {
+      "startTime": 933,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa56060426/eb5b2af6-6.smil/thumb.jpg?t=958&scale=480x270&v=high"
+    },
+    {
+      "startTime": 943,
+      "title": "Dag 1 i Wangen-rettssaken",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa56060426/eb5b2af6-6.smil/thumb.jpg?t=968&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1490,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa56060426/eb5b2af6-6.smil/thumb.jpg?t=1515&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1500,
+      "title": "Kritiserer diplomatiet",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa56060426/eb5b2af6-6.smil/thumb.jpg?t=1525&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2116,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa56060426/eb5b2af6-6.smil/thumb.jpg?t=2142&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2127,
+      "title": "Putin og russisk Davos",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa56060426/eb5b2af6-6.smil/thumb.jpg?t=2152&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2342,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa56060426/eb5b2af6-6.smil/thumb.jpg?t=2368&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2353,
+      "title": "Ny strid om SoMe-regler",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa56060426/eb5b2af6-6.smil/thumb.jpg?t=2378&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2984,
+      "title": "Juks med teoriprøver",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa56060426/eb5b2af6-6.smil/thumb.jpg?t=3010&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3497,
+      "title": "AVSLUTNING",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa56060426/eb5b2af6-6.smil/thumb.jpg?t=3522&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3528,
+      "title": "SLUTTKJENNING",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa56060426/eb5b2af6-6.smil/thumb.jpg?t=3543.96&scale=480x270&v=high"
+    }
+  ]
+}

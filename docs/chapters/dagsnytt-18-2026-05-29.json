@@ -1,0 +1,43 @@
+{
+  "version": "1.2.0",
+  "title": "Storstreik i staten unngått",
+  "author": "NRK",
+  "podcastName": "Dagsnytt 18",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsnytt atten",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa56052926/4e1e7549-6.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 73,
+      "title": "LO Stat skuffet",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa56052926/4e1e7549-6.smil/thumb.jpg?t=99&scale=480x270&v=high"
+    },
+    {
+      "startTime": 820,
+      "title": "KI i offentlig sektor",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa56052926/4e1e7549-6.smil/thumb.jpg?t=845&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1358,
+      "title": "Ishockey-feber",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa56052926/4e1e7549-6.smil/thumb.jpg?t=1384&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1812,
+      "title": "Mediekritikk vold i Bergen",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa56052926/4e1e7549-6.smil/thumb.jpg?t=1837&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2664,
+      "title": "Symbolske klimatiltak",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa56052926/4e1e7549-6.smil/thumb.jpg?t=2689&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3077,
+      "title": "Straff i sosiale medier",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa56052926/4e1e7549-6.smil/thumb.jpg?t=3102&scale=480x270&v=high"
+    }
+  ]
+}

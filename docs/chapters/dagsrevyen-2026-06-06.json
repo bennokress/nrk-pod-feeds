@@ -1,0 +1,118 @@
+{
+  "version": "1.2.0",
+  "title": "Advarer mot \"farlig invasjon\"",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 10,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa19060626/d570f8d4-6.smil/thumb.jpg?t=35&scale=480x270&v=high"
+    },
+    {
+      "startTime": 75,
+      "title": "Hegseth",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa19060626/d570f8d4-6.smil/thumb.jpg?t=101&scale=480x270&v=high"
+    },
+    {
+      "startTime": 182,
+      "title": "Amerikansk innblanding",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa19060626/d570f8d4-6.smil/thumb.jpg?t=207&scale=480x270&v=high"
+    },
+    {
+      "startTime": 288,
+      "title": "Kronprinsessen",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa19060626/d570f8d4-6.smil/thumb.jpg?t=314&scale=480x270&v=high"
+    },
+    {
+      "startTime": 451,
+      "title": "Ukraina Russland",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa19060626/d570f8d4-6.smil/thumb.jpg?t=477&scale=480x270&v=high"
+    },
+    {
+      "startTime": 554,
+      "title": "Havvind strid",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa19060626/d570f8d4-6.smil/thumb.jpg?t=579&scale=480x270&v=high"
+    },
+    {
+      "startTime": 671,
+      "title": "Drap Stavanger",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa19060626/d570f8d4-6.smil/thumb.jpg?t=696&scale=480x270&v=high"
+    },
+    {
+      "startTime": 771,
+      "title": "Fallulykke",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa19060626/d570f8d4-6.smil/thumb.jpg?t=796&scale=480x270&v=high"
+    },
+    {
+      "startTime": 785,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa19060626/d570f8d4-6.smil/thumb.jpg?t=811&scale=480x270&v=high"
+    },
+    {
+      "startTime": 877,
+      "title": "Pride Bergen",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa19060626/d570f8d4-6.smil/thumb.jpg?t=903&scale=480x270&v=high"
+    },
+    {
+      "startTime": 975,
+      "title": "Direkte Oslo",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa19060626/d570f8d4-6.smil/thumb.jpg?t=1001&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1140,
+      "title": "Sørlandsbanen",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa19060626/d570f8d4-6.smil/thumb.jpg?t=1166&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1444,
+      "title": "Stenshorne",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa19060626/d570f8d4-6.smil/thumb.jpg?t=1470&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1781,
+      "title": "Kvitnes gård",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa19060626/d570f8d4-6.smil/thumb.jpg?t=1806&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2076,
+      "title": "Ny VM-låt",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa19060626/d570f8d4-6.smil/thumb.jpg?t=2102&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2198,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa19060626/d570f8d4-6.smil/thumb.jpg?t=2223&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2205,
+      "title": "Fotball-VM",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa19060626/d570f8d4-6.smil/thumb.jpg?t=2230&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2272,
+      "title": "Belgia-Tunisia",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa19060626/d570f8d4-6.smil/thumb.jpg?t=2297&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2296,
+      "title": "Formel 2",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa19060626/d570f8d4-6.smil/thumb.jpg?t=2322&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2313,
+      "title": "Tennis",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa19060626/d570f8d4-6.smil/thumb.jpg?t=2339&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2334,
+      "title": "Fotball-VM",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa19060626/d570f8d4-6.smil/thumb.jpg?t=2359&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2479,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa19060626/d570f8d4-6.smil/thumb.jpg?t=2505&scale=480x270&v=high"
+    }
+  ]
+}

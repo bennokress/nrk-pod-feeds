@@ -1,0 +1,288 @@
+{
+  "version": "1.2.0",
+  "title": "Kjønnsforskjeller på utleiemarkedet",
+  "author": "NRK",
+  "podcastName": "Nyhetsmorgen",
+  "chapters": [
+    {
+      "startTime": 1,
+      "title": "Åpning 06:30",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa05060126/1c3de36d-6.smil/thumb.jpg?t=26&scale=480x270&v=high"
+    },
+    {
+      "startTime": 92,
+      "title": "Kjønnsdiskriminering på leigemarknaden",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa05060126/1c3de36d-6.smil/thumb.jpg?t=117&scale=480x270&v=high"
+    },
+    {
+      "startTime": 141,
+      "title": "Steinar Wangen kritiserer TV 2",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa05060126/1c3de36d-6.smil/thumb.jpg?t=167&scale=480x270&v=high"
+    },
+    {
+      "startTime": 278,
+      "title": "Noreg i ishockey-VM",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa05060126/1c3de36d-6.smil/thumb.jpg?t=303&scale=480x270&v=high"
+    },
+    {
+      "startTime": 548,
+      "title": "Siste nytt",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa05060126/1c3de36d-6.smil/thumb.jpg?t=574&scale=480x270&v=high"
+    },
+    {
+      "startTime": 681,
+      "title": "Kronprins Haakon på statsbesøk i Japan",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa05060126/1c3de36d-6.smil/thumb.jpg?t=707&scale=480x270&v=high"
+    },
+    {
+      "startTime": 905,
+      "title": "Overskrifter 06:45",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa05060126/1c3de36d-6.smil/thumb.jpg?t=931&scale=480x270&v=high"
+    },
+    {
+      "startTime": 963,
+      "title": "Frisk av ebola",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa05060126/1c3de36d-6.smil/thumb.jpg?t=989&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1121,
+      "title": "Frp avviser motorferdsel-frieri",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa05060126/1c3de36d-6.smil/thumb.jpg?t=1147&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1275,
+      "title": "Nervøse markeder",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa05060126/1c3de36d-6.smil/thumb.jpg?t=1301&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1564,
+      "title": "Bekymret for VM-gambling",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa05060126/1c3de36d-6.smil/thumb.jpg?t=1589&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1768,
+      "title": "Teasing dagens sending",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa05060126/1c3de36d-6.smil/thumb.jpg?t=1794&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1772,
+      "title": "Demonutdriveren",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa05060126/1c3de36d-6.smil/thumb.jpg?t=1798&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1799,
+      "title": "Åpning 07:00",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa05060126/1c3de36d-6.smil/thumb.jpg?t=1825&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1875,
+      "title": "Kjønnsdiskriminering på leigemarknaden",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa05060126/1c3de36d-6.smil/thumb.jpg?t=1901&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2026,
+      "title": "Polsk kritikk mot Zelenskyj",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa05060126/1c3de36d-6.smil/thumb.jpg?t=2052&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2210,
+      "title": "Hormuz-stredet",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa05060126/1c3de36d-6.smil/thumb.jpg?t=2235&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2375,
+      "title": "Difor bør du få deg sommarjobb",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa05060126/1c3de36d-6.smil/thumb.jpg?t=2400&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2478,
+      "title": "GJEST Politisk kvarter om forsvar",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa05060126/1c3de36d-6.smil/thumb.jpg?t=2504&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2529,
+      "title": "Mye tilrettelegging av eksamen",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa05060126/1c3de36d-6.smil/thumb.jpg?t=2554&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2755,
+      "title": "Overskrifter 07:15",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa05060126/1c3de36d-6.smil/thumb.jpg?t=2781&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2798,
+      "title": "Folk om Fotball-VM",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa05060126/1c3de36d-6.smil/thumb.jpg?t=2824&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2924,
+      "title": "Fotballandslaget drar til VM",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa05060126/1c3de36d-6.smil/thumb.jpg?t=2949&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3268,
+      "title": "Uroa for fruktsprøytemiddel",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa05060126/1c3de36d-6.smil/thumb.jpg?t=3294&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3529,
+      "title": "Teasing dagens sending",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa05060126/1c3de36d-6.smil/thumb.jpg?t=3554&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3569,
+      "title": "Tyrann: Charles Taylor",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa05060126/1c3de36d-6.smil/thumb.jpg?t=3594&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3601,
+      "title": "Overskrifter 07:30",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa05060126/1c3de36d-6.smil/thumb.jpg?t=3627&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3629,
+      "title": "Nye retningslinjer for fravær",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa05060126/1c3de36d-6.smil/thumb.jpg?t=3655&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3756,
+      "title": "Iran angriper amerikansk flybase",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa05060126/1c3de36d-6.smil/thumb.jpg?t=3781&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3876,
+      "title": "Kjønnsdiskriminering på leigemarknaden",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa05060126/1c3de36d-6.smil/thumb.jpg?t=3902&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3981,
+      "title": "Drapet på Tamima i retten",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa05060126/1c3de36d-6.smil/thumb.jpg?t=4007&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4104,
+      "title": "Bekymret for VM-gambling",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa05060126/1c3de36d-6.smil/thumb.jpg?t=4129&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4200,
+      "title": "Åpning 07:40",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa05060126/1c3de36d-6.smil/thumb.jpg?t=4225&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4211,
+      "title": "Laksefisket starter",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa05060126/1c3de36d-6.smil/thumb.jpg?t=4237&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5400,
+      "title": "NRK Nyheter 08:00",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa05060126/1c3de36d-6.smil/thumb.jpg?t=5426&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5578,
+      "title": "Åpning 08:03",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa05060126/1c3de36d-6.smil/thumb.jpg?t=5604&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5648,
+      "title": "Nye retningslinjer fravær",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa05060126/1c3de36d-6.smil/thumb.jpg?t=5673&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5834,
+      "title": "Kjønnsdiskriminering på leigemarknaden",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa05060126/1c3de36d-6.smil/thumb.jpg?t=5859&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6002,
+      "title": "Valg i Etiopia",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa05060126/1c3de36d-6.smil/thumb.jpg?t=6027&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6194,
+      "title": "Overskrifter 08:15",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa05060126/1c3de36d-6.smil/thumb.jpg?t=6220&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6245,
+      "title": "Drapet på Tamima i retten",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa05060126/1c3de36d-6.smil/thumb.jpg?t=6271&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6349,
+      "title": "Rettssak etter Kampen-drapet",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa05060126/1c3de36d-6.smil/thumb.jpg?t=6375&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6549,
+      "title": "Mandagspanelet",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa05060126/1c3de36d-6.smil/thumb.jpg?t=6575&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7010,
+      "title": "Folk om Fotball-VM",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa05060126/1c3de36d-6.smil/thumb.jpg?t=7035&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7143,
+      "title": "Dan Eggen om fotball- VM",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa05060126/1c3de36d-6.smil/thumb.jpg?t=7168&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7180,
+      "title": "Overskrifter 08:30",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa05060126/1c3de36d-6.smil/thumb.jpg?t=7206&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7234,
+      "title": "Maria Ressa om ytringsfrihet",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa05060126/1c3de36d-6.smil/thumb.jpg?t=7260&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7724,
+      "title": "Kongefamilien på jobb",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa05060126/1c3de36d-6.smil/thumb.jpg?t=7749&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8298,
+      "title": "Norge fikk bronse i Hockey-VM",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa05060126/1c3de36d-6.smil/thumb.jpg?t=8324&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8308,
+      "title": "DIR Før Ekko i NRK P2",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa05060126/1c3de36d-6.smil/thumb.jpg?t=8334&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8363,
+      "title": "Leseklubben: Kafka på stranden",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa05060126/1c3de36d-6.smil/thumb.jpg?t=8389&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8390,
+      "title": "Overskrifter 08:45",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa05060126/1c3de36d-6.smil/thumb.jpg?t=8416&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8417,
+      "title": "Anmeldelse: Arne Lygre",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa05060126/1c3de36d-6.smil/thumb.jpg?t=8443&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8694,
+      "title": "MDG-krav om sprengstoffabrikk",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa05060126/1c3de36d-6.smil/thumb.jpg?t=8720&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8889,
+      "title": "GJEST Været i dag",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa05060126/1c3de36d-6.smil/thumb.jpg?t=8914&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8997,
+      "title": "Avslutning",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa05060126/1c3de36d-6.smil/thumb.jpg?t=9004.36&scale=480x270&v=high"
+    }
+  ]
+}

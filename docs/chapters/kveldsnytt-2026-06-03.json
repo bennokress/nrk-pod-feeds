@@ -1,0 +1,78 @@
+{
+  "version": "1.2.0",
+  "title": "Her bor Norge",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa23060326/b9483fff-8.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 34,
+      "title": "Trump Nato",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa23060326/b9483fff-8.smil/thumb.jpg?t=59&scale=480x270&v=high"
+    },
+    {
+      "startTime": 90,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa23060326/b9483fff-8.smil/thumb.jpg?t=116&scale=480x270&v=high"
+    },
+    {
+      "startTime": 205,
+      "title": "Utenriksnyheter",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa23060326/b9483fff-8.smil/thumb.jpg?t=231&scale=480x270&v=high"
+    },
+    {
+      "startTime": 310,
+      "title": "Danmarks nye regjering",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa23060326/b9483fff-8.smil/thumb.jpg?t=336&scale=480x270&v=high"
+    },
+    {
+      "startTime": 393,
+      "title": "Forsvaret",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa23060326/b9483fff-8.smil/thumb.jpg?t=419&scale=480x270&v=high"
+    },
+    {
+      "startTime": 432,
+      "title": "Rettssak London",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa23060326/b9483fff-8.smil/thumb.jpg?t=458&scale=480x270&v=high"
+    },
+    {
+      "startTime": 504,
+      "title": "Kronprinsen beredskap",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa23060326/b9483fff-8.smil/thumb.jpg?t=530&scale=480x270&v=high"
+    },
+    {
+      "startTime": 565,
+      "title": "Brakkesjuke på VM-hotellet - tiltak",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa23060326/b9483fff-8.smil/thumb.jpg?t=591&scale=480x270&v=high"
+    },
+    {
+      "startTime": 652,
+      "title": "Friidrett",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa23060326/b9483fff-8.smil/thumb.jpg?t=678&scale=480x270&v=high"
+    },
+    {
+      "startTime": 704,
+      "title": "Reiten til VM-kvalifisering med ny oppladning",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa23060326/b9483fff-8.smil/thumb.jpg?t=730&scale=480x270&v=high"
+    },
+    {
+      "startTime": 766,
+      "title": "Holbergprisen",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa23060326/b9483fff-8.smil/thumb.jpg?t=792&scale=480x270&v=high"
+    },
+    {
+      "startTime": 787,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa23060326/b9483fff-8.smil/thumb.jpg?t=813&scale=480x270&v=high"
+    },
+    {
+      "startTime": 855,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa23060326/b9483fff-8.smil/thumb.jpg?t=872.8&scale=480x270&v=high"
+    }
+  ]
+}

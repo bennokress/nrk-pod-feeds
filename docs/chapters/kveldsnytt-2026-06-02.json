@@ -1,0 +1,68 @@
+{
+  "version": "1.2.0",
+  "title": "Ny dansk regjering får kritikk",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 1,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa23060226/45e57c2f-8.smil/thumb.jpg?t=26&scale=480x270&v=high"
+    },
+    {
+      "startTime": 36,
+      "title": "Regjering Danmark",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa23060226/45e57c2f-8.smil/thumb.jpg?t=61&scale=480x270&v=high"
+    },
+    {
+      "startTime": 137,
+      "title": "15 Pågrepet i Troms",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa23060226/45e57c2f-8.smil/thumb.jpg?t=162&scale=480x270&v=high"
+    },
+    {
+      "startTime": 245,
+      "title": "Mulig flyplass-streik",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa23060226/45e57c2f-8.smil/thumb.jpg?t=270&scale=480x270&v=high"
+    },
+    {
+      "startTime": 266,
+      "title": "Louis Theroux i Lillehammer i dag",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa23060226/45e57c2f-8.smil/thumb.jpg?t=291&scale=480x270&v=high"
+    },
+    {
+      "startTime": 364,
+      "title": "Korrespondentmiddag",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa23060226/45e57c2f-8.smil/thumb.jpg?t=389&scale=480x270&v=high"
+    },
+    {
+      "startTime": 384,
+      "title": "Svindel med resepter",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa23060226/45e57c2f-8.smil/thumb.jpg?t=409&scale=480x270&v=high"
+    },
+    {
+      "startTime": 498,
+      "title": "Tennis",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa23060226/45e57c2f-8.smil/thumb.jpg?t=524&scale=480x270&v=high"
+    },
+    {
+      "startTime": 544,
+      "title": "Fotball",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa23060226/45e57c2f-8.smil/thumb.jpg?t=569&scale=480x270&v=high"
+    },
+    {
+      "startTime": 605,
+      "title": "Kvinnelandslaget",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa23060226/45e57c2f-8.smil/thumb.jpg?t=630&scale=480x270&v=high"
+    },
+    {
+      "startTime": 678,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa23060226/45e57c2f-8.smil/thumb.jpg?t=703&scale=480x270&v=high"
+    },
+    {
+      "startTime": 749,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa23060226/45e57c2f-8.smil/thumb.jpg?t=768.67&scale=480x270&v=high"
+    }
+  ]
+}

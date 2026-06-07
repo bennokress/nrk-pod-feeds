@@ -1,0 +1,133 @@
+{
+  "version": "1.2.0",
+  "title": "Rett til Rikshospitalet",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 10,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa19060426/436f6ec6-8.smil/thumb.jpg?t=35&scale=480x270&v=high"
+    },
+    {
+      "startTime": 61,
+      "title": "Kongefamilien",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa19060426/436f6ec6-8.smil/thumb.jpg?t=87&scale=480x270&v=high"
+    },
+    {
+      "startTime": 177,
+      "title": "Gjest Aleksander Sekowski",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa19060426/436f6ec6-8.smil/thumb.jpg?t=202&scale=480x270&v=high"
+    },
+    {
+      "startTime": 328,
+      "title": "Etterlyser bakmann",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa19060426/436f6ec6-8.smil/thumb.jpg?t=353&scale=480x270&v=high"
+    },
+    {
+      "startTime": 497,
+      "title": "Direkte Stockholm",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa19060426/436f6ec6-8.smil/thumb.jpg?t=522&scale=480x270&v=high"
+    },
+    {
+      "startTime": 645,
+      "title": "Ulykke Frankfurt",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa19060426/436f6ec6-8.smil/thumb.jpg?t=670&scale=480x270&v=high"
+    },
+    {
+      "startTime": 669,
+      "title": "Klimaflyktninger UK",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa19060426/436f6ec6-8.smil/thumb.jpg?t=694&scale=480x270&v=high"
+    },
+    {
+      "startTime": 787,
+      "title": "Stortinget",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa19060426/436f6ec6-8.smil/thumb.jpg?t=813&scale=480x270&v=high"
+    },
+    {
+      "startTime": 932,
+      "title": "Steinar Wangen rettssak",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa19060426/436f6ec6-8.smil/thumb.jpg?t=958&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1044,
+      "title": "Norgespakke",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa19060426/436f6ec6-8.smil/thumb.jpg?t=1070&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1172,
+      "title": "Store protester",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa19060426/436f6ec6-8.smil/thumb.jpg?t=1197&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1271,
+      "title": "SPIEF",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa19060426/436f6ec6-8.smil/thumb.jpg?t=1297&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1322,
+      "title": "Direkte Moskva",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa19060426/436f6ec6-8.smil/thumb.jpg?t=1348&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1432,
+      "title": "Maaemo-sjefen",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa19060426/436f6ec6-8.smil/thumb.jpg?t=1458&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1589,
+      "title": "Leggetid og VM-kamper",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa19060426/436f6ec6-8.smil/thumb.jpg?t=1615&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1721,
+      "title": "Gjest: Leggetid",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa19060426/436f6ec6-8.smil/thumb.jpg?t=1746&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1955,
+      "title": "Kork hyller Miles Davis",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa19060426/436f6ec6-8.smil/thumb.jpg?t=1981&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2016,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa19060426/436f6ec6-8.smil/thumb.jpg?t=2041&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2021,
+      "title": "Tar varmegrep i VM",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa19060426/436f6ec6-8.smil/thumb.jpg?t=2047&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2103,
+      "title": "Direkte USA",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa19060426/436f6ec6-8.smil/thumb.jpg?t=2128&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2170,
+      "title": "Fotballfrue Heggem",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa19060426/436f6ec6-8.smil/thumb.jpg?t=2195&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2277,
+      "title": "Friidrett, Diamond League",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa19060426/436f6ec6-8.smil/thumb.jpg?t=2303&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2345,
+      "title": "Sommer i nord",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa19060426/436f6ec6-8.smil/thumb.jpg?t=2370&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2437,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa19060426/436f6ec6-8.smil/thumb.jpg?t=2462&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2609,
+      "title": "Trening USA",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa19060426/436f6ec6-8.smil/thumb.jpg?t=2635&scale=480x270&v=high"
+    }
+  ]
+}

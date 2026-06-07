@@ -1,0 +1,63 @@
+{
+  "version": "1.2.0",
+  "title": "Marco Rubio i høring",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa21060226/6b923660-6.smil/thumb.jpg?t=26&scale=480x270&v=high"
+    },
+    {
+      "startTime": 30,
+      "title": "Høring Rubio",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa21060226/6b923660-6.smil/thumb.jpg?t=55&scale=480x270&v=high"
+    },
+    {
+      "startTime": 89,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa21060226/6b923660-6.smil/thumb.jpg?t=114&scale=480x270&v=high"
+    },
+    {
+      "startTime": 207,
+      "title": "På vei hjem",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa21060226/6b923660-6.smil/thumb.jpg?t=233&scale=480x270&v=high"
+    },
+    {
+      "startTime": 230,
+      "title": "Rettssak London",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa21060226/6b923660-6.smil/thumb.jpg?t=256&scale=480x270&v=high"
+    },
+    {
+      "startTime": 316,
+      "title": "Solberg ny jobb",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa21060226/6b923660-6.smil/thumb.jpg?t=342&scale=480x270&v=high"
+    },
+    {
+      "startTime": 342,
+      "title": "Landslaget til VM",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa21060226/6b923660-6.smil/thumb.jpg?t=368&scale=480x270&v=high"
+    },
+    {
+      "startTime": 368,
+      "title": "Støtteapparat VM",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa21060226/6b923660-6.smil/thumb.jpg?t=393&scale=480x270&v=high"
+    },
+    {
+      "startTime": 432,
+      "title": "Varmeste vår",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa21060226/6b923660-6.smil/thumb.jpg?t=457&scale=480x270&v=high"
+    },
+    {
+      "startTime": 462,
+      "title": "Været",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa21060226/6b923660-6.smil/thumb.jpg?t=488&scale=480x270&v=high"
+    },
+    {
+      "startTime": 516,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa21060226/6b923660-6.smil/thumb.jpg?t=538.6&scale=480x270&v=high"
+    }
+  ]
+}

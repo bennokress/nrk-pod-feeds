@@ -1,0 +1,68 @@
+{
+  "version": "1.2.0",
+  "title": "Hetebølge skaper bekymring",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-23.akamaized.net/open/ps/nnfa/nnfa21052526/1e2e426f-7.smil/thumb.jpg?t=26&scale=480x270&v=high"
+    },
+    {
+      "startTime": 26,
+      "title": "Varmerekord",
+      "img": "https://nrk-od-world-23.akamaized.net/open/ps/nnfa/nnfa21052526/1e2e426f-7.smil/thumb.jpg?t=52&scale=480x270&v=high"
+    },
+    {
+      "startTime": 129,
+      "title": "Ruud",
+      "img": "https://nrk-od-world-23.akamaized.net/open/ps/nnfa/nnfa21052526/1e2e426f-7.smil/thumb.jpg?t=154&scale=480x270&v=high"
+    },
+    {
+      "startTime": 171,
+      "title": "Vold Bergen",
+      "img": "https://nrk-od-world-23.akamaized.net/open/ps/nnfa/nnfa21052526/1e2e426f-7.smil/thumb.jpg?t=197&scale=480x270&v=high"
+    },
+    {
+      "startTime": 230,
+      "title": "Stavanger fengslet",
+      "img": "https://nrk-od-world-23.akamaized.net/open/ps/nnfa/nnfa21052526/1e2e426f-7.smil/thumb.jpg?t=255&scale=480x270&v=high"
+    },
+    {
+      "startTime": 251,
+      "title": "Stengt vei",
+      "img": "https://nrk-od-world-23.akamaized.net/open/ps/nnfa/nnfa21052526/1e2e426f-7.smil/thumb.jpg?t=276&scale=480x270&v=high"
+    },
+    {
+      "startTime": 274,
+      "title": "Pilgrimer",
+      "img": "https://nrk-od-world-23.akamaized.net/open/ps/nnfa/nnfa21052526/1e2e426f-7.smil/thumb.jpg?t=300&scale=480x270&v=high"
+    },
+    {
+      "startTime": 308,
+      "title": "Henriette Jæger",
+      "img": "https://nrk-od-world-23.akamaized.net/open/ps/nnfa/nnfa21052526/1e2e426f-7.smil/thumb.jpg?t=334&scale=480x270&v=high"
+    },
+    {
+      "startTime": 407,
+      "title": "Garden Vestlandet",
+      "img": "https://nrk-od-world-23.akamaized.net/open/ps/nnfa/nnfa21052526/1e2e426f-7.smil/thumb.jpg?t=432&scale=480x270&v=high"
+    },
+    {
+      "startTime": 454,
+      "title": "Været",
+      "img": "https://nrk-od-world-23.akamaized.net/open/ps/nnfa/nnfa21052526/1e2e426f-7.smil/thumb.jpg?t=479&scale=480x270&v=high"
+    },
+    {
+      "startTime": 500,
+      "title": "Nettpromo",
+      "img": "https://nrk-od-world-23.akamaized.net/open/ps/nnfa/nnfa21052526/1e2e426f-7.smil/thumb.jpg?t=525&scale=480x270&v=high"
+    },
+    {
+      "startTime": 519,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-23.akamaized.net/open/ps/nnfa/nnfa21052526/1e2e426f-7.smil/thumb.jpg?t=540.44&scale=480x270&v=high"
+    }
+  ]
+}

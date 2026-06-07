@@ -1,0 +1,63 @@
+{
+  "version": "1.2.0",
+  "title": "Åpent brev til Putin",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 124,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa23060426/41082374-20.smil/thumb.jpg?t=150&scale=480x270&v=high"
+    },
+    {
+      "startTime": 164,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa23060426/41082374-20.smil/thumb.jpg?t=190&scale=480x270&v=high"
+    },
+    {
+      "startTime": 321,
+      "title": "Trump om Ukraina",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa23060426/41082374-20.smil/thumb.jpg?t=346&scale=480x270&v=high"
+    },
+    {
+      "startTime": 357,
+      "title": "Gaza angrep",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa23060426/41082374-20.smil/thumb.jpg?t=383&scale=480x270&v=high"
+    },
+    {
+      "startTime": 389,
+      "title": "Togtrøbbel",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa23060426/41082374-20.smil/thumb.jpg?t=414&scale=480x270&v=high"
+    },
+    {
+      "startTime": 499,
+      "title": "Kronprinsessen på Rikshospitalet",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa23060426/41082374-20.smil/thumb.jpg?t=524&scale=480x270&v=high"
+    },
+    {
+      "startTime": 628,
+      "title": "Havvind",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa23060426/41082374-20.smil/thumb.jpg?t=653&scale=480x270&v=high"
+    },
+    {
+      "startTime": 735,
+      "title": "Friidrett",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa23060426/41082374-20.smil/thumb.jpg?t=761&scale=480x270&v=high"
+    },
+    {
+      "startTime": 804,
+      "title": "Sverige - Hellas",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa23060426/41082374-20.smil/thumb.jpg?t=829&scale=480x270&v=high"
+    },
+    {
+      "startTime": 860,
+      "title": "Norges VM-motstandere",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa23060426/41082374-20.smil/thumb.jpg?t=885&scale=480x270&v=high"
+    },
+    {
+      "startTime": 893,
+      "title": "Iraola Liverpool",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa23060426/41082374-20.smil/thumb.jpg?t=903&scale=480x270&v=high"
+    }
+  ]
+}

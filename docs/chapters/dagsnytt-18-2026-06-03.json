@@ -1,0 +1,63 @@
+{
+  "version": "1.2.0",
+  "title": "Enige om forsvarsplan",
+  "author": "NRK",
+  "podcastName": "Dagsnytt 18",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsnytt atten",
+      "img": "https://nrk-od-world-15.akamaized.net/open/ps/nnfa/nnfa56060326/f9483b4b-7.smil/thumb.jpg?t=26&scale=480x270&v=high"
+    },
+    {
+      "startTime": 48,
+      "title": "Mer penger til Forsvaret",
+      "img": "https://nrk-od-world-15.akamaized.net/open/ps/nnfa/nnfa56060326/f9483b4b-7.smil/thumb.jpg?t=74&scale=480x270&v=high"
+    },
+    {
+      "startTime": 711,
+      "title": "Kongefamilien samles",
+      "img": "https://nrk-od-world-15.akamaized.net/open/ps/nnfa/nnfa56060326/f9483b4b-7.smil/thumb.jpg?t=737&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1205,
+      "title": "Avvikling av ulvesonen",
+      "img": "https://nrk-od-world-15.akamaized.net/open/ps/nnfa/nnfa56060326/f9483b4b-7.smil/thumb.jpg?t=1230&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1625,
+      "title": "Ny regjering i Danmark",
+      "img": "https://nrk-od-world-15.akamaized.net/open/ps/nnfa/nnfa56060326/f9483b4b-7.smil/thumb.jpg?t=1650&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1861,
+      "title": "Ebola-utbrudd",
+      "img": "https://nrk-od-world-15.akamaized.net/open/ps/nnfa/nnfa56060326/f9483b4b-7.smil/thumb.jpg?t=1886&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2346,
+      "title": "Kommer senere",
+      "img": "https://nrk-od-world-15.akamaized.net/open/ps/nnfa/nnfa56060326/f9483b4b-7.smil/thumb.jpg?t=2372&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2350,
+      "title": "Vil avvikle vennskapsbyer",
+      "img": "https://nrk-od-world-15.akamaized.net/open/ps/nnfa/nnfa56060326/f9483b4b-7.smil/thumb.jpg?t=2375&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2930,
+      "title": "VG får kritikk",
+      "img": "https://nrk-od-world-15.akamaized.net/open/ps/nnfa/nnfa56060326/f9483b4b-7.smil/thumb.jpg?t=2956&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3522,
+      "title": "AVSLUTNING",
+      "img": "https://nrk-od-world-15.akamaized.net/open/ps/nnfa/nnfa56060326/f9483b4b-7.smil/thumb.jpg?t=3544&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3528,
+      "title": "SLUTTKJENNING",
+      "img": "https://nrk-od-world-15.akamaized.net/open/ps/nnfa/nnfa56060326/f9483b4b-7.smil/thumb.jpg?t=3544&scale=480x270&v=high"
+    }
+  ]
+}

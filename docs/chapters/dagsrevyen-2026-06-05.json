@@ -1,0 +1,123 @@
+{
+  "version": "1.2.0",
+  "title": "På venteliste",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 9,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-01.akamaized.net/open/ps/nnfa/nnfa19060526/745da271-6.smil/thumb.jpg?t=35&scale=480x270&v=high"
+    },
+    {
+      "startTime": 69,
+      "title": "Kronprinsessen på venteliste",
+      "img": "https://nrk-od-world-01.akamaized.net/open/ps/nnfa/nnfa19060526/745da271-6.smil/thumb.jpg?t=94&scale=480x270&v=high"
+    },
+    {
+      "startTime": 286,
+      "title": "Kronprinsessen på  venteliste",
+      "img": "https://nrk-od-world-01.akamaized.net/open/ps/nnfa/nnfa19060526/745da271-6.smil/thumb.jpg?t=312&scale=480x270&v=high"
+    },
+    {
+      "startTime": 301,
+      "title": "Gjest: LHL",
+      "img": "https://nrk-od-world-01.akamaized.net/open/ps/nnfa/nnfa19060526/745da271-6.smil/thumb.jpg?t=327&scale=480x270&v=high"
+    },
+    {
+      "startTime": 432,
+      "title": "Sykdomshistorien",
+      "img": "https://nrk-od-world-01.akamaized.net/open/ps/nnfa/nnfa19060526/745da271-6.smil/thumb.jpg?t=458&scale=480x270&v=high"
+    },
+    {
+      "startTime": 650,
+      "title": "Gjest: Kristi Marie Skrede",
+      "img": "https://nrk-od-world-01.akamaized.net/open/ps/nnfa/nnfa19060526/745da271-6.smil/thumb.jpg?t=675&scale=480x270&v=high"
+    },
+    {
+      "startTime": 764,
+      "title": "Kronprinsessens sykdom",
+      "img": "https://nrk-od-world-01.akamaized.net/open/ps/nnfa/nnfa19060526/745da271-6.smil/thumb.jpg?t=790&scale=480x270&v=high"
+    },
+    {
+      "startTime": 841,
+      "title": "Lungetransplantert",
+      "img": "https://nrk-od-world-01.akamaized.net/open/ps/nnfa/nnfa19060526/745da271-6.smil/thumb.jpg?t=867&scale=480x270&v=high"
+    },
+    {
+      "startTime": 966,
+      "title": "Marius Borg Høiby",
+      "img": "https://nrk-od-world-01.akamaized.net/open/ps/nnfa/nnfa19060526/745da271-6.smil/thumb.jpg?t=992&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1018,
+      "title": "Gjest om Marius Borg Høiby",
+      "img": "https://nrk-od-world-01.akamaized.net/open/ps/nnfa/nnfa19060526/745da271-6.smil/thumb.jpg?t=1044&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1112,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-01.akamaized.net/open/ps/nnfa/nnfa19060526/745da271-6.smil/thumb.jpg?t=1138&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1138,
+      "title": "Budsjettforhandlinger",
+      "img": "https://nrk-od-world-01.akamaized.net/open/ps/nnfa/nnfa19060526/745da271-6.smil/thumb.jpg?t=1164&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1246,
+      "title": "Putin tale",
+      "img": "https://nrk-od-world-01.akamaized.net/open/ps/nnfa/nnfa19060526/745da271-6.smil/thumb.jpg?t=1272&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1292,
+      "title": "Direkte: Moskva?",
+      "img": "https://nrk-od-world-01.akamaized.net/open/ps/nnfa/nnfa19060526/745da271-6.smil/thumb.jpg?t=1318&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1388,
+      "title": "Trumps monumenter",
+      "img": "https://nrk-od-world-01.akamaized.net/open/ps/nnfa/nnfa19060526/745da271-6.smil/thumb.jpg?t=1413&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1441,
+      "title": "Direkte: Washington?",
+      "img": "https://nrk-od-world-01.akamaized.net/open/ps/nnfa/nnfa19060526/745da271-6.smil/thumb.jpg?t=1467&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1538,
+      "title": "Romeo og Julie",
+      "img": "https://nrk-od-world-01.akamaized.net/open/ps/nnfa/nnfa19060526/745da271-6.smil/thumb.jpg?t=1563&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1670,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-01.akamaized.net/open/ps/nnfa/nnfa19060526/745da271-6.smil/thumb.jpg?t=1695&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1674,
+      "title": "Tyskland-Norge",
+      "img": "https://nrk-od-world-01.akamaized.net/open/ps/nnfa/nnfa19060526/745da271-6.smil/thumb.jpg?t=1700&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1709,
+      "title": "Direkte",
+      "img": "https://nrk-od-world-01.akamaized.net/open/ps/nnfa/nnfa19060526/745da271-6.smil/thumb.jpg?t=1734&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1785,
+      "title": "French Open",
+      "img": "https://nrk-od-world-01.akamaized.net/open/ps/nnfa/nnfa19060526/745da271-6.smil/thumb.jpg?t=1811&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1807,
+      "title": "Fotball-VM",
+      "img": "https://nrk-od-world-01.akamaized.net/open/ps/nnfa/nnfa19060526/745da271-6.smil/thumb.jpg?t=1832&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1881,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-01.akamaized.net/open/ps/nnfa/nnfa19060526/745da271-6.smil/thumb.jpg?t=1907&scale=480x270&v=high"
+    }
+  ]
+}

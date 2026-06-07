@@ -1,0 +1,63 @@
+{
+  "version": "1.2.0",
+  "title": "Hevet trofeet",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 1,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa21052426/a87c6421-6.smil/thumb.jpg?t=26&scale=480x270&v=high"
+    },
+    {
+      "startTime": 26,
+      "title": "Arsenal får pokal.",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa21052426/a87c6421-6.smil/thumb.jpg?t=51&scale=480x270&v=high"
+    },
+    {
+      "startTime": 124,
+      "title": "Gjest:",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa21052426/a87c6421-6.smil/thumb.jpg?t=150&scale=480x270&v=high"
+    },
+    {
+      "startTime": 247,
+      "title": "Gutt savnet i Sverige",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa21052426/a87c6421-6.smil/thumb.jpg?t=273&scale=480x270&v=high"
+    },
+    {
+      "startTime": 327,
+      "title": "Dronningen sykmeldt",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa21052426/a87c6421-6.smil/thumb.jpg?t=353&scale=480x270&v=high"
+    },
+    {
+      "startTime": 362,
+      "title": "Moseid død",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa21052426/a87c6421-6.smil/thumb.jpg?t=387&scale=480x270&v=high"
+    },
+    {
+      "startTime": 386,
+      "title": "Kraftig angrep på Kyiv",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa21052426/a87c6421-6.smil/thumb.jpg?t=411&scale=480x270&v=high"
+    },
+    {
+      "startTime": 498,
+      "title": "Kina sender opp rakett",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa21052426/a87c6421-6.smil/thumb.jpg?t=523&scale=480x270&v=high"
+    },
+    {
+      "startTime": 525,
+      "title": "Været",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa21052426/a87c6421-6.smil/thumb.jpg?t=550&scale=480x270&v=high"
+    },
+    {
+      "startTime": 569,
+      "title": "Dagens bilde",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa21052426/a87c6421-6.smil/thumb.jpg?t=594&scale=480x270&v=high"
+    },
+    {
+      "startTime": 598,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa21052426/a87c6421-6.smil/thumb.jpg?t=617.55&scale=480x270&v=high"
+    }
+  ]
+}

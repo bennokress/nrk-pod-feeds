@@ -1,0 +1,78 @@
+{
+  "version": "1.2.0",
+  "title": "Danmark har fått ny regjering",
+  "author": "NRK",
+  "podcastName": "Dagsnytt 18",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsnytt atten",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa56060226/dcf98cbc-6.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 63,
+      "title": "Ny regjering i Danmark",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa56060226/dcf98cbc-6.smil/thumb.jpg?t=89&scale=480x270&v=high"
+    },
+    {
+      "startTime": 900,
+      "title": "Folkeavstemning om EU",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa56060226/dcf98cbc-6.smil/thumb.jpg?t=926&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1470,
+      "title": "Nye angrep i Ukraina",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa56060226/dcf98cbc-6.smil/thumb.jpg?t=1495&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1684,
+      "title": "Råd mot skolefravær",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa56060226/dcf98cbc-6.smil/thumb.jpg?t=1710&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1706,
+      "title": "Frykt for sprøytemidler",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa56060226/dcf98cbc-6.smil/thumb.jpg?t=1731&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1724,
+      "title": "Råd mot skolefravær",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa56060226/dcf98cbc-6.smil/thumb.jpg?t=1749&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2108,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa56060226/dcf98cbc-6.smil/thumb.jpg?t=2134&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2118,
+      "title": "Frykt for sprøytemidler",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa56060226/dcf98cbc-6.smil/thumb.jpg?t=2143&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2706,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa56060226/dcf98cbc-6.smil/thumb.jpg?t=2731&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2710,
+      "title": "Kristne og prevensjon",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa56060226/dcf98cbc-6.smil/thumb.jpg?t=2735&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3098,
+      "title": "Bellona mot konkurs",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa56060226/dcf98cbc-6.smil/thumb.jpg?t=3123&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3527,
+      "title": "AVSLUTNING",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa56060226/dcf98cbc-6.smil/thumb.jpg?t=3544.92&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3533,
+      "title": "SLUTTKJENNING",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa56060226/dcf98cbc-6.smil/thumb.jpg?t=3544.92&scale=480x270&v=high"
+    }
+  ]
+}

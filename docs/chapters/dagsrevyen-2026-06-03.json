@@ -1,0 +1,143 @@
+{
+  "version": "1.2.0",
+  "title": "Hjem til Mette-Marit",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 11,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa19060326/803436de-22.smil/thumb.jpg?t=37&scale=480x270&v=high"
+    },
+    {
+      "startTime": 73,
+      "title": "Kronprinsessen syk",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa19060326/803436de-22.smil/thumb.jpg?t=98&scale=480x270&v=high"
+    },
+    {
+      "startTime": 231,
+      "title": "Gjest Stanghelle",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa19060326/803436de-22.smil/thumb.jpg?t=257&scale=480x270&v=high"
+    },
+    {
+      "startTime": 312,
+      "title": "Få i donorkø",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa19060326/803436de-22.smil/thumb.jpg?t=337&scale=480x270&v=high"
+    },
+    {
+      "startTime": 371,
+      "title": "Gjest Stanghelle",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa19060326/803436de-22.smil/thumb.jpg?t=396&scale=480x270&v=high"
+    },
+    {
+      "startTime": 437,
+      "title": "Ny regjering Danmark",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa19060326/803436de-22.smil/thumb.jpg?t=462&scale=480x270&v=high"
+    },
+    {
+      "startTime": 546,
+      "title": "Langtidsplaner for forsvaret",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa19060326/803436de-22.smil/thumb.jpg?t=572&scale=480x270&v=high"
+    },
+    {
+      "startTime": 666,
+      "title": "Gjest Lars N. Sand",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa19060326/803436de-22.smil/thumb.jpg?t=691&scale=480x270&v=high"
+    },
+    {
+      "startTime": 746,
+      "title": "Direkte Beirut",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa19060326/803436de-22.smil/thumb.jpg?t=771&scale=480x270&v=high"
+    },
+    {
+      "startTime": 807,
+      "title": "Libanon angrep",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa19060326/803436de-22.smil/thumb.jpg?t=832&scale=480x270&v=high"
+    },
+    {
+      "startTime": 933,
+      "title": "Angrep Russland",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa19060326/803436de-22.smil/thumb.jpg?t=959&scale=480x270&v=high"
+    },
+    {
+      "startTime": 962,
+      "title": "Politivideo UK",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa19060326/803436de-22.smil/thumb.jpg?t=987&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1082,
+      "title": "Direkte Southampton",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa19060326/803436de-22.smil/thumb.jpg?t=1107&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1189,
+      "title": "Sikkerhetshull",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa19060326/803436de-22.smil/thumb.jpg?t=1214&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1387,
+      "title": "Direkte Lofoten",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa19060326/803436de-22.smil/thumb.jpg?t=1413&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1438,
+      "title": "Turistskatt",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa19060326/803436de-22.smil/thumb.jpg?t=1463&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1531,
+      "title": "Misjonskirken",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa19060326/803436de-22.smil/thumb.jpg?t=1557&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1650,
+      "title": "KI-bok",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa19060326/803436de-22.smil/thumb.jpg?t=1676&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1804,
+      "title": "Fotballfeber",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa19060326/803436de-22.smil/thumb.jpg?t=1829&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1914,
+      "title": "Gjest Fjeld",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa19060326/803436de-22.smil/thumb.jpg?t=1940&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2086,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa19060326/803436de-22.smil/thumb.jpg?t=2111&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2097,
+      "title": "VM-laget landet",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa19060326/803436de-22.smil/thumb.jpg?t=2123&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2177,
+      "title": "Direkte USA",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa19060326/803436de-22.smil/thumb.jpg?t=2202&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2287,
+      "title": "Norge må vinne",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa19060326/803436de-22.smil/thumb.jpg?t=2312&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2330,
+      "title": "Ny landslagssjef håndball",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa19060326/803436de-22.smil/thumb.jpg?t=2356&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2344,
+      "title": "Iuel og Jæger om løp",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa19060326/803436de-22.smil/thumb.jpg?t=2369&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2423,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa19060326/803436de-22.smil/thumb.jpg?t=2448&scale=480x270&v=high"
+    }
+  ]
+}
