@@ -1,0 +1,58 @@
+{
+  "version": "1.2.0",
+  "title": "Kapteinen falt om igjen",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa21060726/bd353ed5-8.smil/thumb.jpg?t=26&scale=480x270&v=high"
+    },
+    {
+      "startTime": 36,
+      "title": "Enige om penger til Stad skipstunnel i revidert nasjonalbudsjett",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa21060726/bd353ed5-8.smil/thumb.jpg?t=61&scale=480x270&v=high"
+    },
+    {
+      "startTime": 141,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa21060726/bd353ed5-8.smil/thumb.jpg?t=167&scale=480x270&v=high"
+    },
+    {
+      "startTime": 246,
+      "title": "Falt om",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa21060726/bd353ed5-8.smil/thumb.jpg?t=271&scale=480x270&v=high"
+    },
+    {
+      "startTime": 343,
+      "title": "Beirut",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa21060726/bd353ed5-8.smil/thumb.jpg?t=369&scale=480x270&v=high"
+    },
+    {
+      "startTime": 467,
+      "title": "Toppmøte i London",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa21060726/bd353ed5-8.smil/thumb.jpg?t=493&scale=480x270&v=high"
+    },
+    {
+      "startTime": 484,
+      "title": "Fare flystreik",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa21060726/bd353ed5-8.smil/thumb.jpg?t=510&scale=480x270&v=high"
+    },
+    {
+      "startTime": 531,
+      "title": "Ras Kåfjord",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa21060726/bd353ed5-8.smil/thumb.jpg?t=557&scale=480x270&v=high"
+    },
+    {
+      "startTime": 581,
+      "title": "Været",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa21060726/bd353ed5-8.smil/thumb.jpg?t=607&scale=480x270&v=high"
+    },
+    {
+      "startTime": 636,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa21060726/bd353ed5-8.smil/thumb.jpg?t=655.52&scale=480x270&v=high"
+    }
+  ]
+}
