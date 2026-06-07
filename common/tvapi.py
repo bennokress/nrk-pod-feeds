@@ -1,6 +1,8 @@
 import logging
 import re
 import requests
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
 
 from dateutil import parser as _date_parser
 
@@ -10,6 +12,36 @@ api_base_url = "https://psapi.nrk.no"
 headers = {
     "User-Agent": f"nrk-pod-feeder {get_version()}"
 }
+
+# psapi.nrk.no occasionally throws transient TLSV1_ALERT_INTERNAL_ERROR mid-run.
+# A module-level Session with a Retry adapter rescues us on connect/read/SSL
+# errors as well as 5xx/429 status codes.
+_REQUEST_TIMEOUT = 15
+
+_retry = Retry(
+    total=4,
+    connect=4,
+    read=4,
+    status=4,
+    backoff_factor=0.5,
+    status_forcelist=(429, 500, 502, 503, 504),
+    allowed_methods=("GET", "HEAD"),
+    raise_on_status=False,
+)
+_session = requests.Session()
+_adapter = HTTPAdapter(max_retries=_retry)
+_session.mount("https://", _adapter)
+_session.mount("http://", _adapter)
+
+
+def _get(url):
+    """GET with retries + timeout. Returns the Response or None on failure."""
+    try:
+        return _session.get(url, headers=headers, timeout=_REQUEST_TIMEOUT)
+    except requests.exceptions.RequestException as exc:
+        logging.info(f"  Request failed after retries ({url}): {exc}")
+        return None
+
 
 # Cache of {series_id: {date: instalment}} populated lazily by
 # find_instalment_by_release_date(). Per-process only; resets every run.
@@ -44,10 +76,11 @@ def get_series_metadata(series_id, format="json"):
     logging.debug(f"Fetching metadata for TV series {series_id}...")
 
     url = f"{api_base_url}/tv/catalog/series/{series_id}"
-    r = requests.get(url, headers=headers)
+    r = _get(url)
 
-    if not r.ok:
-        logging.info(f"Unable to fetch TV series metadata ({url} returned {r.status_code})")
+    if r is None or not r.ok:
+        status = r.status_code if r is not None else "no response"
+        logging.info(f"Unable to fetch TV series metadata ({url} returned {status})")
         return None
 
     if format == "text":
@@ -65,8 +98,11 @@ def get_series_seasons(series_id):
     if not metadata:
         return None
 
-    # _embedded.seasons holds the full archive (oldest-first); navigation.subnavigation
-    # only exposes a curated handful of historical months and is missing the current ones.
+    # _embedded.seasons holds the full archive (NRK currently delivers it
+    # newest-first, but we sort explicitly by the YYYYMM season ID so a future
+    # ordering change won't silently feed us 1962 first). navigation.subnavigation
+    # only exposes a curated handful of historical months and is missing the
+    # current ones, so we ignore it.
     embedded_seasons = metadata.get("_embedded", {}).get("seasons", []) or []
 
     seasons = []
@@ -82,7 +118,7 @@ def get_series_seasons(series_id):
             "title": self_link.get("title") or season.get("titles", {}).get("title")
         })
 
-    seasons.reverse()
+    seasons.sort(key=lambda s: s["id"], reverse=True)
     return seasons
 
 
@@ -94,10 +130,11 @@ def get_series_instalments(series_id, month_id, format="json"):
     logging.info(f"Fetching instalments for TV series {series_id} ({month_id})...")
 
     url = f"{api_base_url}/tv/catalog/series/{series_id}/seasons/{month_id}"
-    r = requests.get(url, headers=headers)
+    r = _get(url)
 
-    if not r.ok:
-        logging.info(f"Unable to fetch TV series instalments ({url} returned {r.status_code})")
+    if r is None or not r.ok:
+        status = r.status_code if r is not None else "no response"
+        logging.info(f"Unable to fetch TV series instalments ({url} returned {status})")
         return None
 
     if format == "text":
@@ -215,10 +252,11 @@ def get_program_manifest(program_id, format="json"):
     logging.debug(f"  Fetching manifest for program {program_id}...")
 
     url = f"{api_base_url}/playback/manifest/program/{program_id}"
-    r = requests.get(url, headers=headers)
+    r = _get(url)
 
-    if not r.ok:
-        logging.info(f"  Unable to fetch program manifest ({url} returned {r.status_code})")
+    if r is None or not r.ok:
+        status = r.status_code if r is not None else "no response"
+        logging.info(f"  Unable to fetch program manifest ({url} returned {status})")
         return None
 
     if format == "text":
@@ -343,10 +381,11 @@ def get_program_playback_metadata(program_id, format="json"):
     logging.debug(f"  Fetching playback metadata for program {program_id}...")
 
     url = f"{api_base_url}/playback/metadata/program/{program_id}"
-    r = requests.get(url, headers=headers)
+    r = _get(url)
 
-    if not r.ok:
-        logging.debug(f"  Unable to fetch playback metadata ({url} returned {r.status_code})")
+    if r is None or not r.ok:
+        status = r.status_code if r is not None else "no response"
+        logging.debug(f"  Unable to fetch playback metadata ({url} returned {status})")
         return None
 
     if format == "text":
