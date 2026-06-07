@@ -1,0 +1,73 @@
+{
+  "version": "1.2.0",
+  "title": "Skuffet Ødegaard",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-07.akamaized.net/open/ps/nnfa/nnfa23053026/9845b53e-8.smil/thumb.jpg?t=26&scale=480x270&v=high"
+    },
+    {
+      "startTime": 40,
+      "title": "Mesterligafinalen",
+      "img": "https://nrk-od-world-07.akamaized.net/open/ps/nnfa/nnfa23053026/9845b53e-8.smil/thumb.jpg?t=65&scale=480x270&v=high"
+    },
+    {
+      "startTime": 138,
+      "title": "Forbyr laserbruk",
+      "img": "https://nrk-od-world-07.akamaized.net/open/ps/nnfa/nnfa23053026/9845b53e-8.smil/thumb.jpg?t=163&scale=480x270&v=high"
+    },
+    {
+      "startTime": 245,
+      "title": "Skadde eksplosjon",
+      "img": "https://nrk-od-world-07.akamaized.net/open/ps/nnfa/nnfa23053026/9845b53e-8.smil/thumb.jpg?t=270&scale=480x270&v=high"
+    },
+    {
+      "startTime": 267,
+      "title": "Asylsøker løslates",
+      "img": "https://nrk-od-world-07.akamaized.net/open/ps/nnfa/nnfa23053026/9845b53e-8.smil/thumb.jpg?t=293&scale=480x270&v=high"
+    },
+    {
+      "startTime": 295,
+      "title": "STK-PAKKE",
+      "img": "https://nrk-od-world-07.akamaized.net/open/ps/nnfa/nnfa23053026/9845b53e-8.smil/thumb.jpg?t=321&scale=480x270&v=high"
+    },
+    {
+      "startTime": 374,
+      "title": "Døde Ebola",
+      "img": "https://nrk-od-world-07.akamaized.net/open/ps/nnfa/nnfa23053026/9845b53e-8.smil/thumb.jpg?t=400&scale=480x270&v=high"
+    },
+    {
+      "startTime": 475,
+      "title": "Støttedemonstrasjon Özel",
+      "img": "https://nrk-od-world-07.akamaized.net/open/ps/nnfa/nnfa23053026/9845b53e-8.smil/thumb.jpg?t=501&scale=480x270&v=high"
+    },
+    {
+      "startTime": 509,
+      "title": "Trump 250-årsjubileum",
+      "img": "https://nrk-od-world-07.akamaized.net/open/ps/nnfa/nnfa23053026/9845b53e-8.smil/thumb.jpg?t=535&scale=480x270&v=high"
+    },
+    {
+      "startTime": 584,
+      "title": "Ishockey-VM",
+      "img": "https://nrk-od-world-07.akamaized.net/open/ps/nnfa/nnfa23053026/9845b53e-8.smil/thumb.jpg?t=610&scale=480x270&v=high"
+    },
+    {
+      "startTime": 611,
+      "title": "Landslaget før VM",
+      "img": "https://nrk-od-world-07.akamaized.net/open/ps/nnfa/nnfa23053026/9845b53e-8.smil/thumb.jpg?t=637&scale=480x270&v=high"
+    },
+    {
+      "startTime": 671,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-07.akamaized.net/open/ps/nnfa/nnfa23053026/9845b53e-8.smil/thumb.jpg?t=696&scale=480x270&v=high"
+    },
+    {
+      "startTime": 740,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-07.akamaized.net/open/ps/nnfa/nnfa23053026/9845b53e-8.smil/thumb.jpg?t=758.6&scale=480x270&v=high"
+    }
+  ]
+}

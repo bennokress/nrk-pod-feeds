@@ -1,0 +1,263 @@
+{
+  "version": "1.2.0",
+  "title": "Skal Helseplattformen skrotes?",
+  "author": "NRK",
+  "podcastName": "Nyhetsmorgen",
+  "chapters": [
+    {
+      "startTime": 2,
+      "title": "Åpning 06:30",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa05052626/1a2e0faf-48.smil/thumb.jpg?t=28&scale=480x270&v=high"
+    },
+    {
+      "startTime": 65,
+      "title": "Angrep mot Iran",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa05052626/1a2e0faf-48.smil/thumb.jpg?t=91&scale=480x270&v=high"
+    },
+    {
+      "startTime": 192,
+      "title": "Stortinget avgjør  Helseplattformen",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa05052626/1a2e0faf-48.smil/thumb.jpg?t=218&scale=480x270&v=high"
+    },
+    {
+      "startTime": 253,
+      "title": "MDG vil forby flatehogst i naturskog",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa05052626/1a2e0faf-48.smil/thumb.jpg?t=279&scale=480x270&v=high"
+    },
+    {
+      "startTime": 536,
+      "title": "Siste nytt",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa05052626/1a2e0faf-48.smil/thumb.jpg?t=562&scale=480x270&v=high"
+    },
+    {
+      "startTime": 595,
+      "title": "Fiskesvindel i retten",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa05052626/1a2e0faf-48.smil/thumb.jpg?t=621&scale=480x270&v=high"
+    },
+    {
+      "startTime": 779,
+      "title": "Abelprisen deles ut",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa05052626/1a2e0faf-48.smil/thumb.jpg?t=804&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1149,
+      "title": "Før Norge - Danmark",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa05052626/1a2e0faf-48.smil/thumb.jpg?t=1175&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1319,
+      "title": "Demonutdriveren",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa05052626/1a2e0faf-48.smil/thumb.jpg?t=1345&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1538,
+      "title": "Ble utsatt for demonutdrivelse",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa05052626/1a2e0faf-48.smil/thumb.jpg?t=1564&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1842,
+      "title": "Åpning 07:00",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa05052626/1a2e0faf-48.smil/thumb.jpg?t=1867&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1909,
+      "title": "Stortinget avgjør Helseplattformen",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa05052626/1a2e0faf-48.smil/thumb.jpg?t=1934&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2160,
+      "title": "Kommentator om Helseplatformen",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa05052626/1a2e0faf-48.smil/thumb.jpg?t=2185&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2400,
+      "title": "Lynsjestemning i Bergen",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa05052626/1a2e0faf-48.smil/thumb.jpg?t=2426&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2564,
+      "title": "Stjal taket på hytta",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa05052626/1a2e0faf-48.smil/thumb.jpg?t=2589&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2743,
+      "title": "Oljeskattepakke i Politisk kvarter",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa05052626/1a2e0faf-48.smil/thumb.jpg?t=2768&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2819,
+      "title": "Nye amerikanske angrep mot Iran",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa05052626/1a2e0faf-48.smil/thumb.jpg?t=2844&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2946,
+      "title": "Ordkrig mellom Tyrkia og Israel",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa05052626/1a2e0faf-48.smil/thumb.jpg?t=2971&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3121,
+      "title": "Spent mellom Tyrkia og Israel",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa05052626/1a2e0faf-48.smil/thumb.jpg?t=3147&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3310,
+      "title": "Vil ikke ha foreldre på sykehjem",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa05052626/1a2e0faf-48.smil/thumb.jpg?t=3336&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3567,
+      "title": "Trailer Kafka på stranden",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa05052626/1a2e0faf-48.smil/thumb.jpg?t=3592&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3601,
+      "title": "Overskrifter 07:30",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa05052626/1a2e0faf-48.smil/thumb.jpg?t=3626&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3628,
+      "title": "Nye amerikanske angrep mot Iran",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa05052626/1a2e0faf-48.smil/thumb.jpg?t=3653&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3720,
+      "title": "Skal Stortinget skrote Helseplattforma?",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa05052626/1a2e0faf-48.smil/thumb.jpg?t=3746&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3842,
+      "title": "Kommentator om Helseplatformen",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa05052626/1a2e0faf-48.smil/thumb.jpg?t=3867&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3934,
+      "title": "Demonutdriveren",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa05052626/1a2e0faf-48.smil/thumb.jpg?t=3960&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4067,
+      "title": "MDG vil forby flatehogst i naturskog",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa05052626/1a2e0faf-48.smil/thumb.jpg?t=4093&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4166,
+      "title": "Før Norge - Danmark",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa05052626/1a2e0faf-48.smil/thumb.jpg?t=4191&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4201,
+      "title": "Åpning 07:40",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa05052626/1a2e0faf-48.smil/thumb.jpg?t=4226&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4212,
+      "title": "Beboere ved Ringeriksbanen",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa05052626/1a2e0faf-48.smil/thumb.jpg?t=4237&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5399,
+      "title": "NRK Nyheter 08:00",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa05052626/1a2e0faf-48.smil/thumb.jpg?t=5425&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5581,
+      "title": "Åpning 08:03",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa05052626/1a2e0faf-48.smil/thumb.jpg?t=5606&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5635,
+      "title": "Stortinget avgjør  Helseplattformen",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa05052626/1a2e0faf-48.smil/thumb.jpg?t=5660&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5771,
+      "title": "Kommentator om Helseplatformen",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa05052626/1a2e0faf-48.smil/thumb.jpg?t=5796&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6001,
+      "title": "Før Norge - Danmark",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa05052626/1a2e0faf-48.smil/thumb.jpg?t=6027&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6144,
+      "title": "Første VM-kvartfinale på 14 år",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa05052626/1a2e0faf-48.smil/thumb.jpg?t=6170&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6462,
+      "title": "Demonutdriveren",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa05052626/1a2e0faf-48.smil/thumb.jpg?t=6488&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6596,
+      "title": "Ny podkast om demonutdrivelse",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa05052626/1a2e0faf-48.smil/thumb.jpg?t=6621&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7025,
+      "title": "Saksofonist Sonny Rollins er død",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa05052626/1a2e0faf-48.smil/thumb.jpg?t=7050&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7238,
+      "title": "Overskrifter 08:30",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa05052626/1a2e0faf-48.smil/thumb.jpg?t=7263&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7281,
+      "title": "Nye amerikanske angrep mot Iran",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa05052626/1a2e0faf-48.smil/thumb.jpg?t=7307&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7401,
+      "title": "Krig argument for oljeleting, mener Frp",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa05052626/1a2e0faf-48.smil/thumb.jpg?t=7426&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7561,
+      "title": "Lynsjestemning i Bergen",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa05052626/1a2e0faf-48.smil/thumb.jpg?t=7587&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7723,
+      "title": "Kongen på fylkestur",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa05052626/1a2e0faf-48.smil/thumb.jpg?t=7749&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7937,
+      "title": "Dyr straum i sommar",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa05052626/1a2e0faf-48.smil/thumb.jpg?t=7963&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8076,
+      "title": "DIR Før Ekko i NRK P2",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa05052626/1a2e0faf-48.smil/thumb.jpg?t=8102&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8178,
+      "title": "Amalie Iuel legger opp etter sesongen",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa05052626/1a2e0faf-48.smil/thumb.jpg?t=8203&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8242,
+      "title": "MDG vil forby flatehogst i naturskog",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa05052626/1a2e0faf-48.smil/thumb.jpg?t=8268&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8431,
+      "title": "Spillanmeldelse Mouse: P.I.",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa05052626/1a2e0faf-48.smil/thumb.jpg?t=8456&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8673,
+      "title": "Kritikk mot kornberedskap",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa05052626/1a2e0faf-48.smil/thumb.jpg?t=8698&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8854,
+      "title": "GJEST Været i dag",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa05052626/1a2e0faf-48.smil/thumb.jpg?t=8879&scale=480x270&v=high"
+    }
+  ]
+}

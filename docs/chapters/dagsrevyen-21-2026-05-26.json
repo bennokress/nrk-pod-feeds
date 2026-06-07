@@ -1,0 +1,58 @@
+{
+  "version": "1.2.0",
+  "title": "Raser fra Skarfjellet",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-47.akamaized.net/open/ps/nnfa/nnfa21052626/26011021-7.smil/thumb.jpg?t=26&scale=480x270&v=high"
+    },
+    {
+      "startTime": 32,
+      "title": "Rasar i Skarfjellet",
+      "img": "https://nrk-od-world-47.akamaized.net/open/ps/nnfa/nnfa21052626/26011021-7.smil/thumb.jpg?t=58&scale=480x270&v=high"
+    },
+    {
+      "startTime": 135,
+      "title": "Meningsmåling monarki",
+      "img": "https://nrk-od-world-47.akamaized.net/open/ps/nnfa/nnfa21052626/26011021-7.smil/thumb.jpg?t=161&scale=480x270&v=high"
+    },
+    {
+      "startTime": 196,
+      "title": "Prisråd havbruk",
+      "img": "https://nrk-od-world-47.akamaized.net/open/ps/nnfa/nnfa21052626/26011021-7.smil/thumb.jpg?t=222&scale=480x270&v=high"
+    },
+    {
+      "startTime": 289,
+      "title": "Verdenspakke",
+      "img": "https://nrk-od-world-47.akamaized.net/open/ps/nnfa/nnfa21052626/26011021-7.smil/thumb.jpg?t=315&scale=480x270&v=high"
+    },
+    {
+      "startTime": 393,
+      "title": "Bro-regning",
+      "img": "https://nrk-od-world-47.akamaized.net/open/ps/nnfa/nnfa21052626/26011021-7.smil/thumb.jpg?t=419&scale=480x270&v=high"
+    },
+    {
+      "startTime": 422,
+      "title": "Vann Svalbard",
+      "img": "https://nrk-od-world-47.akamaized.net/open/ps/nnfa/nnfa21052626/26011021-7.smil/thumb.jpg?t=447&scale=480x270&v=high"
+    },
+    {
+      "startTime": 451,
+      "title": "Snøskuter hytte",
+      "img": "https://nrk-od-world-47.akamaized.net/open/ps/nnfa/nnfa21052626/26011021-7.smil/thumb.jpg?t=476&scale=480x270&v=high"
+    },
+    {
+      "startTime": 476,
+      "title": "Været",
+      "img": "https://nrk-od-world-47.akamaized.net/open/ps/nnfa/nnfa21052626/26011021-7.smil/thumb.jpg?t=502&scale=480x270&v=high"
+    },
+    {
+      "startTime": 529,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-47.akamaized.net/open/ps/nnfa/nnfa21052626/26011021-7.smil/thumb.jpg?t=550.52&scale=480x270&v=high"
+    }
+  ]
+}

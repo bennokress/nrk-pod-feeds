@@ -1,0 +1,118 @@
+{
+  "version": "1.2.0",
+  "title": "Jaaaaaaa!",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 10,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa19053126/a1e42ebf-15.smil/thumb.jpg?t=36&scale=480x270&v=high"
+    },
+    {
+      "startTime": 76,
+      "title": "Hockey-VM",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa19053126/a1e42ebf-15.smil/thumb.jpg?t=102&scale=480x270&v=high"
+    },
+    {
+      "startTime": 173,
+      "title": "Direkte",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa19053126/a1e42ebf-15.smil/thumb.jpg?t=199&scale=480x270&v=high"
+    },
+    {
+      "startTime": 282,
+      "title": "Wangen snakker",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa19053126/a1e42ebf-15.smil/thumb.jpg?t=307&scale=480x270&v=high"
+    },
+    {
+      "startTime": 763,
+      "title": "Plakat Mental helse",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa19053126/a1e42ebf-15.smil/thumb.jpg?t=788&scale=480x270&v=high"
+    },
+    {
+      "startTime": 780,
+      "title": "Gjest - Wangen",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa19053126/a1e42ebf-15.smil/thumb.jpg?t=805&scale=480x270&v=high"
+    },
+    {
+      "startTime": 864,
+      "title": "USA-Iran",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa19053126/a1e42ebf-15.smil/thumb.jpg?t=890&scale=480x270&v=high"
+    },
+    {
+      "startTime": 897,
+      "title": "Direkte fra Teheran",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa19053126/a1e42ebf-15.smil/thumb.jpg?t=923&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1067,
+      "title": "Etter brannen Lørenskog",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa19053126/a1e42ebf-15.smil/thumb.jpg?t=1092&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1190,
+      "title": "Besøksforbud PIA",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa19053126/a1e42ebf-15.smil/thumb.jpg?t=1215&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1264,
+      "title": "Spillavhengighet",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa19053126/a1e42ebf-15.smil/thumb.jpg?t=1290&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1374,
+      "title": "DNA-test Gaza",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa19053126/a1e42ebf-15.smil/thumb.jpg?t=1400&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1799,
+      "title": "USA 250 år",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa19053126/a1e42ebf-15.smil/thumb.jpg?t=1824&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1834,
+      "title": "Gjest",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa19053126/a1e42ebf-15.smil/thumb.jpg?t=1860&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1951,
+      "title": "Bostedsløse i Berlin",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa19053126/a1e42ebf-15.smil/thumb.jpg?t=1977&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2271,
+      "title": "Ishockey VM",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa19053126/a1e42ebf-15.smil/thumb.jpg?t=2296&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2287,
+      "title": "Gjest",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa19053126/a1e42ebf-15.smil/thumb.jpg?t=2312&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2375,
+      "title": "Sportsnyheter",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa19053126/a1e42ebf-15.smil/thumb.jpg?t=2401&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2432,
+      "title": "Landslaget før VM",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa19053126/a1e42ebf-15.smil/thumb.jpg?t=2457&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2517,
+      "title": "Gjest",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa19053126/a1e42ebf-15.smil/thumb.jpg?t=2543&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2619,
+      "title": "Landslaget før VM",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa19053126/a1e42ebf-15.smil/thumb.jpg?t=2644&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2745,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa19053126/a1e42ebf-15.smil/thumb.jpg?t=2771&scale=480x270&v=high"
+    }
+  ]
+}

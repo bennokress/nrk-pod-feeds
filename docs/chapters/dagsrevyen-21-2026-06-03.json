@@ -1,0 +1,43 @@
+{
+  "version": "1.2.0",
+  "title": "Jordbærkrise",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-15.akamaized.net/open/ps/nnfa/nnfa21060326/43e9c31b-6.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 27,
+      "title": "Frykter for jordbærsesongen på grunn av sopp",
+      "img": "https://nrk-od-world-15.akamaized.net/open/ps/nnfa/nnfa21060326/43e9c31b-6.smil/thumb.jpg?t=53&scale=480x270&v=high"
+    },
+    {
+      "startTime": 160,
+      "title": "SYNKER-FORLIK-030626-DR21",
+      "img": "https://nrk-od-world-15.akamaized.net/open/ps/nnfa/nnfa21060326/43e9c31b-6.smil/thumb.jpg?t=186&scale=480x270&v=high"
+    },
+    {
+      "startTime": 289,
+      "title": "Nettpromo",
+      "img": "https://nrk-od-world-15.akamaized.net/open/ps/nnfa/nnfa21060326/43e9c31b-6.smil/thumb.jpg?t=315&scale=480x270&v=high"
+    },
+    {
+      "startTime": 303,
+      "title": "VM i fotball",
+      "img": "https://nrk-od-world-15.akamaized.net/open/ps/nnfa/nnfa21060326/43e9c31b-6.smil/thumb.jpg?t=328&scale=480x270&v=high"
+    },
+    {
+      "startTime": 521,
+      "title": "Været",
+      "img": "https://nrk-od-world-15.akamaized.net/open/ps/nnfa/nnfa21060326/43e9c31b-6.smil/thumb.jpg?t=547&scale=480x270&v=high"
+    },
+    {
+      "startTime": 578,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-15.akamaized.net/open/ps/nnfa/nnfa21060326/43e9c31b-6.smil/thumb.jpg?t=595.44&scale=480x270&v=high"
+    }
+  ]
+}

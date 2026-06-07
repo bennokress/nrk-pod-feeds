@@ -1,0 +1,143 @@
+{
+  "version": "1.2.0",
+  "title": "Støtter kronprinsessen",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 9,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa19052826/08e051d1-6.smil/thumb.jpg?t=35&scale=480x270&v=high"
+    },
+    {
+      "startTime": 73,
+      "title": "Kongen pressemøte",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa19052826/08e051d1-6.smil/thumb.jpg?t=98&scale=480x270&v=high"
+    },
+    {
+      "startTime": 223,
+      "title": "Kongeskipet",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa19052826/08e051d1-6.smil/thumb.jpg?t=248&scale=480x270&v=high"
+    },
+    {
+      "startTime": 244,
+      "title": "Fotballkamp Skaugum",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa19052826/08e051d1-6.smil/thumb.jpg?t=269&scale=480x270&v=high"
+    },
+    {
+      "startTime": 300,
+      "title": "Gjest",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa19052826/08e051d1-6.smil/thumb.jpg?t=325&scale=480x270&v=high"
+    },
+    {
+      "startTime": 480,
+      "title": "Pågrepet for terrorstøtte",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa19052826/08e051d1-6.smil/thumb.jpg?t=506&scale=480x270&v=high"
+    },
+    {
+      "startTime": 497,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa19052826/08e051d1-6.smil/thumb.jpg?t=522&scale=480x270&v=high"
+    },
+    {
+      "startTime": 551,
+      "title": "Fare storstreik",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa19052826/08e051d1-6.smil/thumb.jpg?t=576&scale=480x270&v=high"
+    },
+    {
+      "startTime": 705,
+      "title": "Gjest Aglen",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa19052826/08e051d1-6.smil/thumb.jpg?t=730&scale=480x270&v=high"
+    },
+    {
+      "startTime": 773,
+      "title": "Lønnsoppgjør",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa19052826/08e051d1-6.smil/thumb.jpg?t=798&scale=480x270&v=high"
+    },
+    {
+      "startTime": 905,
+      "title": "Gjest Aglen",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa19052826/08e051d1-6.smil/thumb.jpg?t=930&scale=480x270&v=high"
+    },
+    {
+      "startTime": 978,
+      "title": "Streik løst",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa19052826/08e051d1-6.smil/thumb.jpg?t=1003&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1087,
+      "title": "Utvikling Midtøsten",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa19052826/08e051d1-6.smil/thumb.jpg?t=1113&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1196,
+      "title": "Gjenvinning",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa19052826/08e051d1-6.smil/thumb.jpg?t=1222&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1372,
+      "title": "Russ laser",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa19052826/08e051d1-6.smil/thumb.jpg?t=1397&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1466,
+      "title": "Direkte Kadettangen",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa19052826/08e051d1-6.smil/thumb.jpg?t=1492&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1576,
+      "title": "Gjest Tix",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa19052826/08e051d1-6.smil/thumb.jpg?t=1602&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1821,
+      "title": "Kroppspress",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa19052826/08e051d1-6.smil/thumb.jpg?t=1847&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1989,
+      "title": "Anniken Solbakken",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa19052826/08e051d1-6.smil/thumb.jpg?t=2015&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2105,
+      "title": "Trailer Debatten",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa19052826/08e051d1-6.smil/thumb.jpg?t=2130&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2140,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa19052826/08e051d1-6.smil/thumb.jpg?t=2165&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2147,
+      "title": "Ishockey",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa19052826/08e051d1-6.smil/thumb.jpg?t=2172&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2218,
+      "title": "Direkte: Sveits",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa19052826/08e051d1-6.smil/thumb.jpg?t=2243&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2288,
+      "title": "Tennis",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa19052826/08e051d1-6.smil/thumb.jpg?t=2313&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2313,
+      "title": "Landslaget",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa19052826/08e051d1-6.smil/thumb.jpg?t=2338&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2386,
+      "title": "Para",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa19052826/08e051d1-6.smil/thumb.jpg?t=2412&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2472,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa19052826/08e051d1-6.smil/thumb.jpg?t=2497&scale=480x270&v=high"
+    }
+  ]
+}

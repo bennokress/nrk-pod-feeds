@@ -1,0 +1,58 @@
+{
+  "version": "1.2.0",
+  "title": "Møte mellom Støre og Macron",
+  "author": "NRK",
+  "podcastName": "Dagsnytt 18",
+  "chapters": [
+    {
+      "startTime": 1,
+      "title": "Dagsnytt atten",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa56052726/87d20463-7.smil/thumb.jpg?t=26&scale=480x270&v=high"
+    },
+    {
+      "startTime": 53,
+      "title": "Støre møter Macron",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa56052726/87d20463-7.smil/thumb.jpg?t=78&scale=480x270&v=high"
+    },
+    {
+      "startTime": 624,
+      "title": "Tvinge barn på skolen",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa56052726/87d20463-7.smil/thumb.jpg?t=650&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1355,
+      "title": "Fellesforbundet og boikott",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa56052726/87d20463-7.smil/thumb.jpg?t=1380&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1848,
+      "title": "Bruk av egennavn på oljefelt",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa56052726/87d20463-7.smil/thumb.jpg?t=1873&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2258,
+      "title": "Kritikk mot nytt NRK-bygg",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa56052726/87d20463-7.smil/thumb.jpg?t=2283&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2638,
+      "title": "Motorferdsel i utmark",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa56052726/87d20463-7.smil/thumb.jpg?t=2663&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3166,
+      "title": "Regjeringen om Macron-møte",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa56052726/87d20463-7.smil/thumb.jpg?t=3191&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3526,
+      "title": "AVSLUTNING",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa56052726/87d20463-7.smil/thumb.jpg?t=3542.84&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3531,
+      "title": "SLUTTKJENNING",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa56052726/87d20463-7.smil/thumb.jpg?t=3542.84&scale=480x270&v=high"
+    }
+  ]
+}

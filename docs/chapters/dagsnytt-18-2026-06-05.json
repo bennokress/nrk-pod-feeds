@@ -1,0 +1,58 @@
+{
+  "version": "1.2.0",
+  "title": "Kronprinsessen på venteliste",
+  "author": "NRK",
+  "podcastName": "Dagsnytt 18",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsnytt atten",
+      "img": "https://nrk-od-world-63.akamaized.net/open/ps/nnfa/nnfa56060526/4e1ba94f-7.smil/thumb.jpg?t=26&scale=480x270&v=high"
+    },
+    {
+      "startTime": 51,
+      "title": "Mette-Marit på venteliste",
+      "img": "https://nrk-od-world-63.akamaized.net/open/ps/nnfa/nnfa56060526/4e1ba94f-7.smil/thumb.jpg?t=77&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1730,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-63.akamaized.net/open/ps/nnfa/nnfa56060526/4e1ba94f-7.smil/thumb.jpg?t=1756&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1740,
+      "title": "Putin-tale",
+      "img": "https://nrk-od-world-63.akamaized.net/open/ps/nnfa/nnfa56060526/4e1ba94f-7.smil/thumb.jpg?t=1766&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2419,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-63.akamaized.net/open/ps/nnfa/nnfa56060526/4e1ba94f-7.smil/thumb.jpg?t=2445&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2431,
+      "title": "Hvordan kutte sykefraværet",
+      "img": "https://nrk-od-world-63.akamaized.net/open/ps/nnfa/nnfa56060526/4e1ba94f-7.smil/thumb.jpg?t=2456&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3146,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-63.akamaized.net/open/ps/nnfa/nnfa56060526/4e1ba94f-7.smil/thumb.jpg?t=3172&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3157,
+      "title": "Kommer senere",
+      "img": "https://nrk-od-world-63.akamaized.net/open/ps/nnfa/nnfa56060526/4e1ba94f-7.smil/thumb.jpg?t=3182&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3235,
+      "title": "4-dagersuke",
+      "img": "https://nrk-od-world-63.akamaized.net/open/ps/nnfa/nnfa56060526/4e1ba94f-7.smil/thumb.jpg?t=3261&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3526,
+      "title": "SLUTTKJENNING",
+      "img": "https://nrk-od-world-63.akamaized.net/open/ps/nnfa/nnfa56060526/4e1ba94f-7.smil/thumb.jpg?t=3544.16&scale=480x270&v=high"
+    }
+  ]
+}

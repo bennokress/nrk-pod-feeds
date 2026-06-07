@@ -1,0 +1,58 @@
+{
+  "version": "1.2.0",
+  "title": "Kronprinsessen på Rikshospitalet",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa21060426/ac3d9c8a-7.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 40,
+      "title": "Kronprinsessen på Rikshospitalet",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa21060426/ac3d9c8a-7.smil/thumb.jpg?t=65&scale=480x270&v=high"
+    },
+    {
+      "startTime": 150,
+      "title": "Svenske etterlyst av norsk politi",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa21060426/ac3d9c8a-7.smil/thumb.jpg?t=176&scale=480x270&v=high"
+    },
+    {
+      "startTime": 216,
+      "title": "Steinar Wangen rettssak",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa21060426/ac3d9c8a-7.smil/thumb.jpg?t=241&scale=480x270&v=high"
+    },
+    {
+      "startTime": 278,
+      "title": "Havvind",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa21060426/ac3d9c8a-7.smil/thumb.jpg?t=304&scale=480x270&v=high"
+    },
+    {
+      "startTime": 361,
+      "title": "Kjemper om nord",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa21060426/ac3d9c8a-7.smil/thumb.jpg?t=386&scale=480x270&v=high"
+    },
+    {
+      "startTime": 458,
+      "title": "Liverpooltrener",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa21060426/ac3d9c8a-7.smil/thumb.jpg?t=483&scale=480x270&v=high"
+    },
+    {
+      "startTime": 482,
+      "title": "Nettpromo",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa21060426/ac3d9c8a-7.smil/thumb.jpg?t=507&scale=480x270&v=high"
+    },
+    {
+      "startTime": 495,
+      "title": "Været",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa21060426/ac3d9c8a-7.smil/thumb.jpg?t=520&scale=480x270&v=high"
+    },
+    {
+      "startTime": 550,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa21060426/ac3d9c8a-7.smil/thumb.jpg?t=572.55&scale=480x270&v=high"
+    }
+  ]
+}

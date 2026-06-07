@@ -1,0 +1,68 @@
+{
+  "version": "1.2.0",
+  "title": "Norge klar for semifinale",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa23052826/16587c27-6.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 34,
+      "title": "Ishockey-VM",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa23052826/16587c27-6.smil/thumb.jpg?t=60&scale=480x270&v=high"
+    },
+    {
+      "startTime": 104,
+      "title": "MULIG-STORSTREIK",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa23052826/16587c27-6.smil/thumb.jpg?t=130&scale=480x270&v=high"
+    },
+    {
+      "startTime": 142,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa23052826/16587c27-6.smil/thumb.jpg?t=167&scale=480x270&v=high"
+    },
+    {
+      "startTime": 242,
+      "title": "Skyting Lørenskog",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa23052826/16587c27-6.smil/thumb.jpg?t=268&scale=480x270&v=high"
+    },
+    {
+      "startTime": 260,
+      "title": "Kommunedirektør",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa23052826/16587c27-6.smil/thumb.jpg?t=286&scale=480x270&v=high"
+    },
+    {
+      "startTime": 379,
+      "title": "Dagen derpå etter storbrannen ved Gilje Tre, usikkert når produksjonen er i gang igjen",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa23052826/16587c27-6.smil/thumb.jpg?t=405&scale=480x270&v=high"
+    },
+    {
+      "startTime": 479,
+      "title": "Kongehuset og sykdom",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa23052826/16587c27-6.smil/thumb.jpg?t=505&scale=480x270&v=high"
+    },
+    {
+      "startTime": 631,
+      "title": "Jæger jakter europarekord på 300 meter",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa23052826/16587c27-6.smil/thumb.jpg?t=656&scale=480x270&v=high"
+    },
+    {
+      "startTime": 698,
+      "title": "Hockey-melding",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa23052826/16587c27-6.smil/thumb.jpg?t=723&scale=480x270&v=high"
+    },
+    {
+      "startTime": 725,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa23052826/16587c27-6.smil/thumb.jpg?t=750&scale=480x270&v=high"
+    },
+    {
+      "startTime": 786,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa23052826/16587c27-6.smil/thumb.jpg?t=803.52&scale=480x270&v=high"
+    }
+  ]
+}

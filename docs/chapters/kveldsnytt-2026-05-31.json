@@ -1,0 +1,68 @@
+{
+  "version": "1.2.0",
+  "title": "Historisk borg inntatt",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-31.akamaized.net/open/ps/nnfa/nnfa23053126/3a583530-6.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 43,
+      "title": "Israel Libanon",
+      "img": "https://nrk-od-world-31.akamaized.net/open/ps/nnfa/nnfa23053126/3a583530-6.smil/thumb.jpg?t=68&scale=480x270&v=high"
+    },
+    {
+      "startTime": 129,
+      "title": "USA-Iran",
+      "img": "https://nrk-od-world-31.akamaized.net/open/ps/nnfa/nnfa23053126/3a583530-6.smil/thumb.jpg?t=155&scale=480x270&v=high"
+    },
+    {
+      "startTime": 188,
+      "title": "Ulykke Fredrikstad",
+      "img": "https://nrk-od-world-31.akamaized.net/open/ps/nnfa/nnfa23053126/3a583530-6.smil/thumb.jpg?t=214&scale=480x270&v=high"
+    },
+    {
+      "startTime": 210,
+      "title": "Turister",
+      "img": "https://nrk-od-world-31.akamaized.net/open/ps/nnfa/nnfa23053126/3a583530-6.smil/thumb.jpg?t=235&scale=480x270&v=high"
+    },
+    {
+      "startTime": 233,
+      "title": "Brannkontroll utesteder",
+      "img": "https://nrk-od-world-31.akamaized.net/open/ps/nnfa/nnfa23053126/3a583530-6.smil/thumb.jpg?t=258&scale=480x270&v=high"
+    },
+    {
+      "startTime": 336,
+      "title": "Verdenspakke",
+      "img": "https://nrk-od-world-31.akamaized.net/open/ps/nnfa/nnfa23053126/3a583530-6.smil/thumb.jpg?t=361&scale=480x270&v=high"
+    },
+    {
+      "startTime": 436,
+      "title": "Friidrett",
+      "img": "https://nrk-od-world-31.akamaized.net/open/ps/nnfa/nnfa23053126/3a583530-6.smil/thumb.jpg?t=462&scale=480x270&v=high"
+    },
+    {
+      "startTime": 505,
+      "title": "Tennis",
+      "img": "https://nrk-od-world-31.akamaized.net/open/ps/nnfa/nnfa23053126/3a583530-6.smil/thumb.jpg?t=531&scale=480x270&v=high"
+    },
+    {
+      "startTime": 555,
+      "title": "Noah Steen flau",
+      "img": "https://nrk-od-world-31.akamaized.net/open/ps/nnfa/nnfa23053126/3a583530-6.smil/thumb.jpg?t=581&scale=480x270&v=high"
+    },
+    {
+      "startTime": 628,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-31.akamaized.net/open/ps/nnfa/nnfa23053126/3a583530-6.smil/thumb.jpg?t=654&scale=480x270&v=high"
+    },
+    {
+      "startTime": 692,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-31.akamaized.net/open/ps/nnfa/nnfa23053126/3a583530-6.smil/thumb.jpg?t=711.6&scale=480x270&v=high"
+    }
+  ]
+}

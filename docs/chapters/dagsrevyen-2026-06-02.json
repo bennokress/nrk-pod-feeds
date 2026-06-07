@@ -1,0 +1,143 @@
+{
+  "version": "1.2.0",
+  "title": "På vei til VM",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 9,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa19060226/c2d91ab2-7.smil/thumb.jpg?t=34&scale=480x270&v=high"
+    },
+    {
+      "startTime": 54,
+      "title": "Angrep Ukraina",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa19060226/c2d91ab2-7.smil/thumb.jpg?t=79&scale=480x270&v=high"
+    },
+    {
+      "startTime": 177,
+      "title": "Direkte: Kyiv",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa19060226/c2d91ab2-7.smil/thumb.jpg?t=202&scale=480x270&v=high"
+    },
+    {
+      "startTime": 232,
+      "title": "Angrep i natt",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa19060226/c2d91ab2-7.smil/thumb.jpg?t=258&scale=480x270&v=high"
+    },
+    {
+      "startTime": 252,
+      "title": "Direkte: Kyiv",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa19060226/c2d91ab2-7.smil/thumb.jpg?t=277&scale=480x270&v=high"
+    },
+    {
+      "startTime": 335,
+      "title": "Fotball-landslaget reiser",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa19060226/c2d91ab2-7.smil/thumb.jpg?t=360&scale=480x270&v=high"
+    },
+    {
+      "startTime": 476,
+      "title": "Jostein Nyland",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa19060226/c2d91ab2-7.smil/thumb.jpg?t=501&scale=480x270&v=high"
+    },
+    {
+      "startTime": 574,
+      "title": "Gjest: Huitfeldt",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa19060226/c2d91ab2-7.smil/thumb.jpg?t=600&scale=480x270&v=high"
+    },
+    {
+      "startTime": 735,
+      "title": "Kriminelle nettverk",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa19060226/c2d91ab2-7.smil/thumb.jpg?t=760&scale=480x270&v=high"
+    },
+    {
+      "startTime": 871,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa19060226/c2d91ab2-7.smil/thumb.jpg?t=896&scale=480x270&v=high"
+    },
+    {
+      "startTime": 920,
+      "title": "Bellona sliter",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa19060226/c2d91ab2-7.smil/thumb.jpg?t=945&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1034,
+      "title": "Libanon",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa19060226/c2d91ab2-7.smil/thumb.jpg?t=1060&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1108,
+      "title": "Direkte: Libanon",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa19060226/c2d91ab2-7.smil/thumb.jpg?t=1134&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1214,
+      "title": "Libanon",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa19060226/c2d91ab2-7.smil/thumb.jpg?t=1240&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1341,
+      "title": "Regjering Danmark",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa19060226/c2d91ab2-7.smil/thumb.jpg?t=1367&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1410,
+      "title": "Vannkraft",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa19060226/c2d91ab2-7.smil/thumb.jpg?t=1435&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1542,
+      "title": "Louis Theroux",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa19060226/c2d91ab2-7.smil/thumb.jpg?t=1567&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1652,
+      "title": "Kronprinsen i Japan",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa19060226/c2d91ab2-7.smil/thumb.jpg?t=1678&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1779,
+      "title": "Richard Gere",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa19060226/c2d91ab2-7.smil/thumb.jpg?t=1805&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1897,
+      "title": "Anders Jahres kultur",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa19060226/c2d91ab2-7.smil/thumb.jpg?t=1923&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1970,
+      "title": "Svømmeturister Norge",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa19060226/c2d91ab2-7.smil/thumb.jpg?t=1995&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2092,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa19060226/c2d91ab2-7.smil/thumb.jpg?t=2118&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2098,
+      "title": "Avreise landslaget",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa19060226/c2d91ab2-7.smil/thumb.jpg?t=2123&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2121,
+      "title": "Direkte",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa19060226/c2d91ab2-7.smil/thumb.jpg?t=2146&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2212,
+      "title": "Landslagskokk",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa19060226/c2d91ab2-7.smil/thumb.jpg?t=2237&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2322,
+      "title": "Norge til USA",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa19060226/c2d91ab2-7.smil/thumb.jpg?t=2347&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2409,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa19060226/c2d91ab2-7.smil/thumb.jpg?t=2434&scale=480x270&v=high"
+    }
+  ]
+}

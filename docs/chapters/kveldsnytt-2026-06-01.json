@@ -1,0 +1,63 @@
+{
+  "version": "1.2.0",
+  "title": "Danmark får ny regjering",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 1,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa23060126/b51c18fc-6.smil/thumb.jpg?t=26&scale=480x270&v=high"
+    },
+    {
+      "startTime": 25,
+      "title": "Klart for ny regjering i Danmark",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa23060126/b51c18fc-6.smil/thumb.jpg?t=51&scale=480x270&v=high"
+    },
+    {
+      "startTime": 113,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa23060126/b51c18fc-6.smil/thumb.jpg?t=139&scale=480x270&v=high"
+    },
+    {
+      "startTime": 269,
+      "title": "EU retursentre",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa23060126/b51c18fc-6.smil/thumb.jpg?t=294&scale=480x270&v=high"
+    },
+    {
+      "startTime": 301,
+      "title": "Fyrverkeri Malta",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa23060126/b51c18fc-6.smil/thumb.jpg?t=326&scale=480x270&v=high"
+    },
+    {
+      "startTime": 329,
+      "title": "Wangen kritikk",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa23060126/b51c18fc-6.smil/thumb.jpg?t=354&scale=480x270&v=high"
+    },
+    {
+      "startTime": 426,
+      "title": "Nettpromo",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa23060126/b51c18fc-6.smil/thumb.jpg?t=452&scale=480x270&v=high"
+    },
+    {
+      "startTime": 443,
+      "title": "Norge herjet",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa23060126/b51c18fc-6.smil/thumb.jpg?t=469&scale=480x270&v=high"
+    },
+    {
+      "startTime": 538,
+      "title": "Svensk slakt",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa23060126/b51c18fc-6.smil/thumb.jpg?t=563&scale=480x270&v=high"
+    },
+    {
+      "startTime": 628,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa23060126/b51c18fc-6.smil/thumb.jpg?t=654&scale=480x270&v=high"
+    },
+    {
+      "startTime": 697,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa23060126/b51c18fc-6.smil/thumb.jpg?t=718.55&scale=480x270&v=high"
+    }
+  ]
+}

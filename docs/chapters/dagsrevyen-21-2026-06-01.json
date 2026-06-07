@@ -1,0 +1,58 @@
+{
+  "version": "1.2.0",
+  "title": "Hastemøte i Sikkerhetsrådet",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa21060126/112b7e69-7.smil/thumb.jpg?t=26&scale=480x270&v=high"
+    },
+    {
+      "startTime": 32,
+      "title": "Libanon Sikkerhetsrådet",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa21060126/112b7e69-7.smil/thumb.jpg?t=58&scale=480x270&v=high"
+    },
+    {
+      "startTime": 51,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa21060126/112b7e69-7.smil/thumb.jpg?t=77&scale=480x270&v=high"
+    },
+    {
+      "startTime": 168,
+      "title": "Forvalter erstatning",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa21060126/112b7e69-7.smil/thumb.jpg?t=194&scale=480x270&v=high"
+    },
+    {
+      "startTime": 199,
+      "title": "Gjengdrap",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa21060126/112b7e69-7.smil/thumb.jpg?t=224&scale=480x270&v=high"
+    },
+    {
+      "startTime": 228,
+      "title": "Bellona mot konkurs",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa21060126/112b7e69-7.smil/thumb.jpg?t=253&scale=480x270&v=high"
+    },
+    {
+      "startTime": 295,
+      "title": "Michelin-stjerner",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa21060126/112b7e69-7.smil/thumb.jpg?t=321&scale=480x270&v=high"
+    },
+    {
+      "startTime": 394,
+      "title": "Landskamper",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa21060126/112b7e69-7.smil/thumb.jpg?t=420&scale=480x270&v=high"
+    },
+    {
+      "startTime": 505,
+      "title": "Været",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa21060126/112b7e69-7.smil/thumb.jpg?t=531&scale=480x270&v=high"
+    },
+    {
+      "startTime": 560,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa21060126/112b7e69-7.smil/thumb.jpg?t=580.52&scale=480x270&v=high"
+    }
+  ]
+}

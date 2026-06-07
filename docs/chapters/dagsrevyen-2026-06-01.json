@@ -1,0 +1,138 @@
+{
+  "version": "1.2.0",
+  "title": "VM-heltene møtt med jubel",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 10,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa19060126/4dd0bdbf-6.smil/thumb.jpg?t=36&scale=480x270&v=high"
+    },
+    {
+      "startTime": 77,
+      "title": "Fondsforvalter",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa19060126/4dd0bdbf-6.smil/thumb.jpg?t=102&scale=480x270&v=high"
+    },
+    {
+      "startTime": 197,
+      "title": "Kampen-drapet rettssak",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa19060126/4dd0bdbf-6.smil/thumb.jpg?t=223&scale=480x270&v=high"
+    },
+    {
+      "startTime": 315,
+      "title": "Gjest om Kampendrapet",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa19060126/4dd0bdbf-6.smil/thumb.jpg?t=340&scale=480x270&v=high"
+    },
+    {
+      "startTime": 421,
+      "title": "17-åring forvaring",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa19060126/4dd0bdbf-6.smil/thumb.jpg?t=446&scale=480x270&v=high"
+    },
+    {
+      "startTime": 549,
+      "title": "Gjest om forvaring",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa19060126/4dd0bdbf-6.smil/thumb.jpg?t=575&scale=480x270&v=high"
+    },
+    {
+      "startTime": 637,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa19060126/4dd0bdbf-6.smil/thumb.jpg?t=663&scale=480x270&v=high"
+    },
+    {
+      "startTime": 787,
+      "title": "Kronprinsen i Japan",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa19060126/4dd0bdbf-6.smil/thumb.jpg?t=812&scale=480x270&v=high"
+    },
+    {
+      "startTime": 914,
+      "title": "Gjest: Helljesen",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa19060126/4dd0bdbf-6.smil/thumb.jpg?t=940&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1068,
+      "title": "Machado i Norge",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa19060126/4dd0bdbf-6.smil/thumb.jpg?t=1094&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1197,
+      "title": "Utenriksnyheter",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa19060126/4dd0bdbf-6.smil/thumb.jpg?t=1223&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1295,
+      "title": "Helsefag nye årsverk",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa19060126/4dd0bdbf-6.smil/thumb.jpg?t=1321&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1454,
+      "title": "Michelin-guiden",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa19060126/4dd0bdbf-6.smil/thumb.jpg?t=1479&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1490,
+      "title": "Direkte: København",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa19060126/4dd0bdbf-6.smil/thumb.jpg?t=1516&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1662,
+      "title": "Michelin-guiden",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa19060126/4dd0bdbf-6.smil/thumb.jpg?t=1687&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1692,
+      "title": "Direkte: Stokmarknes",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa19060126/4dd0bdbf-6.smil/thumb.jpg?t=1717&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1788,
+      "title": "Michelin-guiden",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa19060126/4dd0bdbf-6.smil/thumb.jpg?t=1814&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1811,
+      "title": "Direkte Bekkjarvik",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa19060126/4dd0bdbf-6.smil/thumb.jpg?t=1836&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1919,
+      "title": "Elbilhistorie",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa19060126/4dd0bdbf-6.smil/thumb.jpg?t=1944&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2035,
+      "title": "Larver tilbake",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa19060126/4dd0bdbf-6.smil/thumb.jpg?t=2060&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2153,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa19060126/4dd0bdbf-6.smil/thumb.jpg?t=2179&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2160,
+      "title": "Hockeygutta hjem",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa19060126/4dd0bdbf-6.smil/thumb.jpg?t=2186&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2252,
+      "title": "Norge - Sverige",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa19060126/4dd0bdbf-6.smil/thumb.jpg?t=2278&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2314,
+      "title": "RBK",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa19060126/4dd0bdbf-6.smil/thumb.jpg?t=2339&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2378,
+      "title": "Brann sparken",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa19060126/4dd0bdbf-6.smil/thumb.jpg?t=2404&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2444,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa19060126/4dd0bdbf-6.smil/thumb.jpg?t=2469&scale=480x270&v=high"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "version": "1.2.0",
+  "title": "Sivilforsvaret øver på evakuering",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-26.akamaized.net/open/ps/nnfa/nnfa21052126/6816dacf-8.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 34,
+      "title": "VM-uttak",
+      "img": "https://nrk-od-world-26.akamaized.net/open/ps/nnfa/nnfa21052126/6816dacf-8.smil/thumb.jpg?t=59&scale=480x270&v=high"
+    },
+    {
+      "startTime": 96,
+      "title": "FSB Kherson",
+      "img": "https://nrk-od-world-26.akamaized.net/open/ps/nnfa/nnfa21052126/6816dacf-8.smil/thumb.jpg?t=122&scale=480x270&v=high"
+    },
+    {
+      "startTime": 125,
+      "title": "Air France",
+      "img": "https://nrk-od-world-26.akamaized.net/open/ps/nnfa/nnfa21052126/6816dacf-8.smil/thumb.jpg?t=151&scale=480x270&v=high"
+    },
+    {
+      "startTime": 148,
+      "title": "Vil ha studentene tilbake til campus",
+      "img": "https://nrk-od-world-26.akamaized.net/open/ps/nnfa/nnfa21052126/6816dacf-8.smil/thumb.jpg?t=173&scale=480x270&v=high"
+    },
+    {
+      "startTime": 207,
+      "title": "Revidert nasjonalbudsjett",
+      "img": "https://nrk-od-world-26.akamaized.net/open/ps/nnfa/nnfa21052126/6816dacf-8.smil/thumb.jpg?t=233&scale=480x270&v=high"
+    },
+    {
+      "startTime": 357,
+      "title": "Øver på krigsevakuering",
+      "img": "https://nrk-od-world-26.akamaized.net/open/ps/nnfa/nnfa21052126/6816dacf-8.smil/thumb.jpg?t=383&scale=480x270&v=high"
+    },
+    {
+      "startTime": 459,
+      "title": "Nettpromo",
+      "img": "https://nrk-od-world-26.akamaized.net/open/ps/nnfa/nnfa21052126/6816dacf-8.smil/thumb.jpg?t=485&scale=480x270&v=high"
+    },
+    {
+      "startTime": 476,
+      "title": "Været",
+      "img": "https://nrk-od-world-26.akamaized.net/open/ps/nnfa/nnfa21052126/6816dacf-8.smil/thumb.jpg?t=502&scale=480x270&v=high"
+    },
+    {
+      "startTime": 527,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-26.akamaized.net/open/ps/nnfa/nnfa21052126/6816dacf-8.smil/thumb.jpg?t=545.6&scale=480x270&v=high"
+    }
+  ]
+}

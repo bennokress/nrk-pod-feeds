@@ -1,0 +1,268 @@
+{
+  "version": "1.2.0",
+  "title": "SV krever mer til kutt av klimautslipp",
+  "author": "NRK",
+  "podcastName": "Nyhetsmorgen",
+  "chapters": [
+    {
+      "startTime": 3,
+      "title": "Åpning 06:30",
+      "img": "https://nrk-od-world-88.akamaized.net/open/ps/nnfa/nnfa05060226/eb884669-6.smil/thumb.jpg?t=28&scale=480x270&v=high"
+    },
+    {
+      "startTime": 93,
+      "title": "Angrep på Ukraina",
+      "img": "https://nrk-od-world-88.akamaized.net/open/ps/nnfa/nnfa05060226/eb884669-6.smil/thumb.jpg?t=118&scale=480x270&v=high"
+    },
+    {
+      "startTime": 258,
+      "title": "SV slår klimaalarm: Altfor dårlig",
+      "img": "https://nrk-od-world-88.akamaized.net/open/ps/nnfa/nnfa05060226/eb884669-6.smil/thumb.jpg?t=283&scale=480x270&v=high"
+    },
+    {
+      "startTime": 404,
+      "title": "Kameraovervåkning på fiskemottak",
+      "img": "https://nrk-od-world-88.akamaized.net/open/ps/nnfa/nnfa05060226/eb884669-6.smil/thumb.jpg?t=430&scale=480x270&v=high"
+    },
+    {
+      "startTime": 654,
+      "title": "- Forlagene for dårlige til å oppdage KI-bruk",
+      "img": "https://nrk-od-world-88.akamaized.net/open/ps/nnfa/nnfa05060226/eb884669-6.smil/thumb.jpg?t=679&scale=480x270&v=high"
+    },
+    {
+      "startTime": 896,
+      "title": "Krisemøte i FNs sikkerhetsråd",
+      "img": "https://nrk-od-world-88.akamaized.net/open/ps/nnfa/nnfa05060226/eb884669-6.smil/thumb.jpg?t=921&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1114,
+      "title": "Russ knivstukket i Porsgrunn",
+      "img": "https://nrk-od-world-88.akamaized.net/open/ps/nnfa/nnfa05060226/eb884669-6.smil/thumb.jpg?t=1140&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1163,
+      "title": "Norge storspilte mot Sverige",
+      "img": "https://nrk-od-world-88.akamaized.net/open/ps/nnfa/nnfa05060226/eb884669-6.smil/thumb.jpg?t=1189&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1555,
+      "title": "Ber forbrukere gi terningskast på alt",
+      "img": "https://nrk-od-world-88.akamaized.net/open/ps/nnfa/nnfa05060226/eb884669-6.smil/thumb.jpg?t=1581&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1767,
+      "title": "Trailer Demonutdriveren",
+      "img": "https://nrk-od-world-88.akamaized.net/open/ps/nnfa/nnfa05060226/eb884669-6.smil/thumb.jpg?t=1792&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1797,
+      "title": "Åpning 07:00",
+      "img": "https://nrk-od-world-88.akamaized.net/open/ps/nnfa/nnfa05060226/eb884669-6.smil/thumb.jpg?t=1823&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1851,
+      "title": "Kraftig angrep i Ukraina",
+      "img": "https://nrk-od-world-88.akamaized.net/open/ps/nnfa/nnfa05060226/eb884669-6.smil/thumb.jpg?t=1876&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2098,
+      "title": "Kritiserer forvaringsdom mot 17-åring",
+      "img": "https://nrk-od-world-88.akamaized.net/open/ps/nnfa/nnfa05060226/eb884669-6.smil/thumb.jpg?t=2124&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2288,
+      "title": "SV slår klimaalarm: Altfor dårlig",
+      "img": "https://nrk-od-world-88.akamaized.net/open/ps/nnfa/nnfa05060226/eb884669-6.smil/thumb.jpg?t=2314&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2461,
+      "title": "Kommentator om budsjettforhandlingene",
+      "img": "https://nrk-od-world-88.akamaized.net/open/ps/nnfa/nnfa05060226/eb884669-6.smil/thumb.jpg?t=2487&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2706,
+      "title": "Tut og kjør på vidda og i Stortinget",
+      "img": "https://nrk-od-world-88.akamaized.net/open/ps/nnfa/nnfa05060226/eb884669-6.smil/thumb.jpg?t=2731&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2813,
+      "title": "Ny regjering Danmark",
+      "img": "https://nrk-od-world-88.akamaized.net/open/ps/nnfa/nnfa05060226/eb884669-6.smil/thumb.jpg?t=2839&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3072,
+      "title": "Reaksjoner Libanon  sikkerhetsrådsmøtet",
+      "img": "https://nrk-od-world-88.akamaized.net/open/ps/nnfa/nnfa05060226/eb884669-6.smil/thumb.jpg?t=3097&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3359,
+      "title": "Kritiserer at TT-ordningen kan endres",
+      "img": "https://nrk-od-world-88.akamaized.net/open/ps/nnfa/nnfa05060226/eb884669-6.smil/thumb.jpg?t=3384&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3573,
+      "title": "Trailer Vi skal til VM",
+      "img": "https://nrk-od-world-88.akamaized.net/open/ps/nnfa/nnfa05060226/eb884669-6.smil/thumb.jpg?t=3598&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3602,
+      "title": "Overskrifter 07:30",
+      "img": "https://nrk-od-world-88.akamaized.net/open/ps/nnfa/nnfa05060226/eb884669-6.smil/thumb.jpg?t=3628&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3635,
+      "title": "Kraftige angrep på Ukraina",
+      "img": "https://nrk-od-world-88.akamaized.net/open/ps/nnfa/nnfa05060226/eb884669-6.smil/thumb.jpg?t=3660&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3735,
+      "title": "SV slår klimaalarm: Altfor dårlig",
+      "img": "https://nrk-od-world-88.akamaized.net/open/ps/nnfa/nnfa05060226/eb884669-6.smil/thumb.jpg?t=3760&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3865,
+      "title": "Kommentar om budsjettforhandlingene",
+      "img": "https://nrk-od-world-88.akamaized.net/open/ps/nnfa/nnfa05060226/eb884669-6.smil/thumb.jpg?t=3890&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3936,
+      "title": "Russ knivstukket i Porsgrunn",
+      "img": "https://nrk-od-world-88.akamaized.net/open/ps/nnfa/nnfa05060226/eb884669-6.smil/thumb.jpg?t=3962&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3967,
+      "title": "Kritiserer forvaringsdom mot 17-åring",
+      "img": "https://nrk-od-world-88.akamaized.net/open/ps/nnfa/nnfa05060226/eb884669-6.smil/thumb.jpg?t=3992&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4082,
+      "title": "Risikerer 45 års fengsel",
+      "img": "https://nrk-od-world-88.akamaized.net/open/ps/nnfa/nnfa05060226/eb884669-6.smil/thumb.jpg?t=4107&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4093,
+      "title": "Nye forhandlinger om Libanon",
+      "img": "https://nrk-od-world-88.akamaized.net/open/ps/nnfa/nnfa05060226/eb884669-6.smil/thumb.jpg?t=4119&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4118,
+      "title": "Norge storspilte mot Sverige",
+      "img": "https://nrk-od-world-88.akamaized.net/open/ps/nnfa/nnfa05060226/eb884669-6.smil/thumb.jpg?t=4144&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4200,
+      "title": "Åpning 07:40",
+      "img": "https://nrk-od-world-88.akamaized.net/open/ps/nnfa/nnfa05060226/eb884669-6.smil/thumb.jpg?t=4226&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4212,
+      "title": "Ugress som beredskap",
+      "img": "https://nrk-od-world-88.akamaized.net/open/ps/nnfa/nnfa05060226/eb884669-6.smil/thumb.jpg?t=4237&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5400,
+      "title": "NRK Nyheter 08:00",
+      "img": "https://nrk-od-world-88.akamaized.net/open/ps/nnfa/nnfa05060226/eb884669-6.smil/thumb.jpg?t=5426&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5581,
+      "title": "Åpning 08:03",
+      "img": "https://nrk-od-world-88.akamaized.net/open/ps/nnfa/nnfa05060226/eb884669-6.smil/thumb.jpg?t=5607&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5638,
+      "title": "EU og asylsentre",
+      "img": "https://nrk-od-world-88.akamaized.net/open/ps/nnfa/nnfa05060226/eb884669-6.smil/thumb.jpg?t=5664&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5909,
+      "title": "Kritiserer forvaringsdom mot 17-åring",
+      "img": "https://nrk-od-world-88.akamaized.net/open/ps/nnfa/nnfa05060226/eb884669-6.smil/thumb.jpg?t=5935&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6049,
+      "title": "Russ knivstukket i Porsgrunn",
+      "img": "https://nrk-od-world-88.akamaized.net/open/ps/nnfa/nnfa05060226/eb884669-6.smil/thumb.jpg?t=6074&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6096,
+      "title": "Dårlig stemning mellom Trump og Netanyahu",
+      "img": "https://nrk-od-world-88.akamaized.net/open/ps/nnfa/nnfa05060226/eb884669-6.smil/thumb.jpg?t=6121&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6400,
+      "title": "Arbeid etter fullført høyere utdanning",
+      "img": "https://nrk-od-world-88.akamaized.net/open/ps/nnfa/nnfa05060226/eb884669-6.smil/thumb.jpg?t=6426&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6669,
+      "title": "Upopulær kansler i Tyskland",
+      "img": "https://nrk-od-world-88.akamaized.net/open/ps/nnfa/nnfa05060226/eb884669-6.smil/thumb.jpg?t=6694&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6909,
+      "title": "- Forlagene for dårlige til å oppdage KI-bruk",
+      "img": "https://nrk-od-world-88.akamaized.net/open/ps/nnfa/nnfa05060226/eb884669-6.smil/thumb.jpg?t=6934&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7050,
+      "title": "Hockey-feber etter bronsen",
+      "img": "https://nrk-od-world-88.akamaized.net/open/ps/nnfa/nnfa05060226/eb884669-6.smil/thumb.jpg?t=7076&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7340,
+      "title": "Kraftige angrep mot Ukraina",
+      "img": "https://nrk-od-world-88.akamaized.net/open/ps/nnfa/nnfa05060226/eb884669-6.smil/thumb.jpg?t=7365&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7481,
+      "title": "SV slår klimaalarm: Altfor dårlig",
+      "img": "https://nrk-od-world-88.akamaized.net/open/ps/nnfa/nnfa05060226/eb884669-6.smil/thumb.jpg?t=7507&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7665,
+      "title": "Blir vanskelige forhandlinger",
+      "img": "https://nrk-od-world-88.akamaized.net/open/ps/nnfa/nnfa05060226/eb884669-6.smil/thumb.jpg?t=7690&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7738,
+      "title": "Ny regjering Danmark",
+      "img": "https://nrk-od-world-88.akamaized.net/open/ps/nnfa/nnfa05060226/eb884669-6.smil/thumb.jpg?t=7763&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8005,
+      "title": "Kritiserer at TT-ordningen kan endres",
+      "img": "https://nrk-od-world-88.akamaized.net/open/ps/nnfa/nnfa05060226/eb884669-6.smil/thumb.jpg?t=8031&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8157,
+      "title": "DIR Før Ekko i NRK P2",
+      "img": "https://nrk-od-world-88.akamaized.net/open/ps/nnfa/nnfa05060226/eb884669-6.smil/thumb.jpg?t=8182&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8235,
+      "title": "Norge storspilte mot Sverige",
+      "img": "https://nrk-od-world-88.akamaized.net/open/ps/nnfa/nnfa05060226/eb884669-6.smil/thumb.jpg?t=8261&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8319,
+      "title": "Landslaget drar til USA i dag",
+      "img": "https://nrk-od-world-88.akamaized.net/open/ps/nnfa/nnfa05060226/eb884669-6.smil/thumb.jpg?t=8344&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8459,
+      "title": "Anm. Sommerutstillingene på Vestfossen",
+      "img": "https://nrk-od-world-88.akamaized.net/open/ps/nnfa/nnfa05060226/eb884669-6.smil/thumb.jpg?t=8484&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8715,
+      "title": "Ber forbrukere gi terningskast på alt",
+      "img": "https://nrk-od-world-88.akamaized.net/open/ps/nnfa/nnfa05060226/eb884669-6.smil/thumb.jpg?t=8741&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8856,
+      "title": "GJEST Været i dag",
+      "img": "https://nrk-od-world-88.akamaized.net/open/ps/nnfa/nnfa05060226/eb884669-6.smil/thumb.jpg?t=8882&scale=480x270&v=high"
+    }
+  ]
+}

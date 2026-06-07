@@ -1,0 +1,273 @@
+{
+  "version": "1.2.0",
+  "title": "Vil ha flyttenekt",
+  "author": "NRK",
+  "podcastName": "Nyhetsmorgen",
+  "chapters": [
+    {
+      "startTime": 113,
+      "title": "Innvandring: Vil ha flyttenekt",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa05060526/4346f2a2-6.smil/thumb.jpg?t=139&scale=480x270&v=high"
+    },
+    {
+      "startTime": 138,
+      "title": "Åpning 06:30",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa05060526/4346f2a2-6.smil/thumb.jpg?t=164&scale=480x270&v=high"
+    },
+    {
+      "startTime": 140,
+      "title": "Innvandring: Vil ha flyttenekt",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa05060526/4346f2a2-6.smil/thumb.jpg?t=166&scale=480x270&v=high"
+    },
+    {
+      "startTime": 156,
+      "title": "Fedme påvirker demens",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa05060526/4346f2a2-6.smil/thumb.jpg?t=182&scale=480x270&v=high"
+    },
+    {
+      "startTime": 290,
+      "title": "Siste nytt",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa05060526/4346f2a2-6.smil/thumb.jpg?t=316&scale=480x270&v=high"
+    },
+    {
+      "startTime": 450,
+      "title": "Ambassadøren om ebolaviruset i Kongo",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa05060526/4346f2a2-6.smil/thumb.jpg?t=475&scale=480x270&v=high"
+    },
+    {
+      "startTime": 751,
+      "title": "Vil ha færre utskrivningsklare pasienter",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa05060526/4346f2a2-6.smil/thumb.jpg?t=777&scale=480x270&v=high"
+    },
+    {
+      "startTime": 875,
+      "title": "Ulykke Trøndelag",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa05060526/4346f2a2-6.smil/thumb.jpg?t=901&scale=480x270&v=high"
+    },
+    {
+      "startTime": 993,
+      "title": "Overskrifter 06:45",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa05060526/4346f2a2-6.smil/thumb.jpg?t=1019&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1031,
+      "title": "Ny norsk Foxtrot-bakmann",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa05060526/4346f2a2-6.smil/thumb.jpg?t=1057&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1208,
+      "title": "Zelenskyj-brev til Putin",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa05060526/4346f2a2-6.smil/thumb.jpg?t=1234&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1391,
+      "title": "Sokkelstreik avverget",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa05060526/4346f2a2-6.smil/thumb.jpg?t=1417&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1514,
+      "title": "Fotballkvinnene møter Tyskland",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa05060526/4346f2a2-6.smil/thumb.jpg?t=1540&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1638,
+      "title": "Løping og sukker",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa05060526/4346f2a2-6.smil/thumb.jpg?t=1664&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1842,
+      "title": "Åpning 07:00",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa05060526/4346f2a2-6.smil/thumb.jpg?t=1867&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1938,
+      "title": "Innvandring: Vil ha flyttenekt",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa05060526/4346f2a2-6.smil/thumb.jpg?t=1963&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2148,
+      "title": "Politisk kvarter om flyttenekt",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa05060526/4346f2a2-6.smil/thumb.jpg?t=2174&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2187,
+      "title": "Kronprinsessen på Rikshospitalet",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa05060526/4346f2a2-6.smil/thumb.jpg?t=2212&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2481,
+      "title": "Dyre VM-bord",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa05060526/4346f2a2-6.smil/thumb.jpg?t=2506&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2656,
+      "title": "Overskrifter 07:15",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa05060526/4346f2a2-6.smil/thumb.jpg?t=2681&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2703,
+      "title": "Flere miljøorganisasjoner sliter",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa05060526/4346f2a2-6.smil/thumb.jpg?t=2729&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2916,
+      "title": "Valg i Armenia",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa05060526/4346f2a2-6.smil/thumb.jpg?t=2941&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3159,
+      "title": "Flest helsedirektører i vest",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa05060526/4346f2a2-6.smil/thumb.jpg?t=3184&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3351,
+      "title": "Viking bytter ut kunstgresset",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa05060526/4346f2a2-6.smil/thumb.jpg?t=3376&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3588,
+      "title": "Teasing dagens sending",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa05060526/4346f2a2-6.smil/thumb.jpg?t=3613&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3601,
+      "title": "Overskrifter 07:30",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa05060526/4346f2a2-6.smil/thumb.jpg?t=3627&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3632,
+      "title": "Innvandring: Vil ha flyttenekt",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa05060526/4346f2a2-6.smil/thumb.jpg?t=3658&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3757,
+      "title": "Ny norsk Foxtrot-bakmann",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa05060526/4346f2a2-6.smil/thumb.jpg?t=3782&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3859,
+      "title": "Flere miljøorganisasjoner sliter",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa05060526/4346f2a2-6.smil/thumb.jpg?t=3885&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3980,
+      "title": "Fedme påvirker demens",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa05060526/4346f2a2-6.smil/thumb.jpg?t=4006&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4080,
+      "title": "Dyre VM-bord",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa05060526/4346f2a2-6.smil/thumb.jpg?t=4105&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4200,
+      "title": "Åpning 07:40",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa05060526/4346f2a2-6.smil/thumb.jpg?t=4225&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4209,
+      "title": "Vil ha færre utskrivningsklare pasienter",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa05060526/4346f2a2-6.smil/thumb.jpg?t=4235&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4446,
+      "title": "Topper 07:44",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa05060526/4346f2a2-6.smil/thumb.jpg?t=4471&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4493,
+      "title": "Overgang til Politisk kvarter",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa05060526/4346f2a2-6.smil/thumb.jpg?t=4518&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5402,
+      "title": "NRK Nyheter 08:00",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa05060526/4346f2a2-6.smil/thumb.jpg?t=5428&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5581,
+      "title": "Åpning 08:03",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa05060526/4346f2a2-6.smil/thumb.jpg?t=5606&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5666,
+      "title": "Ny norsk Foxtrot-bakmann",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa05060526/4346f2a2-6.smil/thumb.jpg?t=5692&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5842,
+      "title": "Livet med nye lunger",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa05060526/4346f2a2-6.smil/thumb.jpg?t=5867&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6429,
+      "title": "Overskrifter 08:15",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa05060526/4346f2a2-6.smil/thumb.jpg?t=6455&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6479,
+      "title": "LDO skal anmelde hatefulle ytringer",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa05060526/4346f2a2-6.smil/thumb.jpg?t=6504&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6596,
+      "title": "Fredagspanelet",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa05060526/4346f2a2-6.smil/thumb.jpg?t=6621&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7365,
+      "title": "Overskrifter 08:30",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa05060526/4346f2a2-6.smil/thumb.jpg?t=7390&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7426,
+      "title": "Innvandring: Vil ha flyttenekt",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa05060526/4346f2a2-6.smil/thumb.jpg?t=7451&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7556,
+      "title": "Kronprinsessas lungesjukdom",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa05060526/4346f2a2-6.smil/thumb.jpg?t=7581&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7780,
+      "title": "Xi til Nord-Korea",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa05060526/4346f2a2-6.smil/thumb.jpg?t=7806&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7958,
+      "title": "Fotballkvinnene møter Tyskland",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa05060526/4346f2a2-6.smil/thumb.jpg?t=7984&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8082,
+      "title": "Overskrifter 08:45",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa05060526/4346f2a2-6.smil/thumb.jpg?t=8107&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8131,
+      "title": "Girl in red og Marstein med VM-låt",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa05060526/4346f2a2-6.smil/thumb.jpg?t=8156&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8659,
+      "title": "Filmanmeldelse: «Couture»",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa05060526/4346f2a2-6.smil/thumb.jpg?t=8684&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8889,
+      "title": "Før Abels i NRK P2",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa05060526/4346f2a2-6.smil/thumb.jpg?t=8914&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8934,
+      "title": "GJEST Været i dag",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa05060526/4346f2a2-6.smil/thumb.jpg?t=8960&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8989,
+      "title": "Avslutning",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa05060526/4346f2a2-6.smil/thumb.jpg?t=9003.4&scale=480x270&v=high"
+    }
+  ]
+}
