@@ -1,0 +1,63 @@
+{
+  "version": "1.2.0",
+  "title": "Angrep mot Israel",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa23060726/88668f2a-7.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 34,
+      "title": "Angrep Israel",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa23060726/88668f2a-7.smil/thumb.jpg?t=59&scale=480x270&v=high"
+    },
+    {
+      "startTime": 108,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa23060726/88668f2a-7.smil/thumb.jpg?t=134&scale=480x270&v=high"
+    },
+    {
+      "startTime": 229,
+      "title": "Toppmøte i London",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa23060726/88668f2a-7.smil/thumb.jpg?t=254&scale=480x270&v=high"
+    },
+    {
+      "startTime": 246,
+      "title": "Penger til Stad skipstunnel, klimatiltak og fremtidig tannhelsereform i revidert nasjonalbudsjett",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa23060726/88668f2a-7.smil/thumb.jpg?t=272&scale=480x270&v=high"
+    },
+    {
+      "startTime": 367,
+      "title": "Norge-Marokko",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa23060726/88668f2a-7.smil/thumb.jpg?t=392&scale=480x270&v=high"
+    },
+    {
+      "startTime": 453,
+      "title": "Falt om",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa23060726/88668f2a-7.smil/thumb.jpg?t=478&scale=480x270&v=high"
+    },
+    {
+      "startTime": 557,
+      "title": "Ny skipresident",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa23060726/88668f2a-7.smil/thumb.jpg?t=583&scale=480x270&v=high"
+    },
+    {
+      "startTime": 576,
+      "title": "Henriette Jæger",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa23060726/88668f2a-7.smil/thumb.jpg?t=601&scale=480x270&v=high"
+    },
+    {
+      "startTime": 639,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa23060726/88668f2a-7.smil/thumb.jpg?t=664&scale=480x270&v=high"
+    },
+    {
+      "startTime": 698,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa23060726/88668f2a-7.smil/thumb.jpg?t=719.6&scale=480x270&v=high"
+    }
+  ]
+}
