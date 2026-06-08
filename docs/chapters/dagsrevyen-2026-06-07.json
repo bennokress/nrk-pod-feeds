@@ -1,0 +1,123 @@
+{
+  "version": "1.2.0",
+  "title": "Enige om revidert budsjett",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 21,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-49.akamaized.net/open/ps/nnfa/nnfa19060726/e06afa88-6.smil/thumb.jpg?t=46&scale=480x270&v=high"
+    },
+    {
+      "startTime": 94,
+      "title": "Fare for flystreik",
+      "img": "https://nrk-od-world-49.akamaized.net/open/ps/nnfa/nnfa19060726/e06afa88-6.smil/thumb.jpg?t=119&scale=480x270&v=high"
+    },
+    {
+      "startTime": 215,
+      "title": "Revidert",
+      "img": "https://nrk-od-world-49.akamaized.net/open/ps/nnfa/nnfa19060726/e06afa88-6.smil/thumb.jpg?t=241&scale=480x270&v=high"
+    },
+    {
+      "startTime": 239,
+      "title": "Direkte Stortinget",
+      "img": "https://nrk-od-world-49.akamaized.net/open/ps/nnfa/nnfa19060726/e06afa88-6.smil/thumb.jpg?t=265&scale=480x270&v=high"
+    },
+    {
+      "startTime": 342,
+      "title": "Kanoulykke Sarpsborg",
+      "img": "https://nrk-od-world-49.akamaized.net/open/ps/nnfa/nnfa19060726/e06afa88-6.smil/thumb.jpg?t=367&scale=480x270&v=high"
+    },
+    {
+      "startTime": 435,
+      "title": "Kronprinsessen",
+      "img": "https://nrk-od-world-49.akamaized.net/open/ps/nnfa/nnfa19060726/e06afa88-6.smil/thumb.jpg?t=461&scale=480x270&v=high"
+    },
+    {
+      "startTime": 634,
+      "title": "Ras Kåfjord",
+      "img": "https://nrk-od-world-49.akamaized.net/open/ps/nnfa/nnfa19060726/e06afa88-6.smil/thumb.jpg?t=659&scale=480x270&v=high"
+    },
+    {
+      "startTime": 684,
+      "title": "Sjørøvere Afrikas horn",
+      "img": "https://nrk-od-world-49.akamaized.net/open/ps/nnfa/nnfa19060726/e06afa88-6.smil/thumb.jpg?t=709&scale=480x270&v=high"
+    },
+    {
+      "startTime": 791,
+      "title": "Solceller",
+      "img": "https://nrk-od-world-49.akamaized.net/open/ps/nnfa/nnfa19060726/e06afa88-6.smil/thumb.jpg?t=817&scale=480x270&v=high"
+    },
+    {
+      "startTime": 917,
+      "title": "Tar ikke gjenvalg",
+      "img": "https://nrk-od-world-49.akamaized.net/open/ps/nnfa/nnfa19060726/e06afa88-6.smil/thumb.jpg?t=942&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1107,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-49.akamaized.net/open/ps/nnfa/nnfa19060726/e06afa88-6.smil/thumb.jpg?t=1132&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1262,
+      "title": "Mexico",
+      "img": "https://nrk-od-world-49.akamaized.net/open/ps/nnfa/nnfa19060726/e06afa88-6.smil/thumb.jpg?t=1288&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1741,
+      "title": "Ny linje 1 Ellen Amundsen",
+      "img": "https://nrk-od-world-49.akamaized.net/open/ps/nnfa/nnfa19060726/e06afa88-6.smil/thumb.jpg?t=1767&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1757,
+      "title": "Kina populært",
+      "img": "https://nrk-od-world-49.akamaized.net/open/ps/nnfa/nnfa19060726/e06afa88-6.smil/thumb.jpg?t=1783&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2024,
+      "title": "Ishockeylandslaget",
+      "img": "https://nrk-od-world-49.akamaized.net/open/ps/nnfa/nnfa19060726/e06afa88-6.smil/thumb.jpg?t=2050&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2281,
+      "title": "Marokko-Norge",
+      "img": "https://nrk-od-world-49.akamaized.net/open/ps/nnfa/nnfa19060726/e06afa88-6.smil/thumb.jpg?t=2307&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2295,
+      "title": "Direkte USA",
+      "img": "https://nrk-od-world-49.akamaized.net/open/ps/nnfa/nnfa19060726/e06afa88-6.smil/thumb.jpg?t=2321&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2403,
+      "title": "Gjest Horneland",
+      "img": "https://nrk-od-world-49.akamaized.net/open/ps/nnfa/nnfa19060726/e06afa88-6.smil/thumb.jpg?t=2428&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2491,
+      "title": "Fotball-VM",
+      "img": "https://nrk-od-world-49.akamaized.net/open/ps/nnfa/nnfa19060726/e06afa88-6.smil/thumb.jpg?t=2516&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2659,
+      "title": "Formel 1",
+      "img": "https://nrk-od-world-49.akamaized.net/open/ps/nnfa/nnfa19060726/e06afa88-6.smil/thumb.jpg?t=2685&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2681,
+      "title": "Revidert enighet",
+      "img": "https://nrk-od-world-49.akamaized.net/open/ps/nnfa/nnfa19060726/e06afa88-6.smil/thumb.jpg?t=2707&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4573,
+      "title": "VM-Danmark",
+      "img": "https://nrk-od-world-49.akamaized.net/open/ps/nnfa/nnfa19060726/e06afa88-6.smil/thumb.jpg?t=4599&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4607,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-49.akamaized.net/open/ps/nnfa/nnfa19060726/e06afa88-6.smil/thumb.jpg?t=4633&scale=480x270&v=high"
+    }
+  ]
+}
