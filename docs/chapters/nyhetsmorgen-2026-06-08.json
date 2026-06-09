@@ -1,0 +1,278 @@
+{
+  "version": "1.2.0",
+  "title": "Frykter høyere rente",
+  "author": "NRK",
+  "podcastName": "Nyhetsmorgen",
+  "chapters": [
+    {
+      "startTime": 67,
+      "title": "Fryktar at budsjettet gir høgare rente",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05060826/96b8718a-6.smil/thumb.jpg?t=93&scale=480x270&v=high"
+    },
+    {
+      "startTime": 207,
+      "title": "Feil pengebruk for tog",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05060826/96b8718a-6.smil/thumb.jpg?t=233&scale=480x270&v=high"
+    },
+    {
+      "startTime": 475,
+      "title": "Siste nytt",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05060826/96b8718a-6.smil/thumb.jpg?t=500&scale=480x270&v=high"
+    },
+    {
+      "startTime": 589,
+      "title": "Israel har angrepet mål i Iran",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05060826/96b8718a-6.smil/thumb.jpg?t=614&scale=480x270&v=high"
+    },
+    {
+      "startTime": 773,
+      "title": "VM og søvn",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05060826/96b8718a-6.smil/thumb.jpg?t=798&scale=480x270&v=high"
+    },
+    {
+      "startTime": 990,
+      "title": "Overskrifter 06:45",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05060826/96b8718a-6.smil/thumb.jpg?t=1016&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1031,
+      "title": "Ødegaard reddet Norge i treningskamp",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05060826/96b8718a-6.smil/thumb.jpg?t=1056&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1176,
+      "title": "Kommentator om Norge–Marokko",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05060826/96b8718a-6.smil/thumb.jpg?t=1202&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1420,
+      "title": "Utvida VM-skjenking",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05060826/96b8718a-6.smil/thumb.jpg?t=1446&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1607,
+      "title": "1100 år gammal isbjørnlabb",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05060826/96b8718a-6.smil/thumb.jpg?t=1633&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1771,
+      "title": "Teasing dagens sending",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05060826/96b8718a-6.smil/thumb.jpg?t=1797&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1774,
+      "title": "Mørch og VM",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05060826/96b8718a-6.smil/thumb.jpg?t=1800&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1806,
+      "title": "Åpning 07:00",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05060826/96b8718a-6.smil/thumb.jpg?t=1831&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1870,
+      "title": "Israel og Iran har angrepet hverandre",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05060826/96b8718a-6.smil/thumb.jpg?t=1896&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2113,
+      "title": "Fryktar at budsjettet gir høgare rente",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05060826/96b8718a-6.smil/thumb.jpg?t=2139&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2283,
+      "title": "Kommentator om budsjettenighet",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05060826/96b8718a-6.smil/thumb.jpg?t=2308&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2512,
+      "title": "Budsjettenighet i Politisk kvarter",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05060826/96b8718a-6.smil/thumb.jpg?t=2538&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2537,
+      "title": "Overskrifter 07:15",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05060826/96b8718a-6.smil/thumb.jpg?t=2562&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2577,
+      "title": "Å være pårørende",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05060826/96b8718a-6.smil/thumb.jpg?t=2602&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2892,
+      "title": "Grøne forventningar til Equinor-sjef",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05060826/96b8718a-6.smil/thumb.jpg?t=2918&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3128,
+      "title": "Equinor ny styreleder",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05060826/96b8718a-6.smil/thumb.jpg?t=3154&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3346,
+      "title": "Store protestar i Albania",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05060826/96b8718a-6.smil/thumb.jpg?t=3372&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3573,
+      "title": "Sportsdesken brenner",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05060826/96b8718a-6.smil/thumb.jpg?t=3598&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3600,
+      "title": "Overskrifter 07:30",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05060826/96b8718a-6.smil/thumb.jpg?t=3626&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3631,
+      "title": "Fryktar at budsjettet gir høgare rente",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05060826/96b8718a-6.smil/thumb.jpg?t=3657&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3752,
+      "title": "Kommentator om budsjettenighet",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05060826/96b8718a-6.smil/thumb.jpg?t=3778&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3843,
+      "title": "Israel har angrepet mål i Iran",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05060826/96b8718a-6.smil/thumb.jpg?t=3868&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3926,
+      "title": "Valg i Armenia",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05060826/96b8718a-6.smil/thumb.jpg?t=3952&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3952,
+      "title": "Flere døde etter jordskjelv",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05060826/96b8718a-6.smil/thumb.jpg?t=3978&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3975,
+      "title": "Utvida VM-skjenking",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05060826/96b8718a-6.smil/thumb.jpg?t=4000&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4058,
+      "title": "VM og søvn",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05060826/96b8718a-6.smil/thumb.jpg?t=4084&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5398,
+      "title": "NRK Nyheter 08:00",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05060826/96b8718a-6.smil/thumb.jpg?t=5424&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5580,
+      "title": "Åpning 08:03",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05060826/96b8718a-6.smil/thumb.jpg?t=5606&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5643,
+      "title": "Lars Nehru Sand om budsjettsemje",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05060826/96b8718a-6.smil/thumb.jpg?t=5668&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5884,
+      "title": "Israel har angrepet mål i Iran",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05060826/96b8718a-6.smil/thumb.jpg?t=5909&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6037,
+      "title": "Kinas Xi møter Jong-un i Nord-Korea",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05060826/96b8718a-6.smil/thumb.jpg?t=6062&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6282,
+      "title": "Fiskarar frykter for framtida",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05060826/96b8718a-6.smil/thumb.jpg?t=6308&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6410,
+      "title": "Overskrifter 08:15",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05060826/96b8718a-6.smil/thumb.jpg?t=6436&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6453,
+      "title": "Mandagspanelet",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05060826/96b8718a-6.smil/thumb.jpg?t=6478&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6934,
+      "title": "Charli XCX med nytt album",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05060826/96b8718a-6.smil/thumb.jpg?t=6960&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7142,
+      "title": "Kongebesøk Nordland",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05060826/96b8718a-6.smil/thumb.jpg?t=7168&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7321,
+      "title": "Overskrifter 08:30",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05060826/96b8718a-6.smil/thumb.jpg?t=7347&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7385,
+      "title": "Valg i Armenia",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05060826/96b8718a-6.smil/thumb.jpg?t=7411&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7602,
+      "title": "Grøne forventningar til Equinor-sjef",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05060826/96b8718a-6.smil/thumb.jpg?t=7627&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7713,
+      "title": "Ravndal om Høiby og varetekt",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05060826/96b8718a-6.smil/thumb.jpg?t=7739&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7926,
+      "title": "Utvida VM-skjenking",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05060826/96b8718a-6.smil/thumb.jpg?t=7951&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7999,
+      "title": "Oksehorn som supporteutstyr",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05060826/96b8718a-6.smil/thumb.jpg?t=8024&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8265,
+      "title": "DIR Før Ekko i NRK P2",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05060826/96b8718a-6.smil/thumb.jpg?t=8290&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8309,
+      "title": "Overskrifter 08:45",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05060826/96b8718a-6.smil/thumb.jpg?t=8335&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8401,
+      "title": "Økt pengebruk i budsjettavtalen",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05060826/96b8718a-6.smil/thumb.jpg?t=8426&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8558,
+      "title": "Anmeldelse av Tandberg-utstilling",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05060826/96b8718a-6.smil/thumb.jpg?t=8584&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8823,
+      "title": "Morgendagens sending",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05060826/96b8718a-6.smil/thumb.jpg?t=8848&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8884,
+      "title": "GJEST Været i dag",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05060826/96b8718a-6.smil/thumb.jpg?t=8909&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8996,
+      "title": "Avslutning",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05060826/96b8718a-6.smil/thumb.jpg?t=9004.32&scale=480x270&v=high"
+    }
+  ]
+}
