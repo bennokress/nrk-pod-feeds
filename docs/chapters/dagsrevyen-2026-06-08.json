@@ -1,0 +1,98 @@
+{
+  "version": "1.2.0",
+  "title": "Vil løslate Marius",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 11,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa19060826/a2dde434-17.smil/thumb.jpg?t=37&scale=480x270&v=high"
+    },
+    {
+      "startTime": 71,
+      "title": "Marius Borg Høiby",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa19060826/a2dde434-17.smil/thumb.jpg?t=96&scale=480x270&v=high"
+    },
+    {
+      "startTime": 190,
+      "title": "Direkte Stavanger",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa19060826/a2dde434-17.smil/thumb.jpg?t=215&scale=480x270&v=high"
+    },
+    {
+      "startTime": 274,
+      "title": "Kongeparet",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa19060826/a2dde434-17.smil/thumb.jpg?t=299&scale=480x270&v=high"
+    },
+    {
+      "startTime": 346,
+      "title": "Direkte Bodø",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa19060826/a2dde434-17.smil/thumb.jpg?t=371&scale=480x270&v=high"
+    },
+    {
+      "startTime": 456,
+      "title": "Midtøsten",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa19060826/a2dde434-17.smil/thumb.jpg?t=482&scale=480x270&v=high"
+    },
+    {
+      "startTime": 549,
+      "title": "Direkte Beirut",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa19060826/a2dde434-17.smil/thumb.jpg?t=575&scale=480x270&v=high"
+    },
+    {
+      "startTime": 650,
+      "title": "Stad skipstunnel",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa19060826/a2dde434-17.smil/thumb.jpg?t=675&scale=480x270&v=high"
+    },
+    {
+      "startTime": 798,
+      "title": "Gjest Aglen",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa19060826/a2dde434-17.smil/thumb.jpg?t=823&scale=480x270&v=high"
+    },
+    {
+      "startTime": 900,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa19060826/a2dde434-17.smil/thumb.jpg?t=925&scale=480x270&v=high"
+    },
+    {
+      "startTime": 969,
+      "title": "Utenriksnyheter",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa19060826/a2dde434-17.smil/thumb.jpg?t=995&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1078,
+      "title": "Oljefondet",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa19060826/a2dde434-17.smil/thumb.jpg?t=1103&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1197,
+      "title": "Skjenketider VM",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa19060826/a2dde434-17.smil/thumb.jpg?t=1223&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1358,
+      "title": "De nye gitarkameratene",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa19060826/a2dde434-17.smil/thumb.jpg?t=1383&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1814,
+      "title": "VM-fotball",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa19060826/a2dde434-17.smil/thumb.jpg?t=1840&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1857,
+      "title": "Direkte Nord-Carolina",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa19060826/a2dde434-17.smil/thumb.jpg?t=1882&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2455,
+      "title": "Direkte PK Nord-Carolina",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa19060826/a2dde434-17.smil/thumb.jpg?t=2481&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3036,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa19060826/a2dde434-17.smil/thumb.jpg?t=3061&scale=480x270&v=high"
+    }
+  ]
+}
