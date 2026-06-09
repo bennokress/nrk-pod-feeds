@@ -1,0 +1,63 @@
+{
+  "version": "1.2.0",
+  "title": "Fornøyd med avgjørelsen",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa21060826/801baff8-7.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 29,
+      "title": "Høiby",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa21060826/801baff8-7.smil/thumb.jpg?t=55&scale=480x270&v=high"
+    },
+    {
+      "startTime": 106,
+      "title": "Midtøsten",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa21060826/801baff8-7.smil/thumb.jpg?t=132&scale=480x270&v=high"
+    },
+    {
+      "startTime": 162,
+      "title": "DAGSREVYPAKKE",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa21060826/801baff8-7.smil/thumb.jpg?t=188&scale=480x270&v=high"
+    },
+    {
+      "startTime": 270,
+      "title": "Nettpromo",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa21060826/801baff8-7.smil/thumb.jpg?t=296&scale=480x270&v=high"
+    },
+    {
+      "startTime": 292,
+      "title": "Latvia og droner",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa21060826/801baff8-7.smil/thumb.jpg?t=317&scale=480x270&v=high"
+    },
+    {
+      "startTime": 373,
+      "title": "Heroin beslaglagt",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa21060826/801baff8-7.smil/thumb.jpg?t=399&scale=480x270&v=high"
+    },
+    {
+      "startTime": 405,
+      "title": "Frykter at folk ikke vil kjøpe jordbær",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa21060826/801baff8-7.smil/thumb.jpg?t=431&scale=480x270&v=high"
+    },
+    {
+      "startTime": 505,
+      "title": "Dronningen kunstutstilling",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa21060826/801baff8-7.smil/thumb.jpg?t=530&scale=480x270&v=high"
+    },
+    {
+      "startTime": 544,
+      "title": "Været",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa21060826/801baff8-7.smil/thumb.jpg?t=570&scale=480x270&v=high"
+    },
+    {
+      "startTime": 595,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa21060826/801baff8-7.smil/thumb.jpg?t=615.55&scale=480x270&v=high"
+    }
+  ]
+}
