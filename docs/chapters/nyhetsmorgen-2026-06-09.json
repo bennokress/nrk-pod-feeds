@@ -1,0 +1,253 @@
+{
+  "version": "1.2.0",
+  "title": "Nordmenn på kokain-toppen",
+  "author": "NRK",
+  "podcastName": "Nyhetsmorgen",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Åpning 06:30",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa05060926/1d81b915-7.smil/thumb.jpg?t=26&scale=480x270&v=high"
+    },
+    {
+      "startTime": 64,
+      "title": "Noreg på topp i kokainbruk",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa05060926/1d81b915-7.smil/thumb.jpg?t=90&scale=480x270&v=high"
+    },
+    {
+      "startTime": 283,
+      "title": "Kokainbruk i Norge - send inn spørsmål!",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa05060926/1d81b915-7.smil/thumb.jpg?t=308&scale=480x270&v=high"
+    },
+    {
+      "startTime": 687,
+      "title": "Siste nytt",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa05060926/1d81b915-7.smil/thumb.jpg?t=713&scale=480x270&v=high"
+    },
+    {
+      "startTime": 812,
+      "title": "Havvind: Flertall for ny gjennomgang",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa05060926/1d81b915-7.smil/thumb.jpg?t=838&scale=480x270&v=high"
+    },
+    {
+      "startTime": 993,
+      "title": "Overskrifter 06:45",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa05060926/1d81b915-7.smil/thumb.jpg?t=1019&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1026,
+      "title": "Nye regler i fotball-VM",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa05060926/1d81b915-7.smil/thumb.jpg?t=1052&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1173,
+      "title": "Netflix: Norges vei tilbake",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa05060926/1d81b915-7.smil/thumb.jpg?t=1199&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1503,
+      "title": "Flystreik avverget",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa05060926/1d81b915-7.smil/thumb.jpg?t=1529&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1672,
+      "title": "Barnehagelærerutdanning",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa05060926/1d81b915-7.smil/thumb.jpg?t=1698&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1772,
+      "title": "Mørch og VM",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa05060926/1d81b915-7.smil/thumb.jpg?t=1797&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1807,
+      "title": "Åpning 07:00",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa05060926/1d81b915-7.smil/thumb.jpg?t=1832&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1897,
+      "title": "Noreg på topp i kokainbruk",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa05060926/1d81b915-7.smil/thumb.jpg?t=1923&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2080,
+      "title": "Kokain i Norge - Erika Norwich advarer unge",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa05060926/1d81b915-7.smil/thumb.jpg?t=2105&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2358,
+      "title": "Kokain i Norge- send inn spørsmål",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa05060926/1d81b915-7.smil/thumb.jpg?t=2383&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2942,
+      "title": "Overskrifter 07:15",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa05060926/1d81b915-7.smil/thumb.jpg?t=2967&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2992,
+      "title": "Russland i drivstofftrøbbel",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa05060926/1d81b915-7.smil/thumb.jpg?t=3018&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3185,
+      "title": "Politisk kvarter- Omkamp Havvind",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa05060926/1d81b915-7.smil/thumb.jpg?t=3211&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3247,
+      "title": "Nye VM-låter",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa05060926/1d81b915-7.smil/thumb.jpg?t=3273&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3393,
+      "title": "Kjønnsbekreftande behandling",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa05060926/1d81b915-7.smil/thumb.jpg?t=3419&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3572,
+      "title": "Sportsdesken brenner (ny)",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa05060926/1d81b915-7.smil/thumb.jpg?t=3598&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3600,
+      "title": "Overskrifter 07:30",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa05060926/1d81b915-7.smil/thumb.jpg?t=3625&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3635,
+      "title": "Noreg på topp i kokainbruk",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa05060926/1d81b915-7.smil/thumb.jpg?t=3661&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3738,
+      "title": "Sier narkotika finansierer kriminalitet",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa05060926/1d81b915-7.smil/thumb.jpg?t=3764&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3779,
+      "title": "Influencer delte kokain-bruk",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa05060926/1d81b915-7.smil/thumb.jpg?t=3804&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3860,
+      "title": "Havvind: Flertall for ny gjennomgang",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa05060926/1d81b915-7.smil/thumb.jpg?t=3885&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3992,
+      "title": "Flystreik avverget",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa05060926/1d81b915-7.smil/thumb.jpg?t=4018&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4095,
+      "title": "Nye VM-låter",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa05060926/1d81b915-7.smil/thumb.jpg?t=4120&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4196,
+      "title": "Avslutning",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa05060926/1d81b915-7.smil/thumb.jpg?t=4222&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4199,
+      "title": "Åpning 07:40",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa05060926/1d81b915-7.smil/thumb.jpg?t=4225&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4220,
+      "title": "Får ikke slangeløs insulinpumpe",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa05060926/1d81b915-7.smil/thumb.jpg?t=4245&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4459,
+      "title": "Topper 07:44",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa05060926/1d81b915-7.smil/thumb.jpg?t=4485&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4483,
+      "title": "Overgang til Politisk kvarter",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa05060926/1d81b915-7.smil/thumb.jpg?t=4509&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5400,
+      "title": "NRK Nyheter 08:00",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa05060926/1d81b915-7.smil/thumb.jpg?t=5426&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5580,
+      "title": "Åpning 08:03",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa05060926/1d81b915-7.smil/thumb.jpg?t=5606&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5632,
+      "title": "Noreg på topp i kokainbruk",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa05060926/1d81b915-7.smil/thumb.jpg?t=5657&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5840,
+      "title": "Vil EU ta over Natos rolle?",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa05060926/1d81b915-7.smil/thumb.jpg?t=5866&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6099,
+      "title": "Nye regler i fotball-VM",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa05060926/1d81b915-7.smil/thumb.jpg?t=6124&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6225,
+      "title": "Overskrifter 08:15 HØYDEFORMAT",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa05060926/1d81b915-7.smil/thumb.jpg?t=6250&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6265,
+      "title": "Unge på topp i kokainbruk",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa05060926/1d81b915-7.smil/thumb.jpg?t=6291&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6441,
+      "title": "Hvordan kommer kokainet til Norge?",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa05060926/1d81b915-7.smil/thumb.jpg?t=6467&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7413,
+      "title": "Hvordan brukes kokain i Norge",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa05060926/1d81b915-7.smil/thumb.jpg?t=7438&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8116,
+      "title": "Overskrifter 08:45",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa05060926/1d81b915-7.smil/thumb.jpg?t=8141&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8157,
+      "title": "Rettssak mot nordmann i Gøteborg",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa05060926/1d81b915-7.smil/thumb.jpg?t=8182&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8313,
+      "title": "Havvind: Flertall for ny gjennomgang",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa05060926/1d81b915-7.smil/thumb.jpg?t=8339&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8494,
+      "title": "DIR Før Ekko i NRK P2",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa05060926/1d81b915-7.smil/thumb.jpg?t=8520&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8549,
+      "title": "Anmeldelse Romeo og Julie-ballett",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa05060926/1d81b915-7.smil/thumb.jpg?t=8575&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8906,
+      "title": "Været i dag",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa05060926/1d81b915-7.smil/thumb.jpg?t=8931&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8989,
+      "title": "Avslutning",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa05060926/1d81b915-7.smil/thumb.jpg?t=9003.28&scale=480x270&v=high"
+    }
+  ]
+}
