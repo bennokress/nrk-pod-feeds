@@ -1,0 +1,43 @@
+{
+  "version": "1.2.0",
+  "title": "Norge lover milliardsum til droner",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa21060926/4a558d6f-7.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 47,
+      "title": "Dronesamarbeid",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa21060926/4a558d6f-7.smil/thumb.jpg?t=72&scale=480x270&v=high"
+    },
+    {
+      "startTime": 125,
+      "title": "Belfast",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa21060926/4a558d6f-7.smil/thumb.jpg?t=150&scale=480x270&v=high"
+    },
+    {
+      "startTime": 147,
+      "title": "Direkte: London",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa21060926/4a558d6f-7.smil/thumb.jpg?t=173&scale=480x270&v=high"
+    },
+    {
+      "startTime": 276,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa21060926/4a558d6f-7.smil/thumb.jpg?t=301&scale=480x270&v=high"
+    },
+    {
+      "startTime": 369,
+      "title": "Vegsjef sparket",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa21060926/4a558d6f-7.smil/thumb.jpg?t=395&scale=480x270&v=high"
+    },
+    {
+      "startTime": 486,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa21060926/4a558d6f-7.smil/thumb.jpg?t=512&scale=480x270&v=high"
+    }
+  ]
+}
