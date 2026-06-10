@@ -1,0 +1,113 @@
+{
+  "version": "1.2.0",
+  "title": "Ventetid for abort",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 2,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa19060926/5dca0342-6.smil/thumb.jpg?t=28&scale=480x270&v=high"
+    },
+    {
+      "startTime": 66,
+      "title": "Abort",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa19060926/5dca0342-6.smil/thumb.jpg?t=91&scale=480x270&v=high"
+    },
+    {
+      "startTime": 306,
+      "title": "Gjest: Martine Aurdal",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa19060926/5dca0342-6.smil/thumb.jpg?t=332&scale=480x270&v=high"
+    },
+    {
+      "startTime": 456,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa19060926/5dca0342-6.smil/thumb.jpg?t=482&scale=480x270&v=high"
+    },
+    {
+      "startTime": 526,
+      "title": "Havvind",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa19060926/5dca0342-6.smil/thumb.jpg?t=552&scale=480x270&v=high"
+    },
+    {
+      "startTime": 708,
+      "title": "Gjest Lars Nehru Sand",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa19060926/5dca0342-6.smil/thumb.jpg?t=733&scale=480x270&v=high"
+    },
+    {
+      "startTime": 814,
+      "title": "Bellona",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa19060926/5dca0342-6.smil/thumb.jpg?t=840&scale=480x270&v=high"
+    },
+    {
+      "startTime": 904,
+      "title": "Direkte: Bodø",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa19060926/5dca0342-6.smil/thumb.jpg?t=929&scale=480x270&v=high"
+    },
+    {
+      "startTime": 977,
+      "title": "Kongeparet Nordland",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa19060926/5dca0342-6.smil/thumb.jpg?t=1002&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1089,
+      "title": "Kongelige på fotballkamp",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa19060926/5dca0342-6.smil/thumb.jpg?t=1115&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1108,
+      "title": "Dobbeltdrap rettsak",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa19060926/5dca0342-6.smil/thumb.jpg?t=1133&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1217,
+      "title": "Kokain",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa19060926/5dca0342-6.smil/thumb.jpg?t=1242&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1405,
+      "title": "Helikopter skutt ned",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa19060926/5dca0342-6.smil/thumb.jpg?t=1431&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1426,
+      "title": "Utenriksnyheter",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa19060926/5dca0342-6.smil/thumb.jpg?t=1451&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1552,
+      "title": "Gisele Pelicot",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa19060926/5dca0342-6.smil/thumb.jpg?t=1577&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1663,
+      "title": "Nord-Korea",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa19060926/5dca0342-6.smil/thumb.jpg?t=1688&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1825,
+      "title": "Gjest: Erika Fatland",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa19060926/5dca0342-6.smil/thumb.jpg?t=1851&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2054,
+      "title": "VM i USA",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa19060926/5dca0342-6.smil/thumb.jpg?t=2079&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2197,
+      "title": "Fotball",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa19060926/5dca0342-6.smil/thumb.jpg?t=2223&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2232,
+      "title": "Bislett Games",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa19060926/5dca0342-6.smil/thumb.jpg?t=2257&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2384,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa19060926/5dca0342-6.smil/thumb.jpg?t=2409&scale=480x270&v=high"
+    }
+  ]
+}

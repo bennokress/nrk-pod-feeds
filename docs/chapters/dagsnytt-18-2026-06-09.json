@@ -1,0 +1,68 @@
+{
+  "version": "1.2.0",
+  "title": "Oppgjør om havvind",
+  "author": "NRK",
+  "podcastName": "Dagsnytt 18",
+  "chapters": [
+    {
+      "startTime": 54,
+      "title": "Oppgjør om havvind",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa56060926/b9d5fa25-7.smil/thumb.jpg?t=80&scale=480x270&v=high"
+    },
+    {
+      "startTime": 913,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa56060926/b9d5fa25-7.smil/thumb.jpg?t=939&scale=480x270&v=high"
+    },
+    {
+      "startTime": 930,
+      "title": "Pengebruk i Forsvarsbygg",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa56060926/b9d5fa25-7.smil/thumb.jpg?t=955&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1438,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa56060926/b9d5fa25-7.smil/thumb.jpg?t=1464&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1451,
+      "title": "Riksrevisjonen om eldre",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa56060926/b9d5fa25-7.smil/thumb.jpg?t=1476&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2095,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa56060926/b9d5fa25-7.smil/thumb.jpg?t=2120&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2112,
+      "title": "Ny maktutredning",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa56060926/b9d5fa25-7.smil/thumb.jpg?t=2137&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2588,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa56060926/b9d5fa25-7.smil/thumb.jpg?t=2614&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2601,
+      "title": "Solceller og strømstøtte",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa56060926/b9d5fa25-7.smil/thumb.jpg?t=2627&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3020,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa56060926/b9d5fa25-7.smil/thumb.jpg?t=3046&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3034,
+      "title": "Bydelsreformen i Oslo",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa56060926/b9d5fa25-7.smil/thumb.jpg?t=3060&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3522,
+      "title": "AVSLUTNING",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa56060926/b9d5fa25-7.smil/thumb.jpg?t=3542.88&scale=480x270&v=high"
+    }
+  ]
+}
