@@ -1,0 +1,63 @@
+{
+  "version": "1.2.0",
+  "title": "Forsterker jakten på kokain",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Kveldsnytt",
+      "img": "https://nrk-od-world-23.akamaized.net/open/ps/nnfa/nnfa23060926/23a72995-7.smil/thumb.jpg?t=26&scale=480x270&v=high"
+    },
+    {
+      "startTime": 42,
+      "title": "Belfast",
+      "img": "https://nrk-od-world-23.akamaized.net/open/ps/nnfa/nnfa23060926/23a72995-7.smil/thumb.jpg?t=67&scale=480x270&v=high"
+    },
+    {
+      "startTime": 82,
+      "title": "Kokain Svinesund",
+      "img": "https://nrk-od-world-23.akamaized.net/open/ps/nnfa/nnfa23060926/23a72995-7.smil/thumb.jpg?t=108&scale=480x270&v=high"
+    },
+    {
+      "startTime": 201,
+      "title": "Russland",
+      "img": "https://nrk-od-world-23.akamaized.net/open/ps/nnfa/nnfa23060926/23a72995-7.smil/thumb.jpg?t=227&scale=480x270&v=high"
+    },
+    {
+      "startTime": 227,
+      "title": "Blinken i Stavanger",
+      "img": "https://nrk-od-world-23.akamaized.net/open/ps/nnfa/nnfa23060926/23a72995-7.smil/thumb.jpg?t=253&scale=480x270&v=high"
+    },
+    {
+      "startTime": 344,
+      "title": "Ubåtøvelse",
+      "img": "https://nrk-od-world-23.akamaized.net/open/ps/nnfa/nnfa23060926/23a72995-7.smil/thumb.jpg?t=369&scale=480x270&v=high"
+    },
+    {
+      "startTime": 416,
+      "title": "Paven i Spania",
+      "img": "https://nrk-od-world-23.akamaized.net/open/ps/nnfa/nnfa23060926/23a72995-7.smil/thumb.jpg?t=441&scale=480x270&v=high"
+    },
+    {
+      "startTime": 446,
+      "title": "Artemis",
+      "img": "https://nrk-od-world-23.akamaized.net/open/ps/nnfa/nnfa23060926/23a72995-7.smil/thumb.jpg?t=472&scale=480x270&v=high"
+    },
+    {
+      "startTime": 482,
+      "title": "Fotball",
+      "img": "https://nrk-od-world-23.akamaized.net/open/ps/nnfa/nnfa23060926/23a72995-7.smil/thumb.jpg?t=508&scale=480x270&v=high"
+    },
+    {
+      "startTime": 563,
+      "title": "Fotballfeber USA",
+      "img": "https://nrk-od-world-23.akamaized.net/open/ps/nnfa/nnfa23060926/23a72995-7.smil/thumb.jpg?t=589&scale=480x270&v=high"
+    },
+    {
+      "startTime": 650,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-23.akamaized.net/open/ps/nnfa/nnfa23060926/23a72995-7.smil/thumb.jpg?t=676&scale=480x270&v=high"
+    }
+  ]
+}
