@@ -1,0 +1,63 @@
+{
+  "version": "1.2.0",
+  "title": "Vitnet om Epstein",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 1,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa21061026/ed7d1ea7-7.smil/thumb.jpg?t=26&scale=480x270&v=high"
+    },
+    {
+      "startTime": 29,
+      "title": "Epstein-høring",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa21061026/ed7d1ea7-7.smil/thumb.jpg?t=54&scale=480x270&v=high"
+    },
+    {
+      "startTime": 76,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa21061026/ed7d1ea7-7.smil/thumb.jpg?t=101&scale=480x270&v=high"
+    },
+    {
+      "startTime": 196,
+      "title": "Høiby blir likevel ikke løslatt",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa21061026/ed7d1ea7-7.smil/thumb.jpg?t=221&scale=480x270&v=high"
+    },
+    {
+      "startTime": 308,
+      "title": "Voldshendelse Oslo",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa21061026/ed7d1ea7-7.smil/thumb.jpg?t=334&scale=480x270&v=high"
+    },
+    {
+      "startTime": 324,
+      "title": "STK-PAKKE",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa21061026/ed7d1ea7-7.smil/thumb.jpg?t=350&scale=480x270&v=high"
+    },
+    {
+      "startTime": 415,
+      "title": "Nettpromo",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa21061026/ed7d1ea7-7.smil/thumb.jpg?t=440&scale=480x270&v=high"
+    },
+    {
+      "startTime": 431,
+      "title": "Bislett Games",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa21061026/ed7d1ea7-7.smil/thumb.jpg?t=457&scale=480x270&v=high"
+    },
+    {
+      "startTime": 477,
+      "title": "Fotball-VM",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa21061026/ed7d1ea7-7.smil/thumb.jpg?t=502&scale=480x270&v=high"
+    },
+    {
+      "startTime": 540,
+      "title": "Været",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa21061026/ed7d1ea7-7.smil/thumb.jpg?t=565&scale=480x270&v=high"
+    },
+    {
+      "startTime": 595,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa21061026/ed7d1ea7-7.smil/thumb.jpg?t=615.6&scale=480x270&v=high"
+    }
+  ]
+}
