@@ -1,0 +1,78 @@
+{
+  "version": "1.2.0",
+  "title": "Klart for VM-fest",
+  "author": "NRK",
+  "podcastName": "Dagsnytt 18",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsnytt atten",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa56061126/eee86b50-6.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 71,
+      "title": "Sunn fornuft-alliansen",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa56061126/eee86b50-6.smil/thumb.jpg?t=97&scale=480x270&v=high"
+    },
+    {
+      "startTime": 887,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa56061126/eee86b50-6.smil/thumb.jpg?t=912&scale=480x270&v=high"
+    },
+    {
+      "startTime": 900,
+      "title": "Juniorer i næringslivet",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa56061126/eee86b50-6.smil/thumb.jpg?t=926&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1493,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa56061126/eee86b50-6.smil/thumb.jpg?t=1518&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1507,
+      "title": "Oljeutvinning i Arktis",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa56061126/eee86b50-6.smil/thumb.jpg?t=1533&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1918,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa56061126/eee86b50-6.smil/thumb.jpg?t=1944&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1932,
+      "title": "Madonna provoserer",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa56061126/eee86b50-6.smil/thumb.jpg?t=1957&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2367,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa56061126/eee86b50-6.smil/thumb.jpg?t=2393&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2381,
+      "title": "PST-oppvask i Stortinget",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa56061126/eee86b50-6.smil/thumb.jpg?t=2406&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3143,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa56061126/eee86b50-6.smil/thumb.jpg?t=3168&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3158,
+      "title": "Fotball-VM starter",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa56061126/eee86b50-6.smil/thumb.jpg?t=3183&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3532,
+      "title": "AVSLUTNING",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa56061126/eee86b50-6.smil/thumb.jpg?t=3543.84&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3535,
+      "title": "SLUTTKJENNING",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa56061126/eee86b50-6.smil/thumb.jpg?t=3543.84&scale=480x270&v=high"
+    }
+  ]
+}
