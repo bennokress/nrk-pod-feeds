@@ -1,0 +1,118 @@
+{
+  "version": "1.2.0",
+  "title": "Varsler nye angrep",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 10,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa19061126/da753bee-7.smil/thumb.jpg?t=35&scale=480x270&v=high"
+    },
+    {
+      "startTime": 78,
+      "title": "Mexico",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa19061126/da753bee-7.smil/thumb.jpg?t=103&scale=480x270&v=high"
+    },
+    {
+      "startTime": 125,
+      "title": "VM starter",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa19061126/da753bee-7.smil/thumb.jpg?t=151&scale=480x270&v=high"
+    },
+    {
+      "startTime": 229,
+      "title": "Direkte USA",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa19061126/da753bee-7.smil/thumb.jpg?t=255&scale=480x270&v=high"
+    },
+    {
+      "startTime": 369,
+      "title": "Snart rentemøte",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa19061126/da753bee-7.smil/thumb.jpg?t=394&scale=480x270&v=high"
+    },
+    {
+      "startTime": 482,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa19061126/da753bee-7.smil/thumb.jpg?t=507&scale=480x270&v=high"
+    },
+    {
+      "startTime": 546,
+      "title": "Kronprinsparet",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa19061126/da753bee-7.smil/thumb.jpg?t=572&scale=480x270&v=high"
+    },
+    {
+      "startTime": 665,
+      "title": "Organdonasjon",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa19061126/da753bee-7.smil/thumb.jpg?t=690&scale=480x270&v=high"
+    },
+    {
+      "startTime": 796,
+      "title": "KrFs drømmeallianse",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa19061126/da753bee-7.smil/thumb.jpg?t=822&scale=480x270&v=high"
+    },
+    {
+      "startTime": 919,
+      "title": "Gjest: Lars Nehru",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa19061126/da753bee-7.smil/thumb.jpg?t=945&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1006,
+      "title": "Elg skutt i Oslo",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa19061126/da753bee-7.smil/thumb.jpg?t=1032&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1067,
+      "title": "Ukjent Nav-hjelp",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa19061126/da753bee-7.smil/thumb.jpg?t=1092&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1187,
+      "title": "Støre i Brüssel",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa19061126/da753bee-7.smil/thumb.jpg?t=1213&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1303,
+      "title": "Direkte: Brussel",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa19061126/da753bee-7.smil/thumb.jpg?t=1329&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1401,
+      "title": "Utenriksnyheter",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa19061126/da753bee-7.smil/thumb.jpg?t=1427&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1533,
+      "title": "22. juli",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa19061126/da753bee-7.smil/thumb.jpg?t=1558&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1657,
+      "title": "Gjest: Saltvedt",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa19061126/da753bee-7.smil/thumb.jpg?t=1683&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2044,
+      "title": "Gresvik Ultras",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa19061126/da753bee-7.smil/thumb.jpg?t=2069&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2160,
+      "title": "Norge VM-vær",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa19061126/da753bee-7.smil/thumb.jpg?t=2185&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2244,
+      "title": "Direkte Greensboro",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa19061126/da753bee-7.smil/thumb.jpg?t=2270&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2353,
+      "title": "FIS-president kastes",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa19061126/da753bee-7.smil/thumb.jpg?t=2379&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2439,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa19061126/da753bee-7.smil/thumb.jpg?t=2465&scale=480x270&v=high"
+    }
+  ]
+}
