@@ -1,0 +1,278 @@
+{
+  "version": "1.2.0",
+  "title": "VM i fotball starter",
+  "author": "NRK",
+  "podcastName": "Nyhetsmorgen",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Åpning 06:30",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa05061126/cb4b3cba-13.smil/thumb.jpg?t=26&scale=480x270&v=high"
+    },
+    {
+      "startTime": 70,
+      "title": "Trekker seg fra Spleis",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa05061126/cb4b3cba-13.smil/thumb.jpg?t=96&scale=480x270&v=high"
+    },
+    {
+      "startTime": 131,
+      "title": "Meiner BSU-ordninga er utgått på dato",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa05061126/cb4b3cba-13.smil/thumb.jpg?t=156&scale=480x270&v=high"
+    },
+    {
+      "startTime": 258,
+      "title": "Siste nytt",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa05061126/cb4b3cba-13.smil/thumb.jpg?t=284&scale=480x270&v=high"
+    },
+    {
+      "startTime": 374,
+      "title": "Åpen trening og skadefritt Norge",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa05061126/cb4b3cba-13.smil/thumb.jpg?t=399&scale=480x270&v=high"
+    },
+    {
+      "startTime": 557,
+      "title": "Fotball-VM spådom",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa05061126/cb4b3cba-13.smil/thumb.jpg?t=582&scale=480x270&v=high"
+    },
+    {
+      "startTime": 723,
+      "title": "Opptøyene i Belfast fortsetter",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa05061126/cb4b3cba-13.smil/thumb.jpg?t=748&scale=480x270&v=high"
+    },
+    {
+      "startTime": 939,
+      "title": "Russlands krigsøkonomi går for fullt",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa05061126/cb4b3cba-13.smil/thumb.jpg?t=965&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1074,
+      "title": "Overgang barne- til ungdomsskole",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa05061126/cb4b3cba-13.smil/thumb.jpg?t=1099&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1293,
+      "title": "GJEST: Nytt Zelda-spill",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa05061126/cb4b3cba-13.smil/thumb.jpg?t=1318&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1439,
+      "title": "Teater om 22. juli",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa05061126/cb4b3cba-13.smil/thumb.jpg?t=1464&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1681,
+      "title": "Væpna aksjon i Skien",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa05061126/cb4b3cba-13.smil/thumb.jpg?t=1707&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1768,
+      "title": "Mørch og VM",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa05061126/cb4b3cba-13.smil/thumb.jpg?t=1793&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1800,
+      "title": "Åpning 07:00",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa05061126/cb4b3cba-13.smil/thumb.jpg?t=1826&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1883,
+      "title": "Hva vi snakker om når vi snakker om VM",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa05061126/cb4b3cba-13.smil/thumb.jpg?t=1909&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2064,
+      "title": "Gleder seg til VM",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa05061126/cb4b3cba-13.smil/thumb.jpg?t=2089&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2131,
+      "title": "Fotball-VM starter",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa05061126/cb4b3cba-13.smil/thumb.jpg?t=2156&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2604,
+      "title": "Trekker seg fra Spleis",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa05061126/cb4b3cba-13.smil/thumb.jpg?t=2630&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2815,
+      "title": "Nye angrep fra USA og Iran",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa05061126/cb4b3cba-13.smil/thumb.jpg?t=2840&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3031,
+      "title": "KrF lanserer ny allianse",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa05061126/cb4b3cba-13.smil/thumb.jpg?t=3057&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3117,
+      "title": "Norge, EU og Arktis",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa05061126/cb4b3cba-13.smil/thumb.jpg?t=3143&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3295,
+      "title": "Overgrepsmottaket får flere pasienter",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa05061126/cb4b3cba-13.smil/thumb.jpg?t=3320&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3571,
+      "title": "Historier fra virkeligheten",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa05061126/cb4b3cba-13.smil/thumb.jpg?t=3596&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3602,
+      "title": "Overskrifter 07:30",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa05061126/cb4b3cba-13.smil/thumb.jpg?t=3627&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3647,
+      "title": "Norge med åpen trening i natt",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa05061126/cb4b3cba-13.smil/thumb.jpg?t=3672&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3761,
+      "title": "Jan Petter Saltvedt om fotball-VM",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa05061126/cb4b3cba-13.smil/thumb.jpg?t=3787&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3854,
+      "title": "Trekker seg fra Spleis",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa05061126/cb4b3cba-13.smil/thumb.jpg?t=3880&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3969,
+      "title": "KrF vil ha sunn fornuft-allianse",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa05061126/cb4b3cba-13.smil/thumb.jpg?t=3994&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4067,
+      "title": "Teater om 22. juli",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa05061126/cb4b3cba-13.smil/thumb.jpg?t=4093&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4200,
+      "title": "Åpning 07:40",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa05061126/cb4b3cba-13.smil/thumb.jpg?t=4225&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4217,
+      "title": "Leder av Oljeberget før VM",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa05061126/cb4b3cba-13.smil/thumb.jpg?t=4242&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5400,
+      "title": "NRK Nyheter 08:00",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa05061126/cb4b3cba-13.smil/thumb.jpg?t=5426&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5580,
+      "title": "Åpning 08:03",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa05061126/cb4b3cba-13.smil/thumb.jpg?t=5605&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5648,
+      "title": "Norge med åpen trening i natt",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa05061126/cb4b3cba-13.smil/thumb.jpg?t=5673&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5825,
+      "title": "Forholdene i Mexico før VM",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa05061126/cb4b3cba-13.smil/thumb.jpg?t=5850&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6139,
+      "title": "Nye angrep fra USA og Iran",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa05061126/cb4b3cba-13.smil/thumb.jpg?t=6164&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6378,
+      "title": "Protester i Albania",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa05061126/cb4b3cba-13.smil/thumb.jpg?t=6403&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6586,
+      "title": "LO trekker seg fra styret i Spleis",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa05061126/cb4b3cba-13.smil/thumb.jpg?t=6612&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6707,
+      "title": "Teaterstykke om 22. juli",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa05061126/cb4b3cba-13.smil/thumb.jpg?t=6733&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6945,
+      "title": "Psykolog om Ubesvart anrop",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa05061126/cb4b3cba-13.smil/thumb.jpg?t=6970&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7199,
+      "title": "Overskrifter 08.30",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa05061126/cb4b3cba-13.smil/thumb.jpg?t=7225&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7264,
+      "title": "Meiner BSU-ordninga er utgått på dato",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa05061126/cb4b3cba-13.smil/thumb.jpg?t=7290&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7407,
+      "title": "Hva vi snakker om når vi snakker om VM",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa05061126/cb4b3cba-13.smil/thumb.jpg?t=7432&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7527,
+      "title": "Ambassadøren i Sør-Afrika om fotball-VM",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa05061126/cb4b3cba-13.smil/thumb.jpg?t=7552&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7760,
+      "title": "Elg på Majorstuen",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa05061126/cb4b3cba-13.smil/thumb.jpg?t=7785&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7815,
+      "title": "DIR Før Ekko i NRK P2",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa05061126/cb4b3cba-13.smil/thumb.jpg?t=7840&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7852,
+      "title": "KrFs sunne fornuft-allianse",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa05061126/cb4b3cba-13.smil/thumb.jpg?t=7878&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7991,
+      "title": "Snakker ut om Frosta-saka",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa05061126/cb4b3cba-13.smil/thumb.jpg?t=8016&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8226,
+      "title": "Rettssak i London",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa05061126/cb4b3cba-13.smil/thumb.jpg?t=8252&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8508,
+      "title": "Russlands krigsøkonomi går for fullt",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa05061126/cb4b3cba-13.smil/thumb.jpg?t=8533&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8647,
+      "title": "Gleder seg til VM",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa05061126/cb4b3cba-13.smil/thumb.jpg?t=8672&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8819,
+      "title": "Elg i morgenrushet i Oslo",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa05061126/cb4b3cba-13.smil/thumb.jpg?t=8844&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8891,
+      "title": "Været i dag",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa05061126/cb4b3cba-13.smil/thumb.jpg?t=8917&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8985,
+      "title": "Avslutning",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa05061126/cb4b3cba-13.smil/thumb.jpg?t=9004.4&scale=480x270&v=high"
+    }
+  ]
+}
