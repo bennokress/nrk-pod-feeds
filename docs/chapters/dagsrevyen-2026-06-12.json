@@ -1,0 +1,93 @@
+{
+  "version": "1.2.0",
+  "title": "Verdens første billionær",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 9,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa19061226/cbdcca55-6.smil/thumb.jpg?t=34&scale=480x270&v=high"
+    },
+    {
+      "startTime": 57,
+      "title": "Nær våpenhvile",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa19061226/cbdcca55-6.smil/thumb.jpg?t=82&scale=480x270&v=high"
+    },
+    {
+      "startTime": 80,
+      "title": "Gjest: Sigurd F. Mikkelsen",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa19061226/cbdcca55-6.smil/thumb.jpg?t=105&scale=480x270&v=high"
+    },
+    {
+      "startTime": 201,
+      "title": "Børsnotering SpaceX",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa19061226/cbdcca55-6.smil/thumb.jpg?t=226&scale=480x270&v=high"
+    },
+    {
+      "startTime": 364,
+      "title": "Gjest: Sindre Heyerdahl",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa19061226/cbdcca55-6.smil/thumb.jpg?t=390&scale=480x270&v=high"
+    },
+    {
+      "startTime": 487,
+      "title": "Helsepersonellplan",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa19061226/cbdcca55-6.smil/thumb.jpg?t=512&scale=480x270&v=high"
+    },
+    {
+      "startTime": 609,
+      "title": "Direkte: Tirana",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa19061226/cbdcca55-6.smil/thumb.jpg?t=634&scale=480x270&v=high"
+    },
+    {
+      "startTime": 655,
+      "title": "Asylsøkere EU",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa19061226/cbdcca55-6.smil/thumb.jpg?t=680&scale=480x270&v=high"
+    },
+    {
+      "startTime": 821,
+      "title": "Wangen-saken",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa19061226/cbdcca55-6.smil/thumb.jpg?t=847&scale=480x270&v=high"
+    },
+    {
+      "startTime": 890,
+      "title": "Egg på frys",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa19061226/cbdcca55-6.smil/thumb.jpg?t=916&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1012,
+      "title": "Landslagsdrakter",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa19061226/cbdcca55-6.smil/thumb.jpg?t=1038&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1078,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa19061226/cbdcca55-6.smil/thumb.jpg?t=1103&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1084,
+      "title": "Haaland på hockeykamp",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa19061226/cbdcca55-6.smil/thumb.jpg?t=1110&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1154,
+      "title": "Sør-Korea slo Tsjekkia",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa19061226/cbdcca55-6.smil/thumb.jpg?t=1179&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1207,
+      "title": "Mange tommer seter",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa19061226/cbdcca55-6.smil/thumb.jpg?t=1233&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1229,
+      "title": "Direkte VM-studio",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa19061226/cbdcca55-6.smil/thumb.jpg?t=1254&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1287,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa19061226/cbdcca55-6.smil/thumb.jpg?t=1312&scale=480x270&v=high"
+    }
+  ]
+}
