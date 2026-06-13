@@ -1,0 +1,98 @@
+{
+  "version": "1.2.0",
+  "title": "Børsrakett",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa23061226/9862447f-7.smil/thumb.jpg?t=26&scale=480x270&v=high"
+    },
+    {
+      "startTime": 32,
+      "title": "SpaceX",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa23061226/9862447f-7.smil/thumb.jpg?t=57&scale=480x270&v=high"
+    },
+    {
+      "startTime": 51,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa23061226/9862447f-7.smil/thumb.jpg?t=76&scale=480x270&v=high"
+    },
+    {
+      "startTime": 198,
+      "title": "Nær våpenhvile",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa23061226/9862447f-7.smil/thumb.jpg?t=223&scale=480x270&v=high"
+    },
+    {
+      "startTime": 230,
+      "title": "Lærdal",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa23061226/9862447f-7.smil/thumb.jpg?t=256&scale=480x270&v=high"
+    },
+    {
+      "startTime": 250,
+      "title": "Kassembo",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa23061226/9862447f-7.smil/thumb.jpg?t=275&scale=480x270&v=high"
+    },
+    {
+      "startTime": 280,
+      "title": "Protester Albania",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa23061226/9862447f-7.smil/thumb.jpg?t=306&scale=480x270&v=high"
+    },
+    {
+      "startTime": 312,
+      "title": "Utenriksnyheter",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa23061226/9862447f-7.smil/thumb.jpg?t=337&scale=480x270&v=high"
+    },
+    {
+      "startTime": 414,
+      "title": "Kennedysenteret",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa23061226/9862447f-7.smil/thumb.jpg?t=440&scale=480x270&v=high"
+    },
+    {
+      "startTime": 447,
+      "title": "Viser sin støtte med eget Prideflagg",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa23061226/9862447f-7.smil/thumb.jpg?t=473&scale=480x270&v=high"
+    },
+    {
+      "startTime": 532,
+      "title": "Dronning Sonja",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa23061226/9862447f-7.smil/thumb.jpg?t=558&scale=480x270&v=high"
+    },
+    {
+      "startTime": 554,
+      "title": "Hockney",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa23061226/9862447f-7.smil/thumb.jpg?t=579&scale=480x270&v=high"
+    },
+    {
+      "startTime": 586,
+      "title": "Canada - Bosnia-Hercegovina",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa23061226/9862447f-7.smil/thumb.jpg?t=612&scale=480x270&v=high"
+    },
+    {
+      "startTime": 665,
+      "title": "Norge med armbånd",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa23061226/9862447f-7.smil/thumb.jpg?t=691&scale=480x270&v=high"
+    },
+    {
+      "startTime": 741,
+      "title": "Reitan skuffet i Canadian Open",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa23061226/9862447f-7.smil/thumb.jpg?t=767&scale=480x270&v=high"
+    },
+    {
+      "startTime": 802,
+      "title": "Tapte VM-finalen i thaiboksing",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa23061226/9862447f-7.smil/thumb.jpg?t=828&scale=480x270&v=high"
+    },
+    {
+      "startTime": 888,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa23061226/9862447f-7.smil/thumb.jpg?t=913&scale=480x270&v=high"
+    },
+    {
+      "startTime": 956,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa23061226/9862447f-7.smil/thumb.jpg?t=982&scale=480x270&v=high"
+    }
+  ]
+}
