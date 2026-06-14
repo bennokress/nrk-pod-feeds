@@ -1,0 +1,68 @@
+{
+  "version": "1.2.0",
+  "title": "G7-demonstrasjoner ute av kontroll",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa23061426/6beb4ba9-8.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 39,
+      "title": "G7-protester",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa23061426/6beb4ba9-8.smil/thumb.jpg?t=64&scale=480x270&v=high"
+    },
+    {
+      "startTime": 148,
+      "title": "Flystyrt USA",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa23061426/6beb4ba9-8.smil/thumb.jpg?t=174&scale=480x270&v=high"
+    },
+    {
+      "startTime": 196,
+      "title": "Minnemarkering",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa23061426/6beb4ba9-8.smil/thumb.jpg?t=222&scale=480x270&v=high"
+    },
+    {
+      "startTime": 226,
+      "title": "Heddaprisen",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa23061426/6beb4ba9-8.smil/thumb.jpg?t=251&scale=480x270&v=high"
+    },
+    {
+      "startTime": 322,
+      "title": "Solbakken om presset",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa23061426/6beb4ba9-8.smil/thumb.jpg?t=347&scale=480x270&v=high"
+    },
+    {
+      "startTime": 382,
+      "title": "Tyskland utklasset Curaçao",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa23061426/6beb4ba9-8.smil/thumb.jpg?t=408&scale=480x270&v=high"
+    },
+    {
+      "startTime": 472,
+      "title": "Nederland-Japan til nå",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa23061426/6beb4ba9-8.smil/thumb.jpg?t=498&scale=480x270&v=high"
+    },
+    {
+      "startTime": 512,
+      "title": "VIktor Hovland med topplassering i Canadian Open",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa23061426/6beb4ba9-8.smil/thumb.jpg?t=537&scale=480x270&v=high"
+    },
+    {
+      "startTime": 607,
+      "title": "Grøndahl-tap i Mesterliga-finalen",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa23061426/6beb4ba9-8.smil/thumb.jpg?t=633&scale=480x270&v=high"
+    },
+    {
+      "startTime": 632,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa23061426/6beb4ba9-8.smil/thumb.jpg?t=658&scale=480x270&v=high"
+    },
+    {
+      "startTime": 694,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa23061426/6beb4ba9-8.smil/thumb.jpg?t=720&scale=480x270&v=high"
+    }
+  ]
+}
