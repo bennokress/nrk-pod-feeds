@@ -1,0 +1,113 @@
+{
+  "version": "1.2.0",
+  "title": "Trafikkaos rundt Oslo",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 10,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-95.akamaized.net/open/ps/nnfa/nnfa19061326/b7a45f62-6.smil/thumb.jpg?t=36&scale=480x270&v=high"
+    },
+    {
+      "startTime": 73,
+      "title": "Veteranmarkering",
+      "img": "https://nrk-od-world-95.akamaized.net/open/ps/nnfa/nnfa19061326/b7a45f62-6.smil/thumb.jpg?t=99&scale=480x270&v=high"
+    },
+    {
+      "startTime": 207,
+      "title": "Pride i skolen",
+      "img": "https://nrk-od-world-95.akamaized.net/open/ps/nnfa/nnfa19061326/b7a45f62-6.smil/thumb.jpg?t=233&scale=480x270&v=high"
+    },
+    {
+      "startTime": 349,
+      "title": "Folkeliv i Oslo",
+      "img": "https://nrk-od-world-95.akamaized.net/open/ps/nnfa/nnfa19061326/b7a45f62-6.smil/thumb.jpg?t=374&scale=480x270&v=high"
+    },
+    {
+      "startTime": 452,
+      "title": "Direkte: Rådhusplassen",
+      "img": "https://nrk-od-world-95.akamaized.net/open/ps/nnfa/nnfa19061326/b7a45f62-6.smil/thumb.jpg?t=478&scale=480x270&v=high"
+    },
+    {
+      "startTime": 543,
+      "title": "Verdenspakke",
+      "img": "https://nrk-od-world-95.akamaized.net/open/ps/nnfa/nnfa19061326/b7a45f62-6.smil/thumb.jpg?t=569&scale=480x270&v=high"
+    },
+    {
+      "startTime": 661,
+      "title": "Direkte: Washington",
+      "img": "https://nrk-od-world-95.akamaized.net/open/ps/nnfa/nnfa19061326/b7a45f62-6.smil/thumb.jpg?t=686&scale=480x270&v=high"
+    },
+    {
+      "startTime": 798,
+      "title": "Båtvelt Valdres",
+      "img": "https://nrk-od-world-95.akamaized.net/open/ps/nnfa/nnfa19061326/b7a45f62-6.smil/thumb.jpg?t=824&scale=480x270&v=high"
+    },
+    {
+      "startTime": 824,
+      "title": "Kongelig gullbryllup",
+      "img": "https://nrk-od-world-95.akamaized.net/open/ps/nnfa/nnfa19061326/b7a45f62-6.smil/thumb.jpg?t=849&scale=480x270&v=high"
+    },
+    {
+      "startTime": 898,
+      "title": "Direkte: Stockholm",
+      "img": "https://nrk-od-world-95.akamaized.net/open/ps/nnfa/nnfa19061326/b7a45f62-6.smil/thumb.jpg?t=924&scale=480x270&v=high"
+    },
+    {
+      "startTime": 998,
+      "title": "Kong Charles",
+      "img": "https://nrk-od-world-95.akamaized.net/open/ps/nnfa/nnfa19061326/b7a45f62-6.smil/thumb.jpg?t=1024&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1077,
+      "title": "Beredskapstroppen",
+      "img": "https://nrk-od-world-95.akamaized.net/open/ps/nnfa/nnfa19061326/b7a45f62-6.smil/thumb.jpg?t=1103&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1557,
+      "title": "En bit av deg",
+      "img": "https://nrk-od-world-95.akamaized.net/open/ps/nnfa/nnfa19061326/b7a45f62-6.smil/thumb.jpg?t=1582&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1900,
+      "title": "Portrett: Unni Hanson",
+      "img": "https://nrk-od-world-95.akamaized.net/open/ps/nnfa/nnfa19061326/b7a45f62-6.smil/thumb.jpg?t=1925&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2079,
+      "title": "Fotball-VM",
+      "img": "https://nrk-od-world-95.akamaized.net/open/ps/nnfa/nnfa19061326/b7a45f62-6.smil/thumb.jpg?t=2105&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2159,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-95.akamaized.net/open/ps/nnfa/nnfa19061326/b7a45f62-6.smil/thumb.jpg?t=2185&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2171,
+      "title": "Norge tilbake på trening",
+      "img": "https://nrk-od-world-95.akamaized.net/open/ps/nnfa/nnfa19061326/b7a45f62-6.smil/thumb.jpg?t=2196&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2195,
+      "title": "Direkte Greensboro",
+      "img": "https://nrk-od-world-95.akamaized.net/open/ps/nnfa/nnfa19061326/b7a45f62-6.smil/thumb.jpg?t=2220&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2326,
+      "title": "Norge om press",
+      "img": "https://nrk-od-world-95.akamaized.net/open/ps/nnfa/nnfa19061326/b7a45f62-6.smil/thumb.jpg?t=2351&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2392,
+      "title": "USA med storseieer",
+      "img": "https://nrk-od-world-95.akamaized.net/open/ps/nnfa/nnfa19061326/b7a45f62-6.smil/thumb.jpg?t=2418&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2474,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-95.akamaized.net/open/ps/nnfa/nnfa19061326/b7a45f62-6.smil/thumb.jpg?t=2500&scale=480x270&v=high"
+    }
+  ]
+}
