@@ -1,0 +1,73 @@
+{
+  "version": "1.2.0",
+  "title": "Demo mot rasisme",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa23061326/dfc4c433-7.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 37,
+      "title": "Demonstrasjoner Belfast",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa23061326/dfc4c433-7.smil/thumb.jpg?t=63&scale=480x270&v=high"
+    },
+    {
+      "startTime": 138,
+      "title": "Trump fredsavtale",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa23061326/dfc4c433-7.smil/thumb.jpg?t=163&scale=480x270&v=high"
+    },
+    {
+      "startTime": 174,
+      "title": "Ulykke Aure",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa23061326/dfc4c433-7.smil/thumb.jpg?t=199&scale=480x270&v=high"
+    },
+    {
+      "startTime": 193,
+      "title": "Køkaos Oslo",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa23061326/dfc4c433-7.smil/thumb.jpg?t=219&scale=480x270&v=high"
+    },
+    {
+      "startTime": 213,
+      "title": "VG-lista",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa23061326/dfc4c433-7.smil/thumb.jpg?t=239&scale=480x270&v=high"
+    },
+    {
+      "startTime": 302,
+      "title": "Qatar-Sveits",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa23061326/dfc4c433-7.smil/thumb.jpg?t=328&scale=480x270&v=high"
+    },
+    {
+      "startTime": 358,
+      "title": "Neymar ikke klar",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa23061326/dfc4c433-7.smil/thumb.jpg?t=383&scale=480x270&v=high"
+    },
+    {
+      "startTime": 401,
+      "title": "Solbakken skjermes",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa23061326/dfc4c433-7.smil/thumb.jpg?t=427&scale=480x270&v=high"
+    },
+    {
+      "startTime": 481,
+      "title": "Canadian Open - Hovland i tetstriden",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa23061326/dfc4c433-7.smil/thumb.jpg?t=506&scale=480x270&v=high"
+    },
+    {
+      "startTime": 550,
+      "title": "Pridemarkering før Vålerenga slo Brann",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa23061326/dfc4c433-7.smil/thumb.jpg?t=575&scale=480x270&v=high"
+    },
+    {
+      "startTime": 593,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa23061326/dfc4c433-7.smil/thumb.jpg?t=618&scale=480x270&v=high"
+    },
+    {
+      "startTime": 659,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa23061326/dfc4c433-7.smil/thumb.jpg?t=677.72&scale=480x270&v=high"
+    }
+  ]
+}
