@@ -1,0 +1,48 @@
+{
+  "version": "1.2.0",
+  "title": "Første kamp i fotball-VM er i gang",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa21061126/a9e82daf-6.smil/thumb.jpg?t=26&scale=480x270&v=high"
+    },
+    {
+      "startTime": 29,
+      "title": "VM i gang",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa21061126/a9e82daf-6.smil/thumb.jpg?t=55&scale=480x270&v=high"
+    },
+    {
+      "startTime": 57,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa21061126/a9e82daf-6.smil/thumb.jpg?t=82&scale=480x270&v=high"
+    },
+    {
+      "startTime": 136,
+      "title": "Daddelvedtak",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa21061126/a9e82daf-6.smil/thumb.jpg?t=162&scale=480x270&v=high"
+    },
+    {
+      "startTime": 242,
+      "title": "Trump",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa21061126/a9e82daf-6.smil/thumb.jpg?t=268&scale=480x270&v=high"
+    },
+    {
+      "startTime": 272,
+      "title": "Israelsk forsker",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa21061126/a9e82daf-6.smil/thumb.jpg?t=298&scale=480x270&v=high"
+    },
+    {
+      "startTime": 432,
+      "title": "Været",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa21061126/a9e82daf-6.smil/thumb.jpg?t=458&scale=480x270&v=high"
+    },
+    {
+      "startTime": 493,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa21061126/a9e82daf-6.smil/thumb.jpg?t=512.64&scale=480x270&v=high"
+    }
+  ]
+}
