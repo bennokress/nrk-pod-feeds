@@ -1,0 +1,48 @@
+{
+  "version": "1.2.0",
+  "title": "Trump sier avtale er signert",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa21061526/edefb960-6.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 35,
+      "title": "Iran og USA har underskrevet avtale",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa21061526/edefb960-6.smil/thumb.jpg?t=60&scale=480x270&v=high"
+    },
+    {
+      "startTime": 120,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa21061526/edefb960-6.smil/thumb.jpg?t=146&scale=480x270&v=high"
+    },
+    {
+      "startTime": 272,
+      "title": "DAGSREVYPAKKE",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa21061526/edefb960-6.smil/thumb.jpg?t=297&scale=480x270&v=high"
+    },
+    {
+      "startTime": 359,
+      "title": "Fotball -VM",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa21061526/edefb960-6.smil/thumb.jpg?t=384&scale=480x270&v=high"
+    },
+    {
+      "startTime": 383,
+      "title": "Fotball-VM",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa21061526/edefb960-6.smil/thumb.jpg?t=408&scale=480x270&v=high"
+    },
+    {
+      "startTime": 493,
+      "title": "Været",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa21061526/edefb960-6.smil/thumb.jpg?t=518&scale=480x270&v=high"
+    },
+    {
+      "startTime": 547,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa21061526/edefb960-6.smil/thumb.jpg?t=565.48&scale=480x270&v=high"
+    }
+  ]
+}
