@@ -1,0 +1,148 @@
+{
+  "version": "1.2.0",
+  "title": "Fredsavtale i en tynn tråd",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 3,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa19061426/e1c3430e-7.smil/thumb.jpg?t=29&scale=480x270&v=high"
+    },
+    {
+      "startTime": 62,
+      "title": "Usikkerhet fredsavtale",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa19061426/e1c3430e-7.smil/thumb.jpg?t=88&scale=480x270&v=high"
+    },
+    {
+      "startTime": 173,
+      "title": "Direkte: Beirut",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa19061426/e1c3430e-7.smil/thumb.jpg?t=199&scale=480x270&v=high"
+    },
+    {
+      "startTime": 304,
+      "title": "Hormuzstredet",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa19061426/e1c3430e-7.smil/thumb.jpg?t=329&scale=480x270&v=high"
+    },
+    {
+      "startTime": 353,
+      "title": "Direkte: Washington",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa19061426/e1c3430e-7.smil/thumb.jpg?t=379&scale=480x270&v=high"
+    },
+    {
+      "startTime": 404,
+      "title": "Trump-feiring",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa19061426/e1c3430e-7.smil/thumb.jpg?t=430&scale=480x270&v=high"
+    },
+    {
+      "startTime": 453,
+      "title": "Direkte: Washington",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa19061426/e1c3430e-7.smil/thumb.jpg?t=478&scale=480x270&v=high"
+    },
+    {
+      "startTime": 559,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa19061426/e1c3430e-7.smil/thumb.jpg?t=585&scale=480x270&v=high"
+    },
+    {
+      "startTime": 627,
+      "title": "Høyre",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa19061426/e1c3430e-7.smil/thumb.jpg?t=653&scale=480x270&v=high"
+    },
+    {
+      "startTime": 738,
+      "title": "Gjest: Lars Nehru Sand",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa19061426/e1c3430e-7.smil/thumb.jpg?t=763&scale=480x270&v=high"
+    },
+    {
+      "startTime": 858,
+      "title": "Marius Borg Høiby",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa19061426/e1c3430e-7.smil/thumb.jpg?t=883&scale=480x270&v=high"
+    },
+    {
+      "startTime": 978,
+      "title": "Heddaprisen",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa19061426/e1c3430e-7.smil/thumb.jpg?t=1004&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1009,
+      "title": "Direkte: Nationaltheatret",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa19061426/e1c3430e-7.smil/thumb.jpg?t=1035&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1135,
+      "title": "Donorhår",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa19061426/e1c3430e-7.smil/thumb.jpg?t=1160&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1329,
+      "title": "Sudan",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa19061426/e1c3430e-7.smil/thumb.jpg?t=1354&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1640,
+      "title": "Kina",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa19061426/e1c3430e-7.smil/thumb.jpg?t=1666&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1845,
+      "title": "Finland",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa19061426/e1c3430e-7.smil/thumb.jpg?t=1871&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2228,
+      "title": "Ødcegaard klar",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa19061426/e1c3430e-7.smil/thumb.jpg?t=2254&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2300,
+      "title": "Haaland på golfbanen",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa19061426/e1c3430e-7.smil/thumb.jpg?t=2325&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2372,
+      "title": "Direkte Greensboro",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa19061426/e1c3430e-7.smil/thumb.jpg?t=2398&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2482,
+      "title": "Brasil-Marokko",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa19061426/e1c3430e-7.smil/thumb.jpg?t=2507&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2554,
+      "title": "Haiti-Skottland",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa19061426/e1c3430e-7.smil/thumb.jpg?t=2579&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2596,
+      "title": "Australia-Tyrkia",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa19061426/e1c3430e-7.smil/thumb.jpg?t=2621&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2633,
+      "title": "Qatar-sjokket",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa19061426/e1c3430e-7.smil/thumb.jpg?t=2659&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2669,
+      "title": "Tyskland-Curacao",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa19061426/e1c3430e-7.smil/thumb.jpg?t=2694&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2727,
+      "title": "Hamilton vant",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa19061426/e1c3430e-7.smil/thumb.jpg?t=2753&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2754,
+      "title": "Ruud klar igjen",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa19061426/e1c3430e-7.smil/thumb.jpg?t=2779&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2803,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa19061426/e1c3430e-7.smil/thumb.jpg?t=2828&scale=480x270&v=high"
+    }
+  ]
+}
