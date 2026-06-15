@@ -1,0 +1,268 @@
+{
+  "version": "1.2.0",
+  "title": "Flere kvinner fryser ned egg",
+  "author": "NRK",
+  "podcastName": "Nyhetsmorgen",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Åpning 06:30",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05061226/a72f89b9-7.smil/thumb.jpg?t=26&scale=480x270&v=high"
+    },
+    {
+      "startTime": 116,
+      "title": "Får ikkje unntak i verdsarvfjordane",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05061226/a72f89b9-7.smil/thumb.jpg?t=141&scale=480x270&v=high"
+    },
+    {
+      "startTime": 343,
+      "title": "Siste nytt",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05061226/a72f89b9-7.smil/thumb.jpg?t=369&scale=480x270&v=high"
+    },
+    {
+      "startTime": 499,
+      "title": "Håp om en bedre framtid i Khartoum",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05061226/a72f89b9-7.smil/thumb.jpg?t=525&scale=480x270&v=high"
+    },
+    {
+      "startTime": 748,
+      "title": "Rødlistede arter i fare ved fensfeltet",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05061226/a72f89b9-7.smil/thumb.jpg?t=774&scale=480x270&v=high"
+    },
+    {
+      "startTime": 885,
+      "title": "Overskrifter 06:45",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05061226/a72f89b9-7.smil/thumb.jpg?t=911&scale=480x270&v=high"
+    },
+    {
+      "startTime": 936,
+      "title": "VM-RUNDEN 06.45 (Vignett)",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05061226/a72f89b9-7.smil/thumb.jpg?t=962&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1191,
+      "title": "Kommentator om VM-starten",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05061226/a72f89b9-7.smil/thumb.jpg?t=1217&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1366,
+      "title": "Det norske laget tar treningsfri",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05061226/a72f89b9-7.smil/thumb.jpg?t=1392&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1526,
+      "title": "Irans landslag i VM-trøbbel",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05061226/a72f89b9-7.smil/thumb.jpg?t=1551&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1729,
+      "title": "Teasing dagens sending",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05061226/a72f89b9-7.smil/thumb.jpg?t=1754&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1733,
+      "title": "Sportsdesken brenner (ny)",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05061226/a72f89b9-7.smil/thumb.jpg?t=1758&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1758,
+      "title": "Åpning 07:00",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05061226/a72f89b9-7.smil/thumb.jpg?t=1783&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1856,
+      "title": "EUs asylpakt innføres",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05061226/a72f89b9-7.smil/thumb.jpg?t=1882&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2040,
+      "title": "Nedfrysing av egne egg",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05061226/a72f89b9-7.smil/thumb.jpg?t=2066&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2217,
+      "title": "Asylsøkere til Albania",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05061226/a72f89b9-7.smil/thumb.jpg?t=2243&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2432,
+      "title": "Bastøy politiske reaksjoner",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05061226/a72f89b9-7.smil/thumb.jpg?t=2458&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2585,
+      "title": "Overskrifter 07:15",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05061226/a72f89b9-7.smil/thumb.jpg?t=2610&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2646,
+      "title": "Verdens største børsnotering",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05061226/a72f89b9-7.smil/thumb.jpg?t=2672&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2881,
+      "title": "– Den perfekte hype",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05061226/a72f89b9-7.smil/thumb.jpg?t=2907&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3114,
+      "title": "Før Politisk kvarter",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05061226/a72f89b9-7.smil/thumb.jpg?t=3140&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3192,
+      "title": "Trump snakker om fred",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05061226/a72f89b9-7.smil/thumb.jpg?t=3218&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3358,
+      "title": "«Pøbel» med nytt kunstgrep",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05061226/a72f89b9-7.smil/thumb.jpg?t=3383&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3595,
+      "title": "Overskrifter 07:30",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05061226/a72f89b9-7.smil/thumb.jpg?t=3621&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3655,
+      "title": "EUs asylpakt innføres",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05061226/a72f89b9-7.smil/thumb.jpg?t=3681&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3739,
+      "title": "Fotball-VM i gang",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05061226/a72f89b9-7.smil/thumb.jpg?t=3765&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3860,
+      "title": "Irans landslag i VM-trøbbel",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05061226/a72f89b9-7.smil/thumb.jpg?t=3886&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3981,
+      "title": "Nedfrysing av egne egg",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05061226/a72f89b9-7.smil/thumb.jpg?t=4006&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4097,
+      "title": "Verdens største børsnotering",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05061226/a72f89b9-7.smil/thumb.jpg?t=4123&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4201,
+      "title": "Åpning 07:40",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05061226/a72f89b9-7.smil/thumb.jpg?t=4226&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4238,
+      "title": "Håp om en bedre framtid i Khartoum",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05061226/a72f89b9-7.smil/thumb.jpg?t=4263&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4471,
+      "title": "Topper 07:44",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05061226/a72f89b9-7.smil/thumb.jpg?t=4497&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5397,
+      "title": "NRK Nyheter 08:00",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05061226/a72f89b9-7.smil/thumb.jpg?t=5422&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5582,
+      "title": "Åpning 08:03",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05061226/a72f89b9-7.smil/thumb.jpg?t=5607&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5671,
+      "title": "Irans landslag i VM-trøbbel",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05061226/a72f89b9-7.smil/thumb.jpg?t=5697&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5913,
+      "title": "Kritikk mot USA som VM-arrangør",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05061226/a72f89b9-7.smil/thumb.jpg?t=5938&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6105,
+      "title": "Befolkningsutvikling",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05061226/a72f89b9-7.smil/thumb.jpg?t=6131&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6351,
+      "title": "Overskrifter 08:15",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05061226/a72f89b9-7.smil/thumb.jpg?t=6376&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6392,
+      "title": "«Pøbel» med nytt kunstgrep",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05061226/a72f89b9-7.smil/thumb.jpg?t=6418&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6663,
+      "title": "Fredagspanelet",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05061226/a72f89b9-7.smil/thumb.jpg?t=6688&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7365,
+      "title": "EUs asylpakt innføres",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05061226/a72f89b9-7.smil/thumb.jpg?t=7390&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7452,
+      "title": "Feiring av VM-starten",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05061226/a72f89b9-7.smil/thumb.jpg?t=7477&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7623,
+      "title": "Brasil og Marokko møtes i VM",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05061226/a72f89b9-7.smil/thumb.jpg?t=7648&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7867,
+      "title": "Verdens største børsnotering",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05061226/a72f89b9-7.smil/thumb.jpg?t=7893&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8049,
+      "title": "– Den perfekte hype",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05061226/a72f89b9-7.smil/thumb.jpg?t=8074&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8205,
+      "title": "Overskrifter 08:45",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05061226/a72f89b9-7.smil/thumb.jpg?t=8231&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8239,
+      "title": "ICE-sjef til Norge",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05061226/a72f89b9-7.smil/thumb.jpg?t=8265&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8417,
+      "title": "Nedfrysing av egne egg",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05061226/a72f89b9-7.smil/thumb.jpg?t=8443&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8534,
+      "title": "Sommerens beste serier",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05061226/a72f89b9-7.smil/thumb.jpg?t=8560&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8756,
+      "title": "Før Abels tårn i NRK P2",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05061226/a72f89b9-7.smil/thumb.jpg?t=8781&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8860,
+      "title": "GJEST Været i dag",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05061226/a72f89b9-7.smil/thumb.jpg?t=8885&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8992,
+      "title": "Avslutning",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05061226/a72f89b9-7.smil/thumb.jpg?t=9003.2&scale=480x270&v=high"
+    }
+  ]
+}
