@@ -1,0 +1,63 @@
+{
+  "version": "1.2.0",
+  "title": "SpaceX på børs",
+  "author": "NRK",
+  "podcastName": "Dagsnytt 18",
+  "chapters": [
+    {
+      "startTime": 2,
+      "title": "Dagsnytt atten",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa56061226/b30a5855-7.smil/thumb.jpg?t=27&scale=480x270&v=high"
+    },
+    {
+      "startTime": 61,
+      "title": "Ny helsepersonellplan",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa56061226/b30a5855-7.smil/thumb.jpg?t=86&scale=480x270&v=high"
+    },
+    {
+      "startTime": 849,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa56061226/b30a5855-7.smil/thumb.jpg?t=874&scale=480x270&v=high"
+    },
+    {
+      "startTime": 859,
+      "title": "SpaceX på børs",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa56061226/b30a5855-7.smil/thumb.jpg?t=885&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1369,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa56061226/b30a5855-7.smil/thumb.jpg?t=1394&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1382,
+      "title": "Flytter kvinnelige innsatte",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa56061226/b30a5855-7.smil/thumb.jpg?t=1408&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2241,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa56061226/b30a5855-7.smil/thumb.jpg?t=2266&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2252,
+      "title": "USA - Iran fredsavtale",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa56061226/b30a5855-7.smil/thumb.jpg?t=2278&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2681,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa56061226/b30a5855-7.smil/thumb.jpg?t=2707&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2691,
+      "title": "Forsvaret i gatene",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa56061226/b30a5855-7.smil/thumb.jpg?t=2717&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3524,
+      "title": "SLUTTKJENNING",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa56061226/b30a5855-7.smil/thumb.jpg?t=3544.84&scale=480x270&v=high"
+    }
+  ]
+}
