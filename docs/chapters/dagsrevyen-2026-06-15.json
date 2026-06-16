@@ -1,0 +1,113 @@
+{
+  "version": "1.2.0",
+  "title": "Anker dommen",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 12,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa19061526/ffa09cc5-8.smil/thumb.jpg?t=38&scale=480x270&v=high"
+    },
+    {
+      "startTime": 89,
+      "title": "Dom Høiby",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa19061526/ffa09cc5-8.smil/thumb.jpg?t=114&scale=480x270&v=high"
+    },
+    {
+      "startTime": 121,
+      "title": "Gjest Ravndal og Meling",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa19061526/ffa09cc5-8.smil/thumb.jpg?t=147&scale=480x270&v=high"
+    },
+    {
+      "startTime": 192,
+      "title": "Dom Høiby",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa19061526/ffa09cc5-8.smil/thumb.jpg?t=218&scale=480x270&v=high"
+    },
+    {
+      "startTime": 334,
+      "title": "Gjest Ravndal og Meling",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa19061526/ffa09cc5-8.smil/thumb.jpg?t=360&scale=480x270&v=high"
+    },
+    {
+      "startTime": 502,
+      "title": "Gjest Skrede",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa19061526/ffa09cc5-8.smil/thumb.jpg?t=527&scale=480x270&v=high"
+    },
+    {
+      "startTime": 671,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa19061526/ffa09cc5-8.smil/thumb.jpg?t=696&scale=480x270&v=high"
+    },
+    {
+      "startTime": 696,
+      "title": "G7-toppmøte",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa19061526/ffa09cc5-8.smil/thumb.jpg?t=721&scale=480x270&v=high"
+    },
+    {
+      "startTime": 741,
+      "title": "Direkte: Evian",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa19061526/ffa09cc5-8.smil/thumb.jpg?t=767&scale=480x270&v=high"
+    },
+    {
+      "startTime": 834,
+      "title": "Avtale USA - Iran",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa19061526/ffa09cc5-8.smil/thumb.jpg?t=860&scale=480x270&v=high"
+    },
+    {
+      "startTime": 874,
+      "title": "Direkte Erbil",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa19061526/ffa09cc5-8.smil/thumb.jpg?t=899&scale=480x270&v=high"
+    },
+    {
+      "startTime": 976,
+      "title": "Libanon etter avtale",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa19061526/ffa09cc5-8.smil/thumb.jpg?t=1001&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1005,
+      "title": "Forsvaret overskridelser",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa19061526/ffa09cc5-8.smil/thumb.jpg?t=1030&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1089,
+      "title": "SoMe-forbud i UK",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa19061526/ffa09cc5-8.smil/thumb.jpg?t=1114&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1197,
+      "title": "VM-kamp visning",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa19061526/ffa09cc5-8.smil/thumb.jpg?t=1223&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1284,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa19061526/ffa09cc5-8.smil/thumb.jpg?t=1310&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1290,
+      "title": "VM-åpning mot Irak",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa19061526/ffa09cc5-8.smil/thumb.jpg?t=1316&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1387,
+      "title": "Direkte Erbil",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa19061526/ffa09cc5-8.smil/thumb.jpg?t=1413&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1461,
+      "title": "Sverige-Tunisia",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa19061526/ffa09cc5-8.smil/thumb.jpg?t=1486&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1528,
+      "title": "Spania-Kapp Verde nå",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa19061526/ffa09cc5-8.smil/thumb.jpg?t=1553&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1554,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa19061526/ffa09cc5-8.smil/thumb.jpg?t=1579&scale=480x270&v=high"
+    }
+  ]
+}
