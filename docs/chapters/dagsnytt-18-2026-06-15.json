@@ -1,0 +1,43 @@
+{
+  "version": "1.2.0",
+  "title": "Høiby anker dommen",
+  "author": "NRK",
+  "podcastName": "Dagsnytt 18",
+  "chapters": [
+    {
+      "startTime": 1,
+      "title": "Dagsnytt atten",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa56061526/59c9fb30-6.smil/thumb.jpg?t=26&scale=480x270&v=high"
+    },
+    {
+      "startTime": 59,
+      "title": "Høiby-dommen",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa56061526/59c9fb30-6.smil/thumb.jpg?t=85&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1596,
+      "title": "Akademisk hovmod",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa56061526/59c9fb30-6.smil/thumb.jpg?t=1622&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2209,
+      "title": "Avtale USA og Iran",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa56061526/59c9fb30-6.smil/thumb.jpg?t=2234&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3033,
+      "title": "Venstre kritiserer Høyre",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa56061526/59c9fb30-6.smil/thumb.jpg?t=3059&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3530,
+      "title": "AVSLUTNING",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa56061526/59c9fb30-6.smil/thumb.jpg?t=3543.84&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3534,
+      "title": "SLUTTKJENNING",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa56061526/59c9fb30-6.smil/thumb.jpg?t=3543.84&scale=480x270&v=high"
+    }
+  ]
+}
