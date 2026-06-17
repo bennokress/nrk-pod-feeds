@@ -1,0 +1,63 @@
+{
+  "version": "1.2.0",
+  "title": "VM-festen i gang i Oslo",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa23061626/c6a45219-8.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 29,
+      "title": "Fotball Gillette",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa23061626/c6a45219-8.smil/thumb.jpg?t=55&scale=480x270&v=high"
+    },
+    {
+      "startTime": 55,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa23061626/c6a45219-8.smil/thumb.jpg?t=81&scale=480x270&v=high"
+    },
+    {
+      "startTime": 183,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa23061626/c6a45219-8.smil/thumb.jpg?t=209&scale=480x270&v=high"
+    },
+    {
+      "startTime": 262,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa23061626/c6a45219-8.smil/thumb.jpg?t=288&scale=480x270&v=high"
+    },
+    {
+      "startTime": 358,
+      "title": "FOTBALL",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa23061626/c6a45219-8.smil/thumb.jpg?t=384&scale=480x270&v=high"
+    },
+    {
+      "startTime": 441,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa23061626/c6a45219-8.smil/thumb.jpg?t=466&scale=480x270&v=high"
+    },
+    {
+      "startTime": 504,
+      "title": "Ødegaard før kamp",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa23061626/c6a45219-8.smil/thumb.jpg?t=530&scale=480x270&v=high"
+    },
+    {
+      "startTime": 552,
+      "title": "Menstad skole",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa23061626/c6a45219-8.smil/thumb.jpg?t=578&scale=480x270&v=high"
+    },
+    {
+      "startTime": 636,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa23061626/c6a45219-8.smil/thumb.jpg?t=662&scale=480x270&v=high"
+    },
+    {
+      "startTime": 701,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa23061626/c6a45219-8.smil/thumb.jpg?t=726&scale=480x270&v=high"
+    }
+  ]
+}
