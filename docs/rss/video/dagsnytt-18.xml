@@ -8,18 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 16 Jun 2026 16:03:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 17:27:24 +0000</lastBuildDate>
     <pubDate>Tue, 16 Jun 2026 18:00:00 +0200</pubDate>
     <itunes:image href="https://bennokress.github.io/nrk-pod-feeds/assets/images/dagsnytt-18-square.png" />
     <item>
       <title>Norges første VM-kamp på 28 år</title>
       <description>Herrelandslaget møter Irak i Boston i natt.</description>
-      <guid isPermaLink="false">https://nrk-live-world.akamaized.net/nrk1-aai8lvU-6BgXxEcRBAHMxaguCMWo8SkOZ!world/muxed.m3u8?adap=small&amp;aco=aac</guid>
-      <enclosure url="https://nrk-live-world.akamaized.net/nrk1-aai8lvU-6BgXxEcRBAHMxaguCMWo8SkOZ!world/muxed.m3u8?adap=small&amp;aco=aac" length="0" type="application/vnd.apple.mpegurl" />
-      <itunes:duration>59:00</itunes:duration>
+      <guid isPermaLink="false">https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa56061626/4cbe011d-6.smil/muxed.m3u8?adap=small&amp;s=0&amp;aco=aac</guid>
+      <enclosure url="https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa56061626/4cbe011d-6.smil/muxed.m3u8?adap=small&amp;s=0&amp;aco=aac" length="0" type="application/vnd.apple.mpegurl" />
+      <itunes:duration>59:01</itunes:duration>
       <pubDate>Tue, 16 Jun 2026 18:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/9HhFu3G4WgjiHhE18NeM7AX0e-Kzt_bgegZuLQzECbeg" />
-    <podcast:alternateEnclosure type="application/x-mpegURL" length="0" default="true" title="HLS Video Stream"><podcast:source uri="https://nrk-live-world.akamaized.net/nrk1-aai8lvU-6BgXxEcRBAHMxaguCMWo8SkOZ!world/muxed.m3u8?adap=small&amp;aco=aac" /></podcast:alternateEnclosure><podcast:person role="host" href="https://www.nrk.no">NRK</podcast:person></item>
+    <psc:chapters version="1.2"><psc:chapter start="0:00" title="Dagsnytt atten" image="https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa56061626/4cbe011d-6.smil/thumb.jpg?t=26&amp;scale=480x270&amp;v=high" /><psc:chapter start="1:03" title="Norges første VM-kamp" image="https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa56061626/4cbe011d-6.smil/thumb.jpg?t=89&amp;scale=480x270&amp;v=high" /><psc:chapter start="3:11" title="Elevers ferdigheter" image="https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa56061626/4cbe011d-6.smil/thumb.jpg?t=216&amp;scale=480x270&amp;v=high" /><psc:chapter start="16:03" title="Norges første VM-kamp" image="https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa56061626/4cbe011d-6.smil/thumb.jpg?t=989&amp;scale=480x270&amp;v=high" /><psc:chapter start="20:49" title="VM-åpning og skulk" image="https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa56061626/4cbe011d-6.smil/thumb.jpg?t=1275&amp;scale=480x270&amp;v=high" /><psc:chapter start="27:07" title="Tilbakegang for Høyre" image="https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa56061626/4cbe011d-6.smil/thumb.jpg?t=1652&amp;scale=480x270&amp;v=high" /><psc:chapter start="34:51" title="Apanasje til prinsessen" image="https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa56061626/4cbe011d-6.smil/thumb.jpg?t=2117&amp;scale=480x270&amp;v=high" /><psc:chapter start="43:35" title="Stordalen og Norwegian" image="https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa56061626/4cbe011d-6.smil/thumb.jpg?t=2641&amp;scale=480x270&amp;v=high" /><psc:chapter start="49:50" title="Blomstrete kjoler" image="https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa56061626/4cbe011d-6.smil/thumb.jpg?t=3015&amp;scale=480x270&amp;v=high" /><psc:chapter start="58:16" title="AVSLUTNING" image="https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa56061626/4cbe011d-6.smil/thumb.jpg?t=3521&amp;scale=480x270&amp;v=high" /><psc:chapter start="58:36" title="SLUTTKJENNING" image="https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa56061626/4cbe011d-6.smil/thumb.jpg?t=3541.84&amp;scale=480x270&amp;v=high" /></psc:chapters><podcast:chapters url="https://cdn.jsdelivr.net/gh/bennokress/nrk-pod-feeds@main/docs/chapters/dagsnytt-18-2026-06-16.json" type="application/json+chapters" /><podcast:alternateEnclosure type="application/x-mpegURL" length="0" default="true" title="HLS Video Stream"><podcast:source uri="https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa56061626/4cbe011d-6.smil/muxed.m3u8?adap=small&amp;s=0&amp;aco=aac" /></podcast:alternateEnclosure><podcast:person role="host" href="https://www.nrk.no">NRK</podcast:person></item>
     <item>
       <title>Høiby anker dommen</title>
       <description>Høiby dømt til fire års fengsel i Oslo tingrett i dag.</description>

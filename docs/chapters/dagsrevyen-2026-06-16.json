@@ -1,0 +1,113 @@
+{
+  "version": "1.2.0",
+  "title": "Farger Boston rødt",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 10,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-67.akamaized.net/open/ps/nnfa/nnfa19061626/5d93deee-6.smil/thumb.jpg?t=35&scale=480x270&v=high"
+    },
+    {
+      "startTime": 23,
+      "title": "Direkte: Boston",
+      "img": "https://nrk-od-world-67.akamaized.net/open/ps/nnfa/nnfa19061626/5d93deee-6.smil/thumb.jpg?t=49&scale=480x270&v=high"
+    },
+    {
+      "startTime": 114,
+      "title": "Nordmenn før kampen",
+      "img": "https://nrk-od-world-67.akamaized.net/open/ps/nnfa/nnfa19061626/5d93deee-6.smil/thumb.jpg?t=140&scale=480x270&v=high"
+    },
+    {
+      "startTime": 178,
+      "title": "Direkte Erbil",
+      "img": "https://nrk-od-world-67.akamaized.net/open/ps/nnfa/nnfa19061626/5d93deee-6.smil/thumb.jpg?t=204&scale=480x270&v=high"
+    },
+    {
+      "startTime": 236,
+      "title": "Irak før kampen",
+      "img": "https://nrk-od-world-67.akamaized.net/open/ps/nnfa/nnfa19061626/5d93deee-6.smil/thumb.jpg?t=261&scale=480x270&v=high"
+    },
+    {
+      "startTime": 313,
+      "title": "Direkte Trondheim",
+      "img": "https://nrk-od-world-67.akamaized.net/open/ps/nnfa/nnfa19061626/5d93deee-6.smil/thumb.jpg?t=338&scale=480x270&v=high"
+    },
+    {
+      "startTime": 419,
+      "title": "Meningsmåling",
+      "img": "https://nrk-od-world-67.akamaized.net/open/ps/nnfa/nnfa19061626/5d93deee-6.smil/thumb.jpg?t=445&scale=480x270&v=high"
+    },
+    {
+      "startTime": 503,
+      "title": "Gjest: Lars Nehru Sand",
+      "img": "https://nrk-od-world-67.akamaized.net/open/ps/nnfa/nnfa19061626/5d93deee-6.smil/thumb.jpg?t=529&scale=480x270&v=high"
+    },
+    {
+      "startTime": 639,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-67.akamaized.net/open/ps/nnfa/nnfa19061626/5d93deee-6.smil/thumb.jpg?t=665&scale=480x270&v=high"
+    },
+    {
+      "startTime": 713,
+      "title": "Direkte: Beirut",
+      "img": "https://nrk-od-world-67.akamaized.net/open/ps/nnfa/nnfa19061626/5d93deee-6.smil/thumb.jpg?t=738&scale=480x270&v=high"
+    },
+    {
+      "startTime": 778,
+      "title": "Yama Utfordrer",
+      "img": "https://nrk-od-world-67.akamaized.net/open/ps/nnfa/nnfa19061626/5d93deee-6.smil/thumb.jpg?t=804&scale=480x270&v=high"
+    },
+    {
+      "startTime": 814,
+      "title": "Direkte: Beirut",
+      "img": "https://nrk-od-world-67.akamaized.net/open/ps/nnfa/nnfa19061626/5d93deee-6.smil/thumb.jpg?t=840&scale=480x270&v=high"
+    },
+    {
+      "startTime": 856,
+      "title": "Yama Utfordrer",
+      "img": "https://nrk-od-world-67.akamaized.net/open/ps/nnfa/nnfa19061626/5d93deee-6.smil/thumb.jpg?t=881&scale=480x270&v=high"
+    },
+    {
+      "startTime": 885,
+      "title": "Norske elever",
+      "img": "https://nrk-od-world-67.akamaized.net/open/ps/nnfa/nnfa19061626/5d93deee-6.smil/thumb.jpg?t=911&scale=480x270&v=high"
+    },
+    {
+      "startTime": 963,
+      "title": "Equinor",
+      "img": "https://nrk-od-world-67.akamaized.net/open/ps/nnfa/nnfa19061626/5d93deee-6.smil/thumb.jpg?t=988&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1046,
+      "title": "G7-toppmøte",
+      "img": "https://nrk-od-world-67.akamaized.net/open/ps/nnfa/nnfa19061626/5d93deee-6.smil/thumb.jpg?t=1072&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1072,
+      "title": "Direkte Evian",
+      "img": "https://nrk-od-world-67.akamaized.net/open/ps/nnfa/nnfa19061626/5d93deee-6.smil/thumb.jpg?t=1097&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1161,
+      "title": "Flere avskjæringer",
+      "img": "https://nrk-od-world-67.akamaized.net/open/ps/nnfa/nnfa19061626/5d93deee-6.smil/thumb.jpg?t=1187&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1306,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-67.akamaized.net/open/ps/nnfa/nnfa19061626/5d93deee-6.smil/thumb.jpg?t=1332&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1311,
+      "title": "Direkte Boston",
+      "img": "https://nrk-od-world-67.akamaized.net/open/ps/nnfa/nnfa19061626/5d93deee-6.smil/thumb.jpg?t=1337&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1557,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-67.akamaized.net/open/ps/nnfa/nnfa19061626/5d93deee-6.smil/thumb.jpg?t=1582&scale=480x270&v=high"
+    }
+  ]
+}
