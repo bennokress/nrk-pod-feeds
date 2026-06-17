@@ -1,0 +1,288 @@
+{
+  "version": "1.2.0",
+  "title": "Klar for første VM-kamp på 28 år",
+  "author": "NRK",
+  "podcastName": "Nyhetsmorgen",
+  "chapters": [
+    {
+      "startTime": 1,
+      "title": "Åpning 06:30",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05061626/427640be-6.smil/thumb.jpg?t=26&scale=480x270&v=high"
+    },
+    {
+      "startTime": 86,
+      "title": "KI og pasientsikkerhet",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05061626/427640be-6.smil/thumb.jpg?t=112&scale=480x270&v=high"
+    },
+    {
+      "startTime": 269,
+      "title": "Høiby i varetekt",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05061626/427640be-6.smil/thumb.jpg?t=294&scale=480x270&v=high"
+    },
+    {
+      "startTime": 441,
+      "title": "Hizbollah-topp forsvarer angrep",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05061626/427640be-6.smil/thumb.jpg?t=466&scale=480x270&v=high"
+    },
+    {
+      "startTime": 666,
+      "title": "Youtubere tar over filmbransjen",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05061626/427640be-6.smil/thumb.jpg?t=691&scale=480x270&v=high"
+    },
+    {
+      "startTime": 853,
+      "title": "USA-Iran avtale",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05061626/427640be-6.smil/thumb.jpg?t=878&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1036,
+      "title": "VM-rundens overskrifter",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05061626/427640be-6.smil/thumb.jpg?t=1062&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1071,
+      "title": "Iran mot New Zealand",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05061626/427640be-6.smil/thumb.jpg?t=1097&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1248,
+      "title": "Flere overraskende resultat i VM",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05061626/427640be-6.smil/thumb.jpg?t=1273&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1324,
+      "title": "Kommentator Bengt Eriksen",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05061626/427640be-6.smil/thumb.jpg?t=1350&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1501,
+      "title": "Fotballfesten er klar for fest",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05061626/427640be-6.smil/thumb.jpg?t=1527&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1548,
+      "title": "Thorsbys miljøvennlige sko",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05061626/427640be-6.smil/thumb.jpg?t=1573&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1663,
+      "title": "Farji til VM for Irak",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05061626/427640be-6.smil/thumb.jpg?t=1688&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1720,
+      "title": "Sørloth før kampen",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05061626/427640be-6.smil/thumb.jpg?t=1745&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1787,
+      "title": "Åpning 07:00",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05061626/427640be-6.smil/thumb.jpg?t=1813&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1868,
+      "title": "KI og pasientsikkerhet",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05061626/427640be-6.smil/thumb.jpg?t=1893&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2046,
+      "title": "Trump til G7",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05061626/427640be-6.smil/thumb.jpg?t=2072&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2266,
+      "title": "Nederlag for Israel?",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05061626/427640be-6.smil/thumb.jpg?t=2292&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2526,
+      "title": "Før Politisk kvarter",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05061626/427640be-6.smil/thumb.jpg?t=2552&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2610,
+      "title": "Anbefaler ikke Alzheimers-medisin",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05061626/427640be-6.smil/thumb.jpg?t=2635&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2813,
+      "title": "DKBU Farji til VM",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05061626/427640be-6.smil/thumb.jpg?t=2839&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2964,
+      "title": "Bengt Eriksen om Norge-Irak",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05061626/427640be-6.smil/thumb.jpg?t=2989&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3108,
+      "title": "DKMR Gler seg til Norge-kamp",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05061626/427640be-6.smil/thumb.jpg?t=3134&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3283,
+      "title": "VM-forvirring",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05061626/427640be-6.smil/thumb.jpg?t=3308&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3416,
+      "title": "Nordmenn unngår nyheter",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05061626/427640be-6.smil/thumb.jpg?t=3442&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3567,
+      "title": "Trailer - Norsken, svensken og dansken",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05061626/427640be-6.smil/thumb.jpg?t=3593&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3600,
+      "title": "Overskrifter 07:30",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05061626/427640be-6.smil/thumb.jpg?t=3625&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3636,
+      "title": "Ki og pasientsikkerhet",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05061626/427640be-6.smil/thumb.jpg?t=3662&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3745,
+      "title": "Irak-sjef frykter Norge",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05061626/427640be-6.smil/thumb.jpg?t=3771&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3796,
+      "title": "Før kampen Norge -Irak",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05061626/427640be-6.smil/thumb.jpg?t=3821&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3918,
+      "title": "Anbefaler ikke Alzheimers-medisin",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05061626/427640be-6.smil/thumb.jpg?t=3943&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4043,
+      "title": "Lite matjord omprioritert",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05061626/427640be-6.smil/thumb.jpg?t=4069&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4076,
+      "title": "Youtubere tar over filmbransjen",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05061626/427640be-6.smil/thumb.jpg?t=4102&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4200,
+      "title": "Åpning 07:40",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05061626/427640be-6.smil/thumb.jpg?t=4226&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4215,
+      "title": "86 prosent får nei til fedmemedisin",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05061626/427640be-6.smil/thumb.jpg?t=4240&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5400,
+      "title": "NRK Nyheter 08:00",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05061626/427640be-6.smil/thumb.jpg?t=5426&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5584,
+      "title": "Åpning 08:03",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05061626/427640be-6.smil/thumb.jpg?t=5610&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5644,
+      "title": "Hizbollah-topp forsvarer angrep",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05061626/427640be-6.smil/thumb.jpg?t=5670&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5866,
+      "title": "Avtale mellom USA og Iran",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05061626/427640be-6.smil/thumb.jpg?t=5892&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6193,
+      "title": "Forhånds Irak-Norge",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05061626/427640be-6.smil/thumb.jpg?t=6218&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6277,
+      "title": "Forventninger i Irak før kampen mot Norge",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05061626/427640be-6.smil/thumb.jpg?t=6303&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6459,
+      "title": "Anbefaler ikke Alzheimers-medisin",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05061626/427640be-6.smil/thumb.jpg?t=6484&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6671,
+      "title": "Youtubere tar over filmbransjen",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05061626/427640be-6.smil/thumb.jpg?t=6696&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6866,
+      "title": "Høiby i varetekt",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05061626/427640be-6.smil/thumb.jpg?t=6891&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7046,
+      "title": "Før Ekko i NRK P2",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05061626/427640be-6.smil/thumb.jpg?t=7072&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7092,
+      "title": "Overskrifter 08:30",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05061626/427640be-6.smil/thumb.jpg?t=7117&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7172,
+      "title": "KI og pasientsikkerhet",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05061626/427640be-6.smil/thumb.jpg?t=7197&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7359,
+      "title": "Supporterne lader opp i Boston",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05061626/427640be-6.smil/thumb.jpg?t=7384&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7466,
+      "title": "Fotballfesten om arrangementene",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05061626/427640be-6.smil/thumb.jpg?t=7491&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7723,
+      "title": "Thorsbys miljøvennlige sko",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05061626/427640be-6.smil/thumb.jpg?t=7748&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7839,
+      "title": "Ulstein vil gi VM-fri",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05061626/427640be-6.smil/thumb.jpg?t=7864&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7989,
+      "title": "Russetiden 2026",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05061626/427640be-6.smil/thumb.jpg?t=8015&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8290,
+      "title": "Hvorfor vokser ikke Senterpartiet?",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05061626/427640be-6.smil/thumb.jpg?t=8315&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8442,
+      "title": "Anmeldelse: «Mother Dough»",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05061626/427640be-6.smil/thumb.jpg?t=8468&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8679,
+      "title": "DKMR Gler seg til Norge-kamp",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05061626/427640be-6.smil/thumb.jpg?t=8704&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8852,
+      "title": "GJEST Været i dag",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05061626/427640be-6.smil/thumb.jpg?t=8878&scale=480x270&v=high"
+    }
+  ]
+}
