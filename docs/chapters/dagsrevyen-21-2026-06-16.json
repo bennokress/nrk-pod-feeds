@@ -1,0 +1,43 @@
+{
+  "version": "1.2.0",
+  "title": "Det koker i Boston før norsk VM-kamp",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa21061626/0c3869c8-7.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 26,
+      "title": "Norske supportere VM",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa21061626/0c3869c8-7.smil/thumb.jpg?t=51&scale=480x270&v=high"
+    },
+    {
+      "startTime": 89,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa21061626/0c3869c8-7.smil/thumb.jpg?t=114&scale=480x270&v=high"
+    },
+    {
+      "startTime": 280,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa21061626/0c3869c8-7.smil/thumb.jpg?t=305&scale=480x270&v=high"
+    },
+    {
+      "startTime": 377,
+      "title": "SYNK-SVENNEBY",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa21061626/0c3869c8-7.smil/thumb.jpg?t=402&scale=480x270&v=high"
+    },
+    {
+      "startTime": 491,
+      "title": "Været",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa21061626/0c3869c8-7.smil/thumb.jpg?t=517&scale=480x270&v=high"
+    },
+    {
+      "startTime": 537,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa21061626/0c3869c8-7.smil/thumb.jpg?t=557.6&scale=480x270&v=high"
+    }
+  ]
+}
