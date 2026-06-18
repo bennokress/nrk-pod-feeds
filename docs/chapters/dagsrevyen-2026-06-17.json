@@ -1,0 +1,118 @@
+{
+  "version": "1.2.0",
+  "title": "Fikk nye lunger",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 10,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa19061726/547f6f22-8.smil/thumb.jpg?t=36&scale=480x270&v=high"
+    },
+    {
+      "startTime": 61,
+      "title": "Direkte: Rikshospitalet",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa19061726/547f6f22-8.smil/thumb.jpg?t=87&scale=480x270&v=high"
+    },
+    {
+      "startTime": 129,
+      "title": "Kronprinsessen",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa19061726/547f6f22-8.smil/thumb.jpg?t=155&scale=480x270&v=high"
+    },
+    {
+      "startTime": 266,
+      "title": "Mary hilser",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa19061726/547f6f22-8.smil/thumb.jpg?t=292&scale=480x270&v=high"
+    },
+    {
+      "startTime": 293,
+      "title": "Lungetransplantasjon",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa19061726/547f6f22-8.smil/thumb.jpg?t=319&scale=480x270&v=high"
+    },
+    {
+      "startTime": 328,
+      "title": "Gjest Ridder-Nielsen",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa19061726/547f6f22-8.smil/thumb.jpg?t=353&scale=480x270&v=high"
+    },
+    {
+      "startTime": 516,
+      "title": "Kronprinsessen",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa19061726/547f6f22-8.smil/thumb.jpg?t=542&scale=480x270&v=high"
+    },
+    {
+      "startTime": 593,
+      "title": "Direkt: Slottet",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa19061726/547f6f22-8.smil/thumb.jpg?t=618&scale=480x270&v=high"
+    },
+    {
+      "startTime": 690,
+      "title": "VM-Haaland",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa19061726/547f6f22-8.smil/thumb.jpg?t=715&scale=480x270&v=high"
+    },
+    {
+      "startTime": 844,
+      "title": "G7-toppmøtet",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa19061726/547f6f22-8.smil/thumb.jpg?t=869&scale=480x270&v=high"
+    },
+    {
+      "startTime": 952,
+      "title": "Trump PK",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa19061726/547f6f22-8.smil/thumb.jpg?t=978&scale=480x270&v=high"
+    },
+    {
+      "startTime": 991,
+      "title": "Direkte: Versailles",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa19061726/547f6f22-8.smil/thumb.jpg?t=1016&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1078,
+      "title": "Politi Korrupsjon",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa19061726/547f6f22-8.smil/thumb.jpg?t=1103&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1171,
+      "title": "Førdefjorden",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa19061726/547f6f22-8.smil/thumb.jpg?t=1197&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1188,
+      "title": "Skolefravær",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa19061726/547f6f22-8.smil/thumb.jpg?t=1213&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1289,
+      "title": "Åge Aleksandersen",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa19061726/547f6f22-8.smil/thumb.jpg?t=1315&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1393,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa19061726/547f6f22-8.smil/thumb.jpg?t=1418&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1397,
+      "title": "Norge før PK",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa19061726/547f6f22-8.smil/thumb.jpg?t=1423&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1411,
+      "title": "Direkte Greensboro",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa19061726/547f6f22-8.smil/thumb.jpg?t=1436&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1491,
+      "title": "Messi hat trick",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa19061726/547f6f22-8.smil/thumb.jpg?t=1517&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1555,
+      "title": "Ronaldo i gang",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa19061726/547f6f22-8.smil/thumb.jpg?t=1581&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1580,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa19061726/547f6f22-8.smil/thumb.jpg?t=1605&scale=480x270&v=high"
+    }
+  ]
+}
