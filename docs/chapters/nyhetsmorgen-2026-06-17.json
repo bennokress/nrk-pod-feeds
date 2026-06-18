@@ -1,0 +1,273 @@
+{
+  "version": "1.2.0",
+  "title": "Nyhetsmorgen",
+  "author": "NRK",
+  "podcastName": "Nyhetsmorgen",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Åpning 06:30",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa05061726/ff8944e8-7.smil/thumb.jpg?t=26&scale=480x270&v=high"
+    },
+    {
+      "startTime": 83,
+      "title": "Noreg vann 4-1 over Irak",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa05061726/ff8944e8-7.smil/thumb.jpg?t=109&scale=480x270&v=high"
+    },
+    {
+      "startTime": 263,
+      "title": "På vei fra kamp",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa05061726/ff8944e8-7.smil/thumb.jpg?t=288&scale=480x270&v=high"
+    },
+    {
+      "startTime": 469,
+      "title": "Støre kommenterer VM-kampen",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa05061726/ff8944e8-7.smil/thumb.jpg?t=494&scale=480x270&v=high"
+    },
+    {
+      "startTime": 544,
+      "title": "Bengt Eriksen om kampen",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa05061726/ff8944e8-7.smil/thumb.jpg?t=569&scale=480x270&v=high"
+    },
+    {
+      "startTime": 779,
+      "title": "VM-feber i Trondheim",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa05061726/ff8944e8-7.smil/thumb.jpg?t=805&scale=480x270&v=high"
+    },
+    {
+      "startTime": 967,
+      "title": "Irak om fotballkampen",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa05061726/ff8944e8-7.smil/thumb.jpg?t=993&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1107,
+      "title": "Fjerner rødmaling fra helleristninger",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa05061726/ff8944e8-7.smil/thumb.jpg?t=1132&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1352,
+      "title": "Fleksibel skulestart",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa05061726/ff8944e8-7.smil/thumb.jpg?t=1378&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1544,
+      "title": "Foreldre mener skolen ikke er gratis",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa05061726/ff8944e8-7.smil/thumb.jpg?t=1569&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1771,
+      "title": "Leseklubben: Brødrene Løvehjerte",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa05061726/ff8944e8-7.smil/thumb.jpg?t=1796&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1800,
+      "title": "Åpning 07:00",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa05061726/ff8944e8-7.smil/thumb.jpg?t=1826&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1871,
+      "title": "Noreg vann 4-1 over Irak",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa05061726/ff8944e8-7.smil/thumb.jpg?t=1897&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2062,
+      "title": "Fotballekspert Bengt Eriksen om kampen",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa05061726/ff8944e8-7.smil/thumb.jpg?t=2088&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2331,
+      "title": "Folkefest etter fotballkamp",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa05061726/ff8944e8-7.smil/thumb.jpg?t=2356&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2484,
+      "title": "Messi-hattrick",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa05061726/ff8944e8-7.smil/thumb.jpg?t=2509&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2506,
+      "title": "Reaksjoner fra Erbil etter kamp",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa05061726/ff8944e8-7.smil/thumb.jpg?t=2532&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2774,
+      "title": "Kritikk skolefravær",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa05061726/ff8944e8-7.smil/thumb.jpg?t=2800&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2972,
+      "title": "Skolesatsingen som slo feil",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa05061726/ff8944e8-7.smil/thumb.jpg?t=2997&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3022,
+      "title": "Avskjæriner av russiske fly øker",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa05061726/ff8944e8-7.smil/thumb.jpg?t=3048&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3174,
+      "title": "Iran vs Gulfstatene",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa05061726/ff8944e8-7.smil/thumb.jpg?t=3200&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3457,
+      "title": "Mangler plass til prøver",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa05061726/ff8944e8-7.smil/thumb.jpg?t=3482&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3599,
+      "title": "Overskrifter 07:30",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa05061726/ff8944e8-7.smil/thumb.jpg?t=3625&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3631,
+      "title": "Norge-Irak",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa05061726/ff8944e8-7.smil/thumb.jpg?t=3657&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3761,
+      "title": "GJEST Bengt Eriksen",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa05061726/ff8944e8-7.smil/thumb.jpg?t=3786&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3846,
+      "title": "Folkefest etter kamp",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa05061726/ff8944e8-7.smil/thumb.jpg?t=3871&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3954,
+      "title": "Kritikk skolefravær",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa05061726/ff8944e8-7.smil/thumb.jpg?t=3980&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4081,
+      "title": "Fødselsboom",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa05061726/ff8944e8-7.smil/thumb.jpg?t=4107&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4200,
+      "title": "Åpning 07:40",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa05061726/ff8944e8-7.smil/thumb.jpg?t=4225&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4231,
+      "title": "Reax Noreg-siger",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa05061726/ff8944e8-7.smil/thumb.jpg?t=4256&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4399,
+      "title": "Messi-hattrick",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa05061726/ff8944e8-7.smil/thumb.jpg?t=4424&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4406,
+      "title": "Reax Noreg-siger",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa05061726/ff8944e8-7.smil/thumb.jpg?t=4432&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4440,
+      "title": "Messi-hattrick",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa05061726/ff8944e8-7.smil/thumb.jpg?t=4466&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5399,
+      "title": "NRK Nyheter 08:00",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa05061726/ff8944e8-7.smil/thumb.jpg?t=5425&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5582,
+      "title": "Åpning 08:03",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa05061726/ff8944e8-7.smil/thumb.jpg?t=5607&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5653,
+      "title": "Noreg vann 4-1 over Irak",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa05061726/ff8944e8-7.smil/thumb.jpg?t=5678&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5847,
+      "title": "Folkefest etter fotballkamp",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa05061726/ff8944e8-7.smil/thumb.jpg?t=5873&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6001,
+      "title": "Å prestere under press",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa05061726/ff8944e8-7.smil/thumb.jpg?t=6026&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6316,
+      "title": "Reaksjoner på G7",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa05061726/ff8944e8-7.smil/thumb.jpg?t=6342&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6551,
+      "title": "SpaceX mer verdt enn oljefondet",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa05061726/ff8944e8-7.smil/thumb.jpg?t=6576&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6726,
+      "title": "Foreldre mener skolen ikke er gratis",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa05061726/ff8944e8-7.smil/thumb.jpg?t=6751&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6924,
+      "title": "Kuslipp i totalberedskapens år",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa05061726/ff8944e8-7.smil/thumb.jpg?t=6950&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7180,
+      "title": "Før Ekko i NRK P2",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa05061726/ff8944e8-7.smil/thumb.jpg?t=7205&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7283,
+      "title": "Reaksjoner Noreg-siger",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa05061726/ff8944e8-7.smil/thumb.jpg?t=7308&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7577,
+      "title": "Folk etter kampen",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa05061726/ff8944e8-7.smil/thumb.jpg?t=7602&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7706,
+      "title": "VM-feber i Trondheim",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa05061726/ff8944e8-7.smil/thumb.jpg?t=7731&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7920,
+      "title": "Irak om fotballkampen",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa05061726/ff8944e8-7.smil/thumb.jpg?t=7945&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8055,
+      "title": "Kritikk skolefravær",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa05061726/ff8944e8-7.smil/thumb.jpg?t=8080&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8252,
+      "title": "Fødselsboom",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa05061726/ff8944e8-7.smil/thumb.jpg?t=8278&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8426,
+      "title": "Anmeldelse: Sara Johnsen-bok",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa05061726/ff8944e8-7.smil/thumb.jpg?t=8452&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8686,
+      "title": "Folkelivet etter kampen",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa05061726/ff8944e8-7.smil/thumb.jpg?t=8712&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8790,
+      "title": "Rolig i trafikken",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa05061726/ff8944e8-7.smil/thumb.jpg?t=8816&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8847,
+      "title": "GJEST Været i dag",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa05061726/ff8944e8-7.smil/thumb.jpg?t=8872&scale=480x270&v=high"
+    }
+  ]
+}
