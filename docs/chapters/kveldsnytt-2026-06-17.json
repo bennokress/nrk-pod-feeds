@@ -1,0 +1,68 @@
+{
+  "version": "1.2.0",
+  "title": "Trump besøker Macron i Versailles",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-17.akamaized.net/open/ps/nnfa/nnfa23061726/5c09c677-7.smil/thumb.jpg?t=26&scale=480x270&v=high"
+    },
+    {
+      "startTime": 34,
+      "title": "Førdefjorden",
+      "img": "https://nrk-od-world-17.akamaized.net/open/ps/nnfa/nnfa23061726/5c09c677-7.smil/thumb.jpg?t=60&scale=480x270&v=high"
+    },
+    {
+      "startTime": 154,
+      "title": "Ankomst Versailles",
+      "img": "https://nrk-od-world-17.akamaized.net/open/ps/nnfa/nnfa23061726/5c09c677-7.smil/thumb.jpg?t=179&scale=480x270&v=high"
+    },
+    {
+      "startTime": 181,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-17.akamaized.net/open/ps/nnfa/nnfa23061726/5c09c677-7.smil/thumb.jpg?t=207&scale=480x270&v=high"
+    },
+    {
+      "startTime": 292,
+      "title": "Kronprinsessen",
+      "img": "https://nrk-od-world-17.akamaized.net/open/ps/nnfa/nnfa23061726/5c09c677-7.smil/thumb.jpg?t=318&scale=480x270&v=high"
+    },
+    {
+      "startTime": 320,
+      "title": "Pride starter",
+      "img": "https://nrk-od-world-17.akamaized.net/open/ps/nnfa/nnfa23061726/5c09c677-7.smil/thumb.jpg?t=346&scale=480x270&v=high"
+    },
+    {
+      "startTime": 385,
+      "title": "Solbakken om Ødegaard",
+      "img": "https://nrk-od-world-17.akamaized.net/open/ps/nnfa/nnfa23061726/5c09c677-7.smil/thumb.jpg?t=411&scale=480x270&v=high"
+    },
+    {
+      "startTime": 484,
+      "title": "Bryne om Haaland",
+      "img": "https://nrk-od-world-17.akamaized.net/open/ps/nnfa/nnfa23061726/5c09c677-7.smil/thumb.jpg?t=510&scale=480x270&v=high"
+    },
+    {
+      "startTime": 557,
+      "title": "Portugal-Kongo",
+      "img": "https://nrk-od-world-17.akamaized.net/open/ps/nnfa/nnfa23061726/5c09c677-7.smil/thumb.jpg?t=583&scale=480x270&v=high"
+    },
+    {
+      "startTime": 630,
+      "title": "England-Kroatia pause",
+      "img": "https://nrk-od-world-17.akamaized.net/open/ps/nnfa/nnfa23061726/5c09c677-7.smil/thumb.jpg?t=655&scale=480x270&v=high"
+    },
+    {
+      "startTime": 694,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-17.akamaized.net/open/ps/nnfa/nnfa23061726/5c09c677-7.smil/thumb.jpg?t=720&scale=480x270&v=high"
+    },
+    {
+      "startTime": 756,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-17.akamaized.net/open/ps/nnfa/nnfa23061726/5c09c677-7.smil/thumb.jpg?t=776.44&scale=480x270&v=high"
+    }
+  ]
+}
