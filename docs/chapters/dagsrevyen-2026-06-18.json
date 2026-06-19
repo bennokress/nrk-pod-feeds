@@ -1,0 +1,108 @@
+{
+  "version": "1.2.0",
+  "title": "Fastspent i strid med loven",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 7,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa19061826/1e01d0e4-14.smil/thumb.jpg?t=32&scale=480x270&v=high"
+    },
+    {
+      "startTime": 60,
+      "title": "Sykehus lovbrudd",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa19061826/1e01d0e4-14.smil/thumb.jpg?t=86&scale=480x270&v=high"
+    },
+    {
+      "startTime": 182,
+      "title": "Direkte Porsgrunn",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa19061826/1e01d0e4-14.smil/thumb.jpg?t=208&scale=480x270&v=high"
+    },
+    {
+      "startTime": 289,
+      "title": "Jagerfly ødelagt",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa19061826/1e01d0e4-14.smil/thumb.jpg?t=315&scale=480x270&v=high"
+    },
+    {
+      "startTime": 431,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa19061826/1e01d0e4-14.smil/thumb.jpg?t=457&scale=480x270&v=high"
+    },
+    {
+      "startTime": 585,
+      "title": "Iran-avtale",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa19061826/1e01d0e4-14.smil/thumb.jpg?t=610&scale=480x270&v=high"
+    },
+    {
+      "startTime": 650,
+      "title": "Utenriksnyheter",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa19061826/1e01d0e4-14.smil/thumb.jpg?t=676&scale=480x270&v=high"
+    },
+    {
+      "startTime": 753,
+      "title": "Rentemøte",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa19061826/1e01d0e4-14.smil/thumb.jpg?t=778&scale=480x270&v=high"
+    },
+    {
+      "startTime": 845,
+      "title": "Gjest Haugland",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa19061826/1e01d0e4-14.smil/thumb.jpg?t=870&scale=480x270&v=high"
+    },
+    {
+      "startTime": 974,
+      "title": "Tono",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa19061826/1e01d0e4-14.smil/thumb.jpg?t=1000&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1081,
+      "title": "Valg England",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa19061826/1e01d0e4-14.smil/thumb.jpg?t=1106&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1119,
+      "title": "Dir:Ashton-in-Makerfield",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa19061826/1e01d0e4-14.smil/thumb.jpg?t=1145&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1157,
+      "title": "Reportasje UK",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa19061826/1e01d0e4-14.smil/thumb.jpg?t=1182&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1242,
+      "title": "Dir:Ashton-in-Makerfield",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa19061826/1e01d0e4-14.smil/thumb.jpg?t=1268&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1270,
+      "title": "Stortinget VM",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa19061826/1e01d0e4-14.smil/thumb.jpg?t=1296&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1350,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa19061826/1e01d0e4-14.smil/thumb.jpg?t=1375&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1356,
+      "title": "Stjernene i VM",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa19061826/1e01d0e4-14.smil/thumb.jpg?t=1381&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1457,
+      "title": "Før live",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa19061826/1e01d0e4-14.smil/thumb.jpg?t=1482&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1470,
+      "title": "Direkte Greensboro",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa19061826/1e01d0e4-14.smil/thumb.jpg?t=1495&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1541,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa19061826/1e01d0e4-14.smil/thumb.jpg?t=1567&scale=480x270&v=high"
+    }
+  ]
+}
