@@ -1,0 +1,278 @@
+{
+  "version": "1.2.0",
+  "title": "Vurderer flytteforbud for flyktninger",
+  "author": "NRK",
+  "podcastName": "Nyhetsmorgen",
+  "chapters": [
+    {
+      "startTime": 2,
+      "title": "Åpning 06:30",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa05061826/18928a75-6.smil/thumb.jpg?t=27&scale=480x270&v=high"
+    },
+    {
+      "startTime": 94,
+      "title": "Tror ikke på renteendring",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa05061826/18928a75-6.smil/thumb.jpg?t=120&scale=480x270&v=high"
+    },
+    {
+      "startTime": 285,
+      "title": "Vurderer flytteforbud for flyktninger",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa05061826/18928a75-6.smil/thumb.jpg?t=311&scale=480x270&v=high"
+    },
+    {
+      "startTime": 485,
+      "title": "Trump signerte avtale i Versailles",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa05061826/18928a75-6.smil/thumb.jpg?t=510&scale=480x270&v=high"
+    },
+    {
+      "startTime": 705,
+      "title": "Rapport om klimatilpasning",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa05061826/18928a75-6.smil/thumb.jpg?t=730&scale=480x270&v=high"
+    },
+    {
+      "startTime": 800,
+      "title": "Tiltak for småbarnsforeldre",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa05061826/18928a75-6.smil/thumb.jpg?t=825&scale=480x270&v=high"
+    },
+    {
+      "startTime": 939,
+      "title": "Overskrifter 06:45",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa05061826/18928a75-6.smil/thumb.jpg?t=965&scale=480x270&v=high"
+    },
+    {
+      "startTime": 998,
+      "title": "VM-rundens overskrifter",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa05061826/18928a75-6.smil/thumb.jpg?t=1023&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1032,
+      "title": "England vann 4-2 over Kroatia",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa05061826/18928a75-6.smil/thumb.jpg?t=1057&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1411,
+      "title": "Solbakken om Ødegaard",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa05061826/18928a75-6.smil/thumb.jpg?t=1437&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1553,
+      "title": "Nord-Korea invaderer Sør-Korea i nytt spill",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa05061826/18928a75-6.smil/thumb.jpg?t=1579&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1762,
+      "title": "Åpning 07:00",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa05061826/18928a75-6.smil/thumb.jpg?t=1787&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1874,
+      "title": "Vurderer flytteforbud for flyktninger",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa05061826/18928a75-6.smil/thumb.jpg?t=1899&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2080,
+      "title": "Sindre Heyerdahl om rentemøtet idag",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa05061826/18928a75-6.smil/thumb.jpg?t=2106&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2308,
+      "title": "Elever mangler demokratikunnskap",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa05061826/18928a75-6.smil/thumb.jpg?t=2334&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2501,
+      "title": "Sylvi Listhaug i politisk kvarter",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa05061826/18928a75-6.smil/thumb.jpg?t=2527&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2557,
+      "title": "Mener Israels ideologi har blitt rasistisk",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa05061826/18928a75-6.smil/thumb.jpg?t=2582&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2779,
+      "title": "Overskrifter 07:15",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa05061826/18928a75-6.smil/thumb.jpg?t=2805&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2830,
+      "title": "Suppleringsvalg Storbritannia",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa05061826/18928a75-6.smil/thumb.jpg?t=2856&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3038,
+      "title": "Bratberg om suppleringsvalg",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa05061826/18928a75-6.smil/thumb.jpg?t=3064&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3326,
+      "title": "Korleis ser eplesesongen ut?",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa05061826/18928a75-6.smil/thumb.jpg?t=3351&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3568,
+      "title": "Hele historien: Dobbeldrapet ved Karl Johan",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa05061826/18928a75-6.smil/thumb.jpg?t=3593&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3602,
+      "title": "Overskrifter 07:30",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa05061826/18928a75-6.smil/thumb.jpg?t=3627&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3628,
+      "title": "Vurderer flytteforbud for flyktninger",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa05061826/18928a75-6.smil/thumb.jpg?t=3654&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3756,
+      "title": "Elever mangler demokratikunnskap",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa05061826/18928a75-6.smil/thumb.jpg?t=3782&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3875,
+      "title": "Trump signerte avtale i Versailles",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa05061826/18928a75-6.smil/thumb.jpg?t=3900&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3944,
+      "title": "Rentemøte Norges bank",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa05061826/18928a75-6.smil/thumb.jpg?t=3969&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3955,
+      "title": "England vann 4-2 over Kroatia",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa05061826/18928a75-6.smil/thumb.jpg?t=3981&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4034,
+      "title": "Kvelden og nattas VM-kamper",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa05061826/18928a75-6.smil/thumb.jpg?t=4060&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4057,
+      "title": "Nord-Korea invaderer Sør-Korea i nytt spill",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa05061826/18928a75-6.smil/thumb.jpg?t=4082&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4182,
+      "title": "Kappkjørte på E18",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa05061826/18928a75-6.smil/thumb.jpg?t=4208&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4199,
+      "title": "Åpning 07:40",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa05061826/18928a75-6.smil/thumb.jpg?t=4225&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4219,
+      "title": "Karrierveiledning for voksne",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa05061826/18928a75-6.smil/thumb.jpg?t=4245&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5402,
+      "title": "NRK Nyheter 08:00",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa05061826/18928a75-6.smil/thumb.jpg?t=5427&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5579,
+      "title": "Åpning 08:03",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa05061826/18928a75-6.smil/thumb.jpg?t=5604&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5755,
+      "title": "Elever mangler demokratikunnskap",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa05061826/18928a75-6.smil/thumb.jpg?t=5780&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5878,
+      "title": "1 av 4 unge er demokratisk frakoblet",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa05061826/18928a75-6.smil/thumb.jpg?t=5903&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6151,
+      "title": "G7-toppmøtet middag på Versailles",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa05061826/18928a75-6.smil/thumb.jpg?t=6176&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6408,
+      "title": "Overskrifter 08:15",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa05061826/18928a75-6.smil/thumb.jpg?t=6433&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6449,
+      "title": "Flyktninger vender hjem i Libanon",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa05061826/18928a75-6.smil/thumb.jpg?t=6474&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6702,
+      "title": "Sindre Heyerdahl om renta",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa05061826/18928a75-6.smil/thumb.jpg?t=6727&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6925,
+      "title": "Nord-Korea invaderer Sør-Korea i nytt spill",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa05061826/18928a75-6.smil/thumb.jpg?t=6951&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7070,
+      "title": "Robin Hood var en skurk",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa05061826/18928a75-6.smil/thumb.jpg?t=7096&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7217,
+      "title": "Ekko i NRK P2",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa05061826/18928a75-6.smil/thumb.jpg?t=7242&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7263,
+      "title": "Overskrifter 08:30",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa05061826/18928a75-6.smil/thumb.jpg?t=7288&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7325,
+      "title": "Vurderer flytteforbud for flyktninger",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa05061826/18928a75-6.smil/thumb.jpg?t=7350&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7452,
+      "title": "England vann 4-2 over Kroatia",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa05061826/18928a75-6.smil/thumb.jpg?t=7478&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7588,
+      "title": "Første runde i gruppespelet ferdig",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa05061826/18928a75-6.smil/thumb.jpg?t=7613&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7694,
+      "title": "Kvelden og nattas VM-kamper",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa05061826/18928a75-6.smil/thumb.jpg?t=7719&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7717,
+      "title": "Suppleringsvalg Storbritannia",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa05061826/18928a75-6.smil/thumb.jpg?t=7742&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7927,
+      "title": "Mener Israels ideologi har blitt rasistisk",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa05061826/18928a75-6.smil/thumb.jpg?t=7952&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8196,
+      "title": "MGP-påmelding",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa05061826/18928a75-6.smil/thumb.jpg?t=8221&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8631,
+      "title": "Listhaug om sunn fornuft",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa05061826/18928a75-6.smil/thumb.jpg?t=8657&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8836,
+      "title": "GJEST Været i dag",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa05061826/18928a75-6.smil/thumb.jpg?t=8861&scale=480x270&v=high"
+    }
+  ]
+}
