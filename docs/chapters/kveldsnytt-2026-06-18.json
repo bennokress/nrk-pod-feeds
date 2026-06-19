@@ -1,0 +1,78 @@
+{
+  "version": "1.2.0",
+  "title": "Storkontroll av matbud i Bergen",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa23061826/9b52283f-8.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 41,
+      "title": "Kontroll av matleveringspersonell",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa23061826/9b52283f-8.smil/thumb.jpg?t=67&scale=480x270&v=high"
+    },
+    {
+      "startTime": 132,
+      "title": "Bjørnafjorden død",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa23061826/9b52283f-8.smil/thumb.jpg?t=157&scale=480x270&v=high"
+    },
+    {
+      "startTime": 148,
+      "title": "EU-toppmøte",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa23061826/9b52283f-8.smil/thumb.jpg?t=173&scale=480x270&v=high"
+    },
+    {
+      "startTime": 166,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa23061826/9b52283f-8.smil/thumb.jpg?t=191&scale=480x270&v=high"
+    },
+    {
+      "startTime": 259,
+      "title": "Skatteparadis slutt",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa23061826/9b52283f-8.smil/thumb.jpg?t=285&scale=480x270&v=high"
+    },
+    {
+      "startTime": 283,
+      "title": "Finnmarks-brigaden",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa23061826/9b52283f-8.smil/thumb.jpg?t=309&scale=480x270&v=high"
+    },
+    {
+      "startTime": 309,
+      "title": "Forskning på alkohol og fedmeoperasjon",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa23061826/9b52283f-8.smil/thumb.jpg?t=335&scale=480x270&v=high"
+    },
+    {
+      "startTime": 397,
+      "title": "Pride i Oslo Domkirke med allsang",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa23061826/9b52283f-8.smil/thumb.jpg?t=423&scale=480x270&v=high"
+    },
+    {
+      "startTime": 491,
+      "title": "Sveits - Bosnia",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa23061826/9b52283f-8.smil/thumb.jpg?t=516&scale=480x270&v=high"
+    },
+    {
+      "startTime": 583,
+      "title": "Tsjekkia - Sør-Afrika",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa23061826/9b52283f-8.smil/thumb.jpg?t=609&scale=480x270&v=high"
+    },
+    {
+      "startTime": 658,
+      "title": "Newspakke",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa23061826/9b52283f-8.smil/thumb.jpg?t=684&scale=480x270&v=high"
+    },
+    {
+      "startTime": 739,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa23061826/9b52283f-8.smil/thumb.jpg?t=764&scale=480x270&v=high"
+    },
+    {
+      "startTime": 798,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa23061826/9b52283f-8.smil/thumb.jpg?t=815.48&scale=480x270&v=high"
+    }
+  ]
+}
