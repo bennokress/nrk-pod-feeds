@@ -1,0 +1,98 @@
+{
+  "version": "1.2.0",
+  "title": "Farlig drikkevann",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 7,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-40.akamaized.net/open/ps/nnfa/nnfa19061926/d458a879-6.smil/thumb.jpg?t=33&scale=480x270&v=high"
+    },
+    {
+      "startTime": 66,
+      "title": "Forurenset drikkevann",
+      "img": "https://nrk-od-world-40.akamaized.net/open/ps/nnfa/nnfa19061926/d458a879-6.smil/thumb.jpg?t=91&scale=480x270&v=high"
+    },
+    {
+      "startTime": 170,
+      "title": "Gjest Mattilsynet",
+      "img": "https://nrk-od-world-40.akamaized.net/open/ps/nnfa/nnfa19061926/d458a879-6.smil/thumb.jpg?t=195&scale=480x270&v=high"
+    },
+    {
+      "startTime": 302,
+      "title": "Samtaler avlyst",
+      "img": "https://nrk-od-world-40.akamaized.net/open/ps/nnfa/nnfa19061926/d458a879-6.smil/thumb.jpg?t=327&scale=480x270&v=high"
+    },
+    {
+      "startTime": 444,
+      "title": "Direkte Beirut",
+      "img": "https://nrk-od-world-40.akamaized.net/open/ps/nnfa/nnfa19061926/d458a879-6.smil/thumb.jpg?t=469&scale=480x270&v=high"
+    },
+    {
+      "startTime": 586,
+      "title": "Feriestart",
+      "img": "https://nrk-od-world-40.akamaized.net/open/ps/nnfa/nnfa19061926/d458a879-6.smil/thumb.jpg?t=611&scale=480x270&v=high"
+    },
+    {
+      "startTime": 779,
+      "title": "Direkte Madrid",
+      "img": "https://nrk-od-world-40.akamaized.net/open/ps/nnfa/nnfa19061926/d458a879-6.smil/thumb.jpg?t=804&scale=480x270&v=high"
+    },
+    {
+      "startTime": 887,
+      "title": "Filmer eldre",
+      "img": "https://nrk-od-world-40.akamaized.net/open/ps/nnfa/nnfa19061926/d458a879-6.smil/thumb.jpg?t=912&scale=480x270&v=high"
+    },
+    {
+      "startTime": 993,
+      "title": "Støre og nederlag",
+      "img": "https://nrk-od-world-40.akamaized.net/open/ps/nnfa/nnfa19061926/d458a879-6.smil/thumb.jpg?t=1018&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1099,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-40.akamaized.net/open/ps/nnfa/nnfa19061926/d458a879-6.smil/thumb.jpg?t=1125&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1155,
+      "title": "Utenriksnyheter",
+      "img": "https://nrk-od-world-40.akamaized.net/open/ps/nnfa/nnfa19061926/d458a879-6.smil/thumb.jpg?t=1180&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1261,
+      "title": "Sparboe død",
+      "img": "https://nrk-od-world-40.akamaized.net/open/ps/nnfa/nnfa19061926/d458a879-6.smil/thumb.jpg?t=1286&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1354,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-40.akamaized.net/open/ps/nnfa/nnfa19061926/d458a879-6.smil/thumb.jpg?t=1379&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1360,
+      "title": "Norge i VM",
+      "img": "https://nrk-od-world-40.akamaized.net/open/ps/nnfa/nnfa19061926/d458a879-6.smil/thumb.jpg?t=1386&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1445,
+      "title": "Vm dommer",
+      "img": "https://nrk-od-world-40.akamaized.net/open/ps/nnfa/nnfa19061926/d458a879-6.smil/thumb.jpg?t=1470&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1467,
+      "title": "Diamond League",
+      "img": "https://nrk-od-world-40.akamaized.net/open/ps/nnfa/nnfa19061926/d458a879-6.smil/thumb.jpg?t=1493&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1493,
+      "title": "Ny RBK trener",
+      "img": "https://nrk-od-world-40.akamaized.net/open/ps/nnfa/nnfa19061926/d458a879-6.smil/thumb.jpg?t=1518&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1561,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-40.akamaized.net/open/ps/nnfa/nnfa19061926/d458a879-6.smil/thumb.jpg?t=1587&scale=480x270&v=high"
+    }
+  ]
+}
