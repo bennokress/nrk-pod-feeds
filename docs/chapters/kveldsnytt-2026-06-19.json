@@ -1,0 +1,68 @@
+{
+  "version": "1.2.0",
+  "title": "Vil ikke kreve tilfluktsrom i nybygg",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa23061926/2516b01f-6.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 36,
+      "title": "Bomberom",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa23061926/2516b01f-6.smil/thumb.jpg?t=62&scale=480x270&v=high"
+    },
+    {
+      "startTime": 147,
+      "title": "Togkollisjon",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa23061926/2516b01f-6.smil/thumb.jpg?t=173&scale=480x270&v=high"
+    },
+    {
+      "startTime": 170,
+      "title": "Molde",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa23061926/2516b01f-6.smil/thumb.jpg?t=195&scale=480x270&v=high"
+    },
+    {
+      "startTime": 186,
+      "title": "Høyanger",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa23061926/2516b01f-6.smil/thumb.jpg?t=212&scale=480x270&v=high"
+    },
+    {
+      "startTime": 283,
+      "title": "E-legende død",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa23061926/2516b01f-6.smil/thumb.jpg?t=308&scale=480x270&v=high"
+    },
+    {
+      "startTime": 358,
+      "title": "Ventetid helse",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa23061926/2516b01f-6.smil/thumb.jpg?t=384&scale=480x270&v=high"
+    },
+    {
+      "startTime": 455,
+      "title": "USA-Australia VM 2026",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa23061926/2516b01f-6.smil/thumb.jpg?t=480&scale=480x270&v=high"
+    },
+    {
+      "startTime": 548,
+      "title": "Klæbo til USA for å se fotball",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa23061926/2516b01f-6.smil/thumb.jpg?t=574&scale=480x270&v=high"
+    },
+    {
+      "startTime": 615,
+      "title": "Diamond League",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa23061926/2516b01f-6.smil/thumb.jpg?t=640&scale=480x270&v=high"
+    },
+    {
+      "startTime": 678,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa23061926/2516b01f-6.smil/thumb.jpg?t=704&scale=480x270&v=high"
+    },
+    {
+      "startTime": 745,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa23061926/2516b01f-6.smil/thumb.jpg?t=766.6&scale=480x270&v=high"
+    }
+  ]
+}
