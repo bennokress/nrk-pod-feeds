@@ -1,0 +1,73 @@
+{
+  "version": "1.2.0",
+  "title": "Advarer før hetebølgen",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 2,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa23062026/509710a3-6.smil/thumb.jpg?t=27&scale=480x270&v=high"
+    },
+    {
+      "startTime": 36,
+      "title": "Hetebølge i Europa",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa23062026/509710a3-6.smil/thumb.jpg?t=62&scale=480x270&v=high"
+    },
+    {
+      "startTime": 136,
+      "title": "Zelenskyj",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa23062026/509710a3-6.smil/thumb.jpg?t=161&scale=480x270&v=high"
+    },
+    {
+      "startTime": 217,
+      "title": "FN-Sudan",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa23062026/509710a3-6.smil/thumb.jpg?t=242&scale=480x270&v=high"
+    },
+    {
+      "startTime": 238,
+      "title": "Gaza",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa23062026/509710a3-6.smil/thumb.jpg?t=263&scale=480x270&v=high"
+    },
+    {
+      "startTime": 261,
+      "title": "Før forhandlinger",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa23062026/509710a3-6.smil/thumb.jpg?t=287&scale=480x270&v=high"
+    },
+    {
+      "startTime": 314,
+      "title": "Harstad festspill",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa23062026/509710a3-6.smil/thumb.jpg?t=340&scale=480x270&v=high"
+    },
+    {
+      "startTime": 417,
+      "title": "Saueslipp",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa23062026/509710a3-6.smil/thumb.jpg?t=443&scale=480x270&v=high"
+    },
+    {
+      "startTime": 447,
+      "title": "Fotball-VM",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa23062026/509710a3-6.smil/thumb.jpg?t=473&scale=480x270&v=high"
+    },
+    {
+      "startTime": 555,
+      "title": "Amerikansk fotball",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa23062026/509710a3-6.smil/thumb.jpg?t=581&scale=480x270&v=high"
+    },
+    {
+      "startTime": 629,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa23062026/509710a3-6.smil/thumb.jpg?t=655&scale=480x270&v=high"
+    },
+    {
+      "startTime": 667,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa23062026/509710a3-6.smil/thumb.jpg?t=692&scale=480x270&v=high"
+    },
+    {
+      "startTime": 721,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa23062026/509710a3-6.smil/thumb.jpg?t=739.8&scale=480x270&v=high"
+    }
+  ]
+}
