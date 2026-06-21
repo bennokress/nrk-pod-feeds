@@ -1,0 +1,93 @@
+{
+  "version": "1.2.0",
+  "title": "Rømte fra krigen",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa19062026/4a3d8829-12.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 64,
+      "title": "Russiske soldater",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa19062026/4a3d8829-12.smil/thumb.jpg?t=89&scale=480x270&v=high"
+    },
+    {
+      "startTime": 210,
+      "title": "Våpenhvile brudd",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa19062026/4a3d8829-12.smil/thumb.jpg?t=235&scale=480x270&v=high"
+    },
+    {
+      "startTime": 329,
+      "title": "Direkte Beirut",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa19062026/4a3d8829-12.smil/thumb.jpg?t=355&scale=480x270&v=high"
+    },
+    {
+      "startTime": 517,
+      "title": "Renser vann i Oslo",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa19062026/4a3d8829-12.smil/thumb.jpg?t=543&scale=480x270&v=high"
+    },
+    {
+      "startTime": 619,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa19062026/4a3d8829-12.smil/thumb.jpg?t=644&scale=480x270&v=high"
+    },
+    {
+      "startTime": 681,
+      "title": "Droner politi",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa19062026/4a3d8829-12.smil/thumb.jpg?t=707&scale=480x270&v=high"
+    },
+    {
+      "startTime": 791,
+      "title": "Dronning Sonja",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa19062026/4a3d8829-12.smil/thumb.jpg?t=817&scale=480x270&v=high"
+    },
+    {
+      "startTime": 900,
+      "title": "Forsvar pensjon",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa19062026/4a3d8829-12.smil/thumb.jpg?t=925&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1001,
+      "title": "Halvor Mjaugedal",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa19062026/4a3d8829-12.smil/thumb.jpg?t=1026&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1253,
+      "title": "OL-Norge",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa19062026/4a3d8829-12.smil/thumb.jpg?t=1279&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1357,
+      "title": "Slinningsbålet",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa19062026/4a3d8829-12.smil/thumb.jpg?t=1383&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1378,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa19062026/4a3d8829-12.smil/thumb.jpg?t=1403&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1385,
+      "title": "Pressekonferanse-Norge",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa19062026/4a3d8829-12.smil/thumb.jpg?t=1411&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1473,
+      "title": "Nederland - Sverige",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa19062026/4a3d8829-12.smil/thumb.jpg?t=1498&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1523,
+      "title": "Tyrkia fiasko",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa19062026/4a3d8829-12.smil/thumb.jpg?t=1548&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1597,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa19062026/4a3d8829-12.smil/thumb.jpg?t=1623&scale=480x270&v=high"
+    }
+  ]
+}
