@@ -1,0 +1,53 @@
+{
+  "version": "1.2.0",
+  "title": "Advarer om skatteforlik",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa21062126/bfd94a18-7.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 25,
+      "title": "Hetebølge på Østlandet gjør at alle vil bade, men noen steder er vannet fullt av bakterier",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa21062126/bfd94a18-7.smil/thumb.jpg?t=51&scale=480x270&v=high"
+    },
+    {
+      "startTime": 121,
+      "title": "Hetebølge i Europa",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa21062126/bfd94a18-7.smil/thumb.jpg?t=147&scale=480x270&v=high"
+    },
+    {
+      "startTime": 188,
+      "title": "London",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa21062126/bfd94a18-7.smil/thumb.jpg?t=213&scale=480x270&v=high"
+    },
+    {
+      "startTime": 250,
+      "title": "Trump Starmer",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa21062126/bfd94a18-7.smil/thumb.jpg?t=275&scale=480x270&v=high"
+    },
+    {
+      "startTime": 281,
+      "title": "Lekkasjer skatt",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa21062126/bfd94a18-7.smil/thumb.jpg?t=306&scale=480x270&v=high"
+    },
+    {
+      "startTime": 395,
+      "title": "Kortere arbeidsdag",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa21062126/bfd94a18-7.smil/thumb.jpg?t=421&scale=480x270&v=high"
+    },
+    {
+      "startTime": 438,
+      "title": "Været",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa21062126/bfd94a18-7.smil/thumb.jpg?t=463&scale=480x270&v=high"
+    },
+    {
+      "startTime": 489,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa21062126/bfd94a18-7.smil/thumb.jpg?t=508.44&scale=480x270&v=high"
+    }
+  ]
+}

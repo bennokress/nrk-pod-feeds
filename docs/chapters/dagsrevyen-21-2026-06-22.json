@@ -1,0 +1,53 @@
+{
+  "version": "1.2.0",
+  "title": "Svak kontroll med utenlandsadopsjon",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa21062226/9750688c-8.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 45,
+      "title": "Utenlandsadopsjon",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa21062226/9750688c-8.smil/thumb.jpg?t=71&scale=480x270&v=high"
+    },
+    {
+      "startTime": 125,
+      "title": "DAGSREVYPAKKE",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa21062226/9750688c-8.smil/thumb.jpg?t=151&scale=480x270&v=high"
+    },
+    {
+      "startTime": 232,
+      "title": "Fotball-VM",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa21062226/9750688c-8.smil/thumb.jpg?t=258&scale=480x270&v=high"
+    },
+    {
+      "startTime": 257,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa21062226/9750688c-8.smil/thumb.jpg?t=282&scale=480x270&v=high"
+    },
+    {
+      "startTime": 375,
+      "title": "Filmet Haaland på gåtur",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa21062226/9750688c-8.smil/thumb.jpg?t=400&scale=480x270&v=high"
+    },
+    {
+      "startTime": 454,
+      "title": "Argentina–Østerrike",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa21062226/9750688c-8.smil/thumb.jpg?t=480&scale=480x270&v=high"
+    },
+    {
+      "startTime": 520,
+      "title": "Været",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa21062226/9750688c-8.smil/thumb.jpg?t=546&scale=480x270&v=high"
+    },
+    {
+      "startTime": 576,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa21062226/9750688c-8.smil/thumb.jpg?t=595.55&scale=480x270&v=high"
+    }
+  ]
+}
