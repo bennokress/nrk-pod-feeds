@@ -1,0 +1,63 @@
+{
+  "version": "1.2.0",
+  "title": "Alger i prestisjebasseng",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa23062126/f023acea-8.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 24,
+      "title": "Trumps prestisjebasseng",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa23062126/f023acea-8.smil/thumb.jpg?t=49&scale=480x270&v=high"
+    },
+    {
+      "startTime": 145,
+      "title": "Skatteforlik",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa23062126/f023acea-8.smil/thumb.jpg?t=170&scale=480x270&v=high"
+    },
+    {
+      "startTime": 168,
+      "title": "Norske kirken annerkjenner skogfinnene på skogfinnenes dag",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa23062126/f023acea-8.smil/thumb.jpg?t=194&scale=480x270&v=high"
+    },
+    {
+      "startTime": 272,
+      "title": "Toy Story 5",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa23062126/f023acea-8.smil/thumb.jpg?t=298&scale=480x270&v=high"
+    },
+    {
+      "startTime": 295,
+      "title": "Utenrikspakke",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa23062126/f023acea-8.smil/thumb.jpg?t=321&scale=480x270&v=high"
+    },
+    {
+      "startTime": 416,
+      "title": "Spania med VM seier",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa23062126/f023acea-8.smil/thumb.jpg?t=441&scale=480x270&v=high"
+    },
+    {
+      "startTime": 493,
+      "title": "Belgia - Iran",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa23062126/f023acea-8.smil/thumb.jpg?t=518&scale=480x270&v=high"
+    },
+    {
+      "startTime": 550,
+      "title": "Kjær Wimbledon",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa23062126/f023acea-8.smil/thumb.jpg?t=576&scale=480x270&v=high"
+    },
+    {
+      "startTime": 617,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa23062126/f023acea-8.smil/thumb.jpg?t=643&scale=480x270&v=high"
+    },
+    {
+      "startTime": 673,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa23062126/f023acea-8.smil/thumb.jpg?t=692.55&scale=480x270&v=high"
+    }
+  ]
+}
