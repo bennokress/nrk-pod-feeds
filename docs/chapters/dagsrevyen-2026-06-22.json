@@ -1,0 +1,108 @@
+{
+  "version": "1.2.0",
+  "title": "Gjør seg klare",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 7,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa19062226/0063ddb7-6.smil/thumb.jpg?t=32&scale=480x270&v=high"
+    },
+    {
+      "startTime": 54,
+      "title": "Direkte New York",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa19062226/0063ddb7-6.smil/thumb.jpg?t=79&scale=480x270&v=high"
+    },
+    {
+      "startTime": 132,
+      "title": "Norske supportere",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa19062226/0063ddb7-6.smil/thumb.jpg?t=158&scale=480x270&v=high"
+    },
+    {
+      "startTime": 194,
+      "title": "Direkte Dakar",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa19062226/0063ddb7-6.smil/thumb.jpg?t=219&scale=480x270&v=high"
+    },
+    {
+      "startTime": 263,
+      "title": "Fotballskole",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa19062226/0063ddb7-6.smil/thumb.jpg?t=289&scale=480x270&v=high"
+    },
+    {
+      "startTime": 373,
+      "title": "Starmer trekker seg",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa19062226/0063ddb7-6.smil/thumb.jpg?t=399&scale=480x270&v=high"
+    },
+    {
+      "startTime": 431,
+      "title": "Direkte London",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa19062226/0063ddb7-6.smil/thumb.jpg?t=457&scale=480x270&v=high"
+    },
+    {
+      "startTime": 512,
+      "title": "Starmer trekker seg",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa19062226/0063ddb7-6.smil/thumb.jpg?t=537&scale=480x270&v=high"
+    },
+    {
+      "startTime": 593,
+      "title": "Direkte London",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa19062226/0063ddb7-6.smil/thumb.jpg?t=618&scale=480x270&v=high"
+    },
+    {
+      "startTime": 631,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa19062226/0063ddb7-6.smil/thumb.jpg?t=657&scale=480x270&v=high"
+    },
+    {
+      "startTime": 689,
+      "title": "Telenor og regjeringen",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa19062226/0063ddb7-6.smil/thumb.jpg?t=714&scale=480x270&v=high"
+    },
+    {
+      "startTime": 811,
+      "title": "Hvaldimir",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa19062226/0063ddb7-6.smil/thumb.jpg?t=836&scale=480x270&v=high"
+    },
+    {
+      "startTime": 922,
+      "title": "Utenriksnyheter",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa19062226/0063ddb7-6.smil/thumb.jpg?t=948&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1020,
+      "title": "Drap Frankrike",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa19062226/0063ddb7-6.smil/thumb.jpg?t=1045&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1121,
+      "title": "Direkte Paris",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa19062226/0063ddb7-6.smil/thumb.jpg?t=1146&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1257,
+      "title": "Gress",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa19062226/0063ddb7-6.smil/thumb.jpg?t=1283&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1377,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa19062226/0063ddb7-6.smil/thumb.jpg?t=1402&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1381,
+      "title": "Senegal-trener om Haaland",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa19062226/0063ddb7-6.smil/thumb.jpg?t=1407&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1455,
+      "title": "Direkte New Jersey",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa19062226/0063ddb7-6.smil/thumb.jpg?t=1480&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1559,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa19062226/0063ddb7-6.smil/thumb.jpg?t=1584&scale=480x270&v=high"
+    }
+  ]
+}
