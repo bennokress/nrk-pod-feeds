@@ -1,0 +1,63 @@
+{
+  "version": "1.2.0",
+  "title": "Starmer går av",
+  "author": "NRK",
+  "podcastName": "Dagsnytt 18",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsnytt atten",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa56062226/12f4b098-6.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 52,
+      "title": "Starmer går av",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa56062226/12f4b098-6.smil/thumb.jpg?t=78&scale=480x270&v=high"
+    },
+    {
+      "startTime": 475,
+      "title": "Utenlandsadopsjoner",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa56062226/12f4b098-6.smil/thumb.jpg?t=500&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1554,
+      "title": "Norge møter Senegal",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa56062226/12f4b098-6.smil/thumb.jpg?t=1580&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2047,
+      "title": "Ansvar for sykefravær",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa56062226/12f4b098-6.smil/thumb.jpg?t=2073&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2521,
+      "title": "Kommer senere",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa56062226/12f4b098-6.smil/thumb.jpg?t=2547&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2695,
+      "title": "Dropper krav om tilfluktsrom",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa56062226/12f4b098-6.smil/thumb.jpg?t=2721&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2940,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa56062226/12f4b098-6.smil/thumb.jpg?t=2965&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2951,
+      "title": "Populistiske Senterpartiet",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa56062226/12f4b098-6.smil/thumb.jpg?t=2976&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3521,
+      "title": "AVSLUTNING",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa56062226/12f4b098-6.smil/thumb.jpg?t=3544&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3526,
+      "title": "SLUTTKJENNING",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa56062226/12f4b098-6.smil/thumb.jpg?t=3544&scale=480x270&v=high"
+    }
+  ]
+}
