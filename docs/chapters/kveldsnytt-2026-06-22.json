@@ -1,0 +1,68 @@
+{
+  "version": "1.2.0",
+  "title": "Styrtregn og flomvarsel før VM-kamp",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 1,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa23062226/9e4e6017-9.smil/thumb.jpg?t=26&scale=480x270&v=high"
+    },
+    {
+      "startTime": 38,
+      "title": "Norske fans evakuert fra stadion",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa23062226/9e4e6017-9.smil/thumb.jpg?t=64&scale=480x270&v=high"
+    },
+    {
+      "startTime": 116,
+      "title": "Gjest:",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa23062226/9e4e6017-9.smil/thumb.jpg?t=141&scale=480x270&v=high"
+    },
+    {
+      "startTime": 302,
+      "title": "Messi historisk",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa23062226/9e4e6017-9.smil/thumb.jpg?t=328&scale=480x270&v=high"
+    },
+    {
+      "startTime": 377,
+      "title": "New Yorks ordfører",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa23062226/9e4e6017-9.smil/thumb.jpg?t=402&scale=480x270&v=high"
+    },
+    {
+      "startTime": 432,
+      "title": "Fotball-VM",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa23062226/9e4e6017-9.smil/thumb.jpg?t=457&scale=480x270&v=high"
+    },
+    {
+      "startTime": 458,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa23062226/9e4e6017-9.smil/thumb.jpg?t=484&scale=480x270&v=high"
+    },
+    {
+      "startTime": 560,
+      "title": "Minnested 22. juli",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa23062226/9e4e6017-9.smil/thumb.jpg?t=586&scale=480x270&v=high"
+    },
+    {
+      "startTime": 648,
+      "title": "SpaceX",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa23062226/9e4e6017-9.smil/thumb.jpg?t=673&scale=480x270&v=high"
+    },
+    {
+      "startTime": 676,
+      "title": "Colombia",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa23062226/9e4e6017-9.smil/thumb.jpg?t=701&scale=480x270&v=high"
+    },
+    {
+      "startTime": 716,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa23062226/9e4e6017-9.smil/thumb.jpg?t=741&scale=480x270&v=high"
+    },
+    {
+      "startTime": 772,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa23062226/9e4e6017-9.smil/thumb.jpg?t=793.92&scale=480x270&v=high"
+    }
+  ]
+}
