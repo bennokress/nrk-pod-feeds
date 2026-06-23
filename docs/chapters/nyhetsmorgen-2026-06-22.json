@@ -1,0 +1,318 @@
+{
+  "version": "1.2.0",
+  "title": "Det kan haste med droner",
+  "author": "NRK",
+  "podcastName": "Nyhetsmorgen",
+  "chapters": [
+    {
+      "startTime": 5,
+      "title": "Åpning 06:30",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05062226/29acfd41-6.smil/thumb.jpg?t=30&scale=480x270&v=high"
+    },
+    {
+      "startTime": 77,
+      "title": "Høyre: Norge ligger bak i dronesatsing",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05062226/29acfd41-6.smil/thumb.jpg?t=103&scale=480x270&v=high"
+    },
+    {
+      "startTime": 123,
+      "title": "Alle bør ha kontanter",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05062226/29acfd41-6.smil/thumb.jpg?t=148&scale=480x270&v=high"
+    },
+    {
+      "startTime": 318,
+      "title": "Siste nytt",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05062226/29acfd41-6.smil/thumb.jpg?t=343&scale=480x270&v=high"
+    },
+    {
+      "startTime": 465,
+      "title": "Trump og Meloni",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05062226/29acfd41-6.smil/thumb.jpg?t=490&scale=480x270&v=high"
+    },
+    {
+      "startTime": 611,
+      "title": "Tar i mot ulovlig kveite",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05062226/29acfd41-6.smil/thumb.jpg?t=637&scale=480x270&v=high"
+    },
+    {
+      "startTime": 744,
+      "title": "Hogst av gammelskog",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05062226/29acfd41-6.smil/thumb.jpg?t=769&scale=480x270&v=high"
+    },
+    {
+      "startTime": 896,
+      "title": "Overskrifter 06:45",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05062226/29acfd41-6.smil/thumb.jpg?t=921&scale=480x270&v=high"
+    },
+    {
+      "startTime": 943,
+      "title": "VM-rundens overskrifter",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05062226/29acfd41-6.smil/thumb.jpg?t=969&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1047,
+      "title": "Mest besøkte landskampen på 69 år",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05062226/29acfd41-6.smil/thumb.jpg?t=1073&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1168,
+      "title": "Bengt Eriksen om Norge og Senegal",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05062226/29acfd41-6.smil/thumb.jpg?t=1193&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1372,
+      "title": "Kapp Verde sjokkerte Uruguay",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05062226/29acfd41-6.smil/thumb.jpg?t=1397&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1490,
+      "title": "Senegal og Afcon",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05062226/29acfd41-6.smil/thumb.jpg?t=1515&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1721,
+      "title": "VM og søvn",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05062226/29acfd41-6.smil/thumb.jpg?t=1746&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1839,
+      "title": "Åpning 07:00",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05062226/29acfd41-6.smil/thumb.jpg?t=1864&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1908,
+      "title": "Ukrainske droneangrep i Russland i natt",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05062226/29acfd41-6.smil/thumb.jpg?t=1934&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2069,
+      "title": "Høyre: Norge ligger bak i dronesatsing",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05062226/29acfd41-6.smil/thumb.jpg?t=2094&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2238,
+      "title": "Gjest droner i Forsvaret",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05062226/29acfd41-6.smil/thumb.jpg?t=2264&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2478,
+      "title": "Ny britisk statsminister i dag?",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05062226/29acfd41-6.smil/thumb.jpg?t=2503&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2645,
+      "title": "Telenor overvåking",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05062226/29acfd41-6.smil/thumb.jpg?t=2671&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2840,
+      "title": "Politisk kvarter om skatt",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05062226/29acfd41-6.smil/thumb.jpg?t=2865&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2899,
+      "title": "Overskrifter 07:15",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05062226/29acfd41-6.smil/thumb.jpg?t=2924&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2939,
+      "title": "Siste om Iran og USA",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05062226/29acfd41-6.smil/thumb.jpg?t=2964&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3138,
+      "title": "Thina Saltvedt om olje og Hormuz",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05062226/29acfd41-6.smil/thumb.jpg?t=3164&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3392,
+      "title": "Talentkjelleren",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05062226/29acfd41-6.smil/thumb.jpg?t=3417&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3564,
+      "title": "Teasing dagens sending",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05062226/29acfd41-6.smil/thumb.jpg?t=3590&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3603,
+      "title": "Overskrifter 07:30",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05062226/29acfd41-6.smil/thumb.jpg?t=3628&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3639,
+      "title": "Høyre: Norge ligger bak i dronesatsing",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05062226/29acfd41-6.smil/thumb.jpg?t=3664&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3761,
+      "title": "USA og Iran enige om veien videre",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05062226/29acfd41-6.smil/thumb.jpg?t=3787&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3811,
+      "title": "Ny britisk statsminister i dag?",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05062226/29acfd41-6.smil/thumb.jpg?t=3837&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3878,
+      "title": "Kapp Verde sjokkerte Uruguay",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05062226/29acfd41-6.smil/thumb.jpg?t=3903&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3906,
+      "title": "Kan bli regnfull kamp for Norge",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05062226/29acfd41-6.smil/thumb.jpg?t=3931&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4011,
+      "title": "VM og søvn",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05062226/29acfd41-6.smil/thumb.jpg?t=4037&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4101,
+      "title": "Alle bør ha kontanter",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05062226/29acfd41-6.smil/thumb.jpg?t=4126&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4197,
+      "title": "Åpning 07:40",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05062226/29acfd41-6.smil/thumb.jpg?t=4222&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4210,
+      "title": "Vanskelig å spise nok",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05062226/29acfd41-6.smil/thumb.jpg?t=4235&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4425,
+      "title": "Kapp Verde sjokkerte Uruguay",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05062226/29acfd41-6.smil/thumb.jpg?t=4450&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4493,
+      "title": "Topper 07:44",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05062226/29acfd41-6.smil/thumb.jpg?t=4518&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5402,
+      "title": "NRK Nyheter 08:00",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05062226/29acfd41-6.smil/thumb.jpg?t=5428&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5577,
+      "title": "Åpning 08:03",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05062226/29acfd41-6.smil/thumb.jpg?t=5603&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5589,
+      "title": "Høyre: Norge ligger bak i dronesatsing",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05062226/29acfd41-6.smil/thumb.jpg?t=5615&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5598,
+      "title": "Åpning 08:03",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05062226/29acfd41-6.smil/thumb.jpg?t=5624&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5636,
+      "title": "Høyre: Norge ligger bak i dronesatsing",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05062226/29acfd41-6.smil/thumb.jpg?t=5661&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5802,
+      "title": "Krangel mellom Polen og Ukraina",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05062226/29acfd41-6.smil/thumb.jpg?t=5827&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6046,
+      "title": "Nordlandsbanen åpner igjen",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05062226/29acfd41-6.smil/thumb.jpg?t=6072&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6243,
+      "title": "Overskrifter 08:15",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05062226/29acfd41-6.smil/thumb.jpg?t=6269&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6282,
+      "title": "Råd til nye i sommarjobb",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05062226/29acfd41-6.smil/thumb.jpg?t=6308&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6611,
+      "title": "Senegal og Afcon",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05062226/29acfd41-6.smil/thumb.jpg?t=6637&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6791,
+      "title": "Mandagspanelet",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05062226/29acfd41-6.smil/thumb.jpg?t=6817&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7249,
+      "title": "Overskrifter 08:30",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05062226/29acfd41-6.smil/thumb.jpg?t=7275&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7304,
+      "title": "Siste om USA og Iran (R)",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05062226/29acfd41-6.smil/thumb.jpg?t=7329&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7459,
+      "title": "Lasteskip truffet i droneangrep",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05062226/29acfd41-6.smil/thumb.jpg?t=7484&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7613,
+      "title": "Telenor overvåking",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05062226/29acfd41-6.smil/thumb.jpg?t=7638&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7786,
+      "title": "Jusprofessor om Telenor",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05062226/29acfd41-6.smil/thumb.jpg?t=7811&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8041,
+      "title": "Negative holdninger til Pride øker",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05062226/29acfd41-6.smil/thumb.jpg?t=8066&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8334,
+      "title": "DIR P2-pulsen",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05062226/29acfd41-6.smil/thumb.jpg?t=8359&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8402,
+      "title": "Overskrifter 08:45",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05062226/29acfd41-6.smil/thumb.jpg?t=8427&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8443,
+      "title": "Avviklar skatteparadis",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05062226/29acfd41-6.smil/thumb.jpg?t=8469&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8654,
+      "title": "Mest besøkte landskampen på 69 år",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05062226/29acfd41-6.smil/thumb.jpg?t=8679&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8789,
+      "title": "VM og søvn",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05062226/29acfd41-6.smil/thumb.jpg?t=8814&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8909,
+      "title": "GJEST Været i dag",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05062226/29acfd41-6.smil/thumb.jpg?t=8934&scale=480x270&v=high"
+    },
+    {
+      "startTime": 9000,
+      "title": "Avslutning",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05062226/29acfd41-6.smil/thumb.jpg?t=9003.36&scale=480x270&v=high"
+    }
+  ]
+}
