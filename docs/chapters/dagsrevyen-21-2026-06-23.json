@@ -1,0 +1,43 @@
+{
+  "version": "1.2.0",
+  "title": "Rullebaner smuldrer opp",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 1,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-00.akamaized.net/open/ps/nnfa/nnfa21062326/be8b8052-6.smil/thumb.jpg?t=26&scale=480x270&v=high"
+    },
+    {
+      "startTime": 26,
+      "title": "Forsvarets rullebaner smuldrer opp",
+      "img": "https://nrk-od-world-00.akamaized.net/open/ps/nnfa/nnfa21062326/be8b8052-6.smil/thumb.jpg?t=51&scale=480x270&v=high"
+    },
+    {
+      "startTime": 130,
+      "title": "DAGSREVYPAKKE",
+      "img": "https://nrk-od-world-00.akamaized.net/open/ps/nnfa/nnfa21062326/be8b8052-6.smil/thumb.jpg?t=156&scale=480x270&v=high"
+    },
+    {
+      "startTime": 277,
+      "title": "Ronaldo med scoring i seks VM",
+      "img": "https://nrk-od-world-00.akamaized.net/open/ps/nnfa/nnfa21062326/be8b8052-6.smil/thumb.jpg?t=303&scale=480x270&v=high"
+    },
+    {
+      "startTime": 465,
+      "title": "Sankthans",
+      "img": "https://nrk-od-world-00.akamaized.net/open/ps/nnfa/nnfa21062326/be8b8052-6.smil/thumb.jpg?t=491&scale=480x270&v=high"
+    },
+    {
+      "startTime": 501,
+      "title": "Været",
+      "img": "https://nrk-od-world-00.akamaized.net/open/ps/nnfa/nnfa21062326/be8b8052-6.smil/thumb.jpg?t=527&scale=480x270&v=high"
+    },
+    {
+      "startTime": 549,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-00.akamaized.net/open/ps/nnfa/nnfa21062326/be8b8052-6.smil/thumb.jpg?t=570.67&scale=480x270&v=high"
+    }
+  ]
+}
