@@ -1,0 +1,278 @@
+{
+  "version": "1.2.0",
+  "title": "Norge-Senegal",
+  "author": "NRK",
+  "podcastName": "Nyhetsmorgen",
+  "chapters": [
+    {
+      "startTime": 1,
+      "title": "Åpning 06:30",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05062326/36fe6125-6.smil/thumb.jpg?t=27&scale=480x270&v=high"
+    },
+    {
+      "startTime": 122,
+      "title": "Norge er videre i fotball-VM",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05062326/36fe6125-6.smil/thumb.jpg?t=148&scale=480x270&v=high"
+    },
+    {
+      "startTime": 285,
+      "title": "Kommentator Bengt Eriksen",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05062326/36fe6125-6.smil/thumb.jpg?t=310&scale=480x270&v=high"
+    },
+    {
+      "startTime": 995,
+      "title": "Overskrifter 06:45",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05062326/36fe6125-6.smil/thumb.jpg?t=1020&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1039,
+      "title": "Norsk skattepolitikk fungerer dårlig",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05062326/36fe6125-6.smil/thumb.jpg?t=1064&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1181,
+      "title": "Siste nytt",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05062326/36fe6125-6.smil/thumb.jpg?t=1207&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1290,
+      "title": "Militære rullebaner smuldrer opp",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05062326/36fe6125-6.smil/thumb.jpg?t=1315&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1523,
+      "title": "Ny Spiderman-film",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05062326/36fe6125-6.smil/thumb.jpg?t=1548&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1702,
+      "title": "Teasing dagens sending",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05062326/36fe6125-6.smil/thumb.jpg?t=1728&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1781,
+      "title": "Hele historien: Dobbeldrapet ved Karl Joha",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05062326/36fe6125-6.smil/thumb.jpg?t=1807&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1807,
+      "title": "Åpning 07:00",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05062326/36fe6125-6.smil/thumb.jpg?t=1833&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1871,
+      "title": "Norge er videre i fotball-VM",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05062326/36fe6125-6.smil/thumb.jpg?t=1897&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2006,
+      "title": "Bengt Erksen om Norge-seier",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05062326/36fe6125-6.smil/thumb.jpg?t=2031&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2317,
+      "title": "Reportasje Senegal",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05062326/36fe6125-6.smil/thumb.jpg?t=2342&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2542,
+      "title": "Folkeliv etter Norge-kamp",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05062326/36fe6125-6.smil/thumb.jpg?t=2567&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2659,
+      "title": "Skattedebatt i Politisk kvarter",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05062326/36fe6125-6.smil/thumb.jpg?t=2685&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2723,
+      "title": "Overskrifter 07:15",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05062326/36fe6125-6.smil/thumb.jpg?t=2748&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2752,
+      "title": "USA fornøyd med Iran-møte",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05062326/36fe6125-6.smil/thumb.jpg?t=2778&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2937,
+      "title": "Hetebølge i Europa",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05062326/36fe6125-6.smil/thumb.jpg?t=2962&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3140,
+      "title": "Frankrike hetebølge",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05062326/36fe6125-6.smil/thumb.jpg?t=3166&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3391,
+      "title": "Lokker jordbærsnutebille med sexfelle",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05062326/36fe6125-6.smil/thumb.jpg?t=3417&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3608,
+      "title": "Overskrifter 07:30",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05062326/36fe6125-6.smil/thumb.jpg?t=3633&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3639,
+      "title": "Haaland sendte Norge videre",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05062326/36fe6125-6.smil/thumb.jpg?t=3664&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3733,
+      "title": "Kommentator Bengt Eriksen",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05062326/36fe6125-6.smil/thumb.jpg?t=3759&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3833,
+      "title": "Jubel landet rundt",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05062326/36fe6125-6.smil/thumb.jpg?t=3859&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3958,
+      "title": "Norsk skattepolitikk fungerer dårlig",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05062326/36fe6125-6.smil/thumb.jpg?t=3983&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4072,
+      "title": "Hetebølge i Europa",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05062326/36fe6125-6.smil/thumb.jpg?t=4097&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4200,
+      "title": "Åpning 07:40",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05062326/36fe6125-6.smil/thumb.jpg?t=4225&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4218,
+      "title": "Noreg slo Senegal",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05062326/36fe6125-6.smil/thumb.jpg?t=4244&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4457,
+      "title": "Topper 07:44",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05062326/36fe6125-6.smil/thumb.jpg?t=4482&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4494,
+      "title": "Overgang til Politisk kvarter",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05062326/36fe6125-6.smil/thumb.jpg?t=4520&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5404,
+      "title": "NRK Nyheter 08:00",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05062326/36fe6125-6.smil/thumb.jpg?t=5430&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5578,
+      "title": "Åpning 08:03",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05062326/36fe6125-6.smil/thumb.jpg?t=5603&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5649,
+      "title": "Norge er videre i fotball-VM",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05062326/36fe6125-6.smil/thumb.jpg?t=5675&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5798,
+      "title": "VM-stemning på fødeavdelingen",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05062326/36fe6125-6.smil/thumb.jpg?t=5823&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6027,
+      "title": "Leder i den senegalesiske forening",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05062326/36fe6125-6.smil/thumb.jpg?t=6053&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6303,
+      "title": "Hvem etterfølger Starmer?",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05062326/36fe6125-6.smil/thumb.jpg?t=6328&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6616,
+      "title": "Overskrifter 08:15",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05062326/36fe6125-6.smil/thumb.jpg?t=6641&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6671,
+      "title": "USA fornøyd med Iran-møte",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05062326/36fe6125-6.smil/thumb.jpg?t=6697&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6884,
+      "title": "Hetebølge i Europa",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05062326/36fe6125-6.smil/thumb.jpg?t=6909&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7259,
+      "title": "Sommer i P2",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05062326/36fe6125-6.smil/thumb.jpg?t=7284&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7265,
+      "title": "Overskrifter 08:30",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05062326/36fe6125-6.smil/thumb.jpg?t=7290&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7323,
+      "title": "Jubel landet rundt",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05062326/36fe6125-6.smil/thumb.jpg?t=7348&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7449,
+      "title": "VM-feber på fotballskole",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05062326/36fe6125-6.smil/thumb.jpg?t=7475&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7632,
+      "title": "Ny Spiderman-film",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05062326/36fe6125-6.smil/thumb.jpg?t=7657&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7807,
+      "title": "Hetebølge i Frankrike (R)",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05062326/36fe6125-6.smil/thumb.jpg?t=7833&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8055,
+      "title": "Mulig streik i SAS",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05062326/36fe6125-6.smil/thumb.jpg?t=8080&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8190,
+      "title": "Produsent Clive Davis er død",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05062326/36fe6125-6.smil/thumb.jpg?t=8216&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8315,
+      "title": "P2 Pulsen",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05062326/36fe6125-6.smil/thumb.jpg?t=8340&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8371,
+      "title": "Overskrifter 08:45",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05062326/36fe6125-6.smil/thumb.jpg?t=8396&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8445,
+      "title": "Politisk kvarter (R)",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05062326/36fe6125-6.smil/thumb.jpg?t=8470&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8642,
+      "title": "Anmeldelse Inger Sitter-utstilling",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05062326/36fe6125-6.smil/thumb.jpg?t=8667&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8923,
+      "title": "GJEST Været i dag",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05062326/36fe6125-6.smil/thumb.jpg?t=8948&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8990,
+      "title": "Avslutning",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05062326/36fe6125-6.smil/thumb.jpg?t=9003.36&scale=480x270&v=high"
+    }
+  ]
+}
