@@ -1,0 +1,108 @@
+{
+  "version": "1.2.0",
+  "title": "Vi droppet nattesøvnen",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 8,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa19062326/0eab78dc-6.smil/thumb.jpg?t=34&scale=480x270&v=high"
+    },
+    {
+      "startTime": 72,
+      "title": "Norgeeee!",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa19062326/0eab78dc-6.smil/thumb.jpg?t=98&scale=480x270&v=high"
+    },
+    {
+      "startTime": 189,
+      "title": "Dagen derpå",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa19062326/0eab78dc-6.smil/thumb.jpg?t=215&scale=480x270&v=high"
+    },
+    {
+      "startTime": 268,
+      "title": "Direkte New York",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa19062326/0eab78dc-6.smil/thumb.jpg?t=293&scale=480x270&v=high"
+    },
+    {
+      "startTime": 377,
+      "title": "Roing og markedsverdi",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa19062326/0eab78dc-6.smil/thumb.jpg?t=402&scale=480x270&v=high"
+    },
+    {
+      "startTime": 475,
+      "title": "Fare for SAS-streik",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa19062326/0eab78dc-6.smil/thumb.jpg?t=500&scale=480x270&v=high"
+    },
+    {
+      "startTime": 495,
+      "title": "Forskningsskandale",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa19062326/0eab78dc-6.smil/thumb.jpg?t=520&scale=480x270&v=high"
+    },
+    {
+      "startTime": 612,
+      "title": "Hetebølge",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa19062326/0eab78dc-6.smil/thumb.jpg?t=638&scale=480x270&v=high"
+    },
+    {
+      "startTime": 733,
+      "title": "Direkte Paris",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa19062326/0eab78dc-6.smil/thumb.jpg?t=759&scale=480x270&v=high"
+    },
+    {
+      "startTime": 838,
+      "title": "Skattekommisjonen",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa19062326/0eab78dc-6.smil/thumb.jpg?t=864&scale=480x270&v=high"
+    },
+    {
+      "startTime": 950,
+      "title": "Utenriksnyheter",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa19062326/0eab78dc-6.smil/thumb.jpg?t=976&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1071,
+      "title": "Zendaya og Tom",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa19062326/0eab78dc-6.smil/thumb.jpg?t=1097&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1173,
+      "title": "St Hans-feiring",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa19062326/0eab78dc-6.smil/thumb.jpg?t=1198&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1187,
+      "title": "Direkte fra Stavanger",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa19062326/0eab78dc-6.smil/thumb.jpg?t=1212&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1293,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa19062326/0eab78dc-6.smil/thumb.jpg?t=1319&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1298,
+      "title": "Scheie om Norge",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa19062326/0eab78dc-6.smil/thumb.jpg?t=1324&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1405,
+      "title": "Direkte USA",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa19062326/0eab78dc-6.smil/thumb.jpg?t=1431&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1461,
+      "title": "Kritisk Tuchel",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa19062326/0eab78dc-6.smil/thumb.jpg?t=1486&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1528,
+      "title": "Ronaldo mål",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa19062326/0eab78dc-6.smil/thumb.jpg?t=1554&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1543,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa19062326/0eab78dc-6.smil/thumb.jpg?t=1569&scale=480x270&v=high"
+    }
+  ]
+}
