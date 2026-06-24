@@ -1,0 +1,73 @@
+{
+  "version": "1.2.0",
+  "title": "Tror på norsk ro-suksess",
+  "author": "NRK",
+  "podcastName": "Dagsnytt 18",
+  "chapters": [
+    {
+      "startTime": 3,
+      "title": "Dagsnytt atten",
+      "img": "https://nrk-od-world-00.akamaized.net/open/ps/nnfa/nnfa56062326/e4a35751-6.smil/thumb.jpg?t=28&scale=480x270&v=high"
+    },
+    {
+      "startTime": 57,
+      "title": "Norge ror i VM",
+      "img": "https://nrk-od-world-00.akamaized.net/open/ps/nnfa/nnfa56062326/e4a35751-6.smil/thumb.jpg?t=82&scale=480x270&v=high"
+    },
+    {
+      "startTime": 653,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-00.akamaized.net/open/ps/nnfa/nnfa56062326/e4a35751-6.smil/thumb.jpg?t=679&scale=480x270&v=high"
+    },
+    {
+      "startTime": 664,
+      "title": "10 år med Brexit",
+      "img": "https://nrk-od-world-00.akamaized.net/open/ps/nnfa/nnfa56062326/e4a35751-6.smil/thumb.jpg?t=689&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1336,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-00.akamaized.net/open/ps/nnfa/nnfa56062326/e4a35751-6.smil/thumb.jpg?t=1361&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1346,
+      "title": "Kulturpris til Dronningen",
+      "img": "https://nrk-od-world-00.akamaized.net/open/ps/nnfa/nnfa56062326/e4a35751-6.smil/thumb.jpg?t=1372&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1828,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-00.akamaized.net/open/ps/nnfa/nnfa56062326/e4a35751-6.smil/thumb.jpg?t=1853&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1838,
+      "title": "Kritiserer ventetidsløftet",
+      "img": "https://nrk-od-world-00.akamaized.net/open/ps/nnfa/nnfa56062326/e4a35751-6.smil/thumb.jpg?t=1864&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2549,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-00.akamaized.net/open/ps/nnfa/nnfa56062326/e4a35751-6.smil/thumb.jpg?t=2575&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2560,
+      "title": "Fjellheim kritiserer NRK",
+      "img": "https://nrk-od-world-00.akamaized.net/open/ps/nnfa/nnfa56062326/e4a35751-6.smil/thumb.jpg?t=2586&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3089,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-00.akamaized.net/open/ps/nnfa/nnfa56062326/e4a35751-6.smil/thumb.jpg?t=3115&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3100,
+      "title": "Sukkerstopp i barnehager",
+      "img": "https://nrk-od-world-00.akamaized.net/open/ps/nnfa/nnfa56062326/e4a35751-6.smil/thumb.jpg?t=3126&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3530,
+      "title": "SLUTTKJENNING",
+      "img": "https://nrk-od-world-00.akamaized.net/open/ps/nnfa/nnfa56062326/e4a35751-6.smil/thumb.jpg?t=3543.92&scale=480x270&v=high"
+    }
+  ]
+}
