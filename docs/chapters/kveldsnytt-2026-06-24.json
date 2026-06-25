@@ -1,0 +1,68 @@
+{
+  "version": "1.2.0",
+  "title": "Hetebølgen på vei mot Norge",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa23062426/57b73a12-6.smil/thumb.jpg?t=26&scale=480x270&v=high"
+    },
+    {
+      "startTime": 35,
+      "title": "Hetebølgen på vei mot Norge",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa23062426/57b73a12-6.smil/thumb.jpg?t=60&scale=480x270&v=high"
+    },
+    {
+      "startTime": 137,
+      "title": "Mulig moms på trening",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa23062426/57b73a12-6.smil/thumb.jpg?t=163&scale=480x270&v=high"
+    },
+    {
+      "startTime": 230,
+      "title": "Folkemøte drikkevann",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa23062426/57b73a12-6.smil/thumb.jpg?t=256&scale=480x270&v=high"
+    },
+    {
+      "startTime": 310,
+      "title": "Stortinget it-ansatt",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa23062426/57b73a12-6.smil/thumb.jpg?t=335&scale=480x270&v=high"
+    },
+    {
+      "startTime": 333,
+      "title": "Tons of rock",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa23062426/57b73a12-6.smil/thumb.jpg?t=358&scale=480x270&v=high"
+    },
+    {
+      "startTime": 385,
+      "title": "Friidrett",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa23062426/57b73a12-6.smil/thumb.jpg?t=410&scale=480x270&v=high"
+    },
+    {
+      "startTime": 450,
+      "title": "Sveits-Canada",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa23062426/57b73a12-6.smil/thumb.jpg?t=475&scale=480x270&v=high"
+    },
+    {
+      "startTime": 489,
+      "title": "Hakueland vil savnes på landslaget",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa23062426/57b73a12-6.smil/thumb.jpg?t=514&scale=480x270&v=high"
+    },
+    {
+      "startTime": 576,
+      "title": "Golf",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa23062426/57b73a12-6.smil/thumb.jpg?t=601&scale=480x270&v=high"
+    },
+    {
+      "startTime": 670,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa23062426/57b73a12-6.smil/thumb.jpg?t=695&scale=480x270&v=high"
+    },
+    {
+      "startTime": 728,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa23062426/57b73a12-6.smil/thumb.jpg?t=750.67&scale=480x270&v=high"
+    }
+  ]
+}
