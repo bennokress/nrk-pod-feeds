@@ -1,0 +1,93 @@
+{
+  "version": "1.2.0",
+  "title": "Fortviler over formueskatt",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 7,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa19062426/8b7dcb61-6.smil/thumb.jpg?t=33&scale=480x270&v=high"
+    },
+    {
+      "startTime": 77,
+      "title": "Skattekommisjonen",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa19062426/8b7dcb61-6.smil/thumb.jpg?t=103&scale=480x270&v=high"
+    },
+    {
+      "startTime": 421,
+      "title": "Gjest Nehru Sand",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa19062426/8b7dcb61-6.smil/thumb.jpg?t=446&scale=480x270&v=high"
+    },
+    {
+      "startTime": 526,
+      "title": "Münchausen by proxy",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa19062426/8b7dcb61-6.smil/thumb.jpg?t=551&scale=480x270&v=high"
+    },
+    {
+      "startTime": 675,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa19062426/8b7dcb61-6.smil/thumb.jpg?t=701&scale=480x270&v=high"
+    },
+    {
+      "startTime": 744,
+      "title": "Hetebølge",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa19062426/8b7dcb61-6.smil/thumb.jpg?t=769&scale=480x270&v=high"
+    },
+    {
+      "startTime": 850,
+      "title": "Direkte Paris",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa19062426/8b7dcb61-6.smil/thumb.jpg?t=876&scale=480x270&v=high"
+    },
+    {
+      "startTime": 944,
+      "title": "Direkte London",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa19062426/8b7dcb61-6.smil/thumb.jpg?t=970&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1023,
+      "title": "Utenriksnyheter",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa19062426/8b7dcb61-6.smil/thumb.jpg?t=1048&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1130,
+      "title": "Tons of Rock",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa19062426/8b7dcb61-6.smil/thumb.jpg?t=1156&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1159,
+      "title": "Direkte Oslo",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa19062426/8b7dcb61-6.smil/thumb.jpg?t=1184&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1241,
+      "title": "Landskappleik",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa19062426/8b7dcb61-6.smil/thumb.jpg?t=1266&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1348,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa19062426/8b7dcb61-6.smil/thumb.jpg?t=1373&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1353,
+      "title": "Klar Neymar",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa19062426/8b7dcb61-6.smil/thumb.jpg?t=1379&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1422,
+      "title": "Sveits-Canada",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa19062426/8b7dcb61-6.smil/thumb.jpg?t=1447&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1474,
+      "title": "Hårklipp VM",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa19062426/8b7dcb61-6.smil/thumb.jpg?t=1499&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1571,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa19062426/8b7dcb61-6.smil/thumb.jpg?t=1597&scale=480x270&v=high"
+    }
+  ]
+}
