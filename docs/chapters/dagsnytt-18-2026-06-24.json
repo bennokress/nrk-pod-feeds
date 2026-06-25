@@ -1,0 +1,78 @@
+{
+  "version": "1.2.0",
+  "title": "Reaksjoner på Skattekommisjonens rapport",
+  "author": "NRK",
+  "podcastName": "Dagsnytt 18",
+  "chapters": [
+    {
+      "startTime": 1,
+      "title": "Dagsnytt atten",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa56062426/ad2f479c-6.smil/thumb.jpg?t=27&scale=480x270&v=high"
+    },
+    {
+      "startTime": 61,
+      "title": "Skattekommisjonen",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa56062426/ad2f479c-6.smil/thumb.jpg?t=86&scale=480x270&v=high"
+    },
+    {
+      "startTime": 370,
+      "title": "Skattekommisjonen om bolig",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa56062426/ad2f479c-6.smil/thumb.jpg?t=395&scale=480x270&v=high"
+    },
+    {
+      "startTime": 732,
+      "title": "Debatt om formuesskatt",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa56062426/ad2f479c-6.smil/thumb.jpg?t=757&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1378,
+      "title": "Muligheter for politisk forlik",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa56062426/ad2f479c-6.smil/thumb.jpg?t=1403&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2296,
+      "title": "Kommentator om skatt",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa56062426/ad2f479c-6.smil/thumb.jpg?t=2322&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2476,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa56062426/ad2f479c-6.smil/thumb.jpg?t=2502&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2486,
+      "title": "Guttas trivsel",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa56062426/ad2f479c-6.smil/thumb.jpg?t=2512&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2973,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa56062426/ad2f479c-6.smil/thumb.jpg?t=2999&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2983,
+      "title": "Enighet i SAS",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa56062426/ad2f479c-6.smil/thumb.jpg?t=3008&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3134,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa56062426/ad2f479c-6.smil/thumb.jpg?t=3159&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3137,
+      "title": "Elevers rettigheter",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa56062426/ad2f479c-6.smil/thumb.jpg?t=3162&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3523,
+      "title": "AVSLUTNING",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa56062426/ad2f479c-6.smil/thumb.jpg?t=3543.88&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3533,
+      "title": "SLUTTKJENNING",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa56062426/ad2f479c-6.smil/thumb.jpg?t=3543.88&scale=480x270&v=high"
+    }
+  ]
+}
