@@ -1,0 +1,68 @@
+{
+  "version": "1.2.0",
+  "title": "Varmerekorder i fleng",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 1,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa21062426/755b936e-8.smil/thumb.jpg?t=26&scale=480x270&v=high"
+    },
+    {
+      "startTime": 26,
+      "title": "Rekorder varme",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa21062426/755b936e-8.smil/thumb.jpg?t=52&scale=480x270&v=high"
+    },
+    {
+      "startTime": 111,
+      "title": "Breddfulle kraftmagasin i Nord-Norge",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa21062426/755b936e-8.smil/thumb.jpg?t=137&scale=480x270&v=high"
+    },
+    {
+      "startTime": 231,
+      "title": "Ulykke",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa21062426/755b936e-8.smil/thumb.jpg?t=256&scale=480x270&v=high"
+    },
+    {
+      "startTime": 257,
+      "title": "Arktis",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa21062426/755b936e-8.smil/thumb.jpg?t=282&scale=480x270&v=high"
+    },
+    {
+      "startTime": 358,
+      "title": "Skattekommisjon",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa21062426/755b936e-8.smil/thumb.jpg?t=383&scale=480x270&v=high"
+    },
+    {
+      "startTime": 408,
+      "title": "Enighet mekling",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa21062426/755b936e-8.smil/thumb.jpg?t=433&scale=480x270&v=high"
+    },
+    {
+      "startTime": 433,
+      "title": "Norsk Folkehjelp",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa21062426/755b936e-8.smil/thumb.jpg?t=458&scale=480x270&v=high"
+    },
+    {
+      "startTime": 479,
+      "title": "Tons of Rock",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa21062426/755b936e-8.smil/thumb.jpg?t=504&scale=480x270&v=high"
+    },
+    {
+      "startTime": 503,
+      "title": "Været",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa21062426/755b936e-8.smil/thumb.jpg?t=528&scale=480x270&v=high"
+    },
+    {
+      "startTime": 557,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa21062426/755b936e-8.smil/thumb.jpg?t=580.72&scale=480x270&v=high"
+    },
+    {
+      "startTime": 578,
+      "title": "Rekorder varme",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa21062426/755b936e-8.smil/thumb.jpg?t=580.72&scale=480x270&v=high"
+    }
+  ]
+}
