@@ -1,0 +1,93 @@
+{
+  "version": "1.2.0",
+  "title": "Leter desperat i ruinene",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 7,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa19062526/84bc4085-6.smil/thumb.jpg?t=33&scale=480x270&v=high"
+    },
+    {
+      "startTime": 54,
+      "title": "Jordskjelv Venezuela",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa19062526/84bc4085-6.smil/thumb.jpg?t=80&scale=480x270&v=high"
+    },
+    {
+      "startTime": 285,
+      "title": "Direkte Washington",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa19062526/84bc4085-6.smil/thumb.jpg?t=311&scale=480x270&v=high"
+    },
+    {
+      "startTime": 405,
+      "title": "Wisting Equinor",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa19062526/84bc4085-6.smil/thumb.jpg?t=430&scale=480x270&v=high"
+    },
+    {
+      "startTime": 518,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa19062526/84bc4085-6.smil/thumb.jpg?t=544&scale=480x270&v=high"
+    },
+    {
+      "startTime": 597,
+      "title": "Nato kyr",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa19062526/84bc4085-6.smil/thumb.jpg?t=622&scale=480x270&v=high"
+    },
+    {
+      "startTime": 723,
+      "title": "Tømmer vannmagasiner",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa19062526/84bc4085-6.smil/thumb.jpg?t=748&scale=480x270&v=high"
+    },
+    {
+      "startTime": 840,
+      "title": "Tiltak mot varmen",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa19062526/84bc4085-6.smil/thumb.jpg?t=866&scale=480x270&v=high"
+    },
+    {
+      "startTime": 952,
+      "title": "Direkte 4H-leir",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa19062526/84bc4085-6.smil/thumb.jpg?t=977&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1076,
+      "title": "Tiktok-legen",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa19062526/84bc4085-6.smil/thumb.jpg?t=1101&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1193,
+      "title": "Prinsessen på Hudøy",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa19062526/84bc4085-6.smil/thumb.jpg?t=1219&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1221,
+      "title": "Dyreparken 60 år",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa19062526/84bc4085-6.smil/thumb.jpg?t=1247&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1300,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa19062526/84bc4085-6.smil/thumb.jpg?t=1325&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1327,
+      "title": "Direkte",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa19062526/84bc4085-6.smil/thumb.jpg?t=1352&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1389,
+      "title": "Haaland show",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa19062526/84bc4085-6.smil/thumb.jpg?t=1414&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1453,
+      "title": "VM-kamp",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa19062526/84bc4085-6.smil/thumb.jpg?t=1478&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1554,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa19062526/84bc4085-6.smil/thumb.jpg?t=1579&scale=480x270&v=high"
+    }
+  ]
+}
