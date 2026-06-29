@@ -1,0 +1,58 @@
+{
+  "version": "1.2.0",
+  "title": "Prinsessen besøkte Hudøy",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa21062526/6266d886-7.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 26,
+      "title": "Jordskjelv i Venezuela",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa21062526/6266d886-7.smil/thumb.jpg?t=52&scale=480x270&v=high"
+    },
+    {
+      "startTime": 159,
+      "title": "Abort",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa21062526/6266d886-7.smil/thumb.jpg?t=184&scale=480x270&v=high"
+    },
+    {
+      "startTime": 270,
+      "title": "DAGSREVYPAKKE",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa21062526/6266d886-7.smil/thumb.jpg?t=295&scale=480x270&v=high"
+    },
+    {
+      "startTime": 348,
+      "title": "Paris",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa21062526/6266d886-7.smil/thumb.jpg?t=373&scale=480x270&v=high"
+    },
+    {
+      "startTime": 371,
+      "title": "Tons of Rock",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa21062526/6266d886-7.smil/thumb.jpg?t=396&scale=480x270&v=high"
+    },
+    {
+      "startTime": 392,
+      "title": "Pride markering",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa21062526/6266d886-7.smil/thumb.jpg?t=418&scale=480x270&v=high"
+    },
+    {
+      "startTime": 427,
+      "title": "Hudøy",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa21062526/6266d886-7.smil/thumb.jpg?t=452&scale=480x270&v=high"
+    },
+    {
+      "startTime": 492,
+      "title": "Været",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa21062526/6266d886-7.smil/thumb.jpg?t=518&scale=480x270&v=high"
+    },
+    {
+      "startTime": 549,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa21062526/6266d886-7.smil/thumb.jpg?t=569.6&scale=480x270&v=high"
+    }
+  ]
+}
