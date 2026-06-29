@@ -1,0 +1,268 @@
+{
+  "version": "1.2.0",
+  "title": "Frykter titalls tusen døde",
+  "author": "NRK",
+  "podcastName": "Nyhetsmorgen",
+  "chapters": [
+    {
+      "startTime": 1,
+      "title": "Åpning 06:30",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa05062626/d3c6805a-8.smil/thumb.jpg?t=27&scale=480x270&v=high"
+    },
+    {
+      "startTime": 67,
+      "title": "Dødstallene stiger etter jordskjelvet",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa05062626/d3c6805a-8.smil/thumb.jpg?t=92&scale=480x270&v=high"
+    },
+    {
+      "startTime": 348,
+      "title": "Folk i Venezuela tør ikke sove",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa05062626/d3c6805a-8.smil/thumb.jpg?t=373&scale=480x270&v=high"
+    },
+    {
+      "startTime": 618,
+      "title": "Siste nytt",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa05062626/d3c6805a-8.smil/thumb.jpg?t=643&scale=480x270&v=high"
+    },
+    {
+      "startTime": 727,
+      "title": "Høyreleder savnet Frp",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa05062626/d3c6805a-8.smil/thumb.jpg?t=752&scale=480x270&v=high"
+    },
+    {
+      "startTime": 854,
+      "title": "VM-priskrig: Ein ny julaftan",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa05062626/d3c6805a-8.smil/thumb.jpg?t=880&scale=480x270&v=high"
+    },
+    {
+      "startTime": 995,
+      "title": "Kong Charles flytter ut",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa05062626/d3c6805a-8.smil/thumb.jpg?t=1020&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1148,
+      "title": "Overskrifter 06:45",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa05062626/d3c6805a-8.smil/thumb.jpg?t=1173&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1190,
+      "title": "VM-rundens overskrifter",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa05062626/d3c6805a-8.smil/thumb.jpg?t=1215&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1445,
+      "title": "Sverige videre i VM",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa05062626/d3c6805a-8.smil/thumb.jpg?t=1471&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1613,
+      "title": "Solbakken om Haaland",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa05062626/d3c6805a-8.smil/thumb.jpg?t=1638&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1647,
+      "title": "Kommentator Jonas Grønner",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa05062626/d3c6805a-8.smil/thumb.jpg?t=1672&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1800,
+      "title": "Åpning 07:00",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa05062626/d3c6805a-8.smil/thumb.jpg?t=1826&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1853,
+      "title": "Konsekvenser jordskjelv",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa05062626/d3c6805a-8.smil/thumb.jpg?t=1879&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2020,
+      "title": "Hjelpearbeid Venezuela",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa05062626/d3c6805a-8.smil/thumb.jpg?t=2046&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2323,
+      "title": "Ny maktdynamikk i Midtøsten",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa05062626/d3c6805a-8.smil/thumb.jpg?t=2349&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2530,
+      "title": "Får refs for gebyr",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa05062626/d3c6805a-8.smil/thumb.jpg?t=2555&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2742,
+      "title": "Ny bilavgift i Politisk kvarter",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa05062626/d3c6805a-8.smil/thumb.jpg?t=2767&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2788,
+      "title": "Overskrifter 07:15",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa05062626/d3c6805a-8.smil/thumb.jpg?t=2813&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2829,
+      "title": "Tyrkia - USA",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa05062626/d3c6805a-8.smil/thumb.jpg?t=2854&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3078,
+      "title": "Heier på Frankrike i VM",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa05062626/d3c6805a-8.smil/thumb.jpg?t=3104&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3342,
+      "title": "Norske jordbær forsinka",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa05062626/d3c6805a-8.smil/thumb.jpg?t=3367&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3576,
+      "title": "Trailer Sommer i P2",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa05062626/d3c6805a-8.smil/thumb.jpg?t=3601&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3603,
+      "title": "Overskrifter 07:30",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa05062626/d3c6805a-8.smil/thumb.jpg?t=3628&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3637,
+      "title": "Venezuela",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa05062626/d3c6805a-8.smil/thumb.jpg?t=3662&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3750,
+      "title": "Får refs for gebyr",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa05062626/d3c6805a-8.smil/thumb.jpg?t=3775&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3871,
+      "title": "Sverige videre i VM",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa05062626/d3c6805a-8.smil/thumb.jpg?t=3897&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3965,
+      "title": "Kommentar  VM",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa05062626/d3c6805a-8.smil/thumb.jpg?t=3991&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4062,
+      "title": "VM-priskrig: Ein ny julaften",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa05062626/d3c6805a-8.smil/thumb.jpg?t=4087&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4197,
+      "title": "Åpning 07:40",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa05062626/d3c6805a-8.smil/thumb.jpg?t=4222&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4231,
+      "title": "Pride-kamp i Seattle",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa05062626/d3c6805a-8.smil/thumb.jpg?t=4256&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4468,
+      "title": "Topper 07:44",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa05062626/d3c6805a-8.smil/thumb.jpg?t=4493&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5401,
+      "title": "NRK Nyheter 08:00",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa05062626/d3c6805a-8.smil/thumb.jpg?t=5426&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5577,
+      "title": "Åpning 08:03",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa05062626/d3c6805a-8.smil/thumb.jpg?t=5603&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5669,
+      "title": "Hjelp på vei til Venezuela",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa05062626/d3c6805a-8.smil/thumb.jpg?t=5695&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5798,
+      "title": "Folk i Venezuela tør ikke sove",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa05062626/d3c6805a-8.smil/thumb.jpg?t=5823&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6085,
+      "title": "Pave Leo",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa05062626/d3c6805a-8.smil/thumb.jpg?t=6110&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6226,
+      "title": "Overskrifter 08:15",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa05062626/d3c6805a-8.smil/thumb.jpg?t=6252&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6277,
+      "title": "Sverige videre i VM",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa05062626/d3c6805a-8.smil/thumb.jpg?t=6303&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6401,
+      "title": "Ecuador overrasket mot Tyskland",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa05062626/d3c6805a-8.smil/thumb.jpg?t=6426&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6434,
+      "title": "Fredagspanelet",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa05062626/d3c6805a-8.smil/thumb.jpg?t=6459&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7242,
+      "title": "Overskrifter 08:30",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa05062626/d3c6805a-8.smil/thumb.jpg?t=7267&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7304,
+      "title": "Dødstallene stiger etter jordskjelvet",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa05062626/d3c6805a-8.smil/thumb.jpg?t=7330&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7534,
+      "title": "Får refs for gebyr",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa05062626/d3c6805a-8.smil/thumb.jpg?t=7560&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7741,
+      "title": "Hivju and The Garbage King",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa05062626/d3c6805a-8.smil/thumb.jpg?t=7766&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8174,
+      "title": "Overskrifter 08:45",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa05062626/d3c6805a-8.smil/thumb.jpg?t=8199&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8230,
+      "title": "Overvåking i bilen?",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa05062626/d3c6805a-8.smil/thumb.jpg?t=8255&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8440,
+      "title": "GJEST Anm av Iron Maiden",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa05062626/d3c6805a-8.smil/thumb.jpg?t=8465&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8696,
+      "title": "VM skaper nye minner",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa05062626/d3c6805a-8.smil/thumb.jpg?t=8722&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8869,
+      "title": "DIR Før P2-pulsen i NRK P2",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa05062626/d3c6805a-8.smil/thumb.jpg?t=8895&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8908,
+      "title": "GJEST Været i dag",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa05062626/d3c6805a-8.smil/thumb.jpg?t=8933&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8990,
+      "title": "Avslutning",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa05062626/d3c6805a-8.smil/thumb.jpg?t=9003.32&scale=480x270&v=high"
+    }
+  ]
+}
