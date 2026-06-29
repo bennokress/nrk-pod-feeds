@@ -1,0 +1,258 @@
+{
+  "version": "1.2.0",
+  "title": "Frykter flere tusen omkomne",
+  "author": "NRK",
+  "podcastName": "Nyhetsmorgen",
+  "chapters": [
+    {
+      "startTime": 244,
+      "title": "Ventetid abort",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa05062526/da6da729-6.smil/thumb.jpg?t=269&scale=480x270&v=high"
+    },
+    {
+      "startTime": 333,
+      "title": "Iransk legestudent får avslag",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa05062526/da6da729-6.smil/thumb.jpg?t=359&scale=480x270&v=high"
+    },
+    {
+      "startTime": 482,
+      "title": "Siste nytt",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa05062526/da6da729-6.smil/thumb.jpg?t=508&scale=480x270&v=high"
+    },
+    {
+      "startTime": 594,
+      "title": "1 av 3 imot transundervisning i skolen",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa05062526/da6da729-6.smil/thumb.jpg?t=619&scale=480x270&v=high"
+    },
+    {
+      "startTime": 832,
+      "title": "Overskrifter 06:45",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa05062526/da6da729-6.smil/thumb.jpg?t=857&scale=480x270&v=high"
+    },
+    {
+      "startTime": 881,
+      "title": "Brasil slo forsvarsløse skotter",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa05062526/da6da729-6.smil/thumb.jpg?t=907&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1082,
+      "title": "Kommentator om siste VM-runde",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa05062526/da6da729-6.smil/thumb.jpg?t=1107&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1295,
+      "title": "UK statsminister på oppsigelse",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa05062526/da6da729-6.smil/thumb.jpg?t=1320&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1535,
+      "title": "Ødegaard-intervju",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa05062526/da6da729-6.smil/thumb.jpg?t=1561&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1699,
+      "title": "Norsk merch blir kjempebutikk i Sverige",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa05062526/da6da729-6.smil/thumb.jpg?t=1724&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2180,
+      "title": "Caritas om Venezuela",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa05062526/da6da729-6.smil/thumb.jpg?t=2206&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2457,
+      "title": "Ventetid abort",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa05062526/da6da729-6.smil/thumb.jpg?t=2482&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2955,
+      "title": "Overskrifter 07:15",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa05062526/da6da729-6.smil/thumb.jpg?t=2981&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2989,
+      "title": "Hetebølge og klasseforskjeller i Frankrike",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa05062526/da6da729-6.smil/thumb.jpg?t=3014&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3204,
+      "title": "Iranere om fredsavtalen",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa05062526/da6da729-6.smil/thumb.jpg?t=3229&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3471,
+      "title": "Angrep på sivile mål i Iran",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa05062526/da6da729-6.smil/thumb.jpg?t=3496&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3597,
+      "title": "Overskrifter 07:30",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa05062526/da6da729-6.smil/thumb.jpg?t=3622&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3645,
+      "title": "Jordskjelv i Venezuela",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa05062526/da6da729-6.smil/thumb.jpg?t=3671&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3804,
+      "title": "Caritas om jordskjelv i Venezuela",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa05062526/da6da729-6.smil/thumb.jpg?t=3830&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3879,
+      "title": "Lengre ventetid for abort",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa05062526/da6da729-6.smil/thumb.jpg?t=3905&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4003,
+      "title": "Ekspertråd for eit skatteforlik",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa05062526/da6da729-6.smil/thumb.jpg?t=4028&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4091,
+      "title": "Ødegaard om VM",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa05062526/da6da729-6.smil/thumb.jpg?t=4116&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4198,
+      "title": "Åpning 07:40",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa05062526/da6da729-6.smil/thumb.jpg?t=4224&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4225,
+      "title": "Bestemor tar rekninga",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa05062526/da6da729-6.smil/thumb.jpg?t=4250&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4436,
+      "title": "Siste fra Venezuela",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa05062526/da6da729-6.smil/thumb.jpg?t=4461&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4496,
+      "title": "Topper 07:44",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa05062526/da6da729-6.smil/thumb.jpg?t=4521&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5401,
+      "title": "NRK Nyheter 08:00",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa05062526/da6da729-6.smil/thumb.jpg?t=5426&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5580,
+      "title": "Åpning 08:03",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa05062526/da6da729-6.smil/thumb.jpg?t=5605&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5641,
+      "title": "Siste nytt fra Venezuela",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa05062526/da6da729-6.smil/thumb.jpg?t=5666&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5796,
+      "title": "Caritas om Venezuela",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa05062526/da6da729-6.smil/thumb.jpg?t=5821&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5974,
+      "title": "Ekspertråd for eit skatteforlik",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa05062526/da6da729-6.smil/thumb.jpg?t=5999&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6089,
+      "title": "Fire år sidan terrorangrepet i Oslo",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa05062526/da6da729-6.smil/thumb.jpg?t=6114&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6345,
+      "title": "Amerikanske og kinesiske tek-giganter i stri",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa05062526/da6da729-6.smil/thumb.jpg?t=6370&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6581,
+      "title": "Overskrifter 08:15",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa05062526/da6da729-6.smil/thumb.jpg?t=6606&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6614,
+      "title": "Ventetid abort",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa05062526/da6da729-6.smil/thumb.jpg?t=6640&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6857,
+      "title": "Norsk merch blir kjempebutikk i Sverige",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa05062526/da6da729-6.smil/thumb.jpg?t=6882&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7080,
+      "title": "Vil gjøre det lettere å bryte taushetsplikten",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa05062526/da6da729-6.smil/thumb.jpg?t=7106&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7233,
+      "title": "Overskrifter 08:30",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa05062526/da6da729-6.smil/thumb.jpg?t=7258&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7279,
+      "title": "Jordskjelv i Venezuela",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa05062526/da6da729-6.smil/thumb.jpg?t=7305&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7421,
+      "title": "Benedicte Bull om Venezuela",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa05062526/da6da729-6.smil/thumb.jpg?t=7447&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7658,
+      "title": "UK statsminister på oppsigelse",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa05062526/da6da729-6.smil/thumb.jpg?t=7683&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7910,
+      "title": "Iransk legestudent får avslag",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa05062526/da6da729-6.smil/thumb.jpg?t=7936&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8031,
+      "title": "Overskrifter 08:45",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa05062526/da6da729-6.smil/thumb.jpg?t=8057&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8096,
+      "title": "Brasil slo forsvarsløse skotter",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa05062526/da6da729-6.smil/thumb.jpg?t=8122&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8287,
+      "title": "Intervju med Martin Ødegaard",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa05062526/da6da729-6.smil/thumb.jpg?t=8312&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8439,
+      "title": "Hør P2-pulsen i NRK P2",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa05062526/da6da729-6.smil/thumb.jpg?t=8464&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8496,
+      "title": "Diabetes og toppidrett",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa05062526/da6da729-6.smil/thumb.jpg?t=8522&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8662,
+      "title": "Anmeldelse av filmen Supergirl",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa05062526/da6da729-6.smil/thumb.jpg?t=8688&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8879,
+      "title": "GJEST Været i dag",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa05062526/da6da729-6.smil/thumb.jpg?t=8904&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8984,
+      "title": "Avslutning",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa05062526/da6da729-6.smil/thumb.jpg?t=9003.32&scale=480x270&v=high"
+    }
+  ]
+}
