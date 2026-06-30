@@ -1,0 +1,53 @@
+{
+  "version": "1.2.0",
+  "title": "Er Forsvaret godt nok rustet?",
+  "author": "NRK",
+  "podcastName": "Dagsnytt 18",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsnytt atten",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa56062926/d4cb50c0-6.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 65,
+      "title": "Mood kritiserer Forsvaret",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa56062926/d4cb50c0-6.smil/thumb.jpg?t=90&scale=480x270&v=high"
+    },
+    {
+      "startTime": 692,
+      "title": "Droppe konfirmasjon?",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa56062926/d4cb50c0-6.smil/thumb.jpg?t=717&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1317,
+      "title": "Skyggeflåten",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa56062926/d4cb50c0-6.smil/thumb.jpg?t=1342&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1979,
+      "title": "Nye etterskjelv i Venezuela",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa56062926/d4cb50c0-6.smil/thumb.jpg?t=2004&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2578,
+      "title": "Fullføringsgrad i VGS",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa56062926/d4cb50c0-6.smil/thumb.jpg?t=2604&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3064,
+      "title": "Eldrebølgen i kommunene",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa56062926/d4cb50c0-6.smil/thumb.jpg?t=3089&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3532,
+      "title": "AVSLUTNING",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa56062926/d4cb50c0-6.smil/thumb.jpg?t=3543.88&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3535,
+      "title": "SLUTTKJENNING",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa56062926/d4cb50c0-6.smil/thumb.jpg?t=3543.88&scale=480x270&v=high"
+    }
+  ]
+}
