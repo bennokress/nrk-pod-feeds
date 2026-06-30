@@ -1,0 +1,48 @@
+{
+  "version": "1.2.0",
+  "title": "Mener Norge bør borde skip fra skyggeflåten",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa21062926/a87a7d97-7.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 26,
+      "title": "BORDING-SKYGGEFLÅTE",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa21062926/a87a7d97-7.smil/thumb.jpg?t=51&scale=480x270&v=high"
+    },
+    {
+      "startTime": 119,
+      "title": "DAGSREVYPAKKE",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa21062926/a87a7d97-7.smil/thumb.jpg?t=144&scale=480x270&v=high"
+    },
+    {
+      "startTime": 263,
+      "title": "Obligatorisk båtregister / regjering båt",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa21062926/a87a7d97-7.smil/thumb.jpg?t=289&scale=480x270&v=high"
+    },
+    {
+      "startTime": 356,
+      "title": "Gjeldskontroll",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa21062926/a87a7d97-7.smil/thumb.jpg?t=382&scale=480x270&v=high"
+    },
+    {
+      "startTime": 460,
+      "title": "Nettpromo",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa21062926/a87a7d97-7.smil/thumb.jpg?t=485&scale=480x270&v=high"
+    },
+    {
+      "startTime": 477,
+      "title": "Været",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa21062926/a87a7d97-7.smil/thumb.jpg?t=503&scale=480x270&v=high"
+    },
+    {
+      "startTime": 525,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa21062926/a87a7d97-7.smil/thumb.jpg?t=545.6&scale=480x270&v=high"
+    }
+  ]
+}
