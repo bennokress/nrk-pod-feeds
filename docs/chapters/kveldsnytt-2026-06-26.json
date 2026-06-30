@@ -1,0 +1,63 @@
+{
+  "version": "1.2.0",
+  "title": "Norsk fotballrus",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa23062626/5e179073-7.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 27,
+      "title": "Norge-Frankrike",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa23062626/5e179073-7.smil/thumb.jpg?t=52&scale=480x270&v=high"
+    },
+    {
+      "startTime": 218,
+      "title": "Venezuela",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa23062626/5e179073-7.smil/thumb.jpg?t=243&scale=480x270&v=high"
+    },
+    {
+      "startTime": 312,
+      "title": "Angrep Hormuz",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa23062626/5e179073-7.smil/thumb.jpg?t=337&scale=480x270&v=high"
+    },
+    {
+      "startTime": 343,
+      "title": "Rammeavtale signert",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa23062626/5e179073-7.smil/thumb.jpg?t=368&scale=480x270&v=high"
+    },
+    {
+      "startTime": 379,
+      "title": "Boligmarked",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa23062626/5e179073-7.smil/thumb.jpg?t=405&scale=480x270&v=high"
+    },
+    {
+      "startTime": 508,
+      "title": "Elfenbenskysten neste",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa23062626/5e179073-7.smil/thumb.jpg?t=533&scale=480x270&v=high"
+    },
+    {
+      "startTime": 573,
+      "title": "Reax Norge",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa23062626/5e179073-7.smil/thumb.jpg?t=598&scale=480x270&v=high"
+    },
+    {
+      "startTime": 636,
+      "title": "Kapp Verde-eventyret",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa23062626/5e179073-7.smil/thumb.jpg?t=661&scale=480x270&v=high"
+    },
+    {
+      "startTime": 702,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa23062626/5e179073-7.smil/thumb.jpg?t=728&scale=480x270&v=high"
+    },
+    {
+      "startTime": 767,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa23062626/5e179073-7.smil/thumb.jpg?t=784.6&scale=480x270&v=high"
+    }
+  ]
+}
