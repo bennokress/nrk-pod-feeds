@@ -1,0 +1,63 @@
+{
+  "version": "1.2.0",
+  "title": "Naturvernforbundet: Uakseptabel tømming",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa23062926/31047499-6.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 32,
+      "title": "Førdefjorden",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa23062926/31047499-6.smil/thumb.jpg?t=58&scale=480x270&v=high"
+    },
+    {
+      "startTime": 127,
+      "title": "Vil gi vektere mer makt",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa23062926/31047499-6.smil/thumb.jpg?t=153&scale=480x270&v=high"
+    },
+    {
+      "startTime": 250,
+      "title": "Tusener av nordmenn lider av benskjørhet",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa23062926/31047499-6.smil/thumb.jpg?t=276&scale=480x270&v=high"
+    },
+    {
+      "startTime": 372,
+      "title": "Peru",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa23062926/31047499-6.smil/thumb.jpg?t=397&scale=480x270&v=high"
+    },
+    {
+      "startTime": 397,
+      "title": "Brasil-Japan",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa23062926/31047499-6.smil/thumb.jpg?t=422&scale=480x270&v=high"
+    },
+    {
+      "startTime": 488,
+      "title": "Norge PK",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa23062926/31047499-6.smil/thumb.jpg?t=514&scale=480x270&v=high"
+    },
+    {
+      "startTime": 574,
+      "title": "Brasil",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa23062926/31047499-6.smil/thumb.jpg?t=600&scale=480x270&v=high"
+    },
+    {
+      "startTime": 662,
+      "title": "Berlevåg",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa23062926/31047499-6.smil/thumb.jpg?t=687&scale=480x270&v=high"
+    },
+    {
+      "startTime": 690,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa23062926/31047499-6.smil/thumb.jpg?t=715&scale=480x270&v=high"
+    },
+    {
+      "startTime": 749,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa23062926/31047499-6.smil/thumb.jpg?t=769.88&scale=480x270&v=high"
+    }
+  ]
+}

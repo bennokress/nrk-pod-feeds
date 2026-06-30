@@ -1,0 +1,73 @@
+{
+  "version": "1.2.0",
+  "title": "Håper på 100 nye",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa23062826/70ea1b77-7.smil/thumb.jpg?t=26&scale=480x270&v=high"
+    },
+    {
+      "startTime": 38,
+      "title": "16-delsfinale VM",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa23062826/70ea1b77-7.smil/thumb.jpg?t=63&scale=480x270&v=high"
+    },
+    {
+      "startTime": 146,
+      "title": "Hjørnesteinsbedrift",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa23062826/70ea1b77-7.smil/thumb.jpg?t=171&scale=480x270&v=high"
+    },
+    {
+      "startTime": 259,
+      "title": "Kvidingen jettegryte",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa23062826/70ea1b77-7.smil/thumb.jpg?t=285&scale=480x270&v=high"
+    },
+    {
+      "startTime": 289,
+      "title": "Wisting",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa23062826/70ea1b77-7.smil/thumb.jpg?t=314&scale=480x270&v=high"
+    },
+    {
+      "startTime": 359,
+      "title": "Vold Trondheim",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa23062826/70ea1b77-7.smil/thumb.jpg?t=384&scale=480x270&v=high"
+    },
+    {
+      "startTime": 385,
+      "title": "Tønsberg kø",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa23062826/70ea1b77-7.smil/thumb.jpg?t=410&scale=480x270&v=high"
+    },
+    {
+      "startTime": 405,
+      "title": "Utenriksnyheter",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa23062826/70ea1b77-7.smil/thumb.jpg?t=430&scale=480x270&v=high"
+    },
+    {
+      "startTime": 508,
+      "title": "Hovland sliter i finalerunden",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa23062826/70ea1b77-7.smil/thumb.jpg?t=533&scale=480x270&v=high"
+    },
+    {
+      "startTime": 582,
+      "title": "Grønstad på pallen",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa23062826/70ea1b77-7.smil/thumb.jpg?t=608&scale=480x270&v=high"
+    },
+    {
+      "startTime": 662,
+      "title": "Aalesund til cupfinalen for første gang",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa23062826/70ea1b77-7.smil/thumb.jpg?t=687&scale=480x270&v=high"
+    },
+    {
+      "startTime": 702,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa23062826/70ea1b77-7.smil/thumb.jpg?t=727&scale=480x270&v=high"
+    },
+    {
+      "startTime": 772,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa23062826/70ea1b77-7.smil/thumb.jpg?t=791.6&scale=480x270&v=high"
+    }
+  ]
+}

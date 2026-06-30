@@ -1,0 +1,88 @@
+{
+  "version": "1.2.0",
+  "title": "Angrer ingenting",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa23062726/23ece078-7.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 43,
+      "title": "Solbakken møtte pressen",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa23062726/23ece078-7.smil/thumb.jpg?t=69&scale=480x270&v=high"
+    },
+    {
+      "startTime": 124,
+      "title": "Frontfag kritikk",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa23062726/23ece078-7.smil/thumb.jpg?t=149&scale=480x270&v=high"
+    },
+    {
+      "startTime": 233,
+      "title": "Dødstall stiger Venezuela",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa23062726/23ece078-7.smil/thumb.jpg?t=258&scale=480x270&v=high"
+    },
+    {
+      "startTime": 266,
+      "title": "Nyvalg Serbia",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa23062726/23ece078-7.smil/thumb.jpg?t=292&scale=480x270&v=high"
+    },
+    {
+      "startTime": 299,
+      "title": "Drukningsulykke Sognsvann",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa23062726/23ece078-7.smil/thumb.jpg?t=325&scale=480x270&v=high"
+    },
+    {
+      "startTime": 318,
+      "title": "Båtvrak oppfølger - Kystverket",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa23062726/23ece078-7.smil/thumb.jpg?t=343&scale=480x270&v=high"
+    },
+    {
+      "startTime": 425,
+      "title": "I flere norske byer går tenåringer på døgnåpne koranskoler",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa23062726/23ece078-7.smil/thumb.jpg?t=451&scale=480x270&v=high"
+    },
+    {
+      "startTime": 565,
+      "title": "Pride Europa",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa23062726/23ece078-7.smil/thumb.jpg?t=590&scale=480x270&v=high"
+    },
+    {
+      "startTime": 659,
+      "title": "Argentina hviler Messi",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa23062726/23ece078-7.smil/thumb.jpg?t=684&scale=480x270&v=high"
+    },
+    {
+      "startTime": 735,
+      "title": "Iran-drama",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa23062726/23ece078-7.smil/thumb.jpg?t=761&scale=480x270&v=high"
+    },
+    {
+      "startTime": 780,
+      "title": "Brann til cupfinalen for kvinner",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa23062726/23ece078-7.smil/thumb.jpg?t=806&scale=480x270&v=high"
+    },
+    {
+      "startTime": 822,
+      "title": "Skadetrøbbel for Skotheim",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa23062726/23ece078-7.smil/thumb.jpg?t=848&scale=480x270&v=high"
+    },
+    {
+      "startTime": 888,
+      "title": "Hovland kjemper i teten i USA",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa23062726/23ece078-7.smil/thumb.jpg?t=913&scale=480x270&v=high"
+    },
+    {
+      "startTime": 921,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa23062726/23ece078-7.smil/thumb.jpg?t=946&scale=480x270&v=high"
+    },
+    {
+      "startTime": 991,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa23062726/23ece078-7.smil/thumb.jpg?t=1008.6&scale=480x270&v=high"
+    }
+  ]
+}
