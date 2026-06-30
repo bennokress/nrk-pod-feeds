@@ -1,0 +1,108 @@
+{
+  "version": "1.2.0",
+  "title": "Mirakel i Venezuela",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 7,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa19062926/0ee58a23-6.smil/thumb.jpg?t=33&scale=480x270&v=high"
+    },
+    {
+      "startTime": 66,
+      "title": "Venezuela",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa19062926/0ee58a23-6.smil/thumb.jpg?t=91&scale=480x270&v=high"
+    },
+    {
+      "startTime": 140,
+      "title": "Direkte fra Venezuela",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa19062926/0ee58a23-6.smil/thumb.jpg?t=166&scale=480x270&v=high"
+    },
+    {
+      "startTime": 275,
+      "title": "Politiet ringer",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa19062926/0ee58a23-6.smil/thumb.jpg?t=301&scale=480x270&v=high"
+    },
+    {
+      "startTime": 414,
+      "title": "Gjest om narkosalg",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa19062926/0ee58a23-6.smil/thumb.jpg?t=439&scale=480x270&v=high"
+    },
+    {
+      "startTime": 519,
+      "title": "Skyting Tyskland",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa19062926/0ee58a23-6.smil/thumb.jpg?t=545&scale=480x270&v=high"
+    },
+    {
+      "startTime": 606,
+      "title": "Ukraina",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa19062926/0ee58a23-6.smil/thumb.jpg?t=631&scale=480x270&v=high"
+    },
+    {
+      "startTime": 625,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa19062926/0ee58a23-6.smil/thumb.jpg?t=651&scale=480x270&v=high"
+    },
+    {
+      "startTime": 706,
+      "title": "Får tilbake aborttilbud",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa19062926/0ee58a23-6.smil/thumb.jpg?t=731&scale=480x270&v=high"
+    },
+    {
+      "startTime": 816,
+      "title": "Libanon angrep",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa19062926/0ee58a23-6.smil/thumb.jpg?t=842&scale=480x270&v=high"
+    },
+    {
+      "startTime": 965,
+      "title": "Farlige jettegryter",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa19062926/0ee58a23-6.smil/thumb.jpg?t=990&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1068,
+      "title": "Sting-konsert",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa19062926/0ee58a23-6.smil/thumb.jpg?t=1094&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1088,
+      "title": "Direkte fra Trondheim",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa19062926/0ee58a23-6.smil/thumb.jpg?t=1113&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1201,
+      "title": "Badetemperaturer idag",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa19062926/0ee58a23-6.smil/thumb.jpg?t=1227&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1281,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa19062926/0ee58a23-6.smil/thumb.jpg?t=1307&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1289,
+      "title": "Golf",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa19062926/0ee58a23-6.smil/thumb.jpg?t=1314&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1374,
+      "title": "Norge PK",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa19062926/0ee58a23-6.smil/thumb.jpg?t=1399&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1399,
+      "title": "Norge PK Berge",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa19062926/0ee58a23-6.smil/thumb.jpg?t=1424&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1427,
+      "title": "LOT-TRENING",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa19062926/0ee58a23-6.smil/thumb.jpg?t=1453&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1490,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa19062926/0ee58a23-6.smil/thumb.jpg?t=1515&scale=480x270&v=high"
+    }
+  ]
+}
