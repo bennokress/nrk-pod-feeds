@@ -1,0 +1,88 @@
+{
+  "version": "1.2.0",
+  "title": "For hett for bjørneskinnslue",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 6,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa19062726/3040df00-6.smil/thumb.jpg?t=31&scale=480x270&v=high"
+    },
+    {
+      "startTime": 46,
+      "title": "Hetebølge",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa19062726/3040df00-6.smil/thumb.jpg?t=72&scale=480x270&v=high"
+    },
+    {
+      "startTime": 165,
+      "title": "Gjest meteorolog",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa19062726/3040df00-6.smil/thumb.jpg?t=190&scale=480x270&v=high"
+    },
+    {
+      "startTime": 253,
+      "title": "Båtvrak problemer",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa19062726/3040df00-6.smil/thumb.jpg?t=278&scale=480x270&v=high"
+    },
+    {
+      "startTime": 402,
+      "title": "Koranskole avhopper",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa19062726/3040df00-6.smil/thumb.jpg?t=428&scale=480x270&v=high"
+    },
+    {
+      "startTime": 634,
+      "title": "Reisaelva 60-åring",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa19062726/3040df00-6.smil/thumb.jpg?t=659&scale=480x270&v=high"
+    },
+    {
+      "startTime": 646,
+      "title": "Kvidingen jettegryte",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa19062726/3040df00-6.smil/thumb.jpg?t=672&scale=480x270&v=high"
+    },
+    {
+      "startTime": 665,
+      "title": "Lockout fra i dag",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa19062726/3040df00-6.smil/thumb.jpg?t=691&scale=480x270&v=high"
+    },
+    {
+      "startTime": 690,
+      "title": "Venezuela",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa19062726/3040df00-6.smil/thumb.jpg?t=715&scale=480x270&v=high"
+    },
+    {
+      "startTime": 773,
+      "title": "Sør-Libanon",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa19062726/3040df00-6.smil/thumb.jpg?t=798&scale=480x270&v=high"
+    },
+    {
+      "startTime": 947,
+      "title": "Oslo Pride",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa19062726/3040df00-6.smil/thumb.jpg?t=973&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1066,
+      "title": "Pride Fagottkoret",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa19062726/3040df00-6.smil/thumb.jpg?t=1092&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1336,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa19062726/3040df00-6.smil/thumb.jpg?t=1362&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1342,
+      "title": "Debatt om uttaket",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa19062726/3040df00-6.smil/thumb.jpg?t=1367&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1487,
+      "title": "Kapp Verde-bragd",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa19062726/3040df00-6.smil/thumb.jpg?t=1512&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1572,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa19062726/3040df00-6.smil/thumb.jpg?t=1597&scale=480x270&v=high"
+    }
+  ]
+}

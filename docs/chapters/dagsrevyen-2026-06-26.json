@@ -1,0 +1,103 @@
+{
+  "version": "1.2.0",
+  "title": "Funnet i live etter jordskjelvet",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 10,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa19062626/f706119c-6.smil/thumb.jpg?t=35&scale=480x270&v=high"
+    },
+    {
+      "startTime": 66,
+      "title": "Venezuela jordskjelv",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa19062626/f706119c-6.smil/thumb.jpg?t=91&scale=480x270&v=high"
+    },
+    {
+      "startTime": 198,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa19062626/f706119c-6.smil/thumb.jpg?t=224&scale=480x270&v=high"
+    },
+    {
+      "startTime": 279,
+      "title": "Dobbeltdrap dom",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa19062626/f706119c-6.smil/thumb.jpg?t=305&scale=480x270&v=high"
+    },
+    {
+      "startTime": 337,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa19062626/f706119c-6.smil/thumb.jpg?t=362&scale=480x270&v=high"
+    },
+    {
+      "startTime": 386,
+      "title": "Pride-flagg",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa19062626/f706119c-6.smil/thumb.jpg?t=411&scale=480x270&v=high"
+    },
+    {
+      "startTime": 469,
+      "title": "Norge - Frankrike",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa19062626/f706119c-6.smil/thumb.jpg?t=494&scale=480x270&v=high"
+    },
+    {
+      "startTime": 485,
+      "title": "Direkte Oslo",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa19062626/f706119c-6.smil/thumb.jpg?t=510&scale=480x270&v=high"
+    },
+    {
+      "startTime": 512,
+      "title": "Hele norge ror",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa19062626/f706119c-6.smil/thumb.jpg?t=538&scale=480x270&v=high"
+    },
+    {
+      "startTime": 587,
+      "title": "Hele Norge før kampen",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa19062626/f706119c-6.smil/thumb.jpg?t=612&scale=480x270&v=high"
+    },
+    {
+      "startTime": 601,
+      "title": "Direkte Lyngdal",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa19062626/f706119c-6.smil/thumb.jpg?t=627&scale=480x270&v=high"
+    },
+    {
+      "startTime": 624,
+      "title": "Direkte Bergen",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa19062626/f706119c-6.smil/thumb.jpg?t=649&scale=480x270&v=high"
+    },
+    {
+      "startTime": 653,
+      "title": "Direkte Trondheim",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa19062626/f706119c-6.smil/thumb.jpg?t=678&scale=480x270&v=high"
+    },
+    {
+      "startTime": 677,
+      "title": "Direkte Bodø",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa19062626/f706119c-6.smil/thumb.jpg?t=703&scale=480x270&v=high"
+    },
+    {
+      "startTime": 710,
+      "title": "Dette er laget",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa19062626/f706119c-6.smil/thumb.jpg?t=735&scale=480x270&v=high"
+    },
+    {
+      "startTime": 764,
+      "title": "Direkte Boston",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa19062626/f706119c-6.smil/thumb.jpg?t=790&scale=480x270&v=high"
+    },
+    {
+      "startTime": 865,
+      "title": "Direkte Paris",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa19062626/f706119c-6.smil/thumb.jpg?t=890&scale=480x270&v=high"
+    },
+    {
+      "startTime": 914,
+      "title": "Direkte Boston fans",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa19062626/f706119c-6.smil/thumb.jpg?t=939&scale=480x270&v=high"
+    },
+    {
+      "startTime": 977,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa19062626/f706119c-6.smil/thumb.jpg?t=1003&scale=480x270&v=high"
+    }
+  ]
+}

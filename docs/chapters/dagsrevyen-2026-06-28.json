@@ -1,0 +1,108 @@
+{
+  "version": "1.2.0",
+  "title": "Rapporterer om fortsatt håp",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 8,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa19062826/bfb49351-8.smil/thumb.jpg?t=33&scale=480x270&v=high"
+    },
+    {
+      "startTime": 49,
+      "title": "Venezuela leting",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa19062826/bfb49351-8.smil/thumb.jpg?t=75&scale=480x270&v=high"
+    },
+    {
+      "startTime": 158,
+      "title": "Venezuela",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa19062826/bfb49351-8.smil/thumb.jpg?t=184&scale=480x270&v=high"
+    },
+    {
+      "startTime": 281,
+      "title": "Wisting",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa19062826/bfb49351-8.smil/thumb.jpg?t=307&scale=480x270&v=high"
+    },
+    {
+      "startTime": 405,
+      "title": "Equinor svarer",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa19062826/bfb49351-8.smil/thumb.jpg?t=430&scale=480x270&v=high"
+    },
+    {
+      "startTime": 465,
+      "title": "Skjenkebråk",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa19062826/bfb49351-8.smil/thumb.jpg?t=490&scale=480x270&v=high"
+    },
+    {
+      "startTime": 513,
+      "title": "USA Iran",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa19062826/bfb49351-8.smil/thumb.jpg?t=539&scale=480x270&v=high"
+    },
+    {
+      "startTime": 561,
+      "title": "Iran",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa19062826/bfb49351-8.smil/thumb.jpg?t=587&scale=480x270&v=high"
+    },
+    {
+      "startTime": 882,
+      "title": "Flystyrt Frankrike",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa19062826/bfb49351-8.smil/thumb.jpg?t=908&scale=480x270&v=high"
+    },
+    {
+      "startTime": 903,
+      "title": "Hetebølge Europa",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa19062826/bfb49351-8.smil/thumb.jpg?t=929&scale=480x270&v=high"
+    },
+    {
+      "startTime": 977,
+      "title": "LHBT-Kirke",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa19062826/bfb49351-8.smil/thumb.jpg?t=1002&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1156,
+      "title": "Fremtidsbibliotek",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa19062826/bfb49351-8.smil/thumb.jpg?t=1182&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1278,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa19062826/bfb49351-8.smil/thumb.jpg?t=1304&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1284,
+      "title": "Norge og straffer",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa19062826/bfb49351-8.smil/thumb.jpg?t=1309&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1320,
+      "title": "Solbakken om straffer",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa19062826/bfb49351-8.smil/thumb.jpg?t=1346&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1346,
+      "title": "Løkberg om straffer",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa19062826/bfb49351-8.smil/thumb.jpg?t=1372&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1436,
+      "title": "Messi toppscorer",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa19062826/bfb49351-8.smil/thumb.jpg?t=1462&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1507,
+      "title": "Kane forbi Lineker",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa19062826/bfb49351-8.smil/thumb.jpg?t=1532&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1540,
+      "title": "Diamond League",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa19062826/bfb49351-8.smil/thumb.jpg?t=1565&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1586,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa19062826/bfb49351-8.smil/thumb.jpg?t=1612&scale=480x270&v=high"
+    }
+  ]
+}
