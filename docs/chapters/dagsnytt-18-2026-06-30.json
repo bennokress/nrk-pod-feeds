@@ -1,0 +1,68 @@
+{
+  "version": "1.2.0",
+  "title": "Advarer før VM-folkefest",
+  "author": "NRK",
+  "podcastName": "Dagsnytt 18",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsnytt atten",
+      "img": "https://nrk-od-world-69.akamaized.net/open/ps/nnfa/nnfa56063026/71a49f76-6.smil/thumb.jpg?t=26&scale=480x270&v=high"
+    },
+    {
+      "startTime": 62,
+      "title": "Fotball-VM",
+      "img": "https://nrk-od-world-69.akamaized.net/open/ps/nnfa/nnfa56063026/71a49f76-6.smil/thumb.jpg?t=88&scale=480x270&v=high"
+    },
+    {
+      "startTime": 896,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-69.akamaized.net/open/ps/nnfa/nnfa56063026/71a49f76-6.smil/thumb.jpg?t=921&scale=480x270&v=high"
+    },
+    {
+      "startTime": 902,
+      "title": "Rus, ungdom og straff",
+      "img": "https://nrk-od-world-69.akamaized.net/open/ps/nnfa/nnfa56063026/71a49f76-6.smil/thumb.jpg?t=928&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1759,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-69.akamaized.net/open/ps/nnfa/nnfa56063026/71a49f76-6.smil/thumb.jpg?t=1784&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1773,
+      "title": "Førdefjorden",
+      "img": "https://nrk-od-world-69.akamaized.net/open/ps/nnfa/nnfa56063026/71a49f76-6.smil/thumb.jpg?t=1799&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2510,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-69.akamaized.net/open/ps/nnfa/nnfa56063026/71a49f76-6.smil/thumb.jpg?t=2536&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2515,
+      "title": "Bjørn i Berlevåg",
+      "img": "https://nrk-od-world-69.akamaized.net/open/ps/nnfa/nnfa56063026/71a49f76-6.smil/thumb.jpg?t=2541&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2991,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-69.akamaized.net/open/ps/nnfa/nnfa56063026/71a49f76-6.smil/thumb.jpg?t=3016&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2993,
+      "title": "Elsparkesykler",
+      "img": "https://nrk-od-world-69.akamaized.net/open/ps/nnfa/nnfa56063026/71a49f76-6.smil/thumb.jpg?t=3019&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3527,
+      "title": "AVSLUTNING",
+      "img": "https://nrk-od-world-69.akamaized.net/open/ps/nnfa/nnfa56063026/71a49f76-6.smil/thumb.jpg?t=3543.92&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3530,
+      "title": "SLUTTKJENNING",
+      "img": "https://nrk-od-world-69.akamaized.net/open/ps/nnfa/nnfa56063026/71a49f76-6.smil/thumb.jpg?t=3543.92&scale=480x270&v=high"
+    }
+  ]
+}
