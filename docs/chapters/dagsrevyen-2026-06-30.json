@@ -1,0 +1,103 @@
+{
+  "version": "1.2.0",
+  "title": "Fotballfeber før skjebnekamp",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 9,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-07.akamaized.net/open/ps/nnfa/nnfa19063026/f57f8043-6.smil/thumb.jpg?t=35&scale=480x270&v=high"
+    },
+    {
+      "startTime": 56,
+      "title": "VM-kampen",
+      "img": "https://nrk-od-world-07.akamaized.net/open/ps/nnfa/nnfa19063026/f57f8043-6.smil/thumb.jpg?t=82&scale=480x270&v=high"
+    },
+    {
+      "startTime": 93,
+      "title": "SAS satser",
+      "img": "https://nrk-od-world-07.akamaized.net/open/ps/nnfa/nnfa19063026/f57f8043-6.smil/thumb.jpg?t=118&scale=480x270&v=high"
+    },
+    {
+      "startTime": 304,
+      "title": "Venezuela",
+      "img": "https://nrk-od-world-07.akamaized.net/open/ps/nnfa/nnfa19063026/f57f8043-6.smil/thumb.jpg?t=330&scale=480x270&v=high"
+    },
+    {
+      "startTime": 337,
+      "title": "Direkte fra Venezuela",
+      "img": "https://nrk-od-world-07.akamaized.net/open/ps/nnfa/nnfa19063026/f57f8043-6.smil/thumb.jpg?t=363&scale=480x270&v=high"
+    },
+    {
+      "startTime": 377,
+      "title": "Venezuela",
+      "img": "https://nrk-od-world-07.akamaized.net/open/ps/nnfa/nnfa19063026/f57f8043-6.smil/thumb.jpg?t=402&scale=480x270&v=high"
+    },
+    {
+      "startTime": 469,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-07.akamaized.net/open/ps/nnfa/nnfa19063026/f57f8043-6.smil/thumb.jpg?t=494&scale=480x270&v=high"
+    },
+    {
+      "startTime": 575,
+      "title": "Besøk Kina",
+      "img": "https://nrk-od-world-07.akamaized.net/open/ps/nnfa/nnfa19063026/f57f8043-6.smil/thumb.jpg?t=600&scale=480x270&v=high"
+    },
+    {
+      "startTime": 591,
+      "title": "VM-utdrag",
+      "img": "https://nrk-od-world-07.akamaized.net/open/ps/nnfa/nnfa19063026/f57f8043-6.smil/thumb.jpg?t=617&scale=480x270&v=high"
+    },
+    {
+      "startTime": 620,
+      "title": "Direkte Oslo",
+      "img": "https://nrk-od-world-07.akamaized.net/open/ps/nnfa/nnfa19063026/f57f8043-6.smil/thumb.jpg?t=646&scale=480x270&v=high"
+    },
+    {
+      "startTime": 687,
+      "title": "Direkte Bergen",
+      "img": "https://nrk-od-world-07.akamaized.net/open/ps/nnfa/nnfa19063026/f57f8043-6.smil/thumb.jpg?t=712&scale=480x270&v=high"
+    },
+    {
+      "startTime": 772,
+      "title": "Betting i VM",
+      "img": "https://nrk-od-world-07.akamaized.net/open/ps/nnfa/nnfa19063026/f57f8043-6.smil/thumb.jpg?t=797&scale=480x270&v=high"
+    },
+    {
+      "startTime": 910,
+      "title": "Fant våpenlager",
+      "img": "https://nrk-od-world-07.akamaized.net/open/ps/nnfa/nnfa19063026/f57f8043-6.smil/thumb.jpg?t=936&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1014,
+      "title": "Utenriksnyheter",
+      "img": "https://nrk-od-world-07.akamaized.net/open/ps/nnfa/nnfa19063026/f57f8043-6.smil/thumb.jpg?t=1040&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1101,
+      "title": "Mange drukningsulykker",
+      "img": "https://nrk-od-world-07.akamaized.net/open/ps/nnfa/nnfa19063026/f57f8043-6.smil/thumb.jpg?t=1126&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1189,
+      "title": "Biesverm",
+      "img": "https://nrk-od-world-07.akamaized.net/open/ps/nnfa/nnfa19063026/f57f8043-6.smil/thumb.jpg?t=1214&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1272,
+      "title": "Norge VM",
+      "img": "https://nrk-od-world-07.akamaized.net/open/ps/nnfa/nnfa19063026/f57f8043-6.smil/thumb.jpg?t=1297&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1483,
+      "title": "Gigantenes fall",
+      "img": "https://nrk-od-world-07.akamaized.net/open/ps/nnfa/nnfa19063026/f57f8043-6.smil/thumb.jpg?t=1509&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1560,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-07.akamaized.net/open/ps/nnfa/nnfa19063026/f57f8043-6.smil/thumb.jpg?t=1585&scale=480x270&v=high"
+    }
+  ]
+}
