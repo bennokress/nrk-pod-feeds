@@ -1,0 +1,48 @@
+{
+  "version": "1.2.0",
+  "title": "16.-delsfinalen avgjort",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 30,
+      "title": "Fotball-VM",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa23063026/dcc5e43f-6.smil/thumb.jpg?t=56&scale=480x270&v=high"
+    },
+    {
+      "startTime": 58,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa23063026/dcc5e43f-6.smil/thumb.jpg?t=83&scale=480x270&v=high"
+    },
+    {
+      "startTime": 147,
+      "title": "Fotball-VM",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa23063026/dcc5e43f-6.smil/thumb.jpg?t=172&scale=480x270&v=high"
+    },
+    {
+      "startTime": 227,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa23063026/dcc5e43f-6.smil/thumb.jpg?t=252&scale=480x270&v=high"
+    },
+    {
+      "startTime": 352,
+      "title": "Vm-reaksjoner",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa23063026/dcc5e43f-6.smil/thumb.jpg?t=377&scale=480x270&v=high"
+    },
+    {
+      "startTime": 456,
+      "title": "Rusreform",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa23063026/dcc5e43f-6.smil/thumb.jpg?t=481&scale=480x270&v=high"
+    },
+    {
+      "startTime": 523,
+      "title": "DAGSREVYPAKKE",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa23063026/dcc5e43f-6.smil/thumb.jpg?t=549&scale=480x270&v=high"
+    },
+    {
+      "startTime": 603,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa23063026/dcc5e43f-6.smil/thumb.jpg?t=628&scale=480x270&v=high"
+    }
+  ]
+}

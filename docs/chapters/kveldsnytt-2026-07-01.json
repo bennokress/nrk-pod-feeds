@@ -1,0 +1,68 @@
+{
+  "version": "1.2.0",
+  "title": "Vurderer treningsgrep",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-55.akamaized.net/open/ps/nnfa/nnfa23070126/f1ac4664-8.smil/thumb.jpg?t=26&scale=480x270&v=high"
+    },
+    {
+      "startTime": 33,
+      "title": "Varme USA",
+      "img": "https://nrk-od-world-55.akamaized.net/open/ps/nnfa/nnfa23070126/f1ac4664-8.smil/thumb.jpg?t=59&scale=480x270&v=high"
+    },
+    {
+      "startTime": 72,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-55.akamaized.net/open/ps/nnfa/nnfa23070126/f1ac4664-8.smil/thumb.jpg?t=98&scale=480x270&v=high"
+    },
+    {
+      "startTime": 195,
+      "title": "Varmerekord",
+      "img": "https://nrk-od-world-55.akamaized.net/open/ps/nnfa/nnfa23070126/f1ac4664-8.smil/thumb.jpg?t=220&scale=480x270&v=high"
+    },
+    {
+      "startTime": 222,
+      "title": "Besøksbidrag",
+      "img": "https://nrk-od-world-55.akamaized.net/open/ps/nnfa/nnfa23070126/f1ac4664-8.smil/thumb.jpg?t=248&scale=480x270&v=high"
+    },
+    {
+      "startTime": 340,
+      "title": "Innenriks",
+      "img": "https://nrk-od-world-55.akamaized.net/open/ps/nnfa/nnfa23070126/f1ac4664-8.smil/thumb.jpg?t=365&scale=480x270&v=high"
+    },
+    {
+      "startTime": 445,
+      "title": "Utenriks",
+      "img": "https://nrk-od-world-55.akamaized.net/open/ps/nnfa/nnfa23070126/f1ac4664-8.smil/thumb.jpg?t=471&scale=480x270&v=high"
+    },
+    {
+      "startTime": 551,
+      "title": "Nettpromo",
+      "img": "https://nrk-od-world-55.akamaized.net/open/ps/nnfa/nnfa23070126/f1ac4664-8.smil/thumb.jpg?t=577&scale=480x270&v=high"
+    },
+    {
+      "startTime": 568,
+      "title": "Fotball-VM",
+      "img": "https://nrk-od-world-55.akamaized.net/open/ps/nnfa/nnfa23070126/f1ac4664-8.smil/thumb.jpg?t=593&scale=480x270&v=high"
+    },
+    {
+      "startTime": 677,
+      "title": "Lyn Ullevaal",
+      "img": "https://nrk-od-world-55.akamaized.net/open/ps/nnfa/nnfa23070126/f1ac4664-8.smil/thumb.jpg?t=702&scale=480x270&v=high"
+    },
+    {
+      "startTime": 770,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-55.akamaized.net/open/ps/nnfa/nnfa23070126/f1ac4664-8.smil/thumb.jpg?t=795&scale=480x270&v=high"
+    },
+    {
+      "startTime": 831,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-55.akamaized.net/open/ps/nnfa/nnfa23070126/f1ac4664-8.smil/thumb.jpg?t=848.6&scale=480x270&v=high"
+    }
+  ]
+}
