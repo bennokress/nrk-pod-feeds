@@ -1,0 +1,303 @@
+{
+  "version": "1.2.0",
+  "title": "Håpet svinner i Venezuela",
+  "author": "NRK",
+  "podcastName": "Nyhetsmorgen",
+  "chapters": [
+    {
+      "startTime": 82,
+      "title": "Desperat leting i Venezuela",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa05062926/76d6af3a-7.smil/thumb.jpg?t=108&scale=480x270&v=high"
+    },
+    {
+      "startTime": 206,
+      "title": "Siste nytt",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa05062926/76d6af3a-7.smil/thumb.jpg?t=232&scale=480x270&v=high"
+    },
+    {
+      "startTime": 329,
+      "title": "Stemmer fem ganger så ofte i Stortinget",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa05062926/76d6af3a-7.smil/thumb.jpg?t=355&scale=480x270&v=high"
+    },
+    {
+      "startTime": 366,
+      "title": "Streng miljøbeskjed frå staten",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa05062926/76d6af3a-7.smil/thumb.jpg?t=391&scale=480x270&v=high"
+    },
+    {
+      "startTime": 607,
+      "title": "Filmen Onkel Egg i gang med innspilling",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa05062926/76d6af3a-7.smil/thumb.jpg?t=632&scale=480x270&v=high"
+    },
+    {
+      "startTime": 841,
+      "title": "Overskrifter 06:45",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa05062926/76d6af3a-7.smil/thumb.jpg?t=867&scale=480x270&v=high"
+    },
+    {
+      "startTime": 875,
+      "title": "VM-rundens overskrifter",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa05062926/76d6af3a-7.smil/thumb.jpg?t=901&scale=480x270&v=high"
+    },
+    {
+      "startTime": 919,
+      "title": "Canada videre i VM",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa05062926/76d6af3a-7.smil/thumb.jpg?t=945&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1110,
+      "title": "Kommentator Bengt Eriksen",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa05062926/76d6af3a-7.smil/thumb.jpg?t=1135&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1363,
+      "title": "Kvifor uteblir Trump frå VM?",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa05062926/76d6af3a-7.smil/thumb.jpg?t=1388&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1620,
+      "title": "VM tar over hitlistene",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa05062926/76d6af3a-7.smil/thumb.jpg?t=1646&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1778,
+      "title": "Sommer i P2",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa05062926/76d6af3a-7.smil/thumb.jpg?t=1804&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1810,
+      "title": "Åpning 07:00",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa05062926/76d6af3a-7.smil/thumb.jpg?t=1836&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1870,
+      "title": "Håpet svinner i Venezuela",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa05062926/76d6af3a-7.smil/thumb.jpg?t=1895&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2146,
+      "title": "Ansatte i barnevernet må beskyttes bedre",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa05062926/76d6af3a-7.smil/thumb.jpg?t=2171&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2261,
+      "title": "Økning i representantforslag",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa05062926/76d6af3a-7.smil/thumb.jpg?t=2287&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2461,
+      "title": "GJEST Lars Nehru Sand",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa05062926/76d6af3a-7.smil/thumb.jpg?t=2486&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2600,
+      "title": "Før Politisk kvarter",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa05062926/76d6af3a-7.smil/thumb.jpg?t=2625&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2634,
+      "title": "Overskrifter 07:15",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa05062926/76d6af3a-7.smil/thumb.jpg?t=2660&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2664,
+      "title": "Sommerjobb i Oslo",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa05062926/76d6af3a-7.smil/thumb.jpg?t=2690&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2809,
+      "title": "Våpenhvile-status Iran-USA",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa05062926/76d6af3a-7.smil/thumb.jpg?t=2835&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2998,
+      "title": "Frykter angrep i Sudan",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa05062926/76d6af3a-7.smil/thumb.jpg?t=3023&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3159,
+      "title": "Lilian har ikke dekning",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa05062926/76d6af3a-7.smil/thumb.jpg?t=3185&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3382,
+      "title": "Ungdommer og elsparkesykler",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa05062926/76d6af3a-7.smil/thumb.jpg?t=3408&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3508,
+      "title": "Teasing dagens sending",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa05062926/76d6af3a-7.smil/thumb.jpg?t=3533&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3569,
+      "title": "Historiske kjendiser",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa05062926/76d6af3a-7.smil/thumb.jpg?t=3594&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3601,
+      "title": "Overskrifter 07:30",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa05062926/76d6af3a-7.smil/thumb.jpg?t=3627&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3634,
+      "title": "Desperat leting i Venezuela",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa05062926/76d6af3a-7.smil/thumb.jpg?t=3660&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3757,
+      "title": "Ansatte i barnevernet må beskyttes bedre",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa05062926/76d6af3a-7.smil/thumb.jpg?t=3782&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3836,
+      "title": "Stemmer fem ganger så ofte i Stortinget",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa05062926/76d6af3a-7.smil/thumb.jpg?t=3862&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3948,
+      "title": "Frykter angrep i Sudan",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa05062926/76d6af3a-7.smil/thumb.jpg?t=3973&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4038,
+      "title": "VM i fotball til cupspill",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa05062926/76d6af3a-7.smil/thumb.jpg?t=4064&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4103,
+      "title": "VM tar over hitlistene",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa05062926/76d6af3a-7.smil/thumb.jpg?t=4128&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4201,
+      "title": "Åpning 07:40",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa05062926/76d6af3a-7.smil/thumb.jpg?t=4226&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4231,
+      "title": "Rekordmange på ungdomsfiske",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa05062926/76d6af3a-7.smil/thumb.jpg?t=4257&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4443,
+      "title": "Topper 07:44",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa05062926/76d6af3a-7.smil/thumb.jpg?t=4469&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4497,
+      "title": "Overgang til Politisk kvarter",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa05062926/76d6af3a-7.smil/thumb.jpg?t=4523&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5401,
+      "title": "NRK Nyheter 08:00",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa05062926/76d6af3a-7.smil/thumb.jpg?t=5426&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5582,
+      "title": "Åpning 08:03",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa05062926/76d6af3a-7.smil/thumb.jpg?t=5608&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5644,
+      "title": "Irans fotballandslag",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa05062926/76d6af3a-7.smil/thumb.jpg?t=5669&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5825,
+      "title": "Våpenhvile-status Iran-USA",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa05062926/76d6af3a-7.smil/thumb.jpg?t=5851&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6013,
+      "title": "Flere får benskjørhet",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa05062926/76d6af3a-7.smil/thumb.jpg?t=6039&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6195,
+      "title": "Nye lover fra 01. juli",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa05062926/76d6af3a-7.smil/thumb.jpg?t=6220&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6358,
+      "title": "Overskrifter 08:15",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa05062926/76d6af3a-7.smil/thumb.jpg?t=6383&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6395,
+      "title": "Håpet svinner i Venezuela",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa05062926/76d6af3a-7.smil/thumb.jpg?t=6421&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6557,
+      "title": "VM tar over hitlistene",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa05062926/76d6af3a-7.smil/thumb.jpg?t=6583&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6769,
+      "title": "Hvorfor blir en sang en hit?",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa05062926/76d6af3a-7.smil/thumb.jpg?t=6794&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7038,
+      "title": "Studenter i utlandet opplever prissjokk",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa05062926/76d6af3a-7.smil/thumb.jpg?t=7064&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7211,
+      "title": "Overskrifter 08:30",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa05062926/76d6af3a-7.smil/thumb.jpg?t=7236&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7247,
+      "title": "Økning i representantforslag",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa05062926/76d6af3a-7.smil/thumb.jpg?t=7272&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7414,
+      "title": "- Må beskyttes bedre på jobb",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa05062926/76d6af3a-7.smil/thumb.jpg?t=7440&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7654,
+      "title": "Canada videre i VM",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa05062926/76d6af3a-7.smil/thumb.jpg?t=7680&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7811,
+      "title": "Kraftigste gresspollensesong på 45 år",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa05062926/76d6af3a-7.smil/thumb.jpg?t=7837&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8010,
+      "title": "Hør P2-pulsen i NRK P2",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa05062926/76d6af3a-7.smil/thumb.jpg?t=8036&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8053,
+      "title": "Overskrifter 08:45",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa05062926/76d6af3a-7.smil/thumb.jpg?t=8079&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8091,
+      "title": "Forfattere ville oppleve VM",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa05062926/76d6af3a-7.smil/thumb.jpg?t=8117&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8665,
+      "title": "Lilian har ikke dekning",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa05062926/76d6af3a-7.smil/thumb.jpg?t=8691&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8876,
+      "title": "GJEST Været i dag",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa05062926/76d6af3a-7.smil/thumb.jpg?t=8902&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8992,
+      "title": "Avslutning",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa05062926/76d6af3a-7.smil/thumb.jpg?t=9003.44&scale=480x270&v=high"
+    }
+  ]
+}
