@@ -1,0 +1,53 @@
+{
+  "version": "1.2.0",
+  "title": "Skjebnekamp for Norge",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa21063026/9deb46a0-7.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 29,
+      "title": "Elfenbenskysten–Norge",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa21063026/9deb46a0-7.smil/thumb.jpg?t=54&scale=480x270&v=high"
+    },
+    {
+      "startTime": 126,
+      "title": "Gjest:",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa21063026/9deb46a0-7.smil/thumb.jpg?t=152&scale=480x270&v=high"
+    },
+    {
+      "startTime": 409,
+      "title": "Ullevaal stadion",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa21063026/9deb46a0-7.smil/thumb.jpg?t=434&scale=480x270&v=high"
+    },
+    {
+      "startTime": 425,
+      "title": "Oslo sentrum",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa21063026/9deb46a0-7.smil/thumb.jpg?t=451&scale=480x270&v=high"
+    },
+    {
+      "startTime": 457,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa21063026/9deb46a0-7.smil/thumb.jpg?t=483&scale=480x270&v=high"
+    },
+    {
+      "startTime": 524,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa21063026/9deb46a0-7.smil/thumb.jpg?t=549&scale=480x270&v=high"
+    },
+    {
+      "startTime": 611,
+      "title": "Været",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa21063026/9deb46a0-7.smil/thumb.jpg?t=637&scale=480x270&v=high"
+    },
+    {
+      "startTime": 667,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa21063026/9deb46a0-7.smil/thumb.jpg?t=689.55&scale=480x270&v=high"
+    }
+  ]
+}
