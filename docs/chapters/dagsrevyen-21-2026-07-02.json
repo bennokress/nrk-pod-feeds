@@ -1,0 +1,53 @@
+{
+  "version": "1.2.0",
+  "title": "Tre dager med Karpe",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa21070226/f092c8d6-6.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 26,
+      "title": "Drukningstall første halvår 2026",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa21070226/f092c8d6-6.smil/thumb.jpg?t=52&scale=480x270&v=high"
+    },
+    {
+      "startTime": 138,
+      "title": "MLD KART",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa21070226/f092c8d6-6.smil/thumb.jpg?t=164&scale=480x270&v=high"
+    },
+    {
+      "startTime": 164,
+      "title": "Hektisk før kamp",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa21070226/f092c8d6-6.smil/thumb.jpg?t=190&scale=480x270&v=high"
+    },
+    {
+      "startTime": 252,
+      "title": "DAGSREVYPAKKE",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa21070226/f092c8d6-6.smil/thumb.jpg?t=278&scale=480x270&v=high"
+    },
+    {
+      "startTime": 375,
+      "title": "Karpe World",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa21070226/f092c8d6-6.smil/thumb.jpg?t=401&scale=480x270&v=high"
+    },
+    {
+      "startTime": 401,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa21070226/f092c8d6-6.smil/thumb.jpg?t=427&scale=480x270&v=high"
+    },
+    {
+      "startTime": 458,
+      "title": "Været",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa21070226/f092c8d6-6.smil/thumb.jpg?t=484&scale=480x270&v=high"
+    },
+    {
+      "startTime": 516,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa21070226/f092c8d6-6.smil/thumb.jpg?t=538.84&scale=480x270&v=high"
+    }
+  ]
+}
