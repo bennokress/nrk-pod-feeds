@@ -1,0 +1,48 @@
+{
+  "version": "1.2.0",
+  "title": "Til topps på skyskraper",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa21070126/a5e36b1c-6.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 9,
+      "title": "Båtbrann Hvaler",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa21070126/a5e36b1c-6.smil/thumb.jpg?t=35&scale=480x270&v=high"
+    },
+    {
+      "startTime": 38,
+      "title": "Norgespris",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa21070126/a5e36b1c-6.smil/thumb.jpg?t=64&scale=480x270&v=high"
+    },
+    {
+      "startTime": 66,
+      "title": "Nord-Stream",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa21070126/a5e36b1c-6.smil/thumb.jpg?t=91&scale=480x270&v=high"
+    },
+    {
+      "startTime": 103,
+      "title": "Empire state-banner",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa21070126/a5e36b1c-6.smil/thumb.jpg?t=129&scale=480x270&v=high"
+    },
+    {
+      "startTime": 140,
+      "title": "Junivær i Bergen",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa21070126/a5e36b1c-6.smil/thumb.jpg?t=166&scale=480x270&v=high"
+    },
+    {
+      "startTime": 184,
+      "title": "Været",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa21070126/a5e36b1c-6.smil/thumb.jpg?t=210&scale=480x270&v=high"
+    },
+    {
+      "startTime": 243,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa21070126/a5e36b1c-6.smil/thumb.jpg?t=262.76&scale=480x270&v=high"
+    }
+  ]
+}
