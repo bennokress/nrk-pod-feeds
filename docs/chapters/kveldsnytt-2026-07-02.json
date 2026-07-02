@@ -1,0 +1,68 @@
+{
+  "version": "1.2.0",
+  "title": "Mirakuløst reddet!",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa23070226/0831c405-8.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 37,
+      "title": "Mann reddet etter åtte dager i Venezuela",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa23070226/0831c405-8.smil/thumb.jpg?t=62&scale=480x270&v=high"
+    },
+    {
+      "startTime": 133,
+      "title": "Skogbrann Frankrike",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa23070226/0831c405-8.smil/thumb.jpg?t=159&scale=480x270&v=high"
+    },
+    {
+      "startTime": 159,
+      "title": "Festivalbråk Stavern",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa23070226/0831c405-8.smil/thumb.jpg?t=185&scale=480x270&v=high"
+    },
+    {
+      "startTime": 176,
+      "title": "Opptak Forsvaret",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa23070226/0831c405-8.smil/thumb.jpg?t=202&scale=480x270&v=high"
+    },
+    {
+      "startTime": 246,
+      "title": "Camp Støren aktivitetsleir",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa23070226/0831c405-8.smil/thumb.jpg?t=272&scale=480x270&v=high"
+    },
+    {
+      "startTime": 339,
+      "title": "Konsert Ekeberg",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa23070226/0831c405-8.smil/thumb.jpg?t=365&scale=480x270&v=high"
+    },
+    {
+      "startTime": 436,
+      "title": "Fotball-VM",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa23070226/0831c405-8.smil/thumb.jpg?t=461&scale=480x270&v=high"
+    },
+    {
+      "startTime": 512,
+      "title": "Trenernytt",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa23070226/0831c405-8.smil/thumb.jpg?t=537&scale=480x270&v=high"
+    },
+    {
+      "startTime": 556,
+      "title": "Uno-X",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa23070226/0831c405-8.smil/thumb.jpg?t=581&scale=480x270&v=high"
+    },
+    {
+      "startTime": 624,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa23070226/0831c405-8.smil/thumb.jpg?t=650&scale=480x270&v=high"
+    },
+    {
+      "startTime": 693,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa23070226/0831c405-8.smil/thumb.jpg?t=719&scale=480x270&v=high"
+    }
+  ]
+}
