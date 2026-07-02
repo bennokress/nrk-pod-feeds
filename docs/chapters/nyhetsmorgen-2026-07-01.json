@@ -1,0 +1,283 @@
+{
+  "version": "1.2.0",
+  "title": "Flere land videre i natt",
+  "author": "NRK",
+  "podcastName": "Nyhetsmorgen",
+  "chapters": [
+    {
+      "startTime": 75,
+      "title": "Hele Norge feiret VM-seieren",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05070126/cc8d2fa4-6.smil/thumb.jpg?t=100&scale=480x270&v=high"
+    },
+    {
+      "startTime": 230,
+      "title": "Norge er videre i VM",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05070126/cc8d2fa4-6.smil/thumb.jpg?t=256&scale=480x270&v=high"
+    },
+    {
+      "startTime": 411,
+      "title": "Frankrike sender Sverige ut av VM",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05070126/cc8d2fa4-6.smil/thumb.jpg?t=437&scale=480x270&v=high"
+    },
+    {
+      "startTime": 496,
+      "title": "Joacim Jonsson om Sverige og Norge i VM",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05070126/cc8d2fa4-6.smil/thumb.jpg?t=522&scale=480x270&v=high"
+    },
+    {
+      "startTime": 798,
+      "title": "Siste nytt",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05070126/cc8d2fa4-6.smil/thumb.jpg?t=824&scale=480x270&v=high"
+    },
+    {
+      "startTime": 944,
+      "title": "Mange butikker stengt i Venezuela",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05070126/cc8d2fa4-6.smil/thumb.jpg?t=970&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1041,
+      "title": "Overskrifter 06:45",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05070126/cc8d2fa4-6.smil/thumb.jpg?t=1067&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1111,
+      "title": "Oppsummering av 16.delsfinaler",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05070126/cc8d2fa4-6.smil/thumb.jpg?t=1137&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1307,
+      "title": "Verden om Norges seier",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05070126/cc8d2fa4-6.smil/thumb.jpg?t=1332&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1616,
+      "title": "Inseminering av bier",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05070126/cc8d2fa4-6.smil/thumb.jpg?t=1642&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1797,
+      "title": "Åpning 07:00",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05070126/cc8d2fa4-6.smil/thumb.jpg?t=1823&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1883,
+      "title": "Barnas 16.delsfinale",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05070126/cc8d2fa4-6.smil/thumb.jpg?t=1908&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2275,
+      "title": "Vil ha nasjonal fridag etter Brasil-kampen",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05070126/cc8d2fa4-6.smil/thumb.jpg?t=2300&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2340,
+      "title": "Norges sjanser videre i VM",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05070126/cc8d2fa4-6.smil/thumb.jpg?t=2366&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2552,
+      "title": "Hvordan takle VM feberen",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05070126/cc8d2fa4-6.smil/thumb.jpg?t=2578&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2849,
+      "title": "Overskrifter 07:15",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05070126/cc8d2fa4-6.smil/thumb.jpg?t=2874&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2888,
+      "title": "Ny lov styrker arbeid mot barnevold",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05070126/cc8d2fa4-6.smil/thumb.jpg?t=2914&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3110,
+      "title": "Radikale ungdomspartier",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05070126/cc8d2fa4-6.smil/thumb.jpg?t=3136&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3144,
+      "title": "Aurora tok MC-lappen",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05070126/cc8d2fa4-6.smil/thumb.jpg?t=3169&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3320,
+      "title": "Utenlandske turister og fergebetaling",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05070126/cc8d2fa4-6.smil/thumb.jpg?t=3346&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3434,
+      "title": "Funnet i live i Venezuela",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05070126/cc8d2fa4-6.smil/thumb.jpg?t=3459&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3573,
+      "title": "Hele historien: Dobbeldrapet ved KJ",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05070126/cc8d2fa4-6.smil/thumb.jpg?t=3599&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3768,
+      "title": "Overskrifter 07:30",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05070126/cc8d2fa4-6.smil/thumb.jpg?t=3793&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3788,
+      "title": "Barnas 16.delsfinale",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05070126/cc8d2fa4-6.smil/thumb.jpg?t=3814&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3884,
+      "title": "Vil ha nasjonal fridag etter Brasil-kampen",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05070126/cc8d2fa4-6.smil/thumb.jpg?t=3910&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3931,
+      "title": "Norge møter Brasil på søndag",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05070126/cc8d2fa4-6.smil/thumb.jpg?t=3957&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3968,
+      "title": "Venezueal stengt",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05070126/cc8d2fa4-6.smil/thumb.jpg?t=3993&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4003,
+      "title": "Fortsatt håp i Venezuela",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05070126/cc8d2fa4-6.smil/thumb.jpg?t=4028&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4033,
+      "title": "Ny lov styrker arbeid mot barnevold",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05070126/cc8d2fa4-6.smil/thumb.jpg?t=4059&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4160,
+      "title": "Norge er videre i VM",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05070126/cc8d2fa4-6.smil/thumb.jpg?t=4186&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4200,
+      "title": "Åpning 07:40",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05070126/cc8d2fa4-6.smil/thumb.jpg?t=4225&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4211,
+      "title": "På ekspedisjon med små barn",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05070126/cc8d2fa4-6.smil/thumb.jpg?t=4237&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4426,
+      "title": "Topper 07:44",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05070126/cc8d2fa4-6.smil/thumb.jpg?t=4451&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4501,
+      "title": "Overgang til Politisk kvarter",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05070126/cc8d2fa4-6.smil/thumb.jpg?t=4527&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5400,
+      "title": "NRK Nyheter 08:00",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05070126/cc8d2fa4-6.smil/thumb.jpg?t=5426&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5580,
+      "title": "Åpning 08:03",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05070126/cc8d2fa4-6.smil/thumb.jpg?t=5606&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5677,
+      "title": "Barnas 16.delsfinale",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05070126/cc8d2fa4-6.smil/thumb.jpg?t=5703&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5890,
+      "title": "Opprydding på Slottsplassen",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05070126/cc8d2fa4-6.smil/thumb.jpg?t=5916&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6053,
+      "title": "VM-reaksjoner i Europa",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05070126/cc8d2fa4-6.smil/thumb.jpg?t=6078&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6496,
+      "title": "Overskrifter 08:15",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05070126/cc8d2fa4-6.smil/thumb.jpg?t=6522&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6534,
+      "title": "Ny lov styrker arbeid mot barnevold",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05070126/cc8d2fa4-6.smil/thumb.jpg?t=6559&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6759,
+      "title": "Hele Norge feiret VM-seieren",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05070126/cc8d2fa4-6.smil/thumb.jpg?t=6785&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6921,
+      "title": "Hva gjør VM-gleden med Norge?",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05070126/cc8d2fa4-6.smil/thumb.jpg?t=6946&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7224,
+      "title": "Overskrifter 08:30",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05070126/cc8d2fa4-6.smil/thumb.jpg?t=7249&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7270,
+      "title": "MGPjr er tilbake!",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05070126/cc8d2fa4-6.smil/thumb.jpg?t=7295&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7604,
+      "title": "Vil ha nasjonal fridag etter Brasil-kampen",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05070126/cc8d2fa4-6.smil/thumb.jpg?t=7630&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7716,
+      "title": "Norge er videre i VM",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05070126/cc8d2fa4-6.smil/thumb.jpg?t=7742&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8076,
+      "title": "Norge er videre i VM og skal møte Brasil",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05070126/cc8d2fa4-6.smil/thumb.jpg?t=8101&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8267,
+      "title": "Overskrifter 08:45",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05070126/cc8d2fa4-6.smil/thumb.jpg?t=8293&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8332,
+      "title": "Mange butikker stengt i Venezuela",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05070126/cc8d2fa4-6.smil/thumb.jpg?t=8358&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8411,
+      "title": "Sorg og håp i Venezuela",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05070126/cc8d2fa4-6.smil/thumb.jpg?t=8436&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8570,
+      "title": "Inseminering av bier",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05070126/cc8d2fa4-6.smil/thumb.jpg?t=8595&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8744,
+      "title": "Hele Norge feiret VM-seieren",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05070126/cc8d2fa4-6.smil/thumb.jpg?t=8769&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8878,
+      "title": "GJEST Været i dag",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05070126/cc8d2fa4-6.smil/thumb.jpg?t=8903&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8983,
+      "title": "Avslutning",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05070126/cc8d2fa4-6.smil/thumb.jpg?t=9003.24&scale=480x270&v=high"
+    }
+  ]
+}
