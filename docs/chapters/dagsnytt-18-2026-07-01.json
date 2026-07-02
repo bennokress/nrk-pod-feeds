@@ -1,0 +1,63 @@
+{
+  "version": "1.2.0",
+  "title": "Dagen derpå",
+  "author": "NRK",
+  "podcastName": "Dagsnytt 18",
+  "chapters": [
+    {
+      "startTime": 64,
+      "title": "Norge og Fotball-VM",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa56070126/27140a65-6.smil/thumb.jpg?t=90&scale=480x270&v=high"
+    },
+    {
+      "startTime": 764,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa56070126/27140a65-6.smil/thumb.jpg?t=790&scale=480x270&v=high"
+    },
+    {
+      "startTime": 773,
+      "title": "Nye takster for fastleger",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa56070126/27140a65-6.smil/thumb.jpg?t=798&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1523,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa56070126/27140a65-6.smil/thumb.jpg?t=1548&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1533,
+      "title": "Bistandskutt",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa56070126/27140a65-6.smil/thumb.jpg?t=1559&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2069,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa56070126/27140a65-6.smil/thumb.jpg?t=2094&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2077,
+      "title": "Varmerekorder i Europa",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa56070126/27140a65-6.smil/thumb.jpg?t=2102&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2795,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa56070126/27140a65-6.smil/thumb.jpg?t=2821&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2801,
+      "title": "Vil forby KI-briller",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa56070126/27140a65-6.smil/thumb.jpg?t=2826&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3524,
+      "title": "AVSLUTNING",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa56070126/27140a65-6.smil/thumb.jpg?t=3543.8&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3527,
+      "title": "SLUTTKJENNING",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa56070126/27140a65-6.smil/thumb.jpg?t=3543.8&scale=480x270&v=high"
+    }
+  ]
+}

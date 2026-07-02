@@ -1,0 +1,103 @@
+{
+  "version": "1.2.0",
+  "title": "- Nå kommer vi etter deg!",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa19070126/15f9e55f-8.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 20,
+      "title": "Solbakken møter pressen",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa19070126/15f9e55f-8.smil/thumb.jpg?t=46&scale=480x270&v=high"
+    },
+    {
+      "startTime": 75,
+      "title": "VM-feber",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa19070126/15f9e55f-8.smil/thumb.jpg?t=101&scale=480x270&v=high"
+    },
+    {
+      "startTime": 252,
+      "title": "Gjest: Jan Petter Saltvedt",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa19070126/15f9e55f-8.smil/thumb.jpg?t=278&scale=480x270&v=high"
+    },
+    {
+      "startTime": 360,
+      "title": "VM-feber",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa19070126/15f9e55f-8.smil/thumb.jpg?t=385&scale=480x270&v=high"
+    },
+    {
+      "startTime": 471,
+      "title": "Venezuela",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa19070126/15f9e55f-8.smil/thumb.jpg?t=496&scale=480x270&v=high"
+    },
+    {
+      "startTime": 649,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa19070126/15f9e55f-8.smil/thumb.jpg?t=674&scale=480x270&v=high"
+    },
+    {
+      "startTime": 686,
+      "title": "Dødsuykker",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa19070126/15f9e55f-8.smil/thumb.jpg?t=712&scale=480x270&v=high"
+    },
+    {
+      "startTime": 815,
+      "title": "Hetebølgen Paris",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa19070126/15f9e55f-8.smil/thumb.jpg?t=840&scale=480x270&v=high"
+    },
+    {
+      "startTime": 932,
+      "title": "Dårligere laksefiske",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa19070126/15f9e55f-8.smil/thumb.jpg?t=958&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1039,
+      "title": "Pensjon",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa19070126/15f9e55f-8.smil/thumb.jpg?t=1064&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1142,
+      "title": "Utenriksnyheter",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa19070126/15f9e55f-8.smil/thumb.jpg?t=1168&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1234,
+      "title": "Jazzfestival",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa19070126/15f9e55f-8.smil/thumb.jpg?t=1260&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1265,
+      "title": "Amerikanske chants",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa19070126/15f9e55f-8.smil/thumb.jpg?t=1291&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1369,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa19070126/15f9e55f-8.smil/thumb.jpg?t=1394&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1376,
+      "title": "Fotball-VM",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa19070126/15f9e55f-8.smil/thumb.jpg?t=1402&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1447,
+      "title": "Direkte",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa19070126/15f9e55f-8.smil/thumb.jpg?t=1473&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1524,
+      "title": "Fotball-VM",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa19070126/15f9e55f-8.smil/thumb.jpg?t=1549&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1584,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa19070126/15f9e55f-8.smil/thumb.jpg?t=1609&scale=480x270&v=high"
+    }
+  ]
+}
