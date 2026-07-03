@@ -1,0 +1,53 @@
+{
+  "version": "1.2.0",
+  "title": "Omfattende angrep på Kyiv i natt",
+  "author": "NRK",
+  "podcastName": "Dagsnytt 18",
+  "chapters": [
+    {
+      "startTime": 2,
+      "title": "Dagsnytt atten",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa56070226/5c32ae0f-6.smil/thumb.jpg?t=27&scale=480x270&v=high"
+    },
+    {
+      "startTime": 54,
+      "title": "Angrep på Kyiv",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa56070226/5c32ae0f-6.smil/thumb.jpg?t=80&scale=480x270&v=high"
+    },
+    {
+      "startTime": 732,
+      "title": "Vil gi kommunene asyl-veto",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa56070226/5c32ae0f-6.smil/thumb.jpg?t=757&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1196,
+      "title": "Fjerner rustilbud",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa56070226/5c32ae0f-6.smil/thumb.jpg?t=1221&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1640,
+      "title": "Frps jordbrukspolitikk",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa56070226/5c32ae0f-6.smil/thumb.jpg?t=1666&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2128,
+      "title": "Karpe-festival",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa56070226/5c32ae0f-6.smil/thumb.jpg?t=2154&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2569,
+      "title": "Forskning på transpersoner",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa56070226/5c32ae0f-6.smil/thumb.jpg?t=2595&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3507,
+      "title": "AVSLUTNING",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa56070226/5c32ae0f-6.smil/thumb.jpg?t=3533&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3522,
+      "title": "SLUTTKJENNING",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa56070226/5c32ae0f-6.smil/thumb.jpg?t=3544.72&scale=480x270&v=high"
+    }
+  ]
+}
