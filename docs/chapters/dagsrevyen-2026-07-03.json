@@ -1,0 +1,88 @@
+{
+  "version": "1.2.0",
+  "title": "Smelter i rekordfart",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 7,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-77.akamaized.net/open/ps/nnfa/nnfa19070326/21883041-6.smil/thumb.jpg?t=32&scale=480x270&v=high"
+    },
+    {
+      "startTime": 65,
+      "title": "Steinar Wangen",
+      "img": "https://nrk-od-world-77.akamaized.net/open/ps/nnfa/nnfa19070326/21883041-6.smil/thumb.jpg?t=90&scale=480x270&v=high"
+    },
+    {
+      "startTime": 168,
+      "title": "Gjest: Dennis Ravndal",
+      "img": "https://nrk-od-world-77.akamaized.net/open/ps/nnfa/nnfa19070326/21883041-6.smil/thumb.jpg?t=194&scale=480x270&v=high"
+    },
+    {
+      "startTime": 254,
+      "title": "Hetebølge Europa",
+      "img": "https://nrk-od-world-77.akamaized.net/open/ps/nnfa/nnfa19070326/21883041-6.smil/thumb.jpg?t=280&scale=480x270&v=high"
+    },
+    {
+      "startTime": 366,
+      "title": "Direkte: Anders Børringbo",
+      "img": "https://nrk-od-world-77.akamaized.net/open/ps/nnfa/nnfa19070326/21883041-6.smil/thumb.jpg?t=392&scale=480x270&v=high"
+    },
+    {
+      "startTime": 452,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-77.akamaized.net/open/ps/nnfa/nnfa19070326/21883041-6.smil/thumb.jpg?t=477&scale=480x270&v=high"
+    },
+    {
+      "startTime": 495,
+      "title": "MS-forskning",
+      "img": "https://nrk-od-world-77.akamaized.net/open/ps/nnfa/nnfa19070326/21883041-6.smil/thumb.jpg?t=520&scale=480x270&v=high"
+    },
+    {
+      "startTime": 616,
+      "title": "Boligpriser",
+      "img": "https://nrk-od-world-77.akamaized.net/open/ps/nnfa/nnfa19070326/21883041-6.smil/thumb.jpg?t=641&scale=480x270&v=high"
+    },
+    {
+      "startTime": 760,
+      "title": "Sudan",
+      "img": "https://nrk-od-world-77.akamaized.net/open/ps/nnfa/nnfa19070326/21883041-6.smil/thumb.jpg?t=786&scale=480x270&v=high"
+    },
+    {
+      "startTime": 832,
+      "title": "Venezuela",
+      "img": "https://nrk-od-world-77.akamaized.net/open/ps/nnfa/nnfa19070326/21883041-6.smil/thumb.jpg?t=858&scale=480x270&v=high"
+    },
+    {
+      "startTime": 959,
+      "title": "VM-folkefest",
+      "img": "https://nrk-od-world-77.akamaized.net/open/ps/nnfa/nnfa19070326/21883041-6.smil/thumb.jpg?t=984&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1062,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-77.akamaized.net/open/ps/nnfa/nnfa19070326/21883041-6.smil/thumb.jpg?t=1088&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1066,
+      "title": "Fotball-VM",
+      "img": "https://nrk-od-world-77.akamaized.net/open/ps/nnfa/nnfa19070326/21883041-6.smil/thumb.jpg?t=1092&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1133,
+      "title": "Direkte, USA",
+      "img": "https://nrk-od-world-77.akamaized.net/open/ps/nnfa/nnfa19070326/21883041-6.smil/thumb.jpg?t=1158&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1193,
+      "title": "Haaland",
+      "img": "https://nrk-od-world-77.akamaized.net/open/ps/nnfa/nnfa19070326/21883041-6.smil/thumb.jpg?t=1219&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1245,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-77.akamaized.net/open/ps/nnfa/nnfa19070326/21883041-6.smil/thumb.jpg?t=1270&scale=480x270&v=high"
+    }
+  ]
+}

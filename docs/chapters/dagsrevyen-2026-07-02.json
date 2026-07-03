@@ -1,0 +1,103 @@
+{
+  "version": "1.2.0",
+  "title": "Er ikke fotballfesten for alle?",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 10,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa19070226/0e228e01-6.smil/thumb.jpg?t=35&scale=480x270&v=high"
+    },
+    {
+      "startTime": 50,
+      "title": "Direkte Kyiv",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa19070226/0e228e01-6.smil/thumb.jpg?t=75&scale=480x270&v=high"
+    },
+    {
+      "startTime": 124,
+      "title": "Angrep Kyiv",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa19070226/0e228e01-6.smil/thumb.jpg?t=150&scale=480x270&v=high"
+    },
+    {
+      "startTime": 200,
+      "title": "Direkte Kyiv",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa19070226/0e228e01-6.smil/thumb.jpg?t=225&scale=480x270&v=high"
+    },
+    {
+      "startTime": 259,
+      "title": "Gjest Gro Holm",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa19070226/0e228e01-6.smil/thumb.jpg?t=285&scale=480x270&v=high"
+    },
+    {
+      "startTime": 406,
+      "title": "VM-feber",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa19070226/0e228e01-6.smil/thumb.jpg?t=431&scale=480x270&v=high"
+    },
+    {
+      "startTime": 501,
+      "title": "Hetset for ro-video",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa19070226/0e228e01-6.smil/thumb.jpg?t=526&scale=480x270&v=high"
+    },
+    {
+      "startTime": 615,
+      "title": "MLD KART",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa19070226/0e228e01-6.smil/thumb.jpg?t=640&scale=480x270&v=high"
+    },
+    {
+      "startTime": 635,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa19070226/0e228e01-6.smil/thumb.jpg?t=660&scale=480x270&v=high"
+    },
+    {
+      "startTime": 688,
+      "title": "Venezuela",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa19070226/0e228e01-6.smil/thumb.jpg?t=713&scale=480x270&v=high"
+    },
+    {
+      "startTime": 915,
+      "title": "Bedrifter bekymret",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa19070226/0e228e01-6.smil/thumb.jpg?t=941&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1032,
+      "title": "Tiltak villrein",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa19070226/0e228e01-6.smil/thumb.jpg?t=1058&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1127,
+      "title": "Karpe festival",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa19070226/0e228e01-6.smil/thumb.jpg?t=1153&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1260,
+      "title": "Direkte Oslo",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa19070226/0e228e01-6.smil/thumb.jpg?t=1286&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1371,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa19070226/0e228e01-6.smil/thumb.jpg?t=1397&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1380,
+      "title": "VM-været",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa19070226/0e228e01-6.smil/thumb.jpg?t=1405&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1412,
+      "title": "Direkte New Jersey",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa19070226/0e228e01-6.smil/thumb.jpg?t=1438&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1497,
+      "title": "Sykkel",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa19070226/0e228e01-6.smil/thumb.jpg?t=1522&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1575,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa19070226/0e228e01-6.smil/thumb.jpg?t=1600&scale=480x270&v=high"
+    }
+  ]
+}
