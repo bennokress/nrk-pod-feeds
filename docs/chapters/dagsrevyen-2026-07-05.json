@@ -1,0 +1,118 @@
+{
+  "version": "1.2.0",
+  "title": "Nasjonen teller ned",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 9,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-26.akamaized.net/open/ps/nnfa/nnfa19070526/9f9c8ed2-6.smil/thumb.jpg?t=35&scale=480x270&v=high"
+    },
+    {
+      "startTime": 44,
+      "title": "Roing Trondheim",
+      "img": "https://nrk-od-world-26.akamaized.net/open/ps/nnfa/nnfa19070526/9f9c8ed2-6.smil/thumb.jpg?t=70&scale=480x270&v=high"
+    },
+    {
+      "startTime": 69,
+      "title": "Klare for kamp",
+      "img": "https://nrk-od-world-26.akamaized.net/open/ps/nnfa/nnfa19070526/9f9c8ed2-6.smil/thumb.jpg?t=95&scale=480x270&v=high"
+    },
+    {
+      "startTime": 118,
+      "title": "overgang",
+      "img": "https://nrk-od-world-26.akamaized.net/open/ps/nnfa/nnfa19070526/9f9c8ed2-6.smil/thumb.jpg?t=143&scale=480x270&v=high"
+    },
+    {
+      "startTime": 124,
+      "title": "Laget",
+      "img": "https://nrk-od-world-26.akamaized.net/open/ps/nnfa/nnfa19070526/9f9c8ed2-6.smil/thumb.jpg?t=150&scale=480x270&v=high"
+    },
+    {
+      "startTime": 173,
+      "title": "Direkte: USA indre bane",
+      "img": "https://nrk-od-world-26.akamaized.net/open/ps/nnfa/nnfa19070526/9f9c8ed2-6.smil/thumb.jpg?t=198&scale=480x270&v=high"
+    },
+    {
+      "startTime": 309,
+      "title": "Direkte: USA supportere",
+      "img": "https://nrk-od-world-26.akamaized.net/open/ps/nnfa/nnfa19070526/9f9c8ed2-6.smil/thumb.jpg?t=335&scale=480x270&v=high"
+    },
+    {
+      "startTime": 441,
+      "title": "Forberedelser til kamp",
+      "img": "https://nrk-od-world-26.akamaized.net/open/ps/nnfa/nnfa19070526/9f9c8ed2-6.smil/thumb.jpg?t=467&scale=480x270&v=high"
+    },
+    {
+      "startTime": 561,
+      "title": "Direkte: Oslo",
+      "img": "https://nrk-od-world-26.akamaized.net/open/ps/nnfa/nnfa19070526/9f9c8ed2-6.smil/thumb.jpg?t=586&scale=480x270&v=high"
+    },
+    {
+      "startTime": 684,
+      "title": "Folk ved stadion",
+      "img": "https://nrk-od-world-26.akamaized.net/open/ps/nnfa/nnfa19070526/9f9c8ed2-6.smil/thumb.jpg?t=709&scale=480x270&v=high"
+    },
+    {
+      "startTime": 752,
+      "title": "Direkte: Rio de Janeiro",
+      "img": "https://nrk-od-world-26.akamaized.net/open/ps/nnfa/nnfa19070526/9f9c8ed2-6.smil/thumb.jpg?t=778&scale=480x270&v=high"
+    },
+    {
+      "startTime": 845,
+      "title": "Folk Rio",
+      "img": "https://nrk-od-world-26.akamaized.net/open/ps/nnfa/nnfa19070526/9f9c8ed2-6.smil/thumb.jpg?t=870&scale=480x270&v=high"
+    },
+    {
+      "startTime": 907,
+      "title": "Alkoholfritt øl",
+      "img": "https://nrk-od-world-26.akamaized.net/open/ps/nnfa/nnfa19070526/9f9c8ed2-6.smil/thumb.jpg?t=932&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1004,
+      "title": "Antikke våpen",
+      "img": "https://nrk-od-world-26.akamaized.net/open/ps/nnfa/nnfa19070526/9f9c8ed2-6.smil/thumb.jpg?t=1029&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1131,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-26.akamaized.net/open/ps/nnfa/nnfa19070526/9f9c8ed2-6.smil/thumb.jpg?t=1156&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1173,
+      "title": "Branner",
+      "img": "https://nrk-od-world-26.akamaized.net/open/ps/nnfa/nnfa19070526/9f9c8ed2-6.smil/thumb.jpg?t=1198&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1253,
+      "title": "Albania",
+      "img": "https://nrk-od-world-26.akamaized.net/open/ps/nnfa/nnfa19070526/9f9c8ed2-6.smil/thumb.jpg?t=1279&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1281,
+      "title": "Iran Usa",
+      "img": "https://nrk-od-world-26.akamaized.net/open/ps/nnfa/nnfa19070526/9f9c8ed2-6.smil/thumb.jpg?t=1307&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1327,
+      "title": "Ukraina",
+      "img": "https://nrk-od-world-26.akamaized.net/open/ps/nnfa/nnfa19070526/9f9c8ed2-6.smil/thumb.jpg?t=1352&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1541,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-26.akamaized.net/open/ps/nnfa/nnfa19070526/9f9c8ed2-6.smil/thumb.jpg?t=1567&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1697,
+      "title": "Søster Haaland",
+      "img": "https://nrk-od-world-26.akamaized.net/open/ps/nnfa/nnfa19070526/9f9c8ed2-6.smil/thumb.jpg?t=1722&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1755,
+      "title": "Folk slottet",
+      "img": "https://nrk-od-world-26.akamaized.net/open/ps/nnfa/nnfa19070526/9f9c8ed2-6.smil/thumb.jpg?t=1780&scale=480x270&v=high"
+    }
+  ]
+}
