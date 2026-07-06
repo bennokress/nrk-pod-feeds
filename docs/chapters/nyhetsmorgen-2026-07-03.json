@@ -1,0 +1,298 @@
+{
+  "version": "1.2.0",
+  "title": "Store forskjeller i boligmarkedet",
+  "author": "NRK",
+  "podcastName": "Nyhetsmorgen",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Åpning 06:30",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa05070326/97a1d2ce-6.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 94,
+      "title": "Hett boligmarked",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa05070326/97a1d2ce-6.smil/thumb.jpg?t=119&scale=480x270&v=high"
+    },
+    {
+      "startTime": 153,
+      "title": "Mangler drukningsregister",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa05070326/97a1d2ce-6.smil/thumb.jpg?t=178&scale=480x270&v=high"
+    },
+    {
+      "startTime": 333,
+      "title": "Siste nytt",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa05070326/97a1d2ce-6.smil/thumb.jpg?t=358&scale=480x270&v=high"
+    },
+    {
+      "startTime": 482,
+      "title": "Karpe World begynte i går",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa05070326/97a1d2ce-6.smil/thumb.jpg?t=507&scale=480x270&v=high"
+    },
+    {
+      "startTime": 633,
+      "title": "Rømmer fra regn til syden-sol",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa05070326/97a1d2ce-6.smil/thumb.jpg?t=659&scale=480x270&v=high"
+    },
+    {
+      "startTime": 812,
+      "title": "Kraftig skogbrann i Frankrike",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa05070326/97a1d2ce-6.smil/thumb.jpg?t=837&scale=480x270&v=high"
+    },
+    {
+      "startTime": 970,
+      "title": "Overskrifter 06:45",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa05070326/97a1d2ce-6.smil/thumb.jpg?t=995&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1017,
+      "title": "VM-rundens overskrifter",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa05070326/97a1d2ce-6.smil/thumb.jpg?t=1043&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1210,
+      "title": "Kommentator om fotball-natten",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa05070326/97a1d2ce-6.smil/thumb.jpg?t=1236&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1505,
+      "title": "Nordmenn i Brasil kjenner på VM-feber",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa05070326/97a1d2ce-6.smil/thumb.jpg?t=1530&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1759,
+      "title": "Teasing dagens sending",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa05070326/97a1d2ce-6.smil/thumb.jpg?t=1784&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1767,
+      "title": "Trailer - BARNEPODKASTER I SOMMER",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa05070326/97a1d2ce-6.smil/thumb.jpg?t=1792&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1799,
+      "title": "Åpning 07:00",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa05070326/97a1d2ce-6.smil/thumb.jpg?t=1824&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1889,
+      "title": "Hett boligmarked",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa05070326/97a1d2ce-6.smil/thumb.jpg?t=1915&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2152,
+      "title": "Derfor spriker boligmarkedet",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa05070326/97a1d2ce-6.smil/thumb.jpg?t=2177&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2450,
+      "title": "Rekdal om straffe mot brasil",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa05070326/97a1d2ce-6.smil/thumb.jpg?t=2476&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2577,
+      "title": "Brasilianer i Norge er spent før kampen",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa05070326/97a1d2ce-6.smil/thumb.jpg?t=2602&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2876,
+      "title": "Siste Politisk kvarter før sommeren",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa05070326/97a1d2ce-6.smil/thumb.jpg?t=2902&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2926,
+      "title": "Overskrifter 07:15",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa05070326/97a1d2ce-6.smil/thumb.jpg?t=2952&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2960,
+      "title": "Ny hetebølge Europa",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa05070326/97a1d2ce-6.smil/thumb.jpg?t=2986&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3166,
+      "title": "Anmeldelse: Karpe World",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa05070326/97a1d2ce-6.smil/thumb.jpg?t=3192&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3405,
+      "title": "Fotballdraktsamling",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa05070326/97a1d2ce-6.smil/thumb.jpg?t=3430&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3567,
+      "title": "Teasing dagens sending",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa05070326/97a1d2ce-6.smil/thumb.jpg?t=3593&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3570,
+      "title": "Trailer - TYRANN ENVER HOXHA",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa05070326/97a1d2ce-6.smil/thumb.jpg?t=3596&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3602,
+      "title": "Overskrifter 07:30",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa05070326/97a1d2ce-6.smil/thumb.jpg?t=3627&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3639,
+      "title": "Hett boligmarked",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa05070326/97a1d2ce-6.smil/thumb.jpg?t=3664&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3766,
+      "title": "Ny hetebølge Europa",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa05070326/97a1d2ce-6.smil/thumb.jpg?t=3791&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3892,
+      "title": "Drept i angrep mot Russland",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa05070326/97a1d2ce-6.smil/thumb.jpg?t=3918&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3918,
+      "title": "Mangler drukningsregister",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa05070326/97a1d2ce-6.smil/thumb.jpg?t=3944&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4037,
+      "title": "Karpe World begynte i går",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa05070326/97a1d2ce-6.smil/thumb.jpg?t=4062&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4130,
+      "title": "Overtidsdrama for Portugal",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa05070326/97a1d2ce-6.smil/thumb.jpg?t=4155&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4201,
+      "title": "Åpning 07:40",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa05070326/97a1d2ce-6.smil/thumb.jpg?t=4226&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4248,
+      "title": "Funn av 4000 år gammal grav",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa05070326/97a1d2ce-6.smil/thumb.jpg?t=4273&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4431,
+      "title": "Ronaldo-straffe",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa05070326/97a1d2ce-6.smil/thumb.jpg?t=4456&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4490,
+      "title": "Topper 07:44",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa05070326/97a1d2ce-6.smil/thumb.jpg?t=4515&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4493,
+      "title": "Overgang til Politisk kvarter",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa05070326/97a1d2ce-6.smil/thumb.jpg?t=4519&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5400,
+      "title": "NRK Nyheter 08:00",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa05070326/97a1d2ce-6.smil/thumb.jpg?t=5425&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5579,
+      "title": "Åpning 08:03",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa05070326/97a1d2ce-6.smil/thumb.jpg?t=5605&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5684,
+      "title": "Venezuela funnet i live",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa05070326/97a1d2ce-6.smil/thumb.jpg?t=5710&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5897,
+      "title": "Mangler drukningsregister",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa05070326/97a1d2ce-6.smil/thumb.jpg?t=5922&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6070,
+      "title": "Landsmøte i AfD i Tyskland",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa05070326/97a1d2ce-6.smil/thumb.jpg?t=6095&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6305,
+      "title": "Overskrifter 08:15",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa05070326/97a1d2ce-6.smil/thumb.jpg?t=6330&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6338,
+      "title": "Ny hetebølge Europa",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa05070326/97a1d2ce-6.smil/thumb.jpg?t=6364&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6482,
+      "title": "Fredagspanelet",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa05070326/97a1d2ce-6.smil/thumb.jpg?t=6508&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7210,
+      "title": "Overskrifter 08:30",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa05070326/97a1d2ce-6.smil/thumb.jpg?t=7235&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7251,
+      "title": "Hett boligmarked",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa05070326/97a1d2ce-6.smil/thumb.jpg?t=7277&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7383,
+      "title": "Overtidsdrama for Portugal",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa05070326/97a1d2ce-6.smil/thumb.jpg?t=7408&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7546,
+      "title": "Slo Brasil i 1998",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa05070326/97a1d2ce-6.smil/thumb.jpg?t=7571&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8011,
+      "title": "VM-feber i Brasil",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa05070326/97a1d2ce-6.smil/thumb.jpg?t=8036&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8212,
+      "title": "Før P2-pulsen i NRK P2",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa05070326/97a1d2ce-6.smil/thumb.jpg?t=8237&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8255,
+      "title": "Overskrifter 08:45",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa05070326/97a1d2ce-6.smil/thumb.jpg?t=8281&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8311,
+      "title": "Karpe World begynte i går",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa05070326/97a1d2ce-6.smil/thumb.jpg?t=8337&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8447,
+      "title": "USA markerer 250 årsjubileum",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa05070326/97a1d2ce-6.smil/thumb.jpg?t=8472&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8540,
+      "title": "Siste Politisk kvarter før sommeren",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa05070326/97a1d2ce-6.smil/thumb.jpg?t=8566&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8728,
+      "title": "Fotballdraktsamling",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa05070326/97a1d2ce-6.smil/thumb.jpg?t=8753&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8884,
+      "title": "GJEST Været i dag",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa05070326/97a1d2ce-6.smil/thumb.jpg?t=8910&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8990,
+      "title": "Avslutning",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa05070326/97a1d2ce-6.smil/thumb.jpg?t=9003.36&scale=480x270&v=high"
+    }
+  ]
+}
