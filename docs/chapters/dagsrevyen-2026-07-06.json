@@ -1,0 +1,98 @@
+{
+  "version": "1.2.0",
+  "title": "Fikk rødt kort for dette",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 6,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa19070626/5cff97e1-6.smil/thumb.jpg?t=32&scale=480x270&v=high"
+    },
+    {
+      "startTime": 52,
+      "title": "VM samler oss",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa19070626/5cff97e1-6.smil/thumb.jpg?t=78&scale=480x270&v=high"
+    },
+    {
+      "startTime": 206,
+      "title": "Kongehuset og VM",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa19070626/5cff97e1-6.smil/thumb.jpg?t=231&scale=480x270&v=high"
+    },
+    {
+      "startTime": 323,
+      "title": "VM samler oss",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa19070626/5cff97e1-6.smil/thumb.jpg?t=348&scale=480x270&v=high"
+    },
+    {
+      "startTime": 485,
+      "title": "Gjest Saltvedt",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa19070626/5cff97e1-6.smil/thumb.jpg?t=510&scale=480x270&v=high"
+    },
+    {
+      "startTime": 606,
+      "title": "Kritikk Fifa",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa19070626/5cff97e1-6.smil/thumb.jpg?t=632&scale=480x270&v=high"
+    },
+    {
+      "startTime": 714,
+      "title": "Gjest Saltvedt",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa19070626/5cff97e1-6.smil/thumb.jpg?t=740&scale=480x270&v=high"
+    },
+    {
+      "startTime": 781,
+      "title": "Regn bønder",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa19070626/5cff97e1-6.smil/thumb.jpg?t=807&scale=480x270&v=high"
+    },
+    {
+      "startTime": 893,
+      "title": "Før Nato-toppmøtet",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa19070626/5cff97e1-6.smil/thumb.jpg?t=918&scale=480x270&v=high"
+    },
+    {
+      "startTime": 940,
+      "title": "Kina-besøk Norge",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa19070626/5cff97e1-6.smil/thumb.jpg?t=965&scale=480x270&v=high"
+    },
+    {
+      "startTime": 966,
+      "title": "Direkte fra Oslo",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa19070626/5cff97e1-6.smil/thumb.jpg?t=991&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1022,
+      "title": "Kina-besøk Norge",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa19070626/5cff97e1-6.smil/thumb.jpg?t=1047&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1051,
+      "title": "Hamas",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa19070626/5cff97e1-6.smil/thumb.jpg?t=1076&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1146,
+      "title": "Meta-briller",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa19070626/5cff97e1-6.smil/thumb.jpg?t=1172&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1250,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa19070626/5cff97e1-6.smil/thumb.jpg?t=1276&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1256,
+      "title": "Fotball-VM",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa19070626/5cff97e1-6.smil/thumb.jpg?t=1281&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1401,
+      "title": "Før England-kamp",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa19070626/5cff97e1-6.smil/thumb.jpg?t=1426&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1511,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa19070626/5cff97e1-6.smil/thumb.jpg?t=1536&scale=480x270&v=high"
+    }
+  ]
+}
