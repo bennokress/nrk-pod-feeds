@@ -1,0 +1,188 @@
+{
+  "version": "1.2.0",
+  "title": "Brasil - Norge i fotball-VM",
+  "author": "NRK",
+  "podcastName": "Nyhetsmorgen",
+  "chapters": [
+    {
+      "startTime": 1,
+      "title": "NRK Nyheter 07:00",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa05070626/ea7f787f-6.smil/thumb.jpg?t=26&scale=480x270&v=high"
+    },
+    {
+      "startTime": 183,
+      "title": "Åpning 07:03",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa05070626/ea7f787f-6.smil/thumb.jpg?t=209&scale=480x270&v=high"
+    },
+    {
+      "startTime": 265,
+      "title": "Folkefest etter Norge-Brasil",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa05070626/ea7f787f-6.smil/thumb.jpg?t=291&scale=480x270&v=high"
+    },
+    {
+      "startTime": 438,
+      "title": "Status fra Oslo sentrum",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa05070626/ea7f787f-6.smil/thumb.jpg?t=463&scale=480x270&v=high"
+    },
+    {
+      "startTime": 555,
+      "title": "Jonas Grønner om kampen",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa05070626/ea7f787f-6.smil/thumb.jpg?t=580&scale=480x270&v=high"
+    },
+    {
+      "startTime": 700,
+      "title": "Norge-Brasll",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa05070626/ea7f787f-6.smil/thumb.jpg?t=726&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1133,
+      "title": "Grønner analyserer kampen",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa05070626/ea7f787f-6.smil/thumb.jpg?t=1158&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1139,
+      "title": "Overskrifter 07:15",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa05070626/ea7f787f-6.smil/thumb.jpg?t=1165&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1465,
+      "title": "Bryne FK i vinden",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa05070626/ea7f787f-6.smil/thumb.jpg?t=1490&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1639,
+      "title": "Opprydding etter fotballfeiring",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa05070626/ea7f787f-6.smil/thumb.jpg?t=1664&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1801,
+      "title": "Overskrifter 07:30",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa05070626/ea7f787f-6.smil/thumb.jpg?t=1826&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1858,
+      "title": "Folkefest etter Norge-Brasil",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa05070626/ea7f787f-6.smil/thumb.jpg?t=1883&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1978,
+      "title": "Opprydning i Oslo",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa05070626/ea7f787f-6.smil/thumb.jpg?t=2003&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2057,
+      "title": "Slik gikk kampen",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa05070626/ea7f787f-6.smil/thumb.jpg?t=2082&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2160,
+      "title": "Jan Petter Saltvedt om bragden",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa05070626/ea7f787f-6.smil/thumb.jpg?t=2186&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2287,
+      "title": "Jonas Grønner om England",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa05070626/ea7f787f-6.smil/thumb.jpg?t=2313&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2304,
+      "title": "Utenlandske medier om Norge",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa05070626/ea7f787f-6.smil/thumb.jpg?t=2330&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2354,
+      "title": "Andre nyheter",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa05070626/ea7f787f-6.smil/thumb.jpg?t=2380&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3600,
+      "title": "NRK Nyheter 08:00",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa05070626/ea7f787f-6.smil/thumb.jpg?t=3626&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3781,
+      "title": "Åpning 08:03",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa05070626/ea7f787f-6.smil/thumb.jpg?t=3807&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4156,
+      "title": "Norge-Brasll",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa05070626/ea7f787f-6.smil/thumb.jpg?t=4182&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4356,
+      "title": "Norge skal til kvartfinalen i VM",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa05070626/ea7f787f-6.smil/thumb.jpg?t=4382&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4631,
+      "title": "Overskrifter 08:15",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa05070626/ea7f787f-6.smil/thumb.jpg?t=4656&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4690,
+      "title": "VM-vinnar om Noreg",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa05070626/ea7f787f-6.smil/thumb.jpg?t=4716&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4955,
+      "title": "Folkefesten i Tromsø",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa05070626/ea7f787f-6.smil/thumb.jpg?t=4980&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5310,
+      "title": "Mette-Marit med Norge-skjerf",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa05070626/ea7f787f-6.smil/thumb.jpg?t=5335&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5622,
+      "title": "Overskrifter 08:30",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa05070626/ea7f787f-6.smil/thumb.jpg?t=5647&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5711,
+      "title": "Folkefest etter Norge-Brasil",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa05070626/ea7f787f-6.smil/thumb.jpg?t=5737&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5884,
+      "title": "Nedtur i Rio",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa05070626/ea7f787f-6.smil/thumb.jpg?t=5909&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6311,
+      "title": "Sunnmøringane hyller Håskjold Nyland",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa05070626/ea7f787f-6.smil/thumb.jpg?t=6337&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6427,
+      "title": "Utenlandske medier om Norge",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa05070626/ea7f787f-6.smil/thumb.jpg?t=6453&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6562,
+      "title": "Overskrifter 08:45",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa05070626/ea7f787f-6.smil/thumb.jpg?t=6588&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6605,
+      "title": "Politiet om festnatten",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa05070626/ea7f787f-6.smil/thumb.jpg?t=6631&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6746,
+      "title": "England slo Mexico - møter Norge lørdag",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa05070626/ea7f787f-6.smil/thumb.jpg?t=6771&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7127,
+      "title": "GJEST Været i dag",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa05070626/ea7f787f-6.smil/thumb.jpg?t=7153&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7189,
+      "title": "Avslutning",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa05070626/ea7f787f-6.smil/thumb.jpg?t=7203.48&scale=480x270&v=high"
+    }
+  ]
+}
