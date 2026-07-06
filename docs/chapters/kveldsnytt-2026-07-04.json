@@ -1,0 +1,73 @@
+{
+  "version": "1.2.0",
+  "title": "Branner herjer - mange evakuert",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa23070426/f9e3649f-7.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 34,
+      "title": "Branner Europa",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa23070426/f9e3649f-7.smil/thumb.jpg?t=60&scale=480x270&v=high"
+    },
+    {
+      "startTime": 121,
+      "title": "USA jubileum",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa23070426/f9e3649f-7.smil/thumb.jpg?t=146&scale=480x270&v=high"
+    },
+    {
+      "startTime": 229,
+      "title": "Brasils trener",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa23070426/f9e3649f-7.smil/thumb.jpg?t=254&scale=480x270&v=high"
+    },
+    {
+      "startTime": 286,
+      "title": "Solbakken PK",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa23070426/f9e3649f-7.smil/thumb.jpg?t=312&scale=480x270&v=high"
+    },
+    {
+      "startTime": 357,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa23070426/f9e3649f-7.smil/thumb.jpg?t=382&scale=480x270&v=high"
+    },
+    {
+      "startTime": 421,
+      "title": "VM Norge-Brasil",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa23070426/f9e3649f-7.smil/thumb.jpg?t=446&scale=480x270&v=high"
+    },
+    {
+      "startTime": 446,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa23070426/f9e3649f-7.smil/thumb.jpg?t=472&scale=480x270&v=high"
+    },
+    {
+      "startTime": 530,
+      "title": "Canada - Marokko",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa23070426/f9e3649f-7.smil/thumb.jpg?t=555&scale=480x270&v=high"
+    },
+    {
+      "startTime": 620,
+      "title": "Nesten-krasj for Uno-X før start",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa23070426/f9e3649f-7.smil/thumb.jpg?t=646&scale=480x270&v=high"
+    },
+    {
+      "startTime": 674,
+      "title": "Karpe festival",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa23070426/f9e3649f-7.smil/thumb.jpg?t=700&scale=480x270&v=high"
+    },
+    {
+      "startTime": 759,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa23070426/f9e3649f-7.smil/thumb.jpg?t=784&scale=480x270&v=high"
+    },
+    {
+      "startTime": 826,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa23070426/f9e3649f-7.smil/thumb.jpg?t=843.72&scale=480x270&v=high"
+    }
+  ]
+}
