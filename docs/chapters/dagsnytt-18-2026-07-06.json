@@ -1,0 +1,78 @@
+{
+  "version": "1.2.0",
+  "title": "VM-skandale",
+  "author": "NRK",
+  "podcastName": "Dagsnytt 18",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsnytt atten",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa56070626/d92d484a-6.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 55,
+      "title": "VM-skandale",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa56070626/d92d484a-6.smil/thumb.jpg?t=81&scale=480x270&v=high"
+    },
+    {
+      "startTime": 399,
+      "title": "Reax Brasil-kampen",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa56070626/d92d484a-6.smil/thumb.jpg?t=424&scale=480x270&v=high"
+    },
+    {
+      "startTime": 839,
+      "title": "Intellektualisering av fotball",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa56070626/d92d484a-6.smil/thumb.jpg?t=864&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1185,
+      "title": "Norge i VM framover",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa56070626/d92d484a-6.smil/thumb.jpg?t=1211&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1873,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa56070626/d92d484a-6.smil/thumb.jpg?t=1898&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1885,
+      "title": "NATO-toppmøtet",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa56070626/d92d484a-6.smil/thumb.jpg?t=1911&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2512,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa56070626/d92d484a-6.smil/thumb.jpg?t=2538&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2526,
+      "title": "Språket i endring",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa56070626/d92d484a-6.smil/thumb.jpg?t=2551&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2948,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa56070626/d92d484a-6.smil/thumb.jpg?t=2973&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2960,
+      "title": "Kinabesøk i Norge",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa56070626/d92d484a-6.smil/thumb.jpg?t=2986&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3524,
+      "title": "AVSLUTNING",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa56070626/d92d484a-6.smil/thumb.jpg?t=3544.84&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3530,
+      "title": "Kinabesøk i Norge",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa56070626/d92d484a-6.smil/thumb.jpg?t=3544.84&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3533,
+      "title": "SLUTTKJENNING",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa56070626/d92d484a-6.smil/thumb.jpg?t=3544.84&scale=480x270&v=high"
+    }
+  ]
+}
