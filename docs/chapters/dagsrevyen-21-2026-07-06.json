@@ -1,0 +1,58 @@
+{
+  "version": "1.2.0",
+  "title": "Sprengt helsevesen i Venezuela",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa21070626/29e6c5eb-7.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 30,
+      "title": "Venezuela sykehus",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa21070626/29e6c5eb-7.smil/thumb.jpg?t=55&scale=480x270&v=high"
+    },
+    {
+      "startTime": 142,
+      "title": "Brann Fredrikstad",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa21070626/29e6c5eb-7.smil/thumb.jpg?t=167&scale=480x270&v=high"
+    },
+    {
+      "startTime": 165,
+      "title": "Klart til Nato-toppmøte i Tyrkia",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa21070626/29e6c5eb-7.smil/thumb.jpg?t=190&scale=480x270&v=high"
+    },
+    {
+      "startTime": 212,
+      "title": "DAGSREVYPAKKE",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa21070626/29e6c5eb-7.smil/thumb.jpg?t=238&scale=480x270&v=high"
+    },
+    {
+      "startTime": 316,
+      "title": "Inviterer til folkefest på Bryne",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa21070626/29e6c5eb-7.smil/thumb.jpg?t=342&scale=480x270&v=high"
+    },
+    {
+      "startTime": 418,
+      "title": "Nettpromo",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa21070626/29e6c5eb-7.smil/thumb.jpg?t=443&scale=480x270&v=high"
+    },
+    {
+      "startTime": 439,
+      "title": "Dikt VM",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa21070626/29e6c5eb-7.smil/thumb.jpg?t=464&scale=480x270&v=high"
+    },
+    {
+      "startTime": 465,
+      "title": "Været",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa21070626/29e6c5eb-7.smil/thumb.jpg?t=491&scale=480x270&v=high"
+    },
+    {
+      "startTime": 525,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa21070626/29e6c5eb-7.smil/thumb.jpg?t=543.76&scale=480x270&v=high"
+    }
+  ]
+}

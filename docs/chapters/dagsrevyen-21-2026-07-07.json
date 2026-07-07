@@ -1,0 +1,68 @@
+{
+  "version": "1.2.0",
+  "title": "Marine Le Pen stiller",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa21070726/cf27be1c-6.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 31,
+      "title": "Le Pen snakker",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa21070726/cf27be1c-6.smil/thumb.jpg?t=57&scale=480x270&v=high"
+    },
+    {
+      "startTime": 75,
+      "title": "Nato-møtet",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa21070726/cf27be1c-6.smil/thumb.jpg?t=101&scale=480x270&v=high"
+    },
+    {
+      "startTime": 158,
+      "title": "Utvidet sjenking",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa21070726/cf27be1c-6.smil/thumb.jpg?t=183&scale=480x270&v=high"
+    },
+    {
+      "startTime": 246,
+      "title": "Prins Harry",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa21070726/cf27be1c-6.smil/thumb.jpg?t=271&scale=480x270&v=high"
+    },
+    {
+      "startTime": 283,
+      "title": "Nigel Farage trekker seg",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa21070726/cf27be1c-6.smil/thumb.jpg?t=309&scale=480x270&v=high"
+    },
+    {
+      "startTime": 331,
+      "title": "Russland OL",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa21070726/cf27be1c-6.smil/thumb.jpg?t=357&scale=480x270&v=high"
+    },
+    {
+      "startTime": 380,
+      "title": "Ulykke Sel",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa21070726/cf27be1c-6.smil/thumb.jpg?t=405&scale=480x270&v=high"
+    },
+    {
+      "startTime": 406,
+      "title": "Nettpromo",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa21070726/cf27be1c-6.smil/thumb.jpg?t=431&scale=480x270&v=high"
+    },
+    {
+      "startTime": 418,
+      "title": "Maler motiver på glattcelle for ungdom",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa21070726/cf27be1c-6.smil/thumb.jpg?t=444&scale=480x270&v=high"
+    },
+    {
+      "startTime": 533,
+      "title": "Været",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa21070726/cf27be1c-6.smil/thumb.jpg?t=559&scale=480x270&v=high"
+    },
+    {
+      "startTime": 587,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa21070726/cf27be1c-6.smil/thumb.jpg?t=609.52&scale=480x270&v=high"
+    }
+  ]
+}
