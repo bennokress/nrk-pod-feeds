@@ -1,0 +1,63 @@
+{
+  "version": "1.2.0",
+  "title": "Kinas utenriksminister på Norden-turné",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa23070626/332b2fc1-6.smil/thumb.jpg?t=26&scale=480x270&v=high"
+    },
+    {
+      "startTime": 43,
+      "title": "Kinas utenriksminister i Norge",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa23070626/332b2fc1-6.smil/thumb.jpg?t=68&scale=480x270&v=high"
+    },
+    {
+      "startTime": 125,
+      "title": "Brann Fredrikstad",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa23070626/332b2fc1-6.smil/thumb.jpg?t=151&scale=480x270&v=high"
+    },
+    {
+      "startTime": 168,
+      "title": "Ulykke Holmestrand",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa23070626/332b2fc1-6.smil/thumb.jpg?t=193&scale=480x270&v=high"
+    },
+    {
+      "startTime": 186,
+      "title": "Allergimedisin",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa23070626/332b2fc1-6.smil/thumb.jpg?t=211&scale=480x270&v=high"
+    },
+    {
+      "startTime": 304,
+      "title": "Vikinger uten horn",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa23070626/332b2fc1-6.smil/thumb.jpg?t=330&scale=480x270&v=high"
+    },
+    {
+      "startTime": 402,
+      "title": "Inspirerer unge i idrettslag",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa23070626/332b2fc1-6.smil/thumb.jpg?t=428&scale=480x270&v=high"
+    },
+    {
+      "startTime": 511,
+      "title": "Fotball-VM",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa23070626/332b2fc1-6.smil/thumb.jpg?t=536&scale=480x270&v=high"
+    },
+    {
+      "startTime": 628,
+      "title": "Tour de France",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa23070626/332b2fc1-6.smil/thumb.jpg?t=654&scale=480x270&v=high"
+    },
+    {
+      "startTime": 693,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa23070626/332b2fc1-6.smil/thumb.jpg?t=718&scale=480x270&v=high"
+    },
+    {
+      "startTime": 760,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa23070626/332b2fc1-6.smil/thumb.jpg?t=778.6&scale=480x270&v=high"
+    }
+  ]
+}
