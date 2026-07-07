@@ -1,0 +1,63 @@
+{
+  "version": "1.2.0",
+  "title": "Krever endring på sjøen",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-00.akamaized.net/open/ps/nnfa/nnfa23070726/836a814d-6.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 43,
+      "title": "Promillegrense uforandret i 25 år",
+      "img": "https://nrk-od-world-00.akamaized.net/open/ps/nnfa/nnfa23070726/836a814d-6.smil/thumb.jpg?t=68&scale=480x270&v=high"
+    },
+    {
+      "startTime": 146,
+      "title": "Le Pen snakker",
+      "img": "https://nrk-od-world-00.akamaized.net/open/ps/nnfa/nnfa23070726/836a814d-6.smil/thumb.jpg?t=172&scale=480x270&v=high"
+    },
+    {
+      "startTime": 221,
+      "title": "Lærer friluftsliv",
+      "img": "https://nrk-od-world-00.akamaized.net/open/ps/nnfa/nnfa23070726/836a814d-6.smil/thumb.jpg?t=247&scale=480x270&v=high"
+    },
+    {
+      "startTime": 323,
+      "title": "El-busser Trondheim",
+      "img": "https://nrk-od-world-00.akamaized.net/open/ps/nnfa/nnfa23070726/836a814d-6.smil/thumb.jpg?t=349&scale=480x270&v=high"
+    },
+    {
+      "startTime": 368,
+      "title": "Støre Starmer Ankara",
+      "img": "https://nrk-od-world-00.akamaized.net/open/ps/nnfa/nnfa23070726/836a814d-6.smil/thumb.jpg?t=393&scale=480x270&v=high"
+    },
+    {
+      "startTime": 418,
+      "title": "Fotball-VM",
+      "img": "https://nrk-od-world-00.akamaized.net/open/ps/nnfa/nnfa23070726/836a814d-6.smil/thumb.jpg?t=443&scale=480x270&v=high"
+    },
+    {
+      "startTime": 493,
+      "title": "Tour de France",
+      "img": "https://nrk-od-world-00.akamaized.net/open/ps/nnfa/nnfa23070726/836a814d-6.smil/thumb.jpg?t=519&scale=480x270&v=high"
+    },
+    {
+      "startTime": 545,
+      "title": "Fosser med VM-gull",
+      "img": "https://nrk-od-world-00.akamaized.net/open/ps/nnfa/nnfa23070726/836a814d-6.smil/thumb.jpg?t=570&scale=480x270&v=high"
+    },
+    {
+      "startTime": 617,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-00.akamaized.net/open/ps/nnfa/nnfa23070726/836a814d-6.smil/thumb.jpg?t=643&scale=480x270&v=high"
+    },
+    {
+      "startTime": 682,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-00.akamaized.net/open/ps/nnfa/nnfa23070726/836a814d-6.smil/thumb.jpg?t=700.55&scale=480x270&v=high"
+    }
+  ]
+}
