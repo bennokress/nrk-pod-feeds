@@ -1,0 +1,88 @@
+{
+  "version": "1.2.0",
+  "title": "- Døgnåpen skjenking bør gjøres permanent",
+  "author": "NRK",
+  "podcastName": "Dagsnytt 18",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsnytt atten",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa56070726/d8bcce87-8.smil/thumb.jpg?t=26&scale=480x270&v=high"
+    },
+    {
+      "startTime": 59,
+      "title": "Utvide skjenketider permanent",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa56070726/d8bcce87-8.smil/thumb.jpg?t=85&scale=480x270&v=high"
+    },
+    {
+      "startTime": 739,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa56070726/d8bcce87-8.smil/thumb.jpg?t=765&scale=480x270&v=high"
+    },
+    {
+      "startTime": 748,
+      "title": "Dom mot Marine Le Pen",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa56070726/d8bcce87-8.smil/thumb.jpg?t=773&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1182,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa56070726/d8bcce87-8.smil/thumb.jpg?t=1207&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1201,
+      "title": "Aldersgrense SoMe",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa56070726/d8bcce87-8.smil/thumb.jpg?t=1226&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1751,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa56070726/d8bcce87-8.smil/thumb.jpg?t=1776&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1758,
+      "title": "Stress og brystkreft",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa56070726/d8bcce87-8.smil/thumb.jpg?t=1784&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2431,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa56070726/d8bcce87-8.smil/thumb.jpg?t=2457&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2445,
+      "title": "Hamas på Gazastripen",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa56070726/d8bcce87-8.smil/thumb.jpg?t=2470&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2813,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa56070726/d8bcce87-8.smil/thumb.jpg?t=2838&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2823,
+      "title": "Nato-møtet",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa56070726/d8bcce87-8.smil/thumb.jpg?t=2848&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3046,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa56070726/d8bcce87-8.smil/thumb.jpg?t=3071&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3056,
+      "title": "VM-visning i Bergen",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa56070726/d8bcce87-8.smil/thumb.jpg?t=3081&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3527,
+      "title": "AVSLUTNING",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa56070726/d8bcce87-8.smil/thumb.jpg?t=3543.84&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3530,
+      "title": "SLUTTKJENNING",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa56070726/d8bcce87-8.smil/thumb.jpg?t=3543.84&scale=480x270&v=high"
+    }
+  ]
+}
