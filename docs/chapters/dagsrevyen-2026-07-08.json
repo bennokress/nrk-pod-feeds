@@ -1,0 +1,108 @@
+{
+  "version": "1.2.0",
+  "title": "Gleder seg til lørdag",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 8,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa19070826/aac02a4b-6.smil/thumb.jpg?t=33&scale=480x270&v=high"
+    },
+    {
+      "startTime": 55,
+      "title": "Pressekonferanse Miami",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa19070826/aac02a4b-6.smil/thumb.jpg?t=81&scale=480x270&v=high"
+    },
+    {
+      "startTime": 164,
+      "title": "Kronprinsen VM",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa19070826/aac02a4b-6.smil/thumb.jpg?t=190&scale=480x270&v=high"
+    },
+    {
+      "startTime": 199,
+      "title": "Nato-toppmøtet erklæring",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa19070826/aac02a4b-6.smil/thumb.jpg?t=224&scale=480x270&v=high"
+    },
+    {
+      "startTime": 295,
+      "title": "Direkte: Ankara",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa19070826/aac02a4b-6.smil/thumb.jpg?t=320&scale=480x270&v=high"
+    },
+    {
+      "startTime": 413,
+      "title": "Gjest om Nato-toppmøtet",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa19070826/aac02a4b-6.smil/thumb.jpg?t=438&scale=480x270&v=high"
+    },
+    {
+      "startTime": 530,
+      "title": "Våpenhvilen er over",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa19070826/aac02a4b-6.smil/thumb.jpg?t=555&scale=480x270&v=high"
+    },
+    {
+      "startTime": 617,
+      "title": "Direkte: Beirut",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa19070826/aac02a4b-6.smil/thumb.jpg?t=642&scale=480x270&v=high"
+    },
+    {
+      "startTime": 713,
+      "title": "Triton-droner",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa19070826/aac02a4b-6.smil/thumb.jpg?t=739&scale=480x270&v=high"
+    },
+    {
+      "startTime": 800,
+      "title": "Gasslekkasje Horten",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa19070826/aac02a4b-6.smil/thumb.jpg?t=825&scale=480x270&v=high"
+    },
+    {
+      "startTime": 816,
+      "title": "Brannberedskap",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa19070826/aac02a4b-6.smil/thumb.jpg?t=841&scale=480x270&v=high"
+    },
+    {
+      "startTime": 929,
+      "title": "Køer for å få trøye",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa19070826/aac02a4b-6.smil/thumb.jpg?t=955&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1053,
+      "title": "Gjest",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa19070826/aac02a4b-6.smil/thumb.jpg?t=1078&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1174,
+      "title": "Bryllup og VM",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa19070826/aac02a4b-6.smil/thumb.jpg?t=1199&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1260,
+      "title": "Peer Gynt",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa19070826/aac02a4b-6.smil/thumb.jpg?t=1286&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1369,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa19070826/aac02a4b-6.smil/thumb.jpg?t=1395&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1379,
+      "title": "Status Norge",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa19070826/aac02a4b-6.smil/thumb.jpg?t=1404&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1423,
+      "title": "Trening i Florida",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa19070826/aac02a4b-6.smil/thumb.jpg?t=1448&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1478,
+      "title": "Træen i gult",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa19070826/aac02a4b-6.smil/thumb.jpg?t=1503&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1556,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa19070826/aac02a4b-6.smil/thumb.jpg?t=1581&scale=480x270&v=high"
+    }
+  ]
+}
