@@ -1,0 +1,48 @@
+{
+  "version": "1.2.0",
+  "title": "Trump vil stanse all handel med Spania",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa21070826/a9c8abe9-6.smil/thumb.jpg?t=26&scale=480x270&v=high"
+    },
+    {
+      "startTime": 31,
+      "title": "USA og Spania",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa21070826/a9c8abe9-6.smil/thumb.jpg?t=56&scale=480x270&v=high"
+    },
+    {
+      "startTime": 151,
+      "title": "DAGSREVYPAKKE",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa21070826/a9c8abe9-6.smil/thumb.jpg?t=176&scale=480x270&v=high"
+    },
+    {
+      "startTime": 237,
+      "title": "Tomt for skjermer",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa21070826/a9c8abe9-6.smil/thumb.jpg?t=263&scale=480x270&v=high"
+    },
+    {
+      "startTime": 287,
+      "title": "Fotball-VM",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa21070826/a9c8abe9-6.smil/thumb.jpg?t=313&scale=480x270&v=high"
+    },
+    {
+      "startTime": 336,
+      "title": "Klimaturister",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa21070826/a9c8abe9-6.smil/thumb.jpg?t=362&scale=480x270&v=high"
+    },
+    {
+      "startTime": 462,
+      "title": "Været",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa21070826/a9c8abe9-6.smil/thumb.jpg?t=488&scale=480x270&v=high"
+    },
+    {
+      "startTime": 516,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa21070826/a9c8abe9-6.smil/thumb.jpg?t=535.48&scale=480x270&v=high"
+    }
+  ]
+}
