@@ -1,0 +1,108 @@
+{
+  "version": "1.2.0",
+  "title": "Trump med nye Grønland-trusler",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 6,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa19070726/08fd26a7-8.smil/thumb.jpg?t=32&scale=480x270&v=high"
+    },
+    {
+      "startTime": 47,
+      "title": "Nato toppmøte",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa19070726/08fd26a7-8.smil/thumb.jpg?t=73&scale=480x270&v=high"
+    },
+    {
+      "startTime": 181,
+      "title": "Direkte fra Ankara",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa19070726/08fd26a7-8.smil/thumb.jpg?t=207&scale=480x270&v=high"
+    },
+    {
+      "startTime": 323,
+      "title": "VM og skjenking",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa19070726/08fd26a7-8.smil/thumb.jpg?t=349&scale=480x270&v=high"
+    },
+    {
+      "startTime": 432,
+      "title": "Le Pen dom",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa19070726/08fd26a7-8.smil/thumb.jpg?t=457&scale=480x270&v=high"
+    },
+    {
+      "startTime": 528,
+      "title": "Gjest om Frankrike",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa19070726/08fd26a7-8.smil/thumb.jpg?t=554&scale=480x270&v=high"
+    },
+    {
+      "startTime": 634,
+      "title": "Harry dom",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa19070726/08fd26a7-8.smil/thumb.jpg?t=660&scale=480x270&v=high"
+    },
+    {
+      "startTime": 685,
+      "title": "Direkte fra London",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa19070726/08fd26a7-8.smil/thumb.jpg?t=711&scale=480x270&v=high"
+    },
+    {
+      "startTime": 779,
+      "title": "Farage går",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa19070726/08fd26a7-8.smil/thumb.jpg?t=805&scale=480x270&v=high"
+    },
+    {
+      "startTime": 816,
+      "title": "Direkte London",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa19070726/08fd26a7-8.smil/thumb.jpg?t=842&scale=480x270&v=high"
+    },
+    {
+      "startTime": 869,
+      "title": "Gjenbruk klær",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa19070726/08fd26a7-8.smil/thumb.jpg?t=895&scale=480x270&v=high"
+    },
+    {
+      "startTime": 961,
+      "title": "VM fører oss sammen",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa19070726/08fd26a7-8.smil/thumb.jpg?t=987&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1053,
+      "title": "VM og roing",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa19070726/08fd26a7-8.smil/thumb.jpg?t=1078&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1156,
+      "title": "Haaland",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa19070726/08fd26a7-8.smil/thumb.jpg?t=1181&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1224,
+      "title": "Fotball-VM",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa19070726/08fd26a7-8.smil/thumb.jpg?t=1250&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1339,
+      "title": "Tour de France",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa19070726/08fd26a7-8.smil/thumb.jpg?t=1365&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1408,
+      "title": "Russland inne",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa19070726/08fd26a7-8.smil/thumb.jpg?t=1434&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1456,
+      "title": "Kombinert ute",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa19070726/08fd26a7-8.smil/thumb.jpg?t=1482&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1486,
+      "title": "VM-Orientering",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa19070726/08fd26a7-8.smil/thumb.jpg?t=1512&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1537,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa19070726/08fd26a7-8.smil/thumb.jpg?t=1563&scale=480x270&v=high"
+    }
+  ]
+}
