@@ -1,0 +1,213 @@
+{
+  "version": "1.2.0",
+  "title": "USA angrep Iran i natt",
+  "author": "NRK",
+  "podcastName": "Nyhetsmorgen",
+  "chapters": [
+    {
+      "startTime": 1,
+      "title": "NRK Nyheter 07:00",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa05070826/9a491fc8-6.smil/thumb.jpg?t=26&scale=480x270&v=high"
+    },
+    {
+      "startTime": 187,
+      "title": "Åpning 07:03",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa05070826/9a491fc8-6.smil/thumb.jpg?t=212&scale=480x270&v=high"
+    },
+    {
+      "startTime": 246,
+      "title": "USA har angrepet 80 mål i Iran",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa05070826/9a491fc8-6.smil/thumb.jpg?t=272&scale=480x270&v=high"
+    },
+    {
+      "startTime": 425,
+      "title": "Nato-toppmøtet er i gang",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa05070826/9a491fc8-6.smil/thumb.jpg?t=450&scale=480x270&v=high"
+    },
+    {
+      "startTime": 717,
+      "title": "Flyttenekt for flyktninger: For mange unntak",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa05070826/9a491fc8-6.smil/thumb.jpg?t=743&scale=480x270&v=high"
+    },
+    {
+      "startTime": 898,
+      "title": "Overskrifter 07:15",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa05070826/9a491fc8-6.smil/thumb.jpg?t=924&scale=480x270&v=high"
+    },
+    {
+      "startTime": 945,
+      "title": "VM-rundens overskrifter",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa05070826/9a491fc8-6.smil/thumb.jpg?t=970&scale=480x270&v=high"
+    },
+    {
+      "startTime": 984,
+      "title": "Argentina møter Sveits i kvartfinalen i VM",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa05070826/9a491fc8-6.smil/thumb.jpg?t=1009&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1087,
+      "title": "Kommentator om VM-kvelden",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa05070826/9a491fc8-6.smil/thumb.jpg?t=1112&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1377,
+      "title": "Norge elsker England",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa05070826/9a491fc8-6.smil/thumb.jpg?t=1402&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1566,
+      "title": "Manet-bonanza langs kysten",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa05070826/9a491fc8-6.smil/thumb.jpg?t=1592&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1801,
+      "title": "Overskrifter 07:30",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa05070826/9a491fc8-6.smil/thumb.jpg?t=1826&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1838,
+      "title": "USA angriper Iran",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa05070826/9a491fc8-6.smil/thumb.jpg?t=1863&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1993,
+      "title": "– For mange unntak for flyktninger",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa05070826/9a491fc8-6.smil/thumb.jpg?t=2019&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2104,
+      "title": "Hjelmpåbud lar vente på seg",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa05070826/9a491fc8-6.smil/thumb.jpg?t=2130&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2184,
+      "title": "Ønsker flere strandlivreddere",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa05070826/9a491fc8-6.smil/thumb.jpg?t=2210&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2303,
+      "title": "Sveits møter Argentina i kvartfinale i VM",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa05070826/9a491fc8-6.smil/thumb.jpg?t=2328&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3601,
+      "title": "NRK Nyheter 08:00",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa05070826/9a491fc8-6.smil/thumb.jpg?t=3626&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3779,
+      "title": "Åpning 08:03",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa05070826/9a491fc8-6.smil/thumb.jpg?t=3805&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3856,
+      "title": "Advarte Iran om mulig attentatforsøk",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa05070826/9a491fc8-6.smil/thumb.jpg?t=3882&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4108,
+      "title": "Ønsker flere strandlivreddere",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa05070826/9a491fc8-6.smil/thumb.jpg?t=4133&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4298,
+      "title": "Holdt på å drukne",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa05070826/9a491fc8-6.smil/thumb.jpg?t=4324&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4630,
+      "title": "Overskrifter 08:15",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa05070826/9a491fc8-6.smil/thumb.jpg?t=4655&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4676,
+      "title": "Flyttenekt for flyktninger: For mange unntak",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa05070826/9a491fc8-6.smil/thumb.jpg?t=4702&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4855,
+      "title": "Hjelmpåbud lar vente på seg",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa05070826/9a491fc8-6.smil/thumb.jpg?t=4881&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5050,
+      "title": "Norge elsker England",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa05070826/9a491fc8-6.smil/thumb.jpg?t=5076&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5164,
+      "title": "Stemningen på fotballøya før Norge-møtet",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa05070826/9a491fc8-6.smil/thumb.jpg?t=5189&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5557,
+      "title": "Overskrifter 08:30",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa05070826/9a491fc8-6.smil/thumb.jpg?t=5582&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5597,
+      "title": "USA angriper Iran",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa05070826/9a491fc8-6.smil/thumb.jpg?t=5622&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5815,
+      "title": "Etablerarprøva på engelsk",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa05070826/9a491fc8-6.smil/thumb.jpg?t=5841&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6010,
+      "title": "Rulleskibyen Lillehammer",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa05070826/9a491fc8-6.smil/thumb.jpg?t=6036&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6174,
+      "title": "Før P2-pulsen i NRK P2",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa05070826/9a491fc8-6.smil/thumb.jpg?t=6200&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6234,
+      "title": "Overskrifter 08:45",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa05070826/9a491fc8-6.smil/thumb.jpg?t=6260&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6282,
+      "title": "Nato-toppmøtet i Tyrkia",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa05070826/9a491fc8-6.smil/thumb.jpg?t=6307&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6455,
+      "title": "Statsminister om Trumps uttalelser",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa05070826/9a491fc8-6.smil/thumb.jpg?t=6481&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6501,
+      "title": "Utenrikskommentator om toppmøte",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa05070826/9a491fc8-6.smil/thumb.jpg?t=6526&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6704,
+      "title": "Le Pen vil anke fotlenke",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa05070826/9a491fc8-6.smil/thumb.jpg?t=6730&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6860,
+      "title": "Sveits møter Argentina i kvartfinale i VM",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa05070826/9a491fc8-6.smil/thumb.jpg?t=6886&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6938,
+      "title": "Gul trøye i Tour de France",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa05070826/9a491fc8-6.smil/thumb.jpg?t=6963&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7110,
+      "title": "GJEST Været i dag",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa05070826/9a491fc8-6.smil/thumb.jpg?t=7136&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7190,
+      "title": "Avslutning",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa05070826/9a491fc8-6.smil/thumb.jpg?t=7204.16&scale=480x270&v=high"
+    }
+  ]
+}
