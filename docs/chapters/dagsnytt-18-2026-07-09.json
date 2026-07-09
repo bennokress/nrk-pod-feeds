@@ -1,0 +1,43 @@
+{
+  "version": "1.2.0",
+  "title": "Bjørneangrep i Vardø",
+  "author": "NRK",
+  "podcastName": "Dagsnytt 18",
+  "chapters": [
+    {
+      "startTime": 1,
+      "title": "Dagsnytt atten",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa56070926/a8620e51-6.smil/thumb.jpg?t=27&scale=480x270&v=high"
+    },
+    {
+      "startTime": 58,
+      "title": "Bjørneangrep i Vardø",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa56070926/a8620e51-6.smil/thumb.jpg?t=84&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1036,
+      "title": "Begravelse og angrep i Iran",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa56070926/a8620e51-6.smil/thumb.jpg?t=1061&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1859,
+      "title": "Folkevalgte og alkohol",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa56070926/a8620e51-6.smil/thumb.jpg?t=1885&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2379,
+      "title": "EU-toll på småvarer",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa56070926/a8620e51-6.smil/thumb.jpg?t=2405&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3051,
+      "title": "Forebygge ekstremisme",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa56070926/a8620e51-6.smil/thumb.jpg?t=3076&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3531,
+      "title": "SLUTTKJENNING",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa56070926/a8620e51-6.smil/thumb.jpg?t=3543.84&scale=480x270&v=high"
+    }
+  ]
+}
