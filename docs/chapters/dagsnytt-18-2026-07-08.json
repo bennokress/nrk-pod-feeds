@@ -1,0 +1,53 @@
+{
+  "version": "1.2.0",
+  "title": "NATO-toppmøtet er over",
+  "author": "NRK",
+  "podcastName": "Dagsnytt 18",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsnytt atten",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa56070826/cb0ddb41-6.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 51,
+      "title": "Nato-toppmøte i Tyrkia",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa56070826/cb0ddb41-6.smil/thumb.jpg?t=77&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1226,
+      "title": "Le Pen er presidentkandidat",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa56070826/cb0ddb41-6.smil/thumb.jpg?t=1251&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1537,
+      "title": "Unntak for flyttenekt",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa56070826/cb0ddb41-6.smil/thumb.jpg?t=1562&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2042,
+      "title": "Vil vrake støykrav",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa56070826/cb0ddb41-6.smil/thumb.jpg?t=2067&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2521,
+      "title": "Vern av villrein",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa56070826/cb0ddb41-6.smil/thumb.jpg?t=2547&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3081,
+      "title": "Trivselsfokus på jobb",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa56070826/cb0ddb41-6.smil/thumb.jpg?t=3106&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3526,
+      "title": "AVSLUTNING",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa56070826/cb0ddb41-6.smil/thumb.jpg?t=3542.92&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3535,
+      "title": "SLUTTKJENNING",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa56070826/cb0ddb41-6.smil/thumb.jpg?t=3542.92&scale=480x270&v=high"
+    }
+  ]
+}
