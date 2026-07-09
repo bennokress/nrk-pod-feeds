@@ -1,0 +1,58 @@
+{
+  "version": "1.2.0",
+  "title": "Full stopp i togtrafikken mellom Oslo og Lillestrøm",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa21070926/d489fc11-9.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 28,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa21070926/d489fc11-9.smil/thumb.jpg?t=53&scale=480x270&v=high"
+    },
+    {
+      "startTime": 126,
+      "title": "Iran angrep",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa21070926/d489fc11-9.smil/thumb.jpg?t=151&scale=480x270&v=high"
+    },
+    {
+      "startTime": 145,
+      "title": "Verdenspakke",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa21070926/d489fc11-9.smil/thumb.jpg?t=171&scale=480x270&v=high"
+    },
+    {
+      "startTime": 229,
+      "title": "DAGSREVYPAKKE",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa21070926/d489fc11-9.smil/thumb.jpg?t=255&scale=480x270&v=high"
+    },
+    {
+      "startTime": 324,
+      "title": "STK-PAKKE",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa21070926/d489fc11-9.smil/thumb.jpg?t=350&scale=480x270&v=high"
+    },
+    {
+      "startTime": 348,
+      "title": "Metanol dødsfall",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa21070926/d489fc11-9.smil/thumb.jpg?t=373&scale=480x270&v=high"
+    },
+    {
+      "startTime": 406,
+      "title": "Storskjerm bonanza",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa21070926/d489fc11-9.smil/thumb.jpg?t=432&scale=480x270&v=high"
+    },
+    {
+      "startTime": 529,
+      "title": "Været",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa21070926/d489fc11-9.smil/thumb.jpg?t=554&scale=480x270&v=high"
+    },
+    {
+      "startTime": 575,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa21070926/d489fc11-9.smil/thumb.jpg?t=595.4&scale=480x270&v=high"
+    }
+  ]
+}
