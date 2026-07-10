@@ -1,0 +1,213 @@
+{
+  "version": "1.2.0",
+  "title": "Dårlige veier forsinker utrykningstid",
+  "author": "NRK",
+  "podcastName": "Nyhetsmorgen",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "NRK Nyheter 07:00",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa05070926/1a2eac18-7.smil/thumb.jpg?t=26&scale=480x270&v=high"
+    },
+    {
+      "startTime": 181,
+      "title": "Åpning 07:03",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa05070926/1a2eac18-7.smil/thumb.jpg?t=206&scale=480x270&v=high"
+    },
+    {
+      "startTime": 246,
+      "title": "Siste Iran og USA",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa05070926/1a2eac18-7.smil/thumb.jpg?t=272&scale=480x270&v=high"
+    },
+    {
+      "startTime": 522,
+      "title": "Begravelse i Iran",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa05070926/1a2eac18-7.smil/thumb.jpg?t=548&scale=480x270&v=high"
+    },
+    {
+      "startTime": 718,
+      "title": "Dårlige veier gir problemer for ambulanser",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa05070926/1a2eac18-7.smil/thumb.jpg?t=743&scale=480x270&v=high"
+    },
+    {
+      "startTime": 893,
+      "title": "Ambulansetrøbbel på dårlige veier",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa05070926/1a2eac18-7.smil/thumb.jpg?t=918&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1120,
+      "title": "Overskrifter 07:15",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa05070926/1a2eac18-7.smil/thumb.jpg?t=1145&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1203,
+      "title": "VM-rundens overskrifter",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa05070926/1a2eac18-7.smil/thumb.jpg?t=1228&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1239,
+      "title": "Spissenes VM",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa05070926/1a2eac18-7.smil/thumb.jpg?t=1264&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1398,
+      "title": "Franskprofessor om Marokko-Frankrike",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa05070926/1a2eac18-7.smil/thumb.jpg?t=1424&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1682,
+      "title": "Eksil-nordmenn i England",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa05070926/1a2eac18-7.smil/thumb.jpg?t=1708&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1800,
+      "title": "Overskrifter 07:30",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa05070926/1a2eac18-7.smil/thumb.jpg?t=1825&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1821,
+      "title": "Nye angrep på Iran",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa05070926/1a2eac18-7.smil/thumb.jpg?t=1846&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1858,
+      "title": "Dårlige veier gir problemer for ambulanser",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa05070926/1a2eac18-7.smil/thumb.jpg?t=1883&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1956,
+      "title": "Boligprisene har økt mer enn lønna",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa05070926/1a2eac18-7.smil/thumb.jpg?t=1982&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2063,
+      "title": "Nye angrep på Iran",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa05070926/1a2eac18-7.smil/thumb.jpg?t=2089&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2161,
+      "title": "Bekymra for mindre blikkontakt",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa05070926/1a2eac18-7.smil/thumb.jpg?t=2186&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2289,
+      "title": "Vest-Europas varmeste juni måned",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa05070926/1a2eac18-7.smil/thumb.jpg?t=2314&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2308,
+      "title": "Eksil-nordmenn i England",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa05070926/1a2eac18-7.smil/thumb.jpg?t=2334&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3600,
+      "title": "NRK Nyheter 08:00",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa05070926/1a2eac18-7.smil/thumb.jpg?t=3625&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3781,
+      "title": "Åpning 08:03",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa05070926/1a2eac18-7.smil/thumb.jpg?t=3806&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3858,
+      "title": "Boligprisene har økt mer enn lønna",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa05070926/1a2eac18-7.smil/thumb.jpg?t=3883&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4032,
+      "title": "Boligmarkedet skaper store forskjeller",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa05070926/1a2eac18-7.smil/thumb.jpg?t=4058&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4400,
+      "title": "Arne Scheie 28 år senere",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa05070926/1a2eac18-7.smil/thumb.jpg?t=4426&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4749,
+      "title": "Overskrifter 08:15",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa05070926/1a2eac18-7.smil/thumb.jpg?t=4775&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4805,
+      "title": "Varmerekord i Europa",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa05070926/1a2eac18-7.smil/thumb.jpg?t=4831&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4935,
+      "title": "Gamle band dominerer festivalsommeren",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa05070926/1a2eac18-7.smil/thumb.jpg?t=4960&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5140,
+      "title": "Gamle band skaper sommernostalgi",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa05070926/1a2eac18-7.smil/thumb.jpg?t=5165&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5390,
+      "title": "Overskrifter 08:30",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa05070926/1a2eac18-7.smil/thumb.jpg?t=5415&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5463,
+      "title": "USA angrepet Iran",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa05070926/1a2eac18-7.smil/thumb.jpg?t=5489&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5715,
+      "title": "Dårlige veier gir problemer for ambulanser",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa05070926/1a2eac18-7.smil/thumb.jpg?t=5740&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5893,
+      "title": "Eksil-nordmenn i England",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa05070926/1a2eac18-7.smil/thumb.jpg?t=5918&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6134,
+      "title": "Norges sjanser i VM",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa05070926/1a2eac18-7.smil/thumb.jpg?t=6159&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6350,
+      "title": "Før P2-pulsen i NRK P2",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa05070926/1a2eac18-7.smil/thumb.jpg?t=6375&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6399,
+      "title": "Overskrifter 08:45",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa05070926/1a2eac18-7.smil/thumb.jpg?t=6425&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6449,
+      "title": "Vald og uro på sjukeheimar",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa05070926/1a2eac18-7.smil/thumb.jpg?t=6475&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6562,
+      "title": "Bekymra for mindre blikkontakt",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa05070926/1a2eac18-7.smil/thumb.jpg?t=6588&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6827,
+      "title": "Munchmuseet øker prisene",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa05070926/1a2eac18-7.smil/thumb.jpg?t=6852&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6949,
+      "title": "Dyrt å vise VM-kamper",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa05070926/1a2eac18-7.smil/thumb.jpg?t=6975&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7079,
+      "title": "GJEST Været i dag",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa05070926/1a2eac18-7.smil/thumb.jpg?t=7104&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7192,
+      "title": "Avslutning",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa05070926/1a2eac18-7.smil/thumb.jpg?t=7203.16&scale=480x270&v=high"
+    }
+  ]
+}
