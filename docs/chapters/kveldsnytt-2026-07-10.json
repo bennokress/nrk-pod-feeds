@@ -1,0 +1,68 @@
+{
+  "version": "1.2.0",
+  "title": "Solbakken frykter heten i morgen",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa23071026/5fbfa5fd-7.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 35,
+      "title": "Solbakken",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa23071026/5fbfa5fd-7.smil/thumb.jpg?t=60&scale=480x270&v=high"
+    },
+    {
+      "startTime": 121,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa23071026/5fbfa5fd-7.smil/thumb.jpg?t=146&scale=480x270&v=high"
+    },
+    {
+      "startTime": 204,
+      "title": "Spania-brannen",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa23071026/5fbfa5fd-7.smil/thumb.jpg?t=230&scale=480x270&v=high"
+    },
+    {
+      "startTime": 289,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa23071026/5fbfa5fd-7.smil/thumb.jpg?t=315&scale=480x270&v=high"
+    },
+    {
+      "startTime": 395,
+      "title": "Kristiansand",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa23071026/5fbfa5fd-7.smil/thumb.jpg?t=421&scale=480x270&v=high"
+    },
+    {
+      "startTime": 412,
+      "title": "Larvik",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa23071026/5fbfa5fd-7.smil/thumb.jpg?t=438&scale=480x270&v=high"
+    },
+    {
+      "startTime": 428,
+      "title": "Sykkelturistar trassar rasfaren på historisk veg",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa23071026/5fbfa5fd-7.smil/thumb.jpg?t=453&scale=480x270&v=high"
+    },
+    {
+      "startTime": 541,
+      "title": "Spania-Belgia",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa23071026/5fbfa5fd-7.smil/thumb.jpg?t=567&scale=480x270&v=high"
+    },
+    {
+      "startTime": 633,
+      "title": "Ødegaard annen kaptein enn før",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa23071026/5fbfa5fd-7.smil/thumb.jpg?t=658&scale=480x270&v=high"
+    },
+    {
+      "startTime": 715,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa23071026/5fbfa5fd-7.smil/thumb.jpg?t=740&scale=480x270&v=high"
+    },
+    {
+      "startTime": 788,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa23071026/5fbfa5fd-7.smil/thumb.jpg?t=807.55&scale=480x270&v=high"
+    }
+  ]
+}
