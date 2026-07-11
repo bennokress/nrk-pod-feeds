@@ -1,0 +1,108 @@
+{
+  "version": "1.2.0",
+  "title": "Dødeligste brann på over 20 år",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 8,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-47.akamaized.net/open/ps/nnfa/nnfa19071026/5f15b83a-6.smil/thumb.jpg?t=34&scale=480x270&v=high"
+    },
+    {
+      "startTime": 55,
+      "title": "Skogbranner Spania",
+      "img": "https://nrk-od-world-47.akamaized.net/open/ps/nnfa/nnfa19071026/5f15b83a-6.smil/thumb.jpg?t=81&scale=480x270&v=high"
+    },
+    {
+      "startTime": 171,
+      "title": "Direkte Alicante",
+      "img": "https://nrk-od-world-47.akamaized.net/open/ps/nnfa/nnfa19071026/5f15b83a-6.smil/thumb.jpg?t=197&scale=480x270&v=high"
+    },
+    {
+      "startTime": 282,
+      "title": "Tenåring død Spania",
+      "img": "https://nrk-od-world-47.akamaized.net/open/ps/nnfa/nnfa19071026/5f15b83a-6.smil/thumb.jpg?t=308&scale=480x270&v=high"
+    },
+    {
+      "startTime": 382,
+      "title": "Prisvekst VM",
+      "img": "https://nrk-od-world-47.akamaized.net/open/ps/nnfa/nnfa19071026/5f15b83a-6.smil/thumb.jpg?t=408&scale=480x270&v=high"
+    },
+    {
+      "startTime": 504,
+      "title": "VM politibudsjett",
+      "img": "https://nrk-od-world-47.akamaized.net/open/ps/nnfa/nnfa19071026/5f15b83a-6.smil/thumb.jpg?t=530&scale=480x270&v=high"
+    },
+    {
+      "startTime": 621,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-47.akamaized.net/open/ps/nnfa/nnfa19071026/5f15b83a-6.smil/thumb.jpg?t=647&scale=480x270&v=high"
+    },
+    {
+      "startTime": 714,
+      "title": "Mange trafikkdøde juli",
+      "img": "https://nrk-od-world-47.akamaized.net/open/ps/nnfa/nnfa19071026/5f15b83a-6.smil/thumb.jpg?t=740&scale=480x270&v=high"
+    },
+    {
+      "startTime": 831,
+      "title": "Norsk-amerikanere heier",
+      "img": "https://nrk-od-world-47.akamaized.net/open/ps/nnfa/nnfa19071026/5f15b83a-6.smil/thumb.jpg?t=857&scale=480x270&v=high"
+    },
+    {
+      "startTime": 932,
+      "title": "Supportere Miami",
+      "img": "https://nrk-od-world-47.akamaized.net/open/ps/nnfa/nnfa19071026/5f15b83a-6.smil/thumb.jpg?t=958&scale=480x270&v=high"
+    },
+    {
+      "startTime": 958,
+      "title": "Direkte Miami",
+      "img": "https://nrk-od-world-47.akamaized.net/open/ps/nnfa/nnfa19071026/5f15b83a-6.smil/thumb.jpg?t=984&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1059,
+      "title": "Direkte Trondheim",
+      "img": "https://nrk-od-world-47.akamaized.net/open/ps/nnfa/nnfa19071026/5f15b83a-6.smil/thumb.jpg?t=1085&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1164,
+      "title": "Engelske fotballbarn",
+      "img": "https://nrk-od-world-47.akamaized.net/open/ps/nnfa/nnfa19071026/5f15b83a-6.smil/thumb.jpg?t=1190&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1333,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-47.akamaized.net/open/ps/nnfa/nnfa19071026/5f15b83a-6.smil/thumb.jpg?t=1358&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1339,
+      "title": "Siste trening",
+      "img": "https://nrk-od-world-47.akamaized.net/open/ps/nnfa/nnfa19071026/5f15b83a-6.smil/thumb.jpg?t=1365&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1367,
+      "title": "VM LOT",
+      "img": "https://nrk-od-world-47.akamaized.net/open/ps/nnfa/nnfa19071026/5f15b83a-6.smil/thumb.jpg?t=1392&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1409,
+      "title": "Eng-Norge",
+      "img": "https://nrk-od-world-47.akamaized.net/open/ps/nnfa/nnfa19071026/5f15b83a-6.smil/thumb.jpg?t=1434&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1489,
+      "title": "Golf",
+      "img": "https://nrk-od-world-47.akamaized.net/open/ps/nnfa/nnfa19071026/5f15b83a-6.smil/thumb.jpg?t=1515&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1518,
+      "title": "TDF",
+      "img": "https://nrk-od-world-47.akamaized.net/open/ps/nnfa/nnfa19071026/5f15b83a-6.smil/thumb.jpg?t=1544&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1554,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-47.akamaized.net/open/ps/nnfa/nnfa19071026/5f15b83a-6.smil/thumb.jpg?t=1580&scale=480x270&v=high"
+    }
+  ]
+}
