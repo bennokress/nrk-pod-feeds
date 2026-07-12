@@ -1,0 +1,138 @@
+{
+  "version": "1.2.0",
+  "title": "Norge holder pusten",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 6,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa19071126/8153549a-6.smil/thumb.jpg?t=31&scale=480x270&v=high"
+    },
+    {
+      "startTime": 51,
+      "title": "Fest i Oslo",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa19071126/8153549a-6.smil/thumb.jpg?t=76&scale=480x270&v=high"
+    },
+    {
+      "startTime": 77,
+      "title": "Overgang Miami",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa19071126/8153549a-6.smil/thumb.jpg?t=103&scale=480x270&v=high"
+    },
+    {
+      "startTime": 82,
+      "title": "Direkte fra Miami",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa19071126/8153549a-6.smil/thumb.jpg?t=108&scale=480x270&v=high"
+    },
+    {
+      "startTime": 218,
+      "title": "Grafikk",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa19071126/8153549a-6.smil/thumb.jpg?t=243&scale=480x270&v=high"
+    },
+    {
+      "startTime": 245,
+      "title": "Direkte fra Oslo",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa19071126/8153549a-6.smil/thumb.jpg?t=270&scale=480x270&v=high"
+    },
+    {
+      "startTime": 288,
+      "title": "Direkte fra London",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa19071126/8153549a-6.smil/thumb.jpg?t=314&scale=480x270&v=high"
+    },
+    {
+      "startTime": 347,
+      "title": "Direkte fra Miami",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa19071126/8153549a-6.smil/thumb.jpg?t=373&scale=480x270&v=high"
+    },
+    {
+      "startTime": 399,
+      "title": "Spania skogbrann",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa19071126/8153549a-6.smil/thumb.jpg?t=424&scale=480x270&v=high"
+    },
+    {
+      "startTime": 530,
+      "title": "Utenriksnyheter",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa19071126/8153549a-6.smil/thumb.jpg?t=556&scale=480x270&v=high"
+    },
+    {
+      "startTime": 622,
+      "title": "Ulykke Skien",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa19071126/8153549a-6.smil/thumb.jpg?t=647&scale=480x270&v=high"
+    },
+    {
+      "startTime": 666,
+      "title": "Ulykke Grong",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa19071126/8153549a-6.smil/thumb.jpg?t=691&scale=480x270&v=high"
+    },
+    {
+      "startTime": 695,
+      "title": "Norge før kampen",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa19071126/8153549a-6.smil/thumb.jpg?t=720&scale=480x270&v=high"
+    },
+    {
+      "startTime": 794,
+      "title": "Direkte fra Trondheim",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa19071126/8153549a-6.smil/thumb.jpg?t=819&scale=480x270&v=high"
+    },
+    {
+      "startTime": 827,
+      "title": "Fredrikstad direkte",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa19071126/8153549a-6.smil/thumb.jpg?t=853&scale=480x270&v=high"
+    },
+    {
+      "startTime": 859,
+      "title": "Direkte fra Bergen",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa19071126/8153549a-6.smil/thumb.jpg?t=885&scale=480x270&v=high"
+    },
+    {
+      "startTime": 928,
+      "title": "Nora Johnsen",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa19071126/8153549a-6.smil/thumb.jpg?t=954&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1188,
+      "title": "England slått i 81",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa19071126/8153549a-6.smil/thumb.jpg?t=1213&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1278,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa19071126/8153549a-6.smil/thumb.jpg?t=1304&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1286,
+      "title": "Nor-Eng",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa19071126/8153549a-6.smil/thumb.jpg?t=1311&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1359,
+      "title": "Tease sending",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa19071126/8153549a-6.smil/thumb.jpg?t=1385&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1370,
+      "title": "Eliteserien",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa19071126/8153549a-6.smil/thumb.jpg?t=1395&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1420,
+      "title": "Golf",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa19071126/8153549a-6.smil/thumb.jpg?t=1445&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1452,
+      "title": "Orientering",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa19071126/8153549a-6.smil/thumb.jpg?t=1477&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1496,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa19071126/8153549a-6.smil/thumb.jpg?t=1522&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1662,
+      "title": "Direkte Rådhusplassen",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa19071126/8153549a-6.smil/thumb.jpg?t=1688&scale=480x270&v=high"
+    }
+  ]
+}
