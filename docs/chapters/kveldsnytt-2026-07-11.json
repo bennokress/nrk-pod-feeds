@@ -1,0 +1,73 @@
+{
+  "version": "1.2.0",
+  "title": "Ulykkesdag i trafikken",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa23071126/68402b22-8.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 33,
+      "title": "Ulykkesdag",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa23071126/68402b22-8.smil/thumb.jpg?t=59&scale=480x270&v=high"
+    },
+    {
+      "startTime": 125,
+      "title": "Iran",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa23071126/68402b22-8.smil/thumb.jpg?t=151&scale=480x270&v=high"
+    },
+    {
+      "startTime": 223,
+      "title": "Ukraina",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa23071126/68402b22-8.smil/thumb.jpg?t=249&scale=480x270&v=high"
+    },
+    {
+      "startTime": 250,
+      "title": "Venezuela",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa23071126/68402b22-8.smil/thumb.jpg?t=275&scale=480x270&v=high"
+    },
+    {
+      "startTime": 270,
+      "title": "Srebrenica",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa23071126/68402b22-8.smil/thumb.jpg?t=296&scale=480x270&v=high"
+    },
+    {
+      "startTime": 301,
+      "title": "Kronprinsen",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa23071126/68402b22-8.smil/thumb.jpg?t=326&scale=480x270&v=high"
+    },
+    {
+      "startTime": 351,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa23071126/68402b22-8.smil/thumb.jpg?t=377&scale=480x270&v=high"
+    },
+    {
+      "startTime": 370,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa23071126/68402b22-8.smil/thumb.jpg?t=395&scale=480x270&v=high"
+    },
+    {
+      "startTime": 440,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa23071126/68402b22-8.smil/thumb.jpg?t=465&scale=480x270&v=high"
+    },
+    {
+      "startTime": 471,
+      "title": "Eliteserien",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa23071126/68402b22-8.smil/thumb.jpg?t=497&scale=480x270&v=high"
+    },
+    {
+      "startTime": 536,
+      "title": "Wimbledon",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa23071126/68402b22-8.smil/thumb.jpg?t=562&scale=480x270&v=high"
+    },
+    {
+      "startTime": 596,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa23071126/68402b22-8.smil/thumb.jpg?t=622&scale=480x270&v=high"
+    }
+  ]
+}
