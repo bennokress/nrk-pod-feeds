@@ -1,0 +1,53 @@
+{
+  "version": "1.2.0",
+  "title": "Solbakken ut mot videodømming",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa21071226/a0820d3e-8.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 26,
+      "title": "VAR-kritikk",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa21071226/a0820d3e-8.smil/thumb.jpg?t=52&scale=480x270&v=high"
+    },
+    {
+      "startTime": 106,
+      "title": "Landslaget hjem",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa21071226/a0820d3e-8.smil/thumb.jpg?t=132&scale=480x270&v=high"
+    },
+    {
+      "startTime": 189,
+      "title": "Iran stengte Hormuz",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa21071226/a0820d3e-8.smil/thumb.jpg?t=214&scale=480x270&v=high"
+    },
+    {
+      "startTime": 286,
+      "title": "Dom Kristiansand",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa21071226/a0820d3e-8.smil/thumb.jpg?t=311&scale=480x270&v=high"
+    },
+    {
+      "startTime": 311,
+      "title": "Voldshendelse Oslo",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa21071226/a0820d3e-8.smil/thumb.jpg?t=336&scale=480x270&v=high"
+    },
+    {
+      "startTime": 329,
+      "title": "Flekkefjord",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa21071226/a0820d3e-8.smil/thumb.jpg?t=355&scale=480x270&v=high"
+    },
+    {
+      "startTime": 346,
+      "title": "Rødt foran SV",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa21071226/a0820d3e-8.smil/thumb.jpg?t=372&scale=480x270&v=high"
+    },
+    {
+      "startTime": 440,
+      "title": "Været",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa21071226/a0820d3e-8.smil/thumb.jpg?t=466&scale=480x270&v=high"
+    }
+  ]
+}
