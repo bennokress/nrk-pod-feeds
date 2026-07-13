@@ -1,0 +1,83 @@
+{
+  "version": "1.2.0",
+  "title": "Norge jakter historisk VM-seier",
+  "author": "NRK",
+  "podcastName": "Dagsnytt 18",
+  "chapters": [
+    {
+      "startTime": 3,
+      "title": "Dagsnytt atten",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa56071026/c2051c8e-6.smil/thumb.jpg?t=29&scale=480x270&v=high"
+    },
+    {
+      "startTime": 63,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa56071026/c2051c8e-6.smil/thumb.jpg?t=89&scale=480x270&v=high"
+    },
+    {
+      "startTime": 71,
+      "title": "Norge møter England",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa56071026/c2051c8e-6.smil/thumb.jpg?t=96&scale=480x270&v=high"
+    },
+    {
+      "startTime": 911,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa56071026/c2051c8e-6.smil/thumb.jpg?t=936&scale=480x270&v=high"
+    },
+    {
+      "startTime": 921,
+      "title": "Bayeuxteppet tilbake i England",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa56071026/c2051c8e-6.smil/thumb.jpg?t=946&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1427,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa56071026/c2051c8e-6.smil/thumb.jpg?t=1452&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1433,
+      "title": "Ferske inflasjonstall",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa56071026/c2051c8e-6.smil/thumb.jpg?t=1459&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1861,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa56071026/c2051c8e-6.smil/thumb.jpg?t=1887&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1871,
+      "title": "Stryker på etablererprøven",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa56071026/c2051c8e-6.smil/thumb.jpg?t=1896&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2532,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa56071026/c2051c8e-6.smil/thumb.jpg?t=2558&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2543,
+      "title": "Økokrim og rettsstaten",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa56071026/c2051c8e-6.smil/thumb.jpg?t=2568&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3111,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa56071026/c2051c8e-6.smil/thumb.jpg?t=3137&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3124,
+      "title": "Ikoniske fotballøyeblikk",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa56071026/c2051c8e-6.smil/thumb.jpg?t=3149&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3531,
+      "title": "AVSLUTNING",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa56071026/c2051c8e-6.smil/thumb.jpg?t=3543.76&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3536,
+      "title": "SLUTTKJENNING",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa56071026/c2051c8e-6.smil/thumb.jpg?t=3543.76&scale=480x270&v=high"
+    }
+  ]
+}
