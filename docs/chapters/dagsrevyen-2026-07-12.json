@@ -1,0 +1,118 @@
+{
+  "version": "1.2.0",
+  "title": "Solbakken møter pressen",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 8,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa19071226/c25d9ece-6.smil/thumb.jpg?t=34&scale=480x270&v=high"
+    },
+    {
+      "startTime": 55,
+      "title": "Norge-England",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa19071226/c25d9ece-6.smil/thumb.jpg?t=81&scale=480x270&v=high"
+    },
+    {
+      "startTime": 197,
+      "title": "Solbakken PK Miami",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa19071226/c25d9ece-6.smil/thumb.jpg?t=222&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1978,
+      "title": "Reaks andre land",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa19071226/c25d9ece-6.smil/thumb.jpg?t=2004&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2014,
+      "title": "Reaksjoner England",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa19071226/c25d9ece-6.smil/thumb.jpg?t=2040&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2115,
+      "title": "Direkte London",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa19071226/c25d9ece-6.smil/thumb.jpg?t=2140&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2182,
+      "title": "Hele landet",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa19071226/c25d9ece-6.smil/thumb.jpg?t=2208&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2303,
+      "title": "Invitert Slottet",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa19071226/c25d9ece-6.smil/thumb.jpg?t=2329&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2336,
+      "title": "Rødt foran SV",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa19071226/c25d9ece-6.smil/thumb.jpg?t=2362&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2447,
+      "title": "Oslo",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa19071226/c25d9ece-6.smil/thumb.jpg?t=2473&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2465,
+      "title": "Flekkefjord",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa19071226/c25d9ece-6.smil/thumb.jpg?t=2491&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2483,
+      "title": "Spania skogbrann",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa19071226/c25d9ece-6.smil/thumb.jpg?t=2509&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2613,
+      "title": "Utenriksnyheter",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa19071226/c25d9ece-6.smil/thumb.jpg?t=2639&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2681,
+      "title": "Estland truet",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa19071226/c25d9ece-6.smil/thumb.jpg?t=2707&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2943,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa19071226/c25d9ece-6.smil/thumb.jpg?t=2968&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2950,
+      "title": "Nor-Eng",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa19071226/c25d9ece-6.smil/thumb.jpg?t=2976&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2983,
+      "title": "Direkte Miami",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa19071226/c25d9ece-6.smil/thumb.jpg?t=3008&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3191,
+      "title": "KFUM-Glimt",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa19071226/c25d9ece-6.smil/thumb.jpg?t=3216&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3258,
+      "title": "Eliteserien",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa19071226/c25d9ece-6.smil/thumb.jpg?t=3284&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3330,
+      "title": "TDF",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa19071226/c25d9ece-6.smil/thumb.jpg?t=3355&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3357,
+      "title": "Golf",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa19071226/c25d9ece-6.smil/thumb.jpg?t=3382&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3387,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa19071226/c25d9ece-6.smil/thumb.jpg?t=3412&scale=480x270&v=high"
+    }
+  ]
+}
