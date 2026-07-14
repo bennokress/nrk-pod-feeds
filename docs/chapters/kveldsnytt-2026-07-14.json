@@ -1,0 +1,68 @@
+{
+  "version": "1.2.0",
+  "title": "Brannmann innrømmer brannstiftelse",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa23071426/eedb4825-7.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 45,
+      "title": "Skogbranner Frankrike",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa23071426/eedb4825-7.smil/thumb.jpg?t=70&scale=480x270&v=high"
+    },
+    {
+      "startTime": 76,
+      "title": "Handler i varmen",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa23071426/eedb4825-7.smil/thumb.jpg?t=101&scale=480x270&v=high"
+    },
+    {
+      "startTime": 157,
+      "title": "Hetebølge Norge",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa23071426/eedb4825-7.smil/thumb.jpg?t=182&scale=480x270&v=high"
+    },
+    {
+      "startTime": 264,
+      "title": "Norwegian resultat",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa23071426/eedb4825-7.smil/thumb.jpg?t=289&scale=480x270&v=high"
+    },
+    {
+      "startTime": 286,
+      "title": "Flykntinger flytter fra nord",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa23071426/eedb4825-7.smil/thumb.jpg?t=312&scale=480x270&v=high"
+    },
+    {
+      "startTime": 415,
+      "title": "Turister i Bergen",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa23071426/eedb4825-7.smil/thumb.jpg?t=440&scale=480x270&v=high"
+    },
+    {
+      "startTime": 515,
+      "title": "Nyland hjemme",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa23071426/eedb4825-7.smil/thumb.jpg?t=541&scale=480x270&v=high"
+    },
+    {
+      "startTime": 606,
+      "title": "Frankrike - Spania",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa23071426/eedb4825-7.smil/thumb.jpg?t=631&scale=480x270&v=high"
+    },
+    {
+      "startTime": 682,
+      "title": "Nasjonal-dagen",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa23071426/eedb4825-7.smil/thumb.jpg?t=708&scale=480x270&v=high"
+    },
+    {
+      "startTime": 716,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa23071426/eedb4825-7.smil/thumb.jpg?t=742&scale=480x270&v=high"
+    },
+    {
+      "startTime": 782,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-70.akamaized.net/open/ps/nnfa/nnfa23071426/eedb4825-7.smil/thumb.jpg?t=804.55&scale=480x270&v=high"
+    }
+  ]
+}
