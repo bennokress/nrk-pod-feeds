@@ -1,0 +1,123 @@
+{
+  "version": "1.2.0",
+  "title": "Drept av ICE",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 10,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa19071426/715999e9-6.smil/thumb.jpg?t=35&scale=480x270&v=high"
+    },
+    {
+      "startTime": 53,
+      "title": "Kronprinsessen utskrevet",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa19071426/715999e9-6.smil/thumb.jpg?t=78&scale=480x270&v=high"
+    },
+    {
+      "startTime": 190,
+      "title": "Nytt ICE-drap",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa19071426/715999e9-6.smil/thumb.jpg?t=215&scale=480x270&v=high"
+    },
+    {
+      "startTime": 297,
+      "title": "Direkte Washington",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa19071426/715999e9-6.smil/thumb.jpg?t=322&scale=480x270&v=high"
+    },
+    {
+      "startTime": 408,
+      "title": "Skjermbruk",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa19071426/715999e9-6.smil/thumb.jpg?t=433&scale=480x270&v=high"
+    },
+    {
+      "startTime": 528,
+      "title": "Hetebølgen kommer",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa19071426/715999e9-6.smil/thumb.jpg?t=554&scale=480x270&v=high"
+    },
+    {
+      "startTime": 573,
+      "title": "Vær Tromsø",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa19071426/715999e9-6.smil/thumb.jpg?t=598&scale=480x270&v=high"
+    },
+    {
+      "startTime": 591,
+      "title": "Hetebølgen kommer",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa19071426/715999e9-6.smil/thumb.jpg?t=616&scale=480x270&v=high"
+    },
+    {
+      "startTime": 611,
+      "title": "Direkte",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa19071426/715999e9-6.smil/thumb.jpg?t=637&scale=480x270&v=high"
+    },
+    {
+      "startTime": 617,
+      "title": "Direkte: Bø",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa19071426/715999e9-6.smil/thumb.jpg?t=643&scale=480x270&v=high"
+    },
+    {
+      "startTime": 699,
+      "title": "Direkte Tromsø",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa19071426/715999e9-6.smil/thumb.jpg?t=724&scale=480x270&v=high"
+    },
+    {
+      "startTime": 771,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa19071426/715999e9-6.smil/thumb.jpg?t=797&scale=480x270&v=high"
+    },
+    {
+      "startTime": 887,
+      "title": "Frankrike feirer",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa19071426/715999e9-6.smil/thumb.jpg?t=912&scale=480x270&v=high"
+    },
+    {
+      "startTime": 993,
+      "title": "Eldre får delirium",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa19071426/715999e9-6.smil/thumb.jpg?t=1018&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1119,
+      "title": "Unge båtførere",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa19071426/715999e9-6.smil/thumb.jpg?t=1145&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1209,
+      "title": "Berg- og dalbane",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa19071426/715999e9-6.smil/thumb.jpg?t=1235&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1315,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa19071426/715999e9-6.smil/thumb.jpg?t=1341&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1321,
+      "title": "Tour de France 10",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa19071426/715999e9-6.smil/thumb.jpg?t=1346&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1352,
+      "title": "Budkov Kjær",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa19071426/715999e9-6.smil/thumb.jpg?t=1378&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1382,
+      "title": "Direkte Dallas",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa19071426/715999e9-6.smil/thumb.jpg?t=1407&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1465,
+      "title": "LOT Argentina-trening",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa19071426/715999e9-6.smil/thumb.jpg?t=1490&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1547,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa19071426/715999e9-6.smil/thumb.jpg?t=1573&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1703,
+      "title": "Varme",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa19071426/715999e9-6.smil/thumb.jpg?t=1728&scale=480x270&v=high"
+    }
+  ]
+}
