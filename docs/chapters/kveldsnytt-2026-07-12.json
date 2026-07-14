@@ -1,0 +1,58 @@
+{
+  "version": "1.2.0",
+  "title": "Skjenker glass og fyller kassen",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa23071226/fa32579f-6.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 37,
+      "title": "VM reddet skjenkesteder",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa23071226/fa32579f-6.smil/thumb.jpg?t=62&scale=480x270&v=high"
+    },
+    {
+      "startTime": 129,
+      "title": "Dødsulykker",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa23071226/fa32579f-6.smil/thumb.jpg?t=154&scale=480x270&v=high"
+    },
+    {
+      "startTime": 156,
+      "title": "Bangkok",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa23071226/fa32579f-6.smil/thumb.jpg?t=181&scale=480x270&v=high"
+    },
+    {
+      "startTime": 174,
+      "title": "Venezuela",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa23071226/fa32579f-6.smil/thumb.jpg?t=200&scale=480x270&v=high"
+    },
+    {
+      "startTime": 272,
+      "title": "Spania skogbrann",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa23071226/fa32579f-6.smil/thumb.jpg?t=297&scale=480x270&v=high"
+    },
+    {
+      "startTime": 373,
+      "title": "Ståle PK",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa23071226/fa32579f-6.smil/thumb.jpg?t=398&scale=480x270&v=high"
+    },
+    {
+      "startTime": 480,
+      "title": "Sarp-Viking",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa23071226/fa32579f-6.smil/thumb.jpg?t=506&scale=480x270&v=high"
+    },
+    {
+      "startTime": 537,
+      "title": "Wimbledon",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa23071226/fa32579f-6.smil/thumb.jpg?t=562&scale=480x270&v=high"
+    },
+    {
+      "startTime": 604,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa23071226/fa32579f-6.smil/thumb.jpg?t=629&scale=480x270&v=high"
+    }
+  ]
+}
