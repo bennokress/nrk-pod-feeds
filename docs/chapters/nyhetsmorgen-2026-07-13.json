@@ -1,0 +1,243 @@
+{
+  "version": "1.2.0",
+  "title": "Folkefest i Oslo idag",
+  "author": "NRK",
+  "podcastName": "Nyhetsmorgen",
+  "chapters": [
+    {
+      "startTime": 179,
+      "title": "Åpning 07:03",
+      "img": "https://nrk-od-world-80.akamaized.net/open/ps/nnfa/nnfa05071326/19b9e1dd-7.smil/thumb.jpg?t=205&scale=480x270&v=high"
+    },
+    {
+      "startTime": 251,
+      "title": "Økning i gjeld under VM",
+      "img": "https://nrk-od-world-80.akamaized.net/open/ps/nnfa/nnfa05071326/19b9e1dd-7.smil/thumb.jpg?t=277&scale=480x270&v=high"
+    },
+    {
+      "startTime": 488,
+      "title": "Skogbrann i Sør-Europa",
+      "img": "https://nrk-od-world-80.akamaized.net/open/ps/nnfa/nnfa05071326/19b9e1dd-7.smil/thumb.jpg?t=514&scale=480x270&v=high"
+    },
+    {
+      "startTime": 675,
+      "title": "Barselomsorg mangler jordmødre",
+      "img": "https://nrk-od-world-80.akamaized.net/open/ps/nnfa/nnfa05071326/19b9e1dd-7.smil/thumb.jpg?t=700&scale=480x270&v=high"
+    },
+    {
+      "startTime": 856,
+      "title": "Barselomsorg",
+      "img": "https://nrk-od-world-80.akamaized.net/open/ps/nnfa/nnfa05071326/19b9e1dd-7.smil/thumb.jpg?t=882&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1138,
+      "title": "Overskrifter 07:15",
+      "img": "https://nrk-od-world-80.akamaized.net/open/ps/nnfa/nnfa05071326/19b9e1dd-7.smil/thumb.jpg?t=1164&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1185,
+      "title": "VM-rundens overskrifter",
+      "img": "https://nrk-od-world-80.akamaized.net/open/ps/nnfa/nnfa05071326/19b9e1dd-7.smil/thumb.jpg?t=1210&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1271,
+      "title": "Norges landslag kommer til Oslo",
+      "img": "https://nrk-od-world-80.akamaized.net/open/ps/nnfa/nnfa05071326/19b9e1dd-7.smil/thumb.jpg?t=1297&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1379,
+      "title": "Fotballkommentator Carl-Erik Torp",
+      "img": "https://nrk-od-world-80.akamaized.net/open/ps/nnfa/nnfa05071326/19b9e1dd-7.smil/thumb.jpg?t=1404&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1623,
+      "title": "Holde seg sikker i båt",
+      "img": "https://nrk-od-world-80.akamaized.net/open/ps/nnfa/nnfa05071326/19b9e1dd-7.smil/thumb.jpg?t=1649&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1769,
+      "title": "SOMMER I P2",
+      "img": "https://nrk-od-world-80.akamaized.net/open/ps/nnfa/nnfa05071326/19b9e1dd-7.smil/thumb.jpg?t=1794&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1801,
+      "title": "Overskrifter 07:30",
+      "img": "https://nrk-od-world-80.akamaized.net/open/ps/nnfa/nnfa05071326/19b9e1dd-7.smil/thumb.jpg?t=1827&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1833,
+      "title": "Økning i gjeld under VM",
+      "img": "https://nrk-od-world-80.akamaized.net/open/ps/nnfa/nnfa05071326/19b9e1dd-7.smil/thumb.jpg?t=1859&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1943,
+      "title": "VM-kommentar om Norges exit?",
+      "img": "https://nrk-od-world-80.akamaized.net/open/ps/nnfa/nnfa05071326/19b9e1dd-7.smil/thumb.jpg?t=1968&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2103,
+      "title": "Skogbrann i Sør-Europa",
+      "img": "https://nrk-od-world-80.akamaized.net/open/ps/nnfa/nnfa05071326/19b9e1dd-7.smil/thumb.jpg?t=2129&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2195,
+      "title": "Barselomsorg mangler jordmødre",
+      "img": "https://nrk-od-world-80.akamaized.net/open/ps/nnfa/nnfa05071326/19b9e1dd-7.smil/thumb.jpg?t=2220&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2354,
+      "title": "EU får SoMe-rapport",
+      "img": "https://nrk-od-world-80.akamaized.net/open/ps/nnfa/nnfa05071326/19b9e1dd-7.smil/thumb.jpg?t=2379&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2391,
+      "title": "Avslutning",
+      "img": "https://nrk-od-world-80.akamaized.net/open/ps/nnfa/nnfa05071326/19b9e1dd-7.smil/thumb.jpg?t=2416&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2398,
+      "title": "Åpning 07:40",
+      "img": "https://nrk-od-world-80.akamaized.net/open/ps/nnfa/nnfa05071326/19b9e1dd-7.smil/thumb.jpg?t=2424&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2476,
+      "title": "Fengslede leger fra Gaza",
+      "img": "https://nrk-od-world-80.akamaized.net/open/ps/nnfa/nnfa05071326/19b9e1dd-7.smil/thumb.jpg?t=2501&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2750,
+      "title": "Topper 07:45",
+      "img": "https://nrk-od-world-80.akamaized.net/open/ps/nnfa/nnfa05071326/19b9e1dd-7.smil/thumb.jpg?t=2775&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2801,
+      "title": "Fellesskapsfølelsen under VM",
+      "img": "https://nrk-od-world-80.akamaized.net/open/ps/nnfa/nnfa05071326/19b9e1dd-7.smil/thumb.jpg?t=2827&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3064,
+      "title": "Boligtrøbbel i Aurland",
+      "img": "https://nrk-od-world-80.akamaized.net/open/ps/nnfa/nnfa05071326/19b9e1dd-7.smil/thumb.jpg?t=3090&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3269,
+      "title": "Mørke år ventar for norsk jordbær",
+      "img": "https://nrk-od-world-80.akamaized.net/open/ps/nnfa/nnfa05071326/19b9e1dd-7.smil/thumb.jpg?t=3295&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3412,
+      "title": "Matfylket Buskerud",
+      "img": "https://nrk-od-world-80.akamaized.net/open/ps/nnfa/nnfa05071326/19b9e1dd-7.smil/thumb.jpg?t=3437&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3598,
+      "title": "Avslutning",
+      "img": "https://nrk-od-world-80.akamaized.net/open/ps/nnfa/nnfa05071326/19b9e1dd-7.smil/thumb.jpg?t=3623&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3600,
+      "title": "NRK Nyheter 08:00",
+      "img": "https://nrk-od-world-80.akamaized.net/open/ps/nnfa/nnfa05071326/19b9e1dd-7.smil/thumb.jpg?t=3625&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3778,
+      "title": "Åpning 08:03",
+      "img": "https://nrk-od-world-80.akamaized.net/open/ps/nnfa/nnfa05071326/19b9e1dd-7.smil/thumb.jpg?t=3804&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3827,
+      "title": "Rettigheter for flypassasjerer",
+      "img": "https://nrk-od-world-80.akamaized.net/open/ps/nnfa/nnfa05071326/19b9e1dd-7.smil/thumb.jpg?t=3852&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4039,
+      "title": "Økning i gjeld under VM",
+      "img": "https://nrk-od-world-80.akamaized.net/open/ps/nnfa/nnfa05071326/19b9e1dd-7.smil/thumb.jpg?t=4065&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4241,
+      "title": "Lykkeforsker om VM",
+      "img": "https://nrk-od-world-80.akamaized.net/open/ps/nnfa/nnfa05071326/19b9e1dd-7.smil/thumb.jpg?t=4266&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4514,
+      "title": "Overskrifter 08:15",
+      "img": "https://nrk-od-world-80.akamaized.net/open/ps/nnfa/nnfa05071326/19b9e1dd-7.smil/thumb.jpg?t=4539&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4584,
+      "title": "Vegards feilbehandling",
+      "img": "https://nrk-od-world-80.akamaized.net/open/ps/nnfa/nnfa05071326/19b9e1dd-7.smil/thumb.jpg?t=4609&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4773,
+      "title": "Norges landslag kommer til Oslo",
+      "img": "https://nrk-od-world-80.akamaized.net/open/ps/nnfa/nnfa05071326/19b9e1dd-7.smil/thumb.jpg?t=4798&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4945,
+      "title": "Vi oppsummerer Norges VM-reise",
+      "img": "https://nrk-od-world-80.akamaized.net/open/ps/nnfa/nnfa05071326/19b9e1dd-7.smil/thumb.jpg?t=4971&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5410,
+      "title": "TR Historiske kjendiser: Katharine Hepburn",
+      "img": "https://nrk-od-world-80.akamaized.net/open/ps/nnfa/nnfa05071326/19b9e1dd-7.smil/thumb.jpg?t=5435&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5551,
+      "title": "Nye angrep i Iran",
+      "img": "https://nrk-od-world-80.akamaized.net/open/ps/nnfa/nnfa05071326/19b9e1dd-7.smil/thumb.jpg?t=5576&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5767,
+      "title": "Barselomsorg mangler jordmødre",
+      "img": "https://nrk-od-world-80.akamaized.net/open/ps/nnfa/nnfa05071326/19b9e1dd-7.smil/thumb.jpg?t=5792&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5958,
+      "title": "Barselomsorg",
+      "img": "https://nrk-od-world-80.akamaized.net/open/ps/nnfa/nnfa05071326/19b9e1dd-7.smil/thumb.jpg?t=5984&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6188,
+      "title": "Holde seg sikker i båt",
+      "img": "https://nrk-od-world-80.akamaized.net/open/ps/nnfa/nnfa05071326/19b9e1dd-7.smil/thumb.jpg?t=6213&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6333,
+      "title": "Overskrifter 08:45",
+      "img": "https://nrk-od-world-80.akamaized.net/open/ps/nnfa/nnfa05071326/19b9e1dd-7.smil/thumb.jpg?t=6359&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6375,
+      "title": "Brann på pub i Bangkok",
+      "img": "https://nrk-od-world-80.akamaized.net/open/ps/nnfa/nnfa05071326/19b9e1dd-7.smil/thumb.jpg?t=6401&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6552,
+      "title": "Martin Ødegaards barndomsklubb",
+      "img": "https://nrk-od-world-80.akamaized.net/open/ps/nnfa/nnfa05071326/19b9e1dd-7.smil/thumb.jpg?t=6578&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6786,
+      "title": "Hør P2-pulsen i NRK P2",
+      "img": "https://nrk-od-world-80.akamaized.net/open/ps/nnfa/nnfa05071326/19b9e1dd-7.smil/thumb.jpg?t=6811&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6845,
+      "title": "Sykehuset Telemark om dehydrering",
+      "img": "https://nrk-od-world-80.akamaized.net/open/ps/nnfa/nnfa05071326/19b9e1dd-7.smil/thumb.jpg?t=6871&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7027,
+      "title": "GJEST Været i dag",
+      "img": "https://nrk-od-world-80.akamaized.net/open/ps/nnfa/nnfa05071326/19b9e1dd-7.smil/thumb.jpg?t=7052&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7196,
+      "title": "Avslutning",
+      "img": "https://nrk-od-world-80.akamaized.net/open/ps/nnfa/nnfa05071326/19b9e1dd-7.smil/thumb.jpg?t=7203.36&scale=480x270&v=high"
+    }
+  ]
+}
