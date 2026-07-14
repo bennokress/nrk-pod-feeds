@@ -1,0 +1,78 @@
+{
+  "version": "1.2.0",
+  "title": "Duket for folkefest",
+  "author": "NRK",
+  "podcastName": "Dagsnytt 18",
+  "chapters": [
+    {
+      "startTime": 2,
+      "title": "Dagsnytt atten",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa56071326/cd941c29-6.smil/thumb.jpg?t=27&scale=480x270&v=high"
+    },
+    {
+      "startTime": 56,
+      "title": "Landslaget kommer hjem",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa56071326/cd941c29-6.smil/thumb.jpg?t=82&scale=480x270&v=high"
+    },
+    {
+      "startTime": 256,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa56071326/cd941c29-6.smil/thumb.jpg?t=282&scale=480x270&v=high"
+    },
+    {
+      "startTime": 265,
+      "title": "Favoriseres de store i VM?",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa56071326/cd941c29-6.smil/thumb.jpg?t=290&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1031,
+      "title": "Landslaget kommer hjem",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa56071326/cd941c29-6.smil/thumb.jpg?t=1056&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1221,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa56071326/cd941c29-6.smil/thumb.jpg?t=1247&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1232,
+      "title": "Høiby får fotlenke",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa56071326/cd941c29-6.smil/thumb.jpg?t=1258&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1773,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa56071326/cd941c29-6.smil/thumb.jpg?t=1799&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1780,
+      "title": "Frp refser HK-arrangement",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa56071326/cd941c29-6.smil/thumb.jpg?t=1805&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2326,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa56071326/cd941c29-6.smil/thumb.jpg?t=2352&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2336,
+      "title": "Stemmerett til 16-åringer",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa56071326/cd941c29-6.smil/thumb.jpg?t=2362&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2811,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa56071326/cd941c29-6.smil/thumb.jpg?t=2836&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2821,
+      "title": "EUs nettpakke",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa56071326/cd941c29-6.smil/thumb.jpg?t=2847&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3522,
+      "title": "AVSLUTNING",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa56071326/cd941c29-6.smil/thumb.jpg?t=3542.96&scale=480x270&v=high"
+    }
+  ]
+}
