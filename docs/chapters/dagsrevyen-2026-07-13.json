@@ -1,0 +1,93 @@
+{
+  "version": "1.2.0",
+  "title": "Heltene vender hjem",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 128,
+      "title": "Direkte: Slottsplassen",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa19071326/63a6039b-8.smil/thumb.jpg?t=154&scale=480x270&v=high"
+    },
+    {
+      "startTime": 725,
+      "title": "Gjest",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa19071326/63a6039b-8.smil/thumb.jpg?t=750&scale=480x270&v=high"
+    },
+    {
+      "startTime": 962,
+      "title": "Direkte: Gardermoen",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa19071326/63a6039b-8.smil/thumb.jpg?t=987&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2191,
+      "title": "Direkte: Slottsplassen",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa19071326/63a6039b-8.smil/thumb.jpg?t=2216&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2451,
+      "title": "Høiby fengslingsmøte",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa19071326/63a6039b-8.smil/thumb.jpg?t=2477&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2562,
+      "title": "Gjest",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa19071326/63a6039b-8.smil/thumb.jpg?t=2588&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2656,
+      "title": "Sykehjem varsler",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa19071326/63a6039b-8.smil/thumb.jpg?t=2681&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2794,
+      "title": "Nye angrep",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa19071326/63a6039b-8.smil/thumb.jpg?t=2819&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2822,
+      "title": "Skogbranner i Europa",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa19071326/63a6039b-8.smil/thumb.jpg?t=2848&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2895,
+      "title": "Skogbrannfare",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa19071326/63a6039b-8.smil/thumb.jpg?t=2921&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2985,
+      "title": "Moldejazz",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa19071326/63a6039b-8.smil/thumb.jpg?t=3010&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3067,
+      "title": "Direkte",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa19071326/63a6039b-8.smil/thumb.jpg?t=3093&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3365,
+      "title": "Norges VM",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa19071326/63a6039b-8.smil/thumb.jpg?t=3391&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3582,
+      "title": "Direkte: Oslo sentrum",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa19071326/63a6039b-8.smil/thumb.jpg?t=3607&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3757,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa19071326/63a6039b-8.smil/thumb.jpg?t=3783&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4048,
+      "title": "Oslo sentrum",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa19071326/63a6039b-8.smil/thumb.jpg?t=4073&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4085,
+      "title": "Direkte",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa19071326/63a6039b-8.smil/thumb.jpg?t=4111&scale=480x270&v=high"
+    }
+  ]
+}
