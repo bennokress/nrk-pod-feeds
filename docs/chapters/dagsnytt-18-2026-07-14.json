@@ -1,0 +1,48 @@
+{
+  "version": "1.2.0",
+  "title": "Situasjonen tilspisser seg rundt Hormuz-stredet",
+  "author": "NRK",
+  "podcastName": "Dagsnytt 18",
+  "chapters": [
+    {
+      "startTime": 1,
+      "title": "Dagsnytt atten",
+      "img": "https://nrk-od-world-07.akamaized.net/open/ps/nnfa/nnfa56071426/79f9b047-6.smil/thumb.jpg?t=27&scale=480x270&v=high"
+    },
+    {
+      "startTime": 61,
+      "title": "Iran og USA",
+      "img": "https://nrk-od-world-07.akamaized.net/open/ps/nnfa/nnfa56071426/79f9b047-6.smil/thumb.jpg?t=86&scale=480x270&v=high"
+    },
+    {
+      "startTime": 847,
+      "title": "Studiestart på Veterinærhøgskolen",
+      "img": "https://nrk-od-world-07.akamaized.net/open/ps/nnfa/nnfa56071426/79f9b047-6.smil/thumb.jpg?t=872&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1609,
+      "title": "KFUM og kristendom",
+      "img": "https://nrk-od-world-07.akamaized.net/open/ps/nnfa/nnfa56071426/79f9b047-6.smil/thumb.jpg?t=1634&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2045,
+      "title": "Krever ny EU-avstemning",
+      "img": "https://nrk-od-world-07.akamaized.net/open/ps/nnfa/nnfa56071426/79f9b047-6.smil/thumb.jpg?t=2071&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2538,
+      "title": "Privatskoler og arbeidsforhold",
+      "img": "https://nrk-od-world-07.akamaized.net/open/ps/nnfa/nnfa56071426/79f9b047-6.smil/thumb.jpg?t=2564&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2911,
+      "title": "Fotball-VM i Norge",
+      "img": "https://nrk-od-world-07.akamaized.net/open/ps/nnfa/nnfa56071426/79f9b047-6.smil/thumb.jpg?t=2936&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3527,
+      "title": "SLUTTKJENNING",
+      "img": "https://nrk-od-world-07.akamaized.net/open/ps/nnfa/nnfa56071426/79f9b047-6.smil/thumb.jpg?t=3544.04&scale=480x270&v=high"
+    }
+  ]
+}
