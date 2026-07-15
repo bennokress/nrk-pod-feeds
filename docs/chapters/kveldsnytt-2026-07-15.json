@@ -1,0 +1,63 @@
+{
+  "version": "1.2.0",
+  "title": "To restauranter tok fyr",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa23071526/f21dc427-6.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 55,
+      "title": "Kongsberg",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa23071526/f21dc427-6.smil/thumb.jpg?t=80&scale=480x270&v=high"
+    },
+    {
+      "startTime": 132,
+      "title": "Drukningsulykke nord-aurdal",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa23071526/f21dc427-6.smil/thumb.jpg?t=157&scale=480x270&v=high"
+    },
+    {
+      "startTime": 152,
+      "title": "Matbud snikfilmer",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa23071526/f21dc427-6.smil/thumb.jpg?t=177&scale=480x270&v=high"
+    },
+    {
+      "startTime": 252,
+      "title": "Frankrike",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa23071526/f21dc427-6.smil/thumb.jpg?t=278&scale=480x270&v=high"
+    },
+    {
+      "startTime": 275,
+      "title": "Sommer i nord",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa23071526/f21dc427-6.smil/thumb.jpg?t=300&scale=480x270&v=high"
+    },
+    {
+      "startTime": 350,
+      "title": "Gaming i solen",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa23071526/f21dc427-6.smil/thumb.jpg?t=375&scale=480x270&v=high"
+    },
+    {
+      "startTime": 435,
+      "title": "England-Argentina",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa23071526/f21dc427-6.smil/thumb.jpg?t=461&scale=480x270&v=high"
+    },
+    {
+      "startTime": 541,
+      "title": "Glimt-trening",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa23071526/f21dc427-6.smil/thumb.jpg?t=566&scale=480x270&v=high"
+    },
+    {
+      "startTime": 641,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa23071526/f21dc427-6.smil/thumb.jpg?t=667&scale=480x270&v=high"
+    },
+    {
+      "startTime": 721,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa23071526/f21dc427-6.smil/thumb.jpg?t=741.48&scale=480x270&v=high"
+    }
+  ]
+}
