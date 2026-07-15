@@ -1,0 +1,228 @@
+{
+  "version": "1.2.0",
+  "title": "Over 150.000 møtte opp for å hylle herrelandslaget",
+  "author": "NRK",
+  "podcastName": "Nyhetsmorgen",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "NRK Nyheter 07:00",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa05071426/192d1ba3-6.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 181,
+      "title": "Åpning 07:03",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa05071426/192d1ba3-6.smil/thumb.jpg?t=206&scale=480x270&v=high"
+    },
+    {
+      "startTime": 254,
+      "title": "Folkehyllest av landslaget",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa05071426/192d1ba3-6.smil/thumb.jpg?t=280&scale=480x270&v=high"
+    },
+    {
+      "startTime": 480,
+      "title": "Dyr strøm i Europa",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa05071426/192d1ba3-6.smil/thumb.jpg?t=506&scale=480x270&v=high"
+    },
+    {
+      "startTime": 605,
+      "title": "EUs energikrise",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa05071426/192d1ba3-6.smil/thumb.jpg?t=631&scale=480x270&v=high"
+    },
+    {
+      "startTime": 903,
+      "title": "Skogbrann i Spania",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa05071426/192d1ba3-6.smil/thumb.jpg?t=929&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1154,
+      "title": "Overskrifter 07:15",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa05071426/192d1ba3-6.smil/thumb.jpg?t=1179&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1188,
+      "title": "Ny bølge med ICE-arrestasjoner i USA",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa05071426/192d1ba3-6.smil/thumb.jpg?t=1214&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1396,
+      "title": "Oppladning til Spania-Frankrike",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa05071426/192d1ba3-6.smil/thumb.jpg?t=1422&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1824,
+      "title": "Overskrifter 07:30",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa05071426/192d1ba3-6.smil/thumb.jpg?t=1850&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1828,
+      "title": "Folkehyllest av landslaget",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa05071426/192d1ba3-6.smil/thumb.jpg?t=1853&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1924,
+      "title": "Dyr strømsommer i Europa",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa05071426/192d1ba3-6.smil/thumb.jpg?t=1950&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2049,
+      "title": "Preget etter angrep i Hormuzstredet",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa05071426/192d1ba3-6.smil/thumb.jpg?t=2074&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2104,
+      "title": "Skogbrann i Spania",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa05071426/192d1ba3-6.smil/thumb.jpg?t=2129&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2201,
+      "title": "Norwegian gikk flere millioner i minus",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa05071426/192d1ba3-6.smil/thumb.jpg?t=2227&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2220,
+      "title": "Pågrepet Spania",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa05071426/192d1ba3-6.smil/thumb.jpg?t=2246&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2260,
+      "title": "Røyking på festivaler",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa05071426/192d1ba3-6.smil/thumb.jpg?t=2285&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2400,
+      "title": "Åpning 07:40",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa05071426/192d1ba3-6.smil/thumb.jpg?t=2426&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2422,
+      "title": "Varme øker faren for bakterier i sjøen",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa05071426/192d1ba3-6.smil/thumb.jpg?t=2448&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2799,
+      "title": "Fotballglede i Frankrike",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa05071426/192d1ba3-6.smil/thumb.jpg?t=2825&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3082,
+      "title": "Cruiseauke utanom sommaren",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa05071426/192d1ba3-6.smil/thumb.jpg?t=3107&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3251,
+      "title": "Forsikringssaker om sommeren",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa05071426/192d1ba3-6.smil/thumb.jpg?t=3276&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3304,
+      "title": "Flyktninger flytter fra nord",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa05071426/192d1ba3-6.smil/thumb.jpg?t=3329&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3551,
+      "title": "Hør Sommer i P2,",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa05071426/192d1ba3-6.smil/thumb.jpg?t=3576&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3606,
+      "title": "NRK Nyheter 08:00",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa05071426/192d1ba3-6.smil/thumb.jpg?t=3632&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3781,
+      "title": "Åpning 08:03",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa05071426/192d1ba3-6.smil/thumb.jpg?t=3806&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3831,
+      "title": "Norske Andrea måtte løpe i sikkerhet",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa05071426/192d1ba3-6.smil/thumb.jpg?t=3856&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4018,
+      "title": "Varmebølge i Storbritannia",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa05071426/192d1ba3-6.smil/thumb.jpg?t=4043&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4318,
+      "title": "Norwegian taper i andre kvartal",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa05071426/192d1ba3-6.smil/thumb.jpg?t=4343&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4542,
+      "title": "Overskrifter 08:15",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa05071426/192d1ba3-6.smil/thumb.jpg?t=4567&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4585,
+      "title": "14 juli og semifinale Spania- Frankrike",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa05071426/192d1ba3-6.smil/thumb.jpg?t=4610&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4877,
+      "title": "Folkehyllest av landslaget",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa05071426/192d1ba3-6.smil/thumb.jpg?t=4903&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5091,
+      "title": "Vil stoppe oppkjøp av Warner Bros",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa05071426/192d1ba3-6.smil/thumb.jpg?t=5117&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5373,
+      "title": "Campingforbud under tørrfiskstativ",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa05071426/192d1ba3-6.smil/thumb.jpg?t=5398&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5556,
+      "title": "DNBs resultater første halvår",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa05071426/192d1ba3-6.smil/thumb.jpg?t=5581&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5783,
+      "title": "Ny bølge med ICE-arrestasjoner i USA",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa05071426/192d1ba3-6.smil/thumb.jpg?t=5808&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6003,
+      "title": "Røyking på festivaler",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa05071426/192d1ba3-6.smil/thumb.jpg?t=6029&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6160,
+      "title": "Hør P2-pulsen i NRK P2",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa05071426/192d1ba3-6.smil/thumb.jpg?t=6186&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6235,
+      "title": "Anmeldelse: «En moderne middelalder»",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa05071426/192d1ba3-6.smil/thumb.jpg?t=6261&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6604,
+      "title": "Slik takler du VM-sorgen",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa05071426/192d1ba3-6.smil/thumb.jpg?t=6629&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6828,
+      "title": "Oppladning til Spania-Frankrike",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa05071426/192d1ba3-6.smil/thumb.jpg?t=6853&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6928,
+      "title": "Frist for Høiby-anke utløper kl.12",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa05071426/192d1ba3-6.smil/thumb.jpg?t=6954&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6960,
+      "title": "Været i dag",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa05071426/192d1ba3-6.smil/thumb.jpg?t=6986&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7190,
+      "title": "Avslutning",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa05071426/192d1ba3-6.smil/thumb.jpg?t=7203.16&scale=480x270&v=high"
+    }
+  ]
+}
