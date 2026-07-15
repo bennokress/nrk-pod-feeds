@@ -1,0 +1,108 @@
+{
+  "version": "1.2.0",
+  "title": "Norsk seier!",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 7,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa19071526/e08bbb72-7.smil/thumb.jpg?t=32&scale=480x270&v=high"
+    },
+    {
+      "startTime": 51,
+      "title": "Matbud snikfilmer",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa19071526/e08bbb72-7.smil/thumb.jpg?t=76&scale=480x270&v=high"
+    },
+    {
+      "startTime": 172,
+      "title": "Gjest",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa19071526/e08bbb72-7.smil/thumb.jpg?t=198&scale=480x270&v=high"
+    },
+    {
+      "startTime": 297,
+      "title": "USA og Iran",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa19071526/e08bbb72-7.smil/thumb.jpg?t=323&scale=480x270&v=high"
+    },
+    {
+      "startTime": 388,
+      "title": "Direkte: Beirut",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa19071526/e08bbb72-7.smil/thumb.jpg?t=414&scale=480x270&v=high"
+    },
+    {
+      "startTime": 499,
+      "title": "Direkte: Washington",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa19071526/e08bbb72-7.smil/thumb.jpg?t=525&scale=480x270&v=high"
+    },
+    {
+      "startTime": 606,
+      "title": "Hetebølge i Norge",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa19071526/e08bbb72-7.smil/thumb.jpg?t=631&scale=480x270&v=high"
+    },
+    {
+      "startTime": 837,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa19071526/e08bbb72-7.smil/thumb.jpg?t=862&scale=480x270&v=high"
+    },
+    {
+      "startTime": 913,
+      "title": "Utenriksnyheter",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa19071526/e08bbb72-7.smil/thumb.jpg?t=939&scale=480x270&v=high"
+    },
+    {
+      "startTime": 998,
+      "title": "Direkte: Brüssel",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa19071526/e08bbb72-7.smil/thumb.jpg?t=1023&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1090,
+      "title": "Semifinale VM",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa19071526/e08bbb72-7.smil/thumb.jpg?t=1116&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1161,
+      "title": "Direkte: London",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa19071526/e08bbb72-7.smil/thumb.jpg?t=1186&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1251,
+      "title": "Rivalene i semifinale",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa19071526/e08bbb72-7.smil/thumb.jpg?t=1276&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1302,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa19071526/e08bbb72-7.smil/thumb.jpg?t=1328&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1311,
+      "title": "Wærenskjold seier",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa19071526/e08bbb72-7.smil/thumb.jpg?t=1336&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1395,
+      "title": "På vei inn England-Argentina",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa19071526/e08bbb72-7.smil/thumb.jpg?t=1421&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1419,
+      "title": "Direkte",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa19071526/e08bbb72-7.smil/thumb.jpg?t=1445&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1499,
+      "title": "Kongelig feiring",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa19071526/e08bbb72-7.smil/thumb.jpg?t=1525&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1537,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa19071526/e08bbb72-7.smil/thumb.jpg?t=1563&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1695,
+      "title": "Fant kjempemanet",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa19071526/e08bbb72-7.smil/thumb.jpg?t=1721&scale=480x270&v=high"
+    }
+  ]
+}
