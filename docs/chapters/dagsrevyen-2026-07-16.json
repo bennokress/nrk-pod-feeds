@@ -1,0 +1,103 @@
+{
+  "version": "1.2.0",
+  "title": "Frykter brannstifter er løs",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 8,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa19071626/a46ca6a7-6.smil/thumb.jpg?t=34&scale=480x270&v=high"
+    },
+    {
+      "startTime": 54,
+      "title": "Lav fyllingsgrad",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa19071626/a46ca6a7-6.smil/thumb.jpg?t=80&scale=480x270&v=high"
+    },
+    {
+      "startTime": 141,
+      "title": "Gjest: Anders Lie Brenna",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa19071626/a46ca6a7-6.smil/thumb.jpg?t=166&scale=480x270&v=high"
+    },
+    {
+      "startTime": 232,
+      "title": "Lange køer i Bø",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa19071626/a46ca6a7-6.smil/thumb.jpg?t=257&scale=480x270&v=high"
+    },
+    {
+      "startTime": 328,
+      "title": "Protester i Ukraina",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa19071626/a46ca6a7-6.smil/thumb.jpg?t=354&scale=480x270&v=high"
+    },
+    {
+      "startTime": 442,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa19071626/a46ca6a7-6.smil/thumb.jpg?t=467&scale=480x270&v=high"
+    },
+    {
+      "startTime": 513,
+      "title": "Dyrt å lade bil",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa19071626/a46ca6a7-6.smil/thumb.jpg?t=538&scale=480x270&v=high"
+    },
+    {
+      "startTime": 657,
+      "title": "Kirkebrann",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa19071626/a46ca6a7-6.smil/thumb.jpg?t=682&scale=480x270&v=high"
+    },
+    {
+      "startTime": 744,
+      "title": "Direkte: Nannestad",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa19071626/a46ca6a7-6.smil/thumb.jpg?t=769&scale=480x270&v=high"
+    },
+    {
+      "startTime": 910,
+      "title": "Utenriksnyheter",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa19071626/a46ca6a7-6.smil/thumb.jpg?t=936&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1017,
+      "title": "Vanner rullebanen",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa19071626/a46ca6a7-6.smil/thumb.jpg?t=1042&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1113,
+      "title": "VM-finalehow",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa19071626/a46ca6a7-6.smil/thumb.jpg?t=1138&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1137,
+      "title": "Odd Nerdrum",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa19071626/a46ca6a7-6.smil/thumb.jpg?t=1163&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1301,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa19071626/a46ca6a7-6.smil/thumb.jpg?t=1327&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1310,
+      "title": "Tour de France",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa19071626/a46ca6a7-6.smil/thumb.jpg?t=1335&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1380,
+      "title": "Argentina glede",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa19071626/a46ca6a7-6.smil/thumb.jpg?t=1406&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1408,
+      "title": "England nedtur",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa19071626/a46ca6a7-6.smil/thumb.jpg?t=1434&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1467,
+      "title": "Haaland-feber Dallas-butikk",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa19071626/a46ca6a7-6.smil/thumb.jpg?t=1492&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1545,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa19071626/a46ca6a7-6.smil/thumb.jpg?t=1571&scale=480x270&v=high"
+    }
+  ]
+}
