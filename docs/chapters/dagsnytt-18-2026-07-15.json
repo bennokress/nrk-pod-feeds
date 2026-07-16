@@ -1,0 +1,63 @@
+{
+  "version": "1.2.0",
+  "title": "Står gamle varmerekorder for fall?",
+  "author": "NRK",
+  "podcastName": "Dagsnytt 18",
+  "chapters": [
+    {
+      "startTime": 2,
+      "title": "Dagsnytt atten",
+      "img": "https://nrk-od-world-31.akamaized.net/open/ps/nnfa/nnfa56071526/55ddea0b-6.smil/thumb.jpg?t=27&scale=480x270&v=high"
+    },
+    {
+      "startTime": 57,
+      "title": "Gamle varmerekorder",
+      "img": "https://nrk-od-world-31.akamaized.net/open/ps/nnfa/nnfa56071526/55ddea0b-6.smil/thumb.jpg?t=83&scale=480x270&v=high"
+    },
+    {
+      "startTime": 721,
+      "title": "Faktafeil om formuesskatt",
+      "img": "https://nrk-od-world-31.akamaized.net/open/ps/nnfa/nnfa56071526/55ddea0b-6.smil/thumb.jpg?t=747&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1271,
+      "title": "Systemsvikt etter 22. juli",
+      "img": "https://nrk-od-world-31.akamaized.net/open/ps/nnfa/nnfa56071526/55ddea0b-6.smil/thumb.jpg?t=1297&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1771,
+      "title": "Kommer senere",
+      "img": "https://nrk-od-world-31.akamaized.net/open/ps/nnfa/nnfa56071526/55ddea0b-6.smil/thumb.jpg?t=1797&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1783,
+      "title": "Rangering av festivaldeltakere",
+      "img": "https://nrk-od-world-31.akamaized.net/open/ps/nnfa/nnfa56071526/55ddea0b-6.smil/thumb.jpg?t=1808&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2332,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-31.akamaized.net/open/ps/nnfa/nnfa56071526/55ddea0b-6.smil/thumb.jpg?t=2358&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2345,
+      "title": "Digitalt tilsyn på sykehjem",
+      "img": "https://nrk-od-world-31.akamaized.net/open/ps/nnfa/nnfa56071526/55ddea0b-6.smil/thumb.jpg?t=2370&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2883,
+      "title": "Aktiv dødshjelp i Frankrike",
+      "img": "https://nrk-od-world-31.akamaized.net/open/ps/nnfa/nnfa56071526/55ddea0b-6.smil/thumb.jpg?t=2909&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3526,
+      "title": "AVSLUTNING",
+      "img": "https://nrk-od-world-31.akamaized.net/open/ps/nnfa/nnfa56071526/55ddea0b-6.smil/thumb.jpg?t=3545.12&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3529,
+      "title": "SLUTTKJENNING",
+      "img": "https://nrk-od-world-31.akamaized.net/open/ps/nnfa/nnfa56071526/55ddea0b-6.smil/thumb.jpg?t=3545.12&scale=480x270&v=high"
+    }
+  ]
+}
