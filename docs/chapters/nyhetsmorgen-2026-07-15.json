@@ -1,0 +1,243 @@
+{
+  "version": "1.2.0",
+  "title": "Kan bli ny varmerekord i dag",
+  "author": "NRK",
+  "podcastName": "Nyhetsmorgen",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "NRK Nyheter 07:00",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa05071526/253223cb-6.smil/thumb.jpg?t=26&scale=480x270&v=high"
+    },
+    {
+      "startTime": 180,
+      "title": "Åpning 07:03",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa05071526/253223cb-6.smil/thumb.jpg?t=206&scale=480x270&v=high"
+    },
+    {
+      "startTime": 259,
+      "title": "Delirium i varmen",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa05071526/253223cb-6.smil/thumb.jpg?t=285&scale=480x270&v=high"
+    },
+    {
+      "startTime": 454,
+      "title": "Ta vare på eldre og sårbare i varmen",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa05071526/253223cb-6.smil/thumb.jpg?t=479&scale=480x270&v=high"
+    },
+    {
+      "startTime": 714,
+      "title": "DKOA Matbud filmer kunder",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa05071526/253223cb-6.smil/thumb.jpg?t=739&scale=480x270&v=high"
+    },
+    {
+      "startTime": 889,
+      "title": "DKRO Halland rammet av Haaland-feber",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa05071526/253223cb-6.smil/thumb.jpg?t=914&scale=480x270&v=high"
+    },
+    {
+      "startTime": 935,
+      "title": "Overskrifter 07:15",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa05071526/253223cb-6.smil/thumb.jpg?t=961&scale=480x270&v=high"
+    },
+    {
+      "startTime": 973,
+      "title": "USA - Iran",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa05071526/253223cb-6.smil/thumb.jpg?t=998&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1194,
+      "title": "VM Frankrike-Spania",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa05071526/253223cb-6.smil/thumb.jpg?t=1219&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1342,
+      "title": "VM-kommentator",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa05071526/253223cb-6.smil/thumb.jpg?t=1367&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1606,
+      "title": "Kjenner på solskam",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa05071526/253223cb-6.smil/thumb.jpg?t=1632&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1773,
+      "title": "TR Historiske kjendiser: Katharine Hepburn",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa05071526/253223cb-6.smil/thumb.jpg?t=1799&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1796,
+      "title": "Overskrifter 07:30",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa05071526/253223cb-6.smil/thumb.jpg?t=1822&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1828,
+      "title": "Meteorolog om heten",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa05071526/253223cb-6.smil/thumb.jpg?t=1853&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1974,
+      "title": "Delirium i varmen",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa05071526/253223cb-6.smil/thumb.jpg?t=1999&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2111,
+      "title": "USA - Iran",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa05071526/253223cb-6.smil/thumb.jpg?t=2137&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2184,
+      "title": "Halland rammet av Haaland-feber",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa05071526/253223cb-6.smil/thumb.jpg?t=2209&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2277,
+      "title": "Mat fra havet",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa05071526/253223cb-6.smil/thumb.jpg?t=2302&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2400,
+      "title": "Åpning 07:40",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa05071526/253223cb-6.smil/thumb.jpg?t=2425&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2420,
+      "title": "DKTR Moderne landbruk meir sårbart",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa05071526/253223cb-6.smil/thumb.jpg?t=2445&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2701,
+      "title": "Folks tips i varmen",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa05071526/253223cb-6.smil/thumb.jpg?t=2727&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2782,
+      "title": "Slik takler Dalen Hotel hetebølgen",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa05071526/253223cb-6.smil/thumb.jpg?t=2808&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3008,
+      "title": "Venezuela etter jordskjelvet",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa05071526/253223cb-6.smil/thumb.jpg?t=3033&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3297,
+      "title": "DKBU Kan bli varmerekord",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa05071526/253223cb-6.smil/thumb.jpg?t=3322&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3568,
+      "title": "TR SOMMER I P2_UKE 28_29",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa05071526/253223cb-6.smil/thumb.jpg?t=3594&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3602,
+      "title": "NRK Nyheter 08:00",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa05071526/253223cb-6.smil/thumb.jpg?t=3627&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3780,
+      "title": "Åpning 08:03",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa05071526/253223cb-6.smil/thumb.jpg?t=3805&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3854,
+      "title": "Meteorolog om heten",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa05071526/253223cb-6.smil/thumb.jpg?t=3880&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3971,
+      "title": "Delirium i varmen",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa05071526/253223cb-6.smil/thumb.jpg?t=3996&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4172,
+      "title": "Aktiv dødshjelp i Frankrike",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa05071526/253223cb-6.smil/thumb.jpg?t=4198&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4447,
+      "title": "VM Frankrike-Spania",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa05071526/253223cb-6.smil/thumb.jpg?t=4472&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4578,
+      "title": "Gjenhør VM-kommentator",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa05071526/253223cb-6.smil/thumb.jpg?t=4604&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4725,
+      "title": "Trumps fravær i VM",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa05071526/253223cb-6.smil/thumb.jpg?t=4750&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5144,
+      "title": "DKOA Matbud filmer kunder",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa05071526/253223cb-6.smil/thumb.jpg?t=5169&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5314,
+      "title": "Hvor god er norsk økonomi?",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa05071526/253223cb-6.smil/thumb.jpg?t=5339&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5513,
+      "title": "Overskrifter 08:30",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa05071526/253223cb-6.smil/thumb.jpg?t=5539&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5574,
+      "title": "Gjenhøyr USA - Iran",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa05071526/253223cb-6.smil/thumb.jpg?t=5600&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5789,
+      "title": "DKRO Halland rammet av Haaland-feber",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa05071526/253223cb-6.smil/thumb.jpg?t=5814&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6042,
+      "title": "Hva skal vi gjøre med fotballtrøyene nå",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa05071526/253223cb-6.smil/thumb.jpg?t=6068&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6285,
+      "title": "DIR Før P2-pulsen i NRK P2",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa05071526/253223cb-6.smil/thumb.jpg?t=6310&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6366,
+      "title": "Nattestengt SoMe i Storbritannia",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa05071526/253223cb-6.smil/thumb.jpg?t=6391&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6525,
+      "title": "Mat fra havet",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa05071526/253223cb-6.smil/thumb.jpg?t=6551&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6718,
+      "title": "DKTL Varme påvirker melkekyr",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa05071526/253223cb-6.smil/thumb.jpg?t=6743&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6819,
+      "title": "DKSL Formoe får med seg alle sabeltannshow",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa05071526/253223cb-6.smil/thumb.jpg?t=6844&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6822,
+      "title": "DKTL Varme påvirker melkekyr",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa05071526/253223cb-6.smil/thumb.jpg?t=6848&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6905,
+      "title": "DKSL Formoe får med seg alle sabeltannshow",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa05071526/253223cb-6.smil/thumb.jpg?t=6930&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7047,
+      "title": "GJEST Været i dag",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa05071526/253223cb-6.smil/thumb.jpg?t=7073&scale=480x270&v=high"
+    }
+  ]
+}
