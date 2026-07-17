@@ -1,0 +1,218 @@
+{
+  "version": "1.2.0",
+  "title": "Drama til siste sekund",
+  "author": "NRK",
+  "podcastName": "Nyhetsmorgen",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "NRK Nyheter 07:00",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa05071626/a034c6f6-8.smil/thumb.jpg?t=26&scale=480x270&v=high"
+    },
+    {
+      "startTime": 182,
+      "title": "Åpning 07:03",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa05071626/a034c6f6-8.smil/thumb.jpg?t=207&scale=480x270&v=high"
+    },
+    {
+      "startTime": 247,
+      "title": "Opphetet debatt om nedkjøling",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa05071626/a034c6f6-8.smil/thumb.jpg?t=273&scale=480x270&v=high"
+    },
+    {
+      "startTime": 489,
+      "title": "Airconditiondebatt i Europa",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa05071626/a034c6f6-8.smil/thumb.jpg?t=515&scale=480x270&v=high"
+    },
+    {
+      "startTime": 648,
+      "title": "Siste om krigen USA-Iran",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa05071626/a034c6f6-8.smil/thumb.jpg?t=674&scale=480x270&v=high"
+    },
+    {
+      "startTime": 890,
+      "title": "Overskrifter 07:15",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa05071626/a034c6f6-8.smil/thumb.jpg?t=916&scale=480x270&v=high"
+    },
+    {
+      "startTime": 945,
+      "title": "Drømmen knust for England",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa05071626/a034c6f6-8.smil/thumb.jpg?t=971&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1113,
+      "title": "Bengt Eriksen om VM-semifinalen",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa05071626/a034c6f6-8.smil/thumb.jpg?t=1139&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1336,
+      "title": "Botox og skuespillere",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa05071626/a034c6f6-8.smil/thumb.jpg?t=1362&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1572,
+      "title": "DKRO KI på ferie",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa05071626/a034c6f6-8.smil/thumb.jpg?t=1598&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1799,
+      "title": "Overskrifter 07:30",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa05071626/a034c6f6-8.smil/thumb.jpg?t=1825&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1841,
+      "title": "Opphetet debatt om nedkjøling",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa05071626/a034c6f6-8.smil/thumb.jpg?t=1866&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1953,
+      "title": "Drømmen knust for England",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa05071626/a034c6f6-8.smil/thumb.jpg?t=1978&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2068,
+      "title": "Siste om krigen USA-Iran",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa05071626/a034c6f6-8.smil/thumb.jpg?t=2094&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2166,
+      "title": "DKOS Tung elbil skaper tilhengerproblemer",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa05071626/a034c6f6-8.smil/thumb.jpg?t=2191&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2272,
+      "title": "Botox og skuespillere",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa05071626/a034c6f6-8.smil/thumb.jpg?t=2297&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2399,
+      "title": "Åpning 07:40",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa05071626/a034c6f6-8.smil/thumb.jpg?t=2425&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2420,
+      "title": "Nye arter i havet",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa05071626/a034c6f6-8.smil/thumb.jpg?t=2446&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2776,
+      "title": "Amerikansk turistløft etter VM",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa05071626/a034c6f6-8.smil/thumb.jpg?t=2802&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2974,
+      "title": "Fotball-VM og engelsk selvfølelse",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa05071626/a034c6f6-8.smil/thumb.jpg?t=2999&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3310,
+      "title": "DKSF Barn og smertelindring",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa05071626/a034c6f6-8.smil/thumb.jpg?t=3335&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3570,
+      "title": "Trailer Finale VM",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa05071626/a034c6f6-8.smil/thumb.jpg?t=3596&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3598,
+      "title": "NRK Nyheter 08:00",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa05071626/a034c6f6-8.smil/thumb.jpg?t=3623&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3779,
+      "title": "Åpning 08:03",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa05071626/a034c6f6-8.smil/thumb.jpg?t=3805&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3853,
+      "title": "Opphetet debatt om nedkjøling",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa05071626/a034c6f6-8.smil/thumb.jpg?t=3879&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4004,
+      "title": "Bruk av aircondition i Norge",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa05071626/a034c6f6-8.smil/thumb.jpg?t=4029&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4248,
+      "title": "DKOS Tung elbil skaper tilhengerproblemer",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa05071626/a034c6f6-8.smil/thumb.jpg?t=4273&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4462,
+      "title": "Drømmen knust for England",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa05071626/a034c6f6-8.smil/thumb.jpg?t=4488&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4585,
+      "title": "Bengt Eriksen om VM-semifinalen",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa05071626/a034c6f6-8.smil/thumb.jpg?t=4611&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4795,
+      "title": "Siste om krigen USA-Iran",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa05071626/a034c6f6-8.smil/thumb.jpg?t=4820&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5036,
+      "title": "USA innfører testosteronkrav for soldater",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa05071626/a034c6f6-8.smil/thumb.jpg?t=5061&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5262,
+      "title": "Staten bør punge ut for utenlandsstudier",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa05071626/a034c6f6-8.smil/thumb.jpg?t=5288&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5457,
+      "title": "Overskrifter 08:30",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa05071626/a034c6f6-8.smil/thumb.jpg?t=5483&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5502,
+      "title": "Britiske reaksjoner etter semifinalen",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa05071626/a034c6f6-8.smil/thumb.jpg?t=5528&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5781,
+      "title": "Amerikansk turistløft etter VM",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa05071626/a034c6f6-8.smil/thumb.jpg?t=5807&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5983,
+      "title": "Haalands stil hylles",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa05071626/a034c6f6-8.smil/thumb.jpg?t=6009&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6139,
+      "title": "DIR Før P2-pulsen i NRK P2",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa05071626/a034c6f6-8.smil/thumb.jpg?t=6165&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6244,
+      "title": "DKTR Flere blir lærling på båt",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa05071626/a034c6f6-8.smil/thumb.jpg?t=6269&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6365,
+      "title": "Botox og skuespillere",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa05071626/a034c6f6-8.smil/thumb.jpg?t=6391&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6585,
+      "title": "Anmeldelse: The Odyssey",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa05071626/a034c6f6-8.smil/thumb.jpg?t=6610&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6814,
+      "title": "DKHO VM-feberens fremtid",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa05071626/a034c6f6-8.smil/thumb.jpg?t=6840&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7056,
+      "title": "GJEST Været i dag",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa05071626/a034c6f6-8.smil/thumb.jpg?t=7081&scale=480x270&v=high"
+    }
+  ]
+}
