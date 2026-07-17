@@ -1,0 +1,63 @@
+{
+  "version": "1.2.0",
+  "title": "Nesten 30 varmegrader på hjerteintensiven",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-18.akamaized.net/open/ps/nnfa/nnfa23071626/0b0f7b24-9.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 27,
+      "title": "Hetebølge Ullevål",
+      "img": "https://nrk-od-world-18.akamaized.net/open/ps/nnfa/nnfa23071626/0b0f7b24-9.smil/thumb.jpg?t=52&scale=480x270&v=high"
+    },
+    {
+      "startTime": 143,
+      "title": "Sarpsborg ulykke",
+      "img": "https://nrk-od-world-18.akamaized.net/open/ps/nnfa/nnfa23071626/0b0f7b24-9.smil/thumb.jpg?t=168&scale=480x270&v=high"
+    },
+    {
+      "startTime": 162,
+      "title": "Trump tale",
+      "img": "https://nrk-od-world-18.akamaized.net/open/ps/nnfa/nnfa23071626/0b0f7b24-9.smil/thumb.jpg?t=188&scale=480x270&v=high"
+    },
+    {
+      "startTime": 203,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-18.akamaized.net/open/ps/nnfa/nnfa23071626/0b0f7b24-9.smil/thumb.jpg?t=229&scale=480x270&v=high"
+    },
+    {
+      "startTime": 326,
+      "title": "Håper på økt turisme",
+      "img": "https://nrk-od-world-18.akamaized.net/open/ps/nnfa/nnfa23071626/0b0f7b24-9.smil/thumb.jpg?t=352&scale=480x270&v=high"
+    },
+    {
+      "startTime": 445,
+      "title": "Kirkebrann",
+      "img": "https://nrk-od-world-18.akamaized.net/open/ps/nnfa/nnfa23071626/0b0f7b24-9.smil/thumb.jpg?t=471&scale=480x270&v=high"
+    },
+    {
+      "startTime": 556,
+      "title": "Rygel død",
+      "img": "https://nrk-od-world-18.akamaized.net/open/ps/nnfa/nnfa23071626/0b0f7b24-9.smil/thumb.jpg?t=582&scale=480x270&v=high"
+    },
+    {
+      "startTime": 586,
+      "title": "VIF - AaFK",
+      "img": "https://nrk-od-world-18.akamaized.net/open/ps/nnfa/nnfa23071626/0b0f7b24-9.smil/thumb.jpg?t=611&scale=480x270&v=high"
+    },
+    {
+      "startTime": 672,
+      "title": "Sportspakke Golf, Tennis",
+      "img": "https://nrk-od-world-18.akamaized.net/open/ps/nnfa/nnfa23071626/0b0f7b24-9.smil/thumb.jpg?t=698&scale=480x270&v=high"
+    },
+    {
+      "startTime": 764,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-18.akamaized.net/open/ps/nnfa/nnfa23071626/0b0f7b24-9.smil/thumb.jpg?t=790&scale=480x270&v=high"
+    }
+  ]
+}
