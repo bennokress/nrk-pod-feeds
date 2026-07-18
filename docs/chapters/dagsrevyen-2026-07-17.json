@@ -1,0 +1,83 @@
+{
+  "version": "1.2.0",
+  "title": "Kraftig husbrann",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 10,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-17.akamaized.net/open/ps/nnfa/nnfa19071726/49cd27a3-8.smil/thumb.jpg?t=36&scale=480x270&v=high"
+    },
+    {
+      "startTime": 36,
+      "title": "Brann Drammen",
+      "img": "https://nrk-od-world-17.akamaized.net/open/ps/nnfa/nnfa19071726/49cd27a3-8.smil/thumb.jpg?t=62&scale=480x270&v=high"
+    },
+    {
+      "startTime": 81,
+      "title": "Direkte Krokstadelva",
+      "img": "https://nrk-od-world-17.akamaized.net/open/ps/nnfa/nnfa19071726/49cd27a3-8.smil/thumb.jpg?t=106&scale=480x270&v=high"
+    },
+    {
+      "startTime": 165,
+      "title": "Direkte: Krokstadelva",
+      "img": "https://nrk-od-world-17.akamaized.net/open/ps/nnfa/nnfa19071726/49cd27a3-8.smil/thumb.jpg?t=190&scale=480x270&v=high"
+    },
+    {
+      "startTime": 260,
+      "title": "Direkte: Drammen",
+      "img": "https://nrk-od-world-17.akamaized.net/open/ps/nnfa/nnfa19071726/49cd27a3-8.smil/thumb.jpg?t=285&scale=480x270&v=high"
+    },
+    {
+      "startTime": 423,
+      "title": "Brann Drammen",
+      "img": "https://nrk-od-world-17.akamaized.net/open/ps/nnfa/nnfa19071726/49cd27a3-8.smil/thumb.jpg?t=448&scale=480x270&v=high"
+    },
+    {
+      "startTime": 482,
+      "title": "Trump om valgpåvirkning",
+      "img": "https://nrk-od-world-17.akamaized.net/open/ps/nnfa/nnfa19071726/49cd27a3-8.smil/thumb.jpg?t=507&scale=480x270&v=high"
+    },
+    {
+      "startTime": 588,
+      "title": "Direkte: Washington",
+      "img": "https://nrk-od-world-17.akamaized.net/open/ps/nnfa/nnfa19071726/49cd27a3-8.smil/thumb.jpg?t=614&scale=480x270&v=high"
+    },
+    {
+      "startTime": 691,
+      "title": "Direkte: Krokstadelva",
+      "img": "https://nrk-od-world-17.akamaized.net/open/ps/nnfa/nnfa19071726/49cd27a3-8.smil/thumb.jpg?t=716&scale=480x270&v=high"
+    },
+    {
+      "startTime": 875,
+      "title": "Gutter utpresses",
+      "img": "https://nrk-od-world-17.akamaized.net/open/ps/nnfa/nnfa19071726/49cd27a3-8.smil/thumb.jpg?t=901&scale=480x270&v=high"
+    },
+    {
+      "startTime": 994,
+      "title": "Utenriksnyheter",
+      "img": "https://nrk-od-world-17.akamaized.net/open/ps/nnfa/nnfa19071726/49cd27a3-8.smil/thumb.jpg?t=1020&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1141,
+      "title": "Snart VM-finale",
+      "img": "https://nrk-od-world-17.akamaized.net/open/ps/nnfa/nnfa19071726/49cd27a3-8.smil/thumb.jpg?t=1166&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1263,
+      "title": "Gjest: Bengt Eriksen",
+      "img": "https://nrk-od-world-17.akamaized.net/open/ps/nnfa/nnfa19071726/49cd27a3-8.smil/thumb.jpg?t=1289&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1430,
+      "title": "Direkte: Krokstadelva",
+      "img": "https://nrk-od-world-17.akamaized.net/open/ps/nnfa/nnfa19071726/49cd27a3-8.smil/thumb.jpg?t=1456&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1651,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-17.akamaized.net/open/ps/nnfa/nnfa19071726/49cd27a3-8.smil/thumb.jpg?t=1677&scale=480x270&v=high"
+    }
+  ]
+}
