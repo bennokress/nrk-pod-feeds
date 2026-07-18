@@ -1,0 +1,58 @@
+{
+  "version": "1.2.0",
+  "title": "Ikke kontroll på katastrofebrann",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa23071726/615e9691-8.smil/thumb.jpg?t=26&scale=480x270&v=high"
+    },
+    {
+      "startTime": 10,
+      "title": "Direkte Drammen",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa23071726/615e9691-8.smil/thumb.jpg?t=35&scale=480x270&v=high"
+    },
+    {
+      "startTime": 440,
+      "title": "Storbrann Drammen",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa23071726/615e9691-8.smil/thumb.jpg?t=465&scale=480x270&v=high"
+    },
+    {
+      "startTime": 536,
+      "title": "Eliteserien",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa23071726/615e9691-8.smil/thumb.jpg?t=561&scale=480x270&v=high"
+    },
+    {
+      "startTime": 598,
+      "title": "Fotball-VM",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa23071726/615e9691-8.smil/thumb.jpg?t=624&scale=480x270&v=high"
+    },
+    {
+      "startTime": 654,
+      "title": "Nyhetspakke",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa23071726/615e9691-8.smil/thumb.jpg?t=680&scale=480x270&v=high"
+    },
+    {
+      "startTime": 719,
+      "title": "Friidrett",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa23071726/615e9691-8.smil/thumb.jpg?t=745&scale=480x270&v=high"
+    },
+    {
+      "startTime": 806,
+      "title": "Direkte Drammen",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa23071726/615e9691-8.smil/thumb.jpg?t=832&scale=480x270&v=high"
+    },
+    {
+      "startTime": 907,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa23071726/615e9691-8.smil/thumb.jpg?t=933&scale=480x270&v=high"
+    },
+    {
+      "startTime": 976,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa23071726/615e9691-8.smil/thumb.jpg?t=1001&scale=480x270&v=high"
+    }
+  ]
+}
