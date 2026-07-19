@@ -1,0 +1,128 @@
+{
+  "version": "1.2.0",
+  "title": "Flere hundre hjemløse",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 6,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-41.akamaized.net/open/ps/nnfa/nnfa19071826/5104c77b-6.smil/thumb.jpg?t=32&scale=480x270&v=high"
+    },
+    {
+      "startTime": 81,
+      "title": "Direkte Krokstadelva",
+      "img": "https://nrk-od-world-41.akamaized.net/open/ps/nnfa/nnfa19071826/5104c77b-6.smil/thumb.jpg?t=106&scale=480x270&v=high"
+    },
+    {
+      "startTime": 111,
+      "title": "Brannen i Drammen",
+      "img": "https://nrk-od-world-41.akamaized.net/open/ps/nnfa/nnfa19071826/5104c77b-6.smil/thumb.jpg?t=137&scale=480x270&v=high"
+    },
+    {
+      "startTime": 243,
+      "title": "Direkte Krokstadelva",
+      "img": "https://nrk-od-world-41.akamaized.net/open/ps/nnfa/nnfa19071826/5104c77b-6.smil/thumb.jpg?t=269&scale=480x270&v=high"
+    },
+    {
+      "startTime": 331,
+      "title": "Kronprinsbesøk",
+      "img": "https://nrk-od-world-41.akamaized.net/open/ps/nnfa/nnfa19071826/5104c77b-6.smil/thumb.jpg?t=357&scale=480x270&v=high"
+    },
+    {
+      "startTime": 367,
+      "title": "Gjest: Ole Kr Stoltenberg",
+      "img": "https://nrk-od-world-41.akamaized.net/open/ps/nnfa/nnfa19071826/5104c77b-6.smil/thumb.jpg?t=393&scale=480x270&v=high"
+    },
+    {
+      "startTime": 534,
+      "title": "Brannen i Drammen",
+      "img": "https://nrk-od-world-41.akamaized.net/open/ps/nnfa/nnfa19071826/5104c77b-6.smil/thumb.jpg?t=560&scale=480x270&v=high"
+    },
+    {
+      "startTime": 710,
+      "title": "Ordfører om brann",
+      "img": "https://nrk-od-world-41.akamaized.net/open/ps/nnfa/nnfa19071826/5104c77b-6.smil/thumb.jpg?t=736&scale=480x270&v=high"
+    },
+    {
+      "startTime": 761,
+      "title": "Direkte Pårørende Hotel",
+      "img": "https://nrk-od-world-41.akamaized.net/open/ps/nnfa/nnfa19071826/5104c77b-6.smil/thumb.jpg?t=786&scale=480x270&v=high"
+    },
+    {
+      "startTime": 870,
+      "title": "Brannen i Drammen",
+      "img": "https://nrk-od-world-41.akamaized.net/open/ps/nnfa/nnfa19071826/5104c77b-6.smil/thumb.jpg?t=895&scale=480x270&v=high"
+    },
+    {
+      "startTime": 907,
+      "title": "Gjest: Aas Hansen",
+      "img": "https://nrk-od-world-41.akamaized.net/open/ps/nnfa/nnfa19071826/5104c77b-6.smil/thumb.jpg?t=932&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1072,
+      "title": "Brann i Drammen",
+      "img": "https://nrk-od-world-41.akamaized.net/open/ps/nnfa/nnfa19071826/5104c77b-6.smil/thumb.jpg?t=1098&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1205,
+      "title": "Utenriksnyheter",
+      "img": "https://nrk-od-world-41.akamaized.net/open/ps/nnfa/nnfa19071826/5104c77b-6.smil/thumb.jpg?t=1230&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1304,
+      "title": "Fødte 22. juli",
+      "img": "https://nrk-od-world-41.akamaized.net/open/ps/nnfa/nnfa19071826/5104c77b-6.smil/thumb.jpg?t=1330&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1730,
+      "title": "Baumann",
+      "img": "https://nrk-od-world-41.akamaized.net/open/ps/nnfa/nnfa19071826/5104c77b-6.smil/thumb.jpg?t=1756&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1756,
+      "title": "Stones",
+      "img": "https://nrk-od-world-41.akamaized.net/open/ps/nnfa/nnfa19071826/5104c77b-6.smil/thumb.jpg?t=1782&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1788,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-41.akamaized.net/open/ps/nnfa/nnfa19071826/5104c77b-6.smil/thumb.jpg?t=1813&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1797,
+      "title": "Fotball-VM",
+      "img": "https://nrk-od-world-41.akamaized.net/open/ps/nnfa/nnfa19071826/5104c77b-6.smil/thumb.jpg?t=1822&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1877,
+      "title": "Eliteserien",
+      "img": "https://nrk-od-world-41.akamaized.net/open/ps/nnfa/nnfa19071826/5104c77b-6.smil/thumb.jpg?t=1902&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1903,
+      "title": "Tour de France",
+      "img": "https://nrk-od-world-41.akamaized.net/open/ps/nnfa/nnfa19071826/5104c77b-6.smil/thumb.jpg?t=1929&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1927,
+      "title": "Diamond League",
+      "img": "https://nrk-od-world-41.akamaized.net/open/ps/nnfa/nnfa19071826/5104c77b-6.smil/thumb.jpg?t=1952&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2016,
+      "title": "Pay to Play",
+      "img": "https://nrk-od-world-41.akamaized.net/open/ps/nnfa/nnfa19071826/5104c77b-6.smil/thumb.jpg?t=2042&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2180,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-41.akamaized.net/open/ps/nnfa/nnfa19071826/5104c77b-6.smil/thumb.jpg?t=2206&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2336,
+      "title": "Direkte Krokstadelva",
+      "img": "https://nrk-od-world-41.akamaized.net/open/ps/nnfa/nnfa19071826/5104c77b-6.smil/thumb.jpg?t=2361&scale=480x270&v=high"
+    }
+  ]
+}
