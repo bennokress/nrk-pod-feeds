@@ -1,0 +1,68 @@
+{
+  "version": "1.2.0",
+  "title": "Ikke kontroll",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-67.akamaized.net/open/ps/nnfa/nnfa23071826/d6a0f5f5-6.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 28,
+      "title": "Brann Krokstadelva",
+      "img": "https://nrk-od-world-67.akamaized.net/open/ps/nnfa/nnfa23071826/d6a0f5f5-6.smil/thumb.jpg?t=53&scale=480x270&v=high"
+    },
+    {
+      "startTime": 55,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-67.akamaized.net/open/ps/nnfa/nnfa23071826/d6a0f5f5-6.smil/thumb.jpg?t=81&scale=480x270&v=high"
+    },
+    {
+      "startTime": 206,
+      "title": "Brann Krokstadelva",
+      "img": "https://nrk-od-world-67.akamaized.net/open/ps/nnfa/nnfa23071826/d6a0f5f5-6.smil/thumb.jpg?t=232&scale=480x270&v=high"
+    },
+    {
+      "startTime": 403,
+      "title": "Iran vil trappe opp angrep",
+      "img": "https://nrk-od-world-67.akamaized.net/open/ps/nnfa/nnfa23071826/d6a0f5f5-6.smil/thumb.jpg?t=429&scale=480x270&v=high"
+    },
+    {
+      "startTime": 470,
+      "title": "Protester i Ukraina",
+      "img": "https://nrk-od-world-67.akamaized.net/open/ps/nnfa/nnfa23071826/d6a0f5f5-6.smil/thumb.jpg?t=496&scale=480x270&v=high"
+    },
+    {
+      "startTime": 516,
+      "title": "Eliteserien",
+      "img": "https://nrk-od-world-67.akamaized.net/open/ps/nnfa/nnfa23071826/d6a0f5f5-6.smil/thumb.jpg?t=541&scale=480x270&v=high"
+    },
+    {
+      "startTime": 598,
+      "title": "Friidrett",
+      "img": "https://nrk-od-world-67.akamaized.net/open/ps/nnfa/nnfa23071826/d6a0f5f5-6.smil/thumb.jpg?t=624&scale=480x270&v=high"
+    },
+    {
+      "startTime": 676,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-67.akamaized.net/open/ps/nnfa/nnfa23071826/d6a0f5f5-6.smil/thumb.jpg?t=702&scale=480x270&v=high"
+    },
+    {
+      "startTime": 715,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-67.akamaized.net/open/ps/nnfa/nnfa23071826/d6a0f5f5-6.smil/thumb.jpg?t=740&scale=480x270&v=high"
+    },
+    {
+      "startTime": 783,
+      "title": "Åpning minnested",
+      "img": "https://nrk-od-world-67.akamaized.net/open/ps/nnfa/nnfa23071826/d6a0f5f5-6.smil/thumb.jpg?t=808&scale=480x270&v=high"
+    },
+    {
+      "startTime": 818,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-67.akamaized.net/open/ps/nnfa/nnfa23071826/d6a0f5f5-6.smil/thumb.jpg?t=836.64&scale=480x270&v=high"
+    }
+  ]
+}
