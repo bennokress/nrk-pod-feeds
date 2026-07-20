@@ -1,0 +1,88 @@
+{
+  "version": "1.2.0",
+  "title": "Kraftig brann i Drammen",
+  "author": "NRK",
+  "podcastName": "Dagsnytt 18",
+  "chapters": [
+    {
+      "startTime": 1,
+      "title": "Dagsnytt atten",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa56071726/5aeccc32-6.smil/thumb.jpg?t=26&scale=480x270&v=high"
+    },
+    {
+      "startTime": 51,
+      "title": "Demonstrasjoner i Ukraina",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa56071726/5aeccc32-6.smil/thumb.jpg?t=77&scale=480x270&v=high"
+    },
+    {
+      "startTime": 563,
+      "title": "Yara og gjødselpriser",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa56071726/5aeccc32-6.smil/thumb.jpg?t=589&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1034,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa56071726/5aeccc32-6.smil/thumb.jpg?t=1059&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1041,
+      "title": "Brann i Drammen",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa56071726/5aeccc32-6.smil/thumb.jpg?t=1066&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1400,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa56071726/5aeccc32-6.smil/thumb.jpg?t=1426&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1411,
+      "title": "Mangel på jordmødre",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa56071726/5aeccc32-6.smil/thumb.jpg?t=1436&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1900,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa56071726/5aeccc32-6.smil/thumb.jpg?t=1926&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1911,
+      "title": "Kommer senere",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa56071726/5aeccc32-6.smil/thumb.jpg?t=1937&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1937,
+      "title": "Digitalisering i helsevesenet",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa56071726/5aeccc32-6.smil/thumb.jpg?t=1962&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2361,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa56071726/5aeccc32-6.smil/thumb.jpg?t=2387&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2372,
+      "title": "Ungdom i sommerjobb",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa56071726/5aeccc32-6.smil/thumb.jpg?t=2398&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2957,
+      "title": "Omkamp om datasentre",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa56071726/5aeccc32-6.smil/thumb.jpg?t=2983&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3476,
+      "title": "Brannen i Drammen",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa56071726/5aeccc32-6.smil/thumb.jpg?t=3501&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3516,
+      "title": "AVSLUTNING",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa56071726/5aeccc32-6.smil/thumb.jpg?t=3541&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3519,
+      "title": "SLUTTKJENNING",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa56071726/5aeccc32-6.smil/thumb.jpg?t=3543.96&scale=480x270&v=high"
+    }
+  ]
+}
