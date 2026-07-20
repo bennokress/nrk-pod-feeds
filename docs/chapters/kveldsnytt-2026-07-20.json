@@ -1,0 +1,58 @@
+{
+  "version": "1.2.0",
+  "title": "Mistet alt for andre gang",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-15.akamaized.net/open/ps/nnfa/nnfa23072026/ddd42b21-7.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 27,
+      "title": "Krokstadelva",
+      "img": "https://nrk-od-world-15.akamaized.net/open/ps/nnfa/nnfa23072026/ddd42b21-7.smil/thumb.jpg?t=53&scale=480x270&v=high"
+    },
+    {
+      "startTime": 121,
+      "title": "Krokstadelva dyr",
+      "img": "https://nrk-od-world-15.akamaized.net/open/ps/nnfa/nnfa23072026/ddd42b21-7.smil/thumb.jpg?t=146&scale=480x270&v=high"
+    },
+    {
+      "startTime": 252,
+      "title": "Bot AliExpress",
+      "img": "https://nrk-od-world-15.akamaized.net/open/ps/nnfa/nnfa23072026/ddd42b21-7.smil/thumb.jpg?t=278&scale=480x270&v=high"
+    },
+    {
+      "startTime": 276,
+      "title": "Narkobaron dømt",
+      "img": "https://nrk-od-world-15.akamaized.net/open/ps/nnfa/nnfa23072026/ddd42b21-7.smil/thumb.jpg?t=302&scale=480x270&v=high"
+    },
+    {
+      "startTime": 303,
+      "title": "Rød Ungdom opplever medlemsvekst",
+      "img": "https://nrk-od-world-15.akamaized.net/open/ps/nnfa/nnfa23072026/ddd42b21-7.smil/thumb.jpg?t=328&scale=480x270&v=high"
+    },
+    {
+      "startTime": 427,
+      "title": "Spania velkomst VM",
+      "img": "https://nrk-od-world-15.akamaized.net/open/ps/nnfa/nnfa23072026/ddd42b21-7.smil/thumb.jpg?t=453&scale=480x270&v=high"
+    },
+    {
+      "startTime": 533,
+      "title": "TDF",
+      "img": "https://nrk-od-world-15.akamaized.net/open/ps/nnfa/nnfa23072026/ddd42b21-7.smil/thumb.jpg?t=559&scale=480x270&v=high"
+    },
+    {
+      "startTime": 628,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-15.akamaized.net/open/ps/nnfa/nnfa23072026/ddd42b21-7.smil/thumb.jpg?t=654&scale=480x270&v=high"
+    },
+    {
+      "startTime": 708,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-15.akamaized.net/open/ps/nnfa/nnfa23072026/ddd42b21-7.smil/thumb.jpg?t=733&scale=480x270&v=high"
+    }
+  ]
+}

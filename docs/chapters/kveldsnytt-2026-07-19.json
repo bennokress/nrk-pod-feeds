@@ -1,0 +1,68 @@
+{
+  "version": "1.2.0",
+  "title": "Brannfaren er ikke over",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa23071926/af8fb1eb-7.smil/thumb.jpg?t=26&scale=480x270&v=high"
+    },
+    {
+      "startTime": 34,
+      "title": "VM-finale",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa23071926/af8fb1eb-7.smil/thumb.jpg?t=59&scale=480x270&v=high"
+    },
+    {
+      "startTime": 120,
+      "title": "Brannen nødetater",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa23071926/af8fb1eb-7.smil/thumb.jpg?t=146&scale=480x270&v=high"
+    },
+    {
+      "startTime": 205,
+      "title": "Kronprinsen på besøk",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa23071926/af8fb1eb-7.smil/thumb.jpg?t=230&scale=480x270&v=high"
+    },
+    {
+      "startTime": 296,
+      "title": "Brannen i Krokstadelva",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa23071926/af8fb1eb-7.smil/thumb.jpg?t=321&scale=480x270&v=high"
+    },
+    {
+      "startTime": 377,
+      "title": "Israel trapper opp Gaza-angrep",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa23071926/af8fb1eb-7.smil/thumb.jpg?t=403&scale=480x270&v=high"
+    },
+    {
+      "startTime": 457,
+      "title": "Dødsulykke Kvinesdal",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa23071926/af8fb1eb-7.smil/thumb.jpg?t=483&scale=480x270&v=high"
+    },
+    {
+      "startTime": 473,
+      "title": "Klatreulykke",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa23071926/af8fb1eb-7.smil/thumb.jpg?t=498&scale=480x270&v=high"
+    },
+    {
+      "startTime": 499,
+      "title": "Tornado Sverige",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa23071926/af8fb1eb-7.smil/thumb.jpg?t=524&scale=480x270&v=high"
+    },
+    {
+      "startTime": 517,
+      "title": "Pauseshow",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa23071926/af8fb1eb-7.smil/thumb.jpg?t=542&scale=480x270&v=high"
+    },
+    {
+      "startTime": 607,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa23071926/af8fb1eb-7.smil/thumb.jpg?t=632&scale=480x270&v=high"
+    },
+    {
+      "startTime": 678,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa23071926/af8fb1eb-7.smil/thumb.jpg?t=704&scale=480x270&v=high"
+    }
+  ]
+}
