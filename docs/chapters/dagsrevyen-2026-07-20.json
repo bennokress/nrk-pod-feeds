@@ -1,0 +1,123 @@
+{
+  "version": "1.2.0",
+  "title": "Hjemme med pokalen",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 11,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa19072026/5bed517c-8.smil/thumb.jpg?t=36&scale=480x270&v=high"
+    },
+    {
+      "startTime": 61,
+      "title": "Direkte fra brannsted",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa19072026/5bed517c-8.smil/thumb.jpg?t=86&scale=480x270&v=high"
+    },
+    {
+      "startTime": 112,
+      "title": "Krokstadelva",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa19072026/5bed517c-8.smil/thumb.jpg?t=137&scale=480x270&v=high"
+    },
+    {
+      "startTime": 212,
+      "title": "Direkte fra brannsted",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa19072026/5bed517c-8.smil/thumb.jpg?t=237&scale=480x270&v=high"
+    },
+    {
+      "startTime": 359,
+      "title": "Krokstadelva",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa19072026/5bed517c-8.smil/thumb.jpg?t=385&scale=480x270&v=high"
+    },
+    {
+      "startTime": 587,
+      "title": "22. juli",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa19072026/5bed517c-8.smil/thumb.jpg?t=613&scale=480x270&v=high"
+    },
+    {
+      "startTime": 728,
+      "title": "Storbritannia",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa19072026/5bed517c-8.smil/thumb.jpg?t=753&scale=480x270&v=high"
+    },
+    {
+      "startTime": 739,
+      "title": "Direkte London",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa19072026/5bed517c-8.smil/thumb.jpg?t=765&scale=480x270&v=high"
+    },
+    {
+      "startTime": 782,
+      "title": "Storbritannia",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa19072026/5bed517c-8.smil/thumb.jpg?t=807&scale=480x270&v=high"
+    },
+    {
+      "startTime": 860,
+      "title": "Direkte London",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa19072026/5bed517c-8.smil/thumb.jpg?t=886&scale=480x270&v=high"
+    },
+    {
+      "startTime": 953,
+      "title": "Utenriksnyheter",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa19072026/5bed517c-8.smil/thumb.jpg?t=978&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1028,
+      "title": "Fotball-VM",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa19072026/5bed517c-8.smil/thumb.jpg?t=1053&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1055,
+      "title": "USA etter VM",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa19072026/5bed517c-8.smil/thumb.jpg?t=1081&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1084,
+      "title": "Direkte Washington",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa19072026/5bed517c-8.smil/thumb.jpg?t=1109&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1188,
+      "title": "Fotball-VM",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa19072026/5bed517c-8.smil/thumb.jpg?t=1213&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1307,
+      "title": "Gjest Fidjestøl",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa19072026/5bed517c-8.smil/thumb.jpg?t=1332&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1508,
+      "title": "Tall ships races",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa19072026/5bed517c-8.smil/thumb.jpg?t=1534&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1522,
+      "title": "Direkte Sirevåg",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa19072026/5bed517c-8.smil/thumb.jpg?t=1547&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1635,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa19072026/5bed517c-8.smil/thumb.jpg?t=1661&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1640,
+      "title": "Kevin Keegan død",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa19072026/5bed517c-8.smil/thumb.jpg?t=1665&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1748,
+      "title": "FIFA-ranking",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa19072026/5bed517c-8.smil/thumb.jpg?t=1774&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1771,
+      "title": "Trekning Europliga",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa19072026/5bed517c-8.smil/thumb.jpg?t=1796&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1850,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa19072026/5bed517c-8.smil/thumb.jpg?t=1875&scale=480x270&v=high"
+    }
+  ]
+}

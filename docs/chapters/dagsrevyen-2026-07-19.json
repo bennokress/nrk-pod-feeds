@@ -1,0 +1,83 @@
+{
+  "version": "1.2.0",
+  "title": "Veldig dramatisk",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 10,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa19071926/430f56ca-8.smil/thumb.jpg?t=36&scale=480x270&v=high"
+    },
+    {
+      "startTime": 53,
+      "title": "Brannen i Krokstadelva",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa19071926/430f56ca-8.smil/thumb.jpg?t=78&scale=480x270&v=high"
+    },
+    {
+      "startTime": 181,
+      "title": "Direkte Krokstadelva",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa19071926/430f56ca-8.smil/thumb.jpg?t=207&scale=480x270&v=high"
+    },
+    {
+      "startTime": 327,
+      "title": "Direkte: Drammen",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa19071926/430f56ca-8.smil/thumb.jpg?t=352&scale=480x270&v=high"
+    },
+    {
+      "startTime": 411,
+      "title": "22. juli",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa19071926/430f56ca-8.smil/thumb.jpg?t=436&scale=480x270&v=high"
+    },
+    {
+      "startTime": 523,
+      "title": "Utenriksnyheter",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa19071926/430f56ca-8.smil/thumb.jpg?t=549&scale=480x270&v=high"
+    },
+    {
+      "startTime": 623,
+      "title": "STK- PAKKE",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa19071926/430f56ca-8.smil/thumb.jpg?t=648&scale=480x270&v=high"
+    },
+    {
+      "startTime": 665,
+      "title": "Skogbranner",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa19071926/430f56ca-8.smil/thumb.jpg?t=691&scale=480x270&v=high"
+    },
+    {
+      "startTime": 903,
+      "title": "VM-finale",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa19071926/430f56ca-8.smil/thumb.jpg?t=929&scale=480x270&v=high"
+    },
+    {
+      "startTime": 953,
+      "title": "Direkte. New York",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa19071926/430f56ca-8.smil/thumb.jpg?t=979&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1058,
+      "title": "VM-finale",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa19071926/430f56ca-8.smil/thumb.jpg?t=1083&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1155,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa19071926/430f56ca-8.smil/thumb.jpg?t=1180&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1316,
+      "title": "Kronprinsen Drammen",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa19071926/430f56ca-8.smil/thumb.jpg?t=1341&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1336,
+      "title": "Direkte: Drammen",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa19071926/430f56ca-8.smil/thumb.jpg?t=1362&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1376,
+      "title": "Direkte Buenos Aires",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa19071926/430f56ca-8.smil/thumb.jpg?t=1401&scale=480x270&v=high"
+    }
+  ]
+}
