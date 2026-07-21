@@ -1,0 +1,258 @@
+{
+  "version": "1.2.0",
+  "title": "Dramatisk VM-finale",
+  "author": "NRK",
+  "podcastName": "Nyhetsmorgen",
+  "chapters": [
+    {
+      "startTime": 1,
+      "title": "NRK Nyheter 07:00",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa05072026/7ff597a3-7.smil/thumb.jpg?t=27&scale=480x270&v=high"
+    },
+    {
+      "startTime": 180,
+      "title": "Åpning 07:03",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa05072026/7ff597a3-7.smil/thumb.jpg?t=205&scale=480x270&v=high"
+    },
+    {
+      "startTime": 189,
+      "title": "Spania vant VM-finalen",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa05072026/7ff597a3-7.smil/thumb.jpg?t=214&scale=480x270&v=high"
+    },
+    {
+      "startTime": 360,
+      "title": "Kommentator om VM-finalen",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa05072026/7ff597a3-7.smil/thumb.jpg?t=385&scale=480x270&v=high"
+    },
+    {
+      "startTime": 611,
+      "title": "Trump, slåssing og pauseshow i finalen",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa05072026/7ff597a3-7.smil/thumb.jpg?t=636&scale=480x270&v=high"
+    },
+    {
+      "startTime": 730,
+      "title": "Kommentator om VM-finalen",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa05072026/7ff597a3-7.smil/thumb.jpg?t=756&scale=480x270&v=high"
+    },
+    {
+      "startTime": 934,
+      "title": "VM-reaksjoner fra Spania",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa05072026/7ff597a3-7.smil/thumb.jpg?t=959&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1026,
+      "title": "Overskrifter 07:15",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa05072026/7ff597a3-7.smil/thumb.jpg?t=1052&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1082,
+      "title": "Siste om brannen i Drammen",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa05072026/7ff597a3-7.smil/thumb.jpg?t=1108&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1279,
+      "title": "Brannrammede får hjelp til midlertidig bolig",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa05072026/7ff597a3-7.smil/thumb.jpg?t=1304&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1462,
+      "title": "Flere medlemmer i ungdomspartier",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa05072026/7ff597a3-7.smil/thumb.jpg?t=1488&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1627,
+      "title": "Grafitti som samfunnsstraff",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa05072026/7ff597a3-7.smil/thumb.jpg?t=1653&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1769,
+      "title": "Trailer Historiske kjendiser Knut Hamsun",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa05072026/7ff597a3-7.smil/thumb.jpg?t=1795&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1800,
+      "title": "Overskrifter 07:30",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa05072026/7ff597a3-7.smil/thumb.jpg?t=1826&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1938,
+      "title": "VM-reaksjoner fra Spania",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa05072026/7ff597a3-7.smil/thumb.jpg?t=1963&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2021,
+      "title": "Brannrammede får hjelp til midlertidig bolig",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa05072026/7ff597a3-7.smil/thumb.jpg?t=2046&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2136,
+      "title": "Siste om brannen i Drammen",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa05072026/7ff597a3-7.smil/thumb.jpg?t=2162&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2229,
+      "title": "Nye angrep fra USA",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa05072026/7ff597a3-7.smil/thumb.jpg?t=2254&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2266,
+      "title": "Flere medlemmer i ungdomspartier",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa05072026/7ff597a3-7.smil/thumb.jpg?t=2291&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2378,
+      "title": "Andy Burnham blir britisk statsminister",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa05072026/7ff597a3-7.smil/thumb.jpg?t=2404&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2401,
+      "title": "Åpning 07:40",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa05072026/7ff597a3-7.smil/thumb.jpg?t=2427&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2469,
+      "title": "Røde Kors med hjelp til brannrammede barn",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa05072026/7ff597a3-7.smil/thumb.jpg?t=2494&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2679,
+      "title": "Topper 07:45",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa05072026/7ff597a3-7.smil/thumb.jpg?t=2704&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2742,
+      "title": "VM-reaksjoner fra Argentina",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa05072026/7ff597a3-7.smil/thumb.jpg?t=2767&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2896,
+      "title": "Norsk psykiater reiser til Gaza",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa05072026/7ff597a3-7.smil/thumb.jpg?t=2921&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3248,
+      "title": "Skaland grafittverk vil bli enda større",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa05072026/7ff597a3-7.smil/thumb.jpg?t=3273&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3379,
+      "title": "Advarer mot soltatoveringer",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa05072026/7ff597a3-7.smil/thumb.jpg?t=3405&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3589,
+      "title": "Avslutning",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa05072026/7ff597a3-7.smil/thumb.jpg?t=3615&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3601,
+      "title": "NRK Nyheter 08:00",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa05072026/7ff597a3-7.smil/thumb.jpg?t=3627&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3781,
+      "title": "Åpning 08:03",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa05072026/7ff597a3-7.smil/thumb.jpg?t=3806&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3843,
+      "title": "Spania vant VM-finalen",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa05072026/7ff597a3-7.smil/thumb.jpg?t=3868&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3930,
+      "title": "VM-reaksjoner fra Spania",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa05072026/7ff597a3-7.smil/thumb.jpg?t=3956&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4024,
+      "title": "Trump, slåssing og pauseshow i finalen",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa05072026/7ff597a3-7.smil/thumb.jpg?t=4050&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4134,
+      "title": "VM-reaksjoner fra Argentina",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa05072026/7ff597a3-7.smil/thumb.jpg?t=4159&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4271,
+      "title": "Fellesskapsfølelse under VM",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa05072026/7ff597a3-7.smil/thumb.jpg?t=4297&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4546,
+      "title": "Overskrifter 08:15",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa05072026/7ff597a3-7.smil/thumb.jpg?t=4572&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4577,
+      "title": "Storbrannen i Krokstadelva",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa05072026/7ff597a3-7.smil/thumb.jpg?t=4602&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4971,
+      "title": "Brannen i Krokstadelva",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa05072026/7ff597a3-7.smil/thumb.jpg?t=4997&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5006,
+      "title": "Brannrammede får hjelp til midlertidig bolig",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa05072026/7ff597a3-7.smil/thumb.jpg?t=5031&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5149,
+      "title": "Ny statsminister i Storbritannia",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa05072026/7ff597a3-7.smil/thumb.jpg?t=5174&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5418,
+      "title": "Overskrifter 08:30",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa05072026/7ff597a3-7.smil/thumb.jpg?t=5444&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5462,
+      "title": "Flere medlemmer i ungdomspartier",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa05072026/7ff597a3-7.smil/thumb.jpg?t=5487&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5632,
+      "title": "Argentiner og spanjol etter VM-finalen",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa05072026/7ff597a3-7.smil/thumb.jpg?t=5657&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6107,
+      "title": "Hvordan vil vi huske dette VM'et?",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa05072026/7ff597a3-7.smil/thumb.jpg?t=6132&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6340,
+      "title": "Hør P2-pulsen i NRK P2",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa05072026/7ff597a3-7.smil/thumb.jpg?t=6365&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6387,
+      "title": "Overskrifter 08:45",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa05072026/7ff597a3-7.smil/thumb.jpg?t=6412&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6454,
+      "title": "Thorbjørn Harr som Peer Gynt",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa05072026/7ff597a3-7.smil/thumb.jpg?t=6479&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6813,
+      "title": "Forbudte planter i hagen",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa05072026/7ff597a3-7.smil/thumb.jpg?t=6839&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7014,
+      "title": "Været i dag",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa05072026/7ff597a3-7.smil/thumb.jpg?t=7040&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7192,
+      "title": "Avslutning",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa05072026/7ff597a3-7.smil/thumb.jpg?t=7203.24&scale=480x270&v=high"
+    }
+  ]
+}
