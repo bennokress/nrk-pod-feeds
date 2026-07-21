@@ -1,0 +1,68 @@
+{
+  "version": "1.2.0",
+  "title": "Storbrannen i Drammen",
+  "author": "NRK",
+  "podcastName": "Dagsnytt 18",
+  "chapters": [
+    {
+      "startTime": 4,
+      "title": "Dagsnytt atten",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa56072026/9c665f67-7.smil/thumb.jpg?t=30&scale=480x270&v=high"
+    },
+    {
+      "startTime": 67,
+      "title": "Brannen i Drammen",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa56072026/9c665f67-7.smil/thumb.jpg?t=92&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1286,
+      "title": "Ny statsminister i Storbritannia",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa56072026/9c665f67-7.smil/thumb.jpg?t=1311&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1822,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa56072026/9c665f67-7.smil/thumb.jpg?t=1847&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1834,
+      "title": "Kommer senere",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa56072026/9c665f67-7.smil/thumb.jpg?t=1859&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1844,
+      "title": "Førerkort til 17-åringer",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa56072026/9c665f67-7.smil/thumb.jpg?t=1870&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2328,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa56072026/9c665f67-7.smil/thumb.jpg?t=2353&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2354,
+      "title": "Mobilforbud i forelesning",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa56072026/9c665f67-7.smil/thumb.jpg?t=2379&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2843,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa56072026/9c665f67-7.smil/thumb.jpg?t=2868&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2858,
+      "title": "Legge ned fylkeskommunen",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa56072026/9c665f67-7.smil/thumb.jpg?t=2884&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3517,
+      "title": "AVSLUTNING",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa56072026/9c665f67-7.smil/thumb.jpg?t=3542&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3518,
+      "title": "SLUTTKJENNING",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa56072026/9c665f67-7.smil/thumb.jpg?t=3544&scale=480x270&v=high"
+    }
+  ]
+}
