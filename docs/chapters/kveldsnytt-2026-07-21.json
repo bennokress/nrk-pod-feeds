@@ -1,0 +1,68 @@
+{
+  "version": "1.2.0",
+  "title": "Frykt for ny blokkade",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-40.akamaized.net/open/ps/nnfa/nnfa23072126/1f8f9839-6.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 32,
+      "title": "Forsikring Drammen",
+      "img": "https://nrk-od-world-40.akamaized.net/open/ps/nnfa/nnfa23072126/1f8f9839-6.smil/thumb.jpg?t=58&scale=480x270&v=high"
+    },
+    {
+      "startTime": 128,
+      "title": "Hamarpiloter i brannslukking",
+      "img": "https://nrk-od-world-40.akamaized.net/open/ps/nnfa/nnfa23072126/1f8f9839-6.smil/thumb.jpg?t=153&scale=480x270&v=high"
+    },
+    {
+      "startTime": 231,
+      "title": "22. juli",
+      "img": "https://nrk-od-world-40.akamaized.net/open/ps/nnfa/nnfa23072126/1f8f9839-6.smil/thumb.jpg?t=257&scale=480x270&v=high"
+    },
+    {
+      "startTime": 297,
+      "title": "Rødehavet",
+      "img": "https://nrk-od-world-40.akamaized.net/open/ps/nnfa/nnfa23072126/1f8f9839-6.smil/thumb.jpg?t=323&scale=480x270&v=high"
+    },
+    {
+      "startTime": 405,
+      "title": "Tufte er død",
+      "img": "https://nrk-od-world-40.akamaized.net/open/ps/nnfa/nnfa23072126/1f8f9839-6.smil/thumb.jpg?t=431&scale=480x270&v=high"
+    },
+    {
+      "startTime": 525,
+      "title": "Trump Iran",
+      "img": "https://nrk-od-world-40.akamaized.net/open/ps/nnfa/nnfa23072126/1f8f9839-6.smil/thumb.jpg?t=551&scale=480x270&v=high"
+    },
+    {
+      "startTime": 561,
+      "title": "Kostnad Irankrigen",
+      "img": "https://nrk-od-world-40.akamaized.net/open/ps/nnfa/nnfa23072126/1f8f9839-6.smil/thumb.jpg?t=586&scale=480x270&v=high"
+    },
+    {
+      "startTime": 595,
+      "title": "Ukraina forsvarsminister",
+      "img": "https://nrk-od-world-40.akamaized.net/open/ps/nnfa/nnfa23072126/1f8f9839-6.smil/thumb.jpg?t=621&scale=480x270&v=high"
+    },
+    {
+      "startTime": 621,
+      "title": "Skogbrann Spania",
+      "img": "https://nrk-od-world-40.akamaized.net/open/ps/nnfa/nnfa23072126/1f8f9839-6.smil/thumb.jpg?t=646&scale=480x270&v=high"
+    },
+    {
+      "startTime": 650,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-40.akamaized.net/open/ps/nnfa/nnfa23072126/1f8f9839-6.smil/thumb.jpg?t=675&scale=480x270&v=high"
+    },
+    {
+      "startTime": 714,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-40.akamaized.net/open/ps/nnfa/nnfa23072126/1f8f9839-6.smil/thumb.jpg?t=735.6&scale=480x270&v=high"
+    }
+  ]
+}
