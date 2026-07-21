@@ -1,0 +1,63 @@
+{
+  "version": "1.2.0",
+  "title": "Idrettsnorge i sorg",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-77.akamaized.net/open/ps/nnfa/nnfa21072126/c3cf280c-8.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 20,
+      "title": "Olav Tufte død",
+      "img": "https://nrk-od-world-77.akamaized.net/open/ps/nnfa/nnfa21072126/c3cf280c-8.smil/thumb.jpg?t=45&scale=480x270&v=high"
+    },
+    {
+      "startTime": 152,
+      "title": "Nettpromo",
+      "img": "https://nrk-od-world-77.akamaized.net/open/ps/nnfa/nnfa21072126/c3cf280c-8.smil/thumb.jpg?t=177&scale=480x270&v=high"
+    },
+    {
+      "startTime": 170,
+      "title": "Mistenkt brann",
+      "img": "https://nrk-od-world-77.akamaized.net/open/ps/nnfa/nnfa21072126/c3cf280c-8.smil/thumb.jpg?t=195&scale=480x270&v=high"
+    },
+    {
+      "startTime": 243,
+      "title": "Støre branntomt",
+      "img": "https://nrk-od-world-77.akamaized.net/open/ps/nnfa/nnfa21072126/c3cf280c-8.smil/thumb.jpg?t=269&scale=480x270&v=high"
+    },
+    {
+      "startTime": 311,
+      "title": "Vold Nydalen",
+      "img": "https://nrk-od-world-77.akamaized.net/open/ps/nnfa/nnfa21072126/c3cf280c-8.smil/thumb.jpg?t=336&scale=480x270&v=high"
+    },
+    {
+      "startTime": 330,
+      "title": "Voldelige protester",
+      "img": "https://nrk-od-world-77.akamaized.net/open/ps/nnfa/nnfa21072126/c3cf280c-8.smil/thumb.jpg?t=356&scale=480x270&v=high"
+    },
+    {
+      "startTime": 360,
+      "title": "Some Frankrike",
+      "img": "https://nrk-od-world-77.akamaized.net/open/ps/nnfa/nnfa21072126/c3cf280c-8.smil/thumb.jpg?t=386&scale=480x270&v=high"
+    },
+    {
+      "startTime": 383,
+      "title": "Hetebølge i Spania",
+      "img": "https://nrk-od-world-77.akamaized.net/open/ps/nnfa/nnfa21072126/c3cf280c-8.smil/thumb.jpg?t=409&scale=480x270&v=high"
+    },
+    {
+      "startTime": 491,
+      "title": "Været",
+      "img": "https://nrk-od-world-77.akamaized.net/open/ps/nnfa/nnfa21072126/c3cf280c-8.smil/thumb.jpg?t=517&scale=480x270&v=high"
+    },
+    {
+      "startTime": 550,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-77.akamaized.net/open/ps/nnfa/nnfa21072126/c3cf280c-8.smil/thumb.jpg?t=570.55&scale=480x270&v=high"
+    }
+  ]
+}

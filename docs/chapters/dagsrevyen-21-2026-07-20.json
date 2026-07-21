@@ -1,0 +1,58 @@
+{
+  "version": "1.2.0",
+  "title": "Full feiring i Spania",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa21072026/cc349eb6-8.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 29,
+      "title": "Feirer Spania",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa21072026/cc349eb6-8.smil/thumb.jpg?t=55&scale=480x270&v=high"
+    },
+    {
+      "startTime": 108,
+      "title": "Blokkade Saudi",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa21072026/cc349eb6-8.smil/thumb.jpg?t=134&scale=480x270&v=high"
+    },
+    {
+      "startTime": 209,
+      "title": "22. juli",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa21072026/cc349eb6-8.smil/thumb.jpg?t=234&scale=480x270&v=high"
+    },
+    {
+      "startTime": 271,
+      "title": "Krokstadelva",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa21072026/cc349eb6-8.smil/thumb.jpg?t=296&scale=480x270&v=high"
+    },
+    {
+      "startTime": 318,
+      "title": "Studieplasser",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa21072026/cc349eb6-8.smil/thumb.jpg?t=344&scale=480x270&v=high"
+    },
+    {
+      "startTime": 343,
+      "title": "Ny vår for Skaland Graphite",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa21072026/cc349eb6-8.smil/thumb.jpg?t=369&scale=480x270&v=high"
+    },
+    {
+      "startTime": 442,
+      "title": "Keegan død",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa21072026/cc349eb6-8.smil/thumb.jpg?t=468&scale=480x270&v=high"
+    },
+    {
+      "startTime": 462,
+      "title": "Været",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa21072026/cc349eb6-8.smil/thumb.jpg?t=488&scale=480x270&v=high"
+    },
+    {
+      "startTime": 524,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa21072026/cc349eb6-8.smil/thumb.jpg?t=544.76&scale=480x270&v=high"
+    }
+  ]
+}
