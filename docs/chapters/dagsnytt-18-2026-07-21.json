@@ -1,0 +1,53 @@
+{
+  "version": "1.2.0",
+  "title": "Olaf Tufte er død",
+  "author": "NRK",
+  "podcastName": "Dagsnytt 18",
+  "chapters": [
+    {
+      "startTime": 2,
+      "title": "Dagsnytt atten",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa56072126/8e66f6a6-6.smil/thumb.jpg?t=27&scale=480x270&v=high"
+    },
+    {
+      "startTime": 55,
+      "title": "Olaf Tufte er død",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa56072126/8e66f6a6-6.smil/thumb.jpg?t=81&scale=480x270&v=high"
+    },
+    {
+      "startTime": 236,
+      "title": "USA og Iran",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa56072126/8e66f6a6-6.smil/thumb.jpg?t=261&scale=480x270&v=high"
+    },
+    {
+      "startTime": 886,
+      "title": "Forsøpling fra studenter",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa56072126/8e66f6a6-6.smil/thumb.jpg?t=912&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1244,
+      "title": "Olaf Tufte er død",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa56072126/8e66f6a6-6.smil/thumb.jpg?t=1269&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1742,
+      "title": "Breiviks falske uniform utstilles",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa56072126/8e66f6a6-6.smil/thumb.jpg?t=1768&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2423,
+      "title": "Trump-toll og fiskenæringen",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa56072126/8e66f6a6-6.smil/thumb.jpg?t=2448&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3105,
+      "title": "Vil innføre sivil plikttjeneste",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa56072126/8e66f6a6-6.smil/thumb.jpg?t=3130&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3531,
+      "title": "SLUTTKJENNING",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa56072126/8e66f6a6-6.smil/thumb.jpg?t=3545.24&scale=480x270&v=high"
+    }
+  ]
+}
