@@ -1,0 +1,73 @@
+{
+  "version": "1.2.0",
+  "title": "Uten forsikring etter storbrann",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa23072226/9c527385-7.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 25,
+      "title": "Trump tar imot soldater",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa23072226/9c527385-7.smil/thumb.jpg?t=51&scale=480x270&v=high"
+    },
+    {
+      "startTime": 137,
+      "title": "Bamble",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa23072226/9c527385-7.smil/thumb.jpg?t=162&scale=480x270&v=high"
+    },
+    {
+      "startTime": 160,
+      "title": "Lier",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa23072226/9c527385-7.smil/thumb.jpg?t=185&scale=480x270&v=high"
+    },
+    {
+      "startTime": 180,
+      "title": "22. juli-markering",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa23072226/9c527385-7.smil/thumb.jpg?t=206&scale=480x270&v=high"
+    },
+    {
+      "startTime": 286,
+      "title": "Brann Krokstadelva",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa23072226/9c527385-7.smil/thumb.jpg?t=311&scale=480x270&v=high"
+    },
+    {
+      "startTime": 398,
+      "title": "Louvre",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa23072226/9c527385-7.smil/thumb.jpg?t=423&scale=480x270&v=high"
+    },
+    {
+      "startTime": 470,
+      "title": "Eliteserien",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa23072226/9c527385-7.smil/thumb.jpg?t=496&scale=480x270&v=high"
+    },
+    {
+      "startTime": 585,
+      "title": "Kloster operasjon",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa23072226/9c527385-7.smil/thumb.jpg?t=610&scale=480x270&v=high"
+    },
+    {
+      "startTime": 661,
+      "title": "Nettpromo",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa23072226/9c527385-7.smil/thumb.jpg?t=687&scale=480x270&v=high"
+    },
+    {
+      "startTime": 677,
+      "title": "Hvalross",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa23072226/9c527385-7.smil/thumb.jpg?t=703&scale=480x270&v=high"
+    },
+    {
+      "startTime": 721,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa23072226/9c527385-7.smil/thumb.jpg?t=746&scale=480x270&v=high"
+    },
+    {
+      "startTime": 777,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa23072226/9c527385-7.smil/thumb.jpg?t=795.6&scale=480x270&v=high"
+    }
+  ]
+}
