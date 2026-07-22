@@ -1,0 +1,113 @@
+{
+  "version": "1.2.0",
+  "title": "Olaf Tufte er død",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 9,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa19072126/4fd9d4aa-10.smil/thumb.jpg?t=35&scale=480x270&v=high"
+    },
+    {
+      "startTime": 54,
+      "title": "Olaf Tufte død",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa19072126/4fd9d4aa-10.smil/thumb.jpg?t=79&scale=480x270&v=high"
+    },
+    {
+      "startTime": 185,
+      "title": "Gjest",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa19072126/4fd9d4aa-10.smil/thumb.jpg?t=211&scale=480x270&v=high"
+    },
+    {
+      "startTime": 350,
+      "title": "Direkte Firenze",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa19072126/4fd9d4aa-10.smil/thumb.jpg?t=375&scale=480x270&v=high"
+    },
+    {
+      "startTime": 491,
+      "title": "Brann Krokstadelva",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa19072126/4fd9d4aa-10.smil/thumb.jpg?t=517&scale=480x270&v=high"
+    },
+    {
+      "startTime": 581,
+      "title": "Direkte Mandal",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa19072126/4fd9d4aa-10.smil/thumb.jpg?t=606&scale=480x270&v=high"
+    },
+    {
+      "startTime": 671,
+      "title": "Brann Krokstadelva",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa19072126/4fd9d4aa-10.smil/thumb.jpg?t=697&scale=480x270&v=high"
+    },
+    {
+      "startTime": 766,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa19072126/4fd9d4aa-10.smil/thumb.jpg?t=792&scale=480x270&v=high"
+    },
+    {
+      "startTime": 833,
+      "title": "Iran-angrep",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa19072126/4fd9d4aa-10.smil/thumb.jpg?t=858&scale=480x270&v=high"
+    },
+    {
+      "startTime": 941,
+      "title": "Direkte Usa",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa19072126/4fd9d4aa-10.smil/thumb.jpg?t=967&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1003,
+      "title": "Høye bensinpriser",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa19072126/4fd9d4aa-10.smil/thumb.jpg?t=1029&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1065,
+      "title": "Direkte USA",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa19072126/4fd9d4aa-10.smil/thumb.jpg?t=1091&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1124,
+      "title": "Direkte Libanon",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa19072126/4fd9d4aa-10.smil/thumb.jpg?t=1150&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1208,
+      "title": "Protester i India",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa19072126/4fd9d4aa-10.smil/thumb.jpg?t=1234&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1303,
+      "title": "22. juli",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa19072126/4fd9d4aa-10.smil/thumb.jpg?t=1329&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1490,
+      "title": "Direkte Oslo",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa19072126/4fd9d4aa-10.smil/thumb.jpg?t=1516&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1620,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa19072126/4fd9d4aa-10.smil/thumb.jpg?t=1645&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1625,
+      "title": "Reax Tufte død",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa19072126/4fd9d4aa-10.smil/thumb.jpg?t=1650&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1686,
+      "title": "Direkte Horten",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa19072126/4fd9d4aa-10.smil/thumb.jpg?t=1712&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1779,
+      "title": "Auksjon Krogstadelva",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa19072126/4fd9d4aa-10.smil/thumb.jpg?t=1805&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1884,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa19072126/4fd9d4aa-10.smil/thumb.jpg?t=1910&scale=480x270&v=high"
+    }
+  ]
+}
