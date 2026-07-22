@@ -1,0 +1,58 @@
+{
+  "version": "1.2.0",
+  "title": "15 år siden terroren rammet",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-01.akamaized.net/open/ps/nnfa/nnfa21072226/dadab70f-7.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 27,
+      "title": "22. juli-markering",
+      "img": "https://nrk-od-world-01.akamaized.net/open/ps/nnfa/nnfa21072226/dadab70f-7.smil/thumb.jpg?t=53&scale=480x270&v=high"
+    },
+    {
+      "startTime": 148,
+      "title": "Justisminister 22. juli",
+      "img": "https://nrk-od-world-01.akamaized.net/open/ps/nnfa/nnfa21072226/dadab70f-7.smil/thumb.jpg?t=173&scale=480x270&v=high"
+    },
+    {
+      "startTime": 214,
+      "title": "Facetime: Stanghelle",
+      "img": "https://nrk-od-world-01.akamaized.net/open/ps/nnfa/nnfa21072226/dadab70f-7.smil/thumb.jpg?t=239&scale=480x270&v=high"
+    },
+    {
+      "startTime": 346,
+      "title": "Lier",
+      "img": "https://nrk-od-world-01.akamaized.net/open/ps/nnfa/nnfa21072226/dadab70f-7.smil/thumb.jpg?t=372&scale=480x270&v=high"
+    },
+    {
+      "startTime": 372,
+      "title": "Olaf Tufte",
+      "img": "https://nrk-od-world-01.akamaized.net/open/ps/nnfa/nnfa21072226/dadab70f-7.smil/thumb.jpg?t=398&scale=480x270&v=high"
+    },
+    {
+      "startTime": 398,
+      "title": "NRK-programleder død",
+      "img": "https://nrk-od-world-01.akamaized.net/open/ps/nnfa/nnfa21072226/dadab70f-7.smil/thumb.jpg?t=423&scale=480x270&v=high"
+    },
+    {
+      "startTime": 418,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-01.akamaized.net/open/ps/nnfa/nnfa21072226/dadab70f-7.smil/thumb.jpg?t=443&scale=480x270&v=high"
+    },
+    {
+      "startTime": 525,
+      "title": "Været",
+      "img": "https://nrk-od-world-01.akamaized.net/open/ps/nnfa/nnfa21072226/dadab70f-7.smil/thumb.jpg?t=551&scale=480x270&v=high"
+    },
+    {
+      "startTime": 575,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-01.akamaized.net/open/ps/nnfa/nnfa21072226/dadab70f-7.smil/thumb.jpg?t=600&scale=480x270&v=high"
+    }
+  ]
+}
