@@ -1,0 +1,73 @@
+{
+  "version": "1.2.0",
+  "title": "Evakuert",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-88.akamaized.net/open/ps/nnfa/nnfa23072326/af4329e7-6.smil/thumb.jpg?t=26&scale=480x270&v=high"
+    },
+    {
+      "startTime": 38,
+      "title": "Varsler tollsatser",
+      "img": "https://nrk-od-world-88.akamaized.net/open/ps/nnfa/nnfa23072326/af4329e7-6.smil/thumb.jpg?t=64&scale=480x270&v=high"
+    },
+    {
+      "startTime": 77,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-88.akamaized.net/open/ps/nnfa/nnfa23072326/af4329e7-6.smil/thumb.jpg?t=103&scale=480x270&v=high"
+    },
+    {
+      "startTime": 202,
+      "title": "Olaf Tufte",
+      "img": "https://nrk-od-world-88.akamaized.net/open/ps/nnfa/nnfa23072326/af4329e7-6.smil/thumb.jpg?t=227&scale=480x270&v=high"
+    },
+    {
+      "startTime": 300,
+      "title": "Skogbranner herjer",
+      "img": "https://nrk-od-world-88.akamaized.net/open/ps/nnfa/nnfa23072326/af4329e7-6.smil/thumb.jpg?t=325&scale=480x270&v=high"
+    },
+    {
+      "startTime": 400,
+      "title": "Skogbrann i Birkenes blusset opp",
+      "img": "https://nrk-od-world-88.akamaized.net/open/ps/nnfa/nnfa23072326/af4329e7-6.smil/thumb.jpg?t=426&scale=480x270&v=high"
+    },
+    {
+      "startTime": 428,
+      "title": "Flere mister førerkortet",
+      "img": "https://nrk-od-world-88.akamaized.net/open/ps/nnfa/nnfa23072326/af4329e7-6.smil/thumb.jpg?t=454&scale=480x270&v=high"
+    },
+    {
+      "startTime": 533,
+      "title": "Dykking",
+      "img": "https://nrk-od-world-88.akamaized.net/open/ps/nnfa/nnfa23072326/af4329e7-6.smil/thumb.jpg?t=559&scale=480x270&v=high"
+    },
+    {
+      "startTime": 677,
+      "title": "NM Friidrett",
+      "img": "https://nrk-od-world-88.akamaized.net/open/ps/nnfa/nnfa23072326/af4329e7-6.smil/thumb.jpg?t=703&scale=480x270&v=high"
+    },
+    {
+      "startTime": 760,
+      "title": "Fotballpakke",
+      "img": "https://nrk-od-world-88.akamaized.net/open/ps/nnfa/nnfa23072326/af4329e7-6.smil/thumb.jpg?t=786&scale=480x270&v=high"
+    },
+    {
+      "startTime": 856,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-88.akamaized.net/open/ps/nnfa/nnfa23072326/af4329e7-6.smil/thumb.jpg?t=881&scale=480x270&v=high"
+    },
+    {
+      "startTime": 921,
+      "title": "Varsler tollsatser",
+      "img": "https://nrk-od-world-88.akamaized.net/open/ps/nnfa/nnfa23072326/af4329e7-6.smil/thumb.jpg?t=947&scale=480x270&v=high"
+    },
+    {
+      "startTime": 952,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-88.akamaized.net/open/ps/nnfa/nnfa23072326/af4329e7-6.smil/thumb.jpg?t=970.6&scale=480x270&v=high"
+    }
+  ]
+}
