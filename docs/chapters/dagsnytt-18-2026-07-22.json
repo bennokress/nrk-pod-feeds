@@ -1,0 +1,83 @@
+{
+  "version": "1.2.0",
+  "title": "15 år siden terroren 22. juli",
+  "author": "NRK",
+  "podcastName": "Dagsnytt 18",
+  "chapters": [
+    {
+      "startTime": 1,
+      "title": "Dagsnytt atten",
+      "img": "https://nrk-od-world-01.akamaized.net/open/ps/nnfa/nnfa56072226/414540be-6.smil/thumb.jpg?t=26&scale=480x270&v=high"
+    },
+    {
+      "startTime": 60,
+      "title": "15 år siden 22. juli",
+      "img": "https://nrk-od-world-01.akamaized.net/open/ps/nnfa/nnfa56072226/414540be-6.smil/thumb.jpg?t=86&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1138,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-01.akamaized.net/open/ps/nnfa/nnfa56072226/414540be-6.smil/thumb.jpg?t=1163&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1148,
+      "title": "VM og EU",
+      "img": "https://nrk-od-world-01.akamaized.net/open/ps/nnfa/nnfa56072226/414540be-6.smil/thumb.jpg?t=1174&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1651,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-01.akamaized.net/open/ps/nnfa/nnfa56072226/414540be-6.smil/thumb.jpg?t=1677&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1662,
+      "title": "Hegseth og Iran-krigen",
+      "img": "https://nrk-od-world-01.akamaized.net/open/ps/nnfa/nnfa56072226/414540be-6.smil/thumb.jpg?t=1687&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2075,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-01.akamaized.net/open/ps/nnfa/nnfa56072226/414540be-6.smil/thumb.jpg?t=2101&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2085,
+      "title": "Kommer senere",
+      "img": "https://nrk-od-world-01.akamaized.net/open/ps/nnfa/nnfa56072226/414540be-6.smil/thumb.jpg?t=2111&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2101,
+      "title": "Aggresjon i fotballen",
+      "img": "https://nrk-od-world-01.akamaized.net/open/ps/nnfa/nnfa56072226/414540be-6.smil/thumb.jpg?t=2126&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2620,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-01.akamaized.net/open/ps/nnfa/nnfa56072226/414540be-6.smil/thumb.jpg?t=2646&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2630,
+      "title": "Speil i verdensrommet",
+      "img": "https://nrk-od-world-01.akamaized.net/open/ps/nnfa/nnfa56072226/414540be-6.smil/thumb.jpg?t=2656&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3031,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-01.akamaized.net/open/ps/nnfa/nnfa56072226/414540be-6.smil/thumb.jpg?t=3056&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3041,
+      "title": "Filosofer om skatt",
+      "img": "https://nrk-od-world-01.akamaized.net/open/ps/nnfa/nnfa56072226/414540be-6.smil/thumb.jpg?t=3067&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3520,
+      "title": "AVSLUTNING",
+      "img": "https://nrk-od-world-01.akamaized.net/open/ps/nnfa/nnfa56072226/414540be-6.smil/thumb.jpg?t=3543.72&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3528,
+      "title": "SLUTTKJENNING",
+      "img": "https://nrk-od-world-01.akamaized.net/open/ps/nnfa/nnfa56072226/414540be-6.smil/thumb.jpg?t=3543.72&scale=480x270&v=high"
+    }
+  ]
+}
