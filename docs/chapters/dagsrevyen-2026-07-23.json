@@ -1,0 +1,93 @@
+{
+  "version": "1.2.0",
+  "title": "Hyllet Tufte",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 10,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa19072326/076d02d8-6.smil/thumb.jpg?t=36&scale=480x270&v=high"
+    },
+    {
+      "startTime": 53,
+      "title": "Minnemarkering Horten",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa19072326/076d02d8-6.smil/thumb.jpg?t=78&scale=480x270&v=high"
+    },
+    {
+      "startTime": 88,
+      "title": "Direkte: Horten",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa19072326/076d02d8-6.smil/thumb.jpg?t=113&scale=480x270&v=high"
+    },
+    {
+      "startTime": 225,
+      "title": "Iran og Rødehavet",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa19072326/076d02d8-6.smil/thumb.jpg?t=251&scale=480x270&v=high"
+    },
+    {
+      "startTime": 350,
+      "title": "Direkte: Beirut",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa19072326/076d02d8-6.smil/thumb.jpg?t=375&scale=480x270&v=high"
+    },
+    {
+      "startTime": 446,
+      "title": "Rubio og Lavrov møttes",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa19072326/076d02d8-6.smil/thumb.jpg?t=471&scale=480x270&v=high"
+    },
+    {
+      "startTime": 462,
+      "title": "Direkte: Moskva",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa19072326/076d02d8-6.smil/thumb.jpg?t=488&scale=480x270&v=high"
+    },
+    {
+      "startTime": 582,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa19072326/076d02d8-6.smil/thumb.jpg?t=608&scale=480x270&v=high"
+    },
+    {
+      "startTime": 620,
+      "title": "Samordna opptak",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa19072326/076d02d8-6.smil/thumb.jpg?t=646&scale=480x270&v=high"
+    },
+    {
+      "startTime": 843,
+      "title": "Gjest: Samordna opptak",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa19072326/076d02d8-6.smil/thumb.jpg?t=869&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1010,
+      "title": "Brannvesenet",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa19072326/076d02d8-6.smil/thumb.jpg?t=1035&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1163,
+      "title": "Utenriksnyheter",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa19072326/076d02d8-6.smil/thumb.jpg?t=1188&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1279,
+      "title": "Direkte: Horten",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa19072326/076d02d8-6.smil/thumb.jpg?t=1304&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1429,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa19072326/076d02d8-6.smil/thumb.jpg?t=1454&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1444,
+      "title": "Tour de France",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa19072326/076d02d8-6.smil/thumb.jpg?t=1469&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1528,
+      "title": "Friidrett NM",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa19072326/076d02d8-6.smil/thumb.jpg?t=1553&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1603,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa19072326/076d02d8-6.smil/thumb.jpg?t=1628&scale=480x270&v=high"
+    }
+  ]
+}
