@@ -1,0 +1,48 @@
+{
+  "version": "1.2.0",
+  "title": "Talte for sin gode venn",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 27,
+      "title": "Olaf Tufte",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa21072326/4eab3168-7.smil/thumb.jpg?t=52&scale=480x270&v=high"
+    },
+    {
+      "startTime": 122,
+      "title": "Tollsatser",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa21072326/4eab3168-7.smil/thumb.jpg?t=147&scale=480x270&v=high"
+    },
+    {
+      "startTime": 153,
+      "title": "DAGSREVYPAKKE",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa21072326/4eab3168-7.smil/thumb.jpg?t=179&scale=480x270&v=high"
+    },
+    {
+      "startTime": 282,
+      "title": "Nettpromo",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa21072326/4eab3168-7.smil/thumb.jpg?t=307&scale=480x270&v=high"
+    },
+    {
+      "startTime": 301,
+      "title": "Protester i India",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa21072326/4eab3168-7.smil/thumb.jpg?t=326&scale=480x270&v=high"
+    },
+    {
+      "startTime": 372,
+      "title": "Frykter storbrann i Stavanger",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa21072326/4eab3168-7.smil/thumb.jpg?t=398&scale=480x270&v=high"
+    },
+    {
+      "startTime": 482,
+      "title": "Været",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa21072326/4eab3168-7.smil/thumb.jpg?t=508&scale=480x270&v=high"
+    },
+    {
+      "startTime": 531,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa21072326/4eab3168-7.smil/thumb.jpg?t=551.6&scale=480x270&v=high"
+    }
+  ]
+}
