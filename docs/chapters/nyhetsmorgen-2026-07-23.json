@@ -1,0 +1,238 @@
+{
+  "version": "1.2.0",
+  "title": "Vil ha egen brannkommisjon",
+  "author": "NRK",
+  "podcastName": "Nyhetsmorgen",
+  "chapters": [
+    {
+      "startTime": 1,
+      "title": "NRK Nyheter 07:00",
+      "img": "https://nrk-od-world-23.akamaized.net/open/ps/nnfa/nnfa05072326/5f86dbad-6.smil/thumb.jpg?t=26&scale=480x270&v=high"
+    },
+    {
+      "startTime": 181,
+      "title": "Åpning 07:03",
+      "img": "https://nrk-od-world-23.akamaized.net/open/ps/nnfa/nnfa05072326/5f86dbad-6.smil/thumb.jpg?t=206&scale=480x270&v=high"
+    },
+    {
+      "startTime": 248,
+      "title": "Vil ha egen brannkommisjon",
+      "img": "https://nrk-od-world-23.akamaized.net/open/ps/nnfa/nnfa05072326/5f86dbad-6.smil/thumb.jpg?t=273&scale=480x270&v=high"
+    },
+    {
+      "startTime": 443,
+      "title": "Skip angrepet i Midtøsten i natt",
+      "img": "https://nrk-od-world-23.akamaized.net/open/ps/nnfa/nnfa05072326/5f86dbad-6.smil/thumb.jpg?t=469&scale=480x270&v=high"
+    },
+    {
+      "startTime": 625,
+      "title": "Tar grep for å få flere tollere i nord",
+      "img": "https://nrk-od-world-23.akamaized.net/open/ps/nnfa/nnfa05072326/5f86dbad-6.smil/thumb.jpg?t=650&scale=480x270&v=high"
+    },
+    {
+      "startTime": 831,
+      "title": "Frist for å takke ja til studievalg",
+      "img": "https://nrk-od-world-23.akamaized.net/open/ps/nnfa/nnfa05072326/5f86dbad-6.smil/thumb.jpg?t=856&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1036,
+      "title": "Overskrifter 07:15",
+      "img": "https://nrk-od-world-23.akamaized.net/open/ps/nnfa/nnfa05072326/5f86dbad-6.smil/thumb.jpg?t=1062&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1090,
+      "title": "Alvorlig tørke på kontinentet",
+      "img": "https://nrk-od-world-23.akamaized.net/open/ps/nnfa/nnfa05072326/5f86dbad-6.smil/thumb.jpg?t=1116&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1262,
+      "title": "Vinbønder merker tørken",
+      "img": "https://nrk-od-world-23.akamaized.net/open/ps/nnfa/nnfa05072326/5f86dbad-6.smil/thumb.jpg?t=1287&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1522,
+      "title": "VM-regel i fokus da Viking slo Lillestrøm",
+      "img": "https://nrk-od-world-23.akamaized.net/open/ps/nnfa/nnfa05072326/5f86dbad-6.smil/thumb.jpg?t=1548&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1645,
+      "title": "Makrellbestanden på eit kritisk nivå",
+      "img": "https://nrk-od-world-23.akamaized.net/open/ps/nnfa/nnfa05072326/5f86dbad-6.smil/thumb.jpg?t=1671&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1803,
+      "title": "Overskrifter 07:30",
+      "img": "https://nrk-od-world-23.akamaized.net/open/ps/nnfa/nnfa05072326/5f86dbad-6.smil/thumb.jpg?t=1828&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1838,
+      "title": "Vil ha egen brannkommisjon",
+      "img": "https://nrk-od-world-23.akamaized.net/open/ps/nnfa/nnfa05072326/5f86dbad-6.smil/thumb.jpg?t=1863&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1966,
+      "title": "Flere angrep på skip i Midtøsten i natt",
+      "img": "https://nrk-od-world-23.akamaized.net/open/ps/nnfa/nnfa05072326/5f86dbad-6.smil/thumb.jpg?t=1992&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2061,
+      "title": "Alvorlig tørke på kontinentet",
+      "img": "https://nrk-od-world-23.akamaized.net/open/ps/nnfa/nnfa05072326/5f86dbad-6.smil/thumb.jpg?t=2087&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2183,
+      "title": "Branner i Frankrike",
+      "img": "https://nrk-od-world-23.akamaized.net/open/ps/nnfa/nnfa05072326/5f86dbad-6.smil/thumb.jpg?t=2208&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2204,
+      "title": "Mange fratatt førerkortet",
+      "img": "https://nrk-od-world-23.akamaized.net/open/ps/nnfa/nnfa05072326/5f86dbad-6.smil/thumb.jpg?t=2229&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2295,
+      "title": "God sommar for den norske krona",
+      "img": "https://nrk-od-world-23.akamaized.net/open/ps/nnfa/nnfa05072326/5f86dbad-6.smil/thumb.jpg?t=2320&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2400,
+      "title": "Åpning 07:40",
+      "img": "https://nrk-od-world-23.akamaized.net/open/ps/nnfa/nnfa05072326/5f86dbad-6.smil/thumb.jpg?t=2425&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2419,
+      "title": "Autoritære regimer Latin-Amerika",
+      "img": "https://nrk-od-world-23.akamaized.net/open/ps/nnfa/nnfa05072326/5f86dbad-6.smil/thumb.jpg?t=2445&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2895,
+      "title": "Frykt for storbrann i Stavanger",
+      "img": "https://nrk-od-world-23.akamaized.net/open/ps/nnfa/nnfa05072326/5f86dbad-6.smil/thumb.jpg?t=2920&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3076,
+      "title": "Rykter rundt amerikanske senatorer",
+      "img": "https://nrk-od-world-23.akamaized.net/open/ps/nnfa/nnfa05072326/5f86dbad-6.smil/thumb.jpg?t=3101&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3353,
+      "title": "En av landets mest populære utdanninger",
+      "img": "https://nrk-od-world-23.akamaized.net/open/ps/nnfa/nnfa05072326/5f86dbad-6.smil/thumb.jpg?t=3379&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3566,
+      "title": "Oppdrag Europa",
+      "img": "https://nrk-od-world-23.akamaized.net/open/ps/nnfa/nnfa05072326/5f86dbad-6.smil/thumb.jpg?t=3591&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3600,
+      "title": "Avslutning",
+      "img": "https://nrk-od-world-23.akamaized.net/open/ps/nnfa/nnfa05072326/5f86dbad-6.smil/thumb.jpg?t=3626&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3616,
+      "title": "NRK Nyheter 08:00",
+      "img": "https://nrk-od-world-23.akamaized.net/open/ps/nnfa/nnfa05072326/5f86dbad-6.smil/thumb.jpg?t=3642&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3779,
+      "title": "Åpning 08:03",
+      "img": "https://nrk-od-world-23.akamaized.net/open/ps/nnfa/nnfa05072326/5f86dbad-6.smil/thumb.jpg?t=3804&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3830,
+      "title": "God sommar for den norske krona",
+      "img": "https://nrk-od-world-23.akamaized.net/open/ps/nnfa/nnfa05072326/5f86dbad-6.smil/thumb.jpg?t=3855&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3968,
+      "title": "Louvremuseet uten juveler",
+      "img": "https://nrk-od-world-23.akamaized.net/open/ps/nnfa/nnfa05072326/5f86dbad-6.smil/thumb.jpg?t=3994&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4189,
+      "title": "Alvorlig tørke på kontinentet",
+      "img": "https://nrk-od-world-23.akamaized.net/open/ps/nnfa/nnfa05072326/5f86dbad-6.smil/thumb.jpg?t=4214&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4397,
+      "title": "Tar grep for å få flere tollere i nord",
+      "img": "https://nrk-od-world-23.akamaized.net/open/ps/nnfa/nnfa05072326/5f86dbad-6.smil/thumb.jpg?t=4423&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4545,
+      "title": "Sommerens store film-snakkis",
+      "img": "https://nrk-od-world-23.akamaized.net/open/ps/nnfa/nnfa05072326/5f86dbad-6.smil/thumb.jpg?t=4571&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4728,
+      "title": "Nye filmformater på kinolerretene",
+      "img": "https://nrk-od-world-23.akamaized.net/open/ps/nnfa/nnfa05072326/5f86dbad-6.smil/thumb.jpg?t=4754&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5028,
+      "title": "Makrellbestanden på eit kritisk nivå",
+      "img": "https://nrk-od-world-23.akamaized.net/open/ps/nnfa/nnfa05072326/5f86dbad-6.smil/thumb.jpg?t=5053&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5218,
+      "title": "Polhavet 2050- forskningssatning i arktis",
+      "img": "https://nrk-od-world-23.akamaized.net/open/ps/nnfa/nnfa05072326/5f86dbad-6.smil/thumb.jpg?t=5243&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5506,
+      "title": "Overskrifter 08:30",
+      "img": "https://nrk-od-world-23.akamaized.net/open/ps/nnfa/nnfa05072326/5f86dbad-6.smil/thumb.jpg?t=5531&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5544,
+      "title": "Vil ha egen brannkommisjon",
+      "img": "https://nrk-od-world-23.akamaized.net/open/ps/nnfa/nnfa05072326/5f86dbad-6.smil/thumb.jpg?t=5569&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5734,
+      "title": "Ebola-dødstallene øker i Kongo",
+      "img": "https://nrk-od-world-23.akamaized.net/open/ps/nnfa/nnfa05072326/5f86dbad-6.smil/thumb.jpg?t=5760&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6000,
+      "title": "UP om sommertrafikken",
+      "img": "https://nrk-od-world-23.akamaized.net/open/ps/nnfa/nnfa05072326/5f86dbad-6.smil/thumb.jpg?t=6025&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6153,
+      "title": "Skip angrepet i Midtøsten i natt",
+      "img": "https://nrk-od-world-23.akamaized.net/open/ps/nnfa/nnfa05072326/5f86dbad-6.smil/thumb.jpg?t=6178&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6264,
+      "title": "Atomavtale USA og Saudi Arabia",
+      "img": "https://nrk-od-world-23.akamaized.net/open/ps/nnfa/nnfa05072326/5f86dbad-6.smil/thumb.jpg?t=6289&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6406,
+      "title": "Hør P2-pulsen i NRK P2",
+      "img": "https://nrk-od-world-23.akamaized.net/open/ps/nnfa/nnfa05072326/5f86dbad-6.smil/thumb.jpg?t=6431&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6475,
+      "title": "Vinbonde i Piemonte merker tørken",
+      "img": "https://nrk-od-world-23.akamaized.net/open/ps/nnfa/nnfa05072326/5f86dbad-6.smil/thumb.jpg?t=6501&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6747,
+      "title": "Anmeldelse: «Psycho Therapy»",
+      "img": "https://nrk-od-world-23.akamaized.net/open/ps/nnfa/nnfa05072326/5f86dbad-6.smil/thumb.jpg?t=6772&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6933,
+      "title": "VM-regel i fokus da Viking slo Lillestrøm",
+      "img": "https://nrk-od-world-23.akamaized.net/open/ps/nnfa/nnfa05072326/5f86dbad-6.smil/thumb.jpg?t=6958&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7056,
+      "title": "Været i dag",
+      "img": "https://nrk-od-world-23.akamaized.net/open/ps/nnfa/nnfa05072326/5f86dbad-6.smil/thumb.jpg?t=7081&scale=480x270&v=high"
+    }
+  ]
+}
