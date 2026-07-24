@@ -1,0 +1,73 @@
+{
+  "version": "1.2.0",
+  "title": "Villedet politiet",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa23072426/3e5f8d61-7.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 37,
+      "title": "Falsk nødanrop",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa23072426/3e5f8d61-7.smil/thumb.jpg?t=62&scale=480x270&v=high"
+    },
+    {
+      "startTime": 136,
+      "title": "Skudd avfyrt Hønefoss",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa23072426/3e5f8d61-7.smil/thumb.jpg?t=162&scale=480x270&v=high"
+    },
+    {
+      "startTime": 161,
+      "title": "Brannfolk kjemper i Gironde i Frankrike",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa23072426/3e5f8d61-7.smil/thumb.jpg?t=186&scale=480x270&v=high"
+    },
+    {
+      "startTime": 283,
+      "title": "Khan ferdig i ICC",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa23072426/3e5f8d61-7.smil/thumb.jpg?t=309&scale=480x270&v=high"
+    },
+    {
+      "startTime": 349,
+      "title": "Angrep Kyiv",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa23072426/3e5f8d61-7.smil/thumb.jpg?t=374&scale=480x270&v=high"
+    },
+    {
+      "startTime": 422,
+      "title": "Tollsatser",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa23072426/3e5f8d61-7.smil/thumb.jpg?t=447&scale=480x270&v=high"
+    },
+    {
+      "startTime": 483,
+      "title": "Hvalross til skogs",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa23072426/3e5f8d61-7.smil/thumb.jpg?t=509&scale=480x270&v=high"
+    },
+    {
+      "startTime": 556,
+      "title": "Råde bil i hus",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa23072426/3e5f8d61-7.smil/thumb.jpg?t=581&scale=480x270&v=high"
+    },
+    {
+      "startTime": 583,
+      "title": "Guttormsen over seks meter",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa23072426/3e5f8d61-7.smil/thumb.jpg?t=609&scale=480x270&v=high"
+    },
+    {
+      "startTime": 683,
+      "title": "RBK Manchester United treningskamp",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa23072426/3e5f8d61-7.smil/thumb.jpg?t=709&scale=480x270&v=high"
+    },
+    {
+      "startTime": 758,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa23072426/3e5f8d61-7.smil/thumb.jpg?t=784&scale=480x270&v=high"
+    },
+    {
+      "startTime": 827,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa23072426/3e5f8d61-7.smil/thumb.jpg?t=849.72&scale=480x270&v=high"
+    }
+  ]
+}
