@@ -1,0 +1,103 @@
+{
+  "version": "1.2.0",
+  "title": "Bil kjørte inn i hus",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 8,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa19072426/392e6beb-8.smil/thumb.jpg?t=34&scale=480x270&v=high"
+    },
+    {
+      "startTime": 67,
+      "title": "Direkte: Østfold",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa19072426/392e6beb-8.smil/thumb.jpg?t=93&scale=480x270&v=high"
+    },
+    {
+      "startTime": 185,
+      "title": "Kjørte inn i hus",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa19072426/392e6beb-8.smil/thumb.jpg?t=211&scale=480x270&v=high"
+    },
+    {
+      "startTime": 283,
+      "title": "Trump-toll",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa19072426/392e6beb-8.smil/thumb.jpg?t=309&scale=480x270&v=high"
+    },
+    {
+      "startTime": 432,
+      "title": "Direkte: Washington",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa19072426/392e6beb-8.smil/thumb.jpg?t=458&scale=480x270&v=high"
+    },
+    {
+      "startTime": 558,
+      "title": "Direkte: Økonom",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa19072426/392e6beb-8.smil/thumb.jpg?t=583&scale=480x270&v=high"
+    },
+    {
+      "startTime": 695,
+      "title": "Krokstadelva",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa19072426/392e6beb-8.smil/thumb.jpg?t=721&scale=480x270&v=high"
+    },
+    {
+      "startTime": 797,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa19072426/392e6beb-8.smil/thumb.jpg?t=822&scale=480x270&v=high"
+    },
+    {
+      "startTime": 849,
+      "title": "Skogbranner Europa",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa19072426/392e6beb-8.smil/thumb.jpg?t=875&scale=480x270&v=high"
+    },
+    {
+      "startTime": 960,
+      "title": "Utenriksnyheter",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa19072426/392e6beb-8.smil/thumb.jpg?t=985&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1062,
+      "title": "Spillbransjen",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa19072426/392e6beb-8.smil/thumb.jpg?t=1088&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1186,
+      "title": "Hvalross",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa19072426/392e6beb-8.smil/thumb.jpg?t=1212&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1263,
+      "title": "Jordbær",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa19072426/392e6beb-8.smil/thumb.jpg?t=1289&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1398,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa19072426/392e6beb-8.smil/thumb.jpg?t=1424&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1407,
+      "title": "Friidrett",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa19072426/392e6beb-8.smil/thumb.jpg?t=1433&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1485,
+      "title": "TDF etp 19",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa19072426/392e6beb-8.smil/thumb.jpg?t=1510&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1510,
+      "title": "Klopp Tyskland",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa19072426/392e6beb-8.smil/thumb.jpg?t=1536&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1534,
+      "title": "RBK-Manchester United",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa19072426/392e6beb-8.smil/thumb.jpg?t=1559&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1605,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa19072426/392e6beb-8.smil/thumb.jpg?t=1630&scale=480x270&v=high"
+    }
+  ]
+}
