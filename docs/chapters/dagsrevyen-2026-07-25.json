@@ -1,0 +1,88 @@
+{
+  "version": "1.2.0",
+  "title": "Kjemper mot flammene",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 10,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa19072526/c21c0f6e-8.smil/thumb.jpg?t=36&scale=480x270&v=high"
+    },
+    {
+      "startTime": 84,
+      "title": "Skogbranner i Sør-Europa",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa19072526/c21c0f6e-8.smil/thumb.jpg?t=109&scale=480x270&v=high"
+    },
+    {
+      "startTime": 202,
+      "title": "Gjest",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa19072526/c21c0f6e-8.smil/thumb.jpg?t=227&scale=480x270&v=high"
+    },
+    {
+      "startTime": 292,
+      "title": "Drukning",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa19072526/c21c0f6e-8.smil/thumb.jpg?t=318&scale=480x270&v=high"
+    },
+    {
+      "startTime": 416,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa19072526/c21c0f6e-8.smil/thumb.jpg?t=441&scale=480x270&v=high"
+    },
+    {
+      "startTime": 495,
+      "title": "NHO om yrkesvalg",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa19072526/c21c0f6e-8.smil/thumb.jpg?t=521&scale=480x270&v=high"
+    },
+    {
+      "startTime": 634,
+      "title": "Haaland-feber",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa19072526/c21c0f6e-8.smil/thumb.jpg?t=659&scale=480x270&v=high"
+    },
+    {
+      "startTime": 866,
+      "title": "Korrespondent-middag",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa19072526/c21c0f6e-8.smil/thumb.jpg?t=892&scale=480x270&v=high"
+    },
+    {
+      "startTime": 960,
+      "title": "Direkte",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa19072526/c21c0f6e-8.smil/thumb.jpg?t=985&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1081,
+      "title": "Lørdagsgjest",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa19072526/c21c0f6e-8.smil/thumb.jpg?t=1107&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1306,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa19072526/c21c0f6e-8.smil/thumb.jpg?t=1332&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1314,
+      "title": "Tour de France",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa19072526/c21c0f6e-8.smil/thumb.jpg?t=1339&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1380,
+      "title": "Eliteserien",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa19072526/c21c0f6e-8.smil/thumb.jpg?t=1406&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1426,
+      "title": "Norway Cup-åpning",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa19072526/c21c0f6e-8.smil/thumb.jpg?t=1451&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1540,
+      "title": "NM Friidrett",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa19072526/c21c0f6e-8.smil/thumb.jpg?t=1565&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1602,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa19072526/c21c0f6e-8.smil/thumb.jpg?t=1627&scale=480x270&v=high"
+    }
+  ]
+}
