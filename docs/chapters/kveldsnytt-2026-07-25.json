@@ -1,0 +1,78 @@
+{
+  "version": "1.2.0",
+  "title": "Bil kjørte inn i folkemengde",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 1,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa23072526/740bf4aa-8.smil/thumb.jpg?t=27&scale=480x270&v=high"
+    },
+    {
+      "startTime": 16,
+      "title": "Bil i folkemengde",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa23072526/740bf4aa-8.smil/thumb.jpg?t=42&scale=480x270&v=high"
+    },
+    {
+      "startTime": 579,
+      "title": "Skogbranner",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa23072526/740bf4aa-8.smil/thumb.jpg?t=605&scale=480x270&v=high"
+    },
+    {
+      "startTime": 674,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa23072526/740bf4aa-8.smil/thumb.jpg?t=699&scale=480x270&v=high"
+    },
+    {
+      "startTime": 788,
+      "title": "Ukraina",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa23072526/740bf4aa-8.smil/thumb.jpg?t=814&scale=480x270&v=high"
+    },
+    {
+      "startTime": 844,
+      "title": "Bil i folkemengde",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa23072526/740bf4aa-8.smil/thumb.jpg?t=870&scale=480x270&v=high"
+    },
+    {
+      "startTime": 909,
+      "title": "Gjest:",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa23072526/740bf4aa-8.smil/thumb.jpg?t=934&scale=480x270&v=high"
+    },
+    {
+      "startTime": 992,
+      "title": "Bil i folkemengde",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa23072526/740bf4aa-8.smil/thumb.jpg?t=1018&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1084,
+      "title": "Gjest:",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa23072526/740bf4aa-8.smil/thumb.jpg?t=1109&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2524,
+      "title": "NM Friidrett",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa23072526/740bf4aa-8.smil/thumb.jpg?t=2549&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2638,
+      "title": "Kongepokal",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa23072526/740bf4aa-8.smil/thumb.jpg?t=2664&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2715,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa23072526/740bf4aa-8.smil/thumb.jpg?t=2740&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3039,
+      "title": "SYNK MAL",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa23072526/740bf4aa-8.smil/thumb.jpg?t=3064&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3199,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa23072526/740bf4aa-8.smil/thumb.jpg?t=3216.88&scale=480x270&v=high"
+    }
+  ]
+}
