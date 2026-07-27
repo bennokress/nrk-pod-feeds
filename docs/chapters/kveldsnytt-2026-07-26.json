@@ -1,0 +1,58 @@
+{
+  "version": "1.2.0",
+  "title": "Her ble han funnet",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa23072626/7cf74850-6.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 34,
+      "title": "Gjerningsperson drept",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa23072626/7cf74850-6.smil/thumb.jpg?t=59&scale=480x270&v=high"
+    },
+    {
+      "startTime": 183,
+      "title": "Markering ved ambassaden etter terrorangrep mot pride i Berlin",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa23072626/7cf74850-6.smil/thumb.jpg?t=209&scale=480x270&v=high"
+    },
+    {
+      "startTime": 278,
+      "title": "Branner i Frankrike",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa23072626/7cf74850-6.smil/thumb.jpg?t=303&scale=480x270&v=high"
+    },
+    {
+      "startTime": 333,
+      "title": "STK-PAKKE",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa23072626/7cf74850-6.smil/thumb.jpg?t=359&scale=480x270&v=high"
+    },
+    {
+      "startTime": 386,
+      "title": "Ingen Iran-angrep",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa23072626/7cf74850-6.smil/thumb.jpg?t=412&scale=480x270&v=high"
+    },
+    {
+      "startTime": 435,
+      "title": "Eliteserien",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa23072626/7cf74850-6.smil/thumb.jpg?t=461&scale=480x270&v=high"
+    },
+    {
+      "startTime": 506,
+      "title": "TDF",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa23072626/7cf74850-6.smil/thumb.jpg?t=532&scale=480x270&v=high"
+    },
+    {
+      "startTime": 637,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa23072626/7cf74850-6.smil/thumb.jpg?t=662&scale=480x270&v=high"
+    },
+    {
+      "startTime": 710,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa23072626/7cf74850-6.smil/thumb.jpg?t=729.64&scale=480x270&v=high"
+    }
+  ]
+}
