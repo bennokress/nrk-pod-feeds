@@ -1,0 +1,48 @@
+{
+  "version": "1.2.0",
+  "title": "Skutt i kolonihage",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa21072626/f2f7029b-6.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 22,
+      "title": "Berlin: Mistenkt skutt og drept",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa21072626/f2f7029b-6.smil/thumb.jpg?t=48&scale=480x270&v=high"
+    },
+    {
+      "startTime": 75,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa21072626/f2f7029b-6.smil/thumb.jpg?t=100&scale=480x270&v=high"
+    },
+    {
+      "startTime": 221,
+      "title": "Storbrannene har roet seg noe - frivillige strømmer til i Frankrike og Spania",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa21072626/f2f7029b-6.smil/thumb.jpg?t=246&scale=480x270&v=high"
+    },
+    {
+      "startTime": 375,
+      "title": "TDF",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa21072626/f2f7029b-6.smil/thumb.jpg?t=401&scale=480x270&v=high"
+    },
+    {
+      "startTime": 460,
+      "title": "Kort Viking",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa21072626/f2f7029b-6.smil/thumb.jpg?t=486&scale=480x270&v=high"
+    },
+    {
+      "startTime": 490,
+      "title": "Været",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa21072626/f2f7029b-6.smil/thumb.jpg?t=516&scale=480x270&v=high"
+    },
+    {
+      "startTime": 537,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa21072626/f2f7029b-6.smil/thumb.jpg?t=557.48&scale=480x270&v=high"
+    }
+  ]
+}
