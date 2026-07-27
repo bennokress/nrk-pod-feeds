@@ -1,0 +1,113 @@
+{
+  "version": "1.2.0",
+  "title": "Mistenkt skutt og drept",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 7,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa19072626/e09b0d53-6.smil/thumb.jpg?t=33&scale=480x270&v=high"
+    },
+    {
+      "startTime": 74,
+      "title": "Direkte: Berlin",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa19072626/e09b0d53-6.smil/thumb.jpg?t=99&scale=480x270&v=high"
+    },
+    {
+      "startTime": 126,
+      "title": "Terror i Berlin",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa19072626/e09b0d53-6.smil/thumb.jpg?t=152&scale=480x270&v=high"
+    },
+    {
+      "startTime": 299,
+      "title": "Direkte: Berlin",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa19072626/e09b0d53-6.smil/thumb.jpg?t=325&scale=480x270&v=high"
+    },
+    {
+      "startTime": 424,
+      "title": "Massepåkjørsler Tys",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa19072626/e09b0d53-6.smil/thumb.jpg?t=450&scale=480x270&v=high"
+    },
+    {
+      "startTime": 501,
+      "title": "Flashback til Oslo Pride",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa19072626/e09b0d53-6.smil/thumb.jpg?t=527&scale=480x270&v=high"
+    },
+    {
+      "startTime": 602,
+      "title": "Frankrike",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa19072626/e09b0d53-6.smil/thumb.jpg?t=628&scale=480x270&v=high"
+    },
+    {
+      "startTime": 837,
+      "title": "Direkte: Berlin",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa19072626/e09b0d53-6.smil/thumb.jpg?t=863&scale=480x270&v=high"
+    },
+    {
+      "startTime": 963,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa19072626/e09b0d53-6.smil/thumb.jpg?t=989&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1016,
+      "title": "Sommerjobb",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa19072626/e09b0d53-6.smil/thumb.jpg?t=1041&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1143,
+      "title": "Våpenhvile Libanon",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa19072626/e09b0d53-6.smil/thumb.jpg?t=1169&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1170,
+      "title": "Direkte Beirut",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa19072626/e09b0d53-6.smil/thumb.jpg?t=1195&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1277,
+      "title": "Våpenhvile Libanon",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa19072626/e09b0d53-6.smil/thumb.jpg?t=1303&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1420,
+      "title": "Bensinmangel",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa19072626/e09b0d53-6.smil/thumb.jpg?t=1446&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1542,
+      "title": "Blind hørsel",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa19072626/e09b0d53-6.smil/thumb.jpg?t=1567&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1671,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa19072626/e09b0d53-6.smil/thumb.jpg?t=1697&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1680,
+      "title": "Tour de France",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa19072626/e09b0d53-6.smil/thumb.jpg?t=1706&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1695,
+      "title": "Direkte Paris",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa19072626/e09b0d53-6.smil/thumb.jpg?t=1721&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1759,
+      "title": "Eliteserien",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa19072626/e09b0d53-6.smil/thumb.jpg?t=1784&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1854,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa19072626/e09b0d53-6.smil/thumb.jpg?t=1880&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2013,
+      "title": "Direkte: Berlin",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa19072626/e09b0d53-6.smil/thumb.jpg?t=2039&scale=480x270&v=high"
+    }
+  ]
+}
