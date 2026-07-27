@@ -1,0 +1,58 @@
+{
+  "version": "1.2.0",
+  "title": "Mann siktet for drap",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa21072726/ba606287-8.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 26,
+      "title": "Mann siktet for drapsforsøk på Nærbø",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa21072726/ba606287-8.smil/thumb.jpg?t=51&scale=480x270&v=high"
+    },
+    {
+      "startTime": 117,
+      "title": "Tjenester rammet av IT-trøbbel",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa21072726/ba606287-8.smil/thumb.jpg?t=143&scale=480x270&v=high"
+    },
+    {
+      "startTime": 205,
+      "title": "Netanyahu USA",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa21072726/ba606287-8.smil/thumb.jpg?t=231&scale=480x270&v=high"
+    },
+    {
+      "startTime": 256,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa21072726/ba606287-8.smil/thumb.jpg?t=281&scale=480x270&v=high"
+    },
+    {
+      "startTime": 384,
+      "title": "Tate fengsel",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa21072726/ba606287-8.smil/thumb.jpg?t=410&scale=480x270&v=high"
+    },
+    {
+      "startTime": 407,
+      "title": "Skogbrann",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa21072726/ba606287-8.smil/thumb.jpg?t=433&scale=480x270&v=high"
+    },
+    {
+      "startTime": 452,
+      "title": "Skogbrannfare",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa21072726/ba606287-8.smil/thumb.jpg?t=477&scale=480x270&v=high"
+    },
+    {
+      "startTime": 473,
+      "title": "Været",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa21072726/ba606287-8.smil/thumb.jpg?t=499&scale=480x270&v=high"
+    },
+    {
+      "startTime": 527,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa21072726/ba606287-8.smil/thumb.jpg?t=546.48&scale=480x270&v=high"
+    }
+  ]
+}
