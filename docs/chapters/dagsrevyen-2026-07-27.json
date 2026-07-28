@@ -1,0 +1,108 @@
+{
+  "version": "1.2.0",
+  "title": "Massive skogbranner",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 9,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa19072726/eb532a9e-12.smil/thumb.jpg?t=34&scale=480x270&v=high"
+    },
+    {
+      "startTime": 62,
+      "title": "Branner Frankrike",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa19072726/eb532a9e-12.smil/thumb.jpg?t=88&scale=480x270&v=high"
+    },
+    {
+      "startTime": 97,
+      "title": "Branner Europa",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa19072726/eb532a9e-12.smil/thumb.jpg?t=122&scale=480x270&v=high"
+    },
+    {
+      "startTime": 239,
+      "title": "Branner Frankrike",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa19072726/eb532a9e-12.smil/thumb.jpg?t=265&scale=480x270&v=high"
+    },
+    {
+      "startTime": 347,
+      "title": "Skogbrannfare",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa19072726/eb532a9e-12.smil/thumb.jpg?t=372&scale=480x270&v=high"
+    },
+    {
+      "startTime": 449,
+      "title": "Datatrøbbel",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa19072726/eb532a9e-12.smil/thumb.jpg?t=474&scale=480x270&v=high"
+    },
+    {
+      "startTime": 476,
+      "title": "Gjest Alsaker",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa19072726/eb532a9e-12.smil/thumb.jpg?t=501&scale=480x270&v=high"
+    },
+    {
+      "startTime": 571,
+      "title": "Barnehage rasert",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa19072726/eb532a9e-12.smil/thumb.jpg?t=597&scale=480x270&v=high"
+    },
+    {
+      "startTime": 600,
+      "title": "Pride-angrep Berlin",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa19072726/eb532a9e-12.smil/thumb.jpg?t=626&scale=480x270&v=high"
+    },
+    {
+      "startTime": 680,
+      "title": "Direkte Berlin",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa19072726/eb532a9e-12.smil/thumb.jpg?t=705&scale=480x270&v=high"
+    },
+    {
+      "startTime": 797,
+      "title": "Pride-angrep Berlin",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa19072726/eb532a9e-12.smil/thumb.jpg?t=822&scale=480x270&v=high"
+    },
+    {
+      "startTime": 904,
+      "title": "Frykter ICE",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa19072726/eb532a9e-12.smil/thumb.jpg?t=929&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1026,
+      "title": "Utenriksnyheter",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa19072726/eb532a9e-12.smil/thumb.jpg?t=1051&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1118,
+      "title": "Veggedyr-sjekk",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa19072726/eb532a9e-12.smil/thumb.jpg?t=1143&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1218,
+      "title": "Kinorekord",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa19072726/eb532a9e-12.smil/thumb.jpg?t=1244&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1366,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa19072726/eb532a9e-12.smil/thumb.jpg?t=1392&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1374,
+      "title": "TdF Hushovd mål",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa19072726/eb532a9e-12.smil/thumb.jpg?t=1400&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1462,
+      "title": "Nettpromo Jakob",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa19072726/eb532a9e-12.smil/thumb.jpg?t=1487&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1475,
+      "title": "Haaland-safari",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa19072726/eb532a9e-12.smil/thumb.jpg?t=1501&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1563,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa19072726/eb532a9e-12.smil/thumb.jpg?t=1588&scale=480x270&v=high"
+    }
+  ]
+}
