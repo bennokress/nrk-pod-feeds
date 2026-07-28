@@ -1,0 +1,68 @@
+{
+  "version": "1.2.0",
+  "title": "Vil selge deler av fotball-VM",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa23072826/a55110ee-8.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 38,
+      "title": "Minneseremoni for senator Graham",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa23072826/a55110ee-8.smil/thumb.jpg?t=63&scale=480x270&v=high"
+    },
+    {
+      "startTime": 138,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa23072826/a55110ee-8.smil/thumb.jpg?t=163&scale=480x270&v=high"
+    },
+    {
+      "startTime": 240,
+      "title": "Skogbrann Spania",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa23072826/a55110ee-8.smil/thumb.jpg?t=266&scale=480x270&v=high"
+    },
+    {
+      "startTime": 334,
+      "title": "Narvik ras",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa23072826/a55110ee-8.smil/thumb.jpg?t=359&scale=480x270&v=high"
+    },
+    {
+      "startTime": 443,
+      "title": "Krokstadelva kummer",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa23072826/a55110ee-8.smil/thumb.jpg?t=469&scale=480x270&v=high"
+    },
+    {
+      "startTime": 471,
+      "title": "MC-ulykker",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa23072826/a55110ee-8.smil/thumb.jpg?t=497&scale=480x270&v=high"
+    },
+    {
+      "startTime": 584,
+      "title": "Tangen sommerjobb",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa23072826/a55110ee-8.smil/thumb.jpg?t=610&scale=480x270&v=high"
+    },
+    {
+      "startTime": 678,
+      "title": "Fifa vil selge VM",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa23072826/a55110ee-8.smil/thumb.jpg?t=703&scale=480x270&v=high"
+    },
+    {
+      "startTime": 776,
+      "title": "Alonsos første kamp",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa23072826/a55110ee-8.smil/thumb.jpg?t=802&scale=480x270&v=high"
+    },
+    {
+      "startTime": 825,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa23072826/a55110ee-8.smil/thumb.jpg?t=851&scale=480x270&v=high"
+    },
+    {
+      "startTime": 890,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa23072826/a55110ee-8.smil/thumb.jpg?t=907.6&scale=480x270&v=high"
+    }
+  ]
+}
