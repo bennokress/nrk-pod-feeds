@@ -1,0 +1,123 @@
+{
+  "version": "1.2.0",
+  "title": "Hørte kraftig smell",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 8,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa19072826/c1bf56a6-6.smil/thumb.jpg?t=34&scale=480x270&v=high"
+    },
+    {
+      "startTime": 61,
+      "title": "Tankskip eksplosjon",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa19072826/c1bf56a6-6.smil/thumb.jpg?t=87&scale=480x270&v=high"
+    },
+    {
+      "startTime": 124,
+      "title": "Direkte: Hvaler",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa19072826/c1bf56a6-6.smil/thumb.jpg?t=149&scale=480x270&v=high"
+    },
+    {
+      "startTime": 199,
+      "title": "Trump møter",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa19072826/c1bf56a6-6.smil/thumb.jpg?t=225&scale=480x270&v=high"
+    },
+    {
+      "startTime": 222,
+      "title": "Direkte Washington D.C.",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa19072826/c1bf56a6-6.smil/thumb.jpg?t=248&scale=480x270&v=high"
+    },
+    {
+      "startTime": 322,
+      "title": "Møter i Washington",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa19072826/c1bf56a6-6.smil/thumb.jpg?t=347&scale=480x270&v=high"
+    },
+    {
+      "startTime": 419,
+      "title": "Direkte Istanbul",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa19072826/c1bf56a6-6.smil/thumb.jpg?t=444&scale=480x270&v=high"
+    },
+    {
+      "startTime": 520,
+      "title": "Gjest: Tove Bjørgaas",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa19072826/c1bf56a6-6.smil/thumb.jpg?t=546&scale=480x270&v=high"
+    },
+    {
+      "startTime": 655,
+      "title": "Trusselbildet i Norge",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa19072826/c1bf56a6-6.smil/thumb.jpg?t=680&scale=480x270&v=high"
+    },
+    {
+      "startTime": 737,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa19072826/c1bf56a6-6.smil/thumb.jpg?t=762&scale=480x270&v=high"
+    },
+    {
+      "startTime": 760,
+      "title": "Frankrike branner",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa19072826/c1bf56a6-6.smil/thumb.jpg?t=785&scale=480x270&v=high"
+    },
+    {
+      "startTime": 909,
+      "title": "Direkte Marcheprime",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa19072826/c1bf56a6-6.smil/thumb.jpg?t=934&scale=480x270&v=high"
+    },
+    {
+      "startTime": 986,
+      "title": "Jordskjelv i Japan",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa19072826/c1bf56a6-6.smil/thumb.jpg?t=1011&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1009,
+      "title": "Turister i nord",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa19072826/c1bf56a6-6.smil/thumb.jpg?t=1035&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1113,
+      "title": "Direkte: Bodø",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa19072826/c1bf56a6-6.smil/thumb.jpg?t=1138&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1235,
+      "title": "Sparkesykkel og mobil",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa19072826/c1bf56a6-6.smil/thumb.jpg?t=1260&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1331,
+      "title": "Hvalrossen i skogen",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa19072826/c1bf56a6-6.smil/thumb.jpg?t=1356&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1404,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa19072826/c1bf56a6-6.smil/thumb.jpg?t=1430&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1414,
+      "title": "Jakob Ingebrigtsen",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa19072826/c1bf56a6-6.smil/thumb.jpg?t=1439&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1438,
+      "title": "Zidane, Frankrike",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa19072826/c1bf56a6-6.smil/thumb.jpg?t=1463&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1489,
+      "title": "Høgh til Celtic",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa19072826/c1bf56a6-6.smil/thumb.jpg?t=1514&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1522,
+      "title": "Alpint Ironman",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa19072826/c1bf56a6-6.smil/thumb.jpg?t=1547&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1609,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa19072826/c1bf56a6-6.smil/thumb.jpg?t=1635&scale=480x270&v=high"
+    }
+  ]
+}
