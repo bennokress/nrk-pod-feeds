@@ -1,0 +1,68 @@
+{
+  "version": "1.2.0",
+  "title": "Toppmøter og minneseremoni",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-47.akamaized.net/open/ps/nnfa/nnfa21072826/5b68556d-7.smil/thumb.jpg?t=26&scale=480x270&v=high"
+    },
+    {
+      "startTime": 25,
+      "title": "Senator begraves i USA",
+      "img": "https://nrk-od-world-47.akamaized.net/open/ps/nnfa/nnfa21072826/5b68556d-7.smil/thumb.jpg?t=50&scale=480x270&v=high"
+    },
+    {
+      "startTime": 119,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-47.akamaized.net/open/ps/nnfa/nnfa21072826/5b68556d-7.smil/thumb.jpg?t=145&scale=480x270&v=high"
+    },
+    {
+      "startTime": 235,
+      "title": "USA og krig",
+      "img": "https://nrk-od-world-47.akamaized.net/open/ps/nnfa/nnfa21072826/5b68556d-7.smil/thumb.jpg?t=261&scale=480x270&v=high"
+    },
+    {
+      "startTime": 260,
+      "title": "Japan jordskjelv",
+      "img": "https://nrk-od-world-47.akamaized.net/open/ps/nnfa/nnfa21072826/5b68556d-7.smil/thumb.jpg?t=286&scale=480x270&v=high"
+    },
+    {
+      "startTime": 361,
+      "title": "Skip Hvaler",
+      "img": "https://nrk-od-world-47.akamaized.net/open/ps/nnfa/nnfa21072826/5b68556d-7.smil/thumb.jpg?t=387&scale=480x270&v=high"
+    },
+    {
+      "startTime": 385,
+      "title": "Trusselbildet i Norge",
+      "img": "https://nrk-od-world-47.akamaized.net/open/ps/nnfa/nnfa21072826/5b68556d-7.smil/thumb.jpg?t=411&scale=480x270&v=high"
+    },
+    {
+      "startTime": 439,
+      "title": "Krokstadelva kummer",
+      "img": "https://nrk-od-world-47.akamaized.net/open/ps/nnfa/nnfa21072826/5b68556d-7.smil/thumb.jpg?t=465&scale=480x270&v=high"
+    },
+    {
+      "startTime": 460,
+      "title": "Byneset skyld",
+      "img": "https://nrk-od-world-47.akamaized.net/open/ps/nnfa/nnfa21072826/5b68556d-7.smil/thumb.jpg?t=485&scale=480x270&v=high"
+    },
+    {
+      "startTime": 479,
+      "title": "DAGENS BILDE",
+      "img": "https://nrk-od-world-47.akamaized.net/open/ps/nnfa/nnfa21072826/5b68556d-7.smil/thumb.jpg?t=505&scale=480x270&v=high"
+    },
+    {
+      "startTime": 497,
+      "title": "Været",
+      "img": "https://nrk-od-world-47.akamaized.net/open/ps/nnfa/nnfa21072826/5b68556d-7.smil/thumb.jpg?t=522&scale=480x270&v=high"
+    },
+    {
+      "startTime": 548,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-47.akamaized.net/open/ps/nnfa/nnfa21072826/5b68556d-7.smil/thumb.jpg?t=567.67&scale=480x270&v=high"
+    }
+  ]
+}
