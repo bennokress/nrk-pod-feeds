@@ -1,0 +1,263 @@
+{
+  "version": "1.2.0",
+  "title": "Mistenkt skutt og drept etter pride-terror i Berlin",
+  "author": "NRK",
+  "podcastName": "Nyhetsmorgen",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "NRK Nyheter 07:00",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa05072726/d2af10ea-6.smil/thumb.jpg?t=26&scale=480x270&v=high"
+    },
+    {
+      "startTime": 180,
+      "title": "Åpning 07:03",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa05072726/d2af10ea-6.smil/thumb.jpg?t=206&scale=480x270&v=high"
+    },
+    {
+      "startTime": 190,
+      "title": "Siste fra skogbrannene i Frankrike",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa05072726/d2af10ea-6.smil/thumb.jpg?t=215&scale=480x270&v=high"
+    },
+    {
+      "startTime": 208,
+      "title": "Åpning 07:03",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa05072726/d2af10ea-6.smil/thumb.jpg?t=234&scale=480x270&v=high"
+    },
+    {
+      "startTime": 255,
+      "title": "Siste fra skogbrannene i Frankrike",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa05072726/d2af10ea-6.smil/thumb.jpg?t=280&scale=480x270&v=high"
+    },
+    {
+      "startTime": 475,
+      "title": "Huseiere må bedre brannsikkerheten",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa05072726/d2af10ea-6.smil/thumb.jpg?t=500&scale=480x270&v=high"
+    },
+    {
+      "startTime": 673,
+      "title": "Siste etter pride-terroren i Berlin",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa05072726/d2af10ea-6.smil/thumb.jpg?t=699&scale=480x270&v=high"
+    },
+    {
+      "startTime": 916,
+      "title": "Overskrifter 07:15",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa05072726/d2af10ea-6.smil/thumb.jpg?t=941&scale=480x270&v=high"
+    },
+    {
+      "startTime": 955,
+      "title": "Verdens øyne rettet mot Mandebstredet",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa05072726/d2af10ea-6.smil/thumb.jpg?t=980&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1221,
+      "title": "Frykter høyere matvarepriser",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa05072726/d2af10ea-6.smil/thumb.jpg?t=1246&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1345,
+      "title": "Tour de France",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa05072726/d2af10ea-6.smil/thumb.jpg?t=1370&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1505,
+      "title": "Tek-fall på børsen",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa05072726/d2af10ea-6.smil/thumb.jpg?t=1530&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1684,
+      "title": "Dårligere turistsommer enn ventet",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa05072726/d2af10ea-6.smil/thumb.jpg?t=1710&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1802,
+      "title": "+",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa05072726/d2af10ea-6.smil/thumb.jpg?t=1827&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1832,
+      "title": "Siste nytt fra skogbrannene ved Bordeaux",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa05072726/d2af10ea-6.smil/thumb.jpg?t=1857&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1962,
+      "title": "Huseiere må bedre brannsikkerheten",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa05072726/d2af10ea-6.smil/thumb.jpg?t=1988&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2082,
+      "title": "Siste nytt fra Berlin",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa05072726/d2af10ea-6.smil/thumb.jpg?t=2107&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2197,
+      "title": "Nok en sjøvei kan bli stengt",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa05072726/d2af10ea-6.smil/thumb.jpg?t=2222&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2288,
+      "title": "Tilbake på jobb etter ferien",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa05072726/d2af10ea-6.smil/thumb.jpg?t=2314&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2397,
+      "title": "Åpning 07:40",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa05072726/d2af10ea-6.smil/thumb.jpg?t=2422&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2433,
+      "title": "De beste forsikringstipsene",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa05072726/d2af10ea-6.smil/thumb.jpg?t=2459&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2759,
+      "title": "Topper 07:45",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa05072726/d2af10ea-6.smil/thumb.jpg?t=2784&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2801,
+      "title": "Overlevde pride-terroren i Oslo",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa05072726/d2af10ea-6.smil/thumb.jpg?t=2827&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3091,
+      "title": "Leter etter savnede katter",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa05072726/d2af10ea-6.smil/thumb.jpg?t=3116&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3281,
+      "title": "Tate-brørne i retten",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa05072726/d2af10ea-6.smil/thumb.jpg?t=3306&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3445,
+      "title": "Skredsikrer i Honningsvåg",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa05072726/d2af10ea-6.smil/thumb.jpg?t=3470&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3566,
+      "title": "Trailer: Oppdrag Europa",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa05072726/d2af10ea-6.smil/thumb.jpg?t=3592&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3600,
+      "title": "NRK Nyheter 08:00",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa05072726/d2af10ea-6.smil/thumb.jpg?t=3626&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3781,
+      "title": "Åpning 08:03",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa05072726/d2af10ea-6.smil/thumb.jpg?t=3807&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3840,
+      "title": "Oljeprisen fell",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa05072726/d2af10ea-6.smil/thumb.jpg?t=3866&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3992,
+      "title": "Frykter høyere matvarepriser",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa05072726/d2af10ea-6.smil/thumb.jpg?t=4018&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4114,
+      "title": "Huseiere må bedre brannsikkerheten",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa05072726/d2af10ea-6.smil/thumb.jpg?t=4139&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4310,
+      "title": "Tek-fall på børsen",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa05072726/d2af10ea-6.smil/thumb.jpg?t=4335&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4495,
+      "title": "Overskrifter 08:15",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa05072726/d2af10ea-6.smil/thumb.jpg?t=4520&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4536,
+      "title": "Klimaforsker om skogbranner",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa05072726/d2af10ea-6.smil/thumb.jpg?t=4561&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4888,
+      "title": "Dårligere turistsommer enn ventet",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa05072726/d2af10ea-6.smil/thumb.jpg?t=4913&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5102,
+      "title": "Protestar mot turisme Mallorca",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa05072726/d2af10ea-6.smil/thumb.jpg?t=5128&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5248,
+      "title": "Tour de France",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa05072726/d2af10ea-6.smil/thumb.jpg?t=5273&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5407,
+      "title": "Overskrifter 08:30",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa05072726/d2af10ea-6.smil/thumb.jpg?t=5432&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5441,
+      "title": "Skogbrannar Frankrike",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa05072726/d2af10ea-6.smil/thumb.jpg?t=5467&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5696,
+      "title": "Lettelse i Berlin",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa05072726/d2af10ea-6.smil/thumb.jpg?t=5722&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5786,
+      "title": "Overlevde pride-terror",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa05072726/d2af10ea-6.smil/thumb.jpg?t=5811&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6039,
+      "title": "Nok en sjøvei kan bli stengt",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa05072726/d2af10ea-6.smil/thumb.jpg?t=6065&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6104,
+      "title": "Bærsesong og sylting",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa05072726/d2af10ea-6.smil/thumb.jpg?t=6130&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6414,
+      "title": "DIR Før P2-pulsen i NRK P2",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa05072726/d2af10ea-6.smil/thumb.jpg?t=6440&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6461,
+      "title": "Overskrifter 08:45",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa05072726/d2af10ea-6.smil/thumb.jpg?t=6487&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6516,
+      "title": "GJEST Anmeldelse Krigen av Pascal Engman",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa05072726/d2af10ea-6.smil/thumb.jpg?t=6542&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6762,
+      "title": "Norges første beredskapsgrend",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa05072726/d2af10ea-6.smil/thumb.jpg?t=6787&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6854,
+      "title": "Tilbake på jobb etter ferien",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa05072726/d2af10ea-6.smil/thumb.jpg?t=6879&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7052,
+      "title": "GJEST Været i dag",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa05072726/d2af10ea-6.smil/thumb.jpg?t=7078&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7191,
+      "title": "Avslutning",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa05072726/d2af10ea-6.smil/thumb.jpg?t=7203.16&scale=480x270&v=high"
+    }
+  ]
+}
