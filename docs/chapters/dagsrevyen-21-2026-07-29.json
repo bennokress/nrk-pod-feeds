@@ -1,0 +1,58 @@
+{
+  "version": "1.2.0",
+  "title": "Evakuerte 90 nordmenn",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa21072926/32696c93-7.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 26,
+      "title": "Hellas brann",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa21072926/32696c93-7.smil/thumb.jpg?t=52&scale=480x270&v=high"
+    },
+    {
+      "startTime": 88,
+      "title": "Evakuerte vender hjem i Spania",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa21072926/32696c93-7.smil/thumb.jpg?t=113&scale=480x270&v=high"
+    },
+    {
+      "startTime": 186,
+      "title": "Rente USA",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa21072926/32696c93-7.smil/thumb.jpg?t=212&scale=480x270&v=high"
+    },
+    {
+      "startTime": 256,
+      "title": "Lindsey Graham",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa21072926/32696c93-7.smil/thumb.jpg?t=281&scale=480x270&v=high"
+    },
+    {
+      "startTime": 286,
+      "title": "Båtulykke Sverige",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa21072926/32696c93-7.smil/thumb.jpg?t=311&scale=480x270&v=high"
+    },
+    {
+      "startTime": 317,
+      "title": "Trafikkulykke",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa21072926/32696c93-7.smil/thumb.jpg?t=343&scale=480x270&v=high"
+    },
+    {
+      "startTime": 387,
+      "title": "Bobilturister jakter gratis overnatting",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa21072926/32696c93-7.smil/thumb.jpg?t=412&scale=480x270&v=high"
+    },
+    {
+      "startTime": 501,
+      "title": "Været",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa21072926/32696c93-7.smil/thumb.jpg?t=527&scale=480x270&v=high"
+    },
+    {
+      "startTime": 555,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa21072926/32696c93-7.smil/thumb.jpg?t=576.72&scale=480x270&v=high"
+    }
+  ]
+}
