@@ -1,0 +1,58 @@
+{
+  "version": "1.2.0",
+  "title": "Skogbrannen i Frankrike",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa23072726/3d2ebbd6-10.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 35,
+      "title": "Frykter mer brann i Frankrike og Spania",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa23072726/3d2ebbd6-10.smil/thumb.jpg?t=61&scale=480x270&v=high"
+    },
+    {
+      "startTime": 141,
+      "title": "Terroren i Berlin",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa23072726/3d2ebbd6-10.smil/thumb.jpg?t=166&scale=480x270&v=high"
+    },
+    {
+      "startTime": 235,
+      "title": "Har flyttet i bobilen etter ulykken",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa23072726/3d2ebbd6-10.smil/thumb.jpg?t=260&scale=480x270&v=high"
+    },
+    {
+      "startTime": 348,
+      "title": "Krigen i Iran har gjort det vanskeligere for turister fra Asia",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa23072726/3d2ebbd6-10.smil/thumb.jpg?t=373&scale=480x270&v=high"
+    },
+    {
+      "startTime": 473,
+      "title": "Kongelig besøk",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa23072726/3d2ebbd6-10.smil/thumb.jpg?t=498&scale=480x270&v=high"
+    },
+    {
+      "startTime": 503,
+      "title": "RBK-FFK",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa23072726/3d2ebbd6-10.smil/thumb.jpg?t=529&scale=480x270&v=high"
+    },
+    {
+      "startTime": 595,
+      "title": "Jakob Ingebrigtsen EM",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa23072726/3d2ebbd6-10.smil/thumb.jpg?t=620&scale=480x270&v=high"
+    },
+    {
+      "startTime": 663,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa23072726/3d2ebbd6-10.smil/thumb.jpg?t=688&scale=480x270&v=high"
+    },
+    {
+      "startTime": 731,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa23072726/3d2ebbd6-10.smil/thumb.jpg?t=750.6&scale=480x270&v=high"
+    }
+  ]
+}
