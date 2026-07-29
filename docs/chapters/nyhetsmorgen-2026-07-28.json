@@ -1,0 +1,203 @@
+{
+  "version": "1.2.0",
+  "title": "Svært sjelden at rekkehusbranner sprer seg",
+  "author": "NRK",
+  "podcastName": "Nyhetsmorgen",
+  "chapters": [
+    {
+      "startTime": 179,
+      "title": "Åpning 07:03",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa05072826/4103c018-7.smil/thumb.jpg?t=205&scale=480x270&v=high"
+    },
+    {
+      "startTime": 242,
+      "title": "Skogbrannar Frankrike og Spania",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa05072826/4103c018-7.smil/thumb.jpg?t=268&scale=480x270&v=high"
+    },
+    {
+      "startTime": 374,
+      "title": "Uvanlig at rekkehusbranner sprer seg",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa05072826/4103c018-7.smil/thumb.jpg?t=399&scale=480x270&v=high"
+    },
+    {
+      "startTime": 592,
+      "title": "Oljemarkedet håper på løsning",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa05072826/4103c018-7.smil/thumb.jpg?t=618&scale=480x270&v=high"
+    },
+    {
+      "startTime": 799,
+      "title": "Netanyahu til Det hvite hus",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa05072826/4103c018-7.smil/thumb.jpg?t=825&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1049,
+      "title": "Debatt i Tyskland etter terror-åtak",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa05072826/4103c018-7.smil/thumb.jpg?t=1075&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1284,
+      "title": "Val til hausten i Tyskland",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa05072826/4103c018-7.smil/thumb.jpg?t=1309&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1662,
+      "title": "Rosenborg med tredje strake seier",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa05072826/4103c018-7.smil/thumb.jpg?t=1688&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1767,
+      "title": "Sommer i P2",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa05072826/4103c018-7.smil/thumb.jpg?t=1793&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1800,
+      "title": "Overskrifter 07:30",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa05072826/4103c018-7.smil/thumb.jpg?t=1826&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1831,
+      "title": "Skogbrannar Frankrike og Spania",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa05072826/4103c018-7.smil/thumb.jpg?t=1856&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1943,
+      "title": "Uvanlig at rekkehusbranner sprer seg",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa05072826/4103c018-7.smil/thumb.jpg?t=1968&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2069,
+      "title": "Oljemarkedet håper på løsning",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa05072826/4103c018-7.smil/thumb.jpg?t=2095&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2185,
+      "title": "Netanyahu til Det hvite hus",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa05072826/4103c018-7.smil/thumb.jpg?t=2211&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2252,
+      "title": "Brasil slo Norge...til slutt",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa05072826/4103c018-7.smil/thumb.jpg?t=2277&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2479,
+      "title": "Sigrid er på turné med Ed Sheeran",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa05072826/4103c018-7.smil/thumb.jpg?t=2504&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2552,
+      "title": "Sigrid på turné med Ed Sheeran",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa05072826/4103c018-7.smil/thumb.jpg?t=2578&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2869,
+      "title": "Skogbrannene herjer i Spania",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa05072826/4103c018-7.smil/thumb.jpg?t=2895&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3145,
+      "title": "Krev handling mot einsemd",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa05072826/4103c018-7.smil/thumb.jpg?t=3170&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3271,
+      "title": "Norges yngste bonde?",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa05072826/4103c018-7.smil/thumb.jpg?t=3297&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3407,
+      "title": "Brasil slo Norge...til slutt",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa05072826/4103c018-7.smil/thumb.jpg?t=3432&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3601,
+      "title": "NRK Nyheter 08:00",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa05072826/4103c018-7.smil/thumb.jpg?t=3626&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3779,
+      "title": "Åpning 08:03",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa05072826/4103c018-7.smil/thumb.jpg?t=3804&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3831,
+      "title": "Skogbrannar Frankrike og Spania",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa05072826/4103c018-7.smil/thumb.jpg?t=3857&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3952,
+      "title": "Nok ein hetebølge på veg i Frankrike",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa05072826/4103c018-7.smil/thumb.jpg?t=3977&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4124,
+      "title": "Uvanlig at rekkehusbranner sprer seg",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa05072826/4103c018-7.smil/thumb.jpg?t=4149&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4344,
+      "title": "Flere autoimmune sykdommer i nord",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa05072826/4103c018-7.smil/thumb.jpg?t=4369&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4505,
+      "title": "Dating i Japan",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa05072826/4103c018-7.smil/thumb.jpg?t=4531&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4739,
+      "title": "Val til hausten i Tyskland",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa05072826/4103c018-7.smil/thumb.jpg?t=4764&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5136,
+      "title": "Bokanbefalinger på tampen av sommaren",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa05072826/4103c018-7.smil/thumb.jpg?t=5162&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5456,
+      "title": "Oljemarkedet håper på løsning",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa05072826/4103c018-7.smil/thumb.jpg?t=5481&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5573,
+      "title": "Netanyahu til Det hvite hus",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa05072826/4103c018-7.smil/thumb.jpg?t=5599&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5777,
+      "title": "Gjentar historien seg?",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa05072826/4103c018-7.smil/thumb.jpg?t=5802&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6161,
+      "title": "Pilegrimstur til Trondheim",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa05072826/4103c018-7.smil/thumb.jpg?t=6187&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6374,
+      "title": "Hør P2-pulsen i NRK P2",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa05072826/4103c018-7.smil/thumb.jpg?t=6400&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6451,
+      "title": "Håper ny pille kan stoppe diabetes 1",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa05072826/4103c018-7.smil/thumb.jpg?t=6477&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6674,
+      "title": "Anmeldelse Nørregaard-utstilling",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa05072826/4103c018-7.smil/thumb.jpg?t=6699&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6916,
+      "title": "Elsparkesykler trimmes",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa05072826/4103c018-7.smil/thumb.jpg?t=6942&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7054,
+      "title": "Været i dag",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa05072826/4103c018-7.smil/thumb.jpg?t=7079&scale=480x270&v=high"
+    }
+  ]
+}
