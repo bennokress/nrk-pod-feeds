@@ -1,0 +1,123 @@
+{
+  "version": "1.2.0",
+  "title": "Avslutter søk etter levende",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 10,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa19072926/1c00835f-8.smil/thumb.jpg?t=35&scale=480x270&v=high"
+    },
+    {
+      "startTime": 56,
+      "title": "Fifa",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa19072926/1c00835f-8.smil/thumb.jpg?t=82&scale=480x270&v=high"
+    },
+    {
+      "startTime": 156,
+      "title": "Direkte Tønsberg",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa19072926/1c00835f-8.smil/thumb.jpg?t=182&scale=480x270&v=high"
+    },
+    {
+      "startTime": 240,
+      "title": "Direkte: Sverige",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa19072926/1c00835f-8.smil/thumb.jpg?t=266&scale=480x270&v=high"
+    },
+    {
+      "startTime": 296,
+      "title": "Båtulykke",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa19072926/1c00835f-8.smil/thumb.jpg?t=321&scale=480x270&v=high"
+    },
+    {
+      "startTime": 413,
+      "title": "Direkte: Sverige",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa19072926/1c00835f-8.smil/thumb.jpg?t=439&scale=480x270&v=high"
+    },
+    {
+      "startTime": 451,
+      "title": "Sosialhjelp",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa19072926/1c00835f-8.smil/thumb.jpg?t=477&scale=480x270&v=high"
+    },
+    {
+      "startTime": 572,
+      "title": "Midtøsten",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa19072926/1c00835f-8.smil/thumb.jpg?t=598&scale=480x270&v=high"
+    },
+    {
+      "startTime": 607,
+      "title": "Direkte: Beirut",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa19072926/1c00835f-8.smil/thumb.jpg?t=633&scale=480x270&v=high"
+    },
+    {
+      "startTime": 707,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa19072926/1c00835f-8.smil/thumb.jpg?t=732&scale=480x270&v=high"
+    },
+    {
+      "startTime": 776,
+      "title": "Nærbø-drapet",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa19072926/1c00835f-8.smil/thumb.jpg?t=802&scale=480x270&v=high"
+    },
+    {
+      "startTime": 853,
+      "title": "Norway Cup",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa19072926/1c00835f-8.smil/thumb.jpg?t=879&scale=480x270&v=high"
+    },
+    {
+      "startTime": 984,
+      "title": "19-åring dømt",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa19072926/1c00835f-8.smil/thumb.jpg?t=1010&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1014,
+      "title": "Skogbranner Spania",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa19072926/1c00835f-8.smil/thumb.jpg?t=1039&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1039,
+      "title": "Direkte: Spania",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa19072926/1c00835f-8.smil/thumb.jpg?t=1064&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1137,
+      "title": "Utenriksnyheter",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa19072926/1c00835f-8.smil/thumb.jpg?t=1162&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1225,
+      "title": "Olsok",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa19072926/1c00835f-8.smil/thumb.jpg?t=1251&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1258,
+      "title": "Peer Gynt-spelet",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa19072926/1c00835f-8.smil/thumb.jpg?t=1284&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1388,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa19072926/1c00835f-8.smil/thumb.jpg?t=1414&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1396,
+      "title": "PK Reitan Hovland",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa19072926/1c00835f-8.smil/thumb.jpg?t=1422&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1474,
+      "title": "Ukraina anker",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa19072926/1c00835f-8.smil/thumb.jpg?t=1500&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1498,
+      "title": "Skøyter",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa19072926/1c00835f-8.smil/thumb.jpg?t=1523&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1572,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa19072926/1c00835f-8.smil/thumb.jpg?t=1597&scale=480x270&v=high"
+    }
+  ]
+}
