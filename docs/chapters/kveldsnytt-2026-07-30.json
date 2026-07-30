@@ -1,0 +1,63 @@
+{
+  "version": "1.2.0",
+  "title": "Fraråder å lade i tordenvær",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa23073026/7bda8c0c-6.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 39,
+      "title": "Barn funnet Sverige",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa23073026/7bda8c0c-6.smil/thumb.jpg?t=65&scale=480x270&v=high"
+    },
+    {
+      "startTime": 73,
+      "title": "Flyktninger Spania",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa23073026/7bda8c0c-6.smil/thumb.jpg?t=99&scale=480x270&v=high"
+    },
+    {
+      "startTime": 178,
+      "title": "Tech-giganter",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa23073026/7bda8c0c-6.smil/thumb.jpg?t=203&scale=480x270&v=high"
+    },
+    {
+      "startTime": 216,
+      "title": "Norway Cup",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa23073026/7bda8c0c-6.smil/thumb.jpg?t=241&scale=480x270&v=high"
+    },
+    {
+      "startTime": 266,
+      "title": "Lyn og torden",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa23073026/7bda8c0c-6.smil/thumb.jpg?t=292&scale=480x270&v=high"
+    },
+    {
+      "startTime": 334,
+      "title": "Krepsepest i Drammensvassdraget",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa23073026/7bda8c0c-6.smil/thumb.jpg?t=360&scale=480x270&v=high"
+    },
+    {
+      "startTime": 444,
+      "title": "Landsfestivalen i gammeldansmusikk",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa23073026/7bda8c0c-6.smil/thumb.jpg?t=470&scale=480x270&v=high"
+    },
+    {
+      "startTime": 555,
+      "title": "Fotball",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa23073026/7bda8c0c-6.smil/thumb.jpg?t=580&scale=480x270&v=high"
+    },
+    {
+      "startTime": 705,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa23073026/7bda8c0c-6.smil/thumb.jpg?t=731&scale=480x270&v=high"
+    },
+    {
+      "startTime": 781,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa23073026/7bda8c0c-6.smil/thumb.jpg?t=802.6&scale=480x270&v=high"
+    }
+  ]
+}
