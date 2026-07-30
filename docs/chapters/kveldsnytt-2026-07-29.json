@@ -1,0 +1,83 @@
+{
+  "version": "1.2.0",
+  "title": "Plages av cruiseskip",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa23072926/5b7e6115-13.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 35,
+      "title": "Resultater Meta og Microsoft",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa23072926/5b7e6115-13.smil/thumb.jpg?t=60&scale=480x270&v=high"
+    },
+    {
+      "startTime": 67,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa23072926/5b7e6115-13.smil/thumb.jpg?t=93&scale=480x270&v=high"
+    },
+    {
+      "startTime": 160,
+      "title": "Trump truer Iran",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa23072926/5b7e6115-13.smil/thumb.jpg?t=186&scale=480x270&v=high"
+    },
+    {
+      "startTime": 218,
+      "title": "Mikkel Øyen får ikke bruke elektrisk rullestol i heisen",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa23072926/5b7e6115-13.smil/thumb.jpg?t=243&scale=480x270&v=high"
+    },
+    {
+      "startTime": 301,
+      "title": "Krokstadelva",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa23072926/5b7e6115-13.smil/thumb.jpg?t=327&scale=480x270&v=high"
+    },
+    {
+      "startTime": 323,
+      "title": "Ulykke Dovre",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa23072926/5b7e6115-13.smil/thumb.jpg?t=348&scale=480x270&v=high"
+    },
+    {
+      "startTime": 353,
+      "title": "Bekymret over fengselsbemanning",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa23072926/5b7e6115-13.smil/thumb.jpg?t=378&scale=480x270&v=high"
+    },
+    {
+      "startTime": 471,
+      "title": "Minnemarkering",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa23072926/5b7e6115-13.smil/thumb.jpg?t=496&scale=480x270&v=high"
+    },
+    {
+      "startTime": 488,
+      "title": "Cruisenæringa i Måløy har skote fart dei siste åra.",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa23072926/5b7e6115-13.smil/thumb.jpg?t=514&scale=480x270&v=high"
+    },
+    {
+      "startTime": 597,
+      "title": "Europaliga og serieliga",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa23072926/5b7e6115-13.smil/thumb.jpg?t=622&scale=480x270&v=high"
+    },
+    {
+      "startTime": 693,
+      "title": "VM-reaksjoner",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa23072926/5b7e6115-13.smil/thumb.jpg?t=719&scale=480x270&v=high"
+    },
+    {
+      "startTime": 778,
+      "title": "Supermåne",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa23072926/5b7e6115-13.smil/thumb.jpg?t=803&scale=480x270&v=high"
+    },
+    {
+      "startTime": 806,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa23072926/5b7e6115-13.smil/thumb.jpg?t=832&scale=480x270&v=high"
+    },
+    {
+      "startTime": 873,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa23072926/5b7e6115-13.smil/thumb.jpg?t=891.52&scale=480x270&v=high"
+    }
+  ]
+}
