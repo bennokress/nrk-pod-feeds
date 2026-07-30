@@ -1,0 +1,68 @@
+{
+  "version": "1.2.0",
+  "title": "Flyktninger krysser grense",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-95.akamaized.net/open/ps/nnfa/nnfa21073026/6837c56f-6.smil/thumb.jpg?t=26&scale=480x270&v=high"
+    },
+    {
+      "startTime": 27,
+      "title": "Flyktninger Spania",
+      "img": "https://nrk-od-world-95.akamaized.net/open/ps/nnfa/nnfa21073026/6837c56f-6.smil/thumb.jpg?t=53&scale=480x270&v=high"
+    },
+    {
+      "startTime": 121,
+      "title": "Fifa boikott",
+      "img": "https://nrk-od-world-95.akamaized.net/open/ps/nnfa/nnfa21073026/6837c56f-6.smil/thumb.jpg?t=146&scale=480x270&v=high"
+    },
+    {
+      "startTime": 180,
+      "title": "Brann England",
+      "img": "https://nrk-od-world-95.akamaized.net/open/ps/nnfa/nnfa21073026/6837c56f-6.smil/thumb.jpg?t=205&scale=480x270&v=high"
+    },
+    {
+      "startTime": 214,
+      "title": "Verden torsdag",
+      "img": "https://nrk-od-world-95.akamaized.net/open/ps/nnfa/nnfa21073026/6837c56f-6.smil/thumb.jpg?t=240&scale=480x270&v=high"
+    },
+    {
+      "startTime": 305,
+      "title": "Krokstadelva",
+      "img": "https://nrk-od-world-95.akamaized.net/open/ps/nnfa/nnfa21073026/6837c56f-6.smil/thumb.jpg?t=330&scale=480x270&v=high"
+    },
+    {
+      "startTime": 341,
+      "title": "Båtulykke Sverige",
+      "img": "https://nrk-od-world-95.akamaized.net/open/ps/nnfa/nnfa21073026/6837c56f-6.smil/thumb.jpg?t=367&scale=480x270&v=high"
+    },
+    {
+      "startTime": 365,
+      "title": "Naboer krever tiltak i Råde",
+      "img": "https://nrk-od-world-95.akamaized.net/open/ps/nnfa/nnfa21073026/6837c56f-6.smil/thumb.jpg?t=391&scale=480x270&v=high"
+    },
+    {
+      "startTime": 474,
+      "title": "Kronprinsparet",
+      "img": "https://nrk-od-world-95.akamaized.net/open/ps/nnfa/nnfa21073026/6837c56f-6.smil/thumb.jpg?t=499&scale=480x270&v=high"
+    },
+    {
+      "startTime": 498,
+      "title": "Norway Cup",
+      "img": "https://nrk-od-world-95.akamaized.net/open/ps/nnfa/nnfa21073026/6837c56f-6.smil/thumb.jpg?t=523&scale=480x270&v=high"
+    },
+    {
+      "startTime": 520,
+      "title": "Været",
+      "img": "https://nrk-od-world-95.akamaized.net/open/ps/nnfa/nnfa21073026/6837c56f-6.smil/thumb.jpg?t=545&scale=480x270&v=high"
+    },
+    {
+      "startTime": 573,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-95.akamaized.net/open/ps/nnfa/nnfa21073026/6837c56f-6.smil/thumb.jpg?t=592.48&scale=480x270&v=high"
+    }
+  ]
+}
