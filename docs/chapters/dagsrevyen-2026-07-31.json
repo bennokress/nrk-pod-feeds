@@ -1,0 +1,93 @@
+{
+  "version": "1.2.0",
+  "title": "Sender sjokkbølger gjennom Europa",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 11,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa19073126/43265b94-6.smil/thumb.jpg?t=36&scale=480x270&v=high"
+    },
+    {
+      "startTime": 67,
+      "title": "Migranter Spania",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa19073126/43265b94-6.smil/thumb.jpg?t=92&scale=480x270&v=high"
+    },
+    {
+      "startTime": 189,
+      "title": "Direkte: Spania",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa19073126/43265b94-6.smil/thumb.jpg?t=214&scale=480x270&v=high"
+    },
+    {
+      "startTime": 275,
+      "title": "Migranter Spania",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa19073126/43265b94-6.smil/thumb.jpg?t=300&scale=480x270&v=high"
+    },
+    {
+      "startTime": 391,
+      "title": "Gjest: Forfang",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa19073126/43265b94-6.smil/thumb.jpg?t=417&scale=480x270&v=high"
+    },
+    {
+      "startTime": 520,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa19073126/43265b94-6.smil/thumb.jpg?t=545&scale=480x270&v=high"
+    },
+    {
+      "startTime": 622,
+      "title": "Hamas avvæpning",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa19073126/43265b94-6.smil/thumb.jpg?t=647&scale=480x270&v=high"
+    },
+    {
+      "startTime": 734,
+      "title": "Direkte: Beirut",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa19073126/43265b94-6.smil/thumb.jpg?t=760&scale=480x270&v=high"
+    },
+    {
+      "startTime": 823,
+      "title": "Begravelse Olaf Tufte",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa19073126/43265b94-6.smil/thumb.jpg?t=849&scale=480x270&v=high"
+    },
+    {
+      "startTime": 959,
+      "title": "Høie begravet",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa19073126/43265b94-6.smil/thumb.jpg?t=984&scale=480x270&v=high"
+    },
+    {
+      "startTime": 975,
+      "title": "Fifa-bråket",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa19073126/43265b94-6.smil/thumb.jpg?t=1001&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1179,
+      "title": "Gjest: Saltvedt",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa19073126/43265b94-6.smil/thumb.jpg?t=1204&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1287,
+      "title": "Relevant sommerjobb",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa19073126/43265b94-6.smil/thumb.jpg?t=1313&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1397,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa19073126/43265b94-6.smil/thumb.jpg?t=1422&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1405,
+      "title": "Nyland fremtid",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa19073126/43265b94-6.smil/thumb.jpg?t=1431&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1519,
+      "title": "Julie skøyteløper",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa19073126/43265b94-6.smil/thumb.jpg?t=1544&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1597,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa19073126/43265b94-6.smil/thumb.jpg?t=1623&scale=480x270&v=high"
+    }
+  ]
+}
