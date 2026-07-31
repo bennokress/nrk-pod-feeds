@@ -1,0 +1,238 @@
+{
+  "version": "1.2.0",
+  "title": "Kamp om studentboligene",
+  "author": "NRK",
+  "podcastName": "Nyhetsmorgen",
+  "chapters": [
+    {
+      "startTime": 4,
+      "title": "NRK Nyheter 07:00",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa05073026/dfb40e7c-6.smil/thumb.jpg?t=29&scale=480x270&v=high"
+    },
+    {
+      "startTime": 183,
+      "title": "Åpning 07:03",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa05073026/dfb40e7c-6.smil/thumb.jpg?t=208&scale=480x270&v=high"
+    },
+    {
+      "startTime": 240,
+      "title": "Store angrep mot Ukraina i natt",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa05073026/dfb40e7c-6.smil/thumb.jpg?t=265&scale=480x270&v=high"
+    },
+    {
+      "startTime": 437,
+      "title": "Skogbranner i Spania",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa05073026/dfb40e7c-6.smil/thumb.jpg?t=463&scale=480x270&v=high"
+    },
+    {
+      "startTime": 714,
+      "title": "Kamp om studentboligene",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa05073026/dfb40e7c-6.smil/thumb.jpg?t=740&scale=480x270&v=high"
+    },
+    {
+      "startTime": 901,
+      "title": "Vil ha flere studentboliger",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa05073026/dfb40e7c-6.smil/thumb.jpg?t=926&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1188,
+      "title": "Tek-gigantenes resultater overrasker",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa05073026/dfb40e7c-6.smil/thumb.jpg?t=1214&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1345,
+      "title": "Ny teknologi kan lese papyrusruller",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa05073026/dfb40e7c-6.smil/thumb.jpg?t=1371&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1569,
+      "title": "Rekordmange søker til Norseman",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa05073026/dfb40e7c-6.smil/thumb.jpg?t=1595&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1764,
+      "title": "Trailer - Oppdrag Europa",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa05073026/dfb40e7c-6.smil/thumb.jpg?t=1790&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1800,
+      "title": "Overskrifter 07:30",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa05073026/dfb40e7c-6.smil/thumb.jpg?t=1826&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1848,
+      "title": "Store russiske angrep på Ukraina",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa05073026/dfb40e7c-6.smil/thumb.jpg?t=1873&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1917,
+      "title": "Skogbranner i Spania",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa05073026/dfb40e7c-6.smil/thumb.jpg?t=1943&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2027,
+      "title": "USA med nye angrep i Iran",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa05073026/dfb40e7c-6.smil/thumb.jpg?t=2053&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2034,
+      "title": "Dødstall Japan",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa05073026/dfb40e7c-6.smil/thumb.jpg?t=2060&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2051,
+      "title": "Kamp om studentboligene",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa05073026/dfb40e7c-6.smil/thumb.jpg?t=2077&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2167,
+      "title": "Økning i utlån av Odysseen",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa05073026/dfb40e7c-6.smil/thumb.jpg?t=2193&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2279,
+      "title": "Ny teknologi kan lese papyrusruller",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa05073026/dfb40e7c-6.smil/thumb.jpg?t=2305&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2401,
+      "title": "Åpning 07:40",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa05073026/dfb40e7c-6.smil/thumb.jpg?t=2427&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2414,
+      "title": "Fifa vil selge VM-rettigheter",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa05073026/dfb40e7c-6.smil/thumb.jpg?t=2440&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2762,
+      "title": "Lanserer nytt golfkonsept",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa05073026/dfb40e7c-6.smil/thumb.jpg?t=2788&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2903,
+      "title": "Vinproduksjonen i Frankrike",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa05073026/dfb40e7c-6.smil/thumb.jpg?t=2929&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3185,
+      "title": "Frost i multemyren",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa05073026/dfb40e7c-6.smil/thumb.jpg?t=3211&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3311,
+      "title": "Kritikk mot container-brakker",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa05073026/dfb40e7c-6.smil/thumb.jpg?t=3336&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3568,
+      "title": "Trailer - Sommer i P2",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa05073026/dfb40e7c-6.smil/thumb.jpg?t=3593&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3600,
+      "title": "NRK Nyheter 08:00",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa05073026/dfb40e7c-6.smil/thumb.jpg?t=3626&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3780,
+      "title": "Åpning 08:03",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa05073026/dfb40e7c-6.smil/thumb.jpg?t=3805&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3837,
+      "title": "Nye angrep mot Iran",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa05073026/dfb40e7c-6.smil/thumb.jpg?t=3863&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4116,
+      "title": "Skogbranner i Spania",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa05073026/dfb40e7c-6.smil/thumb.jpg?t=4141&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4303,
+      "title": "Lav vanngrad i Donau",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa05073026/dfb40e7c-6.smil/thumb.jpg?t=4328&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4488,
+      "title": "Tek-giganter med resultater",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa05073026/dfb40e7c-6.smil/thumb.jpg?t=4513&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4647,
+      "title": "Det psykososiale er viktig etter brann",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa05073026/dfb40e7c-6.smil/thumb.jpg?t=4672&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4770,
+      "title": "Økning i utlån av Odysseen",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa05073026/dfb40e7c-6.smil/thumb.jpg?t=4796&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4957,
+      "title": "Kulturkommentator om Odysseen",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa05073026/dfb40e7c-6.smil/thumb.jpg?t=4982&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5255,
+      "title": "Lande synger med Black Sabbath-legende",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa05073026/dfb40e7c-6.smil/thumb.jpg?t=5280&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5454,
+      "title": "Store angrep mot Ukraina i natt",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa05073026/dfb40e7c-6.smil/thumb.jpg?t=5480&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5689,
+      "title": "Store himmelbegivenheter",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa05073026/dfb40e7c-6.smil/thumb.jpg?t=5714&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5900,
+      "title": "Kamp om studentboligene",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa05073026/dfb40e7c-6.smil/thumb.jpg?t=5925&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5913,
+      "title": "Store himmelbegivenheter",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa05073026/dfb40e7c-6.smil/thumb.jpg?t=5938&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5957,
+      "title": "Kamp om studentboligene",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa05073026/dfb40e7c-6.smil/thumb.jpg?t=5983&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6142,
+      "title": "Vil ha flere studentboliger",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa05073026/dfb40e7c-6.smil/thumb.jpg?t=6167&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6383,
+      "title": "DIR Før P2-pulsen i NRK P2",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa05073026/dfb40e7c-6.smil/thumb.jpg?t=6408&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6463,
+      "title": "Afrikansk meningsmåling overrasker",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa05073026/dfb40e7c-6.smil/thumb.jpg?t=6489&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6702,
+      "title": "Lanserer nytt golfkonsept",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa05073026/dfb40e7c-6.smil/thumb.jpg?t=6727&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6850,
+      "title": "Ny teknologi kan lese papyrusruller",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa05073026/dfb40e7c-6.smil/thumb.jpg?t=6875&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7060,
+      "title": "GJEST Været i dag",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa05073026/dfb40e7c-6.smil/thumb.jpg?t=7085&scale=480x270&v=high"
+    }
+  ]
+}
