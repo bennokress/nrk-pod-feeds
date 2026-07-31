@@ -1,0 +1,98 @@
+{
+  "version": "1.2.0",
+  "title": "Reiser til brannområdene",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 11,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa19073026/b8b75d28-10.smil/thumb.jpg?t=37&scale=480x270&v=high"
+    },
+    {
+      "startTime": 58,
+      "title": "Uefa-møte",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa19073026/b8b75d28-10.smil/thumb.jpg?t=83&scale=480x270&v=high"
+    },
+    {
+      "startTime": 169,
+      "title": "Gjest Saltvedt",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa19073026/b8b75d28-10.smil/thumb.jpg?t=194&scale=480x270&v=high"
+    },
+    {
+      "startTime": 269,
+      "title": "Skogbranner",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa19073026/b8b75d28-10.smil/thumb.jpg?t=294&scale=480x270&v=high"
+    },
+    {
+      "startTime": 457,
+      "title": "Direkte Spania",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa19073026/b8b75d28-10.smil/thumb.jpg?t=483&scale=480x270&v=high"
+    },
+    {
+      "startTime": 497,
+      "title": "Skogbranner",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa19073026/b8b75d28-10.smil/thumb.jpg?t=523&scale=480x270&v=high"
+    },
+    {
+      "startTime": 619,
+      "title": "Nærbø-drapet",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa19073026/b8b75d28-10.smil/thumb.jpg?t=645&scale=480x270&v=high"
+    },
+    {
+      "startTime": 737,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa19073026/b8b75d28-10.smil/thumb.jpg?t=763&scale=480x270&v=high"
+    },
+    {
+      "startTime": 809,
+      "title": "Studentboliger",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa19073026/b8b75d28-10.smil/thumb.jpg?t=835&scale=480x270&v=high"
+    },
+    {
+      "startTime": 940,
+      "title": "Angrep mot Ukraina",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa19073026/b8b75d28-10.smil/thumb.jpg?t=966&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1050,
+      "title": "Direkte. Moskva",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa19073026/b8b75d28-10.smil/thumb.jpg?t=1075&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1157,
+      "title": "Sommerleir",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa19073026/b8b75d28-10.smil/thumb.jpg?t=1182&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1265,
+      "title": "Dårlig multeår",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa19073026/b8b75d28-10.smil/thumb.jpg?t=1291&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1366,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa19073026/b8b75d28-10.smil/thumb.jpg?t=1391&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1370,
+      "title": "Brødreduell EM",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa19073026/b8b75d28-10.smil/thumb.jpg?t=1396&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1402,
+      "title": "Direkte Oslo",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa19073026/b8b75d28-10.smil/thumb.jpg?t=1427&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1490,
+      "title": "Norway cup",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa19073026/b8b75d28-10.smil/thumb.jpg?t=1515&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1561,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa19073026/b8b75d28-10.smil/thumb.jpg?t=1587&scale=480x270&v=high"
+    }
+  ]
+}
