@@ -1,0 +1,78 @@
+{
+  "version": "1.2.0",
+  "title": "Utrolig at vi står her",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-80.akamaized.net/open/ps/nnfa/nnfa23080126/98102a65-6.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 33,
+      "title": "Fifa-kritikk",
+      "img": "https://nrk-od-world-80.akamaized.net/open/ps/nnfa/nnfa23080126/98102a65-6.smil/thumb.jpg?t=58&scale=480x270&v=high"
+    },
+    {
+      "startTime": 119,
+      "title": "Ulykke Voss",
+      "img": "https://nrk-od-world-80.akamaized.net/open/ps/nnfa/nnfa23080126/98102a65-6.smil/thumb.jpg?t=145&scale=480x270&v=high"
+    },
+    {
+      "startTime": 144,
+      "title": "Utenriksnyheter",
+      "img": "https://nrk-od-world-80.akamaized.net/open/ps/nnfa/nnfa23080126/98102a65-6.smil/thumb.jpg?t=170&scale=480x270&v=high"
+    },
+    {
+      "startTime": 193,
+      "title": "Ceuta",
+      "img": "https://nrk-od-world-80.akamaized.net/open/ps/nnfa/nnfa23080126/98102a65-6.smil/thumb.jpg?t=218&scale=480x270&v=high"
+    },
+    {
+      "startTime": 221,
+      "title": "Norway Cup",
+      "img": "https://nrk-od-world-80.akamaized.net/open/ps/nnfa/nnfa23080126/98102a65-6.smil/thumb.jpg?t=246&scale=480x270&v=high"
+    },
+    {
+      "startTime": 318,
+      "title": "Oslometeren",
+      "img": "https://nrk-od-world-80.akamaized.net/open/ps/nnfa/nnfa23080126/98102a65-6.smil/thumb.jpg?t=343&scale=480x270&v=high"
+    },
+    {
+      "startTime": 415,
+      "title": "Musikkfestuka",
+      "img": "https://nrk-od-world-80.akamaized.net/open/ps/nnfa/nnfa23080126/98102a65-6.smil/thumb.jpg?t=440&scale=480x270&v=high"
+    },
+    {
+      "startTime": 455,
+      "title": "Peer Gynt-prisen",
+      "img": "https://nrk-od-world-80.akamaized.net/open/ps/nnfa/nnfa23080126/98102a65-6.smil/thumb.jpg?t=481&scale=480x270&v=high"
+    },
+    {
+      "startTime": 483,
+      "title": "Norseman",
+      "img": "https://nrk-od-world-80.akamaized.net/open/ps/nnfa/nnfa23080126/98102a65-6.smil/thumb.jpg?t=508&scale=480x270&v=high"
+    },
+    {
+      "startTime": 524,
+      "title": "Start-Viking eliteserien",
+      "img": "https://nrk-od-world-80.akamaized.net/open/ps/nnfa/nnfa23080126/98102a65-6.smil/thumb.jpg?t=550&scale=480x270&v=high"
+    },
+    {
+      "startTime": 622,
+      "title": "Stenshorne karting",
+      "img": "https://nrk-od-world-80.akamaized.net/open/ps/nnfa/nnfa23080126/98102a65-6.smil/thumb.jpg?t=647&scale=480x270&v=high"
+    },
+    {
+      "startTime": 714,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-80.akamaized.net/open/ps/nnfa/nnfa23080126/98102a65-6.smil/thumb.jpg?t=740&scale=480x270&v=high"
+    },
+    {
+      "startTime": 783,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-80.akamaized.net/open/ps/nnfa/nnfa23080126/98102a65-6.smil/thumb.jpg?t=803.8&scale=480x270&v=high"
+    }
+  ]
+}
