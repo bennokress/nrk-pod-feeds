@@ -1,0 +1,29 @@
+name: Renovate Notification
+
+on:
+  pull_request:
+    types: [opened]
+    branches: [main]
+
+jobs:
+  notify:
+    if: startsWith(github.event.pull_request.head.ref, 'renovate/')
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send Pushover notification
+        env:
+          PUSHOVER_TOKEN: ${{ secrets.RENOVATE_PUSHOVER_TOKEN }}
+          PUSHOVER_USER: ${{ secrets.RENOVATE_PUSHOVER_USER }}
+          PR_TITLE: ${{ github.event.pull_request.title }}
+          PR_URL: ${{ github.event.pull_request.html_url }}
+          PR_NUMBER: ${{ github.event.pull_request.number }}
+          REPOSITORY: ${{ github.repository }}
+        run: |
+          curl --silent --show-error --fail-with-body \
+            --data-urlencode "token=${PUSHOVER_TOKEN}" \
+            --data-urlencode "user=${PUSHOVER_USER}" \
+            --data-urlencode "title=Renovate: ${REPOSITORY}" \
+            --data-urlencode "message=${PR_TITLE}" \
+            --data-urlencode "url=${PR_URL}" \
+            --data-urlencode "url_title=Open pull request #${PR_NUMBER}" \
+            https://api.pushover.net/1/messages.json
