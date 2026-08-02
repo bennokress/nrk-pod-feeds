@@ -1,0 +1,103 @@
+{
+  "version": "1.2.0",
+  "title": "NRK på plass i Ceuta",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 11,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-54.akamaized.net/open/ps/nnfa/nnfa19080126/de2c393a-6.smil/thumb.jpg?t=37&scale=480x270&v=high"
+    },
+    {
+      "startTime": 88,
+      "title": "Uefa mistillit",
+      "img": "https://nrk-od-world-54.akamaized.net/open/ps/nnfa/nnfa19080126/de2c393a-6.smil/thumb.jpg?t=114&scale=480x270&v=high"
+    },
+    {
+      "startTime": 180,
+      "title": "Direkte Gålå",
+      "img": "https://nrk-od-world-54.akamaized.net/open/ps/nnfa/nnfa19080126/de2c393a-6.smil/thumb.jpg?t=205&scale=480x270&v=high"
+    },
+    {
+      "startTime": 446,
+      "title": "Ceuta",
+      "img": "https://nrk-od-world-54.akamaized.net/open/ps/nnfa/nnfa19080126/de2c393a-6.smil/thumb.jpg?t=472&scale=480x270&v=high"
+    },
+    {
+      "startTime": 461,
+      "title": "Direkte: Ceuta",
+      "img": "https://nrk-od-world-54.akamaized.net/open/ps/nnfa/nnfa19080126/de2c393a-6.smil/thumb.jpg?t=487&scale=480x270&v=high"
+    },
+    {
+      "startTime": 514,
+      "title": "Ceuta",
+      "img": "https://nrk-od-world-54.akamaized.net/open/ps/nnfa/nnfa19080126/de2c393a-6.smil/thumb.jpg?t=539&scale=480x270&v=high"
+    },
+    {
+      "startTime": 618,
+      "title": "Direkte: Ceuta",
+      "img": "https://nrk-od-world-54.akamaized.net/open/ps/nnfa/nnfa19080126/de2c393a-6.smil/thumb.jpg?t=643&scale=480x270&v=high"
+    },
+    {
+      "startTime": 738,
+      "title": "Ulykke Voss",
+      "img": "https://nrk-od-world-54.akamaized.net/open/ps/nnfa/nnfa19080126/de2c393a-6.smil/thumb.jpg?t=763&scale=480x270&v=high"
+    },
+    {
+      "startTime": 761,
+      "title": "Døde i trafikken",
+      "img": "https://nrk-od-world-54.akamaized.net/open/ps/nnfa/nnfa19080126/de2c393a-6.smil/thumb.jpg?t=787&scale=480x270&v=high"
+    },
+    {
+      "startTime": 880,
+      "title": "Cup-foreldre",
+      "img": "https://nrk-od-world-54.akamaized.net/open/ps/nnfa/nnfa19080126/de2c393a-6.smil/thumb.jpg?t=906&scale=480x270&v=high"
+    },
+    {
+      "startTime": 989,
+      "title": "Utenriksnyheter",
+      "img": "https://nrk-od-world-54.akamaized.net/open/ps/nnfa/nnfa19080126/de2c393a-6.smil/thumb.jpg?t=1014&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1083,
+      "title": "Tar pride tilbake",
+      "img": "https://nrk-od-world-54.akamaized.net/open/ps/nnfa/nnfa19080126/de2c393a-6.smil/thumb.jpg?t=1109&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1191,
+      "title": "Direkte: Hamburg",
+      "img": "https://nrk-od-world-54.akamaized.net/open/ps/nnfa/nnfa19080126/de2c393a-6.smil/thumb.jpg?t=1217&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1258,
+      "title": "Lørdagsgjest",
+      "img": "https://nrk-od-world-54.akamaized.net/open/ps/nnfa/nnfa19080126/de2c393a-6.smil/thumb.jpg?t=1284&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1547,
+      "title": "Peer Gynt-prisen",
+      "img": "https://nrk-od-world-54.akamaized.net/open/ps/nnfa/nnfa19080126/de2c393a-6.smil/thumb.jpg?t=1572&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1574,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-54.akamaized.net/open/ps/nnfa/nnfa19080126/de2c393a-6.smil/thumb.jpg?t=1599&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1579,
+      "title": "Start - Viking til nå",
+      "img": "https://nrk-od-world-54.akamaized.net/open/ps/nnfa/nnfa19080126/de2c393a-6.smil/thumb.jpg?t=1604&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1644,
+      "title": "FFK-Sandefjord",
+      "img": "https://nrk-od-world-54.akamaized.net/open/ps/nnfa/nnfa19080126/de2c393a-6.smil/thumb.jpg?t=1670&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1708,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-54.akamaized.net/open/ps/nnfa/nnfa19080126/de2c393a-6.smil/thumb.jpg?t=1734&scale=480x270&v=high"
+    }
+  ]
+}
