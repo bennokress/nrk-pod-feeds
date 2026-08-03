@@ -1,0 +1,83 @@
+{
+  "version": "1.2.0",
+  "title": "Varsler SAS-streik",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 1,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa23080326/77685bbd-8.smil/thumb.jpg?t=27&scale=480x270&v=high"
+    },
+    {
+      "startTime": 38,
+      "title": "Varsler streik",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa23080326/77685bbd-8.smil/thumb.jpg?t=64&scale=480x270&v=high"
+    },
+    {
+      "startTime": 158,
+      "title": "Frode Steen om streikefare",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa23080326/77685bbd-8.smil/thumb.jpg?t=183&scale=480x270&v=high"
+    },
+    {
+      "startTime": 185,
+      "title": "USA Iran",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa23080326/77685bbd-8.smil/thumb.jpg?t=211&scale=480x270&v=high"
+    },
+    {
+      "startTime": 250,
+      "title": "Saksøker Trump",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa23080326/77685bbd-8.smil/thumb.jpg?t=276&scale=480x270&v=high"
+    },
+    {
+      "startTime": 282,
+      "title": "Tilsyn av tuja",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa23080326/77685bbd-8.smil/thumb.jpg?t=308&scale=480x270&v=high"
+    },
+    {
+      "startTime": 354,
+      "title": "Datatrøbbel",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa23080326/77685bbd-8.smil/thumb.jpg?t=379&scale=480x270&v=high"
+    },
+    {
+      "startTime": 384,
+      "title": "Amazon",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa23080326/77685bbd-8.smil/thumb.jpg?t=410&scale=480x270&v=high"
+    },
+    {
+      "startTime": 420,
+      "title": "Infantinos fremtid",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa23080326/77685bbd-8.smil/thumb.jpg?t=445&scale=480x270&v=high"
+    },
+    {
+      "startTime": 532,
+      "title": "Allsvenskan",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa23080326/77685bbd-8.smil/thumb.jpg?t=557&scale=480x270&v=high"
+    },
+    {
+      "startTime": 584,
+      "title": "Seier TDF Femme",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa23080326/77685bbd-8.smil/thumb.jpg?t=610&scale=480x270&v=high"
+    },
+    {
+      "startTime": 608,
+      "title": "Seier i TDF",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa23080326/77685bbd-8.smil/thumb.jpg?t=634&scale=480x270&v=high"
+    },
+    {
+      "startTime": 622,
+      "title": "Tilbake etter sykdom",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa23080326/77685bbd-8.smil/thumb.jpg?t=647&scale=480x270&v=high"
+    },
+    {
+      "startTime": 704,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa23080326/77685bbd-8.smil/thumb.jpg?t=729&scale=480x270&v=high"
+    },
+    {
+      "startTime": 769,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa23080326/77685bbd-8.smil/thumb.jpg?t=788.6&scale=480x270&v=high"
+    }
+  ]
+}

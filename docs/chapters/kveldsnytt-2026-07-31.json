@@ -1,0 +1,63 @@
+{
+  "version": "1.2.0",
+  "title": "Det er bare starten",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 1,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa23073126/a9b800ef-8.smil/thumb.jpg?t=26&scale=480x270&v=high"
+    },
+    {
+      "startTime": 35,
+      "title": "Klima",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa23073126/a9b800ef-8.smil/thumb.jpg?t=61&scale=480x270&v=high"
+    },
+    {
+      "startTime": 164,
+      "title": "Ceuta",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa23073126/a9b800ef-8.smil/thumb.jpg?t=189&scale=480x270&v=high"
+    },
+    {
+      "startTime": 331,
+      "title": "Midtøsten",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa23073126/a9b800ef-8.smil/thumb.jpg?t=357&scale=480x270&v=high"
+    },
+    {
+      "startTime": 374,
+      "title": "STK-PAKKE",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa23073126/a9b800ef-8.smil/thumb.jpg?t=400&scale=480x270&v=high"
+    },
+    {
+      "startTime": 498,
+      "title": "Norway Cup",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa23073126/a9b800ef-8.smil/thumb.jpg?t=524&scale=480x270&v=high"
+    },
+    {
+      "startTime": 583,
+      "title": "Eliteserien",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa23073126/a9b800ef-8.smil/thumb.jpg?t=609&scale=480x270&v=high"
+    },
+    {
+      "startTime": 727,
+      "title": "DAGENS BILDE",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa23073126/a9b800ef-8.smil/thumb.jpg?t=753&scale=480x270&v=high"
+    },
+    {
+      "startTime": 783,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa23073126/a9b800ef-8.smil/thumb.jpg?t=808&scale=480x270&v=high"
+    },
+    {
+      "startTime": 847,
+      "title": "Peer Gynt på Gålå",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa23073126/a9b800ef-8.smil/thumb.jpg?t=872&scale=480x270&v=high"
+    },
+    {
+      "startTime": 916,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa23073126/a9b800ef-8.smil/thumb.jpg?t=936.6&scale=480x270&v=high"
+    }
+  ]
+}

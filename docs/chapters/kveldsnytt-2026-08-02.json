@@ -1,0 +1,73 @@
+{
+  "version": "1.2.0",
+  "title": "Lite is på vei mot Nordpolen",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa23080226/2fe05143-6.smil/thumb.jpg?t=26&scale=480x270&v=high"
+    },
+    {
+      "startTime": 35,
+      "title": "Helikopterstyrt",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa23080226/2fe05143-6.smil/thumb.jpg?t=61&scale=480x270&v=high"
+    },
+    {
+      "startTime": 59,
+      "title": "Selvmordsbombe Pakistan",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa23080226/2fe05143-6.smil/thumb.jpg?t=84&scale=480x270&v=high"
+    },
+    {
+      "startTime": 79,
+      "title": "Tørke i Europa",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa23080226/2fe05143-6.smil/thumb.jpg?t=105&scale=480x270&v=high"
+    },
+    {
+      "startTime": 177,
+      "title": "Stjeler kobber",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa23080226/2fe05143-6.smil/thumb.jpg?t=202&scale=480x270&v=high"
+    },
+    {
+      "startTime": 236,
+      "title": "Båtulykke Sverige",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa23080226/2fe05143-6.smil/thumb.jpg?t=261&scale=480x270&v=high"
+    },
+    {
+      "startTime": 267,
+      "title": "Fifa",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa23080226/2fe05143-6.smil/thumb.jpg?t=292&scale=480x270&v=high"
+    },
+    {
+      "startTime": 321,
+      "title": "Forskere fra Norsk polarinstitutt har seilt til Nordpolen under Norges største forskningsprosjekt",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa23080226/2fe05143-6.smil/thumb.jpg?t=346&scale=480x270&v=high"
+    },
+    {
+      "startTime": 419,
+      "title": "Ferieslutt",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa23080226/2fe05143-6.smil/thumb.jpg?t=445&scale=480x270&v=high"
+    },
+    {
+      "startTime": 511,
+      "title": "Brann - Rosenborg - Felix Horn Myhre takker av",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa23080226/2fe05143-6.smil/thumb.jpg?t=537&scale=480x270&v=high"
+    },
+    {
+      "startTime": 597,
+      "title": "Golf",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa23080226/2fe05143-6.smil/thumb.jpg?t=622&scale=480x270&v=high"
+    },
+    {
+      "startTime": 655,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa23080226/2fe05143-6.smil/thumb.jpg?t=681&scale=480x270&v=high"
+    },
+    {
+      "startTime": 716,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa23080226/2fe05143-6.smil/thumb.jpg?t=736.55&scale=480x270&v=high"
+    }
+  ]
+}
