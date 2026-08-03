@@ -1,0 +1,58 @@
+{
+  "version": "1.2.0",
+  "title": "Mistet ferieplassen",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-41.akamaized.net/open/ps/nnfa/nnfa21080226/7691175f-6.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 35,
+      "title": "Selvmordsbomber i Pakistan",
+      "img": "https://nrk-od-world-41.akamaized.net/open/ps/nnfa/nnfa21080226/7691175f-6.smil/thumb.jpg?t=60&scale=480x270&v=high"
+    },
+    {
+      "startTime": 118,
+      "title": "Stjeler kobber",
+      "img": "https://nrk-od-world-41.akamaized.net/open/ps/nnfa/nnfa21080226/7691175f-6.smil/thumb.jpg?t=143&scale=480x270&v=high"
+    },
+    {
+      "startTime": 173,
+      "title": "STK-PAKKE",
+      "img": "https://nrk-od-world-41.akamaized.net/open/ps/nnfa/nnfa21080226/7691175f-6.smil/thumb.jpg?t=198&scale=480x270&v=high"
+    },
+    {
+      "startTime": 219,
+      "title": "Campingplass brant",
+      "img": "https://nrk-od-world-41.akamaized.net/open/ps/nnfa/nnfa21080226/7691175f-6.smil/thumb.jpg?t=245&scale=480x270&v=high"
+    },
+    {
+      "startTime": 381,
+      "title": "Markering i Berlin",
+      "img": "https://nrk-od-world-41.akamaized.net/open/ps/nnfa/nnfa21080226/7691175f-6.smil/thumb.jpg?t=406&scale=480x270&v=high"
+    },
+    {
+      "startTime": 423,
+      "title": "Fifa",
+      "img": "https://nrk-od-world-41.akamaized.net/open/ps/nnfa/nnfa21080226/7691175f-6.smil/thumb.jpg?t=449&scale=480x270&v=high"
+    },
+    {
+      "startTime": 477,
+      "title": "Eliteserien",
+      "img": "https://nrk-od-world-41.akamaized.net/open/ps/nnfa/nnfa21080226/7691175f-6.smil/thumb.jpg?t=503&scale=480x270&v=high"
+    },
+    {
+      "startTime": 552,
+      "title": "Været",
+      "img": "https://nrk-od-world-41.akamaized.net/open/ps/nnfa/nnfa21080226/7691175f-6.smil/thumb.jpg?t=578&scale=480x270&v=high"
+    },
+    {
+      "startTime": 603,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-41.akamaized.net/open/ps/nnfa/nnfa21080226/7691175f-6.smil/thumb.jpg?t=623.55&scale=480x270&v=high"
+    }
+  ]
+}
