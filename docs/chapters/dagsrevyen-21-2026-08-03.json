@@ -1,0 +1,58 @@
+{
+  "version": "1.2.0",
+  "title": "Hastemøte om Ceuta",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa21080326/71ce8820-6.smil/thumb.jpg?t=26&scale=480x270&v=high"
+    },
+    {
+      "startTime": 28,
+      "title": "Varsler streik",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa21080326/71ce8820-6.smil/thumb.jpg?t=53&scale=480x270&v=high"
+    },
+    {
+      "startTime": 57,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa21080326/71ce8820-6.smil/thumb.jpg?t=83&scale=480x270&v=high"
+    },
+    {
+      "startTime": 148,
+      "title": "DAGSREVYPAKKE",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa21080326/71ce8820-6.smil/thumb.jpg?t=173&scale=480x270&v=high"
+    },
+    {
+      "startTime": 255,
+      "title": "Nettpromo",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa21080326/71ce8820-6.smil/thumb.jpg?t=280&scale=480x270&v=high"
+    },
+    {
+      "startTime": 276,
+      "title": "Krisemøte Ceuta",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa21080326/71ce8820-6.smil/thumb.jpg?t=301&scale=480x270&v=high"
+    },
+    {
+      "startTime": 307,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa21080326/71ce8820-6.smil/thumb.jpg?t=333&scale=480x270&v=high"
+    },
+    {
+      "startTime": 409,
+      "title": "Aurlandsskoen",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa21080326/71ce8820-6.smil/thumb.jpg?t=435&scale=480x270&v=high"
+    },
+    {
+      "startTime": 456,
+      "title": "Været",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa21080326/71ce8820-6.smil/thumb.jpg?t=482&scale=480x270&v=high"
+    },
+    {
+      "startTime": 513,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa21080326/71ce8820-6.smil/thumb.jpg?t=532.72&scale=480x270&v=high"
+    }
+  ]
+}
