@@ -1,0 +1,98 @@
+{
+  "version": "1.2.0",
+  "title": "Advarer mot bander",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 10,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa19080226/9b900732-10.smil/thumb.jpg?t=36&scale=480x270&v=high"
+    },
+    {
+      "startTime": 75,
+      "title": "Kobberbander",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa19080226/9b900732-10.smil/thumb.jpg?t=100&scale=480x270&v=high"
+    },
+    {
+      "startTime": 195,
+      "title": "USA-Iran",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa19080226/9b900732-10.smil/thumb.jpg?t=220&scale=480x270&v=high"
+    },
+    {
+      "startTime": 227,
+      "title": "Direkte: Beirut",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa19080226/9b900732-10.smil/thumb.jpg?t=253&scale=480x270&v=high"
+    },
+    {
+      "startTime": 333,
+      "title": "Skogbranner Hellas",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa19080226/9b900732-10.smil/thumb.jpg?t=359&scale=480x270&v=high"
+    },
+    {
+      "startTime": 401,
+      "title": "Sikrer seg mot brann",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa19080226/9b900732-10.smil/thumb.jpg?t=426&scale=480x270&v=high"
+    },
+    {
+      "startTime": 503,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa19080226/9b900732-10.smil/thumb.jpg?t=529&scale=480x270&v=high"
+    },
+    {
+      "startTime": 566,
+      "title": "Ceuta",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa19080226/9b900732-10.smil/thumb.jpg?t=592&scale=480x270&v=high"
+    },
+    {
+      "startTime": 705,
+      "title": "Moskva-bombe",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa19080226/9b900732-10.smil/thumb.jpg?t=731&scale=480x270&v=high"
+    },
+    {
+      "startTime": 738,
+      "title": "Direkte: Moskva",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa19080226/9b900732-10.smil/thumb.jpg?t=764&scale=480x270&v=high"
+    },
+    {
+      "startTime": 845,
+      "title": "Wildberries",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa19080226/9b900732-10.smil/thumb.jpg?t=870&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1000,
+      "title": "Uro Vestbredden",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa19080226/9b900732-10.smil/thumb.jpg?t=1026&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1230,
+      "title": "Ørepropper",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa19080226/9b900732-10.smil/thumb.jpg?t=1256&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1335,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa19080226/9b900732-10.smil/thumb.jpg?t=1361&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1342,
+      "title": "Eliteserien",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa19080226/9b900732-10.smil/thumb.jpg?t=1368&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1449,
+      "title": "Horn Myhre overgang",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa19080226/9b900732-10.smil/thumb.jpg?t=1475&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1465,
+      "title": "VM i Hundesurf",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa19080226/9b900732-10.smil/thumb.jpg?t=1491&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1511,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa19080226/9b900732-10.smil/thumb.jpg?t=1536&scale=480x270&v=high"
+    }
+  ]
+}

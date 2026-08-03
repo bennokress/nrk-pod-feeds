@@ -1,0 +1,78 @@
+{
+  "version": "1.2.0",
+  "title": "Full splid i verdensfotballen",
+  "author": "NRK",
+  "podcastName": "Dagsnytt 18",
+  "chapters": [
+    {
+      "startTime": 3,
+      "title": "Dagsnytt atten",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa56073126/a22084a9-9.smil/thumb.jpg?t=28&scale=480x270&v=high"
+    },
+    {
+      "startTime": 57,
+      "title": "Kamp om fotballpengene",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa56073126/a22084a9-9.smil/thumb.jpg?t=82&scale=480x270&v=high"
+    },
+    {
+      "startTime": 810,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa56073126/a22084a9-9.smil/thumb.jpg?t=836&scale=480x270&v=high"
+    },
+    {
+      "startTime": 821,
+      "title": "Mulig Hamas-avvæpning",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa56073126/a22084a9-9.smil/thumb.jpg?t=846&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1311,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa56073126/a22084a9-9.smil/thumb.jpg?t=1336&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1321,
+      "title": "Migrantkrise i Ceuta",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa56073126/a22084a9-9.smil/thumb.jpg?t=1347&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2122,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa56073126/a22084a9-9.smil/thumb.jpg?t=2148&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2134,
+      "title": "Korttidsutleie i Bergen",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa56073126/a22084a9-9.smil/thumb.jpg?t=2159&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2620,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa56073126/a22084a9-9.smil/thumb.jpg?t=2645&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2631,
+      "title": "Cruise-strid i Måløy",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa56073126/a22084a9-9.smil/thumb.jpg?t=2656&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3080,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa56073126/a22084a9-9.smil/thumb.jpg?t=3106&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3090,
+      "title": "Motorsyklister i gult",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa56073126/a22084a9-9.smil/thumb.jpg?t=3116&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3536,
+      "title": "AVSLUTNING",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa56073126/a22084a9-9.smil/thumb.jpg?t=3543.84&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3540,
+      "title": "SLUTTKJENNING",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa56073126/a22084a9-9.smil/thumb.jpg?t=3543.84&scale=480x270&v=high"
+    }
+  ]
+}
