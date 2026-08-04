@@ -1,0 +1,243 @@
+{
+  "version": "1.2.0",
+  "title": "Frykter ny type kokainbruk",
+  "author": "NRK",
+  "podcastName": "Nyhetsmorgen",
+  "chapters": [
+    {
+      "startTime": 181,
+      "title": "Åpning 07:03",
+      "img": "https://nrk-od-world-63.akamaized.net/open/ps/nnfa/nnfa05080326/147d1863-7.smil/thumb.jpg?t=206&scale=480x270&v=high"
+    },
+    {
+      "startTime": 245,
+      "title": "Kokainepedemi og behandling",
+      "img": "https://nrk-od-world-63.akamaized.net/open/ps/nnfa/nnfa05080326/147d1863-7.smil/thumb.jpg?t=271&scale=480x270&v=high"
+    },
+    {
+      "startTime": 467,
+      "title": "Dødstallene i Ceuta fortsetter å stige",
+      "img": "https://nrk-od-world-63.akamaized.net/open/ps/nnfa/nnfa05080326/147d1863-7.smil/thumb.jpg?t=493&scale=480x270&v=high"
+    },
+    {
+      "startTime": 745,
+      "title": "Justisdepartementet om situasjonen i Ceuta",
+      "img": "https://nrk-od-world-63.akamaized.net/open/ps/nnfa/nnfa05080326/147d1863-7.smil/thumb.jpg?t=770&scale=480x270&v=high"
+    },
+    {
+      "startTime": 988,
+      "title": "Overskrifter 07:15",
+      "img": "https://nrk-od-world-63.akamaized.net/open/ps/nnfa/nnfa05080326/147d1863-7.smil/thumb.jpg?t=1013&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1030,
+      "title": "Gulfland presser på for å få slutt på krigen",
+      "img": "https://nrk-od-world-63.akamaized.net/open/ps/nnfa/nnfa05080326/147d1863-7.smil/thumb.jpg?t=1055&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1099,
+      "title": "Gulfland presser på for å få slutt på krigen",
+      "img": "https://nrk-od-world-63.akamaized.net/open/ps/nnfa/nnfa05080326/147d1863-7.smil/thumb.jpg?t=1125&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1277,
+      "title": "Før Politisk kvarter",
+      "img": "https://nrk-od-world-63.akamaized.net/open/ps/nnfa/nnfa05080326/147d1863-7.smil/thumb.jpg?t=1302&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1335,
+      "title": "Debatt om datasentre i USA",
+      "img": "https://nrk-od-world-63.akamaized.net/open/ps/nnfa/nnfa05080326/147d1863-7.smil/thumb.jpg?t=1361&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1550,
+      "title": "Brann kunne juble for tre mål og seier",
+      "img": "https://nrk-od-world-63.akamaized.net/open/ps/nnfa/nnfa05080326/147d1863-7.smil/thumb.jpg?t=1575&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1661,
+      "title": "Godt vær for poteter",
+      "img": "https://nrk-od-world-63.akamaized.net/open/ps/nnfa/nnfa05080326/147d1863-7.smil/thumb.jpg?t=1686&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1762,
+      "title": "SOMMER I P2",
+      "img": "https://nrk-od-world-63.akamaized.net/open/ps/nnfa/nnfa05080326/147d1863-7.smil/thumb.jpg?t=1787&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1802,
+      "title": "Overskrifter 07:30",
+      "img": "https://nrk-od-world-63.akamaized.net/open/ps/nnfa/nnfa05080326/147d1863-7.smil/thumb.jpg?t=1827&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1825,
+      "title": "Kokainepidemi og behandling",
+      "img": "https://nrk-od-world-63.akamaized.net/open/ps/nnfa/nnfa05080326/147d1863-7.smil/thumb.jpg?t=1850&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1950,
+      "title": "Gulfland presser på for å få slutt på krigen",
+      "img": "https://nrk-od-world-63.akamaized.net/open/ps/nnfa/nnfa05080326/147d1863-7.smil/thumb.jpg?t=1975&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2049,
+      "title": "Rekordmange i kø for studentbolig",
+      "img": "https://nrk-od-world-63.akamaized.net/open/ps/nnfa/nnfa05080326/147d1863-7.smil/thumb.jpg?t=2074&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2132,
+      "title": "Debatt om datasentre i USA",
+      "img": "https://nrk-od-world-63.akamaized.net/open/ps/nnfa/nnfa05080326/147d1863-7.smil/thumb.jpg?t=2157&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2265,
+      "title": "Søppel-dagbøker trendar på TikTok",
+      "img": "https://nrk-od-world-63.akamaized.net/open/ps/nnfa/nnfa05080326/147d1863-7.smil/thumb.jpg?t=2290&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2376,
+      "title": "Viagra kan stoppe kreft frå å spreie seg",
+      "img": "https://nrk-od-world-63.akamaized.net/open/ps/nnfa/nnfa05080326/147d1863-7.smil/thumb.jpg?t=2402&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2399,
+      "title": "Åpning 07:40",
+      "img": "https://nrk-od-world-63.akamaized.net/open/ps/nnfa/nnfa05080326/147d1863-7.smil/thumb.jpg?t=2425&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2418,
+      "title": "Moteikon i pengenaud",
+      "img": "https://nrk-od-world-63.akamaized.net/open/ps/nnfa/nnfa05080326/147d1863-7.smil/thumb.jpg?t=2443&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2667,
+      "title": "Topper 07:44",
+      "img": "https://nrk-od-world-63.akamaized.net/open/ps/nnfa/nnfa05080326/147d1863-7.smil/thumb.jpg?t=2693&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2672,
+      "title": "Overgang til Politisk kvarter",
+      "img": "https://nrk-od-world-63.akamaized.net/open/ps/nnfa/nnfa05080326/147d1863-7.smil/thumb.jpg?t=2697&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3599,
+      "title": "NRK Nyheter 08:00",
+      "img": "https://nrk-od-world-63.akamaized.net/open/ps/nnfa/nnfa05080326/147d1863-7.smil/thumb.jpg?t=3624&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3780,
+      "title": "Åpning 08:03",
+      "img": "https://nrk-od-world-63.akamaized.net/open/ps/nnfa/nnfa05080326/147d1863-7.smil/thumb.jpg?t=3805&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3843,
+      "title": "Avvæpning av Hamas",
+      "img": "https://nrk-od-world-63.akamaized.net/open/ps/nnfa/nnfa05080326/147d1863-7.smil/thumb.jpg?t=3868&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4191,
+      "title": "USA kjøper japanske yen",
+      "img": "https://nrk-od-world-63.akamaized.net/open/ps/nnfa/nnfa05080326/147d1863-7.smil/thumb.jpg?t=4216&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4349,
+      "title": "Privat eldreomsorg",
+      "img": "https://nrk-od-world-63.akamaized.net/open/ps/nnfa/nnfa05080326/147d1863-7.smil/thumb.jpg?t=4375&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4467,
+      "title": "Brukte 250 000 på langhelg på Island",
+      "img": "https://nrk-od-world-63.akamaized.net/open/ps/nnfa/nnfa05080326/147d1863-7.smil/thumb.jpg?t=4492&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4595,
+      "title": "Overskrifter 08:15",
+      "img": "https://nrk-od-world-63.akamaized.net/open/ps/nnfa/nnfa05080326/147d1863-7.smil/thumb.jpg?t=4620&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4596,
+      "title": "Irriterande kollegaer",
+      "img": "https://nrk-od-world-63.akamaized.net/open/ps/nnfa/nnfa05080326/147d1863-7.smil/thumb.jpg?t=4622&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4753,
+      "title": "Råd for å takla kollegaer etter ferie",
+      "img": "https://nrk-od-world-63.akamaized.net/open/ps/nnfa/nnfa05080326/147d1863-7.smil/thumb.jpg?t=4779&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5049,
+      "title": "Søppel-dagbøker trendar på TikTok",
+      "img": "https://nrk-od-world-63.akamaized.net/open/ps/nnfa/nnfa05080326/147d1863-7.smil/thumb.jpg?t=5074&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5247,
+      "title": "Dårligere svømmeferdighetene hos unge",
+      "img": "https://nrk-od-world-63.akamaized.net/open/ps/nnfa/nnfa05080326/147d1863-7.smil/thumb.jpg?t=5272&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5364,
+      "title": "Oppdrag Europa - NRK TV",
+      "img": "https://nrk-od-world-63.akamaized.net/open/ps/nnfa/nnfa05080326/147d1863-7.smil/thumb.jpg?t=5390&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5398,
+      "title": "Overskrifter 08:30",
+      "img": "https://nrk-od-world-63.akamaized.net/open/ps/nnfa/nnfa05080326/147d1863-7.smil/thumb.jpg?t=5424&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5441,
+      "title": "Dødstallene i Ceuta stiger",
+      "img": "https://nrk-od-world-63.akamaized.net/open/ps/nnfa/nnfa05080326/147d1863-7.smil/thumb.jpg?t=5467&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5723,
+      "title": "Kokainepedemi og behandling",
+      "img": "https://nrk-od-world-63.akamaized.net/open/ps/nnfa/nnfa05080326/147d1863-7.smil/thumb.jpg?t=5748&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5946,
+      "title": "Debatt om datasentre i USA",
+      "img": "https://nrk-od-world-63.akamaized.net/open/ps/nnfa/nnfa05080326/147d1863-7.smil/thumb.jpg?t=5971&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6161,
+      "title": "Ariana Grande varsler pause",
+      "img": "https://nrk-od-world-63.akamaized.net/open/ps/nnfa/nnfa05080326/147d1863-7.smil/thumb.jpg?t=6187&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6300,
+      "title": "Før P2-pulsen i NRK P2",
+      "img": "https://nrk-od-world-63.akamaized.net/open/ps/nnfa/nnfa05080326/147d1863-7.smil/thumb.jpg?t=6326&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6348,
+      "title": "Overskrifter 08:45",
+      "img": "https://nrk-od-world-63.akamaized.net/open/ps/nnfa/nnfa05080326/147d1863-7.smil/thumb.jpg?t=6374&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6380,
+      "title": "Vil at brannvesenet skal kontrollere hekken",
+      "img": "https://nrk-od-world-63.akamaized.net/open/ps/nnfa/nnfa05080326/147d1863-7.smil/thumb.jpg?t=6406&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6598,
+      "title": "«Norske høydepunkter fra Kode Bergen»",
+      "img": "https://nrk-od-world-63.akamaized.net/open/ps/nnfa/nnfa05080326/147d1863-7.smil/thumb.jpg?t=6624&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6834,
+      "title": "Tomme hyller med gjenbruksvarer",
+      "img": "https://nrk-od-world-63.akamaized.net/open/ps/nnfa/nnfa05080326/147d1863-7.smil/thumb.jpg?t=6859&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7043,
+      "title": "GJEST Været i dag",
+      "img": "https://nrk-od-world-63.akamaized.net/open/ps/nnfa/nnfa05080326/147d1863-7.smil/thumb.jpg?t=7068&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7197,
+      "title": "Avslutning",
+      "img": "https://nrk-od-world-63.akamaized.net/open/ps/nnfa/nnfa05080326/147d1863-7.smil/thumb.jpg?t=7203.12&scale=480x270&v=high"
+    }
+  ]
+}
