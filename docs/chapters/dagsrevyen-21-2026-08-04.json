@@ -1,0 +1,58 @@
+{
+  "version": "1.2.0",
+  "title": "Satser i nabolandet",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa21080426/b68d7515-7.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 26,
+      "title": "Drapsforbund",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa21080426/b68d7515-7.smil/thumb.jpg?t=51&scale=480x270&v=high"
+    },
+    {
+      "startTime": 134,
+      "title": "Wildberries",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa21080426/b68d7515-7.smil/thumb.jpg?t=159&scale=480x270&v=high"
+    },
+    {
+      "startTime": 167,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa21080426/b68d7515-7.smil/thumb.jpg?t=192&scale=480x270&v=high"
+    },
+    {
+      "startTime": 274,
+      "title": "Losen siktet etter båtulykke i Sverige",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa21080426/b68d7515-7.smil/thumb.jpg?t=299&scale=480x270&v=high"
+    },
+    {
+      "startTime": 383,
+      "title": "Nettpromo",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa21080426/b68d7515-7.smil/thumb.jpg?t=408&scale=480x270&v=high"
+    },
+    {
+      "startTime": 397,
+      "title": "Norway Cup",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa21080426/b68d7515-7.smil/thumb.jpg?t=423&scale=480x270&v=high"
+    },
+    {
+      "startTime": 449,
+      "title": "Østerrike",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa21080426/b68d7515-7.smil/thumb.jpg?t=475&scale=480x270&v=high"
+    },
+    {
+      "startTime": 474,
+      "title": "Været",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa21080426/b68d7515-7.smil/thumb.jpg?t=500&scale=480x270&v=high"
+    },
+    {
+      "startTime": 525,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa21080426/b68d7515-7.smil/thumb.jpg?t=545.52&scale=480x270&v=high"
+    }
+  ]
+}
