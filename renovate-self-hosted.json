@@ -1,7 +1,6 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "platform": "github",
-  "repositories": ["bennokress/nrk-pod-feeds"],
   "onboarding": false,
-  "gitAuthor": "Renovate Bot <bot@renovateapp.com>"
+  "gitAuthor": "Renovate Bot <bot+renovate@bennokress.de>"
 }
