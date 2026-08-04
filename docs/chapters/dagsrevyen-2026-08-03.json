@@ -1,0 +1,93 @@
+{
+  "version": "1.2.0",
+  "title": "Varsler streik",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 12,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa19080326/c0dad4bb-6.smil/thumb.jpg?t=37&scale=480x270&v=high"
+    },
+    {
+      "startTime": 63,
+      "title": "SAS-streik",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa19080326/c0dad4bb-6.smil/thumb.jpg?t=89&scale=480x270&v=high"
+    },
+    {
+      "startTime": 168,
+      "title": "Schengen-avtalen",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa19080326/c0dad4bb-6.smil/thumb.jpg?t=193&scale=480x270&v=high"
+    },
+    {
+      "startTime": 276,
+      "title": "Gjest: Johannes Bergh",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa19080326/c0dad4bb-6.smil/thumb.jpg?t=302&scale=480x270&v=high"
+    },
+    {
+      "startTime": 397,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa19080326/c0dad4bb-6.smil/thumb.jpg?t=423&scale=480x270&v=high"
+    },
+    {
+      "startTime": 457,
+      "title": "Mange studenter i boligkø",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa19080326/c0dad4bb-6.smil/thumb.jpg?t=483&scale=480x270&v=high"
+    },
+    {
+      "startTime": 561,
+      "title": "Amfetaminbehandling",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa19080326/c0dad4bb-6.smil/thumb.jpg?t=586&scale=480x270&v=high"
+    },
+    {
+      "startTime": 824,
+      "title": "Datasenter USA",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa19080326/c0dad4bb-6.smil/thumb.jpg?t=850&scale=480x270&v=high"
+    },
+    {
+      "startTime": 992,
+      "title": "Utenriksnyheter",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa19080326/c0dad4bb-6.smil/thumb.jpg?t=1017&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1078,
+      "title": "Direkte: Berlin",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa19080326/c0dad4bb-6.smil/thumb.jpg?t=1103&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1161,
+      "title": "God potethøst",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa19080326/c0dad4bb-6.smil/thumb.jpg?t=1187&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1239,
+      "title": "Infantino",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa19080326/c0dad4bb-6.smil/thumb.jpg?t=1264&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1263,
+      "title": "Gjest",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa19080326/c0dad4bb-6.smil/thumb.jpg?t=1288&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1407,
+      "title": "Seier TDF Femme",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa19080326/c0dad4bb-6.smil/thumb.jpg?t=1432&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1429,
+      "title": "Seier i TDF Femme",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa19080326/c0dad4bb-6.smil/thumb.jpg?t=1454&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1439,
+      "title": "Supporterbråk",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa19080326/c0dad4bb-6.smil/thumb.jpg?t=1464&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1522,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa19080326/c0dad4bb-6.smil/thumb.jpg?t=1547&scale=480x270&v=high"
+    }
+  ]
+}
