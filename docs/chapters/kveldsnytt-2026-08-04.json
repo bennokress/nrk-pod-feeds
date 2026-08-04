@@ -1,0 +1,68 @@
+{
+  "version": "1.2.0",
+  "title": "Kaller inn til krisemøte",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa23080426/ac8d7f59-6.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 49,
+      "title": "Infantino",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa23080426/ac8d7f59-6.smil/thumb.jpg?t=75&scale=480x270&v=high"
+    },
+    {
+      "startTime": 149,
+      "title": "Ceuta",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa23080426/ac8d7f59-6.smil/thumb.jpg?t=175&scale=480x270&v=high"
+    },
+    {
+      "startTime": 244,
+      "title": "Kalvåg",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa23080426/ac8d7f59-6.smil/thumb.jpg?t=269&scale=480x270&v=high"
+    },
+    {
+      "startTime": 268,
+      "title": "Norsk Tipping",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa23080426/ac8d7f59-6.smil/thumb.jpg?t=294&scale=480x270&v=high"
+    },
+    {
+      "startTime": 287,
+      "title": "Jakten på en leiebolig",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa23080426/ac8d7f59-6.smil/thumb.jpg?t=312&scale=480x270&v=high"
+    },
+    {
+      "startTime": 404,
+      "title": "Hansard begravelse",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa23080426/ac8d7f59-6.smil/thumb.jpg?t=429&scale=480x270&v=high"
+    },
+    {
+      "startTime": 429,
+      "title": "Glimt",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa23080426/ac8d7f59-6.smil/thumb.jpg?t=455&scale=480x270&v=high"
+    },
+    {
+      "startTime": 504,
+      "title": "Landsskytterstevnet",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa23080426/ac8d7f59-6.smil/thumb.jpg?t=529&scale=480x270&v=high"
+    },
+    {
+      "startTime": 561,
+      "title": "Hedegart",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa23080426/ac8d7f59-6.smil/thumb.jpg?t=587&scale=480x270&v=high"
+    },
+    {
+      "startTime": 650,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa23080426/ac8d7f59-6.smil/thumb.jpg?t=675&scale=480x270&v=high"
+    },
+    {
+      "startTime": 713,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa23080426/ac8d7f59-6.smil/thumb.jpg?t=732.67&scale=480x270&v=high"
+    }
+  ]
+}
