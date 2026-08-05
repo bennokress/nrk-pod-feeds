@@ -1,0 +1,78 @@
+{
+  "version": "1.2.0",
+  "title": "Boligprisfall i Oslo",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-77.akamaized.net/open/ps/nnfa/nnfa23080526/3ed4147a-7.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 26,
+      "title": "Mange leiligheter til salgs",
+      "img": "https://nrk-od-world-77.akamaized.net/open/ps/nnfa/nnfa23080526/3ed4147a-7.smil/thumb.jpg?t=52&scale=480x270&v=high"
+    },
+    {
+      "startTime": 129,
+      "title": "Gjødsel oppgjør",
+      "img": "https://nrk-od-world-77.akamaized.net/open/ps/nnfa/nnfa23080526/3ed4147a-7.smil/thumb.jpg?t=154&scale=480x270&v=high"
+    },
+    {
+      "startTime": 255,
+      "title": "Nettpromo",
+      "img": "https://nrk-od-world-77.akamaized.net/open/ps/nnfa/nnfa23080526/3ed4147a-7.smil/thumb.jpg?t=281&scale=480x270&v=high"
+    },
+    {
+      "startTime": 271,
+      "title": "Tysk innenriksminister",
+      "img": "https://nrk-od-world-77.akamaized.net/open/ps/nnfa/nnfa23080526/3ed4147a-7.smil/thumb.jpg?t=297&scale=480x270&v=high"
+    },
+    {
+      "startTime": 338,
+      "title": "Dataangrep Ryde",
+      "img": "https://nrk-od-world-77.akamaized.net/open/ps/nnfa/nnfa23080526/3ed4147a-7.smil/thumb.jpg?t=363&scale=480x270&v=high"
+    },
+    {
+      "startTime": 368,
+      "title": "Irans president",
+      "img": "https://nrk-od-world-77.akamaized.net/open/ps/nnfa/nnfa23080526/3ed4147a-7.smil/thumb.jpg?t=393&scale=480x270&v=high"
+    },
+    {
+      "startTime": 393,
+      "title": "Libanon angrep",
+      "img": "https://nrk-od-world-77.akamaized.net/open/ps/nnfa/nnfa23080526/3ed4147a-7.smil/thumb.jpg?t=419&scale=480x270&v=high"
+    },
+    {
+      "startTime": 415,
+      "title": "Infantino",
+      "img": "https://nrk-od-world-77.akamaized.net/open/ps/nnfa/nnfa23080526/3ed4147a-7.smil/thumb.jpg?t=441&scale=480x270&v=high"
+    },
+    {
+      "startTime": 447,
+      "title": "Brann i Europa",
+      "img": "https://nrk-od-world-77.akamaized.net/open/ps/nnfa/nnfa23080526/3ed4147a-7.smil/thumb.jpg?t=473&scale=480x270&v=high"
+    },
+    {
+      "startTime": 517,
+      "title": "Kongelaget",
+      "img": "https://nrk-od-world-77.akamaized.net/open/ps/nnfa/nnfa23080526/3ed4147a-7.smil/thumb.jpg?t=543&scale=480x270&v=high"
+    },
+    {
+      "startTime": 577,
+      "title": "Ruud tennis",
+      "img": "https://nrk-od-world-77.akamaized.net/open/ps/nnfa/nnfa23080526/3ed4147a-7.smil/thumb.jpg?t=603&scale=480x270&v=high"
+    },
+    {
+      "startTime": 642,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-77.akamaized.net/open/ps/nnfa/nnfa23080526/3ed4147a-7.smil/thumb.jpg?t=667&scale=480x270&v=high"
+    },
+    {
+      "startTime": 711,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-77.akamaized.net/open/ps/nnfa/nnfa23080526/3ed4147a-7.smil/thumb.jpg?t=731.6&scale=480x270&v=high"
+    }
+  ]
+}
