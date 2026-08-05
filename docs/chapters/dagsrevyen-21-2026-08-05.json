@@ -1,0 +1,53 @@
+{
+  "version": "1.2.0",
+  "title": "Få boliger til salgs i Tromsø",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa21080526/892528ee-7.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 29,
+      "title": "Store variasjoner i boligmarkedet i landet",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa21080526/892528ee-7.smil/thumb.jpg?t=55&scale=480x270&v=high"
+    },
+    {
+      "startTime": 134,
+      "title": "Drap Kløfta",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa21080526/892528ee-7.smil/thumb.jpg?t=160&scale=480x270&v=high"
+    },
+    {
+      "startTime": 206,
+      "title": "Politibemanning byer",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa21080526/892528ee-7.smil/thumb.jpg?t=232&scale=480x270&v=high"
+    },
+    {
+      "startTime": 257,
+      "title": "Dataangrep Ryde",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa21080526/892528ee-7.smil/thumb.jpg?t=283&scale=480x270&v=high"
+    },
+    {
+      "startTime": 278,
+      "title": "Bedriftsledere på datasikkerhetsøvelse",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa21080526/892528ee-7.smil/thumb.jpg?t=304&scale=480x270&v=high"
+    },
+    {
+      "startTime": 377,
+      "title": "Norges eldste",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa21080526/892528ee-7.smil/thumb.jpg?t=403&scale=480x270&v=high"
+    },
+    {
+      "startTime": 483,
+      "title": "Været",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa21080526/892528ee-7.smil/thumb.jpg?t=508&scale=480x270&v=high"
+    },
+    {
+      "startTime": 536,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa21080526/892528ee-7.smil/thumb.jpg?t=559.64&scale=480x270&v=high"
+    }
+  ]
+}
