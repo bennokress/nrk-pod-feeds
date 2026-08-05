@@ -1,0 +1,98 @@
+{
+  "version": "1.2.0",
+  "title": "Peker på Klaveness",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 10,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa19080426/22a33bed-6.smil/thumb.jpg?t=35&scale=480x270&v=high"
+    },
+    {
+      "startTime": 65,
+      "title": "Fifa-kandidater",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa19080426/22a33bed-6.smil/thumb.jpg?t=91&scale=480x270&v=high"
+    },
+    {
+      "startTime": 278,
+      "title": "Drivstoffavgift",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa19080426/22a33bed-6.smil/thumb.jpg?t=304&scale=480x270&v=high"
+    },
+    {
+      "startTime": 390,
+      "title": "Fengselsbetjenter",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa19080426/22a33bed-6.smil/thumb.jpg?t=415&scale=480x270&v=high"
+    },
+    {
+      "startTime": 485,
+      "title": "Gjest: Astri Aas-Hansen",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa19080426/22a33bed-6.smil/thumb.jpg?t=511&scale=480x270&v=high"
+    },
+    {
+      "startTime": 605,
+      "title": "Hastemøte EU",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa19080426/22a33bed-6.smil/thumb.jpg?t=630&scale=480x270&v=high"
+    },
+    {
+      "startTime": 720,
+      "title": "Gjest: Astri Aas-Hansen",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa19080426/22a33bed-6.smil/thumb.jpg?t=746&scale=480x270&v=high"
+    },
+    {
+      "startTime": 829,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa19080426/22a33bed-6.smil/thumb.jpg?t=854&scale=480x270&v=high"
+    },
+    {
+      "startTime": 904,
+      "title": "Utenriksnyheter",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa19080426/22a33bed-6.smil/thumb.jpg?t=930&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1000,
+      "title": "Direkte: Istanbul",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa19080426/22a33bed-6.smil/thumb.jpg?t=1026&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1083,
+      "title": "Fiskere og forsvaret",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa19080426/22a33bed-6.smil/thumb.jpg?t=1109&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1186,
+      "title": "Hund fant hund",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa19080426/22a33bed-6.smil/thumb.jpg?t=1212&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1302,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa19080426/22a33bed-6.smil/thumb.jpg?t=1327&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1310,
+      "title": "Vanskelig uttak",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa19080426/22a33bed-6.smil/thumb.jpg?t=1335&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1375,
+      "title": "Nyland til Leipzig",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa19080426/22a33bed-6.smil/thumb.jpg?t=1400&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1391,
+      "title": "Tour de France Femme",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa19080426/22a33bed-6.smil/thumb.jpg?t=1416&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1421,
+      "title": "Landsskytterstevnet",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa19080426/22a33bed-6.smil/thumb.jpg?t=1447&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1517,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa19080426/22a33bed-6.smil/thumb.jpg?t=1542&scale=480x270&v=high"
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "version": "1.2.0",
+  "title": "Mangler luftvern",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 8,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa19080526/21e948b5-6.smil/thumb.jpg?t=33&scale=480x270&v=high"
+    },
+    {
+      "startTime": 82,
+      "title": "Ukraina",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa19080526/21e948b5-6.smil/thumb.jpg?t=107&scale=480x270&v=high"
+    },
+    {
+      "startTime": 169,
+      "title": "Direkte Kyiv",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa19080526/21e948b5-6.smil/thumb.jpg?t=195&scale=480x270&v=high"
+    },
+    {
+      "startTime": 270,
+      "title": "Dronefunn i Tyskland",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa19080526/21e948b5-6.smil/thumb.jpg?t=296&scale=480x270&v=high"
+    },
+    {
+      "startTime": 343,
+      "title": "Direkte Kyiv",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa19080526/21e948b5-6.smil/thumb.jpg?t=368&scale=480x270&v=high"
+    },
+    {
+      "startTime": 408,
+      "title": "Gigantisk datainnbrudd",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa19080526/21e948b5-6.smil/thumb.jpg?t=434&scale=480x270&v=high"
+    },
+    {
+      "startTime": 566,
+      "title": "Drap Kløfta",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa19080526/21e948b5-6.smil/thumb.jpg?t=592&scale=480x270&v=high"
+    },
+    {
+      "startTime": 592,
+      "title": "Nytt ansikt",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa19080526/21e948b5-6.smil/thumb.jpg?t=618&scale=480x270&v=high"
+    },
+    {
+      "startTime": 757,
+      "title": "Primærvalg Michigan",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa19080526/21e948b5-6.smil/thumb.jpg?t=782&scale=480x270&v=high"
+    },
+    {
+      "startTime": 886,
+      "title": "Gjest",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa19080526/21e948b5-6.smil/thumb.jpg?t=911&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1026,
+      "title": "Drivstoffavgift",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa19080526/21e948b5-6.smil/thumb.jpg?t=1052&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1130,
+      "title": "Dyrere flytur",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa19080526/21e948b5-6.smil/thumb.jpg?t=1156&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1253,
+      "title": "Landsskytterstevnet",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa19080526/21e948b5-6.smil/thumb.jpg?t=1278&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1388,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa19080526/21e948b5-6.smil/thumb.jpg?t=1414&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1393,
+      "title": "Hedegart vant",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa19080526/21e948b5-6.smil/thumb.jpg?t=1419&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1443,
+      "title": "FIFA-møte",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa19080526/21e948b5-6.smil/thumb.jpg?t=1468&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1466,
+      "title": "Mesterliga-kvalikk",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa19080526/21e948b5-6.smil/thumb.jpg?t=1491&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1508,
+      "title": "Warholm om EM",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa19080526/21e948b5-6.smil/thumb.jpg?t=1534&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1566,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa19080526/21e948b5-6.smil/thumb.jpg?t=1591&scale=480x270&v=high"
+    }
+  ]
+}
