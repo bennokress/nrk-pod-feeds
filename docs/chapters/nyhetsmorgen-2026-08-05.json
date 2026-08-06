@@ -1,0 +1,203 @@
+{
+  "version": "1.2.0",
+  "title": "Lekket millioner av sensitive dokumenter",
+  "author": "NRK",
+  "podcastName": "Nyhetsmorgen",
+  "chapters": [
+    {
+      "startTime": 179,
+      "title": "Åpning 07:03",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05080526/95af181f-7.smil/thumb.jpg?t=205&scale=480x270&v=high"
+    },
+    {
+      "startTime": 251,
+      "title": "Trolig Norges største datalekkasje",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05080526/95af181f-7.smil/thumb.jpg?t=276&scale=480x270&v=high"
+    },
+    {
+      "startTime": 450,
+      "title": "Teknologi-journalist om datalekkasje",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05080526/95af181f-7.smil/thumb.jpg?t=476&scale=480x270&v=high"
+    },
+    {
+      "startTime": 738,
+      "title": "Mener Trump taper tollstriden",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05080526/95af181f-7.smil/thumb.jpg?t=763&scale=480x270&v=high"
+    },
+    {
+      "startTime": 926,
+      "title": "Før Politisk kvarter: Ny Trump-toll",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05080526/95af181f-7.smil/thumb.jpg?t=952&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1003,
+      "title": "Primærvalg tar av i sosiale medier",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05080526/95af181f-7.smil/thumb.jpg?t=1029&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1207,
+      "title": "Tidligere USA-korrespondent om primærvalg",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05080526/95af181f-7.smil/thumb.jpg?t=1232&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1509,
+      "title": "Kritikk mot Førdefjord-søknad",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05080526/95af181f-7.smil/thumb.jpg?t=1534&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1605,
+      "title": "Biene slit i dårleg sommarver",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05080526/95af181f-7.smil/thumb.jpg?t=1631&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1766,
+      "title": "Trailer Sommer i P2",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05080526/95af181f-7.smil/thumb.jpg?t=1791&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1801,
+      "title": "Overskrifter 07:30",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05080526/95af181f-7.smil/thumb.jpg?t=1826&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1835,
+      "title": "Trolig Norges største datalekkasje",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05080526/95af181f-7.smil/thumb.jpg?t=1861&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1954,
+      "title": "Kraftige angrep Kyiv",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05080526/95af181f-7.smil/thumb.jpg?t=1979&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2055,
+      "title": "Primærvalg-thriller i USA",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05080526/95af181f-7.smil/thumb.jpg?t=2080&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2165,
+      "title": "Mener Trump taper tollstriden",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05080526/95af181f-7.smil/thumb.jpg?t=2190&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2285,
+      "title": "Løysing på brunsnigelproblemet",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05080526/95af181f-7.smil/thumb.jpg?t=2310&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2400,
+      "title": "Åpning 07:40",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05080526/95af181f-7.smil/thumb.jpg?t=2425&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2411,
+      "title": "Sosiale medier ga migrantkaos i Ceuta",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05080526/95af181f-7.smil/thumb.jpg?t=2437&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3601,
+      "title": "NRK Nyheter 08:00",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05080526/95af181f-7.smil/thumb.jpg?t=3627&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3779,
+      "title": "Åpning 08:03",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05080526/95af181f-7.smil/thumb.jpg?t=3805&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3838,
+      "title": "Oppdatering fra Ukraina",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05080526/95af181f-7.smil/thumb.jpg?t=3864&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4030,
+      "title": "Trolig Norges største datalekkasje",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05080526/95af181f-7.smil/thumb.jpg?t=4055&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4229,
+      "title": "Teknologi-journalist om lekkasjen",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05080526/95af181f-7.smil/thumb.jpg?t=4255&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4550,
+      "title": "De rødgrønne møtes om drivstoffpriser",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05080526/95af181f-7.smil/thumb.jpg?t=4576&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4685,
+      "title": "Svingninger i oljeprisen",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05080526/95af181f-7.smil/thumb.jpg?t=4711&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4931,
+      "title": "Kritikk mot Førdefjord-søknad",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05080526/95af181f-7.smil/thumb.jpg?t=4956&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5070,
+      "title": "Gjødselsopprør blant bønder",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05080526/95af181f-7.smil/thumb.jpg?t=5096&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5262,
+      "title": "Konflikt om fiskefelt i Andøy",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05080526/95af181f-7.smil/thumb.jpg?t=5287&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5410,
+      "title": "Trailer Historiske kjendiser Columbus",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05080526/95af181f-7.smil/thumb.jpg?t=5436&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5471,
+      "title": "Primærvalg-thriller i USA",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05080526/95af181f-7.smil/thumb.jpg?t=5497&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5619,
+      "title": "SpaceX krasjer med månen",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05080526/95af181f-7.smil/thumb.jpg?t=5644&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5883,
+      "title": "Vulkanutbrudd i Guatemala",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05080526/95af181f-7.smil/thumb.jpg?t=5908&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6041,
+      "title": "DIR Før P2-pulsen i NRK P2",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05080526/95af181f-7.smil/thumb.jpg?t=6066&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6136,
+      "title": "Sosiale medier ga migrantkaos i Ceuta",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05080526/95af181f-7.smil/thumb.jpg?t=6162&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6403,
+      "title": "Drivstoff-samtalane startar",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05080526/95af181f-7.smil/thumb.jpg?t=6429&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6601,
+      "title": "Cyberangrep-øvelse i Oslo",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05080526/95af181f-7.smil/thumb.jpg?t=6626&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6841,
+      "title": "Løysing på brunsnigelproblemet",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05080526/95af181f-7.smil/thumb.jpg?t=6867&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7036,
+      "title": "GJEST Været i dag",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05080526/95af181f-7.smil/thumb.jpg?t=7062&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7195,
+      "title": "Avslutning",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05080526/95af181f-7.smil/thumb.jpg?t=7204.28&scale=480x270&v=high"
+    }
+  ]
+}
