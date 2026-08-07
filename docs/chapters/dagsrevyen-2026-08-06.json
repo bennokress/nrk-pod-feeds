@@ -1,0 +1,128 @@
+{
+  "version": "1.2.0",
+  "title": "Frivillig flymekling",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 8,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa19080626/f2965eef-6.smil/thumb.jpg?t=33&scale=480x270&v=high"
+    },
+    {
+      "startTime": 62,
+      "title": "Drivstoffavgift",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa19080626/f2965eef-6.smil/thumb.jpg?t=87&scale=480x270&v=high"
+    },
+    {
+      "startTime": 146,
+      "title": "Gjest Søreide",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa19080626/f2965eef-6.smil/thumb.jpg?t=172&scale=480x270&v=high"
+    },
+    {
+      "startTime": 254,
+      "title": "SAS tariffavtale",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa19080626/f2965eef-6.smil/thumb.jpg?t=279&scale=480x270&v=high"
+    },
+    {
+      "startTime": 274,
+      "title": "Direkte: Oslo",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa19080626/f2965eef-6.smil/thumb.jpg?t=300&scale=480x270&v=high"
+    },
+    {
+      "startTime": 353,
+      "title": "Fifa",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa19080626/f2965eef-6.smil/thumb.jpg?t=378&scale=480x270&v=high"
+    },
+    {
+      "startTime": 383,
+      "title": "Direkte: Oslo",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa19080626/f2965eef-6.smil/thumb.jpg?t=409&scale=480x270&v=high"
+    },
+    {
+      "startTime": 478,
+      "title": "Fifa",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa19080626/f2965eef-6.smil/thumb.jpg?t=504&scale=480x270&v=high"
+    },
+    {
+      "startTime": 563,
+      "title": "Dødsulykke",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa19080626/f2965eef-6.smil/thumb.jpg?t=589&scale=480x270&v=high"
+    },
+    {
+      "startTime": 586,
+      "title": "Vestbredden",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa19080626/f2965eef-6.smil/thumb.jpg?t=612&scale=480x270&v=high"
+    },
+    {
+      "startTime": 698,
+      "title": "Direkte Istanbul",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa19080626/f2965eef-6.smil/thumb.jpg?t=723&scale=480x270&v=high"
+    },
+    {
+      "startTime": 787,
+      "title": "Studielån",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa19080626/f2965eef-6.smil/thumb.jpg?t=813&scale=480x270&v=high"
+    },
+    {
+      "startTime": 908,
+      "title": "Utenriksnyheter",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa19080626/f2965eef-6.smil/thumb.jpg?t=933&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1013,
+      "title": "Dataangrep",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa19080626/f2965eef-6.smil/thumb.jpg?t=1039&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1050,
+      "title": "Gjest NSM",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa19080626/f2965eef-6.smil/thumb.jpg?t=1075&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1194,
+      "title": "Ingrid Alexandra",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa19080626/f2965eef-6.smil/thumb.jpg?t=1220&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1215,
+      "title": "Nytt fra Norge",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa19080626/f2965eef-6.smil/thumb.jpg?t=1241&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1356,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa19080626/f2965eef-6.smil/thumb.jpg?t=1382&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1361,
+      "title": "13-åring vant",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa19080626/f2965eef-6.smil/thumb.jpg?t=1387&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1403,
+      "title": "Salah er klar",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa19080626/f2965eef-6.smil/thumb.jpg?t=1428&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1425,
+      "title": "Iuels siste mesterskap",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa19080626/f2965eef-6.smil/thumb.jpg?t=1450&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1497,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa19080626/f2965eef-6.smil/thumb.jpg?t=1523&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1656,
+      "title": "Søreide",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa19080626/f2965eef-6.smil/thumb.jpg?t=1681&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1677,
+      "title": "KORK i Rondane",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa19080626/f2965eef-6.smil/thumb.jpg?t=1703&scale=480x270&v=high"
+    }
+  ]
+}
