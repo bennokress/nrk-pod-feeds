@@ -1,0 +1,233 @@
+{
+  "version": "1.2.0",
+  "title": "Skal diskutere videreføring av avgiftskutt",
+  "author": "NRK",
+  "podcastName": "Nyhetsmorgen",
+  "chapters": [
+    {
+      "startTime": 3,
+      "title": "NRK Nyheter 07:00",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa05080626/d6909540-6.smil/thumb.jpg?t=28&scale=480x270&v=high"
+    },
+    {
+      "startTime": 181,
+      "title": "Åpning 07:03",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa05080626/d6909540-6.smil/thumb.jpg?t=206&scale=480x270&v=high"
+    },
+    {
+      "startTime": 242,
+      "title": "Kvifor svingar drivstoffprisane?",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa05080626/d6909540-6.smil/thumb.jpg?t=267&scale=480x270&v=high"
+    },
+    {
+      "startTime": 734,
+      "title": "Utset nedbetalinga av studielånet",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa05080626/d6909540-6.smil/thumb.jpg?t=760&scale=480x270&v=high"
+    },
+    {
+      "startTime": 937,
+      "title": "Nytt politisk parti i Tyrkia",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa05080626/d6909540-6.smil/thumb.jpg?t=962&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1131,
+      "title": "Utenrikskorr om nytt tyrkisk parti",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa05080626/d6909540-6.smil/thumb.jpg?t=1157&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1332,
+      "title": "Norgespris kan bli dyrere",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa05080626/d6909540-6.smil/thumb.jpg?t=1357&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1379,
+      "title": "Sørli ble skytterkonge med brudd i ryggen",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa05080626/d6909540-6.smil/thumb.jpg?t=1405&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1476,
+      "title": "Infantino trekker seg ikke",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa05080626/d6909540-6.smil/thumb.jpg?t=1501&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1514,
+      "title": "Syklet ned Reinebringen",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa05080626/d6909540-6.smil/thumb.jpg?t=1539&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1714,
+      "title": "E39 Stengt",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa05080626/d6909540-6.smil/thumb.jpg?t=1739&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1721,
+      "title": "Tre personer skadet i trafikkulykke i Molde",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa05080626/d6909540-6.smil/thumb.jpg?t=1747&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1767,
+      "title": "Trailer Hele historien - Terraskandalen",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa05080626/d6909540-6.smil/thumb.jpg?t=1793&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1801,
+      "title": "Overskrifter 07:30",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa05080626/d6909540-6.smil/thumb.jpg?t=1826&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1830,
+      "title": "Infantino ba om unnskyldning",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa05080626/d6909540-6.smil/thumb.jpg?t=1856&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1949,
+      "title": "Kvifor svingar drivstoffprisane?",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa05080626/d6909540-6.smil/thumb.jpg?t=1975&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2059,
+      "title": "Utset nedbetalinga av studielånet",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa05080626/d6909540-6.smil/thumb.jpg?t=2085&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2172,
+      "title": "Vil ta tid å avslutte Iran-krigen",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa05080626/d6909540-6.smil/thumb.jpg?t=2198&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2205,
+      "title": "Norgespris kan bli dyrere",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa05080626/d6909540-6.smil/thumb.jpg?t=2231&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2317,
+      "title": "Unge bekymret for uro og krig",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa05080626/d6909540-6.smil/thumb.jpg?t=2343&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2378,
+      "title": "Røkke tok ut 1 milliard i utbytte",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa05080626/d6909540-6.smil/thumb.jpg?t=2403&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2400,
+      "title": "Åpning 07:40",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa05080626/d6909540-6.smil/thumb.jpg?t=2425&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2411,
+      "title": "Unge bekymret for uro og krig",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa05080626/d6909540-6.smil/thumb.jpg?t=2437&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3602,
+      "title": "NRK Nyheter 08:00",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa05080626/d6909540-6.smil/thumb.jpg?t=3627&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3779,
+      "title": "Åpning 08:03",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa05080626/d6909540-6.smil/thumb.jpg?t=3804&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3833,
+      "title": "Norgespris kan bli dyrere",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa05080626/d6909540-6.smil/thumb.jpg?t=3859&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3991,
+      "title": "Vold mot ukrainere i Polen",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa05080626/d6909540-6.smil/thumb.jpg?t=4016&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4274,
+      "title": "Det russiske presset mot Ukraina",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa05080626/d6909540-6.smil/thumb.jpg?t=4299&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4465,
+      "title": "Overskrifter 08:15",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa05080626/d6909540-6.smil/thumb.jpg?t=4491&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4505,
+      "title": "Fifa-president Infantino nekter å trekke seg",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa05080626/d6909540-6.smil/thumb.jpg?t=4530&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4623,
+      "title": "Nytt politisk parti i Tyrkia",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa05080626/d6909540-6.smil/thumb.jpg?t=4649&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4817,
+      "title": "Skal hvalrossen få navn?",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa05080626/d6909540-6.smil/thumb.jpg?t=4842&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4977,
+      "title": "MDG etterlyser norsk dødsstatistikk",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa05080626/d6909540-6.smil/thumb.jpg?t=5003&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5158,
+      "title": "Bør ein forlenge avgiftskutt på drivstoff?",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa05080626/d6909540-6.smil/thumb.jpg?t=5183&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5224,
+      "title": "Syklet ned Reinebringen: Ordfører reagerer",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa05080626/d6909540-6.smil/thumb.jpg?t=5250&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5450,
+      "title": "– Å avslutte krigen i Iran vil bli rotete",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa05080626/d6909540-6.smil/thumb.jpg?t=5476&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5570,
+      "title": "Betalingstjeneste på Truth Social",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa05080626/d6909540-6.smil/thumb.jpg?t=5596&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5853,
+      "title": "Drivstoffmøte i dag",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa05080626/d6909540-6.smil/thumb.jpg?t=5878&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6055,
+      "title": "Utset nedbetalinga av studielånet",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa05080626/d6909540-6.smil/thumb.jpg?t=6081&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6230,
+      "title": "Før P2-pulsen i NRK P2",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa05080626/d6909540-6.smil/thumb.jpg?t=6256&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6326,
+      "title": "Usedvanlig travel flåttsommer",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa05080626/d6909540-6.smil/thumb.jpg?t=6352&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6590,
+      "title": "Filmanmeldelse: «Ice Cream Man»",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa05080626/d6909540-6.smil/thumb.jpg?t=6615&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6797,
+      "title": "Unge bekymret for uro og krig",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa05080626/d6909540-6.smil/thumb.jpg?t=6822&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7013,
+      "title": "Sørli ble skytterkonge med brudd i ryggen",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa05080626/d6909540-6.smil/thumb.jpg?t=7039&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7117,
+      "title": "GJEST Været i dag",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa05080626/d6909540-6.smil/thumb.jpg?t=7143&scale=480x270&v=high"
+    }
+  ]
+}
