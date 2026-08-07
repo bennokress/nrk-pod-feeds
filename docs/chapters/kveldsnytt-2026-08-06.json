@@ -1,0 +1,68 @@
+{
+  "version": "1.2.0",
+  "title": "Det går mot dyrere bensin og diesel",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-01.akamaized.net/open/ps/nnfa/nnfa23080626/06bb7604-7.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 34,
+      "title": "Drivstoffavgift",
+      "img": "https://nrk-od-world-01.akamaized.net/open/ps/nnfa/nnfa23080626/06bb7604-7.smil/thumb.jpg?t=60&scale=480x270&v=high"
+    },
+    {
+      "startTime": 146,
+      "title": "SAS mekling",
+      "img": "https://nrk-od-world-01.akamaized.net/open/ps/nnfa/nnfa23080626/06bb7604-7.smil/thumb.jpg?t=171&scale=480x270&v=high"
+    },
+    {
+      "startTime": 170,
+      "title": "Krokstadelva",
+      "img": "https://nrk-od-world-01.akamaized.net/open/ps/nnfa/nnfa23080626/06bb7604-7.smil/thumb.jpg?t=195&scale=480x270&v=high"
+    },
+    {
+      "startTime": 186,
+      "title": "Elektrifisering",
+      "img": "https://nrk-od-world-01.akamaized.net/open/ps/nnfa/nnfa23080626/06bb7604-7.smil/thumb.jpg?t=212&scale=480x270&v=high"
+    },
+    {
+      "startTime": 310,
+      "title": "Bekymrede unge",
+      "img": "https://nrk-od-world-01.akamaized.net/open/ps/nnfa/nnfa23080626/06bb7604-7.smil/thumb.jpg?t=336&scale=480x270&v=high"
+    },
+    {
+      "startTime": 449,
+      "title": "Bussangrep Syria",
+      "img": "https://nrk-od-world-01.akamaized.net/open/ps/nnfa/nnfa23080626/06bb7604-7.smil/thumb.jpg?t=475&scale=480x270&v=high"
+    },
+    {
+      "startTime": 472,
+      "title": "Tromsø vant",
+      "img": "https://nrk-od-world-01.akamaized.net/open/ps/nnfa/nnfa23080626/06bb7604-7.smil/thumb.jpg?t=498&scale=480x270&v=high"
+    },
+    {
+      "startTime": 537,
+      "title": "Blinkfestivalen",
+      "img": "https://nrk-od-world-01.akamaized.net/open/ps/nnfa/nnfa23080626/06bb7604-7.smil/thumb.jpg?t=563&scale=480x270&v=high"
+    },
+    {
+      "startTime": 629,
+      "title": "Weng reiser hjem",
+      "img": "https://nrk-od-world-01.akamaized.net/open/ps/nnfa/nnfa23080626/06bb7604-7.smil/thumb.jpg?t=654&scale=480x270&v=high"
+    },
+    {
+      "startTime": 670,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-01.akamaized.net/open/ps/nnfa/nnfa23080626/06bb7604-7.smil/thumb.jpg?t=695&scale=480x270&v=high"
+    },
+    {
+      "startTime": 733,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-01.akamaized.net/open/ps/nnfa/nnfa23080626/06bb7604-7.smil/thumb.jpg?t=752.6&scale=480x270&v=high"
+    }
+  ]
+}
