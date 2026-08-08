@@ -1,0 +1,73 @@
+{
+  "version": "1.2.0",
+  "title": "Risikerer livet",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa23080826/c13b65be-7.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 26,
+      "title": "Grensekonflikt",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa23080826/c13b65be-7.smil/thumb.jpg?t=52&scale=480x270&v=high"
+    },
+    {
+      "startTime": 127,
+      "title": "Kornbønder Ukraina",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa23080826/c13b65be-7.smil/thumb.jpg?t=152&scale=480x270&v=high"
+    },
+    {
+      "startTime": 229,
+      "title": "Biden kreft",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa23080826/c13b65be-7.smil/thumb.jpg?t=255&scale=480x270&v=high"
+    },
+    {
+      "startTime": 298,
+      "title": "Sykkelulykke",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa23080826/c13b65be-7.smil/thumb.jpg?t=323&scale=480x270&v=high"
+    },
+    {
+      "startTime": 318,
+      "title": "Namsskogan",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa23080826/c13b65be-7.smil/thumb.jpg?t=344&scale=480x270&v=high"
+    },
+    {
+      "startTime": 350,
+      "title": "Sigrid om Sheeran",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa23080826/c13b65be-7.smil/thumb.jpg?t=375&scale=480x270&v=high"
+    },
+    {
+      "startTime": 417,
+      "title": "Høyfjellskonsert",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa23080826/c13b65be-7.smil/thumb.jpg?t=443&scale=480x270&v=high"
+    },
+    {
+      "startTime": 493,
+      "title": "Blink festivalen",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa23080826/c13b65be-7.smil/thumb.jpg?t=519&scale=480x270&v=high"
+    },
+    {
+      "startTime": 530,
+      "title": "Friidrett",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa23080826/c13b65be-7.smil/thumb.jpg?t=555&scale=480x270&v=high"
+    },
+    {
+      "startTime": 620,
+      "title": "Eliteserien",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa23080826/c13b65be-7.smil/thumb.jpg?t=646&scale=480x270&v=high"
+    },
+    {
+      "startTime": 677,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa23080826/c13b65be-7.smil/thumb.jpg?t=702&scale=480x270&v=high"
+    },
+    {
+      "startTime": 743,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa23080826/c13b65be-7.smil/thumb.jpg?t=761.6&scale=480x270&v=high"
+    }
+  ]
+}
