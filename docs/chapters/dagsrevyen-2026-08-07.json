@@ -1,0 +1,103 @@
+{
+  "version": "1.2.0",
+  "title": "Mener Fifa-sjefen må gå",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 13,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-00.akamaized.net/open/ps/nnfa/nnfa19080726/aa80aac8-6.smil/thumb.jpg?t=38&scale=480x270&v=high"
+    },
+    {
+      "startTime": 53,
+      "title": "NFF om Fifa",
+      "img": "https://nrk-od-world-00.akamaized.net/open/ps/nnfa/nnfa19080726/aa80aac8-6.smil/thumb.jpg?t=79&scale=480x270&v=high"
+    },
+    {
+      "startTime": 156,
+      "title": "Gjest",
+      "img": "https://nrk-od-world-00.akamaized.net/open/ps/nnfa/nnfa19080726/aa80aac8-6.smil/thumb.jpg?t=182&scale=480x270&v=high"
+    },
+    {
+      "startTime": 289,
+      "title": "Streik avblåst",
+      "img": "https://nrk-od-world-00.akamaized.net/open/ps/nnfa/nnfa19080726/aa80aac8-6.smil/thumb.jpg?t=314&scale=480x270&v=high"
+    },
+    {
+      "startTime": 441,
+      "title": "Hemmelig forhold",
+      "img": "https://nrk-od-world-00.akamaized.net/open/ps/nnfa/nnfa19080726/aa80aac8-6.smil/thumb.jpg?t=467&scale=480x270&v=high"
+    },
+    {
+      "startTime": 561,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-00.akamaized.net/open/ps/nnfa/nnfa19080726/aa80aac8-6.smil/thumb.jpg?t=587&scale=480x270&v=high"
+    },
+    {
+      "startTime": 689,
+      "title": "MLD KART",
+      "img": "https://nrk-od-world-00.akamaized.net/open/ps/nnfa/nnfa19080726/aa80aac8-6.smil/thumb.jpg?t=715&scale=480x270&v=high"
+    },
+    {
+      "startTime": 710,
+      "title": "Begravelse Maren Sømme",
+      "img": "https://nrk-od-world-00.akamaized.net/open/ps/nnfa/nnfa19080726/aa80aac8-6.smil/thumb.jpg?t=736&scale=480x270&v=high"
+    },
+    {
+      "startTime": 806,
+      "title": "Hjemmeboende student",
+      "img": "https://nrk-od-world-00.akamaized.net/open/ps/nnfa/nnfa19080726/aa80aac8-6.smil/thumb.jpg?t=832&scale=480x270&v=high"
+    },
+    {
+      "startTime": 910,
+      "title": "Utenriksnyheter",
+      "img": "https://nrk-od-world-00.akamaized.net/open/ps/nnfa/nnfa19080726/aa80aac8-6.smil/thumb.jpg?t=935&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1039,
+      "title": "Sus og Dus-festivalen",
+      "img": "https://nrk-od-world-00.akamaized.net/open/ps/nnfa/nnfa19080726/aa80aac8-6.smil/thumb.jpg?t=1065&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1063,
+      "title": "Direkte Odda",
+      "img": "https://nrk-od-world-00.akamaized.net/open/ps/nnfa/nnfa19080726/aa80aac8-6.smil/thumb.jpg?t=1089&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1161,
+      "title": "Arendalsuka",
+      "img": "https://nrk-od-world-00.akamaized.net/open/ps/nnfa/nnfa19080726/aa80aac8-6.smil/thumb.jpg?t=1187&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1236,
+      "title": "Golfglede",
+      "img": "https://nrk-od-world-00.akamaized.net/open/ps/nnfa/nnfa19080726/aa80aac8-6.smil/thumb.jpg?t=1261&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1352,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-00.akamaized.net/open/ps/nnfa/nnfa19080726/aa80aac8-6.smil/thumb.jpg?t=1378&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1360,
+      "title": "Friidrett",
+      "img": "https://nrk-od-world-00.akamaized.net/open/ps/nnfa/nnfa19080726/aa80aac8-6.smil/thumb.jpg?t=1385&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1457,
+      "title": "Sportsnyheter",
+      "img": "https://nrk-od-world-00.akamaized.net/open/ps/nnfa/nnfa19080726/aa80aac8-6.smil/thumb.jpg?t=1482&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1535,
+      "title": "Badetemp Middelhavet",
+      "img": "https://nrk-od-world-00.akamaized.net/open/ps/nnfa/nnfa19080726/aa80aac8-6.smil/thumb.jpg?t=1560&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1562,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-00.akamaized.net/open/ps/nnfa/nnfa19080726/aa80aac8-6.smil/thumb.jpg?t=1588&scale=480x270&v=high"
+    }
+  ]
+}
