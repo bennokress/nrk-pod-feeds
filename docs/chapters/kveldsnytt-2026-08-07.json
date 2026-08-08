@@ -1,0 +1,73 @@
+{
+  "version": "1.2.0",
+  "title": "Siktet etter dødsulykke",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa23080726/96c5d029-8.smil/thumb.jpg?t=26&scale=480x270&v=high"
+    },
+    {
+      "startTime": 33,
+      "title": "Sykkelulykke",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa23080726/96c5d029-8.smil/thumb.jpg?t=59&scale=480x270&v=high"
+    },
+    {
+      "startTime": 65,
+      "title": "Sjåfør siktet",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa23080726/96c5d029-8.smil/thumb.jpg?t=90&scale=480x270&v=high"
+    },
+    {
+      "startTime": 156,
+      "title": "Vold Fredrikstad",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa23080726/96c5d029-8.smil/thumb.jpg?t=181&scale=480x270&v=high"
+    },
+    {
+      "startTime": 176,
+      "title": "Kraftpakke",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa23080726/96c5d029-8.smil/thumb.jpg?t=202&scale=480x270&v=high"
+    },
+    {
+      "startTime": 279,
+      "title": "Utdanning ukrainere",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa23080726/96c5d029-8.smil/thumb.jpg?t=305&scale=480x270&v=high"
+    },
+    {
+      "startTime": 325,
+      "title": "Norsk Tipping",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa23080726/96c5d029-8.smil/thumb.jpg?t=350&scale=480x270&v=high"
+    },
+    {
+      "startTime": 344,
+      "title": "Stanser ballsal",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa23080726/96c5d029-8.smil/thumb.jpg?t=369&scale=480x270&v=high"
+    },
+    {
+      "startTime": 373,
+      "title": "Fotball",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa23080726/96c5d029-8.smil/thumb.jpg?t=399&scale=480x270&v=high"
+    },
+    {
+      "startTime": 444,
+      "title": "Blink",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa23080726/96c5d029-8.smil/thumb.jpg?t=470&scale=480x270&v=high"
+    },
+    {
+      "startTime": 569,
+      "title": "Kostymeorientering",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa23080726/96c5d029-8.smil/thumb.jpg?t=594&scale=480x270&v=high"
+    },
+    {
+      "startTime": 656,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa23080726/96c5d029-8.smil/thumb.jpg?t=682&scale=480x270&v=high"
+    },
+    {
+      "startTime": 725,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa23080726/96c5d029-8.smil/thumb.jpg?t=744.55&scale=480x270&v=high"
+    }
+  ]
+}
