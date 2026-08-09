@@ -1,0 +1,68 @@
+{
+  "version": "1.2.0",
+  "title": "Over en million evakuert",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa23080926/6290ee0f-6.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 23,
+      "title": "Tyfon Asia",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa23080926/6290ee0f-6.smil/thumb.jpg?t=49&scale=480x270&v=high"
+    },
+    {
+      "startTime": 75,
+      "title": "Skyting Danmark",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa23080926/6290ee0f-6.smil/thumb.jpg?t=101&scale=480x270&v=high"
+    },
+    {
+      "startTime": 98,
+      "title": "Protester Ceuta",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa23080926/6290ee0f-6.smil/thumb.jpg?t=123&scale=480x270&v=high"
+    },
+    {
+      "startTime": 202,
+      "title": "Skjermforbud",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa23080926/6290ee0f-6.smil/thumb.jpg?t=227&scale=480x270&v=high"
+    },
+    {
+      "startTime": 236,
+      "title": "Politiaksjon Lesja",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa23080926/6290ee0f-6.smil/thumb.jpg?t=262&scale=480x270&v=high"
+    },
+    {
+      "startTime": 307,
+      "title": "Vil ha ny utleielov",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa23080926/6290ee0f-6.smil/thumb.jpg?t=332&scale=480x270&v=high"
+    },
+    {
+      "startTime": 409,
+      "title": "Friidrett",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa23080926/6290ee0f-6.smil/thumb.jpg?t=434&scale=480x270&v=high"
+    },
+    {
+      "startTime": 531,
+      "title": "Eliteserien",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa23080926/6290ee0f-6.smil/thumb.jpg?t=557&scale=480x270&v=high"
+    },
+    {
+      "startTime": 607,
+      "title": "Sandvolleyball",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa23080926/6290ee0f-6.smil/thumb.jpg?t=633&scale=480x270&v=high"
+    },
+    {
+      "startTime": 637,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa23080926/6290ee0f-6.smil/thumb.jpg?t=663&scale=480x270&v=high"
+    },
+    {
+      "startTime": 703,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa23080926/6290ee0f-6.smil/thumb.jpg?t=720.55&scale=480x270&v=high"
+    }
+  ]
+}
