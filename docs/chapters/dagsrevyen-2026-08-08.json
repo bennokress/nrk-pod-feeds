@@ -1,0 +1,103 @@
+{
+  "version": "1.2.0",
+  "title": "Flere til sykehus",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 10,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa19080826/e642cda9-8.smil/thumb.jpg?t=35&scale=480x270&v=high"
+    },
+    {
+      "startTime": 51,
+      "title": "Namsskogan",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa19080826/e642cda9-8.smil/thumb.jpg?t=77&scale=480x270&v=high"
+    },
+    {
+      "startTime": 140,
+      "title": "Norske avlinger",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa19080826/e642cda9-8.smil/thumb.jpg?t=166&scale=480x270&v=high"
+    },
+    {
+      "startTime": 280,
+      "title": "Direkte Kyiv",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa19080826/e642cda9-8.smil/thumb.jpg?t=306&scale=480x270&v=high"
+    },
+    {
+      "startTime": 334,
+      "title": "Direkte Nairobi",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa19080826/e642cda9-8.smil/thumb.jpg?t=360&scale=480x270&v=high"
+    },
+    {
+      "startTime": 401,
+      "title": "Direkte Kyiv",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa19080826/e642cda9-8.smil/thumb.jpg?t=426&scale=480x270&v=high"
+    },
+    {
+      "startTime": 456,
+      "title": "Rødt mot Ap",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa19080826/e642cda9-8.smil/thumb.jpg?t=482&scale=480x270&v=high"
+    },
+    {
+      "startTime": 575,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa19080826/e642cda9-8.smil/thumb.jpg?t=601&scale=480x270&v=high"
+    },
+    {
+      "startTime": 628,
+      "title": "Donau problemer",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa19080826/e642cda9-8.smil/thumb.jpg?t=654&scale=480x270&v=high"
+    },
+    {
+      "startTime": 706,
+      "title": "Utenriksnyheter",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa19080826/e642cda9-8.smil/thumb.jpg?t=731&scale=480x270&v=high"
+    },
+    {
+      "startTime": 810,
+      "title": "Studentboliger",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa19080826/e642cda9-8.smil/thumb.jpg?t=835&scale=480x270&v=high"
+    },
+    {
+      "startTime": 891,
+      "title": "Lørdagsgjest",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa19080826/e642cda9-8.smil/thumb.jpg?t=917&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1209,
+      "title": "Veteranbilrally",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa19080826/e642cda9-8.smil/thumb.jpg?t=1235&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1290,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa19080826/e642cda9-8.smil/thumb.jpg?t=1316&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1298,
+      "title": "Friidretts EM",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa19080826/e642cda9-8.smil/thumb.jpg?t=1323&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1377,
+      "title": "Sandvolleyball",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa19080826/e642cda9-8.smil/thumb.jpg?t=1403&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1399,
+      "title": "Eliteserien",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa19080826/e642cda9-8.smil/thumb.jpg?t=1424&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1495,
+      "title": "Direkte",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa19080826/e642cda9-8.smil/thumb.jpg?t=1520&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1549,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa19080826/e642cda9-8.smil/thumb.jpg?t=1574&scale=480x270&v=high"
+    }
+  ]
+}
