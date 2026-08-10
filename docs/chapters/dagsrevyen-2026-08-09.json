@@ -1,0 +1,93 @@
+{
+  "version": "1.2.0",
+  "title": "Flere skred",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 4,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa19080926/4d0a4ede-7.smil/thumb.jpg?t=30&scale=480x270&v=high"
+    },
+    {
+      "startTime": 56,
+      "title": "Skred Vestland",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa19080926/4d0a4ede-7.smil/thumb.jpg?t=82&scale=480x270&v=high"
+    },
+    {
+      "startTime": 160,
+      "title": "Direkte Bergen",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa19080926/4d0a4ede-7.smil/thumb.jpg?t=186&scale=480x270&v=high"
+    },
+    {
+      "startTime": 279,
+      "title": "Politiaksjon Lesja",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa19080926/4d0a4ede-7.smil/thumb.jpg?t=304&scale=480x270&v=high"
+    },
+    {
+      "startTime": 300,
+      "title": "Direkte: Lesja",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa19080926/4d0a4ede-7.smil/thumb.jpg?t=326&scale=480x270&v=high"
+    },
+    {
+      "startTime": 380,
+      "title": "Vil ha ny utleielov",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa19080926/4d0a4ede-7.smil/thumb.jpg?t=405&scale=480x270&v=high"
+    },
+    {
+      "startTime": 482,
+      "title": "Hytteinnbrudd",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa19080926/4d0a4ede-7.smil/thumb.jpg?t=507&scale=480x270&v=high"
+    },
+    {
+      "startTime": 550,
+      "title": "Aggressive av crack",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa19080926/4d0a4ede-7.smil/thumb.jpg?t=576&scale=480x270&v=high"
+    },
+    {
+      "startTime": 710,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa19080926/4d0a4ede-7.smil/thumb.jpg?t=735&scale=480x270&v=high"
+    },
+    {
+      "startTime": 809,
+      "title": "Iran og Hormuz",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa19080926/4d0a4ede-7.smil/thumb.jpg?t=835&scale=480x270&v=high"
+    },
+    {
+      "startTime": 910,
+      "title": "Canada evakuerte",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa19080926/4d0a4ede-7.smil/thumb.jpg?t=935&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1021,
+      "title": "Utrygge ukrainere",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa19080926/4d0a4ede-7.smil/thumb.jpg?t=1047&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1261,
+      "title": "Oslo turnering",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa19080926/4d0a4ede-7.smil/thumb.jpg?t=1287&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1373,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa19080926/4d0a4ede-7.smil/thumb.jpg?t=1399&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1381,
+      "title": "Friidretts EM",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa19080926/4d0a4ede-7.smil/thumb.jpg?t=1407&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1462,
+      "title": "Eliteserien",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa19080926/4d0a4ede-7.smil/thumb.jpg?t=1487&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1569,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa19080926/4d0a4ede-7.smil/thumb.jpg?t=1594&scale=480x270&v=high"
+    }
+  ]
+}
