@@ -1,0 +1,58 @@
+{
+  "version": "1.2.0",
+  "title": "Kontroll på rømling",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 2,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa21080926/480d32ce-7.smil/thumb.jpg?t=27&scale=480x270&v=high"
+    },
+    {
+      "startTime": 24,
+      "title": "Politiaksjon Lesja",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa21080926/480d32ce-7.smil/thumb.jpg?t=50&scale=480x270&v=high"
+    },
+    {
+      "startTime": 96,
+      "title": "Skred Bergen",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa21080926/480d32ce-7.smil/thumb.jpg?t=122&scale=480x270&v=high"
+    },
+    {
+      "startTime": 138,
+      "title": "Molde ulykke",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa21080926/480d32ce-7.smil/thumb.jpg?t=164&scale=480x270&v=high"
+    },
+    {
+      "startTime": 208,
+      "title": "Haugesund",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa21080926/480d32ce-7.smil/thumb.jpg?t=234&scale=480x270&v=high"
+    },
+    {
+      "startTime": 232,
+      "title": "Utenriksnyheter",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa21080926/480d32ce-7.smil/thumb.jpg?t=258&scale=480x270&v=high"
+    },
+    {
+      "startTime": 321,
+      "title": "Canada evakuerte",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa21080926/480d32ce-7.smil/thumb.jpg?t=347&scale=480x270&v=high"
+    },
+    {
+      "startTime": 426,
+      "title": "Sandvolley",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa21080926/480d32ce-7.smil/thumb.jpg?t=452&scale=480x270&v=high"
+    },
+    {
+      "startTime": 498,
+      "title": "Været",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa21080926/480d32ce-7.smil/thumb.jpg?t=524&scale=480x270&v=high"
+    },
+    {
+      "startTime": 551,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa21080926/480d32ce-7.smil/thumb.jpg?t=570.55&scale=480x270&v=high"
+    }
+  ]
+}
