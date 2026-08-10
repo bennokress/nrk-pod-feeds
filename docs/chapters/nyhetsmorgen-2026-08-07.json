@@ -1,0 +1,203 @@
+{
+  "version": "1.2.0",
+  "title": "Få lavtlønnede eier egen bolig",
+  "author": "NRK",
+  "podcastName": "Nyhetsmorgen",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "NRK Nyheter 07:00",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa05080726/e30614d9-6.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 182,
+      "title": "Åpning 07:03",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa05080726/e30614d9-6.smil/thumb.jpg?t=207&scale=480x270&v=high"
+    },
+    {
+      "startTime": 262,
+      "title": "Evakuering på grunn av ammoniakklekkasje",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa05080726/e30614d9-6.smil/thumb.jpg?t=287&scale=480x270&v=high"
+    },
+    {
+      "startTime": 403,
+      "title": "Lave eierrater blant lavtlønnede",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa05080726/e30614d9-6.smil/thumb.jpg?t=428&scale=480x270&v=high"
+    },
+    {
+      "startTime": 586,
+      "title": "Husbanken om eigarrate",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa05080726/e30614d9-6.smil/thumb.jpg?t=612&scale=480x270&v=high"
+    },
+    {
+      "startTime": 874,
+      "title": "Politisk kvarter: Drivstoffavgift",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa05080726/e30614d9-6.smil/thumb.jpg?t=900&scale=480x270&v=high"
+    },
+    {
+      "startTime": 994,
+      "title": "SAS-forhandlinger hos Riksmekleren",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa05080726/e30614d9-6.smil/thumb.jpg?t=1020&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1152,
+      "title": "Flere ukrainere søker høyere utdanning",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa05080726/e30614d9-6.smil/thumb.jpg?t=1178&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1313,
+      "title": "Digital sikkerhet",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa05080726/e30614d9-6.smil/thumb.jpg?t=1338&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1524,
+      "title": "Evakuert i Skien",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa05080726/e30614d9-6.smil/thumb.jpg?t=1550&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1575,
+      "title": "Opptrapping i Jemen",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa05080726/e30614d9-6.smil/thumb.jpg?t=1600&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1768,
+      "title": "HISTORIER FRA VIRKELIGHETEN_GLIMTKODEN",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa05080726/e30614d9-6.smil/thumb.jpg?t=1793&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1800,
+      "title": "Overskrifter 07:30",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa05080726/e30614d9-6.smil/thumb.jpg?t=1825&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1825,
+      "title": "Fare for streik i SAS",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa05080726/e30614d9-6.smil/thumb.jpg?t=1850&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1926,
+      "title": "Lave eierrater blant lavtlønnede",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa05080726/e30614d9-6.smil/thumb.jpg?t=1952&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2048,
+      "title": "Evakuering på grunn av ammoniakklekkasje",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa05080726/e30614d9-6.smil/thumb.jpg?t=2074&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2150,
+      "title": "Digital sikkerhet",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa05080726/e30614d9-6.smil/thumb.jpg?t=2175&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2267,
+      "title": "Døde etter skuleskyting i Thailand",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa05080726/e30614d9-6.smil/thumb.jpg?t=2292&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2307,
+      "title": "Sex i fengsel",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa05080726/e30614d9-6.smil/thumb.jpg?t=2333&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2400,
+      "title": "Åpning 07:40",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa05080726/e30614d9-6.smil/thumb.jpg?t=2425&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2413,
+      "title": "Mye ledig under Arendalsuka",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa05080726/e30614d9-6.smil/thumb.jpg?t=2439&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3600,
+      "title": "NRK Nyheter 08:00",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa05080726/e30614d9-6.smil/thumb.jpg?t=3626&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3779,
+      "title": "Åpning 08:03",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa05080726/e30614d9-6.smil/thumb.jpg?t=3805&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3854,
+      "title": "Politisk kommentator om drivstoffdrama",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa05080726/e30614d9-6.smil/thumb.jpg?t=3879&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4077,
+      "title": "Sex i fengsel",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa05080726/e30614d9-6.smil/thumb.jpg?t=4102&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4276,
+      "title": "Etterforsker mulig angrep mot tysk flyplass",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa05080726/e30614d9-6.smil/thumb.jpg?t=4302&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4456,
+      "title": "Overskrifter 08:15",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa05080726/e30614d9-6.smil/thumb.jpg?t=4482&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4498,
+      "title": "DNT stenger hytter og stier",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa05080726/e30614d9-6.smil/thumb.jpg?t=4524&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4683,
+      "title": "Fredagspanelet",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa05080726/e30614d9-6.smil/thumb.jpg?t=4709&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5579,
+      "title": "SAS-forhandlinger hos Riksmekleren",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa05080726/e30614d9-6.smil/thumb.jpg?t=5604&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5687,
+      "title": "Lave eierrater blant lavtlønnede",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa05080726/e30614d9-6.smil/thumb.jpg?t=5712&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5878,
+      "title": "Husbanken om eigarrate",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa05080726/e30614d9-6.smil/thumb.jpg?t=5903&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6111,
+      "title": "Meta må betale milliardbeløp",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa05080726/e30614d9-6.smil/thumb.jpg?t=6137&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6265,
+      "title": "DIR Før P2-pulsen i NRK P2",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa05080726/e30614d9-6.smil/thumb.jpg?t=6290&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6357,
+      "title": "Over 1000 mindreårige igjen i Ceuta",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa05080726/e30614d9-6.smil/thumb.jpg?t=6383&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6509,
+      "title": "Ny hjerneforskning fra nobelprisvinnere",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa05080726/e30614d9-6.smil/thumb.jpg?t=6535&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6674,
+      "title": "Listhaug vs Søreide",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa05080726/e30614d9-6.smil/thumb.jpg?t=6699&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6904,
+      "title": "Medaljesjansar på 4x400 miksstafett",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa05080726/e30614d9-6.smil/thumb.jpg?t=6930&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7058,
+      "title": "GJEST Været i dag",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa05080726/e30614d9-6.smil/thumb.jpg?t=7083&scale=480x270&v=high"
+    }
+  ]
+}
