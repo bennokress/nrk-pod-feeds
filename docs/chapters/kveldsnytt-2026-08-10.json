@@ -1,0 +1,58 @@
+{
+  "version": "1.2.0",
+  "title": "Havene i verden har aldri vært varmere",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa23081026/9e0bd02c-7.smil/thumb.jpg?t=25&scale=480x270&v=high"
+    },
+    {
+      "startTime": 36,
+      "title": "Unntakstilstand i Colombia etter skjelv",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa23081026/9e0bd02c-7.smil/thumb.jpg?t=61&scale=480x270&v=high"
+    },
+    {
+      "startTime": 126,
+      "title": "PRIVATE-NAV-100826-DR23",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa23081026/9e0bd02c-7.smil/thumb.jpg?t=152&scale=480x270&v=high"
+    },
+    {
+      "startTime": 222,
+      "title": "Spion Sverige",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa23081026/9e0bd02c-7.smil/thumb.jpg?t=248&scale=480x270&v=high"
+    },
+    {
+      "startTime": 305,
+      "title": "Rekordvarmt i havet - påverkar Antarktis",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa23081026/9e0bd02c-7.smil/thumb.jpg?t=331&scale=480x270&v=high"
+    },
+    {
+      "startTime": 418,
+      "title": "Fjernstyrt plattform",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa23081026/9e0bd02c-7.smil/thumb.jpg?t=444&scale=480x270&v=high"
+    },
+    {
+      "startTime": 439,
+      "title": "Rødøyløva opning av nasjonaltursti",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa23081026/9e0bd02c-7.smil/thumb.jpg?t=465&scale=480x270&v=high"
+    },
+    {
+      "startTime": 510,
+      "title": "Friidretts EM",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa23081026/9e0bd02c-7.smil/thumb.jpg?t=536&scale=480x270&v=high"
+    },
+    {
+      "startTime": 737,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa23081026/9e0bd02c-7.smil/thumb.jpg?t=762&scale=480x270&v=high"
+    },
+    {
+      "startTime": 811,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa23081026/9e0bd02c-7.smil/thumb.jpg?t=833.55&scale=480x270&v=high"
+    }
+  ]
+}
