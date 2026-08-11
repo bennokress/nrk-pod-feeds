@@ -1,0 +1,93 @@
+{
+  "version": "1.2.0",
+  "title": "Syklister krever strengere regler",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 10,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa19081026/76fb54a5-6.smil/thumb.jpg?t=35&scale=480x270&v=high"
+    },
+    {
+      "startTime": 67,
+      "title": "Jordskjelv Colombia",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa19081026/76fb54a5-6.smil/thumb.jpg?t=93&scale=480x270&v=high"
+    },
+    {
+      "startTime": 198,
+      "title": "Gjest: Hallvard Sandberg",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa19081026/76fb54a5-6.smil/thumb.jpg?t=223&scale=480x270&v=high"
+    },
+    {
+      "startTime": 310,
+      "title": "Prisstigning",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa19081026/76fb54a5-6.smil/thumb.jpg?t=335&scale=480x270&v=high"
+    },
+    {
+      "startTime": 412,
+      "title": "Direkte fra Arendal",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa19081026/76fb54a5-6.smil/thumb.jpg?t=437&scale=480x270&v=high"
+    },
+    {
+      "startTime": 526,
+      "title": "Sikkerhet syklister",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa19081026/76fb54a5-6.smil/thumb.jpg?t=552&scale=480x270&v=high"
+    },
+    {
+      "startTime": 696,
+      "title": "UDI-nettverk",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa19081026/76fb54a5-6.smil/thumb.jpg?t=722&scale=480x270&v=high"
+    },
+    {
+      "startTime": 845,
+      "title": "NOAS",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa19081026/76fb54a5-6.smil/thumb.jpg?t=871&scale=480x270&v=high"
+    },
+    {
+      "startTime": 953,
+      "title": "Studiestart",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa19081026/76fb54a5-6.smil/thumb.jpg?t=978&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1196,
+      "title": "Høiby",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa19081026/76fb54a5-6.smil/thumb.jpg?t=1222&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1235,
+      "title": "Bil i apotek",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa19081026/76fb54a5-6.smil/thumb.jpg?t=1261&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1311,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa19081026/76fb54a5-6.smil/thumb.jpg?t=1336&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1317,
+      "title": "Friidretts-EM",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa19081026/76fb54a5-6.smil/thumb.jpg?t=1342&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1410,
+      "title": "Sorg friidrett",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa19081026/76fb54a5-6.smil/thumb.jpg?t=1436&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1459,
+      "title": "Direkte Brimingham",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa19081026/76fb54a5-6.smil/thumb.jpg?t=1485&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1547,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa19081026/76fb54a5-6.smil/thumb.jpg?t=1573&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1757,
+      "title": "Colombia",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa19081026/76fb54a5-6.smil/thumb.jpg?t=1782&scale=480x270&v=high"
+    }
+  ]
+}
