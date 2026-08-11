@@ -1,0 +1,288 @@
+{
+  "version": "1.2.0",
+  "title": "Flere studenter bor hjemme",
+  "author": "NRK",
+  "podcastName": "Nyhetsmorgen",
+  "chapters": [
+    {
+      "startTime": 87,
+      "title": "Flere studenter bor hjemme",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05081026/3931fc55-6.smil/thumb.jpg?t=112&scale=480x270&v=high"
+    },
+    {
+      "startTime": 163,
+      "title": "Stor splid om EU på Island",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05081026/3931fc55-6.smil/thumb.jpg?t=189&scale=480x270&v=high"
+    },
+    {
+      "startTime": 333,
+      "title": "Siste nytt",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05081026/3931fc55-6.smil/thumb.jpg?t=358&scale=480x270&v=high"
+    },
+    {
+      "startTime": 438,
+      "title": "Høgre vil ha med Sp på skattekutt",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05081026/3931fc55-6.smil/thumb.jpg?t=464&scale=480x270&v=high"
+    },
+    {
+      "startTime": 584,
+      "title": "Netanyahus utfordrer i valget",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05081026/3931fc55-6.smil/thumb.jpg?t=609&scale=480x270&v=high"
+    },
+    {
+      "startTime": 810,
+      "title": "Frivillighet på egne premisser",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05081026/3931fc55-6.smil/thumb.jpg?t=836&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1019,
+      "title": "Overskrifter 06:45",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05081026/3931fc55-6.smil/thumb.jpg?t=1044&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1080,
+      "title": "Rettssaken etter Tupac-drapet",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05081026/3931fc55-6.smil/thumb.jpg?t=1105&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1360,
+      "title": "Oslo mangler besøksvenner",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05081026/3931fc55-6.smil/thumb.jpg?t=1385&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1538,
+      "title": "Indiespill kan bli årets beste",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05081026/3931fc55-6.smil/thumb.jpg?t=1563&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1743,
+      "title": "Jakob Asserson Ingebrigtsen løper 5000 m.",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05081026/3931fc55-6.smil/thumb.jpg?t=1769&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1857,
+      "title": "Åpning 07:00",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05081026/3931fc55-6.smil/thumb.jpg?t=1882&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1945,
+      "title": "MDG vil skrote Noregspris",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05081026/3931fc55-6.smil/thumb.jpg?t=1970&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2168,
+      "title": "Flere studenter bor hjemme",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05081026/3931fc55-6.smil/thumb.jpg?t=2194&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2349,
+      "title": "Rådgivar gir studiestarttips",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05081026/3931fc55-6.smil/thumb.jpg?t=2375&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2612,
+      "title": "Rogaland er best på tannhelse",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05081026/3931fc55-6.smil/thumb.jpg?t=2637&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2816,
+      "title": "Overskrifter 07:15",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05081026/3931fc55-6.smil/thumb.jpg?t=2842&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2854,
+      "title": "Mekka-avtalen",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05081026/3931fc55-6.smil/thumb.jpg?t=2880&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3005,
+      "title": "Khorami om Mekka-avtalen",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05081026/3931fc55-6.smil/thumb.jpg?t=3030&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3145,
+      "title": "Slår alarm om lærerutdanningene",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05081026/3931fc55-6.smil/thumb.jpg?t=3171&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3283,
+      "title": "Før Politisk kvarter",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05081026/3931fc55-6.smil/thumb.jpg?t=3308&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3371,
+      "title": "Ferieeffekten er kort",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05081026/3931fc55-6.smil/thumb.jpg?t=3397&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3600,
+      "title": "Overskrifter 07:30",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05081026/3931fc55-6.smil/thumb.jpg?t=3626&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3630,
+      "title": "Flere studenter bor hjemme",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05081026/3931fc55-6.smil/thumb.jpg?t=3655&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3739,
+      "title": "Nye varmerekorder Europa",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05081026/3931fc55-6.smil/thumb.jpg?t=3764&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3844,
+      "title": "MDG vil skrote noregspris",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05081026/3931fc55-6.smil/thumb.jpg?t=3869&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3962,
+      "title": "Stor splid om EU på Island",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05081026/3931fc55-6.smil/thumb.jpg?t=3988&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4090,
+      "title": "Oslo mangler besøksvenner",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05081026/3931fc55-6.smil/thumb.jpg?t=4116&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4199,
+      "title": "Åpning 07:40",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05081026/3931fc55-6.smil/thumb.jpg?t=4225&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4216,
+      "title": "Lever i frykt for steinras",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05081026/3931fc55-6.smil/thumb.jpg?t=4242&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4450,
+      "title": "Topper 07:44",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05081026/3931fc55-6.smil/thumb.jpg?t=4475&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4496,
+      "title": "Overgang til Politisk kvarter",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05081026/3931fc55-6.smil/thumb.jpg?t=4521&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5400,
+      "title": "NRK Nyheter 08:00",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05081026/3931fc55-6.smil/thumb.jpg?t=5426&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5580,
+      "title": "Åpning 08:03",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05081026/3931fc55-6.smil/thumb.jpg?t=5605&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5654,
+      "title": "Nye KPI-tall",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05081026/3931fc55-6.smil/thumb.jpg?t=5679&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5943,
+      "title": "Russisk oppposisjonsparti i Høyesrett",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05081026/3931fc55-6.smil/thumb.jpg?t=5968&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6215,
+      "title": "Nye varmerekorder Europa",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05081026/3931fc55-6.smil/thumb.jpg?t=6241&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6387,
+      "title": "Overskrifter 08:15",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05081026/3931fc55-6.smil/thumb.jpg?t=6413&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6438,
+      "title": "Netanyahus utfordrer i valget",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05081026/3931fc55-6.smil/thumb.jpg?t=6464&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6665,
+      "title": "Migrasjon og overfiske",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05081026/3931fc55-6.smil/thumb.jpg?t=6691&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6929,
+      "title": "Jakob Asserson Ingebrigtsen løper 5000 m.",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05081026/3931fc55-6.smil/thumb.jpg?t=6954&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6994,
+      "title": "Rodal om friidretts-EM",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05081026/3931fc55-6.smil/thumb.jpg?t=7019&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7170,
+      "title": "Dir før EKKO i NRK P2",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05081026/3931fc55-6.smil/thumb.jpg?t=7196&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7241,
+      "title": "Overskrifter 08:30",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05081026/3931fc55-6.smil/thumb.jpg?t=7267&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7307,
+      "title": "MDG vil skrote noregspris",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05081026/3931fc55-6.smil/thumb.jpg?t=7332&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7436,
+      "title": "Mekka-avtalen",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05081026/3931fc55-6.smil/thumb.jpg?t=7461&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7590,
+      "title": "Korrespondent om Mekka-avtalen (R)",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05081026/3931fc55-6.smil/thumb.jpg?t=7615&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7725,
+      "title": "Stor splid om EU på Island",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05081026/3931fc55-6.smil/thumb.jpg?t=7750&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7890,
+      "title": "Tyskere siktet for brannpåstifting",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05081026/3931fc55-6.smil/thumb.jpg?t=7915&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8066,
+      "title": "Overskrifter 08:45",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05081026/3931fc55-6.smil/thumb.jpg?t=8092&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8106,
+      "title": "Kinahan arrestert",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05081026/3931fc55-6.smil/thumb.jpg?t=8131&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8258,
+      "title": "Høyre slår alarm om lærerutdanninga",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05081026/3931fc55-6.smil/thumb.jpg?t=8284&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8518,
+      "title": "Rogaland er best på tannhelse",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05081026/3931fc55-6.smil/thumb.jpg?t=8543&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8705,
+      "title": "Indiespill kan bli årets beste",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05081026/3931fc55-6.smil/thumb.jpg?t=8731&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8903,
+      "title": "GJEST Været i dag",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05081026/3931fc55-6.smil/thumb.jpg?t=8928&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8993,
+      "title": "Avslutning",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa05081026/3931fc55-6.smil/thumb.jpg?t=9004.32&scale=480x270&v=high"
+    }
+  ]
+}
