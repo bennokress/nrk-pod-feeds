@@ -1,0 +1,88 @@
+{
+  "version": "1.2.0",
+  "title": "Advarer",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 11,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa19081126/913b0fa0-6.smil/thumb.jpg?t=36&scale=480x270&v=high"
+    },
+    {
+      "startTime": 73,
+      "title": "Oljefondets framtid",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa19081126/913b0fa0-6.smil/thumb.jpg?t=99&scale=480x270&v=high"
+    },
+    {
+      "startTime": 216,
+      "title": "Fellesskole framtid",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa19081126/913b0fa0-6.smil/thumb.jpg?t=241&scale=480x270&v=high"
+    },
+    {
+      "startTime": 343,
+      "title": "Direkte fra Arendal",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa19081126/913b0fa0-6.smil/thumb.jpg?t=368&scale=480x270&v=high"
+    },
+    {
+      "startTime": 628,
+      "title": "Partimåling",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa19081126/913b0fa0-6.smil/thumb.jpg?t=653&scale=480x270&v=high"
+    },
+    {
+      "startTime": 676,
+      "title": "Colombia jordskjelv",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa19081126/913b0fa0-6.smil/thumb.jpg?t=701&scale=480x270&v=high"
+    },
+    {
+      "startTime": 786,
+      "title": "Utenriks",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa19081126/913b0fa0-6.smil/thumb.jpg?t=811&scale=480x270&v=high"
+    },
+    {
+      "startTime": 891,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa19081126/913b0fa0-6.smil/thumb.jpg?t=916&scale=480x270&v=high"
+    },
+    {
+      "startTime": 986,
+      "title": "Nettstudier",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa19081126/913b0fa0-6.smil/thumb.jpg?t=1011&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1091,
+      "title": "Utenfor arbeidslivet",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa19081126/913b0fa0-6.smil/thumb.jpg?t=1117&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1207,
+      "title": "Plukker kirsebær",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa19081126/913b0fa0-6.smil/thumb.jpg?t=1232&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1276,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa19081126/913b0fa0-6.smil/thumb.jpg?t=1302&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1281,
+      "title": "Friidretts-EM",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa19081126/913b0fa0-6.smil/thumb.jpg?t=1307&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1413,
+      "title": "Mesterligakvalikk",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa19081126/913b0fa0-6.smil/thumb.jpg?t=1439&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1454,
+      "title": "Fotball",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa19081126/913b0fa0-6.smil/thumb.jpg?t=1480&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1527,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa19081126/913b0fa0-6.smil/thumb.jpg?t=1552&scale=480x270&v=high"
+    }
+  ]
+}
