@@ -1,0 +1,38 @@
+{
+  "version": "1.2.0",
+  "title": "Barneskolen må endres",
+  "author": "NRK",
+  "podcastName": "Dagsnytt 18",
+  "chapters": [
+    {
+      "startTime": 83,
+      "title": "Barneskolen bør endres",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa56081126/3587302b-6.smil/thumb.jpg?t=108&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1074,
+      "title": "Cyberangrep mot Norge",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa56081126/3587302b-6.smil/thumb.jpg?t=1099&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1643,
+      "title": "Unge og arbeidslivet",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa56081126/3587302b-6.smil/thumb.jpg?t=1668&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2081,
+      "title": "Fifa og fotballen",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa56081126/3587302b-6.smil/thumb.jpg?t=2107&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2481,
+      "title": "Beredsskapsvasking",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa56081126/3587302b-6.smil/thumb.jpg?t=2506&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2924,
+      "title": "Hatet i offentligheten",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa56081126/3587302b-6.smil/thumb.jpg?t=2950&scale=480x270&v=high"
+    }
+  ]
+}
