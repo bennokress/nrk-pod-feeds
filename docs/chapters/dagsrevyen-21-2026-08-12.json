@@ -1,0 +1,58 @@
+{
+  "version": "1.2.0",
+  "title": "Sjelden solformørkelse",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa21081226/3a4b897e-6.smil/thumb.jpg?t=26&scale=640x360&v=high"
+    },
+    {
+      "startTime": 28,
+      "title": "Solformørkelse",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa21081226/3a4b897e-6.smil/thumb.jpg?t=54&scale=640x360&v=high"
+    },
+    {
+      "startTime": 80,
+      "title": "Vold i Oslo",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa21081226/3a4b897e-6.smil/thumb.jpg?t=106&scale=640x360&v=high"
+    },
+    {
+      "startTime": 166,
+      "title": "Brann Arendal",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa21081226/3a4b897e-6.smil/thumb.jpg?t=191&scale=640x360&v=high"
+    },
+    {
+      "startTime": 195,
+      "title": "Skadde badeland",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa21081226/3a4b897e-6.smil/thumb.jpg?t=221&scale=640x360&v=high"
+    },
+    {
+      "startTime": 218,
+      "title": "Ungdomsdebatt",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa21081226/3a4b897e-6.smil/thumb.jpg?t=244&scale=640x360&v=high"
+    },
+    {
+      "startTime": 300,
+      "title": "PST trussel",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa21081226/3a4b897e-6.smil/thumb.jpg?t=325&scale=640x360&v=high"
+    },
+    {
+      "startTime": 412,
+      "title": "Brann tilbake",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa21081226/3a4b897e-6.smil/thumb.jpg?t=437&scale=640x360&v=high"
+    },
+    {
+      "startTime": 491,
+      "title": "Været",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa21081226/3a4b897e-6.smil/thumb.jpg?t=516&scale=640x360&v=high"
+    },
+    {
+      "startTime": 546,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa21081226/3a4b897e-6.smil/thumb.jpg?t=566.88&scale=640x360&v=high"
+    }
+  ]
+}
