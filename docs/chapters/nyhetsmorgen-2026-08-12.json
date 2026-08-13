@@ -1,0 +1,273 @@
+{
+  "version": "1.2.0",
+  "title": "Brød av bygg på tallerkenen i 2050?",
+  "author": "NRK",
+  "podcastName": "Nyhetsmorgen",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Åpning 06:30",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05081226/31e0f86b-7.smil/thumb.jpg?t=26&scale=480x270&v=high"
+    },
+    {
+      "startTime": 56,
+      "title": "Bygg som klimavinner",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05081226/31e0f86b-7.smil/thumb.jpg?t=81&scale=480x270&v=high"
+    },
+    {
+      "startTime": 135,
+      "title": "Fulgte ikke opp egne overtidsregler",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05081226/31e0f86b-7.smil/thumb.jpg?t=161&scale=480x270&v=high"
+    },
+    {
+      "startTime": 436,
+      "title": "Ny bunnrekord for USAs president",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05081226/31e0f86b-7.smil/thumb.jpg?t=461&scale=480x270&v=high"
+    },
+    {
+      "startTime": 643,
+      "title": "EM svømming i Paris",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05081226/31e0f86b-7.smil/thumb.jpg?t=669&scale=480x270&v=high"
+    },
+    {
+      "startTime": 783,
+      "title": "Bodø Glimt klar for play off",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05081226/31e0f86b-7.smil/thumb.jpg?t=808&scale=480x270&v=high"
+    },
+    {
+      "startTime": 900,
+      "title": "Overskrifter 06:45",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05081226/31e0f86b-7.smil/thumb.jpg?t=926&scale=480x270&v=high"
+    },
+    {
+      "startTime": 948,
+      "title": "Vil ha islandsk EU-avstemning i Norge",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05081226/31e0f86b-7.smil/thumb.jpg?t=973&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1114,
+      "title": "Veien til arbeid",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05081226/31e0f86b-7.smil/thumb.jpg?t=1140&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1236,
+      "title": "Solformørking i kveld",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05081226/31e0f86b-7.smil/thumb.jpg?t=1261&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1457,
+      "title": "Lager nytt etternamn",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05081226/31e0f86b-7.smil/thumb.jpg?t=1482&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1761,
+      "title": "Hele historien: Terraskandalen",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05081226/31e0f86b-7.smil/thumb.jpg?t=1787&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1793,
+      "title": "Åpning 07:00",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05081226/31e0f86b-7.smil/thumb.jpg?t=1818&scale=480x270&v=high"
+    },
+    {
+      "startTime": 1891,
+      "title": "Fulgte ikke opp egne overtidsregler",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05081226/31e0f86b-7.smil/thumb.jpg?t=1916&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2051,
+      "title": "Overtidsbetaling for deltidstilsette",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05081226/31e0f86b-7.smil/thumb.jpg?t=2076&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2308,
+      "title": "Bygg som klimavinner",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05081226/31e0f86b-7.smil/thumb.jpg?t=2334&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2522,
+      "title": "Hvorfor spiser vi som vi gjør?",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05081226/31e0f86b-7.smil/thumb.jpg?t=2547&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2915,
+      "title": "Før Politisk kvarter",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05081226/31e0f86b-7.smil/thumb.jpg?t=2940&scale=480x270&v=high"
+    },
+    {
+      "startTime": 2951,
+      "title": "Matpris-uro i USA",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05081226/31e0f86b-7.smil/thumb.jpg?t=2977&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3182,
+      "title": "Renter på depositumskonto settes opp",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05081226/31e0f86b-7.smil/thumb.jpg?t=3207&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3358,
+      "title": "Grå og våt sommer i nord",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05081226/31e0f86b-7.smil/thumb.jpg?t=3384&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3569,
+      "title": "Historier fra virkeligheten: Glimtkoden",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05081226/31e0f86b-7.smil/thumb.jpg?t=3595&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3600,
+      "title": "Overskrifter 07:30",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05081226/31e0f86b-7.smil/thumb.jpg?t=3625&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3630,
+      "title": "Bygg som klimavinner",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05081226/31e0f86b-7.smil/thumb.jpg?t=3655&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3770,
+      "title": "Fulgte ikke opp egne overtidsregler",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05081226/31e0f86b-7.smil/thumb.jpg?t=3795&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3884,
+      "title": "250 døde i Colombia",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05081226/31e0f86b-7.smil/thumb.jpg?t=3909&scale=480x270&v=high"
+    },
+    {
+      "startTime": 3905,
+      "title": "Matpris-uro i USA",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05081226/31e0f86b-7.smil/thumb.jpg?t=3931&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4054,
+      "title": "Rekordlav oppslutning om Trump",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05081226/31e0f86b-7.smil/thumb.jpg?t=4080&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4078,
+      "title": "Solformørking",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05081226/31e0f86b-7.smil/thumb.jpg?t=4103&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4201,
+      "title": "Åpning 07:40",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05081226/31e0f86b-7.smil/thumb.jpg?t=4227&scale=480x270&v=high"
+    },
+    {
+      "startTime": 4215,
+      "title": "Nei til markiser på Røros",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05081226/31e0f86b-7.smil/thumb.jpg?t=4240&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5400,
+      "title": "NRK Nyheter 08:00",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05081226/31e0f86b-7.smil/thumb.jpg?t=5426&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5579,
+      "title": "Åpning 08:03",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05081226/31e0f86b-7.smil/thumb.jpg?t=5604&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5640,
+      "title": "Klaveness til Uefa",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05081226/31e0f86b-7.smil/thumb.jpg?t=5665&scale=480x270&v=high"
+    },
+    {
+      "startTime": 5748,
+      "title": "Slik fungerer egentlig Fifa",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05081226/31e0f86b-7.smil/thumb.jpg?t=5774&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6095,
+      "title": "Bygg som klimavinner",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05081226/31e0f86b-7.smil/thumb.jpg?t=6121&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6265,
+      "title": "Korfor et vi som vi gjer? (R)",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05081226/31e0f86b-7.smil/thumb.jpg?t=6290&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6463,
+      "title": "Overskrifter 08:15",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05081226/31e0f86b-7.smil/thumb.jpg?t=6489&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6492,
+      "title": "Ny bunnrekord for USAs president",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05081226/31e0f86b-7.smil/thumb.jpg?t=6518&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6688,
+      "title": "Matpris-uro i USA",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05081226/31e0f86b-7.smil/thumb.jpg?t=6714&scale=480x270&v=high"
+    },
+    {
+      "startTime": 6919,
+      "title": "Solformørkelse i kveld",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05081226/31e0f86b-7.smil/thumb.jpg?t=6944&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7178,
+      "title": "Hør Ekko i NRK P2",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05081226/31e0f86b-7.smil/thumb.jpg?t=7204&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7227,
+      "title": "Overskrifter 08:30",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05081226/31e0f86b-7.smil/thumb.jpg?t=7253&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7265,
+      "title": "Rekordtall for Oljefondet",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05081226/31e0f86b-7.smil/thumb.jpg?t=7291&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7557,
+      "title": "Nedgang i antibiotikabruken i Norge",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05081226/31e0f86b-7.smil/thumb.jpg?t=7583&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7698,
+      "title": "Fulgte ikke opp egne overtidsregler",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05081226/31e0f86b-7.smil/thumb.jpg?t=7723&scale=480x270&v=high"
+    },
+    {
+      "startTime": 7871,
+      "title": "Over 250 omkomne i Colombia",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05081226/31e0f86b-7.smil/thumb.jpg?t=7896&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8162,
+      "title": "Overskrifter 08:45",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05081226/31e0f86b-7.smil/thumb.jpg?t=8187&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8192,
+      "title": "EM svømming i Paris",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05081226/31e0f86b-7.smil/thumb.jpg?t=8217&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8335,
+      "title": "Renter på depositumskonto settes opp",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05081226/31e0f86b-7.smil/thumb.jpg?t=8361&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8520,
+      "title": "Veien til arbeid",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05081226/31e0f86b-7.smil/thumb.jpg?t=8546&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8622,
+      "title": "Grå og våt sommer i nord",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05081226/31e0f86b-7.smil/thumb.jpg?t=8648&scale=480x270&v=high"
+    },
+    {
+      "startTime": 8838,
+      "title": "GJEST Været i dag",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05081226/31e0f86b-7.smil/thumb.jpg?t=8864&scale=480x270&v=high"
+    }
+  ]
+}
