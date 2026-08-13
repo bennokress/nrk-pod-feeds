@@ -1,0 +1,103 @@
+{
+  "version": "1.2.0",
+  "title": "Blir det like spektakulært?",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 7,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa19081226/2a841e4d-6.smil/thumb.jpg?t=33&scale=640x360&v=high"
+    },
+    {
+      "startTime": 41,
+      "title": "solformørkelse",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa19081226/2a841e4d-6.smil/thumb.jpg?t=66&scale=640x360&v=high"
+    },
+    {
+      "startTime": 68,
+      "title": "Direkte",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa19081226/2a841e4d-6.smil/thumb.jpg?t=93&scale=640x360&v=high"
+    },
+    {
+      "startTime": 109,
+      "title": "PST trussel",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa19081226/2a841e4d-6.smil/thumb.jpg?t=135&scale=640x360&v=high"
+    },
+    {
+      "startTime": 225,
+      "title": "Direkte Arendal",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa19081226/2a841e4d-6.smil/thumb.jpg?t=250&scale=640x360&v=high"
+    },
+    {
+      "startTime": 337,
+      "title": "Voldshendelse Oslo",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa19081226/2a841e4d-6.smil/thumb.jpg?t=363&scale=640x360&v=high"
+    },
+    {
+      "startTime": 360,
+      "title": "Skadde badeland",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa19081226/2a841e4d-6.smil/thumb.jpg?t=386&scale=640x360&v=high"
+    },
+    {
+      "startTime": 379,
+      "title": "Direkte fra Steinkjer",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa19081226/2a841e4d-6.smil/thumb.jpg?t=404&scale=640x360&v=high"
+    },
+    {
+      "startTime": 478,
+      "title": "Realfag",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa19081226/2a841e4d-6.smil/thumb.jpg?t=503&scale=640x360&v=high"
+    },
+    {
+      "startTime": 621,
+      "title": "Trump smuglet ut",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa19081226/2a841e4d-6.smil/thumb.jpg?t=647&scale=640x360&v=high"
+    },
+    {
+      "startTime": 751,
+      "title": "Overskuddsvarme",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa19081226/2a841e4d-6.smil/thumb.jpg?t=777&scale=640x360&v=high"
+    },
+    {
+      "startTime": 877,
+      "title": "Utenriksnyheter",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa19081226/2a841e4d-6.smil/thumb.jpg?t=903&scale=640x360&v=high"
+    },
+    {
+      "startTime": 976,
+      "title": "Matprisar USA",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa19081226/2a841e4d-6.smil/thumb.jpg?t=1002&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1087,
+      "title": "Direkte Arendal",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa19081226/2a841e4d-6.smil/thumb.jpg?t=1112&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1333,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa19081226/2a841e4d-6.smil/thumb.jpg?t=1359&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1338,
+      "title": "Friidrett",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa19081226/2a841e4d-6.smil/thumb.jpg?t=1364&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1463,
+      "title": "Fotball",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa19081226/2a841e4d-6.smil/thumb.jpg?t=1489&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1533,
+      "title": "Direkte Sør-Varanger",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa19081226/2a841e4d-6.smil/thumb.jpg?t=1558&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1610,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa19081226/2a841e4d-6.smil/thumb.jpg?t=1636&scale=640x360&v=high"
+    }
+  ]
+}
