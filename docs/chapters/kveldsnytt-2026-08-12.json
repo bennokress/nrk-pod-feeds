@@ -1,0 +1,83 @@
+{
+  "version": "1.2.0",
+  "title": "Sensasjonell medalje",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-47.akamaized.net/open/ps/nnfa/nnfa23081226/884c5116-5.smil/thumb.jpg?t=25&scale=640x360&v=high"
+    },
+    {
+      "startTime": 45,
+      "title": "Medalje til Llano",
+      "img": "https://nrk-od-world-47.akamaized.net/open/ps/nnfa/nnfa23081226/884c5116-5.smil/thumb.jpg?t=70&scale=640x360&v=high"
+    },
+    {
+      "startTime": 130,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-47.akamaized.net/open/ps/nnfa/nnfa23081226/884c5116-5.smil/thumb.jpg?t=156&scale=640x360&v=high"
+    },
+    {
+      "startTime": 198,
+      "title": "Iuels siste finale",
+      "img": "https://nrk-od-world-47.akamaized.net/open/ps/nnfa/nnfa23081226/884c5116-5.smil/thumb.jpg?t=223&scale=640x360&v=high"
+    },
+    {
+      "startTime": 262,
+      "title": "Skotheim etter dag én",
+      "img": "https://nrk-od-world-47.akamaized.net/open/ps/nnfa/nnfa23081226/884c5116-5.smil/thumb.jpg?t=288&scale=640x360&v=high"
+    },
+    {
+      "startTime": 318,
+      "title": "Vold i Oslo",
+      "img": "https://nrk-od-world-47.akamaized.net/open/ps/nnfa/nnfa23081226/884c5116-5.smil/thumb.jpg?t=344&scale=640x360&v=high"
+    },
+    {
+      "startTime": 402,
+      "title": "Brann i Oslo",
+      "img": "https://nrk-od-world-47.akamaized.net/open/ps/nnfa/nnfa23081226/884c5116-5.smil/thumb.jpg?t=428&scale=640x360&v=high"
+    },
+    {
+      "startTime": 457,
+      "title": "Solformørkelse",
+      "img": "https://nrk-od-world-47.akamaized.net/open/ps/nnfa/nnfa23081226/884c5116-5.smil/thumb.jpg?t=483&scale=640x360&v=high"
+    },
+    {
+      "startTime": 541,
+      "title": "Sammenstøt mellom soldater og bosettere på Vestbredden",
+      "img": "https://nrk-od-world-47.akamaized.net/open/ps/nnfa/nnfa23081226/884c5116-5.smil/thumb.jpg?t=566&scale=640x360&v=high"
+    },
+    {
+      "startTime": 635,
+      "title": "Leavitt gir seg",
+      "img": "https://nrk-od-world-47.akamaized.net/open/ps/nnfa/nnfa23081226/884c5116-5.smil/thumb.jpg?t=661&scale=640x360&v=high"
+    },
+    {
+      "startTime": 658,
+      "title": "Viktig med unge stemmer i politikken",
+      "img": "https://nrk-od-world-47.akamaized.net/open/ps/nnfa/nnfa23081226/884c5116-5.smil/thumb.jpg?t=684&scale=640x360&v=high"
+    },
+    {
+      "startTime": 752,
+      "title": "Øyafestivalen",
+      "img": "https://nrk-od-world-47.akamaized.net/open/ps/nnfa/nnfa23081226/884c5116-5.smil/thumb.jpg?t=777&scale=640x360&v=high"
+    },
+    {
+      "startTime": 848,
+      "title": "Supercup, finale",
+      "img": "https://nrk-od-world-47.akamaized.net/open/ps/nnfa/nnfa23081226/884c5116-5.smil/thumb.jpg?t=873&scale=640x360&v=high"
+    },
+    {
+      "startTime": 910,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-47.akamaized.net/open/ps/nnfa/nnfa23081226/884c5116-5.smil/thumb.jpg?t=936&scale=640x360&v=high"
+    },
+    {
+      "startTime": 969,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-47.akamaized.net/open/ps/nnfa/nnfa23081226/884c5116-5.smil/thumb.jpg?t=987.6&scale=640x360&v=high"
+    }
+  ]
+}
