@@ -1,0 +1,108 @@
+{
+  "version": "1.2.0",
+  "title": "Lover mer drivstoffbråk",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 10,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa19081326/63de736b-5.smil/thumb.jpg?t=35&scale=640x360&v=high"
+    },
+    {
+      "startTime": 56,
+      "title": "Krisepakker",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa19081326/63de736b-5.smil/thumb.jpg?t=82&scale=640x360&v=high"
+    },
+    {
+      "startTime": 176,
+      "title": "Direkte Arendal",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa19081326/63de736b-5.smil/thumb.jpg?t=202&scale=640x360&v=high"
+    },
+    {
+      "startTime": 308,
+      "title": "Rentebeslutning",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa19081326/63de736b-5.smil/thumb.jpg?t=334&scale=640x360&v=high"
+    },
+    {
+      "startTime": 418,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa19081326/63de736b-5.smil/thumb.jpg?t=444&scale=640x360&v=high"
+    },
+    {
+      "startTime": 443,
+      "title": "Togulykke England",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa19081326/63de736b-5.smil/thumb.jpg?t=468&scale=640x360&v=high"
+    },
+    {
+      "startTime": 460,
+      "title": "Barn badeland-lekkasje",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa19081326/63de736b-5.smil/thumb.jpg?t=486&scale=640x360&v=high"
+    },
+    {
+      "startTime": 571,
+      "title": "Senker kriminell lavalder",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa19081326/63de736b-5.smil/thumb.jpg?t=596&scale=640x360&v=high"
+    },
+    {
+      "startTime": 600,
+      "title": "Direkte Sverige",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa19081326/63de736b-5.smil/thumb.jpg?t=626&scale=640x360&v=high"
+    },
+    {
+      "startTime": 658,
+      "title": "Utenriksnyheter",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa19081326/63de736b-5.smil/thumb.jpg?t=684&scale=640x360&v=high"
+    },
+    {
+      "startTime": 783,
+      "title": "Skolestart",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa19081326/63de736b-5.smil/thumb.jpg?t=808&scale=640x360&v=high"
+    },
+    {
+      "startTime": 888,
+      "title": "Partilederdebatt",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa19081326/63de736b-5.smil/thumb.jpg?t=913&scale=640x360&v=high"
+    },
+    {
+      "startTime": 907,
+      "title": "Direkte Arendal",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa19081326/63de736b-5.smil/thumb.jpg?t=933&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1011,
+      "title": "Direkte Partilederdebatten",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa19081326/63de736b-5.smil/thumb.jpg?t=1037&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1043,
+      "title": "Andøya",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa19081326/63de736b-5.smil/thumb.jpg?t=1068&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1159,
+      "title": "Direkte Øya",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa19081326/63de736b-5.smil/thumb.jpg?t=1185&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1269,
+      "title": "Bærtur",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa19081326/63de736b-5.smil/thumb.jpg?t=1295&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1410,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa19081326/63de736b-5.smil/thumb.jpg?t=1436&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1419,
+      "title": "FRIIDRETT",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa19081326/63de736b-5.smil/thumb.jpg?t=1444&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1579,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa19081326/63de736b-5.smil/thumb.jpg?t=1604&scale=640x360&v=high"
+    }
+  ]
+}
