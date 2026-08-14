@@ -1,0 +1,63 @@
+{
+  "version": "1.2.0",
+  "title": "Spild om drivstoffavgifter",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa23081326/ab434521-6.smil/thumb.jpg?t=25&scale=640x360&v=high"
+    },
+    {
+      "startTime": 40,
+      "title": "Skotheim i medaljekamp",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa23081326/ab434521-6.smil/thumb.jpg?t=66&scale=640x360&v=high"
+    },
+    {
+      "startTime": 123,
+      "title": "Partilederdebatt",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa23081326/ab434521-6.smil/thumb.jpg?t=148&scale=640x360&v=high"
+    },
+    {
+      "startTime": 301,
+      "title": "Frihetsberøvelsen på Lindeberg i Oslo",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa23081326/ab434521-6.smil/thumb.jpg?t=326&scale=640x360&v=high"
+    },
+    {
+      "startTime": 384,
+      "title": "Farage valg",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa23081326/ab434521-6.smil/thumb.jpg?t=409&scale=640x360&v=high"
+    },
+    {
+      "startTime": 493,
+      "title": "Krigsskip Midtøsten",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa23081326/ab434521-6.smil/thumb.jpg?t=518&scale=640x360&v=high"
+    },
+    {
+      "startTime": 519,
+      "title": "Ukraina døde",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa23081326/ab434521-6.smil/thumb.jpg?t=545&scale=640x360&v=high"
+    },
+    {
+      "startTime": 568,
+      "title": "Kashafali reagerer",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa23081326/ab434521-6.smil/thumb.jpg?t=593&scale=640x360&v=high"
+    },
+    {
+      "startTime": 644,
+      "title": "Tromsø i Serieligaen",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa23081326/ab434521-6.smil/thumb.jpg?t=669&scale=640x360&v=high"
+    },
+    {
+      "startTime": 715,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa23081326/ab434521-6.smil/thumb.jpg?t=741&scale=640x360&v=high"
+    },
+    {
+      "startTime": 774,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa23081326/ab434521-6.smil/thumb.jpg?t=792.67&scale=640x360&v=high"
+    }
+  ]
+}
