@@ -1,0 +1,68 @@
+{
+  "version": "1.2.0",
+  "title": "Skrev idrettshistorie",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-95.akamaized.net/open/ps/nnfa/nnfa23081426/7bdcab9c-6.smil/thumb.jpg?t=25&scale=640x360&v=high"
+    },
+    {
+      "startTime": 36,
+      "title": "Warholm seier",
+      "img": "https://nrk-od-world-95.akamaized.net/open/ps/nnfa/nnfa23081426/7bdcab9c-6.smil/thumb.jpg?t=62&scale=640x360&v=high"
+    },
+    {
+      "startTime": 134,
+      "title": "Branner UK",
+      "img": "https://nrk-od-world-95.akamaized.net/open/ps/nnfa/nnfa23081426/7bdcab9c-6.smil/thumb.jpg?t=160&scale=640x360&v=high"
+    },
+    {
+      "startTime": 245,
+      "title": "Colombia",
+      "img": "https://nrk-od-world-95.akamaized.net/open/ps/nnfa/nnfa23081426/7bdcab9c-6.smil/thumb.jpg?t=270&scale=640x360&v=high"
+    },
+    {
+      "startTime": 268,
+      "title": "Trump om Hormuz",
+      "img": "https://nrk-od-world-95.akamaized.net/open/ps/nnfa/nnfa23081426/7bdcab9c-6.smil/thumb.jpg?t=293&scale=640x360&v=high"
+    },
+    {
+      "startTime": 322,
+      "title": "Luigi Mangione",
+      "img": "https://nrk-od-world-95.akamaized.net/open/ps/nnfa/nnfa23081426/7bdcab9c-6.smil/thumb.jpg?t=347&scale=640x360&v=high"
+    },
+    {
+      "startTime": 385,
+      "title": "Forsvar",
+      "img": "https://nrk-od-world-95.akamaized.net/open/ps/nnfa/nnfa23081426/7bdcab9c-6.smil/thumb.jpg?t=410&scale=640x360&v=high"
+    },
+    {
+      "startTime": 476,
+      "title": "Båtbrann politi",
+      "img": "https://nrk-od-world-95.akamaized.net/open/ps/nnfa/nnfa23081426/7bdcab9c-6.smil/thumb.jpg?t=502&scale=640x360&v=high"
+    },
+    {
+      "startTime": 559,
+      "title": "EM-friidrett",
+      "img": "https://nrk-od-world-95.akamaized.net/open/ps/nnfa/nnfa23081426/7bdcab9c-6.smil/thumb.jpg?t=584&scale=640x360&v=high"
+    },
+    {
+      "startTime": 626,
+      "title": "Eliteserien",
+      "img": "https://nrk-od-world-95.akamaized.net/open/ps/nnfa/nnfa23081426/7bdcab9c-6.smil/thumb.jpg?t=652&scale=640x360&v=high"
+    },
+    {
+      "startTime": 690,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-95.akamaized.net/open/ps/nnfa/nnfa23081426/7bdcab9c-6.smil/thumb.jpg?t=715&scale=640x360&v=high"
+    },
+    {
+      "startTime": 755,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-95.akamaized.net/open/ps/nnfa/nnfa23081426/7bdcab9c-6.smil/thumb.jpg?t=774.64&scale=640x360&v=high"
+    }
+  ]
+}
