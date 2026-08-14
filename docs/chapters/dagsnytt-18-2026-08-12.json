@@ -1,0 +1,43 @@
+{
+  "version": "1.2.0",
+  "title": "PST advarer",
+  "author": "NRK",
+  "podcastName": "Dagsnytt 18",
+  "chapters": [
+    {
+      "startTime": 7,
+      "title": "TOPPER",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa56081226/9e438308-5.smil/thumb.jpg?t=32&scale=640x360&v=high"
+    },
+    {
+      "startTime": 77,
+      "title": "Oljefondet kan miste alt",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa56081226/9e438308-5.smil/thumb.jpg?t=102&scale=640x360&v=high"
+    },
+    {
+      "startTime": 517,
+      "title": "Ekstrem islamisme i Norge",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa56081226/9e438308-5.smil/thumb.jpg?t=542&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2075,
+      "title": "Studenter og mobil",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa56081226/9e438308-5.smil/thumb.jpg?t=2100&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2418,
+      "title": "Geopolitikk og USA",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa56081226/9e438308-5.smil/thumb.jpg?t=2443&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2848,
+      "title": "Hvor farlig er KI?",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa56081226/9e438308-5.smil/thumb.jpg?t=2873&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3283,
+      "title": "Solformørkelse akkurat nå",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa56081226/9e438308-5.smil/thumb.jpg?t=3308&scale=640x360&v=high"
+    }
+  ]
+}
