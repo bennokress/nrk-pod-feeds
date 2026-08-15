@@ -1,0 +1,93 @@
+{
+  "version": "1.2.0",
+  "title": "Får motbør",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 9,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-69.akamaized.net/open/ps/nnfa/nnfa19081426/e7e757f9-5.smil/thumb.jpg?t=34&scale=640x360&v=high"
+    },
+    {
+      "startTime": 53,
+      "title": "Gaza helsehjelp",
+      "img": "https://nrk-od-world-69.akamaized.net/open/ps/nnfa/nnfa19081426/e7e757f9-5.smil/thumb.jpg?t=79&scale=640x360&v=high"
+    },
+    {
+      "startTime": 235,
+      "title": "Gjest",
+      "img": "https://nrk-od-world-69.akamaized.net/open/ps/nnfa/nnfa19081426/e7e757f9-5.smil/thumb.jpg?t=260&scale=640x360&v=high"
+    },
+    {
+      "startTime": 376,
+      "title": "Norgespris",
+      "img": "https://nrk-od-world-69.akamaized.net/open/ps/nnfa/nnfa19081426/e7e757f9-5.smil/thumb.jpg?t=401&scale=640x360&v=high"
+    },
+    {
+      "startTime": 469,
+      "title": "Skolestart",
+      "img": "https://nrk-od-world-69.akamaized.net/open/ps/nnfa/nnfa19081426/e7e757f9-5.smil/thumb.jpg?t=495&scale=640x360&v=high"
+    },
+    {
+      "startTime": 557,
+      "title": "Gjest: Rashidi",
+      "img": "https://nrk-od-world-69.akamaized.net/open/ps/nnfa/nnfa19081426/e7e757f9-5.smil/thumb.jpg?t=583&scale=640x360&v=high"
+    },
+    {
+      "startTime": 669,
+      "title": "Aksjon skolevei",
+      "img": "https://nrk-od-world-69.akamaized.net/open/ps/nnfa/nnfa19081426/e7e757f9-5.smil/thumb.jpg?t=694&scale=640x360&v=high"
+    },
+    {
+      "startTime": 801,
+      "title": "Utenriksnyheter",
+      "img": "https://nrk-od-world-69.akamaized.net/open/ps/nnfa/nnfa19081426/e7e757f9-5.smil/thumb.jpg?t=827&scale=640x360&v=high"
+    },
+    {
+      "startTime": 911,
+      "title": "Skogbrann Kroatia",
+      "img": "https://nrk-od-world-69.akamaized.net/open/ps/nnfa/nnfa19081426/e7e757f9-5.smil/thumb.jpg?t=936&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1021,
+      "title": "Gjest: om skogbrann",
+      "img": "https://nrk-od-world-69.akamaized.net/open/ps/nnfa/nnfa19081426/e7e757f9-5.smil/thumb.jpg?t=1046&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1132,
+      "title": "Traktorrock direkte",
+      "img": "https://nrk-od-world-69.akamaized.net/open/ps/nnfa/nnfa19081426/e7e757f9-5.smil/thumb.jpg?t=1157&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1236,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-69.akamaized.net/open/ps/nnfa/nnfa19081426/e7e757f9-5.smil/thumb.jpg?t=1262&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1246,
+      "title": "Direkte",
+      "img": "https://nrk-od-world-69.akamaized.net/open/ps/nnfa/nnfa19081426/e7e757f9-5.smil/thumb.jpg?t=1272&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1342,
+      "title": "EM, friiidrett",
+      "img": "https://nrk-od-world-69.akamaized.net/open/ps/nnfa/nnfa19081426/e7e757f9-5.smil/thumb.jpg?t=1368&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1388,
+      "title": "Iuels farvel",
+      "img": "https://nrk-od-world-69.akamaized.net/open/ps/nnfa/nnfa19081426/e7e757f9-5.smil/thumb.jpg?t=1414&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1470,
+      "title": "Værsyk i Bergen",
+      "img": "https://nrk-od-world-69.akamaized.net/open/ps/nnfa/nnfa19081426/e7e757f9-5.smil/thumb.jpg?t=1495&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1578,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-69.akamaized.net/open/ps/nnfa/nnfa19081426/e7e757f9-5.smil/thumb.jpg?t=1603&scale=640x360&v=high"
+    }
+  ]
+}
