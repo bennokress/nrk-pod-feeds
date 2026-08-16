@@ -1,0 +1,68 @@
+{
+  "version": "1.2.0",
+  "title": "Maktdemonstrasjon",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa23081526/0a7425eb-19.smil/thumb.jpg?t=26&scale=640x360&v=high"
+    },
+    {
+      "startTime": 37,
+      "title": "EM Friidrett",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa23081526/0a7425eb-19.smil/thumb.jpg?t=63&scale=640x360&v=high"
+    },
+    {
+      "startTime": 113,
+      "title": "Skogbrann Belgia",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa23081526/0a7425eb-19.smil/thumb.jpg?t=138&scale=640x360&v=high"
+    },
+    {
+      "startTime": 202,
+      "title": "Kjemper mot flammene i Frankrike",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa23081526/0a7425eb-19.smil/thumb.jpg?t=227&scale=640x360&v=high"
+    },
+    {
+      "startTime": 229,
+      "title": "Taliban",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa23081526/0a7425eb-19.smil/thumb.jpg?t=255&scale=640x360&v=high"
+    },
+    {
+      "startTime": 315,
+      "title": "Maria-statue",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa23081526/0a7425eb-19.smil/thumb.jpg?t=341&scale=640x360&v=high"
+    },
+    {
+      "startTime": 345,
+      "title": "Bonnie Tylor",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa23081526/0a7425eb-19.smil/thumb.jpg?t=370&scale=640x360&v=high"
+    },
+    {
+      "startTime": 372,
+      "title": "Oslo Jazzfestival",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa23081526/0a7425eb-19.smil/thumb.jpg?t=397&scale=640x360&v=high"
+    },
+    {
+      "startTime": 495,
+      "title": "Flere nordmenn med i EM",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa23081526/0a7425eb-19.smil/thumb.jpg?t=521&scale=640x360&v=high"
+    },
+    {
+      "startTime": 578,
+      "title": "Golf",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa23081526/0a7425eb-19.smil/thumb.jpg?t=603&scale=640x360&v=high"
+    },
+    {
+      "startTime": 604,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa23081526/0a7425eb-19.smil/thumb.jpg?t=629&scale=640x360&v=high"
+    },
+    {
+      "startTime": 665,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa23081526/0a7425eb-19.smil/thumb.jpg?t=686.88&scale=640x360&v=high"
+    }
+  ]
+}
