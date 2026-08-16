@@ -1,0 +1,73 @@
+{
+  "version": "1.2.0",
+  "title": "Dusør for amerikanske soldater",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa23081626/e175733b-6.smil/thumb.jpg?t=26&scale=640x360&v=high"
+    },
+    {
+      "startTime": 39,
+      "title": "Dusør soldater",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa23081626/e175733b-6.smil/thumb.jpg?t=65&scale=640x360&v=high"
+    },
+    {
+      "startTime": 113,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa23081626/e175733b-6.smil/thumb.jpg?t=139&scale=640x360&v=high"
+    },
+    {
+      "startTime": 248,
+      "title": "Jordskred Spania",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa23081626/e175733b-6.smil/thumb.jpg?t=274&scale=640x360&v=high"
+    },
+    {
+      "startTime": 272,
+      "title": "Utenriksnyheter",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa23081626/e175733b-6.smil/thumb.jpg?t=297&scale=640x360&v=high"
+    },
+    {
+      "startTime": 376,
+      "title": "Russland",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa23081626/e175733b-6.smil/thumb.jpg?t=401&scale=640x360&v=high"
+    },
+    {
+      "startTime": 406,
+      "title": "Forsøk brann skole",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa23081626/e175733b-6.smil/thumb.jpg?t=431&scale=640x360&v=high"
+    },
+    {
+      "startTime": 458,
+      "title": "Kunsttyveri Italia",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa23081626/e175733b-6.smil/thumb.jpg?t=483&scale=640x360&v=high"
+    },
+    {
+      "startTime": 480,
+      "title": "Skilpadder tilbake",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa23081626/e175733b-6.smil/thumb.jpg?t=506&scale=640x360&v=high"
+    },
+    {
+      "startTime": 509,
+      "title": "Siste kveld i EM i friidrett",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa23081626/e175733b-6.smil/thumb.jpg?t=534&scale=640x360&v=high"
+    },
+    {
+      "startTime": 609,
+      "title": "Eliteserien",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa23081626/e175733b-6.smil/thumb.jpg?t=635&scale=640x360&v=high"
+    },
+    {
+      "startTime": 731,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa23081626/e175733b-6.smil/thumb.jpg?t=757&scale=640x360&v=high"
+    },
+    {
+      "startTime": 793,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa23081626/e175733b-6.smil/thumb.jpg?t=814.6&scale=640x360&v=high"
+    }
+  ]
+}
