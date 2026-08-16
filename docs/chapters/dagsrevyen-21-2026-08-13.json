@@ -1,0 +1,53 @@
+{
+  "version": "1.2.0",
+  "title": "Årets varmeste i Storbritannia",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa21081326/ee0e9ce0-5.smil/thumb.jpg?t=26&scale=640x360&v=high"
+    },
+    {
+      "startTime": 33,
+      "title": "Partilederdebatt",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa21081326/ee0e9ce0-5.smil/thumb.jpg?t=58&scale=640x360&v=high"
+    },
+    {
+      "startTime": 143,
+      "title": "Rentebeslutning",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa21081326/ee0e9ce0-5.smil/thumb.jpg?t=169&scale=640x360&v=high"
+    },
+    {
+      "startTime": 177,
+      "title": "Hetebølge",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa21081326/ee0e9ce0-5.smil/thumb.jpg?t=202&scale=640x360&v=high"
+    },
+    {
+      "startTime": 268,
+      "title": "Skolestart på Stenseth etter storbrann",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa21081326/ee0e9ce0-5.smil/thumb.jpg?t=294&scale=640x360&v=high"
+    },
+    {
+      "startTime": 383,
+      "title": "Eurovision",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa21081326/ee0e9ce0-5.smil/thumb.jpg?t=409&scale=640x360&v=high"
+    },
+    {
+      "startTime": 411,
+      "title": "Tromsø i Serieligaen",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa21081326/ee0e9ce0-5.smil/thumb.jpg?t=437&scale=640x360&v=high"
+    },
+    {
+      "startTime": 473,
+      "title": "Været",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa21081326/ee0e9ce0-5.smil/thumb.jpg?t=499&scale=640x360&v=high"
+    },
+    {
+      "startTime": 530,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa21081326/ee0e9ce0-5.smil/thumb.jpg?t=551.55&scale=640x360&v=high"
+    }
+  ]
+}

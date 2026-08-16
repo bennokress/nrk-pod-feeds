@@ -1,0 +1,53 @@
+{
+  "version": "1.2.0",
+  "title": "Brannen i Belgia vokser",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 1,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa21081626/1e086579-6.smil/thumb.jpg?t=26&scale=640x360&v=high"
+    },
+    {
+      "startTime": 27,
+      "title": "Branner Belgia",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa21081626/1e086579-6.smil/thumb.jpg?t=52&scale=640x360&v=high"
+    },
+    {
+      "startTime": 120,
+      "title": "Hets politiker",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa21081626/1e086579-6.smil/thumb.jpg?t=146&scale=640x360&v=high"
+    },
+    {
+      "startTime": 267,
+      "title": "Bussulykke Ungarn",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa21081626/1e086579-6.smil/thumb.jpg?t=292&scale=640x360&v=high"
+    },
+    {
+      "startTime": 307,
+      "title": "Stein traff bil",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa21081626/1e086579-6.smil/thumb.jpg?t=332&scale=640x360&v=high"
+    },
+    {
+      "startTime": 333,
+      "title": "Utenriksnyheter",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa21081626/1e086579-6.smil/thumb.jpg?t=359&scale=640x360&v=high"
+    },
+    {
+      "startTime": 436,
+      "title": "Eliteserien",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa21081626/1e086579-6.smil/thumb.jpg?t=462&scale=640x360&v=high"
+    },
+    {
+      "startTime": 513,
+      "title": "Været",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa21081626/1e086579-6.smil/thumb.jpg?t=539&scale=640x360&v=high"
+    },
+    {
+      "startTime": 565,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa21081626/1e086579-6.smil/thumb.jpg?t=588.4&scale=640x360&v=high"
+    }
+  ]
+}
