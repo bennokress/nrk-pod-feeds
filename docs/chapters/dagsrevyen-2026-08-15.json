@@ -1,0 +1,93 @@
+{
+  "version": "1.2.0",
+  "title": "Tillater giftemål med barn",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 10,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa19081526/fc6475e0-18.smil/thumb.jpg?t=35&scale=640x360&v=high"
+    },
+    {
+      "startTime": 61,
+      "title": "Fem år Taliban",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa19081526/fc6475e0-18.smil/thumb.jpg?t=86&scale=640x360&v=high"
+    },
+    {
+      "startTime": 218,
+      "title": "Direkte Yama",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa19081526/fc6475e0-18.smil/thumb.jpg?t=244&scale=640x360&v=high"
+    },
+    {
+      "startTime": 322,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa19081526/fc6475e0-18.smil/thumb.jpg?t=348&scale=640x360&v=high"
+    },
+    {
+      "startTime": 418,
+      "title": "Indonesia",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa19081526/fc6475e0-18.smil/thumb.jpg?t=443&scale=640x360&v=high"
+    },
+    {
+      "startTime": 499,
+      "title": "Studentboliger",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa19081526/fc6475e0-18.smil/thumb.jpg?t=525&scale=640x360&v=high"
+    },
+    {
+      "startTime": 623,
+      "title": "Bonde Ukraina",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa19081526/fc6475e0-18.smil/thumb.jpg?t=649&scale=640x360&v=high"
+    },
+    {
+      "startTime": 758,
+      "title": "Sak 5",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa19081526/fc6475e0-18.smil/thumb.jpg?t=783&scale=640x360&v=high"
+    },
+    {
+      "startTime": 768,
+      "title": "Abba 50 år",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa19081526/fc6475e0-18.smil/thumb.jpg?t=794&scale=640x360&v=high"
+    },
+    {
+      "startTime": 834,
+      "title": "Gjest: Krüger",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa19081526/fc6475e0-18.smil/thumb.jpg?t=860&scale=640x360&v=high"
+    },
+    {
+      "startTime": 969,
+      "title": "Portrett  Brodtkorb",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa19081526/fc6475e0-18.smil/thumb.jpg?t=994&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1254,
+      "title": "Dagnys klær",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa19081526/fc6475e0-18.smil/thumb.jpg?t=1279&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1384,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa19081526/fc6475e0-18.smil/thumb.jpg?t=1410&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1392,
+      "title": "EM, friidrett",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa19081526/fc6475e0-18.smil/thumb.jpg?t=1417&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1552,
+      "title": "Eliteserien",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa19081526/fc6475e0-18.smil/thumb.jpg?t=1578&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1575,
+      "title": "Sandvolleyball, EM",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa19081526/fc6475e0-18.smil/thumb.jpg?t=1600&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1619,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa19081526/fc6475e0-18.smil/thumb.jpg?t=1645&scale=640x360&v=high"
+    }
+  ]
+}
