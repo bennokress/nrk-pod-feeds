@@ -1,0 +1,313 @@
+{
+  "version": "1.2.0",
+  "title": "Hvem vant debatten i Arendal?",
+  "author": "NRK",
+  "podcastName": "Nyhetsmorgen",
+  "chapters": [
+    {
+      "startTime": 2,
+      "title": "Åpning 06:30",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05081426/7896b320-5.smil/thumb.jpg?t=27&scale=640x360&v=high"
+    },
+    {
+      "startTime": 72,
+      "title": "Partileiardebatt: Noregsprisen si framtid",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05081426/7896b320-5.smil/thumb.jpg?t=97&scale=640x360&v=high"
+    },
+    {
+      "startTime": 122,
+      "title": "Mangel på behandling i Gaza",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05081426/7896b320-5.smil/thumb.jpg?t=147&scale=640x360&v=high"
+    },
+    {
+      "startTime": 256,
+      "title": "Siste nytt",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05081426/7896b320-5.smil/thumb.jpg?t=281&scale=640x360&v=high"
+    },
+    {
+      "startTime": 406,
+      "title": "Aksjon skolevei",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05081426/7896b320-5.smil/thumb.jpg?t=431&scale=640x360&v=high"
+    },
+    {
+      "startTime": 633,
+      "title": "Kan tape romfartkappløp",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05081426/7896b320-5.smil/thumb.jpg?t=658&scale=640x360&v=high"
+    },
+    {
+      "startTime": 797,
+      "title": "Skogbrann ved feriested i Kroatia",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05081426/7896b320-5.smil/thumb.jpg?t=823&scale=640x360&v=high"
+    },
+    {
+      "startTime": 965,
+      "title": "Overskrifter 06:45",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05081426/7896b320-5.smil/thumb.jpg?t=990&scale=640x360&v=high"
+    },
+    {
+      "startTime": 999,
+      "title": "KI-dom i Tyskland",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05081426/7896b320-5.smil/thumb.jpg?t=1024&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1209,
+      "title": "Bronse til Skotheim",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05081426/7896b320-5.smil/thumb.jpg?t=1235&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1288,
+      "title": "Norsk basket i vekst",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05081426/7896b320-5.smil/thumb.jpg?t=1313&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1383,
+      "title": "Elendige forhold på hangarskip",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05081426/7896b320-5.smil/thumb.jpg?t=1408&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1558,
+      "title": "Bergens mest vêrsjuke mann",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05081426/7896b320-5.smil/thumb.jpg?t=1584&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1732,
+      "title": "Teasing dagens sending",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05081426/7896b320-5.smil/thumb.jpg?t=1757&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1775,
+      "title": "Trailer",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05081426/7896b320-5.smil/thumb.jpg?t=1801&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1800,
+      "title": "Åpning 07:00",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05081426/7896b320-5.smil/thumb.jpg?t=1826&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1886,
+      "title": "Partileiardebatt: Noregsprisen si framtid",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05081426/7896b320-5.smil/thumb.jpg?t=1912&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2029,
+      "title": "Kommentar partilederdebatt",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05081426/7896b320-5.smil/thumb.jpg?t=2055&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2278,
+      "title": "Før Politisk kvarter om partilederdebatten",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05081426/7896b320-5.smil/thumb.jpg?t=2303&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2339,
+      "title": "Mangel på behandling i Gaza",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05081426/7896b320-5.smil/thumb.jpg?t=2364&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2579,
+      "title": "Leger uten grenser om helsehjelp på Gaza",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05081426/7896b320-5.smil/thumb.jpg?t=2605&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2816,
+      "title": "Overskrifter 07:15",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05081426/7896b320-5.smil/thumb.jpg?t=2842&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2863,
+      "title": "Tørke i Tyskland",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05081426/7896b320-5.smil/thumb.jpg?t=2888&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3058,
+      "title": "Siste helga før skulestart",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05081426/7896b320-5.smil/thumb.jpg?t=3084&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3341,
+      "title": "Full barnehage på bygda",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05081426/7896b320-5.smil/thumb.jpg?t=3367&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3537,
+      "title": "Teasing dagens sending",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05081426/7896b320-5.smil/thumb.jpg?t=3562&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3554,
+      "title": "Trailer",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05081426/7896b320-5.smil/thumb.jpg?t=3579&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3602,
+      "title": "Overskrifter 07:30",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05081426/7896b320-5.smil/thumb.jpg?t=3627&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3637,
+      "title": "Skogbrann ved feriested i Kroatia",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05081426/7896b320-5.smil/thumb.jpg?t=3663&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3718,
+      "title": "Siste nytt om skogbrannen",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05081426/7896b320-5.smil/thumb.jpg?t=3743&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3786,
+      "title": "Etter partilederdebatten",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05081426/7896b320-5.smil/thumb.jpg?t=3811&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3881,
+      "title": "Venter på helsehjelp på Gaza",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05081426/7896b320-5.smil/thumb.jpg?t=3906&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3988,
+      "title": "Aksjon skolevei",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05081426/7896b320-5.smil/thumb.jpg?t=4013&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4055,
+      "title": "Bergens mest vêrsjuke mann",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05081426/7896b320-5.smil/thumb.jpg?t=4081&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4200,
+      "title": "Åpning 07:40",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05081426/7896b320-5.smil/thumb.jpg?t=4225&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4210,
+      "title": "Forsking i Antarktis",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05081426/7896b320-5.smil/thumb.jpg?t=4235&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4462,
+      "title": "Topper 07:44",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05081426/7896b320-5.smil/thumb.jpg?t=4488&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4495,
+      "title": "Overgang til Politisk kvarter",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05081426/7896b320-5.smil/thumb.jpg?t=4520&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5400,
+      "title": "NRK Nyheter 08:00",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05081426/7896b320-5.smil/thumb.jpg?t=5425&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5579,
+      "title": "Åpning 08:03",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05081426/7896b320-5.smil/thumb.jpg?t=5605&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5691,
+      "title": "Mangel på behandling i Gaza",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05081426/7896b320-5.smil/thumb.jpg?t=5716&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5827,
+      "title": "Leger uten grenser om helsehjelp på Gaza",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05081426/7896b320-5.smil/thumb.jpg?t=5852&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5912,
+      "title": "Fredsrådet og Gaza",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05081426/7896b320-5.smil/thumb.jpg?t=5937&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6087,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05081426/7896b320-5.smil/thumb.jpg?t=6113&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6097,
+      "title": "Gigantisk gullfunn i Belgia",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05081426/7896b320-5.smil/thumb.jpg?t=6123&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6235,
+      "title": "Overskrifter 08:15",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05081426/7896b320-5.smil/thumb.jpg?t=6260&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6241,
+      "title": "KI-dom i Tyskland",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05081426/7896b320-5.smil/thumb.jpg?t=6266&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6412,
+      "title": "Fredagspanelet",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05081426/7896b320-5.smil/thumb.jpg?t=6437&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7157,
+      "title": "Overskrifter 08:30",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05081426/7896b320-5.smil/thumb.jpg?t=7183&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7217,
+      "title": "Skogbrann ved feriested i Kroatia",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05081426/7896b320-5.smil/thumb.jpg?t=7243&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7325,
+      "title": "Partileiardebatt: Noregsprisen si framtid",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05081426/7896b320-5.smil/thumb.jpg?t=7351&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7439,
+      "title": "Nehru Sand om partilederdebatten",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05081426/7896b320-5.smil/thumb.jpg?t=7464&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7632,
+      "title": "Nico & Vinz er tilbake",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05081426/7896b320-5.smil/thumb.jpg?t=7658&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8062,
+      "title": "Overskrifter 08:45",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05081426/7896b320-5.smil/thumb.jpg?t=8087&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8115,
+      "title": "Bronse til Skotheim",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05081426/7896b320-5.smil/thumb.jpg?t=8140&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8203,
+      "title": "Siste helga før skulestart",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05081426/7896b320-5.smil/thumb.jpg?t=8228&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8465,
+      "title": "Tørke i Tyskland",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05081426/7896b320-5.smil/thumb.jpg?t=8491&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8593,
+      "title": "Bergens mest vêrsjuke mann",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05081426/7896b320-5.smil/thumb.jpg?t=8619&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8784,
+      "title": "Høyr Abels tårn på P2 klokka",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05081426/7896b320-5.smil/thumb.jpg?t=8810&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8875,
+      "title": "GJEST Været i dag",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05081426/7896b320-5.smil/thumb.jpg?t=8900&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8995,
+      "title": "Avslutning",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa05081426/7896b320-5.smil/thumb.jpg?t=9003.4&scale=640x360&v=high"
+    }
+  ]
+}
