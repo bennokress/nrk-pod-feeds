@@ -1,0 +1,113 @@
+{
+  "version": "1.2.0",
+  "title": "Grov hets mot leder i Rød Ungdom",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 9,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-18.akamaized.net/open/ps/nnfa/nnfa19081626/d19a99e9-5.smil/thumb.jpg?t=35&scale=640x360&v=high"
+    },
+    {
+      "startTime": 65,
+      "title": "Rødt leder hetses",
+      "img": "https://nrk-od-world-18.akamaized.net/open/ps/nnfa/nnfa19081626/d19a99e9-5.smil/thumb.jpg?t=90&scale=640x360&v=high"
+    },
+    {
+      "startTime": 209,
+      "title": "Gjest Bejer Engh",
+      "img": "https://nrk-od-world-18.akamaized.net/open/ps/nnfa/nnfa19081626/d19a99e9-5.smil/thumb.jpg?t=234&scale=640x360&v=high"
+    },
+    {
+      "startTime": 336,
+      "title": "Branner i Belgia",
+      "img": "https://nrk-od-world-18.akamaized.net/open/ps/nnfa/nnfa19081626/d19a99e9-5.smil/thumb.jpg?t=361&scale=640x360&v=high"
+    },
+    {
+      "startTime": 433,
+      "title": "Bussulykke Ungarn",
+      "img": "https://nrk-od-world-18.akamaized.net/open/ps/nnfa/nnfa19081626/d19a99e9-5.smil/thumb.jpg?t=458&scale=640x360&v=high"
+    },
+    {
+      "startTime": 471,
+      "title": "Stein traff bil",
+      "img": "https://nrk-od-world-18.akamaized.net/open/ps/nnfa/nnfa19081626/d19a99e9-5.smil/thumb.jpg?t=497&scale=640x360&v=high"
+    },
+    {
+      "startTime": 497,
+      "title": "Ki bra for eldrebølgen",
+      "img": "https://nrk-od-world-18.akamaized.net/open/ps/nnfa/nnfa19081626/d19a99e9-5.smil/thumb.jpg?t=522&scale=640x360&v=high"
+    },
+    {
+      "startTime": 643,
+      "title": "Utann",
+      "img": "https://nrk-od-world-18.akamaized.net/open/ps/nnfa/nnfa19081626/d19a99e9-5.smil/thumb.jpg?t=668&scale=640x360&v=high"
+    },
+    {
+      "startTime": 652,
+      "title": "Ukrania Russland drone",
+      "img": "https://nrk-od-world-18.akamaized.net/open/ps/nnfa/nnfa19081626/d19a99e9-5.smil/thumb.jpg?t=678&scale=640x360&v=high"
+    },
+    {
+      "startTime": 742,
+      "title": "Ukraina",
+      "img": "https://nrk-od-world-18.akamaized.net/open/ps/nnfa/nnfa19081626/d19a99e9-5.smil/thumb.jpg?t=767&scale=640x360&v=high"
+    },
+    {
+      "startTime": 996,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-18.akamaized.net/open/ps/nnfa/nnfa19081626/d19a99e9-5.smil/thumb.jpg?t=1022&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1069,
+      "title": "Strømpris",
+      "img": "https://nrk-od-world-18.akamaized.net/open/ps/nnfa/nnfa19081626/d19a99e9-5.smil/thumb.jpg?t=1094&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1181,
+      "title": "Hydro og toll USA",
+      "img": "https://nrk-od-world-18.akamaized.net/open/ps/nnfa/nnfa19081626/d19a99e9-5.smil/thumb.jpg?t=1206&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1344,
+      "title": "Gudstjeneste grensen",
+      "img": "https://nrk-od-world-18.akamaized.net/open/ps/nnfa/nnfa19081626/d19a99e9-5.smil/thumb.jpg?t=1370&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1475,
+      "title": "Styggeste hund",
+      "img": "https://nrk-od-world-18.akamaized.net/open/ps/nnfa/nnfa19081626/d19a99e9-5.smil/thumb.jpg?t=1500&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1562,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-18.akamaized.net/open/ps/nnfa/nnfa19081626/d19a99e9-5.smil/thumb.jpg?t=1587&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1570,
+      "title": "EM Sandvolley",
+      "img": "https://nrk-od-world-18.akamaized.net/open/ps/nnfa/nnfa19081626/d19a99e9-5.smil/thumb.jpg?t=1596&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1639,
+      "title": "Community Shield",
+      "img": "https://nrk-od-world-18.akamaized.net/open/ps/nnfa/nnfa19081626/d19a99e9-5.smil/thumb.jpg?t=1664&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1712,
+      "title": "Eliteserien",
+      "img": "https://nrk-od-world-18.akamaized.net/open/ps/nnfa/nnfa19081626/d19a99e9-5.smil/thumb.jpg?t=1737&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1821,
+      "title": "EM, friidrett",
+      "img": "https://nrk-od-world-18.akamaized.net/open/ps/nnfa/nnfa19081626/d19a99e9-5.smil/thumb.jpg?t=1847&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1886,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-18.akamaized.net/open/ps/nnfa/nnfa19081626/d19a99e9-5.smil/thumb.jpg?t=1911&scale=640x360&v=high"
+    }
+  ]
+}
