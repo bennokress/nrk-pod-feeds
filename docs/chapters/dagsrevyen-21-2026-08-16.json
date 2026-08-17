@@ -5,49 +5,44 @@
   "podcastName": "Dagsrevyen 21",
   "chapters": [
     {
-      "startTime": 1,
+      "startTime": 48,
       "title": "Dagsrevyen 21",
-      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa21081626/1e086579-6.smil/thumb.jpg?t=26&scale=640x360&v=high"
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa21081626/3498cbbf-22.smil/thumb.jpg?t=73&scale=640x360&v=high"
     },
     {
-      "startTime": 27,
+      "startTime": 74,
       "title": "Branner Belgia",
-      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa21081626/1e086579-6.smil/thumb.jpg?t=52&scale=640x360&v=high"
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa21081626/3498cbbf-22.smil/thumb.jpg?t=99&scale=640x360&v=high"
     },
     {
-      "startTime": 120,
+      "startTime": 167,
       "title": "Hets politiker",
-      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa21081626/1e086579-6.smil/thumb.jpg?t=146&scale=640x360&v=high"
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa21081626/3498cbbf-22.smil/thumb.jpg?t=193&scale=640x360&v=high"
     },
     {
-      "startTime": 267,
+      "startTime": 314,
       "title": "Bussulykke Ungarn",
-      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa21081626/1e086579-6.smil/thumb.jpg?t=292&scale=640x360&v=high"
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa21081626/3498cbbf-22.smil/thumb.jpg?t=339&scale=640x360&v=high"
     },
     {
-      "startTime": 307,
+      "startTime": 354,
       "title": "Stein traff bil",
-      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa21081626/1e086579-6.smil/thumb.jpg?t=332&scale=640x360&v=high"
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa21081626/3498cbbf-22.smil/thumb.jpg?t=380&scale=640x360&v=high"
     },
     {
-      "startTime": 333,
+      "startTime": 380,
       "title": "Utenriksnyheter",
-      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa21081626/1e086579-6.smil/thumb.jpg?t=359&scale=640x360&v=high"
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa21081626/3498cbbf-22.smil/thumb.jpg?t=406&scale=640x360&v=high"
     },
     {
-      "startTime": 436,
+      "startTime": 483,
       "title": "Eliteserien",
-      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa21081626/1e086579-6.smil/thumb.jpg?t=462&scale=640x360&v=high"
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa21081626/3498cbbf-22.smil/thumb.jpg?t=509&scale=640x360&v=high"
     },
     {
-      "startTime": 513,
+      "startTime": 560,
       "title": "Været",
-      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa21081626/1e086579-6.smil/thumb.jpg?t=539&scale=640x360&v=high"
-    },
-    {
-      "startTime": 565,
-      "title": "AVSLUTT",
-      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa21081626/1e086579-6.smil/thumb.jpg?t=588.4&scale=640x360&v=high"
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa21081626/3498cbbf-22.smil/thumb.jpg?t=583.55&scale=640x360&v=high"
     }
   ]
 }
