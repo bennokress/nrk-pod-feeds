@@ -1,0 +1,53 @@
+{
+  "version": "1.2.0",
+  "title": "LO-topp og Rødt advarer",
+  "author": "NRK",
+  "podcastName": "Dagsnytt 18",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsnytt atten",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa56081426/e3c65ad5-5.smil/thumb.jpg?t=26&scale=640x360&v=high"
+    },
+    {
+      "startTime": 72,
+      "title": "Ikke rør norgesprisen",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa56081426/e3c65ad5-5.smil/thumb.jpg?t=98&scale=640x360&v=high"
+    },
+    {
+      "startTime": 960,
+      "title": "Søpplebøtten i Clacton",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa56081426/e3c65ad5-5.smil/thumb.jpg?t=985&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1423,
+      "title": "SMK i Trondheim",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa56081426/e3c65ad5-5.smil/thumb.jpg?t=1449&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1816,
+      "title": "Omtale kvinnekropp",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa56081426/e3c65ad5-5.smil/thumb.jpg?t=1842&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2268,
+      "title": "Verne syklistene",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa56081426/e3c65ad5-5.smil/thumb.jpg?t=2293&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2678,
+      "title": "Mislykket kommune",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa56081426/e3c65ad5-5.smil/thumb.jpg?t=2704&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3158,
+      "title": "Dårlig beredskap",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa56081426/e3c65ad5-5.smil/thumb.jpg?t=3183&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3528,
+      "title": "SLUTTKJENNING",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa56081426/e3c65ad5-5.smil/thumb.jpg?t=3542.72&scale=640x360&v=high"
+    }
+  ]
+}
