@@ -1,0 +1,58 @@
+{
+  "version": "1.2.0",
+  "title": "Kongen innlagt på sykehus",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa23081726/30587cbd-5.smil/thumb.jpg?t=25&scale=640x360&v=high"
+    },
+    {
+      "startTime": 41,
+      "title": "Kongen på sykehus",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa23081726/30587cbd-5.smil/thumb.jpg?t=67&scale=640x360&v=high"
+    },
+    {
+      "startTime": 235,
+      "title": "Trump og Iran",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa23081726/30587cbd-5.smil/thumb.jpg?t=261&scale=640x360&v=high"
+    },
+    {
+      "startTime": 287,
+      "title": "Trusler Skjervø",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa23081726/30587cbd-5.smil/thumb.jpg?t=312&scale=640x360&v=high"
+    },
+    {
+      "startTime": 320,
+      "title": "Flere ber om arbeidstrening",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa23081726/30587cbd-5.smil/thumb.jpg?t=346&scale=640x360&v=high"
+    },
+    {
+      "startTime": 429,
+      "title": "KI-teknologi tek over morellsorteringa",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa23081726/30587cbd-5.smil/thumb.jpg?t=455&scale=640x360&v=high"
+    },
+    {
+      "startTime": 543,
+      "title": "Friidrett",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa23081726/30587cbd-5.smil/thumb.jpg?t=569&scale=640x360&v=high"
+    },
+    {
+      "startTime": 631,
+      "title": "Brighton imponerte TIL-trener",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa23081726/30587cbd-5.smil/thumb.jpg?t=657&scale=640x360&v=high"
+    },
+    {
+      "startTime": 701,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa23081726/30587cbd-5.smil/thumb.jpg?t=726&scale=640x360&v=high"
+    },
+    {
+      "startTime": 763,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa23081726/30587cbd-5.smil/thumb.jpg?t=783.67&scale=640x360&v=high"
+    }
+  ]
+}
