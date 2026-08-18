@@ -1,0 +1,53 @@
+{
+  "version": "1.2.0",
+  "title": "Bør vi ha mer dialog med Russland?",
+  "author": "NRK",
+  "podcastName": "Dagsnytt 18",
+  "chapters": [
+    {
+      "startTime": 1,
+      "title": "Dagsnytt atten",
+      "img": "https://nrk-od-world-05.akamaized.net/open/ps/nnfa/nnfa56081726/81b93573-5.smil/thumb.jpg?t=26&scale=640x360&v=high"
+    },
+    {
+      "startTime": 59,
+      "title": "USA og Sør-Korea",
+      "img": "https://nrk-od-world-05.akamaized.net/open/ps/nnfa/nnfa56081726/81b93573-5.smil/thumb.jpg?t=85&scale=640x360&v=high"
+    },
+    {
+      "startTime": 547,
+      "title": "Dialog med Russland?",
+      "img": "https://nrk-od-world-05.akamaized.net/open/ps/nnfa/nnfa56081726/81b93573-5.smil/thumb.jpg?t=573&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1533,
+      "title": "Skuffet over videregående",
+      "img": "https://nrk-od-world-05.akamaized.net/open/ps/nnfa/nnfa56081726/81b93573-5.smil/thumb.jpg?t=1559&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1938,
+      "title": "Vil ha slutt på hjemmekontor",
+      "img": "https://nrk-od-world-05.akamaized.net/open/ps/nnfa/nnfa56081726/81b93573-5.smil/thumb.jpg?t=1963&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2385,
+      "title": "Rettssak dobbeltdrap",
+      "img": "https://nrk-od-world-05.akamaized.net/open/ps/nnfa/nnfa56081726/81b93573-5.smil/thumb.jpg?t=2411&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2886,
+      "title": "Advarer mot forskerkarriere",
+      "img": "https://nrk-od-world-05.akamaized.net/open/ps/nnfa/nnfa56081726/81b93573-5.smil/thumb.jpg?t=2912&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3517,
+      "title": "AVSLUTNING",
+      "img": "https://nrk-od-world-05.akamaized.net/open/ps/nnfa/nnfa56081726/81b93573-5.smil/thumb.jpg?t=3543&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3530,
+      "title": "SLUTTKJENNING",
+      "img": "https://nrk-od-world-05.akamaized.net/open/ps/nnfa/nnfa56081726/81b93573-5.smil/thumb.jpg?t=3543.84&scale=640x360&v=high"
+    }
+  ]
+}
