@@ -1,0 +1,313 @@
+{
+  "version": "1.2.0",
+  "title": "En av de mest kritiske dagene i året",
+  "author": "NRK",
+  "podcastName": "Nyhetsmorgen",
+  "chapters": [
+    {
+      "startTime": 5,
+      "title": "Åpning 06:30",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa05081726/f8a11a72-5.smil/thumb.jpg?t=31&scale=640x360&v=high"
+    },
+    {
+      "startTime": 67,
+      "title": "Mangler politiattest",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa05081726/f8a11a72-5.smil/thumb.jpg?t=92&scale=640x360&v=high"
+    },
+    {
+      "startTime": 310,
+      "title": "Hva har barna i skolesekken?",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa05081726/f8a11a72-5.smil/thumb.jpg?t=336&scale=640x360&v=high"
+    },
+    {
+      "startTime": 504,
+      "title": "Siste nytt",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa05081726/f8a11a72-5.smil/thumb.jpg?t=530&scale=640x360&v=high"
+    },
+    {
+      "startTime": 585,
+      "title": "Tyrkia benåder militante kurdere",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa05081726/f8a11a72-5.smil/thumb.jpg?t=610&scale=640x360&v=high"
+    },
+    {
+      "startTime": 789,
+      "title": "Loven om benådning av PKK-krigere",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa05081726/f8a11a72-5.smil/thumb.jpg?t=814&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1060,
+      "title": "Overskrifter 06:45",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa05081726/f8a11a72-5.smil/thumb.jpg?t=1086&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1114,
+      "title": "Alvorlig vold i Sandnes- en pågrepet",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa05081726/f8a11a72-5.smil/thumb.jpg?t=1140&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1213,
+      "title": "Idretten skaper nye sjanser",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa05081726/f8a11a72-5.smil/thumb.jpg?t=1238&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1355,
+      "title": "Honningsvikt i vest",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa05081726/f8a11a72-5.smil/thumb.jpg?t=1380&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1551,
+      "title": "Vil ha glukosemåler til alle med diabetes",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa05081726/f8a11a72-5.smil/thumb.jpg?t=1576&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1759,
+      "title": "Teasing dagens sending",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa05081726/f8a11a72-5.smil/thumb.jpg?t=1785&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1766,
+      "title": "Trailer: Glimtkoden",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa05081726/f8a11a72-5.smil/thumb.jpg?t=1792&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1791,
+      "title": "Åpning 07:00",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa05081726/f8a11a72-5.smil/thumb.jpg?t=1817&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1870,
+      "title": "Startpakke mot mobbing",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa05081726/f8a11a72-5.smil/thumb.jpg?t=1895&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2107,
+      "title": "Foreldras rolle første skuledag",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa05081726/f8a11a72-5.smil/thumb.jpg?t=2132&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2363,
+      "title": "Ideologisk høyredreining",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa05081726/f8a11a72-5.smil/thumb.jpg?t=2388&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2552,
+      "title": "KI og eldrebølgen, hør Politisk kvarter",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa05081726/f8a11a72-5.smil/thumb.jpg?t=2578&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2607,
+      "title": "Overskrifter 07:15",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa05081726/f8a11a72-5.smil/thumb.jpg?t=2632&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2649,
+      "title": "Trump vil øve mindre i Sør-Korea",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa05081726/f8a11a72-5.smil/thumb.jpg?t=2675&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2768,
+      "title": "Den perfekte matpakka",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa05081726/f8a11a72-5.smil/thumb.jpg?t=2793&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2860,
+      "title": "Den gode matpakka",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa05081726/f8a11a72-5.smil/thumb.jpg?t=2885&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3180,
+      "title": "Skuffende norsk avslutning",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa05081726/f8a11a72-5.smil/thumb.jpg?t=3205&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3289,
+      "title": "EM oppsummert",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa05081726/f8a11a72-5.smil/thumb.jpg?t=3314&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3557,
+      "title": "Teasing dagens sending",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa05081726/f8a11a72-5.smil/thumb.jpg?t=3583&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3570,
+      "title": "Trailer: Terraskandalen",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa05081726/f8a11a72-5.smil/thumb.jpg?t=3596&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3601,
+      "title": "Overskrifter 07:30",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa05081726/f8a11a72-5.smil/thumb.jpg?t=3627&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3634,
+      "title": "Mangler politiattest for skoleansatte",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa05081726/f8a11a72-5.smil/thumb.jpg?t=3660&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3748,
+      "title": "Startpakke mot mobbing",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa05081726/f8a11a72-5.smil/thumb.jpg?t=3773&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3859,
+      "title": "USA kutter i øvelse med Sør-Korea",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa05081726/f8a11a72-5.smil/thumb.jpg?t=3885&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3942,
+      "title": "Ideologisk høyredreining",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa05081726/f8a11a72-5.smil/thumb.jpg?t=3967&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4053,
+      "title": "Alvorlig vold i Sandnes",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa05081726/f8a11a72-5.smil/thumb.jpg?t=4079&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4067,
+      "title": "Flere ber om arbeidstrening",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa05081726/f8a11a72-5.smil/thumb.jpg?t=4093&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4200,
+      "title": "Åpning 07:40",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa05081726/f8a11a72-5.smil/thumb.jpg?t=4226&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4210,
+      "title": "Rapport fra frokostbordet",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa05081726/f8a11a72-5.smil/thumb.jpg?t=4235&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4433,
+      "title": "Topper 07:44",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa05081726/f8a11a72-5.smil/thumb.jpg?t=4459&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4495,
+      "title": "Overgang til Politisk kvarter",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa05081726/f8a11a72-5.smil/thumb.jpg?t=4520&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5402,
+      "title": "NRK Nyheter 08:00",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa05081726/f8a11a72-5.smil/thumb.jpg?t=5428&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5582,
+      "title": "Åpning 08:03",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa05081726/f8a11a72-5.smil/thumb.jpg?t=5608&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5646,
+      "title": "Skogbranner Europa",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa05081726/f8a11a72-5.smil/thumb.jpg?t=5672&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5866,
+      "title": "Vil anerkjenne ASK som språk",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa05081726/f8a11a72-5.smil/thumb.jpg?t=5892&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6036,
+      "title": "Botene tar over",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa05081726/f8a11a72-5.smil/thumb.jpg?t=6061&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6171,
+      "title": "Ikke-menneskelig aktivitet på nett vokser",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa05081726/f8a11a72-5.smil/thumb.jpg?t=6196&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6310,
+      "title": "Overskrifter 08:15",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa05081726/f8a11a72-5.smil/thumb.jpg?t=6335&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6351,
+      "title": "Mandagspanel",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa05081726/f8a11a72-5.smil/thumb.jpg?t=6376&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6910,
+      "title": "Spent på skolestart",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa05081726/f8a11a72-5.smil/thumb.jpg?t=6936&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7180,
+      "title": "Skolestart Harstad",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa05081726/f8a11a72-5.smil/thumb.jpg?t=7206&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7185,
+      "title": "Hør Ekko i NRK P2",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa05081726/f8a11a72-5.smil/thumb.jpg?t=7210&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7245,
+      "title": "Overskrifter 08:30",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa05081726/f8a11a72-5.smil/thumb.jpg?t=7270&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7299,
+      "title": "Trump vil øve mindre i Sør-Korea",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa05081726/f8a11a72-5.smil/thumb.jpg?t=7324&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7424,
+      "title": "Ideologisk høyredreining",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa05081726/f8a11a72-5.smil/thumb.jpg?t=7449&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7594,
+      "title": "Rettssak dobbeltdrap Ski",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa05081726/f8a11a72-5.smil/thumb.jpg?t=7619&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7916,
+      "title": "Tar KI jobben fra oss?",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa05081726/f8a11a72-5.smil/thumb.jpg?t=7941&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8055,
+      "title": "«Heroes»-stjerne død",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa05081726/f8a11a72-5.smil/thumb.jpg?t=8081&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8220,
+      "title": "Overskrifter 08:45",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa05081726/f8a11a72-5.smil/thumb.jpg?t=8245&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8271,
+      "title": "Flere ber om arbeidstrening",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa05081726/f8a11a72-5.smil/thumb.jpg?t=8297&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8441,
+      "title": "Elevane i Drammen gler seg til skulestart",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa05081726/f8a11a72-5.smil/thumb.jpg?t=8467&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8519,
+      "title": "Foreldrenes rolle i skolen",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa05081726/f8a11a72-5.smil/thumb.jpg?t=8544&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8745,
+      "title": "Honningsvikt i vest",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa05081726/f8a11a72-5.smil/thumb.jpg?t=8771&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8859,
+      "title": "Været i dag",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa05081726/f8a11a72-5.smil/thumb.jpg?t=8885&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8995,
+      "title": "Avslutning",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa05081726/f8a11a72-5.smil/thumb.jpg?t=9003.36&scale=640x360&v=high"
+    }
+  ]
+}
