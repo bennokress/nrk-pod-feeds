@@ -1,0 +1,48 @@
+{
+  "version": "1.2.0",
+  "title": "Kongen innlagt for blodsykdom",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-05.akamaized.net/open/ps/nnfa/nnfa21081726/c7443b58-5.smil/thumb.jpg?t=26&scale=640x360&v=high"
+    },
+    {
+      "startTime": 27,
+      "title": "Kongen på sykehus",
+      "img": "https://nrk-od-world-05.akamaized.net/open/ps/nnfa/nnfa21081726/c7443b58-5.smil/thumb.jpg?t=53&scale=640x360&v=high"
+    },
+    {
+      "startTime": 47,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-05.akamaized.net/open/ps/nnfa/nnfa21081726/c7443b58-5.smil/thumb.jpg?t=73&scale=640x360&v=high"
+    },
+    {
+      "startTime": 158,
+      "title": "Kongen på sykehus",
+      "img": "https://nrk-od-world-05.akamaized.net/open/ps/nnfa/nnfa21081726/c7443b58-5.smil/thumb.jpg?t=184&scale=640x360&v=high"
+    },
+    {
+      "startTime": 324,
+      "title": "rus i fengslene",
+      "img": "https://nrk-od-world-05.akamaized.net/open/ps/nnfa/nnfa21081726/c7443b58-5.smil/thumb.jpg?t=350&scale=640x360&v=high"
+    },
+    {
+      "startTime": 452,
+      "title": "Etterforskning Belgia",
+      "img": "https://nrk-od-world-05.akamaized.net/open/ps/nnfa/nnfa21081726/c7443b58-5.smil/thumb.jpg?t=478&scale=640x360&v=high"
+    },
+    {
+      "startTime": 540,
+      "title": "Været",
+      "img": "https://nrk-od-world-05.akamaized.net/open/ps/nnfa/nnfa21081726/c7443b58-5.smil/thumb.jpg?t=565&scale=640x360&v=high"
+    },
+    {
+      "startTime": 588,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-05.akamaized.net/open/ps/nnfa/nnfa21081726/c7443b58-5.smil/thumb.jpg?t=606.6&scale=640x360&v=high"
+    }
+  ]
+}
