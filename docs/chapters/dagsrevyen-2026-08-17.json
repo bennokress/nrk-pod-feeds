@@ -1,0 +1,148 @@
+{
+  "version": "1.2.0",
+  "title": "Kongen innlagt på Rikshospitalet",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 10,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa19081726/3545280d-5.smil/thumb.jpg?t=36&scale=640x360&v=high"
+    },
+    {
+      "startTime": 98,
+      "title": "USA og Korea",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa19081726/3545280d-5.smil/thumb.jpg?t=124&scale=640x360&v=high"
+    },
+    {
+      "startTime": 196,
+      "title": "Gjest: Kristi Marie Skrede",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa19081726/3545280d-5.smil/thumb.jpg?t=221&scale=640x360&v=high"
+    },
+    {
+      "startTime": 318,
+      "title": "Direkte: Washington",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa19081726/3545280d-5.smil/thumb.jpg?t=344&scale=640x360&v=high"
+    },
+    {
+      "startTime": 427,
+      "title": "Gjest: Philip Lote",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa19081726/3545280d-5.smil/thumb.jpg?t=452&scale=640x360&v=high"
+    },
+    {
+      "startTime": 567,
+      "title": "Truer Oman",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa19081726/3545280d-5.smil/thumb.jpg?t=592&scale=640x360&v=high"
+    },
+    {
+      "startTime": 588,
+      "title": "Direkte: Beirut",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa19081726/3545280d-5.smil/thumb.jpg?t=613&scale=640x360&v=high"
+    },
+    {
+      "startTime": 697,
+      "title": "Trusler mot politikere",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa19081726/3545280d-5.smil/thumb.jpg?t=723&scale=640x360&v=high"
+    },
+    {
+      "startTime": 800,
+      "title": "Drap Sandnes",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa19081726/3545280d-5.smil/thumb.jpg?t=825&scale=640x360&v=high"
+    },
+    {
+      "startTime": 907,
+      "title": "Dobbeltdrap i retten",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa19081726/3545280d-5.smil/thumb.jpg?t=932&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1019,
+      "title": "Gjest: Dennis Ravndal",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa19081726/3545280d-5.smil/thumb.jpg?t=1044&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1142,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa19081726/3545280d-5.smil/thumb.jpg?t=1167&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1198,
+      "title": "Utenriksnyheter",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa19081726/3545280d-5.smil/thumb.jpg?t=1224&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1340,
+      "title": "Skolestart",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa19081726/3545280d-5.smil/thumb.jpg?t=1365&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1573,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa19081726/3545280d-5.smil/thumb.jpg?t=1599&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1602,
+      "title": "Direkte: Nissedal",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa19081726/3545280d-5.smil/thumb.jpg?t=1627&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1702,
+      "title": "Gjest: Kristi Marie Skrede",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa19081726/3545280d-5.smil/thumb.jpg?t=1727&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2006,
+      "title": "Aurora samarbeid",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa19081726/3545280d-5.smil/thumb.jpg?t=2031&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2150,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa19081726/3545280d-5.smil/thumb.jpg?t=2175&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2154,
+      "title": "Friidretts EM",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa19081726/3545280d-5.smil/thumb.jpg?t=2180&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2315,
+      "title": "Play off Viking",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa19081726/3545280d-5.smil/thumb.jpg?t=2340&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2358,
+      "title": "LSK kvinner",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa19081726/3545280d-5.smil/thumb.jpg?t=2384&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2505,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa19081726/3545280d-5.smil/thumb.jpg?t=2531&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2654,
+      "title": "Kongen innlagt",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa19081726/3545280d-5.smil/thumb.jpg?t=2680&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2680,
+      "title": "Direkte: Riksen",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa19081726/3545280d-5.smil/thumb.jpg?t=2706&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2740,
+      "title": "Gjest: Kristi Marie Skrede",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa19081726/3545280d-5.smil/thumb.jpg?t=2766&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2865,
+      "title": "Direkte: Lege",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa19081726/3545280d-5.smil/thumb.jpg?t=2891&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3020,
+      "title": "Gjest: Kristi Marie Skrede",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa19081726/3545280d-5.smil/thumb.jpg?t=3046&scale=640x360&v=high"
+    }
+  ]
+}
