@@ -1,0 +1,263 @@
+{
+  "version": "1.2.0",
+  "title": "Matprisene bremser opp",
+  "author": "NRK",
+  "podcastName": "Nyhetsmorgen",
+  "chapters": [
+    {
+      "startTime": 1,
+      "title": "Åpning 06:30",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05081826/002b4b83-6.smil/thumb.jpg?t=26&scale=640x360&v=high"
+    },
+    {
+      "startTime": 60,
+      "title": "Kim med Trump-beskjed",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05081826/002b4b83-6.smil/thumb.jpg?t=86&scale=640x360&v=high"
+    },
+    {
+      "startTime": 345,
+      "title": "Matvareprisane bremsar",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05081826/002b4b83-6.smil/thumb.jpg?t=371&scale=640x360&v=high"
+    },
+    {
+      "startTime": 490,
+      "title": "Over 40.000 unge ønsker jobb",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05081826/002b4b83-6.smil/thumb.jpg?t=515&scale=640x360&v=high"
+    },
+    {
+      "startTime": 689,
+      "title": "Forsker på Norseman",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05081826/002b4b83-6.smil/thumb.jpg?t=714&scale=640x360&v=high"
+    },
+    {
+      "startTime": 955,
+      "title": "Fifa-topp slutter etter Infantino-kritikk",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05081826/002b4b83-6.smil/thumb.jpg?t=980&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1105,
+      "title": "Viking er kun to kamper fra mesterligaen",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05081826/002b4b83-6.smil/thumb.jpg?t=1131&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1253,
+      "title": "Bosituasjonen i Gaza",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05081826/002b4b83-6.smil/thumb.jpg?t=1279&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1576,
+      "title": "Stopper narkobrev",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05081826/002b4b83-6.smil/thumb.jpg?t=1601&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1780,
+      "title": "Trailer: Døden på Operafjellet",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05081826/002b4b83-6.smil/thumb.jpg?t=1805&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1808,
+      "title": "Åpning 07:00",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05081826/002b4b83-6.smil/thumb.jpg?t=1834&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1857,
+      "title": "Iran-USA-situasjonen",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05081826/002b4b83-6.smil/thumb.jpg?t=1883&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2114,
+      "title": "Kongen innlagt på Rikshospitalet",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05081826/002b4b83-6.smil/thumb.jpg?t=2139&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2275,
+      "title": "Ola Svenneby kritiserer Frp",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05081826/002b4b83-6.smil/thumb.jpg?t=2301&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2441,
+      "title": "Hør Politisk kvarter: Frp og nettroll",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05081826/002b4b83-6.smil/thumb.jpg?t=2467&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2505,
+      "title": "Matvareprisane bremsar",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05081826/002b4b83-6.smil/thumb.jpg?t=2530&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2621,
+      "title": "Overskrifter 07:15",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05081826/002b4b83-6.smil/thumb.jpg?t=2647&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2665,
+      "title": "Flere studenter på utveksling til Asia",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05081826/002b4b83-6.smil/thumb.jpg?t=2691&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2747,
+      "title": "Hverken krig eller fred i Persiabukta",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05081826/002b4b83-6.smil/thumb.jpg?t=2773&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3055,
+      "title": "Trafikkuhell albumslipp",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05081826/002b4b83-6.smil/thumb.jpg?t=3080&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3217,
+      "title": "Nettstudenter trekker mot Innlandet",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05081826/002b4b83-6.smil/thumb.jpg?t=3242&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3454,
+      "title": "Folks pengebruk i sommer",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05081826/002b4b83-6.smil/thumb.jpg?t=3479&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3565,
+      "title": "Trailer: Sentralbordet",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05081826/002b4b83-6.smil/thumb.jpg?t=3591&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3602,
+      "title": "Overskrifter 07:30",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05081826/002b4b83-6.smil/thumb.jpg?t=3628&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3626,
+      "title": "Spent mellom USA og Iran",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05081826/002b4b83-6.smil/thumb.jpg?t=3652&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3746,
+      "title": "Kongen innlagt på Rikshospitalet",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05081826/002b4b83-6.smil/thumb.jpg?t=3772&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3854,
+      "title": "Ola Svenneby kritiserer Frp",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05081826/002b4b83-6.smil/thumb.jpg?t=3879&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3991,
+      "title": "Matvareprisane bremsar",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05081826/002b4b83-6.smil/thumb.jpg?t=4016&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4085,
+      "title": "Over 40.000 unge ønsker jobb",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05081826/002b4b83-6.smil/thumb.jpg?t=4111&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4202,
+      "title": "Åpning 07:40",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05081826/002b4b83-6.smil/thumb.jpg?t=4227&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4217,
+      "title": "Over 180 arkitektforslag til Fosse-senter",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05081826/002b4b83-6.smil/thumb.jpg?t=4243&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5402,
+      "title": "NRK Nyheter 08:00",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05081826/002b4b83-6.smil/thumb.jpg?t=5427&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5580,
+      "title": "Åpning 08:03",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05081826/002b4b83-6.smil/thumb.jpg?t=5606&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5639,
+      "title": "Droneangrep mot Moskva",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05081826/002b4b83-6.smil/thumb.jpg?t=5665&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5917,
+      "title": "Kim med Trump-beskjed",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05081826/002b4b83-6.smil/thumb.jpg?t=5943&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6213,
+      "title": "Slik bevares skolegnisten",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05081826/002b4b83-6.smil/thumb.jpg?t=6238&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6454,
+      "title": "Overskrifter 08:15",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05081826/002b4b83-6.smil/thumb.jpg?t=6480&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6498,
+      "title": "Ebola øker i Afrika",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05081826/002b4b83-6.smil/thumb.jpg?t=6524&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6768,
+      "title": "Matvareprisane bremsar",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05081826/002b4b83-6.smil/thumb.jpg?t=6793&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6851,
+      "title": "Registrering på reise",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05081826/002b4b83-6.smil/thumb.jpg?t=6877&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7127,
+      "title": "Hør Ekko i NRK P2",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05081826/002b4b83-6.smil/thumb.jpg?t=7153&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7175,
+      "title": "Overskrifter 08:30",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05081826/002b4b83-6.smil/thumb.jpg?t=7200&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7230,
+      "title": "Situasjonen mellom Iran og USA",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05081826/002b4b83-6.smil/thumb.jpg?t=7255&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7488,
+      "title": "Over 40.000 unge ønsker jobb",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05081826/002b4b83-6.smil/thumb.jpg?t=7513&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7601,
+      "title": "Folks pengebruk i sommer",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05081826/002b4b83-6.smil/thumb.jpg?t=7626&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7731,
+      "title": "Frå ferie til kvardagsbudsjett",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05081826/002b4b83-6.smil/thumb.jpg?t=7756&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7980,
+      "title": "Viking er kun to kamper fra mesterligaen",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05081826/002b4b83-6.smil/thumb.jpg?t=8006&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8200,
+      "title": "Høyre ber Frp ta ansvar",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05081826/002b4b83-6.smil/thumb.jpg?t=8225&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8421,
+      "title": "Ny runde i Martine-rettssaken",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05081826/002b4b83-6.smil/thumb.jpg?t=8446&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8605,
+      "title": "Kunstanmeldelse: En ubehagelig åpning",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05081826/002b4b83-6.smil/thumb.jpg?t=8631&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8889,
+      "title": "GJEST Været i dag",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa05081826/002b4b83-6.smil/thumb.jpg?t=8914&scale=640x360&v=high"
+    }
+  ]
+}
