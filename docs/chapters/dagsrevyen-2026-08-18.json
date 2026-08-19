@@ -1,0 +1,123 @@
+{
+  "version": "1.2.0",
+  "title": "Tilbake på settet",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 11,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa19081826/f7a9119f-5.smil/thumb.jpg?t=37&scale=640x360&v=high"
+    },
+    {
+      "startTime": 62,
+      "title": "Krigen i Ukraina",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa19081826/f7a9119f-5.smil/thumb.jpg?t=87&scale=640x360&v=high"
+    },
+    {
+      "startTime": 180,
+      "title": "Direkte: Kyiv",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa19081826/f7a9119f-5.smil/thumb.jpg?t=206&scale=640x360&v=high"
+    },
+    {
+      "startTime": 302,
+      "title": "Direkte: Moskva",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa19081826/f7a9119f-5.smil/thumb.jpg?t=327&scale=640x360&v=high"
+    },
+    {
+      "startTime": 423,
+      "title": "Kongen innlagt",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa19081826/f7a9119f-5.smil/thumb.jpg?t=449&scale=640x360&v=high"
+    },
+    {
+      "startTime": 457,
+      "title": "Hets mot politikere",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa19081826/f7a9119f-5.smil/thumb.jpg?t=482&scale=640x360&v=high"
+    },
+    {
+      "startTime": 815,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa19081826/f7a9119f-5.smil/thumb.jpg?t=840&scale=640x360&v=high"
+    },
+    {
+      "startTime": 897,
+      "title": "Vill busstur",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa19081826/f7a9119f-5.smil/thumb.jpg?t=923&scale=640x360&v=high"
+    },
+    {
+      "startTime": 994,
+      "title": "Tenåringer tiltalt",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa19081826/f7a9119f-5.smil/thumb.jpg?t=1019&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1118,
+      "title": "Utenriksnyheter",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa19081826/f7a9119f-5.smil/thumb.jpg?t=1143&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1261,
+      "title": "Hjemmekontor",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa19081826/f7a9119f-5.smil/thumb.jpg?t=1286&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1350,
+      "title": "Nytt fra Norge",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa19081826/f7a9119f-5.smil/thumb.jpg?t=1376&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1474,
+      "title": "Fosse-senter",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa19081826/f7a9119f-5.smil/thumb.jpg?t=1500&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1591,
+      "title": "Filmhøsten",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa19081826/f7a9119f-5.smil/thumb.jpg?t=1617&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1673,
+      "title": "Gjest: Hobbelstad",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa19081826/f7a9119f-5.smil/thumb.jpg?t=1699&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1896,
+      "title": "Ny Elling-film",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa19081826/f7a9119f-5.smil/thumb.jpg?t=1922&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2045,
+      "title": "Urtoner",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa19081826/f7a9119f-5.smil/thumb.jpg?t=2071&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2148,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa19081826/f7a9119f-5.smil/thumb.jpg?t=2174&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2155,
+      "title": "Helomvending før NM",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa19081826/f7a9119f-5.smil/thumb.jpg?t=2180&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2259,
+      "title": "Før Glimt play off",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa19081826/f7a9119f-5.smil/thumb.jpg?t=2285&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2338,
+      "title": "Før Viking",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa19081826/f7a9119f-5.smil/thumb.jpg?t=2363&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2389,
+      "title": "Klaveness ut mot FIFA",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa19081826/f7a9119f-5.smil/thumb.jpg?t=2414&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2481,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa19081826/f7a9119f-5.smil/thumb.jpg?t=2506&scale=640x360&v=high"
+    }
+  ]
+}
