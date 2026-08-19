@@ -1,0 +1,58 @@
+{
+  "version": "1.2.0",
+  "title": "Bekymret for Khans helse",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa23081826/2a21ab44-8.smil/thumb.jpg?t=26&scale=640x360&v=high"
+    },
+    {
+      "startTime": 35,
+      "title": "Imran Khan",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa23081826/2a21ab44-8.smil/thumb.jpg?t=60&scale=640x360&v=high"
+    },
+    {
+      "startTime": 124,
+      "title": "Krigen i Ukraina",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa23081826/2a21ab44-8.smil/thumb.jpg?t=149&scale=640x360&v=high"
+    },
+    {
+      "startTime": 157,
+      "title": "Netthets",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa23081826/2a21ab44-8.smil/thumb.jpg?t=182&scale=640x360&v=high"
+    },
+    {
+      "startTime": 212,
+      "title": "Johanneskirkens nye vinduer",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa23081826/2a21ab44-8.smil/thumb.jpg?t=237&scale=640x360&v=high"
+    },
+    {
+      "startTime": 303,
+      "title": "Ny bok om Harry Hole",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa23081826/2a21ab44-8.smil/thumb.jpg?t=329&scale=640x360&v=high"
+    },
+    {
+      "startTime": 435,
+      "title": "Dinamo Zagreb - Viking",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa23081826/2a21ab44-8.smil/thumb.jpg?t=460&scale=640x360&v=high"
+    },
+    {
+      "startTime": 526,
+      "title": "VM i Narvik",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa23081826/2a21ab44-8.smil/thumb.jpg?t=551&scale=640x360&v=high"
+    },
+    {
+      "startTime": 654,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa23081826/2a21ab44-8.smil/thumb.jpg?t=680&scale=640x360&v=high"
+    },
+    {
+      "startTime": 720,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa23081826/2a21ab44-8.smil/thumb.jpg?t=739.67&scale=640x360&v=high"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "version": "1.2.0",
+  "title": "Nytt mesterligaspill?",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa23081926/4d461bd6-5.smil/thumb.jpg?t=25&scale=640x360&v=high"
+    },
+    {
+      "startTime": 24,
+      "title": "NEC Nijmegen - Bodø/Glimt",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa23081926/4d461bd6-5.smil/thumb.jpg?t=50&scale=640x360&v=high"
+    },
+    {
+      "startTime": 115,
+      "title": "Toll Norge USA",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa23081926/4d461bd6-5.smil/thumb.jpg?t=140&scale=640x360&v=high"
+    },
+    {
+      "startTime": 231,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa23081926/4d461bd6-5.smil/thumb.jpg?t=256&scale=640x360&v=high"
+    },
+    {
+      "startTime": 389,
+      "title": "Kinesiske busser",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa23081926/4d461bd6-5.smil/thumb.jpg?t=415&scale=640x360&v=high"
+    },
+    {
+      "startTime": 460,
+      "title": "Ceuta",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa23081926/4d461bd6-5.smil/thumb.jpg?t=485&scale=640x360&v=high"
+    },
+    {
+      "startTime": 486,
+      "title": "Helikopterulykke Kenya",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa23081926/4d461bd6-5.smil/thumb.jpg?t=511&scale=640x360&v=high"
+    },
+    {
+      "startTime": 505,
+      "title": "Tromsø møter Brighton",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa23081926/4d461bd6-5.smil/thumb.jpg?t=530&scale=640x360&v=high"
+    },
+    {
+      "startTime": 566,
+      "title": "Jorda rundt for Volleyball-turnering",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa23081926/4d461bd6-5.smil/thumb.jpg?t=591&scale=640x360&v=high"
+    },
+    {
+      "startTime": 641,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa23081926/4d461bd6-5.smil/thumb.jpg?t=666&scale=640x360&v=high"
+    },
+    {
+      "startTime": 703,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa23081926/4d461bd6-5.smil/thumb.jpg?t=727.48&scale=640x360&v=high"
+    }
+  ]
+}
