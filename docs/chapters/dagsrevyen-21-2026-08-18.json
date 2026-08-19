@@ -1,0 +1,58 @@
+{
+  "version": "1.2.0",
+  "title": "Tror ikke på lovendring",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa21081826/fbe96705-5.smil/thumb.jpg?t=26&scale=640x360&v=high"
+    },
+    {
+      "startTime": 29,
+      "title": "NETTHETS-JUS-180826-DR21",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa21081826/fbe96705-5.smil/thumb.jpg?t=55&scale=640x360&v=high"
+    },
+    {
+      "startTime": 135,
+      "title": "Tuva Moflag",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa21081826/fbe96705-5.smil/thumb.jpg?t=161&scale=640x360&v=high"
+    },
+    {
+      "startTime": 160,
+      "title": "DAGSREVYPAKKE",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa21081826/fbe96705-5.smil/thumb.jpg?t=185&scale=640x360&v=high"
+    },
+    {
+      "startTime": 277,
+      "title": "Krigen i Ukraina",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa21081826/fbe96705-5.smil/thumb.jpg?t=303&scale=640x360&v=high"
+    },
+    {
+      "startTime": 308,
+      "title": "Nettpromo",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa21081826/fbe96705-5.smil/thumb.jpg?t=333&scale=640x360&v=high"
+    },
+    {
+      "startTime": 328,
+      "title": "Honningkrise",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa21081826/fbe96705-5.smil/thumb.jpg?t=353&scale=640x360&v=high"
+    },
+    {
+      "startTime": 446,
+      "title": "Spacewalk",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa21081826/fbe96705-5.smil/thumb.jpg?t=471&scale=640x360&v=high"
+    },
+    {
+      "startTime": 482,
+      "title": "Været",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa21081826/fbe96705-5.smil/thumb.jpg?t=508&scale=640x360&v=high"
+    },
+    {
+      "startTime": 529,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa21081826/fbe96705-5.smil/thumb.jpg?t=547.55&scale=640x360&v=high"
+    }
+  ]
+}
