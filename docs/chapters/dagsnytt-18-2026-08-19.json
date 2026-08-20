@@ -1,0 +1,48 @@
+{
+  "version": "1.2.0",
+  "title": "Bane Nor beklager",
+  "author": "NRK",
+  "podcastName": "Dagsnytt 18",
+  "chapters": [
+    {
+      "startTime": 2,
+      "title": "Dagsnytt atten",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa56081926/b7c49e3e-5.smil/thumb.jpg?t=28&scale=640x360&v=high"
+    },
+    {
+      "startTime": 61,
+      "title": "Hastemøte om togforsinkelser",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa56081926/b7c49e3e-5.smil/thumb.jpg?t=86&scale=640x360&v=high"
+    },
+    {
+      "startTime": 823,
+      "title": "Bør handlingsregelen skrotes?",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa56081926/b7c49e3e-5.smil/thumb.jpg?t=849&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1438,
+      "title": "Fraflytting Finnmark",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa56081926/b7c49e3e-5.smil/thumb.jpg?t=1464&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2168,
+      "title": "Gruer seg til å undervise",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa56081926/b7c49e3e-5.smil/thumb.jpg?t=2194&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2876,
+      "title": "Blomstrende økonomispråk",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa56081926/b7c49e3e-5.smil/thumb.jpg?t=2901&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3524,
+      "title": "AVSLUTNING",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa56081926/b7c49e3e-5.smil/thumb.jpg?t=3543.76&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3526,
+      "title": "SLUTTKJENNING",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa56081926/b7c49e3e-5.smil/thumb.jpg?t=3543.76&scale=640x360&v=high"
+    }
+  ]
+}
