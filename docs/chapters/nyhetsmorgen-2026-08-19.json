@@ -1,0 +1,273 @@
+{
+  "version": "1.2.0",
+  "title": "Rekordvarm juli i Middelhavet",
+  "author": "NRK",
+  "podcastName": "Nyhetsmorgen",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Åpning 06:30",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05081926/7a4d7c14-5.smil/thumb.jpg?t=26&scale=640x360&v=high"
+    },
+    {
+      "startTime": 58,
+      "title": "Kripos ønsker aldersgrense på sosiale medium",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05081926/7a4d7c14-5.smil/thumb.jpg?t=84&scale=640x360&v=high"
+    },
+    {
+      "startTime": 122,
+      "title": "Noregspris kan koste 55 milliardar",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05081926/7a4d7c14-5.smil/thumb.jpg?t=147&scale=640x360&v=high"
+    },
+    {
+      "startTime": 315,
+      "title": "Siste nytt",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05081926/7a4d7c14-5.smil/thumb.jpg?t=341&scale=640x360&v=high"
+    },
+    {
+      "startTime": 436,
+      "title": "Tollerne tar mer narkotika",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05081926/7a4d7c14-5.smil/thumb.jpg?t=461&scale=640x360&v=high"
+    },
+    {
+      "startTime": 720,
+      "title": "Advarer om sabotasje mot sjømatnæringen",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05081926/7a4d7c14-5.smil/thumb.jpg?t=745&scale=640x360&v=high"
+    },
+    {
+      "startTime": 964,
+      "title": "Overskrifter 06:45",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05081926/7a4d7c14-5.smil/thumb.jpg?t=989&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1014,
+      "title": "Unggutt reddet Viking etter marerittstart",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05081926/7a4d7c14-5.smil/thumb.jpg?t=1039&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1138,
+      "title": "Meta-rettssak i gang",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05081926/7a4d7c14-5.smil/thumb.jpg?t=1164&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1279,
+      "title": "Mener Byrådet somler med månedskort-kutt",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05081926/7a4d7c14-5.smil/thumb.jpg?t=1304&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1341,
+      "title": "Kjemper for å få ned tollsatsene fra USA",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05081926/7a4d7c14-5.smil/thumb.jpg?t=1366&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1537,
+      "title": "Nye regler for KI-musikk",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05081926/7a4d7c14-5.smil/thumb.jpg?t=1562&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1764,
+      "title": "Trailer - BIBELEN_SESONG 4",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05081926/7a4d7c14-5.smil/thumb.jpg?t=1789&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1795,
+      "title": "Åpning 07:00",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05081926/7a4d7c14-5.smil/thumb.jpg?t=1820&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1877,
+      "title": "Kripos ønsker aldersgrense på sosiale medium",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05081926/7a4d7c14-5.smil/thumb.jpg?t=1903&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2082,
+      "title": "Barn og unge utnyttes på nett",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05081926/7a4d7c14-5.smil/thumb.jpg?t=2108&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2375,
+      "title": "Rekordvarmt i Middelhavet",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05081926/7a4d7c14-5.smil/thumb.jpg?t=2400&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2552,
+      "title": "Krisemøte om togproblemene på Østlandet",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05081926/7a4d7c14-5.smil/thumb.jpg?t=2578&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2584,
+      "title": "Økende sykkelinteresse blant kvinner",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05081926/7a4d7c14-5.smil/thumb.jpg?t=2609&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2706,
+      "title": "Overskrifter 07:15",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05081926/7a4d7c14-5.smil/thumb.jpg?t=2731&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2737,
+      "title": "Diplomati i krig",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05081926/7a4d7c14-5.smil/thumb.jpg?t=2762&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3329,
+      "title": "Prissjokk på boliger i Fyresdal",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05081926/7a4d7c14-5.smil/thumb.jpg?t=3354&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3461,
+      "title": "100-åring med sommerjobb",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05081926/7a4d7c14-5.smil/thumb.jpg?t=3487&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3603,
+      "title": "Overskrifter 07:30",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05081926/7a4d7c14-5.smil/thumb.jpg?t=3628&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3631,
+      "title": "Kripos ønsker aldersgrense på sosiale medium",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05081926/7a4d7c14-5.smil/thumb.jpg?t=3656&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3754,
+      "title": "Varmere Middelhav",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05081926/7a4d7c14-5.smil/thumb.jpg?t=3779&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3859,
+      "title": "Noregspris kan koste 55 milliardar",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05081926/7a4d7c14-5.smil/thumb.jpg?t=3885&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3968,
+      "title": "Nye regler for KI-musikk",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05081926/7a4d7c14-5.smil/thumb.jpg?t=3994&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4096,
+      "title": "Økende sykkelinteresse blant kvinner",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05081926/7a4d7c14-5.smil/thumb.jpg?t=4121&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4199,
+      "title": "Åpning 07:40",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05081926/7a4d7c14-5.smil/thumb.jpg?t=4224&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4213,
+      "title": "Får svær solpark på garden",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05081926/7a4d7c14-5.smil/thumb.jpg?t=4238&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5399,
+      "title": "NRK Nyheter 08:00",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05081926/7a4d7c14-5.smil/thumb.jpg?t=5425&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5582,
+      "title": "Åpning 08:03",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05081926/7a4d7c14-5.smil/thumb.jpg?t=5607&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5663,
+      "title": "Kripos ønsker aldersgrense på sosiale medium",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05081926/7a4d7c14-5.smil/thumb.jpg?t=5689&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5857,
+      "title": "Veien til skadelig innhold på nett",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05081926/7a4d7c14-5.smil/thumb.jpg?t=5883&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6179,
+      "title": "Vurderer å redusere militære tilstedeværelse",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05081926/7a4d7c14-5.smil/thumb.jpg?t=6204&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6414,
+      "title": "Overskrifter 08:15",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05081926/7a4d7c14-5.smil/thumb.jpg?t=6440&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6460,
+      "title": "Advarer om sabotasje mot sjømatnæringen",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05081926/7a4d7c14-5.smil/thumb.jpg?t=6485&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6575,
+      "title": "Kjemper for å få ned tollsatsene fra USA",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05081926/7a4d7c14-5.smil/thumb.jpg?t=6600&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6759,
+      "title": "Meta-rettssak i gang",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05081926/7a4d7c14-5.smil/thumb.jpg?t=6785&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6899,
+      "title": "Hverdagstips fra vikingene",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05081926/7a4d7c14-5.smil/thumb.jpg?t=6925&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7192,
+      "title": "Hør Ekko i NRK P2",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05081926/7a4d7c14-5.smil/thumb.jpg?t=7218&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7260,
+      "title": "Overskrifter 08:30",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05081926/7a4d7c14-5.smil/thumb.jpg?t=7286&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7297,
+      "title": "Rekordvarmt i Middelhavet",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05081926/7a4d7c14-5.smil/thumb.jpg?t=7322&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7472,
+      "title": "Massesøksmål mot parkeringsgebyr",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05081926/7a4d7c14-5.smil/thumb.jpg?t=7498&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7581,
+      "title": "Barn og unge utnyttes på nett",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05081926/7a4d7c14-5.smil/thumb.jpg?t=7607&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7866,
+      "title": "Krisemøte om togproblemene",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05081926/7a4d7c14-5.smil/thumb.jpg?t=7892&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8060,
+      "title": "Overskrifter 08:45",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05081926/7a4d7c14-5.smil/thumb.jpg?t=8085&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8109,
+      "title": "Nye regler for KI-musikk",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05081926/7a4d7c14-5.smil/thumb.jpg?t=8135&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8316,
+      "title": "Tollerne tar mer narkotika",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05081926/7a4d7c14-5.smil/thumb.jpg?t=8341&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8528,
+      "title": "Anmeldelse: «Nådeskudd» av Jo Nesbø",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05081926/7a4d7c14-5.smil/thumb.jpg?t=8554&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8841,
+      "title": "Økende sykkelinteresse blant kvinner",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05081926/7a4d7c14-5.smil/thumb.jpg?t=8867&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8933,
+      "title": "GJEST Været i dag",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05081926/7a4d7c14-5.smil/thumb.jpg?t=8958&scale=640x360&v=high"
+    }
+  ]
+}
