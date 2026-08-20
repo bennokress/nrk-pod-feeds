@@ -1,0 +1,68 @@
+{
+  "version": "1.2.0",
+  "title": "Norge mangler bussjåfører",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 1,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-41.akamaized.net/open/ps/nnfa/nnfa23082026/4cf6bb2e-5.smil/thumb.jpg?t=26&scale=640x360&v=high"
+    },
+    {
+      "startTime": 37,
+      "title": "Norge mangler mer enn 600 bussjåfører",
+      "img": "https://nrk-od-world-41.akamaized.net/open/ps/nnfa/nnfa23082026/4cf6bb2e-5.smil/thumb.jpg?t=62&scale=640x360&v=high"
+    },
+    {
+      "startTime": 150,
+      "title": "Flygeledermekling",
+      "img": "https://nrk-od-world-41.akamaized.net/open/ps/nnfa/nnfa23082026/4cf6bb2e-5.smil/thumb.jpg?t=175&scale=640x360&v=high"
+    },
+    {
+      "startTime": 236,
+      "title": "Fare for frisørstreik",
+      "img": "https://nrk-od-world-41.akamaized.net/open/ps/nnfa/nnfa23082026/4cf6bb2e-5.smil/thumb.jpg?t=262&scale=640x360&v=high"
+    },
+    {
+      "startTime": 353,
+      "title": "Ståle Solbakken",
+      "img": "https://nrk-od-world-41.akamaized.net/open/ps/nnfa/nnfa23082026/4cf6bb2e-5.smil/thumb.jpg?t=378&scale=640x360&v=high"
+    },
+    {
+      "startTime": 408,
+      "title": "Europakvalik Brann",
+      "img": "https://nrk-od-world-41.akamaized.net/open/ps/nnfa/nnfa23082026/4cf6bb2e-5.smil/thumb.jpg?t=433&scale=640x360&v=high"
+    },
+    {
+      "startTime": 476,
+      "title": "Heggebø utestengt",
+      "img": "https://nrk-od-world-41.akamaized.net/open/ps/nnfa/nnfa23082026/4cf6bb2e-5.smil/thumb.jpg?t=502&scale=640x360&v=high"
+    },
+    {
+      "startTime": 506,
+      "title": "Guttormsen hevet seg",
+      "img": "https://nrk-od-world-41.akamaized.net/open/ps/nnfa/nnfa23082026/4cf6bb2e-5.smil/thumb.jpg?t=531&scale=640x360&v=high"
+    },
+    {
+      "startTime": 533,
+      "title": "PGA-sluttspill",
+      "img": "https://nrk-od-world-41.akamaized.net/open/ps/nnfa/nnfa23082026/4cf6bb2e-5.smil/thumb.jpg?t=558&scale=640x360&v=high"
+    },
+    {
+      "startTime": 560,
+      "title": "Tandrevold med ny giv",
+      "img": "https://nrk-od-world-41.akamaized.net/open/ps/nnfa/nnfa23082026/4cf6bb2e-5.smil/thumb.jpg?t=586&scale=640x360&v=high"
+    },
+    {
+      "startTime": 627,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-41.akamaized.net/open/ps/nnfa/nnfa23082026/4cf6bb2e-5.smil/thumb.jpg?t=652&scale=640x360&v=high"
+    },
+    {
+      "startTime": 695,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-41.akamaized.net/open/ps/nnfa/nnfa23082026/4cf6bb2e-5.smil/thumb.jpg?t=715.6&scale=640x360&v=high"
+    }
+  ]
+}
