@@ -1,0 +1,128 @@
+{
+  "version": "1.2.0",
+  "title": "- Går på helsa løs",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 11,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa19081926/a60276dc-10.smil/thumb.jpg?t=36&scale=640x360&v=high"
+    },
+    {
+      "startTime": 61,
+      "title": "Hastemøte om tog",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa19081926/a60276dc-10.smil/thumb.jpg?t=86&scale=640x360&v=high"
+    },
+    {
+      "startTime": 221,
+      "title": "Gjest: Nygård",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa19081926/a60276dc-10.smil/thumb.jpg?t=246&scale=640x360&v=high"
+    },
+    {
+      "startTime": 356,
+      "title": "Utpressing av barn",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa19081926/a60276dc-10.smil/thumb.jpg?t=382&scale=640x360&v=high"
+    },
+    {
+      "startTime": 501,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa19081926/a60276dc-10.smil/thumb.jpg?t=526&scale=640x360&v=high"
+    },
+    {
+      "startTime": 623,
+      "title": "Zelenskyj under press",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa19081926/a60276dc-10.smil/thumb.jpg?t=649&scale=640x360&v=high"
+    },
+    {
+      "startTime": 730,
+      "title": "Direkte: Kyiv",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa19081926/a60276dc-10.smil/thumb.jpg?t=755&scale=640x360&v=high"
+    },
+    {
+      "startTime": 857,
+      "title": "Rederier bekymret",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa19081926/a60276dc-10.smil/thumb.jpg?t=883&scale=640x360&v=high"
+    },
+    {
+      "startTime": 972,
+      "title": "Drapet i Tromsø",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa19081926/a60276dc-10.smil/thumb.jpg?t=998&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1083,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa19081926/a60276dc-10.smil/thumb.jpg?t=1108&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1226,
+      "title": "Utenriksnyheter",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa19081926/a60276dc-10.smil/thumb.jpg?t=1252&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1369,
+      "title": "Bjørn herjet i Saltdal",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa19081926/a60276dc-10.smil/thumb.jpg?t=1394&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1465,
+      "title": "Nytt tilfluktsrom",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa19081926/a60276dc-10.smil/thumb.jpg?t=1490&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1561,
+      "title": "Demokratene USA",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa19081926/a60276dc-10.smil/thumb.jpg?t=1586&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1608,
+      "title": "Direkte: Washington",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa19081926/a60276dc-10.smil/thumb.jpg?t=1634&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1703,
+      "title": "Demokratene USA",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa19081926/a60276dc-10.smil/thumb.jpg?t=1729&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1770,
+      "title": "Gjest: Sigrid R. Gårdsvoll",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa19081926/a60276dc-10.smil/thumb.jpg?t=1795&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1957,
+      "title": "Hundreåring sommerjobb",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa19081926/a60276dc-10.smil/thumb.jpg?t=1983&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2077,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa19081926/a60276dc-10.smil/thumb.jpg?t=2103&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2083,
+      "title": "Før Glimt- Nec",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa19081926/a60276dc-10.smil/thumb.jpg?t=2108&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2171,
+      "title": "Viking tilbakekomst",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa19081926/a60276dc-10.smil/thumb.jpg?t=2197&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2241,
+      "title": "Chiaka signert",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa19081926/a60276dc-10.smil/thumb.jpg?t=2266&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2287,
+      "title": "Vif-supportere bråk",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa19081926/a60276dc-10.smil/thumb.jpg?t=2312&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2402,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa19081926/a60276dc-10.smil/thumb.jpg?t=2427&scale=640x360&v=high"
+    }
+  ]
+}
