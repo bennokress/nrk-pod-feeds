@@ -1,0 +1,63 @@
+{
+  "version": "1.2.0",
+  "title": "Varslingssak er avsluttet",
+  "author": "NRK",
+  "podcastName": "Dagsnytt 18",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsnytt atten",
+      "img": "https://nrk-od-world-77.akamaized.net/open/ps/nnfa/nnfa56082026/fc023b8f-5.smil/thumb.jpg?t=25&scale=640x360&v=high"
+    },
+    {
+      "startTime": 53,
+      "title": "FpU-lederen trekker seg",
+      "img": "https://nrk-od-world-77.akamaized.net/open/ps/nnfa/nnfa56082026/fc023b8f-5.smil/thumb.jpg?t=79&scale=640x360&v=high"
+    },
+    {
+      "startTime": 598,
+      "title": "Vil stoppe strømeksport",
+      "img": "https://nrk-od-world-77.akamaized.net/open/ps/nnfa/nnfa56082026/fc023b8f-5.smil/thumb.jpg?t=624&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1138,
+      "title": "Meghan og Harry til UK",
+      "img": "https://nrk-od-world-77.akamaized.net/open/ps/nnfa/nnfa56082026/fc023b8f-5.smil/thumb.jpg?t=1163&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1580,
+      "title": "Kommer senere",
+      "img": "https://nrk-od-world-77.akamaized.net/open/ps/nnfa/nnfa56082026/fc023b8f-5.smil/thumb.jpg?t=1606&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1599,
+      "title": "- For mange avgifter",
+      "img": "https://nrk-od-world-77.akamaized.net/open/ps/nnfa/nnfa56082026/fc023b8f-5.smil/thumb.jpg?t=1625&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2125,
+      "title": "Oljebransjen utsetter klimamål",
+      "img": "https://nrk-od-world-77.akamaized.net/open/ps/nnfa/nnfa56082026/fc023b8f-5.smil/thumb.jpg?t=2150&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2637,
+      "title": "Gransking av Tono",
+      "img": "https://nrk-od-world-77.akamaized.net/open/ps/nnfa/nnfa56082026/fc023b8f-5.smil/thumb.jpg?t=2663&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3056,
+      "title": "Dyre ferger i Troms",
+      "img": "https://nrk-od-world-77.akamaized.net/open/ps/nnfa/nnfa56082026/fc023b8f-5.smil/thumb.jpg?t=3082&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3523,
+      "title": "AVSLUTNING",
+      "img": "https://nrk-od-world-77.akamaized.net/open/ps/nnfa/nnfa56082026/fc023b8f-5.smil/thumb.jpg?t=3542.84&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3531,
+      "title": "SLUTTKJENNING",
+      "img": "https://nrk-od-world-77.akamaized.net/open/ps/nnfa/nnfa56082026/fc023b8f-5.smil/thumb.jpg?t=3542.84&scale=640x360&v=high"
+    }
+  ]
+}
