@@ -1,0 +1,118 @@
+{
+  "version": "1.2.0",
+  "title": "Kan bli stengt",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 9,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-15.akamaized.net/open/ps/nnfa/nnfa19082026/7d34d3a8-5.smil/thumb.jpg?t=35&scale=640x360&v=high"
+    },
+    {
+      "startTime": 63,
+      "title": "FpU-leder går av",
+      "img": "https://nrk-od-world-15.akamaized.net/open/ps/nnfa/nnfa19082026/7d34d3a8-5.smil/thumb.jpg?t=88&scale=640x360&v=high"
+    },
+    {
+      "startTime": 169,
+      "title": "Gjest: Kommentator",
+      "img": "https://nrk-od-world-15.akamaized.net/open/ps/nnfa/nnfa19082026/7d34d3a8-5.smil/thumb.jpg?t=195&scale=640x360&v=high"
+    },
+    {
+      "startTime": 275,
+      "title": "Mistet datteren",
+      "img": "https://nrk-od-world-15.akamaized.net/open/ps/nnfa/nnfa19082026/7d34d3a8-5.smil/thumb.jpg?t=301&scale=640x360&v=high"
+    },
+    {
+      "startTime": 526,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-15.akamaized.net/open/ps/nnfa/nnfa19082026/7d34d3a8-5.smil/thumb.jpg?t=552&scale=640x360&v=high"
+    },
+    {
+      "startTime": 629,
+      "title": "Mekling flygeledere",
+      "img": "https://nrk-od-world-15.akamaized.net/open/ps/nnfa/nnfa19082026/7d34d3a8-5.smil/thumb.jpg?t=655&scale=640x360&v=high"
+    },
+    {
+      "startTime": 765,
+      "title": "Direkte: Oslo",
+      "img": "https://nrk-od-world-15.akamaized.net/open/ps/nnfa/nnfa19082026/7d34d3a8-5.smil/thumb.jpg?t=791&scale=640x360&v=high"
+    },
+    {
+      "startTime": 845,
+      "title": "Utenriksnyheter",
+      "img": "https://nrk-od-world-15.akamaized.net/open/ps/nnfa/nnfa19082026/7d34d3a8-5.smil/thumb.jpg?t=871&scale=640x360&v=high"
+    },
+    {
+      "startTime": 944,
+      "title": "Harry og Meghan",
+      "img": "https://nrk-od-world-15.akamaized.net/open/ps/nnfa/nnfa19082026/7d34d3a8-5.smil/thumb.jpg?t=970&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1069,
+      "title": "Gjest: Hobbelstad",
+      "img": "https://nrk-od-world-15.akamaized.net/open/ps/nnfa/nnfa19082026/7d34d3a8-5.smil/thumb.jpg?t=1094&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1228,
+      "title": "Kripos kokain",
+      "img": "https://nrk-od-world-15.akamaized.net/open/ps/nnfa/nnfa19082026/7d34d3a8-5.smil/thumb.jpg?t=1254&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1401,
+      "title": "Datasikkerhet",
+      "img": "https://nrk-od-world-15.akamaized.net/open/ps/nnfa/nnfa19082026/7d34d3a8-5.smil/thumb.jpg?t=1427&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1516,
+      "title": "Jordskjelv i nord",
+      "img": "https://nrk-od-world-15.akamaized.net/open/ps/nnfa/nnfa19082026/7d34d3a8-5.smil/thumb.jpg?t=1542&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1629,
+      "title": "Premier League",
+      "img": "https://nrk-od-world-15.akamaized.net/open/ps/nnfa/nnfa19082026/7d34d3a8-5.smil/thumb.jpg?t=1655&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1680,
+      "title": "Gjest",
+      "img": "https://nrk-od-world-15.akamaized.net/open/ps/nnfa/nnfa19082026/7d34d3a8-5.smil/thumb.jpg?t=1706&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2027,
+      "title": "Bygger dronninghytte",
+      "img": "https://nrk-od-world-15.akamaized.net/open/ps/nnfa/nnfa19082026/7d34d3a8-5.smil/thumb.jpg?t=2052&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2131,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-15.akamaized.net/open/ps/nnfa/nnfa19082026/7d34d3a8-5.smil/thumb.jpg?t=2157&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2137,
+      "title": "Solbakken hedres",
+      "img": "https://nrk-od-world-15.akamaized.net/open/ps/nnfa/nnfa19082026/7d34d3a8-5.smil/thumb.jpg?t=2163&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2234,
+      "title": "Press på Infantino",
+      "img": "https://nrk-od-world-15.akamaized.net/open/ps/nnfa/nnfa19082026/7d34d3a8-5.smil/thumb.jpg?t=2260&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2291,
+      "title": "Arven etter Tufte",
+      "img": "https://nrk-od-world-15.akamaized.net/open/ps/nnfa/nnfa19082026/7d34d3a8-5.smil/thumb.jpg?t=2317&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2363,
+      "title": "Sykling trender",
+      "img": "https://nrk-od-world-15.akamaized.net/open/ps/nnfa/nnfa19082026/7d34d3a8-5.smil/thumb.jpg?t=2389&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2456,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-15.akamaized.net/open/ps/nnfa/nnfa19082026/7d34d3a8-5.smil/thumb.jpg?t=2482&scale=640x360&v=high"
+    }
+  ]
+}
