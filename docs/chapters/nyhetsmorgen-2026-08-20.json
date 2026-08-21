@@ -1,0 +1,308 @@
+{
+  "version": "1.2.0",
+  "title": "Frykter at folk kvier seg for å varsle",
+  "author": "NRK",
+  "podcastName": "Nyhetsmorgen",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Åpning 06:30",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa05082026/dd65939b-6.smil/thumb.jpg?t=25&scale=640x360&v=high"
+    },
+    {
+      "startTime": 57,
+      "title": "Tillitssvikt etter datainnbrudd",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa05082026/dd65939b-6.smil/thumb.jpg?t=82&scale=640x360&v=high"
+    },
+    {
+      "startTime": 175,
+      "title": "Vy-ansatte blir skjelt ut",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa05082026/dd65939b-6.smil/thumb.jpg?t=200&scale=640x360&v=high"
+    },
+    {
+      "startTime": 359,
+      "title": "Siste nytt",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa05082026/dd65939b-6.smil/thumb.jpg?t=385&scale=640x360&v=high"
+    },
+    {
+      "startTime": 490,
+      "title": "Jordskjelv i Nordland",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa05082026/dd65939b-6.smil/thumb.jpg?t=515&scale=640x360&v=high"
+    },
+    {
+      "startTime": 684,
+      "title": "Framleis billegare Ryfast-tunnelar",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa05082026/dd65939b-6.smil/thumb.jpg?t=709&scale=640x360&v=high"
+    },
+    {
+      "startTime": 876,
+      "title": "Overskrifter 06:45",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa05082026/dd65939b-6.smil/thumb.jpg?t=901&scale=640x360&v=high"
+    },
+    {
+      "startTime": 911,
+      "title": "Byggebransjen kan takke seg selv",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa05082026/dd65939b-6.smil/thumb.jpg?t=937&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1126,
+      "title": "Bodø Glimt med stort steg mot Mesterligaen",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa05082026/dd65939b-6.smil/thumb.jpg?t=1152&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1224,
+      "title": "Meghan og Harry flytter hjem igjen",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa05082026/dd65939b-6.smil/thumb.jpg?t=1250&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1450,
+      "title": "Endeleg slår bøndene graset",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa05082026/dd65939b-6.smil/thumb.jpg?t=1475&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1605,
+      "title": "Mer rotter og mus",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa05082026/dd65939b-6.smil/thumb.jpg?t=1631&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1763,
+      "title": "HELE HISTORIEN: DØDEN PÅ OPERAFJELLET",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa05082026/dd65939b-6.smil/thumb.jpg?t=1788&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1794,
+      "title": "Åpning 07:00",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa05082026/dd65939b-6.smil/thumb.jpg?t=1820&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1861,
+      "title": "FpU-lederen trekker seg",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa05082026/dd65939b-6.smil/thumb.jpg?t=1886&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2101,
+      "title": "Tillitssvikt etter datainnbrudd",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa05082026/dd65939b-6.smil/thumb.jpg?t=2126&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2268,
+      "title": "Tung om tillitssvikt etter datainnbrudd",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa05082026/dd65939b-6.smil/thumb.jpg?t=2293&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2549,
+      "title": "Før Politisk kvarter",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa05082026/dd65939b-6.smil/thumb.jpg?t=2575&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2588,
+      "title": "Vy-ansatte blir skjelt ut",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa05082026/dd65939b-6.smil/thumb.jpg?t=2613&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2786,
+      "title": "Overskrifter 07:15",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa05082026/dd65939b-6.smil/thumb.jpg?t=2812&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2833,
+      "title": "Mindreårige i Ceuta",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa05082026/dd65939b-6.smil/thumb.jpg?t=2858&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3060,
+      "title": "FpU rettelse",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa05082026/dd65939b-6.smil/thumb.jpg?t=3086&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3078,
+      "title": "Bok om brannen i Hamar",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa05082026/dd65939b-6.smil/thumb.jpg?t=3104&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3299,
+      "title": "Ukrainske barn på ferie",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa05082026/dd65939b-6.smil/thumb.jpg?t=3324&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3324,
+      "title": "Trollnettverk sprer falske videoer",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa05082026/dd65939b-6.smil/thumb.jpg?t=3349&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3347,
+      "title": "Ukrainske barn på ferie",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa05082026/dd65939b-6.smil/thumb.jpg?t=3372&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3486,
+      "title": "togtrøbbel",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa05082026/dd65939b-6.smil/thumb.jpg?t=3512&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3557,
+      "title": "Trailer: Norges tøffeste",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa05082026/dd65939b-6.smil/thumb.jpg?t=3582&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3600,
+      "title": "Overskrifter 07:30",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa05082026/dd65939b-6.smil/thumb.jpg?t=3625&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3633,
+      "title": "Tillitssvikt etter datainnbrudd",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa05082026/dd65939b-6.smil/thumb.jpg?t=3658&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3757,
+      "title": "FpU-lederen trekker seg",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa05082026/dd65939b-6.smil/thumb.jpg?t=3782&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3860,
+      "title": "Vy-ansatte blir skjelt ut",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa05082026/dd65939b-6.smil/thumb.jpg?t=3885&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3991,
+      "title": "Jordskjelv i Nordland",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa05082026/dd65939b-6.smil/thumb.jpg?t=4017&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4080,
+      "title": "Byggebransjen kan takke seg selv",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa05082026/dd65939b-6.smil/thumb.jpg?t=4105&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4199,
+      "title": "Åpning 07:40",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa05082026/dd65939b-6.smil/thumb.jpg?t=4225&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4214,
+      "title": "Norges ambassadør til Kina",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa05082026/dd65939b-6.smil/thumb.jpg?t=4240&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5401,
+      "title": "NRK Nyheter 08:00",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa05082026/dd65939b-6.smil/thumb.jpg?t=5426&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5579,
+      "title": "Åpning 08:03",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa05082026/dd65939b-6.smil/thumb.jpg?t=5605&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5655,
+      "title": "Iran med nye trusler",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa05082026/dd65939b-6.smil/thumb.jpg?t=5680&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5907,
+      "title": "USAs statsgjeld på rekordnivå",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa05082026/dd65939b-6.smil/thumb.jpg?t=5933&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6075,
+      "title": "Vy-ansatte blir skjelt ut",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa05082026/dd65939b-6.smil/thumb.jpg?t=6100&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6260,
+      "title": "Overskrifter 08:15",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa05082026/dd65939b-6.smil/thumb.jpg?t=6286&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6309,
+      "title": "Jordskjelv i Nordland",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa05082026/dd65939b-6.smil/thumb.jpg?t=6334&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6397,
+      "title": "Byggebransjen kan takke seg selv",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa05082026/dd65939b-6.smil/thumb.jpg?t=6423&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6597,
+      "title": "Bodø Glimt med stort steg mot Mesterligaen",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa05082026/dd65939b-6.smil/thumb.jpg?t=6623&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6685,
+      "title": "Lufthavnspresten på Gardermoen",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa05082026/dd65939b-6.smil/thumb.jpg?t=6711&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6964,
+      "title": "Endeleg slår bøndene graset",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa05082026/dd65939b-6.smil/thumb.jpg?t=6990&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7117,
+      "title": "Ukrainske barn på ferie",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa05082026/dd65939b-6.smil/thumb.jpg?t=7142&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7256,
+      "title": "Hør Ekko i NRK P2",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa05082026/dd65939b-6.smil/thumb.jpg?t=7282&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7308,
+      "title": "Overskrifter 08:30",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa05082026/dd65939b-6.smil/thumb.jpg?t=7333&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7354,
+      "title": "Flere drepte i rakettangrep mot Kyiv",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa05082026/dd65939b-6.smil/thumb.jpg?t=7380&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7546,
+      "title": "Tillitssvikt etter datainnbrudd",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa05082026/dd65939b-6.smil/thumb.jpg?t=7571&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7721,
+      "title": "Tung om tillitssvikt etter datainnbrudd (R)",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa05082026/dd65939b-6.smil/thumb.jpg?t=7746&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7956,
+      "title": "FpU-lederen trekker seg",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa05082026/dd65939b-6.smil/thumb.jpg?t=7981&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8176,
+      "title": "Overskrifter 08:45",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa05082026/dd65939b-6.smil/thumb.jpg?t=8201&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8213,
+      "title": "Framleis billegare Ryfast-tunnelar",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa05082026/dd65939b-6.smil/thumb.jpg?t=8239&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8373,
+      "title": "Anmeldelse: «Insidious: Out the Further»",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa05082026/dd65939b-6.smil/thumb.jpg?t=8399&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8575,
+      "title": "Harry og Megan flytter tilbake",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa05082026/dd65939b-6.smil/thumb.jpg?t=8601&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8608,
+      "title": "Bok om brannen i Hamar",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa05082026/dd65939b-6.smil/thumb.jpg?t=8634&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8823,
+      "title": "Været i dag",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa05082026/dd65939b-6.smil/thumb.jpg?t=8848&scale=640x360&v=high"
+    }
+  ]
+}
