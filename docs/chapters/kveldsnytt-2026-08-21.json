@@ -1,0 +1,68 @@
+{
+  "version": "1.2.0",
+  "title": "En drept på svensk skole",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa23082126/2e5601f9-7.smil/thumb.jpg?t=25&scale=640x360&v=high"
+    },
+    {
+      "startTime": 33,
+      "title": "En død i sverdangrep på skole i Sverige",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa23082126/2e5601f9-7.smil/thumb.jpg?t=59&scale=640x360&v=high"
+    },
+    {
+      "startTime": 138,
+      "title": "Hvor lenge vil flystreiken vare?",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa23082126/2e5601f9-7.smil/thumb.jpg?t=164&scale=640x360&v=high"
+    },
+    {
+      "startTime": 246,
+      "title": "Ceuta",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa23082126/2e5601f9-7.smil/thumb.jpg?t=271&scale=640x360&v=high"
+    },
+    {
+      "startTime": 270,
+      "title": "Ukraina",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa23082126/2e5601f9-7.smil/thumb.jpg?t=296&scale=640x360&v=high"
+    },
+    {
+      "startTime": 313,
+      "title": "Trumps ballsal",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa23082126/2e5601f9-7.smil/thumb.jpg?t=339&scale=640x360&v=high"
+    },
+    {
+      "startTime": 339,
+      "title": "Mange er utrygge ved sjøen",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa23082126/2e5601f9-7.smil/thumb.jpg?t=365&scale=640x360&v=high"
+    },
+    {
+      "startTime": 446,
+      "title": "Arsenal sesongåpnet",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa23082126/2e5601f9-7.smil/thumb.jpg?t=471&scale=640x360&v=high"
+    },
+    {
+      "startTime": 524,
+      "title": "Hovland storspilte",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa23082126/2e5601f9-7.smil/thumb.jpg?t=549&scale=640x360&v=high"
+    },
+    {
+      "startTime": 556,
+      "title": "Knuste Klæbo",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa23082126/2e5601f9-7.smil/thumb.jpg?t=582&scale=640x360&v=high"
+    },
+    {
+      "startTime": 653,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa23082126/2e5601f9-7.smil/thumb.jpg?t=679&scale=640x360&v=high"
+    },
+    {
+      "startTime": 719,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa23082126/2e5601f9-7.smil/thumb.jpg?t=743.6&scale=640x360&v=high"
+    }
+  ]
+}
