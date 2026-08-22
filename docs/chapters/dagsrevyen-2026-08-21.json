@@ -1,0 +1,113 @@
+{
+  "version": "1.2.0",
+  "title": "Skadd på skolen",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 6,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa19082126/184a3744-5.smil/thumb.jpg?t=31&scale=640x360&v=high"
+    },
+    {
+      "startTime": 52,
+      "title": "Flygelederstreik",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa19082126/184a3744-5.smil/thumb.jpg?t=78&scale=640x360&v=high"
+    },
+    {
+      "startTime": 184,
+      "title": "Flygeleder",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa19082126/184a3744-5.smil/thumb.jpg?t=209&scale=640x360&v=high"
+    },
+    {
+      "startTime": 315,
+      "title": "Direkte fra Flesland",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa19082126/184a3744-5.smil/thumb.jpg?t=341&scale=640x360&v=high"
+    },
+    {
+      "startTime": 442,
+      "title": "Sverdangrep",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa19082126/184a3744-5.smil/thumb.jpg?t=468&scale=640x360&v=high"
+    },
+    {
+      "startTime": 498,
+      "title": "Direkte: Fagersta",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa19082126/184a3744-5.smil/thumb.jpg?t=524&scale=640x360&v=high"
+    },
+    {
+      "startTime": 613,
+      "title": "Snøkrabbekvoter",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa19082126/184a3744-5.smil/thumb.jpg?t=638&scale=640x360&v=high"
+    },
+    {
+      "startTime": 743,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa19082126/184a3744-5.smil/thumb.jpg?t=769&scale=640x360&v=high"
+    },
+    {
+      "startTime": 836,
+      "title": "Metabriller bekymrer",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa19082126/184a3744-5.smil/thumb.jpg?t=861&scale=640x360&v=high"
+    },
+    {
+      "startTime": 974,
+      "title": "Ebola i Kongo",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa19082126/184a3744-5.smil/thumb.jpg?t=999&scale=640x360&v=high"
+    },
+    {
+      "startTime": 999,
+      "title": "EU reaksjon Israel",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa19082126/184a3744-5.smil/thumb.jpg?t=1024&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1117,
+      "title": "Direkte: Brussel",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa19082126/184a3744-5.smil/thumb.jpg?t=1143&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1235,
+      "title": "Utenriksnyheter",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa19082126/184a3744-5.smil/thumb.jpg?t=1261&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1320,
+      "title": "Fritt Ord til Karpe",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa19082126/184a3744-5.smil/thumb.jpg?t=1346&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1350,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa19082126/184a3744-5.smil/thumb.jpg?t=1376&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1356,
+      "title": "Premier League start",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa19082126/184a3744-5.smil/thumb.jpg?t=1382&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1381,
+      "title": "Synk Arteta",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa19082126/184a3744-5.smil/thumb.jpg?t=1406&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1403,
+      "title": "Gjest",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa19082126/184a3744-5.smil/thumb.jpg?t=1428&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1487,
+      "title": "Paredes utestengt",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa19082126/184a3744-5.smil/thumb.jpg?t=1512&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1502,
+      "title": "Henrik Kristoffersen",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa19082126/184a3744-5.smil/thumb.jpg?t=1528&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1566,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa19082126/184a3744-5.smil/thumb.jpg?t=1592&scale=640x360&v=high"
+    }
+  ]
+}
