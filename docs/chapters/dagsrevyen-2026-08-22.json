@@ -1,0 +1,118 @@
+{
+  "version": "1.2.0",
+  "title": "Flere skadet i bryllup",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 8,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-63.akamaized.net/open/ps/nnfa/nnfa19082226/bb0c4396-5.smil/thumb.jpg?t=33&scale=640x360&v=high"
+    },
+    {
+      "startTime": 75,
+      "title": "Låvebryllup ulykke",
+      "img": "https://nrk-od-world-63.akamaized.net/open/ps/nnfa/nnfa19082226/bb0c4396-5.smil/thumb.jpg?t=101&scale=640x360&v=high"
+    },
+    {
+      "startTime": 161,
+      "title": "Direkte: Grue",
+      "img": "https://nrk-od-world-63.akamaized.net/open/ps/nnfa/nnfa19082226/bb0c4396-5.smil/thumb.jpg?t=186&scale=640x360&v=high"
+    },
+    {
+      "startTime": 270,
+      "title": "Flygelederstreik",
+      "img": "https://nrk-od-world-63.akamaized.net/open/ps/nnfa/nnfa19082226/bb0c4396-5.smil/thumb.jpg?t=296&scale=640x360&v=high"
+    },
+    {
+      "startTime": 394,
+      "title": "Direkte: Flesland",
+      "img": "https://nrk-od-world-63.akamaized.net/open/ps/nnfa/nnfa19082226/bb0c4396-5.smil/thumb.jpg?t=420&scale=640x360&v=high"
+    },
+    {
+      "startTime": 512,
+      "title": "Direkte: Gardermoen",
+      "img": "https://nrk-od-world-63.akamaized.net/open/ps/nnfa/nnfa19082226/bb0c4396-5.smil/thumb.jpg?t=538&scale=640x360&v=high"
+    },
+    {
+      "startTime": 610,
+      "title": "Sverige",
+      "img": "https://nrk-od-world-63.akamaized.net/open/ps/nnfa/nnfa19082226/bb0c4396-5.smil/thumb.jpg?t=635&scale=640x360&v=high"
+    },
+    {
+      "startTime": 718,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-63.akamaized.net/open/ps/nnfa/nnfa19082226/bb0c4396-5.smil/thumb.jpg?t=743&scale=640x360&v=high"
+    },
+    {
+      "startTime": 765,
+      "title": "Utenriks",
+      "img": "https://nrk-od-world-63.akamaized.net/open/ps/nnfa/nnfa19082226/bb0c4396-5.smil/thumb.jpg?t=791&scale=640x360&v=high"
+    },
+    {
+      "startTime": 867,
+      "title": "Direkte: Washington D.C.",
+      "img": "https://nrk-od-world-63.akamaized.net/open/ps/nnfa/nnfa19082226/bb0c4396-5.smil/thumb.jpg?t=892&scale=640x360&v=high"
+    },
+    {
+      "startTime": 964,
+      "title": "Ungarn helsevesen",
+      "img": "https://nrk-od-world-63.akamaized.net/open/ps/nnfa/nnfa19082226/bb0c4396-5.smil/thumb.jpg?t=990&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1102,
+      "title": "Amanda",
+      "img": "https://nrk-od-world-63.akamaized.net/open/ps/nnfa/nnfa19082226/bb0c4396-5.smil/thumb.jpg?t=1128&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1118,
+      "title": "Direkte: Haugesund",
+      "img": "https://nrk-od-world-63.akamaized.net/open/ps/nnfa/nnfa19082226/bb0c4396-5.smil/thumb.jpg?t=1144&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1262,
+      "title": "Skolestart uten ipad",
+      "img": "https://nrk-od-world-63.akamaized.net/open/ps/nnfa/nnfa19082226/bb0c4396-5.smil/thumb.jpg?t=1287&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1511,
+      "title": "Lørdagsgjest: Renate Reinsve",
+      "img": "https://nrk-od-world-63.akamaized.net/open/ps/nnfa/nnfa19082226/bb0c4396-5.smil/thumb.jpg?t=1537&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1880,
+      "title": "Organisert aktivitet for barn",
+      "img": "https://nrk-od-world-63.akamaized.net/open/ps/nnfa/nnfa19082226/bb0c4396-5.smil/thumb.jpg?t=1906&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2137,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-63.akamaized.net/open/ps/nnfa/nnfa19082226/bb0c4396-5.smil/thumb.jpg?t=2163&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2143,
+      "title": "Premier League",
+      "img": "https://nrk-od-world-63.akamaized.net/open/ps/nnfa/nnfa19082226/bb0c4396-5.smil/thumb.jpg?t=2168&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2284,
+      "title": "Cup NM",
+      "img": "https://nrk-od-world-63.akamaized.net/open/ps/nnfa/nnfa19082226/bb0c4396-5.smil/thumb.jpg?t=2310&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2334,
+      "title": "Toppidrettsveka",
+      "img": "https://nrk-od-world-63.akamaized.net/open/ps/nnfa/nnfa19082226/bb0c4396-5.smil/thumb.jpg?t=2359&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2412,
+      "title": "Henriette Jæger",
+      "img": "https://nrk-od-world-63.akamaized.net/open/ps/nnfa/nnfa19082226/bb0c4396-5.smil/thumb.jpg?t=2437&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2482,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-63.akamaized.net/open/ps/nnfa/nnfa19082226/bb0c4396-5.smil/thumb.jpg?t=2507&scale=640x360&v=high"
+    }
+  ]
+}
