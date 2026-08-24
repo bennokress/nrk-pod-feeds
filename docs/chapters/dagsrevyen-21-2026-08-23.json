@@ -1,0 +1,58 @@
+{
+  "version": "1.2.0",
+  "title": "Kongens helsetilstand har forverret seg",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 1,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa21082326/1856cb4c-5.smil/thumb.jpg?t=27&scale=640x360&v=high"
+    },
+    {
+      "startTime": 24,
+      "title": "Kongens helsetiltand",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa21082326/1856cb4c-5.smil/thumb.jpg?t=49&scale=640x360&v=high"
+    },
+    {
+      "startTime": 56,
+      "title": "Gjest:",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa21082326/1856cb4c-5.smil/thumb.jpg?t=81&scale=640x360&v=high"
+    },
+    {
+      "startTime": 308,
+      "title": "Direkte Rikshospitalet",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa21082326/1856cb4c-5.smil/thumb.jpg?t=334&scale=640x360&v=high"
+    },
+    {
+      "startTime": 433,
+      "title": "Gjest:",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa21082326/1856cb4c-5.smil/thumb.jpg?t=458&scale=640x360&v=high"
+    },
+    {
+      "startTime": 665,
+      "title": "Direkte Rikshospitalet",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa21082326/1856cb4c-5.smil/thumb.jpg?t=690&scale=640x360&v=high"
+    },
+    {
+      "startTime": 778,
+      "title": "Gjest:",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa21082326/1856cb4c-5.smil/thumb.jpg?t=803&scale=640x360&v=high"
+    },
+    {
+      "startTime": 840,
+      "title": "Peter Frølich",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa21082326/1856cb4c-5.smil/thumb.jpg?t=866&scale=640x360&v=high"
+    },
+    {
+      "startTime": 861,
+      "title": "Været",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa21082326/1856cb4c-5.smil/thumb.jpg?t=886&scale=640x360&v=high"
+    },
+    {
+      "startTime": 919,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa21082326/1856cb4c-5.smil/thumb.jpg?t=943.72&scale=640x360&v=high"
+    }
+  ]
+}
