@@ -1,0 +1,58 @@
+{
+  "version": "1.2.0",
+  "title": "Kongens helse forverret",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 1,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa23082326/19bd4547-5.smil/thumb.jpg?t=27&scale=640x360&v=high"
+    },
+    {
+      "startTime": 30,
+      "title": "Kongens helsetiltand",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa23082326/19bd4547-5.smil/thumb.jpg?t=55&scale=640x360&v=high"
+    },
+    {
+      "startTime": 64,
+      "title": "Direkte Rikshospitalet",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa23082326/19bd4547-5.smil/thumb.jpg?t=90&scale=640x360&v=high"
+    },
+    {
+      "startTime": 183,
+      "title": "Gjest:",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa23082326/19bd4547-5.smil/thumb.jpg?t=208&scale=640x360&v=high"
+    },
+    {
+      "startTime": 441,
+      "title": "Peter Frølich",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa23082326/19bd4547-5.smil/thumb.jpg?t=467&scale=640x360&v=high"
+    },
+    {
+      "startTime": 462,
+      "title": "Flygelederstreik",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa23082326/19bd4547-5.smil/thumb.jpg?t=488&scale=640x360&v=high"
+    },
+    {
+      "startTime": 495,
+      "title": "Hovland og Reitan siste dag",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa23082326/19bd4547-5.smil/thumb.jpg?t=520&scale=640x360&v=high"
+    },
+    {
+      "startTime": 536,
+      "title": "Jakob Ingebrigtsen 1500 i Polen",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa23082326/19bd4547-5.smil/thumb.jpg?t=561&scale=640x360&v=high"
+    },
+    {
+      "startTime": 607,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa23082326/19bd4547-5.smil/thumb.jpg?t=632&scale=640x360&v=high"
+    },
+    {
+      "startTime": 672,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa23082326/19bd4547-5.smil/thumb.jpg?t=698&scale=640x360&v=high"
+    }
+  ]
+}
