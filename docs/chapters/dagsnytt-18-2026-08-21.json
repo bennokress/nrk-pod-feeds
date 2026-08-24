@@ -1,0 +1,58 @@
+{
+  "version": "1.2.0",
+  "title": "Flygelederstreiken rammer hele landet",
+  "author": "NRK",
+  "podcastName": "Dagsnytt 18",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsnytt atten",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa56082126/f54aa140-5.smil/thumb.jpg?t=26&scale=640x360&v=high"
+    },
+    {
+      "startTime": 64,
+      "title": "Flygelederstreik",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa56082126/f54aa140-5.smil/thumb.jpg?t=90&scale=640x360&v=high"
+    },
+    {
+      "startTime": 726,
+      "title": "Vil fjerne uføretrygd",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa56082126/f54aa140-5.smil/thumb.jpg?t=752&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1358,
+      "title": "Dobbeltdrapssak i Ski",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa56082126/f54aa140-5.smil/thumb.jpg?t=1383&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1652,
+      "title": "Snøkrabbekvoter",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa56082126/f54aa140-5.smil/thumb.jpg?t=1677&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2160,
+      "title": "Forbud mot fossil reklame",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa56082126/f54aa140-5.smil/thumb.jpg?t=2186&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2573,
+      "title": "Import av løk",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa56082126/f54aa140-5.smil/thumb.jpg?t=2598&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3033,
+      "title": "Skole og læring",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa56082126/f54aa140-5.smil/thumb.jpg?t=3059&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3518,
+      "title": "AVSLUTNING",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa56082126/f54aa140-5.smil/thumb.jpg?t=3543.76&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3530,
+      "title": "SLUTTKJENNING",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa56082126/f54aa140-5.smil/thumb.jpg?t=3543.76&scale=640x360&v=high"
+    }
+  ]
+}
