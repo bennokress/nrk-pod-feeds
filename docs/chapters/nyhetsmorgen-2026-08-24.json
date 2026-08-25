@@ -1,0 +1,298 @@
+{
+  "version": "1.2.0",
+  "title": "Flere titalls tusen rammet av flygelederstreiken",
+  "author": "NRK",
+  "podcastName": "Nyhetsmorgen",
+  "chapters": [
+    {
+      "startTime": 1,
+      "title": "Åpning 06:30",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05082426/cd18f305-5.smil/thumb.jpg?t=27&scale=640x360&v=high"
+    },
+    {
+      "startTime": 62,
+      "title": "Kongens helse",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05082426/cd18f305-5.smil/thumb.jpg?t=88&scale=640x360&v=high"
+    },
+    {
+      "startTime": 121,
+      "title": "Streiken påvirker flypassasjerer",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05082426/cd18f305-5.smil/thumb.jpg?t=147&scale=640x360&v=high"
+    },
+    {
+      "startTime": 302,
+      "title": "Høyre vil ha penn og papir på eksamen",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05082426/cd18f305-5.smil/thumb.jpg?t=327&scale=640x360&v=high"
+    },
+    {
+      "startTime": 367,
+      "title": "USA med nye sanksjoner mot Iran",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05082426/cd18f305-5.smil/thumb.jpg?t=393&scale=640x360&v=high"
+    },
+    {
+      "startTime": 649,
+      "title": "KI-krigen spisser seg til",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05082426/cd18f305-5.smil/thumb.jpg?t=674&scale=640x360&v=high"
+    },
+    {
+      "startTime": 903,
+      "title": "Overskrifter 06:45",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05082426/cd18f305-5.smil/thumb.jpg?t=929&scale=640x360&v=high"
+    },
+    {
+      "startTime": 946,
+      "title": "Kongens helsesituasjon forverret",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05082426/cd18f305-5.smil/thumb.jpg?t=971&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1177,
+      "title": "Frisk VM-tropp etter Tufte-idé",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05082426/cd18f305-5.smil/thumb.jpg?t=1202&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1316,
+      "title": "Svindeljakten",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05082426/cd18f305-5.smil/thumb.jpg?t=1341&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1578,
+      "title": "Dugnadspress DNT",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05082426/cd18f305-5.smil/thumb.jpg?t=1603&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1775,
+      "title": "Trailer - MESTERNES MESTER TEAM_FREDAG",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05082426/cd18f305-5.smil/thumb.jpg?t=1800&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1803,
+      "title": "Åpning 07:00",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05082426/cd18f305-5.smil/thumb.jpg?t=1829&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1869,
+      "title": "Kongens helse forverret",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05082426/cd18f305-5.smil/thumb.jpg?t=1895&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1981,
+      "title": "Kongens helse stabil i følge Slottet",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05082426/cd18f305-5.smil/thumb.jpg?t=2007&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2248,
+      "title": "Ukrainas nasjonaldag",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05082426/cd18f305-5.smil/thumb.jpg?t=2273&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2489,
+      "title": "Status Ukraina-krigen",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05082426/cd18f305-5.smil/thumb.jpg?t=2515&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2816,
+      "title": "Overskrifter 07:15",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05082426/cd18f305-5.smil/thumb.jpg?t=2841&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2852,
+      "title": "Høyre vil ha penn og papir",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05082426/cd18f305-5.smil/thumb.jpg?t=2878&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3043,
+      "title": "En mer klassisk skole, hør Politisk kvarter",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05082426/cd18f305-5.smil/thumb.jpg?t=3068&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3066,
+      "title": "Verdens energisikkerhet under press",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05082426/cd18f305-5.smil/thumb.jpg?t=3092&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3298,
+      "title": "Norges rolle i å skape energisikkerhet",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05082426/cd18f305-5.smil/thumb.jpg?t=3323&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3569,
+      "title": "Trailer SENTRALBORDET PÅ NRK",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05082426/cd18f305-5.smil/thumb.jpg?t=3594&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3602,
+      "title": "Overskrifter 07:30",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05082426/cd18f305-5.smil/thumb.jpg?t=3627&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3620,
+      "title": "Flygelederstreiken fortsetter",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05082426/cd18f305-5.smil/thumb.jpg?t=3646&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3707,
+      "title": "Siste om Kongens helse",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05082426/cd18f305-5.smil/thumb.jpg?t=3733&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3816,
+      "title": "Verdens energisikkerhet under press",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05082426/cd18f305-5.smil/thumb.jpg?t=3841&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3932,
+      "title": "Ukrainas nasjonaldag",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05082426/cd18f305-5.smil/thumb.jpg?t=3957&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3987,
+      "title": "Høyre vil ha penn og papir på eksamen",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05082426/cd18f305-5.smil/thumb.jpg?t=4012&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4111,
+      "title": "Fleire offentlege tenester utilgjengelege",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05082426/cd18f305-5.smil/thumb.jpg?t=4136&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4132,
+      "title": "Flere elgskilt forsvunnet i Målselv",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05082426/cd18f305-5.smil/thumb.jpg?t=4157&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4198,
+      "title": "Åpning 07:40",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05082426/cd18f305-5.smil/thumb.jpg?t=4224&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4236,
+      "title": "Redde for utenforskap",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05082426/cd18f305-5.smil/thumb.jpg?t=4261&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4479,
+      "title": "Topper 07:44",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05082426/cd18f305-5.smil/thumb.jpg?t=4505&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4496,
+      "title": "Overgang til Politisk kvarter",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05082426/cd18f305-5.smil/thumb.jpg?t=4522&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5403,
+      "title": "NRK Nyheter 08:00",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05082426/cd18f305-5.smil/thumb.jpg?t=5428&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5582,
+      "title": "Åpning 08:03",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05082426/cd18f305-5.smil/thumb.jpg?t=5607&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5640,
+      "title": "Kongens helse stabil i følge Slottet",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05082426/cd18f305-5.smil/thumb.jpg?t=5665&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5853,
+      "title": "Alvorlig for Kongen",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05082426/cd18f305-5.smil/thumb.jpg?t=5878&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5989,
+      "title": "Stor interesse for Islands EU-avstemning",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05082426/cd18f305-5.smil/thumb.jpg?t=6015&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6220,
+      "title": "USA med nye sanksjoner mot Iran",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05082426/cd18f305-5.smil/thumb.jpg?t=6245&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6512,
+      "title": "Overskrifter 08:15",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05082426/cd18f305-5.smil/thumb.jpg?t=6537&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6543,
+      "title": "Partene i streiken møtes",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05082426/cd18f305-5.smil/thumb.jpg?t=6569&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6833,
+      "title": "Strammer inn på hjemmekontor",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05082426/cd18f305-5.smil/thumb.jpg?t=6859&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7262,
+      "title": "Hør Ekko i NRK P2",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05082426/cd18f305-5.smil/thumb.jpg?t=7287&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7305,
+      "title": "Overskrifter 08:30",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05082426/cd18f305-5.smil/thumb.jpg?t=7330&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7355,
+      "title": "Kongens helsetilstand verre",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05082426/cd18f305-5.smil/thumb.jpg?t=7380&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7480,
+      "title": "Ukrainske droneangrep",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05082426/cd18f305-5.smil/thumb.jpg?t=7506&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7675,
+      "title": "Matmangel i Gaza",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05082426/cd18f305-5.smil/thumb.jpg?t=7701&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7855,
+      "title": "Verdens energisikkerhet under press",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05082426/cd18f305-5.smil/thumb.jpg?t=7880&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7970,
+      "title": "Haugesund filmfestival",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05082426/cd18f305-5.smil/thumb.jpg?t=7995&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8142,
+      "title": "Overskrifter 08:45",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05082426/cd18f305-5.smil/thumb.jpg?t=8168&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8179,
+      "title": "Ankesak etter kjendis-drapet i Finland",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05082426/cd18f305-5.smil/thumb.jpg?t=8204&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8399,
+      "title": "Høyre vil ha penn og papir",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05082426/cd18f305-5.smil/thumb.jpg?t=8424&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8604,
+      "title": "Filmanmeldelse: Kjærast",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05082426/cd18f305-5.smil/thumb.jpg?t=8630&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8833,
+      "title": "Flere elgskilt forsvunnet i Målselv",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05082426/cd18f305-5.smil/thumb.jpg?t=8859&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8909,
+      "title": "GJEST Været i dag",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05082426/cd18f305-5.smil/thumb.jpg?t=8934&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8992,
+      "title": "Avslutning",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05082426/cd18f305-5.smil/thumb.jpg?t=9004.36&scale=640x360&v=high"
+    }
+  ]
+}
