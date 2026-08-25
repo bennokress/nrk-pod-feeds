@@ -1,0 +1,68 @@
+{
+  "version": "1.2.0",
+  "title": "Kong Harald på sykehus",
+  "author": "NRK",
+  "podcastName": "Dagsnytt 18",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsnytt atten",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa56082426/8b515c30-5.smil/thumb.jpg?t=26&scale=640x360&v=high"
+    },
+    {
+      "startTime": 61,
+      "title": "Kongens helse er stabil",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa56082426/8b515c30-5.smil/thumb.jpg?t=87&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1014,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa56082426/8b515c30-5.smil/thumb.jpg?t=1040&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1035,
+      "title": "Karpe og Fritt Ord",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa56082426/8b515c30-5.smil/thumb.jpg?t=1060&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1633,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa56082426/8b515c30-5.smil/thumb.jpg?t=1659&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1800,
+      "title": "Flygelederstreiken avsluttes",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa56082426/8b515c30-5.smil/thumb.jpg?t=1825&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2375,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa56082426/8b515c30-5.smil/thumb.jpg?t=2401&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2390,
+      "title": "Uenighet om Israel",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa56082426/8b515c30-5.smil/thumb.jpg?t=2415&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2940,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa56082426/8b515c30-5.smil/thumb.jpg?t=2965&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3050,
+      "title": "Den dyre indrefileten",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa56082426/8b515c30-5.smil/thumb.jpg?t=3076&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3513,
+      "title": "AVSLUTNING",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa56082426/8b515c30-5.smil/thumb.jpg?t=3539&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3530,
+      "title": "SLUTTKJENNING",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa56082426/8b515c30-5.smil/thumb.jpg?t=3542.84&scale=640x360&v=high"
+    }
+  ]
+}
