@@ -1,0 +1,143 @@
+{
+  "version": "1.2.0",
+  "title": "Ingen endring",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 9,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa19082426/52b6498b-5.smil/thumb.jpg?t=35&scale=640x360&v=high"
+    },
+    {
+      "startTime": 68,
+      "title": "Direkte Rikshospitalet",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa19082426/52b6498b-5.smil/thumb.jpg?t=94&scale=640x360&v=high"
+    },
+    {
+      "startTime": 145,
+      "title": "Kongens helse",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa19082426/52b6498b-5.smil/thumb.jpg?t=171&scale=640x360&v=high"
+    },
+    {
+      "startTime": 245,
+      "title": "Lege om helse",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa19082426/52b6498b-5.smil/thumb.jpg?t=271&scale=640x360&v=high"
+    },
+    {
+      "startTime": 421,
+      "title": "Kongens helse",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa19082426/52b6498b-5.smil/thumb.jpg?t=446&scale=640x360&v=high"
+    },
+    {
+      "startTime": 498,
+      "title": "Gjest: Stanghelle",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa19082426/52b6498b-5.smil/thumb.jpg?t=524&scale=640x360&v=high"
+    },
+    {
+      "startTime": 672,
+      "title": "Direkte Flesland",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa19082426/52b6498b-5.smil/thumb.jpg?t=697&scale=640x360&v=high"
+    },
+    {
+      "startTime": 765,
+      "title": "Flygelederstreiken over",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa19082426/52b6498b-5.smil/thumb.jpg?t=790&scale=640x360&v=high"
+    },
+    {
+      "startTime": 857,
+      "title": "Energimessa",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa19082426/52b6498b-5.smil/thumb.jpg?t=883&scale=640x360&v=high"
+    },
+    {
+      "startTime": 970,
+      "title": "Direkte Stavanger",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa19082426/52b6498b-5.smil/thumb.jpg?t=996&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1090,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa19082426/52b6498b-5.smil/thumb.jpg?t=1116&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1171,
+      "title": "Tente på skole",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa19082426/52b6498b-5.smil/thumb.jpg?t=1196&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1315,
+      "title": "Ukraina",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa19082426/52b6498b-5.smil/thumb.jpg?t=1340&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1428,
+      "title": "Direkte Kyiv",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa19082426/52b6498b-5.smil/thumb.jpg?t=1454&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1546,
+      "title": "Utenriksnyheter",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa19082426/52b6498b-5.smil/thumb.jpg?t=1572&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1649,
+      "title": "Drap ishockeyspiller",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa19082426/52b6498b-5.smil/thumb.jpg?t=1674&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1763,
+      "title": "Direkte Helsingfors",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa19082426/52b6498b-5.smil/thumb.jpg?t=1789&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1891,
+      "title": "Girl in red",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa19082426/52b6498b-5.smil/thumb.jpg?t=1916&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1995,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa19082426/52b6498b-5.smil/thumb.jpg?t=2021&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2001,
+      "title": "Glimt før NEC",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa19082426/52b6498b-5.smil/thumb.jpg?t=2026&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2081,
+      "title": "Spania rundt 3.etappe",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa19082426/52b6498b-5.smil/thumb.jpg?t=2107&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2110,
+      "title": "Superduell 1500 meter",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa19082426/52b6498b-5.smil/thumb.jpg?t=2135&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2132,
+      "title": "Strand reagerer",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa19082426/52b6498b-5.smil/thumb.jpg?t=2157&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2212,
+      "title": "Idrettens opprop",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa19082426/52b6498b-5.smil/thumb.jpg?t=2238&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2311,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa19082426/52b6498b-5.smil/thumb.jpg?t=2336&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2477,
+      "title": "Kongens helse",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa19082426/52b6498b-5.smil/thumb.jpg?t=2502&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2497,
+      "title": "Gjest Skrede",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa19082426/52b6498b-5.smil/thumb.jpg?t=2523&scale=640x360&v=high"
+    }
+  ]
+}
