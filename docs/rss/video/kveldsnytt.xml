@@ -8,18 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 24 Aug 2026 21:35:42 +0000</lastBuildDate>
-    <pubDate>Mon, 24 Aug 2026 23:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 25 Aug 2026 21:35:04 +0000</lastBuildDate>
+    <pubDate>Tue, 25 Aug 2026 23:00:00 +0200</pubDate>
     <itunes:image href="https://bennokress.github.io/nrk-pod-feeds/assets/images/kveldsnytt-square.png" />
     <item>
-      <title>Situasjonen er fortsatt stabil for kongen</title>
-      <description>Ingen vesentlige endringer i kongens helsetilstand, og situasjonen er fortsatt stabil, opplyser Slottet.</description>
-      <guid isPermaLink="false">https://nrk-live-world.akamaized.net/nrk1-aaoodIspfNxesM3YQW7GMale0jGowUTqx!world/muxed.m3u8?adap=small&amp;aco=aac</guid>
-      <enclosure url="https://nrk-live-world.akamaized.net/nrk1-aaoodIspfNxesM3YQW7GMale0jGowUTqx!world/muxed.m3u8?adap=small&amp;aco=aac" length="0" type="application/vnd.apple.mpegurl" />
-      <itunes:duration>12:36</itunes:duration>
-      <pubDate>Mon, 24 Aug 2026 23:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/MkBt5xm5E1zK6TQmdL6d6AV2SuPeXm-Btsf-wVy_9_SQ" />
-    <podcast:alternateEnclosure type="application/x-mpegURL" length="0" default="true" title="HLS Video Stream"><podcast:source uri="https://nrk-live-world.akamaized.net/nrk1-aaoodIspfNxesM3YQW7GMale0jGowUTqx!world/muxed.m3u8?adap=small&amp;aco=aac" /></podcast:alternateEnclosure><podcast:person role="host" href="https://www.nrk.no">NRK</podcast:person></item>
+      <title>Dolly Parton er død</title>
+      <description>Folk strømmer til Nashville for å hylle contrylegenden.</description>
+      <guid isPermaLink="false">https://nrk-live-world.akamaized.net/nrk1-aaotuv0-6BgXxif8yjAKOatEFjmqJPyGG!world/muxed.m3u8?adap=small&amp;aco=aac</guid>
+      <enclosure url="https://nrk-live-world.akamaized.net/nrk1-aaotuv0-6BgXxif8yjAKOatEFjmqJPyGG!world/muxed.m3u8?adap=small&amp;aco=aac" length="0" type="application/vnd.apple.mpegurl" />
+      <itunes:duration>13:49</itunes:duration>
+      <pubDate>Tue, 25 Aug 2026 23:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/1DNSgHM_gk0cyx3bXuMnLQLej8r5L_zENlPX1xc5OL-A" />
+    <podcast:alternateEnclosure type="application/x-mpegURL" length="0" default="true" title="HLS Video Stream"><podcast:source uri="https://nrk-live-world.akamaized.net/nrk1-aaotuv0-6BgXxif8yjAKOatEFjmqJPyGG!world/muxed.m3u8?adap=small&amp;aco=aac" /></podcast:alternateEnclosure><podcast:person role="host" href="https://www.nrk.no">NRK</podcast:person></item>
     <item>
       <title>Kongens helse forverret</title>
       <description>– Kan være en alvorlig tilstand.</description>
