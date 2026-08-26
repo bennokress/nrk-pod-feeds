@@ -1,0 +1,48 @@
+{
+  "version": "1.2.0",
+  "title": "Ny utvikling i eldreomsorgen",
+  "author": "NRK",
+  "podcastName": "Dagsnytt 18",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsnytt atten",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa56082526/aee6a29a-5.smil/thumb.jpg?t=25&scale=640x360&v=high"
+    },
+    {
+      "startTime": 59,
+      "title": "Pårørende hjelper sine eldre selv",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa56082526/aee6a29a-5.smil/thumb.jpg?t=84&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1002,
+      "title": "Forbud mot KI-briller?",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa56082526/aee6a29a-5.smil/thumb.jpg?t=1028&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1568,
+      "title": "EU-avstemning på Island",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa56082526/aee6a29a-5.smil/thumb.jpg?t=1593&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2324,
+      "title": "Dataangrep mot Norge",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa56082526/aee6a29a-5.smil/thumb.jpg?t=2349&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2824,
+      "title": "Jobbfokus i bistanden",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa56082526/aee6a29a-5.smil/thumb.jpg?t=2849&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3518,
+      "title": "AVSLUTNING",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa56082526/aee6a29a-5.smil/thumb.jpg?t=3543&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3524,
+      "title": "SLUTTKJENNING",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa56082526/aee6a29a-5.smil/thumb.jpg?t=3543.72&scale=640x360&v=high"
+    }
+  ]
+}
