@@ -1,0 +1,58 @@
+{
+  "version": "1.2.0",
+  "title": "Dolly Parton er død",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa21082526/d1a19974-5.smil/thumb.jpg?t=26&scale=640x360&v=high"
+    },
+    {
+      "startTime": 22,
+      "title": "Dolly Parton død",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa21082526/d1a19974-5.smil/thumb.jpg?t=47&scale=640x360&v=high"
+    },
+    {
+      "startTime": 121,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa21082526/d1a19974-5.smil/thumb.jpg?t=147&scale=640x360&v=high"
+    },
+    {
+      "startTime": 219,
+      "title": "Nettpromo",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa21082526/d1a19974-5.smil/thumb.jpg?t=245&scale=640x360&v=high"
+    },
+    {
+      "startTime": 232,
+      "title": "Øygarden brann",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa21082526/d1a19974-5.smil/thumb.jpg?t=258&scale=640x360&v=high"
+    },
+    {
+      "startTime": 259,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa21082526/d1a19974-5.smil/thumb.jpg?t=285&scale=640x360&v=high"
+    },
+    {
+      "startTime": 348,
+      "title": "Kongens helse",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa21082526/d1a19974-5.smil/thumb.jpg?t=374&scale=640x360&v=high"
+    },
+    {
+      "startTime": 371,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa21082526/d1a19974-5.smil/thumb.jpg?t=397&scale=640x360&v=high"
+    },
+    {
+      "startTime": 446,
+      "title": "Været",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa21082526/d1a19974-5.smil/thumb.jpg?t=471&scale=640x360&v=high"
+    },
+    {
+      "startTime": 497,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa21082526/d1a19974-5.smil/thumb.jpg?t=520.48&scale=640x360&v=high"
+    }
+  ]
+}
