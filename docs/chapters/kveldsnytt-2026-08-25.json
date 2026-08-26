@@ -1,0 +1,68 @@
+{
+  "version": "1.2.0",
+  "title": "Dolly Parton er død",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa23082526/b78025f0-5.smil/thumb.jpg?t=25&scale=640x360&v=high"
+    },
+    {
+      "startTime": 33,
+      "title": "Bodøglimt",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa23082526/b78025f0-5.smil/thumb.jpg?t=59&scale=640x360&v=high"
+    },
+    {
+      "startTime": 116,
+      "title": "Dolly Parton død",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa23082526/b78025f0-5.smil/thumb.jpg?t=141&scale=640x360&v=high"
+    },
+    {
+      "startTime": 220,
+      "title": "Gjest:",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa23082526/b78025f0-5.smil/thumb.jpg?t=245&scale=640x360&v=high"
+    },
+    {
+      "startTime": 356,
+      "title": "Nettpromo",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa23082526/b78025f0-5.smil/thumb.jpg?t=381&scale=640x360&v=high"
+    },
+    {
+      "startTime": 370,
+      "title": "Oljeleting Lofoten",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa23082526/b78025f0-5.smil/thumb.jpg?t=395&scale=640x360&v=high"
+    },
+    {
+      "startTime": 450,
+      "title": "Utenriksnyheter",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa23082526/b78025f0-5.smil/thumb.jpg?t=475&scale=640x360&v=high"
+    },
+    {
+      "startTime": 538,
+      "title": "Dataangrep",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa23082526/b78025f0-5.smil/thumb.jpg?t=563&scale=640x360&v=high"
+    },
+    {
+      "startTime": 579,
+      "title": "Hyller kronprinsparet på sølvbryllupsdagen",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa23082526/b78025f0-5.smil/thumb.jpg?t=604&scale=640x360&v=high"
+    },
+    {
+      "startTime": 660,
+      "title": "Viking før Mesterliga",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa23082526/b78025f0-5.smil/thumb.jpg?t=685&scale=640x360&v=high"
+    },
+    {
+      "startTime": 744,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa23082526/b78025f0-5.smil/thumb.jpg?t=770&scale=640x360&v=high"
+    },
+    {
+      "startTime": 811,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa23082526/b78025f0-5.smil/thumb.jpg?t=829.8&scale=640x360&v=high"
+    }
+  ]
+}
