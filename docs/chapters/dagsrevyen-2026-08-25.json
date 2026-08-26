@@ -1,0 +1,148 @@
+{
+  "version": "1.2.0",
+  "title": "Omkom i eksplosjon",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 9,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa19082526/d28b585e-5.smil/thumb.jpg?t=35&scale=640x360&v=high"
+    },
+    {
+      "startTime": 62,
+      "title": "Skadde Øygarden",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa19082526/d28b585e-5.smil/thumb.jpg?t=87&scale=640x360&v=high"
+    },
+    {
+      "startTime": 160,
+      "title": "Direkte fra Øygarden",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa19082526/d28b585e-5.smil/thumb.jpg?t=185&scale=640x360&v=high"
+    },
+    {
+      "startTime": 252,
+      "title": "Kongens helse",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa19082526/d28b585e-5.smil/thumb.jpg?t=278&scale=640x360&v=high"
+    },
+    {
+      "startTime": 276,
+      "title": "Direkte Rikshospitalet",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa19082526/d28b585e-5.smil/thumb.jpg?t=301&scale=640x360&v=high"
+    },
+    {
+      "startTime": 361,
+      "title": "Kronprinsparet",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa19082526/d28b585e-5.smil/thumb.jpg?t=386&scale=640x360&v=high"
+    },
+    {
+      "startTime": 543,
+      "title": "Canada toll",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa19082526/d28b585e-5.smil/thumb.jpg?t=569&scale=640x360&v=high"
+    },
+    {
+      "startTime": 644,
+      "title": "Direkte USA",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa19082526/d28b585e-5.smil/thumb.jpg?t=670&scale=640x360&v=high"
+    },
+    {
+      "startTime": 767,
+      "title": "Dataangrep",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa19082526/d28b585e-5.smil/thumb.jpg?t=793&scale=640x360&v=high"
+    },
+    {
+      "startTime": 991,
+      "title": "Gjest dataangrep",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa19082526/d28b585e-5.smil/thumb.jpg?t=1017&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1103,
+      "title": "Spontanabort",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa19082526/d28b585e-5.smil/thumb.jpg?t=1129&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1291,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa19082526/d28b585e-5.smil/thumb.jpg?t=1317&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1428,
+      "title": "Forbud ansiktsgjenkjenning",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa19082526/d28b585e-5.smil/thumb.jpg?t=1454&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1528,
+      "title": "Rhinen tørker",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa19082526/d28b585e-5.smil/thumb.jpg?t=1553&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1683,
+      "title": "Direkte Nederland",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa19082526/d28b585e-5.smil/thumb.jpg?t=1708&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1783,
+      "title": "Dugnad Trollheimen",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa19082526/d28b585e-5.smil/thumb.jpg?t=1809&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1877,
+      "title": "Island før folkeavstemning",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa19082526/d28b585e-5.smil/thumb.jpg?t=1902&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1924,
+      "title": "Direkte Island",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa19082526/d28b585e-5.smil/thumb.jpg?t=1950&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2031,
+      "title": "Island før folkeavstemning",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa19082526/d28b585e-5.smil/thumb.jpg?t=2056&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2119,
+      "title": "Trailer Debatten",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa19082526/d28b585e-5.smil/thumb.jpg?t=2144&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2159,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa19082526/d28b585e-5.smil/thumb.jpg?t=2184&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2164,
+      "title": "Før Glimt-NEC",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa19082526/d28b585e-5.smil/thumb.jpg?t=2189&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2186,
+      "title": "Direkte fra Bodø",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa19082526/d28b585e-5.smil/thumb.jpg?t=2212&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2277,
+      "title": "Brann-Austria",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa19082526/d28b585e-5.smil/thumb.jpg?t=2302&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2306,
+      "title": "Nyland skade",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa19082526/d28b585e-5.smil/thumb.jpg?t=2332&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2326,
+      "title": "Vuelta fjerde etappe",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa19082526/d28b585e-5.smil/thumb.jpg?t=2351&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2350,
+      "title": "Håndball økonomi",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa19082526/d28b585e-5.smil/thumb.jpg?t=2375&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2456,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa19082526/d28b585e-5.smil/thumb.jpg?t=2481&scale=640x360&v=high"
+    }
+  ]
+}
