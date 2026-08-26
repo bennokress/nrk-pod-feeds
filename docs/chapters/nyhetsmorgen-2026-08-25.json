@@ -1,0 +1,303 @@
+{
+  "version": "1.2.0",
+  "title": "Færre stoler på eldreomsorgen",
+  "author": "NRK",
+  "podcastName": "Nyhetsmorgen",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Åpning 06:30",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05082526/d93212ba-5.smil/thumb.jpg?t=26&scale=640x360&v=high"
+    },
+    {
+      "startTime": 62,
+      "title": "Ny studie: Pårørende eldreomsorg",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05082526/d93212ba-5.smil/thumb.jpg?t=88&scale=640x360&v=high"
+    },
+    {
+      "startTime": 117,
+      "title": "Kongens helse fortsatt stabil",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05082526/d93212ba-5.smil/thumb.jpg?t=142&scale=640x360&v=high"
+    },
+    {
+      "startTime": 242,
+      "title": "Siste nytt",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05082526/d93212ba-5.smil/thumb.jpg?t=267&scale=640x360&v=high"
+    },
+    {
+      "startTime": 349,
+      "title": "Økonomikrig mot Iran",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05082526/d93212ba-5.smil/thumb.jpg?t=374&scale=640x360&v=high"
+    },
+    {
+      "startTime": 570,
+      "title": "Mener gjedda tar laksen i Tana",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05082526/d93212ba-5.smil/thumb.jpg?t=596&scale=640x360&v=high"
+    },
+    {
+      "startTime": 801,
+      "title": "Fortsatt trøbbel etter dataangrep",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05082526/d93212ba-5.smil/thumb.jpg?t=826&scale=640x360&v=high"
+    },
+    {
+      "startTime": 927,
+      "title": "Overskrifter 06:45",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05082526/d93212ba-5.smil/thumb.jpg?t=952&scale=640x360&v=high"
+    },
+    {
+      "startTime": 981,
+      "title": "Rettssak mot libysk offiser utsatt i USA",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05082526/d93212ba-5.smil/thumb.jpg?t=1006&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1222,
+      "title": "Pengedryss i Mesterligaen",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05082526/d93212ba-5.smil/thumb.jpg?t=1247&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1379,
+      "title": "Fra langrenn til sykkel",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05082526/d93212ba-5.smil/thumb.jpg?t=1405&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1574,
+      "title": "Musejakt i Langsua",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05082526/d93212ba-5.smil/thumb.jpg?t=1599&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1773,
+      "title": "Teasing dagens sending",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05082526/d93212ba-5.smil/thumb.jpg?t=1799&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1775,
+      "title": "Trailer: Bibelen",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05082526/d93212ba-5.smil/thumb.jpg?t=1801&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1803,
+      "title": "Åpning 07:00",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05082526/d93212ba-5.smil/thumb.jpg?t=1828&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1887,
+      "title": "Ny studie: Pårørende eldreomsorg",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05082526/d93212ba-5.smil/thumb.jpg?t=1913&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2070,
+      "title": "Folket om kongen",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05082526/d93212ba-5.smil/thumb.jpg?t=2096&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2233,
+      "title": "Kongens helse fortsatt stabil",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05082526/d93212ba-5.smil/thumb.jpg?t=2259&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2353,
+      "title": "Rhinen tørker inn",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05082526/d93212ba-5.smil/thumb.jpg?t=2379&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2624,
+      "title": "Overskrifter 07:15",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05082526/d93212ba-5.smil/thumb.jpg?t=2650&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2659,
+      "title": "Regulering av cruisetrafikk på Svalbard",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05082526/d93212ba-5.smil/thumb.jpg?t=2684&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2690,
+      "title": "Islandsk fiskeri og EU",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05082526/d93212ba-5.smil/thumb.jpg?t=2715&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2873,
+      "title": "EU-debatt i bakvendtland",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05082526/d93212ba-5.smil/thumb.jpg?t=2898&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3119,
+      "title": "Island, EU og oss – Politisk kvarter 0745",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05082526/d93212ba-5.smil/thumb.jpg?t=3144&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3179,
+      "title": "Regulering av cruisetrafikk på Svalbard",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05082526/d93212ba-5.smil/thumb.jpg?t=3205&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3324,
+      "title": "Flere i maritim utdanning",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05082526/d93212ba-5.smil/thumb.jpg?t=3350&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3602,
+      "title": "Overskrifter 07:30",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05082526/d93212ba-5.smil/thumb.jpg?t=3628&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3628,
+      "title": "Pårørende vil ta på seg eldreomsorg",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05082526/d93212ba-5.smil/thumb.jpg?t=3654&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3753,
+      "title": "Folket om kongen",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05082526/d93212ba-5.smil/thumb.jpg?t=3779&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3805,
+      "title": "Kongens helse fortsatt stabil",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05082526/d93212ba-5.smil/thumb.jpg?t=3830&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3877,
+      "title": "Fortsatt trøbbel etter dataangrep",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05082526/d93212ba-5.smil/thumb.jpg?t=3903&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3907,
+      "title": "Islandsk fiskeri og EU",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05082526/d93212ba-5.smil/thumb.jpg?t=3933&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4021,
+      "title": "Økonomikrig mot Iran",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05082526/d93212ba-5.smil/thumb.jpg?t=4046&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4073,
+      "title": "Mesterligaen kan gi pengedryss",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05082526/d93212ba-5.smil/thumb.jpg?t=4099&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4180,
+      "title": "Fødselstall",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05082526/d93212ba-5.smil/thumb.jpg?t=4205&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4199,
+      "title": "Åpning 07:40",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05082526/d93212ba-5.smil/thumb.jpg?t=4224&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4213,
+      "title": "Unge mødre",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05082526/d93212ba-5.smil/thumb.jpg?t=4238&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5400,
+      "title": "NRK Nyheter 08:00",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05082526/d93212ba-5.smil/thumb.jpg?t=5425&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5578,
+      "title": "Åpning 08:03",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05082526/d93212ba-5.smil/thumb.jpg?t=5604&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5646,
+      "title": "Kongehusets arbeidskapasitet",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05082526/d93212ba-5.smil/thumb.jpg?t=5671&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5928,
+      "title": "Rhinen tørker inn",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05082526/d93212ba-5.smil/thumb.jpg?t=5953&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6138,
+      "title": "Tørke påvirker matproduksjonen",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05082526/d93212ba-5.smil/thumb.jpg?t=6163&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6405,
+      "title": "Overskrifter 08:15",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05082526/d93212ba-5.smil/thumb.jpg?t=6430&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6457,
+      "title": "Tolltruslar mellom USA og Canada",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05082526/d93212ba-5.smil/thumb.jpg?t=6483&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6721,
+      "title": "Fleire fødslar i Noreg",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05082526/d93212ba-5.smil/thumb.jpg?t=6746&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6864,
+      "title": "Fortsatt trøbbel etter dataangrep",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05082526/d93212ba-5.smil/thumb.jpg?t=6889&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6928,
+      "title": "Regulering av cruisetrafikk på Svalbard",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05082526/d93212ba-5.smil/thumb.jpg?t=6953&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7070,
+      "title": "Hør Ekko i NRK P2",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05082526/d93212ba-5.smil/thumb.jpg?t=7095&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7111,
+      "title": "Musejakt i Langsua",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05082526/d93212ba-5.smil/thumb.jpg?t=7137&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7246,
+      "title": "Overskrifter 08:30",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05082526/d93212ba-5.smil/thumb.jpg?t=7272&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7292,
+      "title": "Sesongpremiere for Debatten",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05082526/d93212ba-5.smil/thumb.jpg?t=7317&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7344,
+      "title": "Første Debatten for Steinar Suvatne",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05082526/d93212ba-5.smil/thumb.jpg?t=7370&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7650,
+      "title": "Bodø-Glimt styrer mot Mesterligaen",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05082526/d93212ba-5.smil/thumb.jpg?t=7675&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7903,
+      "title": "Nytt bilde av kronprinsparet",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05082526/d93212ba-5.smil/thumb.jpg?t=7929&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7967,
+      "title": "Island, EU og oss",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05082526/d93212ba-5.smil/thumb.jpg?t=7993&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8167,
+      "title": "Ny studie: Pårørende eldreomsorg",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05082526/d93212ba-5.smil/thumb.jpg?t=8192&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8291,
+      "title": "Pårørendealliansen om eldreomsorg",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05082526/d93212ba-5.smil/thumb.jpg?t=8316&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8491,
+      "title": "Anmeldelse av Beatrice Gonzales",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05082526/d93212ba-5.smil/thumb.jpg?t=8516&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8856,
+      "title": "Været i dag",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05082526/d93212ba-5.smil/thumb.jpg?t=8882&scale=640x360&v=high"
+    }
+  ]
+}
