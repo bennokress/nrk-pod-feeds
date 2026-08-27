@@ -1,0 +1,263 @@
+{
+  "version": "1.2.0",
+  "title": "Kvinner må få hjelp",
+  "author": "NRK",
+  "podcastName": "Nyhetsmorgen",
+  "chapters": [
+    {
+      "startTime": 2,
+      "title": "Åpning 06:30",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa05082626/225b8267-5.smil/thumb.jpg?t=28&scale=640x360&v=high"
+    },
+    {
+      "startTime": 73,
+      "title": "Dolly Parton er død",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa05082626/225b8267-5.smil/thumb.jpg?t=98&scale=640x360&v=high"
+    },
+    {
+      "startTime": 499,
+      "title": "I abortkø med dødt foster i magen",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa05082626/225b8267-5.smil/thumb.jpg?t=524&scale=640x360&v=high"
+    },
+    {
+      "startTime": 593,
+      "title": "Siste nytt",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa05082626/225b8267-5.smil/thumb.jpg?t=619&scale=640x360&v=high"
+    },
+    {
+      "startTime": 669,
+      "title": "Bodø Glimt til Mesterligaen",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa05082626/225b8267-5.smil/thumb.jpg?t=695&scale=640x360&v=high"
+    },
+    {
+      "startTime": 790,
+      "title": "Positive til turistmengden",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa05082626/225b8267-5.smil/thumb.jpg?t=816&scale=640x360&v=high"
+    },
+    {
+      "startTime": 974,
+      "title": "Trippelsmell for integrering",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa05082626/225b8267-5.smil/thumb.jpg?t=999&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1120,
+      "title": "Bre-fotografen Mark Reysoo",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa05082626/225b8267-5.smil/thumb.jpg?t=1146&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1288,
+      "title": "Mangel på tekniske utøvere i friidrett",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa05082626/225b8267-5.smil/thumb.jpg?t=1313&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1439,
+      "title": "Skolehager på Nordmøre",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa05082626/225b8267-5.smil/thumb.jpg?t=1464&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1638,
+      "title": "Kvinner på duejakt",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa05082626/225b8267-5.smil/thumb.jpg?t=1664&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1785,
+      "title": "Åpning 07:00",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa05082626/225b8267-5.smil/thumb.jpg?t=1810&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1891,
+      "title": "I abortkø med dødt foster i magen",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa05082626/225b8267-5.smil/thumb.jpg?t=1917&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2120,
+      "title": "Allmennlegeforeningen om abortmedisin",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa05082626/225b8267-5.smil/thumb.jpg?t=2146&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2351,
+      "title": "Dolly Parton er død",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa05082626/225b8267-5.smil/thumb.jpg?t=2377&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2592,
+      "title": "Sørvaag om Dolly Parton",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa05082626/225b8267-5.smil/thumb.jpg?t=2617&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2810,
+      "title": "Overskrifter 07:15",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa05082626/225b8267-5.smil/thumb.jpg?t=2836&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2844,
+      "title": "Reaksjoner på oljeleting",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa05082626/225b8267-5.smil/thumb.jpg?t=2869&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3034,
+      "title": "Politisk kvarter om oljeleting Nordland",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa05082626/225b8267-5.smil/thumb.jpg?t=3060&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3093,
+      "title": "Canada svarer USA",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa05082626/225b8267-5.smil/thumb.jpg?t=3118&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3307,
+      "title": "Tollkrig mot Canada",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa05082626/225b8267-5.smil/thumb.jpg?t=3333&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3602,
+      "title": "Overskrifter 07:30",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa05082626/225b8267-5.smil/thumb.jpg?t=3627&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3630,
+      "title": "Dolly Parton døde av kreft",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa05082626/225b8267-5.smil/thumb.jpg?t=3656&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3845,
+      "title": "Reaksjoner fra Knoxville",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa05082626/225b8267-5.smil/thumb.jpg?t=3871&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3849,
+      "title": "I kø med dødt foster i magen",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa05082626/225b8267-5.smil/thumb.jpg?t=3874&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3977,
+      "title": "Trippelsmell for integrering",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa05082626/225b8267-5.smil/thumb.jpg?t=4003&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4086,
+      "title": "Reaksjoner oljeleting",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa05082626/225b8267-5.smil/thumb.jpg?t=4111&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4107,
+      "title": "Bodø Glimt til Mesterligaen",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa05082626/225b8267-5.smil/thumb.jpg?t=4133&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4199,
+      "title": "Åpning 07:40",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa05082626/225b8267-5.smil/thumb.jpg?t=4225&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4214,
+      "title": "Nordlysturismen 20 år",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa05082626/225b8267-5.smil/thumb.jpg?t=4239&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5399,
+      "title": "NRK Nyheter 08:00",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa05082626/225b8267-5.smil/thumb.jpg?t=5425&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5581,
+      "title": "Åpning 08:03",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa05082626/225b8267-5.smil/thumb.jpg?t=5606&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5641,
+      "title": "Dolly Parton er død",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa05082626/225b8267-5.smil/thumb.jpg?t=5667&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6028,
+      "title": "I abortkø med dødt foster i magen",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa05082626/225b8267-5.smil/thumb.jpg?t=6053&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6265,
+      "title": "Burnham har suksess",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa05082626/225b8267-5.smil/thumb.jpg?t=6291&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6588,
+      "title": "Overskrifter 08:15",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa05082626/225b8267-5.smil/thumb.jpg?t=6614&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6642,
+      "title": "Trippelsmell for integrering",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa05082626/225b8267-5.smil/thumb.jpg?t=6667&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6770,
+      "title": "Angrep mot narkotikabåt",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa05082626/225b8267-5.smil/thumb.jpg?t=6796&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6998,
+      "title": "Anmeldelse: Kim Leine",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa05082626/225b8267-5.smil/thumb.jpg?t=7023&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7251,
+      "title": "Hør Ekko i NRK P2",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa05082626/225b8267-5.smil/thumb.jpg?t=7276&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7307,
+      "title": "Overskrifter 08:30",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa05082626/225b8267-5.smil/thumb.jpg?t=7332&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7371,
+      "title": "Migrantstreik i Tyskland",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa05082626/225b8267-5.smil/thumb.jpg?t=7397&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7606,
+      "title": "Dolly Parton er død",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa05082626/225b8267-5.smil/thumb.jpg?t=7632&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7783,
+      "title": "Audun Molde om Dolly Parton",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa05082626/225b8267-5.smil/thumb.jpg?t=7809&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8063,
+      "title": "Gjert Ingebrigtsen-intervju",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa05082626/225b8267-5.smil/thumb.jpg?t=8089&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8249,
+      "title": "Overskrifter 08:45",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa05082626/225b8267-5.smil/thumb.jpg?t=8275&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8297,
+      "title": "Politisk kvarter-debatt om Nordland VI",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa05082626/225b8267-5.smil/thumb.jpg?t=8322&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8487,
+      "title": "Drapet på Benjamin Hermansen",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa05082626/225b8267-5.smil/thumb.jpg?t=8513&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8721,
+      "title": "Mangel på tekniske utøvere i friidrett",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa05082626/225b8267-5.smil/thumb.jpg?t=8747&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8875,
+      "title": "GJEST Været i dag",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa05082626/225b8267-5.smil/thumb.jpg?t=8901&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8992,
+      "title": "Avslutning",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa05082626/225b8267-5.smil/thumb.jpg?t=9003.32&scale=640x360&v=high"
+    }
+  ]
+}
