@@ -1,0 +1,148 @@
+{
+  "version": "1.2.0",
+  "title": "Flomkatastrofe i Nepal",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 11,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa19082626/cf155fbc-5.smil/thumb.jpg?t=37&scale=640x360&v=high"
+    },
+    {
+      "startTime": 66,
+      "title": "Nepal skred",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa19082626/cf155fbc-5.smil/thumb.jpg?t=92&scale=640x360&v=high"
+    },
+    {
+      "startTime": 297,
+      "title": "Barnevern rapport",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa19082626/cf155fbc-5.smil/thumb.jpg?t=322&scale=640x360&v=high"
+    },
+    {
+      "startTime": 435,
+      "title": "Gjest om barnevern",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa19082626/cf155fbc-5.smil/thumb.jpg?t=461&scale=640x360&v=high"
+    },
+    {
+      "startTime": 628,
+      "title": "Barnevern rapport",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa19082626/cf155fbc-5.smil/thumb.jpg?t=654&scale=640x360&v=high"
+    },
+    {
+      "startTime": 645,
+      "title": "Gjest kommentator",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa19082626/cf155fbc-5.smil/thumb.jpg?t=671&scale=640x360&v=high"
+    },
+    {
+      "startTime": 753,
+      "title": "Kongens helsetilstand",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa19082626/cf155fbc-5.smil/thumb.jpg?t=778&scale=640x360&v=high"
+    },
+    {
+      "startTime": 779,
+      "title": "Direkte Rikshospitalet",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa19082626/cf155fbc-5.smil/thumb.jpg?t=805&scale=640x360&v=high"
+    },
+    {
+      "startTime": 844,
+      "title": "Kongens helsetilstand",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa19082626/cf155fbc-5.smil/thumb.jpg?t=870&scale=640x360&v=high"
+    },
+    {
+      "startTime": 956,
+      "title": "Gjest kongens helse",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa19082626/cf155fbc-5.smil/thumb.jpg?t=981&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1064,
+      "title": "Durek nyre",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa19082626/cf155fbc-5.smil/thumb.jpg?t=1090&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1081,
+      "title": "Tromsø økonomi",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa19082626/cf155fbc-5.smil/thumb.jpg?t=1106&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1189,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa19082626/cf155fbc-5.smil/thumb.jpg?t=1214&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1269,
+      "title": "Dataangrepet",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa19082626/cf155fbc-5.smil/thumb.jpg?t=1294&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1297,
+      "title": "Direkte Moskva",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa19082626/cf155fbc-5.smil/thumb.jpg?t=1322&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1422,
+      "title": "Moskva om CIA",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa19082626/cf155fbc-5.smil/thumb.jpg?t=1447&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1510,
+      "title": "Canadas økonomi",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa19082626/cf155fbc-5.smil/thumb.jpg?t=1535&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1627,
+      "title": "Dolly Parton død",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa19082626/cf155fbc-5.smil/thumb.jpg?t=1653&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1738,
+      "title": "Direkte fra Tennessee",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa19082626/cf155fbc-5.smil/thumb.jpg?t=1764&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1877,
+      "title": "Dolly Parton død",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa19082626/cf155fbc-5.smil/thumb.jpg?t=1902&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2020,
+      "title": "Godvær i Bergen",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa19082626/cf155fbc-5.smil/thumb.jpg?t=2045&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2108,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa19082626/cf155fbc-5.smil/thumb.jpg?t=2133&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2111,
+      "title": "Viking-Dinamo",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa19082626/cf155fbc-5.smil/thumb.jpg?t=2137&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2135,
+      "title": "Direkte Stavanger",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa19082626/cf155fbc-5.smil/thumb.jpg?t=2160&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2232,
+      "title": "Jakob Ingebrigtsen",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa19082626/cf155fbc-5.smil/thumb.jpg?t=2257&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2312,
+      "title": "Arven etter Olaf",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa19082626/cf155fbc-5.smil/thumb.jpg?t=2337&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2407,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa19082626/cf155fbc-5.smil/thumb.jpg?t=2432&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2565,
+      "title": "Gjest Nepal",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa19082626/cf155fbc-5.smil/thumb.jpg?t=2591&scale=640x360&v=high"
+    }
+  ]
+}
