@@ -1,0 +1,153 @@
+{
+  "version": "1.2.0",
+  "title": "Samles foran slottet",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 49,
+      "title": "Direkte fra Rikshospitalet",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa19082726/2a9080f1-7.smil/thumb.jpg?t=75&scale=640x360&v=high"
+    },
+    {
+      "startTime": 125,
+      "title": "Status sykdom",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa19082726/2a9080f1-7.smil/thumb.jpg?t=150&scale=640x360&v=high"
+    },
+    {
+      "startTime": 220,
+      "title": "Folk slottet",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa19082726/2a9080f1-7.smil/thumb.jpg?t=246&scale=640x360&v=high"
+    },
+    {
+      "startTime": 318,
+      "title": "Direkte fra Slottsplassen",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa19082726/2a9080f1-7.smil/thumb.jpg?t=344&scale=640x360&v=high"
+    },
+    {
+      "startTime": 449,
+      "title": "Gjest: Kristi Skrede",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa19082726/2a9080f1-7.smil/thumb.jpg?t=475&scale=640x360&v=high"
+    },
+    {
+      "startTime": 608,
+      "title": "Direkte Skaugum",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa19082726/2a9080f1-7.smil/thumb.jpg?t=633&scale=640x360&v=high"
+    },
+    {
+      "startTime": 666,
+      "title": "Støre om kongen",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa19082726/2a9080f1-7.smil/thumb.jpg?t=692&scale=640x360&v=high"
+    },
+    {
+      "startTime": 815,
+      "title": "Direkte fra Stortinget",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa19082726/2a9080f1-7.smil/thumb.jpg?t=840&scale=640x360&v=high"
+    },
+    {
+      "startTime": 968,
+      "title": "Direkte Skaugum",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa19082726/2a9080f1-7.smil/thumb.jpg?t=994&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1000,
+      "title": "Folk holder pusten",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa19082726/2a9080f1-7.smil/thumb.jpg?t=1025&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1102,
+      "title": "Gjest: Harald Stanghelle",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa19082726/2a9080f1-7.smil/thumb.jpg?t=1128&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1336,
+      "title": "Direkte Arendal",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa19082726/2a9080f1-7.smil/thumb.jpg?t=1361&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1503,
+      "title": "Gjest Fykse Tveit",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa19082726/2a9080f1-7.smil/thumb.jpg?t=1529&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1701,
+      "title": "Direkte fra Rikshospitalet",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa19082726/2a9080f1-7.smil/thumb.jpg?t=1726&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1758,
+      "title": "Folk reax sykdom",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa19082726/2a9080f1-7.smil/thumb.jpg?t=1784&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1871,
+      "title": "Gjest Leiv Otto Watne",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa19082726/2a9080f1-7.smil/thumb.jpg?t=1896&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2041,
+      "title": "Direkte Trondheim",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa19082726/2a9080f1-7.smil/thumb.jpg?t=2066&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2158,
+      "title": "Direkte Bergen",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa19082726/2a9080f1-7.smil/thumb.jpg?t=2183&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2271,
+      "title": "Direkte fra Rikshospitalet",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa19082726/2a9080f1-7.smil/thumb.jpg?t=2296&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2337,
+      "title": "Direkte Saltstraumen",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa19082726/2a9080f1-7.smil/thumb.jpg?t=2363&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2486,
+      "title": "Stockholm",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa19082726/2a9080f1-7.smil/thumb.jpg?t=2512&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2606,
+      "title": "Gjest Ingvar Havnen",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa19082726/2a9080f1-7.smil/thumb.jpg?t=2632&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2797,
+      "title": "London",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa19082726/2a9080f1-7.smil/thumb.jpg?t=2823&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2914,
+      "title": "Washington",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa19082726/2a9080f1-7.smil/thumb.jpg?t=2939&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2970,
+      "title": "Direkte fra Slottsplassen",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa19082726/2a9080f1-7.smil/thumb.jpg?t=2996&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3129,
+      "title": "Gjest Selbekk",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa19082726/2a9080f1-7.smil/thumb.jpg?t=3154&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3366,
+      "title": "Utenriksnyheter",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa19082726/2a9080f1-7.smil/thumb.jpg?t=3391&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3491,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa19082726/2a9080f1-7.smil/thumb.jpg?t=3516&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3669,
+      "title": "Blomster folk slottet",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa19082726/2a9080f1-7.smil/thumb.jpg?t=3694&scale=640x360&v=high"
+    }
+  ]
+}
