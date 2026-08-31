@@ -1,0 +1,53 @@
+{
+  "version": "1.2.0",
+  "title": "Inngikk forlik",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-23.akamaized.net/open/ps/nnfa/nnfa21082626/f2596396-6.smil/thumb.jpg?t=25&scale=640x360&v=high"
+    },
+    {
+      "startTime": 29,
+      "title": "Metaforlik",
+      "img": "https://nrk-od-world-23.akamaized.net/open/ps/nnfa/nnfa21082626/f2596396-6.smil/thumb.jpg?t=55&scale=640x360&v=high"
+    },
+    {
+      "startTime": 58,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-23.akamaized.net/open/ps/nnfa/nnfa21082626/f2596396-6.smil/thumb.jpg?t=84&scale=640x360&v=high"
+    },
+    {
+      "startTime": 147,
+      "title": "Skred i Nepal",
+      "img": "https://nrk-od-world-23.akamaized.net/open/ps/nnfa/nnfa21082626/f2596396-6.smil/thumb.jpg?t=173&scale=640x360&v=high"
+    },
+    {
+      "startTime": 171,
+      "title": "DAGSREVYPAKKE",
+      "img": "https://nrk-od-world-23.akamaized.net/open/ps/nnfa/nnfa21082626/f2596396-6.smil/thumb.jpg?t=197&scale=640x360&v=high"
+    },
+    {
+      "startTime": 270,
+      "title": "Ferjekutt på øyane",
+      "img": "https://nrk-od-world-23.akamaized.net/open/ps/nnfa/nnfa21082626/f2596396-6.smil/thumb.jpg?t=296&scale=640x360&v=high"
+    },
+    {
+      "startTime": 387,
+      "title": "Bjøro Håland hyller Dolly Parton",
+      "img": "https://nrk-od-world-23.akamaized.net/open/ps/nnfa/nnfa21082626/f2596396-6.smil/thumb.jpg?t=413&scale=640x360&v=high"
+    },
+    {
+      "startTime": 498,
+      "title": "Været",
+      "img": "https://nrk-od-world-23.akamaized.net/open/ps/nnfa/nnfa21082626/f2596396-6.smil/thumb.jpg?t=524&scale=640x360&v=high"
+    },
+    {
+      "startTime": 549,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-23.akamaized.net/open/ps/nnfa/nnfa21082626/f2596396-6.smil/thumb.jpg?t=566.6&scale=640x360&v=high"
+    }
+  ]
+}
