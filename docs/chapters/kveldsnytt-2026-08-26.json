@@ -1,0 +1,68 @@
+{
+  "version": "1.2.0",
+  "title": "Viking til Mesterligaen",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa23082626/b765febd-5.smil/thumb.jpg?t=26&scale=640x360&v=high"
+    },
+    {
+      "startTime": 27,
+      "title": "Viking-Dinamo",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa23082626/b765febd-5.smil/thumb.jpg?t=52&scale=640x360&v=high"
+    },
+    {
+      "startTime": 114,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa23082626/b765febd-5.smil/thumb.jpg?t=140&scale=640x360&v=high"
+    },
+    {
+      "startTime": 241,
+      "title": "Meta inngår forlik. Instagram endres for barn",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa23082626/b765febd-5.smil/thumb.jpg?t=266&scale=640x360&v=high"
+    },
+    {
+      "startTime": 336,
+      "title": "Ankesak drap Finland",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa23082626/b765febd-5.smil/thumb.jpg?t=362&scale=640x360&v=high"
+    },
+    {
+      "startTime": 429,
+      "title": "Høyhusplaner",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa23082626/b765febd-5.smil/thumb.jpg?t=455&scale=640x360&v=high"
+    },
+    {
+      "startTime": 451,
+      "title": "Brigade nord",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa23082626/b765febd-5.smil/thumb.jpg?t=476&scale=640x360&v=high"
+    },
+    {
+      "startTime": 491,
+      "title": "Dollywood",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa23082626/b765febd-5.smil/thumb.jpg?t=517&scale=640x360&v=high"
+    },
+    {
+      "startTime": 554,
+      "title": "Glimt i NM",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa23082626/b765febd-5.smil/thumb.jpg?t=580&scale=640x360&v=high"
+    },
+    {
+      "startTime": 622,
+      "title": "Guttormsen i form",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa23082626/b765febd-5.smil/thumb.jpg?t=648&scale=640x360&v=high"
+    },
+    {
+      "startTime": 689,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa23082626/b765febd-5.smil/thumb.jpg?t=714&scale=640x360&v=high"
+    },
+    {
+      "startTime": 748,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa23082626/b765febd-5.smil/thumb.jpg?t=766.6&scale=640x360&v=high"
+    }
+  ]
+}
