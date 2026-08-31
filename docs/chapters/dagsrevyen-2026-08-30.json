@@ -1,0 +1,138 @@
+{
+  "version": "1.2.0",
+  "title": "Sammen i sorgen",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-57.akamaized.net/open/ps/nnfa/nnfa19083026/088433a9-9.smil/thumb.jpg?t=25&scale=640x360&v=high"
+    },
+    {
+      "startTime": 40,
+      "title": "Siste nytt om tronskifte",
+      "img": "https://nrk-od-world-57.akamaized.net/open/ps/nnfa/nnfa19083026/088433a9-9.smil/thumb.jpg?t=65&scale=640x360&v=high"
+    },
+    {
+      "startTime": 42,
+      "title": "Gjest: Kristi Marie Skrede",
+      "img": "https://nrk-od-world-57.akamaized.net/open/ps/nnfa/nnfa19083026/088433a9-9.smil/thumb.jpg?t=68&scale=640x360&v=high"
+    },
+    {
+      "startTime": 143,
+      "title": "Sørgegudstjenester",
+      "img": "https://nrk-od-world-57.akamaized.net/open/ps/nnfa/nnfa19083026/088433a9-9.smil/thumb.jpg?t=168&scale=640x360&v=high"
+    },
+    {
+      "startTime": 325,
+      "title": "Gjest: Støre",
+      "img": "https://nrk-od-world-57.akamaized.net/open/ps/nnfa/nnfa19083026/088433a9-9.smil/thumb.jpg?t=351&scale=640x360&v=high"
+    },
+    {
+      "startTime": 538,
+      "title": "Direkte: Trondheim",
+      "img": "https://nrk-od-world-57.akamaized.net/open/ps/nnfa/nnfa19083026/088433a9-9.smil/thumb.jpg?t=563&scale=640x360&v=high"
+    },
+    {
+      "startTime": 666,
+      "title": "Kongehuset og kirken",
+      "img": "https://nrk-od-world-57.akamaized.net/open/ps/nnfa/nnfa19083026/088433a9-9.smil/thumb.jpg?t=692&scale=640x360&v=high"
+    },
+    {
+      "startTime": 803,
+      "title": "Gjest: Håvard Nyhus",
+      "img": "https://nrk-od-world-57.akamaized.net/open/ps/nnfa/nnfa19083026/088433a9-9.smil/thumb.jpg?t=828&scale=640x360&v=high"
+    },
+    {
+      "startTime": 913,
+      "title": "Bergen",
+      "img": "https://nrk-od-world-57.akamaized.net/open/ps/nnfa/nnfa19083026/088433a9-9.smil/thumb.jpg?t=939&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1041,
+      "title": "Vakthold båre",
+      "img": "https://nrk-od-world-57.akamaized.net/open/ps/nnfa/nnfa19083026/088433a9-9.smil/thumb.jpg?t=1066&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1240,
+      "title": "Gjest: Kristi Marie Skrede",
+      "img": "https://nrk-od-world-57.akamaized.net/open/ps/nnfa/nnfa19083026/088433a9-9.smil/thumb.jpg?t=1265&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1398,
+      "title": "Kong Harald",
+      "img": "https://nrk-od-world-57.akamaized.net/open/ps/nnfa/nnfa19083026/088433a9-9.smil/thumb.jpg?t=1423&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1491,
+      "title": "Eliteserien",
+      "img": "https://nrk-od-world-57.akamaized.net/open/ps/nnfa/nnfa19083026/088433a9-9.smil/thumb.jpg?t=1517&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1713,
+      "title": "Knut Magnus",
+      "img": "https://nrk-od-world-57.akamaized.net/open/ps/nnfa/nnfa19083026/088433a9-9.smil/thumb.jpg?t=1738&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1720,
+      "title": "Dir: Slottsplassen",
+      "img": "https://nrk-od-world-57.akamaized.net/open/ps/nnfa/nnfa19083026/088433a9-9.smil/thumb.jpg?t=1745&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1728,
+      "title": "Idrettskongen",
+      "img": "https://nrk-od-world-57.akamaized.net/open/ps/nnfa/nnfa19083026/088433a9-9.smil/thumb.jpg?t=1753&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1794,
+      "title": "Dir: Slottsplassen",
+      "img": "https://nrk-od-world-57.akamaized.net/open/ps/nnfa/nnfa19083026/088433a9-9.smil/thumb.jpg?t=1820&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2377,
+      "title": "Kong Harald",
+      "img": "https://nrk-od-world-57.akamaized.net/open/ps/nnfa/nnfa19083026/088433a9-9.smil/thumb.jpg?t=2403&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2451,
+      "title": "Island og EU",
+      "img": "https://nrk-od-world-57.akamaized.net/open/ps/nnfa/nnfa19083026/088433a9-9.smil/thumb.jpg?t=2476&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2542,
+      "title": "Utenriksnyheter",
+      "img": "https://nrk-od-world-57.akamaized.net/open/ps/nnfa/nnfa19083026/088433a9-9.smil/thumb.jpg?t=2568&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2685,
+      "title": "Statsbesøk",
+      "img": "https://nrk-od-world-57.akamaized.net/open/ps/nnfa/nnfa19083026/088433a9-9.smil/thumb.jpg?t=2711&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2822,
+      "title": "Gjest: Ine Eriksen Søreide",
+      "img": "https://nrk-od-world-57.akamaized.net/open/ps/nnfa/nnfa19083026/088433a9-9.smil/thumb.jpg?t=2847&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3002,
+      "title": "Sørgegudstjeneste USA",
+      "img": "https://nrk-od-world-57.akamaized.net/open/ps/nnfa/nnfa19083026/088433a9-9.smil/thumb.jpg?t=3027&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3031,
+      "title": "Direkte: Minneapolis",
+      "img": "https://nrk-od-world-57.akamaized.net/open/ps/nnfa/nnfa19083026/088433a9-9.smil/thumb.jpg?t=3057&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3144,
+      "title": "Barnedåp Sørlandet",
+      "img": "https://nrk-od-world-57.akamaized.net/open/ps/nnfa/nnfa19083026/088433a9-9.smil/thumb.jpg?t=3169&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3261,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-57.akamaized.net/open/ps/nnfa/nnfa19083026/088433a9-9.smil/thumb.jpg?t=3287&scale=640x360&v=high"
+    }
+  ]
+}
