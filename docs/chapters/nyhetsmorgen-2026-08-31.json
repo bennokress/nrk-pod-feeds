@@ -1,0 +1,238 @@
+{
+  "version": "1.2.0",
+  "title": "Et nytt symbol for Norge",
+  "author": "NRK",
+  "podcastName": "Nyhetsmorgen",
+  "chapters": [
+    {
+      "startTime": 88,
+      "title": "Tronskiftet oppsummering",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa05083126/d5ec50c5-11.smil/thumb.jpg?t=114&scale=640x360&v=high"
+    },
+    {
+      "startTime": 398,
+      "title": "Båreseremoni",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa05083126/d5ec50c5-11.smil/thumb.jpg?t=423&scale=640x360&v=high"
+    },
+    {
+      "startTime": 551,
+      "title": "Island sier nei til EU",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa05083126/d5ec50c5-11.smil/thumb.jpg?t=577&scale=640x360&v=high"
+    },
+    {
+      "startTime": 655,
+      "title": "Siste nytt",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa05083126/d5ec50c5-11.smil/thumb.jpg?t=681&scale=640x360&v=high"
+    },
+    {
+      "startTime": 840,
+      "title": "Eliteserien om kongen",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa05083126/d5ec50c5-11.smil/thumb.jpg?t=865&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1004,
+      "title": "Overskrifter 06:45",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa05083126/d5ec50c5-11.smil/thumb.jpg?t=1029&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1058,
+      "title": "Savnede i Nepal etter flommen",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa05083126/d5ec50c5-11.smil/thumb.jpg?t=1084&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1180,
+      "title": "12-åring takkar Kongen",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa05083126/d5ec50c5-11.smil/thumb.jpg?t=1205&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1302,
+      "title": "Hvordan snakke med barna om kongens død?",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa05083126/d5ec50c5-11.smil/thumb.jpg?t=1327&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1458,
+      "title": "Tilbake til hverdagen etter sorgfull helg",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa05083126/d5ec50c5-11.smil/thumb.jpg?t=1483&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1621,
+      "title": "Folk legger ned blomster i Drammen",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa05083126/d5ec50c5-11.smil/thumb.jpg?t=1646&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1770,
+      "title": "Bibelen - ny sesong",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa05083126/d5ec50c5-11.smil/thumb.jpg?t=1796&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1805,
+      "title": "Åpning 07:00",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa05083126/d5ec50c5-11.smil/thumb.jpg?t=1830&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1858,
+      "title": "Hva skjer i dag?",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa05083126/d5ec50c5-11.smil/thumb.jpg?t=1884&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1936,
+      "title": "Æresvakt ved kongens båre",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa05083126/d5ec50c5-11.smil/thumb.jpg?t=1961&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2091,
+      "title": "Båresermoni og edsavleggelse",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa05083126/d5ec50c5-11.smil/thumb.jpg?t=2116&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2501,
+      "title": "Island sier nei til EU",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa05083126/d5ec50c5-11.smil/thumb.jpg?t=2526&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2761,
+      "title": "Før Politisk kvarter",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa05083126/d5ec50c5-11.smil/thumb.jpg?t=2787&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2823,
+      "title": "Slottsgartnerne tar vare på hilsner",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa05083126/d5ec50c5-11.smil/thumb.jpg?t=2848&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2875,
+      "title": "Tar vare på hilsner fra folket",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa05083126/d5ec50c5-11.smil/thumb.jpg?t=2900&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3238,
+      "title": "Kongesangen i Bodø domkirke",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa05083126/d5ec50c5-11.smil/thumb.jpg?t=3264&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3360,
+      "title": "Samlerkongen fra Drangedal",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa05083126/d5ec50c5-11.smil/thumb.jpg?t=3386&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3559,
+      "title": "Norges tøffeste - se nå i NRK TV",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa05083126/d5ec50c5-11.smil/thumb.jpg?t=3585&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3599,
+      "title": "Overskrifter 07:30",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa05083126/d5ec50c5-11.smil/thumb.jpg?t=3625&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3626,
+      "title": "Æresvakt ved kongens bå",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa05083126/d5ec50c5-11.smil/thumb.jpg?t=3652&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3749,
+      "title": "Tronskiftet fremover",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa05083126/d5ec50c5-11.smil/thumb.jpg?t=3774&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3951,
+      "title": "Nepal",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa05083126/d5ec50c5-11.smil/thumb.jpg?t=3976&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4036,
+      "title": "Island sier Nei til EU",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa05083126/d5ec50c5-11.smil/thumb.jpg?t=4061&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4209,
+      "title": "Ei nasjonal skrivekrise",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa05083126/d5ec50c5-11.smil/thumb.jpg?t=4235&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5396,
+      "title": "NRK Nyheter 08:00",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa05083126/d5ec50c5-11.smil/thumb.jpg?t=5421&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5580,
+      "title": "Åpning 08:03",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa05083126/d5ec50c5-11.smil/thumb.jpg?t=5605&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5660,
+      "title": "Edsavleggelse i Stortinget",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa05083126/d5ec50c5-11.smil/thumb.jpg?t=5685&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5925,
+      "title": "Hvordan snakke med barna om kongens død?",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa05083126/d5ec50c5-11.smil/thumb.jpg?t=5951&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6107,
+      "title": "Kongen hjalp voldsutsatte barn",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa05083126/d5ec50c5-11.smil/thumb.jpg?t=6133&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6382,
+      "title": "Angrep i Midtøsten i natt",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa05083126/d5ec50c5-11.smil/thumb.jpg?t=6408&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6582,
+      "title": "Videregående elever på Sørlandet",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa05083126/d5ec50c5-11.smil/thumb.jpg?t=6608&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6777,
+      "title": "Hva skjer i dagene fremover?",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa05083126/d5ec50c5-11.smil/thumb.jpg?t=6803&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7336,
+      "title": "Savnede i Nepal etter flommen",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa05083126/d5ec50c5-11.smil/thumb.jpg?t=7361&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7447,
+      "title": "Slottsplassen mandag morgen",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa05083126/d5ec50c5-11.smil/thumb.jpg?t=7472&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7566,
+      "title": "Tronskiftet oppsummering",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa05083126/d5ec50c5-11.smil/thumb.jpg?t=7591&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7861,
+      "title": "Skolehverdagen i Ålesund",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa05083126/d5ec50c5-11.smil/thumb.jpg?t=7886&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8171,
+      "title": "Kva skjer under gravferda?",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa05083126/d5ec50c5-11.smil/thumb.jpg?t=8197&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8298,
+      "title": "Reaksjoner i Tyskland på kongens død",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa05083126/d5ec50c5-11.smil/thumb.jpg?t=8324&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8478,
+      "title": "Dramatisk Spania Rundt",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa05083126/d5ec50c5-11.smil/thumb.jpg?t=8503&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8684,
+      "title": "Folk om den nye kongen",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa05083126/d5ec50c5-11.smil/thumb.jpg?t=8710&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8874,
+      "title": "GJEST Været i dag",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa05083126/d5ec50c5-11.smil/thumb.jpg?t=8899&scale=640x360&v=high"
+    }
+  ]
+}
