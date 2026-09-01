@@ -1,0 +1,188 @@
+{
+  "version": "1.2.0",
+  "title": "Beveget kongefamilie takket folket",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 9,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa19083126/70811b16-7.smil/thumb.jpg?t=35&scale=640x360&v=high"
+    },
+    {
+      "startTime": 21,
+      "title": "Kongen på Slottsplassen",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa19083126/70811b16-7.smil/thumb.jpg?t=46&scale=640x360&v=high"
+    },
+    {
+      "startTime": 111,
+      "title": "Båreseremoni",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa19083126/70811b16-7.smil/thumb.jpg?t=137&scale=640x360&v=high"
+    },
+    {
+      "startTime": 127,
+      "title": "Direkte: Båren",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa19083126/70811b16-7.smil/thumb.jpg?t=153&scale=640x360&v=high"
+    },
+    {
+      "startTime": 161,
+      "title": "Båreseremoni",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa19083126/70811b16-7.smil/thumb.jpg?t=186&scale=640x360&v=high"
+    },
+    {
+      "startTime": 325,
+      "title": "Gjest: Kristi Marie Skrede",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa19083126/70811b16-7.smil/thumb.jpg?t=350&scale=640x360&v=high"
+    },
+    {
+      "startTime": 438,
+      "title": "Fra vugge til grav",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa19083126/70811b16-7.smil/thumb.jpg?t=464&scale=640x360&v=high"
+    },
+    {
+      "startTime": 613,
+      "title": "Edsavleggelse",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa19083126/70811b16-7.smil/thumb.jpg?t=638&scale=640x360&v=high"
+    },
+    {
+      "startTime": 682,
+      "title": "Gjest: Gharahkhani",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa19083126/70811b16-7.smil/thumb.jpg?t=708&scale=640x360&v=high"
+    },
+    {
+      "startTime": 820,
+      "title": "Edsavleggelse",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa19083126/70811b16-7.smil/thumb.jpg?t=846&scale=640x360&v=high"
+    },
+    {
+      "startTime": 923,
+      "title": "Skolebarn",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa19083126/70811b16-7.smil/thumb.jpg?t=949&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1066,
+      "title": "Drivstoffavgift",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa19083126/70811b16-7.smil/thumb.jpg?t=1092&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1167,
+      "title": "Gjest: Håvard Nyhus",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa19083126/70811b16-7.smil/thumb.jpg?t=1192&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1287,
+      "title": "Island",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa19083126/70811b16-7.smil/thumb.jpg?t=1313&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1315,
+      "title": "Direkte Brussel",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa19083126/70811b16-7.smil/thumb.jpg?t=1341&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1423,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa19083126/70811b16-7.smil/thumb.jpg?t=1448&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1498,
+      "title": "Nepal",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa19083126/70811b16-7.smil/thumb.jpg?t=1523&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1613,
+      "title": "Utenriksnyheter",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa19083126/70811b16-7.smil/thumb.jpg?t=1639&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1708,
+      "title": "Sport",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa19083126/70811b16-7.smil/thumb.jpg?t=1734&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1846,
+      "title": "Minne",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa19083126/70811b16-7.smil/thumb.jpg?t=1871&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1883,
+      "title": "Kongefamilien",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa19083126/70811b16-7.smil/thumb.jpg?t=1909&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1966,
+      "title": "Kongens båre",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa19083126/70811b16-7.smil/thumb.jpg?t=1992&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1993,
+      "title": "Gjest: Kristi Marie Skrede",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa19083126/70811b16-7.smil/thumb.jpg?t=2018&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2017,
+      "title": "Kongens båre",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa19083126/70811b16-7.smil/thumb.jpg?t=2042&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2090,
+      "title": "Gjest: Kristi Marie Skrede",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa19083126/70811b16-7.smil/thumb.jpg?t=2115&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2276,
+      "title": "Slottsplassen",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa19083126/70811b16-7.smil/thumb.jpg?t=2302&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2285,
+      "title": "Sikkerhet begravelse",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa19083126/70811b16-7.smil/thumb.jpg?t=2311&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2391,
+      "title": "Direkte: Slottsplassen",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa19083126/70811b16-7.smil/thumb.jpg?t=2417&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2697,
+      "title": "Nytt om tronskifte",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa19083126/70811b16-7.smil/thumb.jpg?t=2723&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2811,
+      "title": "Sametinget og tronskifte",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa19083126/70811b16-7.smil/thumb.jpg?t=2836&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2891,
+      "title": "Direkte: Slottsplassen",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa19083126/70811b16-7.smil/thumb.jpg?t=2917&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3069,
+      "title": "Polarkongen",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa19083126/70811b16-7.smil/thumb.jpg?t=3094&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3180,
+      "title": "Askvoll",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa19083126/70811b16-7.smil/thumb.jpg?t=3205&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3302,
+      "title": "Direkte: Høylandet, Trøndelag",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa19083126/70811b16-7.smil/thumb.jpg?t=3328&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3415,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa19083126/70811b16-7.smil/thumb.jpg?t=3440&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3606,
+      "title": "Bårekrans",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa19083126/70811b16-7.smil/thumb.jpg?t=3631&scale=640x360&v=high"
+    }
+  ]
+}
