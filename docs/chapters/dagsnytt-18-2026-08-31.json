@@ -1,0 +1,53 @@
+{
+  "version": "1.2.0",
+  "title": "Hva betyr borgfred?",
+  "author": "NRK",
+  "podcastName": "Dagsnytt 18",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsnytt atten",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa56083126/c855d9fa-5.smil/thumb.jpg?t=25&scale=640x360&v=high"
+    },
+    {
+      "startTime": 58,
+      "title": "Båresermonien",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa56083126/c855d9fa-5.smil/thumb.jpg?t=83&scale=640x360&v=high"
+    },
+    {
+      "startTime": 952,
+      "title": "Edsavleggelse i Stortinget",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa56083126/c855d9fa-5.smil/thumb.jpg?t=977&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1261,
+      "title": "Folkeavstemning Island",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa56083126/c855d9fa-5.smil/thumb.jpg?t=1287&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1755,
+      "title": "Nepal",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa56083126/c855d9fa-5.smil/thumb.jpg?t=1780&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2176,
+      "title": "Hva betyr borgfred?",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa56083126/c855d9fa-5.smil/thumb.jpg?t=2202&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2623,
+      "title": "Haakon og Sonja framover",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa56083126/c855d9fa-5.smil/thumb.jpg?t=2648&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3516,
+      "title": "AVSLUTNING",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa56083126/c855d9fa-5.smil/thumb.jpg?t=3542&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3529,
+      "title": "SLUTTKJENNING",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa56083126/c855d9fa-5.smil/thumb.jpg?t=3543.76&scale=640x360&v=high"
+    }
+  ]
+}
