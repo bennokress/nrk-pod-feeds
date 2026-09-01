@@ -1,0 +1,48 @@
+{
+  "version": "1.2.0",
+  "title": "Kong Haralds båre i Slottskapellet",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa21083126/b8fc5d30-5.smil/thumb.jpg?t=25&scale=640x360&v=high"
+    },
+    {
+      "startTime": 29,
+      "title": "Kong Haralds båre plassert i Slottskapellet",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa21083126/b8fc5d30-5.smil/thumb.jpg?t=54&scale=640x360&v=high"
+    },
+    {
+      "startTime": 135,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa21083126/b8fc5d30-5.smil/thumb.jpg?t=160&scale=640x360&v=high"
+    },
+    {
+      "startTime": 253,
+      "title": "Nettpromo",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa21083126/b8fc5d30-5.smil/thumb.jpg?t=278&scale=640x360&v=high"
+    },
+    {
+      "startTime": 272,
+      "title": "DAGSREVYPAKKE",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa21083126/b8fc5d30-5.smil/thumb.jpg?t=297&scale=640x360&v=high"
+    },
+    {
+      "startTime": 401,
+      "title": "Skoleelever om Kongens død",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa21083126/b8fc5d30-5.smil/thumb.jpg?t=427&scale=640x360&v=high"
+    },
+    {
+      "startTime": 505,
+      "title": "Været",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa21083126/b8fc5d30-5.smil/thumb.jpg?t=531&scale=640x360&v=high"
+    },
+    {
+      "startTime": 565,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa21083126/b8fc5d30-5.smil/thumb.jpg?t=587.55&scale=640x360&v=high"
+    }
+  ]
+}
