@@ -1,0 +1,218 @@
+{
+  "version": "1.2.0",
+  "title": "Bukket for Stortinget",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 9,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa19090126/9d0cca0f-5.smil/thumb.jpg?t=34&scale=640x360&v=high"
+    },
+    {
+      "startTime": 73,
+      "title": "Edsavleggelse",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa19090126/9d0cca0f-5.smil/thumb.jpg?t=99&scale=640x360&v=high"
+    },
+    {
+      "startTime": 303,
+      "title": "Gjest: Trond Noren Isaksen",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa19090126/9d0cca0f-5.smil/thumb.jpg?t=328&scale=640x360&v=high"
+    },
+    {
+      "startTime": 369,
+      "title": "Politikere",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa19090126/9d0cca0f-5.smil/thumb.jpg?t=394&scale=640x360&v=high"
+    },
+    {
+      "startTime": 450,
+      "title": "Gjest: Trond Noren Isaksen",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa19090126/9d0cca0f-5.smil/thumb.jpg?t=476&scale=640x360&v=high"
+    },
+    {
+      "startTime": 523,
+      "title": "Ed kronprinsesse",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa19090126/9d0cca0f-5.smil/thumb.jpg?t=549&scale=640x360&v=high"
+    },
+    {
+      "startTime": 545,
+      "title": "Gjest: Trond Noren Isaksen",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa19090126/9d0cca0f-5.smil/thumb.jpg?t=570&scale=640x360&v=high"
+    },
+    {
+      "startTime": 608,
+      "title": "Mette Marit til observasjon",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa19090126/9d0cca0f-5.smil/thumb.jpg?t=633&scale=640x360&v=high"
+    },
+    {
+      "startTime": 753,
+      "title": "Gjest: Kristi Marie",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa19090126/9d0cca0f-5.smil/thumb.jpg?t=778&scale=640x360&v=high"
+    },
+    {
+      "startTime": 897,
+      "title": "Defilering",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa19090126/9d0cca0f-5.smil/thumb.jpg?t=922&scale=640x360&v=high"
+    },
+    {
+      "startTime": 948,
+      "title": "Direkte: Slottsplassen",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa19090126/9d0cca0f-5.smil/thumb.jpg?t=973&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1012,
+      "title": "Defilering",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa19090126/9d0cca0f-5.smil/thumb.jpg?t=1037&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1116,
+      "title": "Gjesteliste",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa19090126/9d0cca0f-5.smil/thumb.jpg?t=1142&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1146,
+      "title": "Direkte London",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa19090126/9d0cca0f-5.smil/thumb.jpg?t=1172&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1293,
+      "title": "Drivstoffavgift",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa19090126/9d0cca0f-5.smil/thumb.jpg?t=1319&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1405,
+      "title": "Svenske pumpepriser",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa19090126/9d0cca0f-5.smil/thumb.jpg?t=1430&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1479,
+      "title": "Nepal",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa19090126/9d0cca0f-5.smil/thumb.jpg?t=1504&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1601,
+      "title": "Krigen i Ukraina",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa19090126/9d0cca0f-5.smil/thumb.jpg?t=1626&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1719,
+      "title": "Direkte: Kyiv",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa19090126/9d0cca0f-5.smil/thumb.jpg?t=1744&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1802,
+      "title": "Droneangrep",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa19090126/9d0cca0f-5.smil/thumb.jpg?t=1827&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1827,
+      "title": "Arfan Bhatti",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa19090126/9d0cca0f-5.smil/thumb.jpg?t=1853&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1948,
+      "title": "Fare for togstreik",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa19090126/9d0cca0f-5.smil/thumb.jpg?t=1973&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1971,
+      "title": "Direkte: Oslo",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa19090126/9d0cca0f-5.smil/thumb.jpg?t=1996&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2058,
+      "title": "Norsk oscarkandidat",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa19090126/9d0cca0f-5.smil/thumb.jpg?t=2083&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2174,
+      "title": "Direkte Slottsplassen",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa19090126/9d0cca0f-5.smil/thumb.jpg?t=2200&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2206,
+      "title": "Marius Høiby",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa19090126/9d0cca0f-5.smil/thumb.jpg?t=2232&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2283,
+      "title": "Direkte Slottsplassen",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa19090126/9d0cca0f-5.smil/thumb.jpg?t=2309&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2433,
+      "title": "Begravelse sikkerhet",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa19090126/9d0cca0f-5.smil/thumb.jpg?t=2458&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2488,
+      "title": "Direkte Slottsplassen",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa19090126/9d0cca0f-5.smil/thumb.jpg?t=2513&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2660,
+      "title": "Oslo Runway",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa19090126/9d0cca0f-5.smil/thumb.jpg?t=2686&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2684,
+      "title": "Direkte Oslo",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa19090126/9d0cca0f-5.smil/thumb.jpg?t=2709&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2774,
+      "title": "Flagg på halv stang",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa19090126/9d0cca0f-5.smil/thumb.jpg?t=2800&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2868,
+      "title": "Trailer Debatten",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa19090126/9d0cca0f-5.smil/thumb.jpg?t=2893&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2894,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa19090126/9d0cca0f-5.smil/thumb.jpg?t=2919&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2899,
+      "title": "Brann kvalikk ml",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa19090126/9d0cca0f-5.smil/thumb.jpg?t=2925&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2925,
+      "title": "Fotballoverganger",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa19090126/9d0cca0f-5.smil/thumb.jpg?t=2950&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2946,
+      "title": "Friidrett",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa19090126/9d0cca0f-5.smil/thumb.jpg?t=2972&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2972,
+      "title": "Vuelta a España",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa19090126/9d0cca0f-5.smil/thumb.jpg?t=2997&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3006,
+      "title": "Brann kvalikk ml",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa19090126/9d0cca0f-5.smil/thumb.jpg?t=3031&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3093,
+      "title": "Kongen under OL",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa19090126/9d0cca0f-5.smil/thumb.jpg?t=3119&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3261,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa19090126/9d0cca0f-5.smil/thumb.jpg?t=3287&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3408,
+      "title": "Dagen i dag",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa19090126/9d0cca0f-5.smil/thumb.jpg?t=3434&scale=640x360&v=high"
+    }
+  ]
+}
