@@ -1,0 +1,268 @@
+{
+  "version": "1.2.0",
+  "title": "Ny måling: 7 av 10 vil ha monarki",
+  "author": "NRK",
+  "podcastName": "Nyhetsmorgen",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Åpning 06:30",
+      "img": "https://nrk-od-world-40.akamaized.net/open/ps/nnfa/nnfa05090126/a1872e1e-6.smil/thumb.jpg?t=25&scale=640x360&v=high"
+    },
+    {
+      "startTime": 67,
+      "title": "Monarki-måling",
+      "img": "https://nrk-od-world-40.akamaized.net/open/ps/nnfa/nnfa05090126/a1872e1e-6.smil/thumb.jpg?t=92&scale=640x360&v=high"
+    },
+    {
+      "startTime": 94,
+      "title": "Garden trener til edsavlegging",
+      "img": "https://nrk-od-world-40.akamaized.net/open/ps/nnfa/nnfa05090126/a1872e1e-6.smil/thumb.jpg?t=119&scale=640x360&v=high"
+    },
+    {
+      "startTime": 244,
+      "title": "Monarki-måling",
+      "img": "https://nrk-od-world-40.akamaized.net/open/ps/nnfa/nnfa05090126/a1872e1e-6.smil/thumb.jpg?t=269&scale=640x360&v=high"
+    },
+    {
+      "startTime": 319,
+      "title": "Edsavleggelse i Stortinget",
+      "img": "https://nrk-od-world-40.akamaized.net/open/ps/nnfa/nnfa05090126/a1872e1e-6.smil/thumb.jpg?t=344&scale=640x360&v=high"
+    },
+    {
+      "startTime": 395,
+      "title": "Siste nytt",
+      "img": "https://nrk-od-world-40.akamaized.net/open/ps/nnfa/nnfa05090126/a1872e1e-6.smil/thumb.jpg?t=421&scale=640x360&v=high"
+    },
+    {
+      "startTime": 529,
+      "title": "Nye reglar for hjortejakt",
+      "img": "https://nrk-od-world-40.akamaized.net/open/ps/nnfa/nnfa05090126/a1872e1e-6.smil/thumb.jpg?t=554&scale=640x360&v=high"
+    },
+    {
+      "startTime": 728,
+      "title": "Redningsarbeidet i Nepal",
+      "img": "https://nrk-od-world-40.akamaized.net/open/ps/nnfa/nnfa05090126/a1872e1e-6.smil/thumb.jpg?t=754&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1023,
+      "title": "Kjent skyldig i drapet på Tupac",
+      "img": "https://nrk-od-world-40.akamaized.net/open/ps/nnfa/nnfa05090126/a1872e1e-6.smil/thumb.jpg?t=1048&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1147,
+      "title": "Universitet i barnehage",
+      "img": "https://nrk-od-world-40.akamaized.net/open/ps/nnfa/nnfa05090126/a1872e1e-6.smil/thumb.jpg?t=1173&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1285,
+      "title": "Ikke nok attraktivt å bo på Svalbard",
+      "img": "https://nrk-od-world-40.akamaized.net/open/ps/nnfa/nnfa05090126/a1872e1e-6.smil/thumb.jpg?t=1310&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1547,
+      "title": "Ankesaken mot Bhatti",
+      "img": "https://nrk-od-world-40.akamaized.net/open/ps/nnfa/nnfa05090126/a1872e1e-6.smil/thumb.jpg?t=1573&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1818,
+      "title": "Åpning 07:00",
+      "img": "https://nrk-od-world-40.akamaized.net/open/ps/nnfa/nnfa05090126/a1872e1e-6.smil/thumb.jpg?t=1844&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1875,
+      "title": "Måling om monarkiet",
+      "img": "https://nrk-od-world-40.akamaized.net/open/ps/nnfa/nnfa05090126/a1872e1e-6.smil/thumb.jpg?t=1900&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2029,
+      "title": "Nehru Sand om monarkimåling",
+      "img": "https://nrk-od-world-40.akamaized.net/open/ps/nnfa/nnfa05090126/a1872e1e-6.smil/thumb.jpg?t=2054&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2245,
+      "title": "Drivstoffprisene øker",
+      "img": "https://nrk-od-world-40.akamaized.net/open/ps/nnfa/nnfa05090126/a1872e1e-6.smil/thumb.jpg?t=2271&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2588,
+      "title": "Avgiftsdebatt i Politisk kvarter",
+      "img": "https://nrk-od-world-40.akamaized.net/open/ps/nnfa/nnfa05090126/a1872e1e-6.smil/thumb.jpg?t=2614&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2634,
+      "title": "Overskrifter 07:15",
+      "img": "https://nrk-od-world-40.akamaized.net/open/ps/nnfa/nnfa05090126/a1872e1e-6.smil/thumb.jpg?t=2659&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2667,
+      "title": "Dramatiske dager i Kyiv",
+      "img": "https://nrk-od-world-40.akamaized.net/open/ps/nnfa/nnfa05090126/a1872e1e-6.smil/thumb.jpg?t=2693&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2908,
+      "title": "Siste fra Nepal",
+      "img": "https://nrk-od-world-40.akamaized.net/open/ps/nnfa/nnfa05090126/a1872e1e-6.smil/thumb.jpg?t=2933&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3125,
+      "title": "Edsavleggelse i Stortinget",
+      "img": "https://nrk-od-world-40.akamaized.net/open/ps/nnfa/nnfa05090126/a1872e1e-6.smil/thumb.jpg?t=3151&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3418,
+      "title": "OL-kongen",
+      "img": "https://nrk-od-world-40.akamaized.net/open/ps/nnfa/nnfa05090126/a1872e1e-6.smil/thumb.jpg?t=3444&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3601,
+      "title": "Overskrifter 07:30",
+      "img": "https://nrk-od-world-40.akamaized.net/open/ps/nnfa/nnfa05090126/a1872e1e-6.smil/thumb.jpg?t=3627&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3637,
+      "title": "Monarki-måling",
+      "img": "https://nrk-od-world-40.akamaized.net/open/ps/nnfa/nnfa05090126/a1872e1e-6.smil/thumb.jpg?t=3662&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3753,
+      "title": "Nehru Sand om monarkimåling",
+      "img": "https://nrk-od-world-40.akamaized.net/open/ps/nnfa/nnfa05090126/a1872e1e-6.smil/thumb.jpg?t=3779&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3820,
+      "title": "Drivstoffprisene øker",
+      "img": "https://nrk-od-world-40.akamaized.net/open/ps/nnfa/nnfa05090126/a1872e1e-6.smil/thumb.jpg?t=3845&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3955,
+      "title": "Nehru Sand om drivstoffpriser",
+      "img": "https://nrk-od-world-40.akamaized.net/open/ps/nnfa/nnfa05090126/a1872e1e-6.smil/thumb.jpg?t=3980&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4022,
+      "title": "Garden øver til edsavlegging",
+      "img": "https://nrk-od-world-40.akamaized.net/open/ps/nnfa/nnfa05090126/a1872e1e-6.smil/thumb.jpg?t=4048&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4086,
+      "title": "Ankesaken mot Bhatti",
+      "img": "https://nrk-od-world-40.akamaized.net/open/ps/nnfa/nnfa05090126/a1872e1e-6.smil/thumb.jpg?t=4111&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4199,
+      "title": "Åpning 07:40",
+      "img": "https://nrk-od-world-40.akamaized.net/open/ps/nnfa/nnfa05090126/a1872e1e-6.smil/thumb.jpg?t=4225&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4213,
+      "title": "Gruvedrift gir håp for lokale bedrifter",
+      "img": "https://nrk-od-world-40.akamaized.net/open/ps/nnfa/nnfa05090126/a1872e1e-6.smil/thumb.jpg?t=4238&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5400,
+      "title": "NRK Nyheter 08:00",
+      "img": "https://nrk-od-world-40.akamaized.net/open/ps/nnfa/nnfa05090126/a1872e1e-6.smil/thumb.jpg?t=5426&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5580,
+      "title": "Åpning 08:03",
+      "img": "https://nrk-od-world-40.akamaized.net/open/ps/nnfa/nnfa05090126/a1872e1e-6.smil/thumb.jpg?t=5606&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5667,
+      "title": "Måling om monarkiet",
+      "img": "https://nrk-od-world-40.akamaized.net/open/ps/nnfa/nnfa05090126/a1872e1e-6.smil/thumb.jpg?t=5692&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5815,
+      "title": "Den nye kongen",
+      "img": "https://nrk-od-world-40.akamaized.net/open/ps/nnfa/nnfa05090126/a1872e1e-6.smil/thumb.jpg?t=5841&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6210,
+      "title": "Folk om drivstoffpriser",
+      "img": "https://nrk-od-world-40.akamaized.net/open/ps/nnfa/nnfa05090126/a1872e1e-6.smil/thumb.jpg?t=6235&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6347,
+      "title": "Helt annen situasjon nå, ifølge Nehru Sand",
+      "img": "https://nrk-od-world-40.akamaized.net/open/ps/nnfa/nnfa05090126/a1872e1e-6.smil/thumb.jpg?t=6372&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6400,
+      "title": "Overskrifter 08:15",
+      "img": "https://nrk-od-world-40.akamaized.net/open/ps/nnfa/nnfa05090126/a1872e1e-6.smil/thumb.jpg?t=6426&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6441,
+      "title": "Droneangrep Leipzig",
+      "img": "https://nrk-od-world-40.akamaized.net/open/ps/nnfa/nnfa05090126/a1872e1e-6.smil/thumb.jpg?t=6466&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6647,
+      "title": "Fare for togstreik fra midnatt",
+      "img": "https://nrk-od-world-40.akamaized.net/open/ps/nnfa/nnfa05090126/a1872e1e-6.smil/thumb.jpg?t=6673&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6824,
+      "title": "Ankesaken mot Bhatti",
+      "img": "https://nrk-od-world-40.akamaized.net/open/ps/nnfa/nnfa05090126/a1872e1e-6.smil/thumb.jpg?t=6849&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7006,
+      "title": "Nye reglar for hjortejakt",
+      "img": "https://nrk-od-world-40.akamaized.net/open/ps/nnfa/nnfa05090126/a1872e1e-6.smil/thumb.jpg?t=7031&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7210,
+      "title": "Hør Ekko i NRK P2",
+      "img": "https://nrk-od-world-40.akamaized.net/open/ps/nnfa/nnfa05090126/a1872e1e-6.smil/thumb.jpg?t=7235&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7260,
+      "title": "Overskrifter 08:30",
+      "img": "https://nrk-od-world-40.akamaized.net/open/ps/nnfa/nnfa05090126/a1872e1e-6.smil/thumb.jpg?t=7285&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7272,
+      "title": "Åpning av Slottskapellet",
+      "img": "https://nrk-od-world-40.akamaized.net/open/ps/nnfa/nnfa05090126/a1872e1e-6.smil/thumb.jpg?t=7298&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7693,
+      "title": "Handler bensin i Sverige",
+      "img": "https://nrk-od-world-40.akamaized.net/open/ps/nnfa/nnfa05090126/a1872e1e-6.smil/thumb.jpg?t=7718&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7892,
+      "title": "Politisk kvarter drivstoffdebatt",
+      "img": "https://nrk-od-world-40.akamaized.net/open/ps/nnfa/nnfa05090126/a1872e1e-6.smil/thumb.jpg?t=7917&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8142,
+      "title": "Universitet i barnehage",
+      "img": "https://nrk-od-world-40.akamaized.net/open/ps/nnfa/nnfa05090126/a1872e1e-6.smil/thumb.jpg?t=8167&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8278,
+      "title": "Garden trener til edsavlegging",
+      "img": "https://nrk-od-world-40.akamaized.net/open/ps/nnfa/nnfa05090126/a1872e1e-6.smil/thumb.jpg?t=8303&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8451,
+      "title": "Kjent skyldig i drapet på Tupac",
+      "img": "https://nrk-od-world-40.akamaized.net/open/ps/nnfa/nnfa05090126/a1872e1e-6.smil/thumb.jpg?t=8476&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8583,
+      "title": "Ikke nok attraktivt å bo på Svalbard",
+      "img": "https://nrk-od-world-40.akamaized.net/open/ps/nnfa/nnfa05090126/a1872e1e-6.smil/thumb.jpg?t=8609&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8829,
+      "title": "GJEST Været i dag",
+      "img": "https://nrk-od-world-40.akamaized.net/open/ps/nnfa/nnfa05090126/a1872e1e-6.smil/thumb.jpg?t=8854&scale=640x360&v=high"
+    }
+  ]
+}
