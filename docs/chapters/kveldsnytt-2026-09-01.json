@@ -1,0 +1,58 @@
+{
+  "version": "1.2.0",
+  "title": "Kongen hentet dronningen på Rikshospitalet",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-05.akamaized.net/open/ps/nnfa/nnfa23090126/600ee583-7.smil/thumb.jpg?t=25&scale=640x360&v=high"
+    },
+    {
+      "startTime": 33,
+      "title": "Rikshospitalet",
+      "img": "https://nrk-od-world-05.akamaized.net/open/ps/nnfa/nnfa23090126/600ee583-7.smil/thumb.jpg?t=59&scale=640x360&v=high"
+    },
+    {
+      "startTime": 55,
+      "title": "Kong Haralds gravferd krevende for politiet",
+      "img": "https://nrk-od-world-05.akamaized.net/open/ps/nnfa/nnfa23090126/600ee583-7.smil/thumb.jpg?t=81&scale=640x360&v=high"
+    },
+    {
+      "startTime": 151,
+      "title": "USA og Iran",
+      "img": "https://nrk-od-world-05.akamaized.net/open/ps/nnfa/nnfa23090126/600ee583-7.smil/thumb.jpg?t=176&scale=640x360&v=high"
+    },
+    {
+      "startTime": 184,
+      "title": "Venezuela og USA",
+      "img": "https://nrk-od-world-05.akamaized.net/open/ps/nnfa/nnfa23090126/600ee583-7.smil/thumb.jpg?t=209&scale=640x360&v=high"
+    },
+    {
+      "startTime": 211,
+      "title": "Sukess med trainee-ordning på sjukehus",
+      "img": "https://nrk-od-world-05.akamaized.net/open/ps/nnfa/nnfa23090126/600ee583-7.smil/thumb.jpg?t=236&scale=640x360&v=high"
+    },
+    {
+      "startTime": 313,
+      "title": "Brann Mesterliga",
+      "img": "https://nrk-od-world-05.akamaized.net/open/ps/nnfa/nnfa23090126/600ee583-7.smil/thumb.jpg?t=338&scale=640x360&v=high"
+    },
+    {
+      "startTime": 411,
+      "title": "Før cupen",
+      "img": "https://nrk-od-world-05.akamaized.net/open/ps/nnfa/nnfa23090126/600ee583-7.smil/thumb.jpg?t=436&scale=640x360&v=high"
+    },
+    {
+      "startTime": 485,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-05.akamaized.net/open/ps/nnfa/nnfa23090126/600ee583-7.smil/thumb.jpg?t=510&scale=640x360&v=high"
+    },
+    {
+      "startTime": 543,
+      "title": "Dagen i dag",
+      "img": "https://nrk-od-world-05.akamaized.net/open/ps/nnfa/nnfa23090126/600ee583-7.smil/thumb.jpg?t=569&scale=640x360&v=high"
+    }
+  ]
+}
