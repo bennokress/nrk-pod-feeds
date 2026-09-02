@@ -1,0 +1,48 @@
+{
+  "version": "1.2.0",
+  "title": "Kan få mer fremtredende rolle",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa21090126/6a55f181-5.smil/thumb.jpg?t=25&scale=640x360&v=high"
+    },
+    {
+      "startTime": 24,
+      "title": "Ingrid Alexandra ed",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa21090126/6a55f181-5.smil/thumb.jpg?t=50&scale=640x360&v=high"
+    },
+    {
+      "startTime": 116,
+      "title": "Droneangrep",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa21090126/6a55f181-5.smil/thumb.jpg?t=142&scale=640x360&v=high"
+    },
+    {
+      "startTime": 162,
+      "title": "Fare for togstreik på Østlandet",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa21090126/6a55f181-5.smil/thumb.jpg?t=187&scale=640x360&v=high"
+    },
+    {
+      "startTime": 278,
+      "title": "Vil ha bedre økonomiske ordninger på Svalbard",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa21090126/6a55f181-5.smil/thumb.jpg?t=304&scale=640x360&v=high"
+    },
+    {
+      "startTime": 384,
+      "title": "Tronskifte",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa21090126/6a55f181-5.smil/thumb.jpg?t=409&scale=640x360&v=high"
+    },
+    {
+      "startTime": 481,
+      "title": "Været",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa21090126/6a55f181-5.smil/thumb.jpg?t=506&scale=640x360&v=high"
+    },
+    {
+      "startTime": 531,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa21090126/6a55f181-5.smil/thumb.jpg?t=550.64&scale=640x360&v=high"
+    }
+  ]
+}
