@@ -1,0 +1,53 @@
+{
+  "version": "1.2.0",
+  "title": "Kongen har avlagt ed i Stortinget",
+  "author": "NRK",
+  "podcastName": "Dagsnytt 18",
+  "chapters": [
+    {
+      "startTime": 1,
+      "title": "Dagsnytt atten",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa56090126/5028f365-5.smil/thumb.jpg?t=26&scale=640x360&v=high"
+    },
+    {
+      "startTime": 9,
+      "title": "Kong Haakon har avlagt ed",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa56090126/5028f365-5.smil/thumb.jpg?t=34&scale=640x360&v=high"
+    },
+    {
+      "startTime": 948,
+      "title": "Mediedekning av tronskiftet",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa56090126/5028f365-5.smil/thumb.jpg?t=974&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1454,
+      "title": "EU skjerper digitale krav",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa56090126/5028f365-5.smil/thumb.jpg?t=1480&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2065,
+      "title": "Kritiserer teateroppsetning",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa56090126/5028f365-5.smil/thumb.jpg?t=2090&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2533,
+      "title": "CIA i Moskva",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa56090126/5028f365-5.smil/thumb.jpg?t=2558&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3007,
+      "title": "NYT sin kongenekrolog",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa56090126/5028f365-5.smil/thumb.jpg?t=3032&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3525,
+      "title": "AVSLUTNING",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa56090126/5028f365-5.smil/thumb.jpg?t=3543.92&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3529,
+      "title": "SLUTTKJENNING",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa56090126/5028f365-5.smil/thumb.jpg?t=3543.92&scale=640x360&v=high"
+    }
+  ]
+}
