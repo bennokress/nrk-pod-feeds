@@ -1,0 +1,128 @@
+{
+  "version": "1.2.0",
+  "title": "Rykteflom før kongens død",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 9,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa19090226/8db7e04d-5.smil/thumb.jpg?t=35&scale=640x360&v=high"
+    },
+    {
+      "startTime": 83,
+      "title": "Borgfreden",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa19090226/8db7e04d-5.smil/thumb.jpg?t=108&scale=640x360&v=high"
+    },
+    {
+      "startTime": 182,
+      "title": "Gjest: Lars Nehru Sand",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa19090226/8db7e04d-5.smil/thumb.jpg?t=208&scale=640x360&v=high"
+    },
+    {
+      "startTime": 304,
+      "title": "Rykter OUS",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa19090226/8db7e04d-5.smil/thumb.jpg?t=329&scale=640x360&v=high"
+    },
+    {
+      "startTime": 399,
+      "title": "Økonomiske utsikter",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa19090226/8db7e04d-5.smil/thumb.jpg?t=425&scale=640x360&v=high"
+    },
+    {
+      "startTime": 599,
+      "title": "Gjest: Sindre Heyerdahl",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa19090226/8db7e04d-5.smil/thumb.jpg?t=625&scale=640x360&v=high"
+    },
+    {
+      "startTime": 720,
+      "title": "Høibys anke",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa19090226/8db7e04d-5.smil/thumb.jpg?t=745&scale=640x360&v=high"
+    },
+    {
+      "startTime": 823,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa19090226/8db7e04d-5.smil/thumb.jpg?t=848&scale=640x360&v=high"
+    },
+    {
+      "startTime": 960,
+      "title": "Tyskland",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa19090226/8db7e04d-5.smil/thumb.jpg?t=985&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1077,
+      "title": "Nepal",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa19090226/8db7e04d-5.smil/thumb.jpg?t=1103&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1189,
+      "title": "Gjest: Rune Engeset",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa19090226/8db7e04d-5.smil/thumb.jpg?t=1215&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1328,
+      "title": "Studentboliger",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa19090226/8db7e04d-5.smil/thumb.jpg?t=1353&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1437,
+      "title": "Nødvarsel",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa19090226/8db7e04d-5.smil/thumb.jpg?t=1462&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1568,
+      "title": "Gjesteliste begravelse",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa19090226/8db7e04d-5.smil/thumb.jpg?t=1593&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1606,
+      "title": "Direkte: Slottsplassen",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa19090226/8db7e04d-5.smil/thumb.jpg?t=1632&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1828,
+      "title": "Gardistene vokter Slottet",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa19090226/8db7e04d-5.smil/thumb.jpg?t=1853&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1907,
+      "title": "Kongens ord",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa19090226/8db7e04d-5.smil/thumb.jpg?t=1932&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2129,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa19090226/8db7e04d-5.smil/thumb.jpg?t=2155&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2136,
+      "title": "Botheim",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa19090226/8db7e04d-5.smil/thumb.jpg?t=2162&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2165,
+      "title": "Overganger",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa19090226/8db7e04d-5.smil/thumb.jpg?t=2190&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2244,
+      "title": "NM Cup",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa19090226/8db7e04d-5.smil/thumb.jpg?t=2270&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2297,
+      "title": "Warholm penger",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa19090226/8db7e04d-5.smil/thumb.jpg?t=2322&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2376,
+      "title": "Ishockey",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa19090226/8db7e04d-5.smil/thumb.jpg?t=2402&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2476,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa19090226/8db7e04d-5.smil/thumb.jpg?t=2501&scale=640x360&v=high"
+    }
+  ]
+}
