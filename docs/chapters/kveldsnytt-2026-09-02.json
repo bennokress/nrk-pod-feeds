@@ -1,0 +1,78 @@
+{
+  "version": "1.2.0",
+  "title": "Må vente reaksjoner",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 1,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa23090226/7ae4db36-6.smil/thumb.jpg?t=26&scale=640x360&v=high"
+    },
+    {
+      "startTime": 40,
+      "title": "Skipsbeslag",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa23090226/7ae4db36-6.smil/thumb.jpg?t=66&scale=640x360&v=high"
+    },
+    {
+      "startTime": 114,
+      "title": "Nepal",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa23090226/7ae4db36-6.smil/thumb.jpg?t=140&scale=640x360&v=high"
+    },
+    {
+      "startTime": 221,
+      "title": "Nepal-markering",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa23090226/7ae4db36-6.smil/thumb.jpg?t=247&scale=640x360&v=high"
+    },
+    {
+      "startTime": 268,
+      "title": "Ukraina",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa23090226/7ae4db36-6.smil/thumb.jpg?t=293&scale=640x360&v=high"
+    },
+    {
+      "startTime": 296,
+      "title": "Innenriks",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa23090226/7ae4db36-6.smil/thumb.jpg?t=322&scale=640x360&v=high"
+    },
+    {
+      "startTime": 409,
+      "title": "Nettpromo",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa23090226/7ae4db36-6.smil/thumb.jpg?t=434&scale=640x360&v=high"
+    },
+    {
+      "startTime": 423,
+      "title": "Mary om kongen",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa23090226/7ae4db36-6.smil/thumb.jpg?t=449&scale=640x360&v=high"
+    },
+    {
+      "startTime": 481,
+      "title": "Botheim klar",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa23090226/7ae4db36-6.smil/thumb.jpg?t=506&scale=640x360&v=high"
+    },
+    {
+      "startTime": 553,
+      "title": "NM Cup",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa23090226/7ae4db36-6.smil/thumb.jpg?t=578&scale=640x360&v=high"
+    },
+    {
+      "startTime": 632,
+      "title": "Tromsø-kjøp",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa23090226/7ae4db36-6.smil/thumb.jpg?t=657&scale=640x360&v=high"
+    },
+    {
+      "startTime": 707,
+      "title": "Europa Cup",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa23090226/7ae4db36-6.smil/thumb.jpg?t=733&scale=640x360&v=high"
+    },
+    {
+      "startTime": 768,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa23090226/7ae4db36-6.smil/thumb.jpg?t=794&scale=640x360&v=high"
+    },
+    {
+      "startTime": 821,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa23090226/7ae4db36-6.smil/thumb.jpg?t=839.6&scale=640x360&v=high"
+    }
+  ]
+}
