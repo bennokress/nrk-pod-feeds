@@ -1,0 +1,58 @@
+{
+  "version": "1.2.0",
+  "title": "Nye angrep mot Iran",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-67.akamaized.net/open/ps/nnfa/nnfa21090226/8e80a0d0-5.smil/thumb.jpg?t=25&scale=640x360&v=high"
+    },
+    {
+      "startTime": 29,
+      "title": "Skipsbeslag",
+      "img": "https://nrk-od-world-67.akamaized.net/open/ps/nnfa/nnfa21090226/8e80a0d0-5.smil/thumb.jpg?t=54&scale=640x360&v=high"
+    },
+    {
+      "startTime": 69,
+      "title": "Iran",
+      "img": "https://nrk-od-world-67.akamaized.net/open/ps/nnfa/nnfa21090226/8e80a0d0-5.smil/thumb.jpg?t=95&scale=640x360&v=high"
+    },
+    {
+      "startTime": 137,
+      "title": "Dataangrep",
+      "img": "https://nrk-od-world-67.akamaized.net/open/ps/nnfa/nnfa21090226/8e80a0d0-5.smil/thumb.jpg?t=163&scale=640x360&v=high"
+    },
+    {
+      "startTime": 175,
+      "title": "Løkken-drapet",
+      "img": "https://nrk-od-world-67.akamaized.net/open/ps/nnfa/nnfa21090226/8e80a0d0-5.smil/thumb.jpg?t=200&scale=640x360&v=high"
+    },
+    {
+      "startTime": 282,
+      "title": "DAGSREVYPAKKE",
+      "img": "https://nrk-od-world-67.akamaized.net/open/ps/nnfa/nnfa21090226/8e80a0d0-5.smil/thumb.jpg?t=308&scale=640x360&v=high"
+    },
+    {
+      "startTime": 382,
+      "title": "Nettpromo",
+      "img": "https://nrk-od-world-67.akamaized.net/open/ps/nnfa/nnfa21090226/8e80a0d0-5.smil/thumb.jpg?t=408&scale=640x360&v=high"
+    },
+    {
+      "startTime": 401,
+      "title": "God kornhøst på sørøslandet",
+      "img": "https://nrk-od-world-67.akamaized.net/open/ps/nnfa/nnfa21090226/8e80a0d0-5.smil/thumb.jpg?t=427&scale=640x360&v=high"
+    },
+    {
+      "startTime": 491,
+      "title": "Været",
+      "img": "https://nrk-od-world-67.akamaized.net/open/ps/nnfa/nnfa21090226/8e80a0d0-5.smil/thumb.jpg?t=517&scale=640x360&v=high"
+    },
+    {
+      "startTime": 536,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-67.akamaized.net/open/ps/nnfa/nnfa21090226/8e80a0d0-5.smil/thumb.jpg?t=557.44&scale=640x360&v=high"
+    }
+  ]
+}
