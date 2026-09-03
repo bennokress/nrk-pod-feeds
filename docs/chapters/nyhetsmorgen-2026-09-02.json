@@ -1,0 +1,258 @@
+{
+  "version": "1.2.0",
+  "title": "USA inngår oljeavtale med Venezuela",
+  "author": "NRK",
+  "podcastName": "Nyhetsmorgen",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Åpning 06:30",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa05090226/5e95bd3e-6.smil/thumb.jpg?t=25&scale=640x360&v=high"
+    },
+    {
+      "startTime": 94,
+      "title": "Vil ikke ha Høiby-anke",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa05090226/5e95bd3e-6.smil/thumb.jpg?t=119&scale=640x360&v=high"
+    },
+    {
+      "startTime": 150,
+      "title": "Mange besøkende i Slottskapellet",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa05090226/5e95bd3e-6.smil/thumb.jpg?t=176&scale=640x360&v=high"
+    },
+    {
+      "startTime": 324,
+      "title": "Siste nytt",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa05090226/5e95bd3e-6.smil/thumb.jpg?t=349&scale=640x360&v=high"
+    },
+    {
+      "startTime": 465,
+      "title": "Barn i Nepal hardt rammet",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa05090226/5e95bd3e-6.smil/thumb.jpg?t=490&scale=640x360&v=high"
+    },
+    {
+      "startTime": 787,
+      "title": "Stor begeistring for vandreteater",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa05090226/5e95bd3e-6.smil/thumb.jpg?t=812&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1025,
+      "title": "Overskrifter 06:45",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa05090226/5e95bd3e-6.smil/thumb.jpg?t=1051&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1071,
+      "title": "Aurskog-Finastadbru møter Lillestrøm i NM",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa05090226/5e95bd3e-6.smil/thumb.jpg?t=1097&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1245,
+      "title": "Norsk krigshelt utelatt i storfilm",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa05090226/5e95bd3e-6.smil/thumb.jpg?t=1271&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1458,
+      "title": "Reagerer på utbyggingen av Kløfta",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa05090226/5e95bd3e-6.smil/thumb.jpg?t=1484&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1632,
+      "title": "Vin i vinden i Vestfold",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa05090226/5e95bd3e-6.smil/thumb.jpg?t=1658&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1844,
+      "title": "Åpning 07:00",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa05090226/5e95bd3e-6.smil/thumb.jpg?t=1870&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2005,
+      "title": "Statsadvokaten vil ikkje ha Høiby-anke",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa05090226/5e95bd3e-6.smil/thumb.jpg?t=2030&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2098,
+      "title": "USAs oljeavtale med Venezuela",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa05090226/5e95bd3e-6.smil/thumb.jpg?t=2124&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2308,
+      "title": "Historisk oljeavtale",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa05090226/5e95bd3e-6.smil/thumb.jpg?t=2333&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2576,
+      "title": "Siste nytt om flommen i Nepal",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa05090226/5e95bd3e-6.smil/thumb.jpg?t=2601&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2754,
+      "title": "Før Politisk kvarter",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa05090226/5e95bd3e-6.smil/thumb.jpg?t=2780&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2852,
+      "title": "Mediene og kongehuset",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa05090226/5e95bd3e-6.smil/thumb.jpg?t=2877&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3380,
+      "title": "Kongevenn i Valdres",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa05090226/5e95bd3e-6.smil/thumb.jpg?t=3405&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3599,
+      "title": "Overskrifter 07:30",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa05090226/5e95bd3e-6.smil/thumb.jpg?t=3625&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3633,
+      "title": "Vil ikke ha Høiby-anke",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa05090226/5e95bd3e-6.smil/thumb.jpg?t=3659&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3742,
+      "title": "Det blir ikke togstreik",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa05090226/5e95bd3e-6.smil/thumb.jpg?t=3768&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3761,
+      "title": "Politikerne hedrer kong Harald",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa05090226/5e95bd3e-6.smil/thumb.jpg?t=3787&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3783,
+      "title": "Gjestelista til gravferden",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa05090226/5e95bd3e-6.smil/thumb.jpg?t=3808&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3810,
+      "title": "Mange døde i Nepal",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa05090226/5e95bd3e-6.smil/thumb.jpg?t=3835&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3911,
+      "title": "USAs oljeavtale med Venezuela",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa05090226/5e95bd3e-6.smil/thumb.jpg?t=3936&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4054,
+      "title": "Nye iranske angrep mot amerikanere",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa05090226/5e95bd3e-6.smil/thumb.jpg?t=4079&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4064,
+      "title": "Væpnet aksjon i Troms",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa05090226/5e95bd3e-6.smil/thumb.jpg?t=4090&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4082,
+      "title": "Norsk krigshelt utelatt i storfilm",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa05090226/5e95bd3e-6.smil/thumb.jpg?t=4108&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4200,
+      "title": "Åpning 07:40",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa05090226/5e95bd3e-6.smil/thumb.jpg?t=4225&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4214,
+      "title": "Frykt for elgbestanden",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa05090226/5e95bd3e-6.smil/thumb.jpg?t=4239&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5399,
+      "title": "NRK Nyheter 08:00",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa05090226/5e95bd3e-6.smil/thumb.jpg?t=5425&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5581,
+      "title": "Åpning 08:03",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa05090226/5e95bd3e-6.smil/thumb.jpg?t=5606&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5628,
+      "title": "Siste om flommen i Nepal",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa05090226/5e95bd3e-6.smil/thumb.jpg?t=5653&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5948,
+      "title": "Ble trøstet av kongen",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa05090226/5e95bd3e-6.smil/thumb.jpg?t=5973&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6572,
+      "title": "Politikere til Slottskapellet",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa05090226/5e95bd3e-6.smil/thumb.jpg?t=6598&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6686,
+      "title": "Overskrifter 08:15",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa05090226/5e95bd3e-6.smil/thumb.jpg?t=6712&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6721,
+      "title": "USAs oljeavtale med Venezuela",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa05090226/5e95bd3e-6.smil/thumb.jpg?t=6747&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6926,
+      "title": "Slik påvirker oljeavtalen markedet",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa05090226/5e95bd3e-6.smil/thumb.jpg?t=6952&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7150,
+      "title": "De kommende dronningene",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa05090226/5e95bd3e-6.smil/thumb.jpg?t=7176&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7320,
+      "title": "Hør Ekko i NRK P2",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa05090226/5e95bd3e-6.smil/thumb.jpg?t=7345&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7382,
+      "title": "Overskrifter 08:30",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa05090226/5e95bd3e-6.smil/thumb.jpg?t=7407&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7429,
+      "title": "Klimakonsekvenser i Nepal",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa05090226/5e95bd3e-6.smil/thumb.jpg?t=7454&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7684,
+      "title": "Statsadvokaten vil ikkje ha Høiby-anke",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa05090226/5e95bd3e-6.smil/thumb.jpg?t=7709&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7833,
+      "title": "Kommentator om Høiby",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa05090226/5e95bd3e-6.smil/thumb.jpg?t=7859&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8103,
+      "title": "Norsk krigshelt utelatt i storfilm",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa05090226/5e95bd3e-6.smil/thumb.jpg?t=8128&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8228,
+      "title": "Overskrifter 08:45",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa05090226/5e95bd3e-6.smil/thumb.jpg?t=8253&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8262,
+      "title": "Gjestelista til gravferden",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa05090226/5e95bd3e-6.smil/thumb.jpg?t=8288&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8380,
+      "title": "Kongens ord reddet henne",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa05090226/5e95bd3e-6.smil/thumb.jpg?t=8405&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8870,
+      "title": "GJEST Været i dag",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa05090226/5e95bd3e-6.smil/thumb.jpg?t=8895&scale=640x360&v=high"
+    }
+  ]
+}
