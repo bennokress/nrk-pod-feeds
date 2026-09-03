@@ -1,0 +1,53 @@
+{
+  "version": "1.2.0",
+  "title": "Ryktespredningen før kongens død",
+  "author": "NRK",
+  "podcastName": "Dagsnytt 18",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsnytt atten",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa56090226/0e0d8bf2-5.smil/thumb.jpg?t=25&scale=640x360&v=high"
+    },
+    {
+      "startTime": 77,
+      "title": "Ryktespredning Kong Haralds død",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa56090226/0e0d8bf2-5.smil/thumb.jpg?t=102&scale=640x360&v=high"
+    },
+    {
+      "startTime": 740,
+      "title": "Islands EU-nei",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa56090226/0e0d8bf2-5.smil/thumb.jpg?t=765&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1259,
+      "title": "Kunsten å være hovedstad",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa56090226/0e0d8bf2-5.smil/thumb.jpg?t=1285&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1689,
+      "title": "Gjester til gravferden",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa56090226/0e0d8bf2-5.smil/thumb.jpg?t=1715&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2211,
+      "title": "Møte om hybridangrep",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa56090226/0e0d8bf2-5.smil/thumb.jpg?t=2236&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2582,
+      "title": "OsloMet leser bok",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa56090226/0e0d8bf2-5.smil/thumb.jpg?t=2608&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3043,
+      "title": "Borgfreden",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa56090226/0e0d8bf2-5.smil/thumb.jpg?t=3069&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3529,
+      "title": "SLUTTKJENNING",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa56090226/0e0d8bf2-5.smil/thumb.jpg?t=3539.04&scale=640x360&v=high"
+    }
+  ]
+}
