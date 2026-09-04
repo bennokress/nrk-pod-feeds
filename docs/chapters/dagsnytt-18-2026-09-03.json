@@ -1,0 +1,53 @@
+{
+  "version": "1.2.0",
+  "title": "Russisk skip på Svalbard",
+  "author": "NRK",
+  "podcastName": "Dagsnytt 18",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsnytt atten",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa56090326/b1af55c4-7.smil/thumb.jpg?t=26&scale=640x360&v=high"
+    },
+    {
+      "startTime": 63,
+      "title": "Russisk skip på Svalbard",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa56090326/b1af55c4-7.smil/thumb.jpg?t=88&scale=640x360&v=high"
+    },
+    {
+      "startTime": 952,
+      "title": "Aschehoug solgt",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa56090326/b1af55c4-7.smil/thumb.jpg?t=977&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1664,
+      "title": "Bensinpriser og avgifter",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa56090326/b1af55c4-7.smil/thumb.jpg?t=1689&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2144,
+      "title": "Kritikk av Demo",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa56090326/b1af55c4-7.smil/thumb.jpg?t=2169&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2636,
+      "title": "Macron i Storbritannia",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa56090326/b1af55c4-7.smil/thumb.jpg?t=2662&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3133,
+      "title": "Makrell i mye tomat",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa56090326/b1af55c4-7.smil/thumb.jpg?t=3159&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3524,
+      "title": "AVSLUTNING",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa56090326/b1af55c4-7.smil/thumb.jpg?t=3544.04&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3530,
+      "title": "SLUTTKJENNING",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa56090326/b1af55c4-7.smil/thumb.jpg?t=3544.04&scale=640x360&v=high"
+    }
+  ]
+}
