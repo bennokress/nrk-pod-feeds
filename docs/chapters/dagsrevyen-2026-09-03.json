@@ -1,0 +1,138 @@
+{
+  "version": "1.2.0",
+  "title": "NRK avslører",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 10,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa19090326/8e1ea438-5.smil/thumb.jpg?t=36&scale=640x360&v=high"
+    },
+    {
+      "startTime": 64,
+      "title": "Ryktespredning",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa19090326/8e1ea438-5.smil/thumb.jpg?t=89&scale=640x360&v=high"
+    },
+    {
+      "startTime": 277,
+      "title": "Gjest Anine Kierulf",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa19090326/8e1ea438-5.smil/thumb.jpg?t=302&scale=640x360&v=high"
+    },
+    {
+      "startTime": 407,
+      "title": "Beslaglagt skip",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa19090326/8e1ea438-5.smil/thumb.jpg?t=432&scale=640x360&v=high"
+    },
+    {
+      "startTime": 583,
+      "title": "Gjest: Arild Moe, FNI",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa19090326/8e1ea438-5.smil/thumb.jpg?t=609&scale=640x360&v=high"
+    },
+    {
+      "startTime": 711,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa19090326/8e1ea438-5.smil/thumb.jpg?t=736&scale=640x360&v=high"
+    },
+    {
+      "startTime": 778,
+      "title": "Nepal",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa19090326/8e1ea438-5.smil/thumb.jpg?t=804&scale=640x360&v=high"
+    },
+    {
+      "startTime": 906,
+      "title": "Direkte Katmandu",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa19090326/8e1ea438-5.smil/thumb.jpg?t=931&scale=640x360&v=high"
+    },
+    {
+      "startTime": 917,
+      "title": "Utenriksnyheter",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa19090326/8e1ea438-5.smil/thumb.jpg?t=943&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1033,
+      "title": "Direkte Katmandu",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa19090326/8e1ea438-5.smil/thumb.jpg?t=1058&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1122,
+      "title": "Nominasjonsmøte",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa19090326/8e1ea438-5.smil/thumb.jpg?t=1148&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1173,
+      "title": "Direkte: Oslo",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa19090326/8e1ea438-5.smil/thumb.jpg?t=1199&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1307,
+      "title": "Gravferd Oslo",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa19090326/8e1ea438-5.smil/thumb.jpg?t=1333&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1349,
+      "title": "Militært storinnrykk",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa19090326/8e1ea438-5.smil/thumb.jpg?t=1375&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1467,
+      "title": "Direkte: Slottsplassen",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa19090326/8e1ea438-5.smil/thumb.jpg?t=1493&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1590,
+      "title": "Klokketårn",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa19090326/8e1ea438-5.smil/thumb.jpg?t=1615&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1716,
+      "title": "Aschehoug solgt",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa19090326/8e1ea438-5.smil/thumb.jpg?t=1742&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1875,
+      "title": "Gjest: Hobbelstad",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa19090326/8e1ea438-5.smil/thumb.jpg?t=1901&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1988,
+      "title": "Haaland-sveis",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa19090326/8e1ea438-5.smil/thumb.jpg?t=2013&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2099,
+      "title": "Trailer Debatten",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa19090326/8e1ea438-5.smil/thumb.jpg?t=2124&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2121,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa19090326/8e1ea438-5.smil/thumb.jpg?t=2147&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2129,
+      "title": "Uefa",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa19090326/8e1ea438-5.smil/thumb.jpg?t=2154&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2231,
+      "title": "Vålerenga",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa19090326/8e1ea438-5.smil/thumb.jpg?t=2257&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2323,
+      "title": "Ski VM",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa19090326/8e1ea438-5.smil/thumb.jpg?t=2348&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2381,
+      "title": "Sandvolley",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa19090326/8e1ea438-5.smil/thumb.jpg?t=2407&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2466,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa19090326/8e1ea438-5.smil/thumb.jpg?t=2491&scale=640x360&v=high"
+    }
+  ]
+}
