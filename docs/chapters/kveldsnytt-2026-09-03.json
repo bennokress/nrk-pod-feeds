@@ -1,0 +1,63 @@
+{
+  "version": "1.2.0",
+  "title": "Trosset partiledelsen",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-54.akamaized.net/open/ps/nnfa/nnfa23090326/6966ec69-7.smil/thumb.jpg?t=25&scale=640x360&v=high"
+    },
+    {
+      "startTime": 44,
+      "title": "Debatten",
+      "img": "https://nrk-od-world-54.akamaized.net/open/ps/nnfa/nnfa23090326/6966ec69-7.smil/thumb.jpg?t=70&scale=640x360&v=high"
+    },
+    {
+      "startTime": 166,
+      "title": "Boligprisene",
+      "img": "https://nrk-od-world-54.akamaized.net/open/ps/nnfa/nnfa23090326/6966ec69-7.smil/thumb.jpg?t=192&scale=640x360&v=high"
+    },
+    {
+      "startTime": 213,
+      "title": "Mdg nominasjonskamp",
+      "img": "https://nrk-od-world-54.akamaized.net/open/ps/nnfa/nnfa23090326/6966ec69-7.smil/thumb.jpg?t=239&scale=640x360&v=high"
+    },
+    {
+      "startTime": 311,
+      "title": "Iran",
+      "img": "https://nrk-od-world-54.akamaized.net/open/ps/nnfa/nnfa23090326/6966ec69-7.smil/thumb.jpg?t=336&scale=640x360&v=high"
+    },
+    {
+      "startTime": 376,
+      "title": "Kjøper seg fri fra sjåførrollen",
+      "img": "https://nrk-od-world-54.akamaized.net/open/ps/nnfa/nnfa23090326/6966ec69-7.smil/thumb.jpg?t=402&scale=640x360&v=high"
+    },
+    {
+      "startTime": 483,
+      "title": "Viking",
+      "img": "https://nrk-od-world-54.akamaized.net/open/ps/nnfa/nnfa23090326/6966ec69-7.smil/thumb.jpg?t=509&scale=640x360&v=high"
+    },
+    {
+      "startTime": 561,
+      "title": "Ingen nye fjes på Glimt-trening",
+      "img": "https://nrk-od-world-54.akamaized.net/open/ps/nnfa/nnfa23090326/6966ec69-7.smil/thumb.jpg?t=586&scale=640x360&v=high"
+    },
+    {
+      "startTime": 611,
+      "title": "Jakob Ingebrigtsen fremover",
+      "img": "https://nrk-od-world-54.akamaized.net/open/ps/nnfa/nnfa23090326/6966ec69-7.smil/thumb.jpg?t=637&scale=640x360&v=high"
+    },
+    {
+      "startTime": 692,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-54.akamaized.net/open/ps/nnfa/nnfa23090326/6966ec69-7.smil/thumb.jpg?t=717&scale=640x360&v=high"
+    },
+    {
+      "startTime": 758,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-54.akamaized.net/open/ps/nnfa/nnfa23090326/6966ec69-7.smil/thumb.jpg?t=777.64&scale=640x360&v=high"
+    }
+  ]
+}
