@@ -1,0 +1,113 @@
+{
+  "version": "1.2.0",
+  "title": "Rapporterer direkte fra Nepal",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 10,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa19090426/529fd7c9-5.smil/thumb.jpg?t=36&scale=640x360&v=high"
+    },
+    {
+      "startTime": 52,
+      "title": "Politiaksjon Dyrøy",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa19090426/529fd7c9-5.smil/thumb.jpg?t=77&scale=640x360&v=high"
+    },
+    {
+      "startTime": 151,
+      "title": "Direkte: Svalbard",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa19090426/529fd7c9-5.smil/thumb.jpg?t=177&scale=640x360&v=high"
+    },
+    {
+      "startTime": 225,
+      "title": "Skip i arrest",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa19090426/529fd7c9-5.smil/thumb.jpg?t=250&scale=640x360&v=high"
+    },
+    {
+      "startTime": 324,
+      "title": "Direkte: Svalbard",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa19090426/529fd7c9-5.smil/thumb.jpg?t=350&scale=640x360&v=high"
+    },
+    {
+      "startTime": 411,
+      "title": "Nepal",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa19090426/529fd7c9-5.smil/thumb.jpg?t=436&scale=640x360&v=high"
+    },
+    {
+      "startTime": 536,
+      "title": "Direkte: Nepal",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa19090426/529fd7c9-5.smil/thumb.jpg?t=562&scale=640x360&v=high"
+    },
+    {
+      "startTime": 643,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa19090426/529fd7c9-5.smil/thumb.jpg?t=669&scale=640x360&v=high"
+    },
+    {
+      "startTime": 695,
+      "title": "Sikkerhet gravferd",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa19090426/529fd7c9-5.smil/thumb.jpg?t=721&scale=640x360&v=high"
+    },
+    {
+      "startTime": 758,
+      "title": "Direkte: Slottsplassen",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa19090426/529fd7c9-5.smil/thumb.jpg?t=783&scale=640x360&v=high"
+    },
+    {
+      "startTime": 892,
+      "title": "Grensekontroll",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa19090426/529fd7c9-5.smil/thumb.jpg?t=917&scale=640x360&v=high"
+    },
+    {
+      "startTime": 956,
+      "title": "Regjeringen defilerte",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa19090426/529fd7c9-5.smil/thumb.jpg?t=981&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1045,
+      "title": "Utvider defileringen",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa19090426/529fd7c9-5.smil/thumb.jpg?t=1071&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1071,
+      "title": "Forsvarsuniformer",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa19090426/529fd7c9-5.smil/thumb.jpg?t=1097&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1188,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa19090426/529fd7c9-5.smil/thumb.jpg?t=1214&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1235,
+      "title": "Utenriksnyheter",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa19090426/529fd7c9-5.smil/thumb.jpg?t=1261&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1340,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa19090426/529fd7c9-5.smil/thumb.jpg?t=1366&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1344,
+      "title": "Sørgebånd i Brüssel",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa19090426/529fd7c9-5.smil/thumb.jpg?t=1370&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1427,
+      "title": "Krever svar",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa19090426/529fd7c9-5.smil/thumb.jpg?t=1452&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1456,
+      "title": "Sunde før cupfinale",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa19090426/529fd7c9-5.smil/thumb.jpg?t=1482&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1540,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa19090426/529fd7c9-5.smil/thumb.jpg?t=1566&scale=640x360&v=high"
+    }
+  ]
+}
