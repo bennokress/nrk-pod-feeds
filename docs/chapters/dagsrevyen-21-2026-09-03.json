@@ -1,0 +1,58 @@
+{
+  "version": "1.2.0",
+  "title": "Dyre nye boliger",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa21090326/1264974d-7.smil/thumb.jpg?t=25&scale=640x360&v=high"
+    },
+    {
+      "startTime": 33,
+      "title": "Boligprisene i Tromsø fortsetter å øke",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa21090326/1264974d-7.smil/thumb.jpg?t=59&scale=640x360&v=high"
+    },
+    {
+      "startTime": 144,
+      "title": "Ulykke E16",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa21090326/1264974d-7.smil/thumb.jpg?t=169&scale=640x360&v=high"
+    },
+    {
+      "startTime": 187,
+      "title": "MDG-nominasjon",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa21090326/1264974d-7.smil/thumb.jpg?t=213&scale=640x360&v=high"
+    },
+    {
+      "startTime": 216,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa21090326/1264974d-7.smil/thumb.jpg?t=242&scale=640x360&v=high"
+    },
+    {
+      "startTime": 325,
+      "title": "DAGSREVYPAKKE",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa21090326/1264974d-7.smil/thumb.jpg?t=350&scale=640x360&v=high"
+    },
+    {
+      "startTime": 401,
+      "title": "Nettpromo",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa21090326/1264974d-7.smil/thumb.jpg?t=427&scale=640x360&v=high"
+    },
+    {
+      "startTime": 418,
+      "title": "IMF kritiserer Norgespris",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa21090326/1264974d-7.smil/thumb.jpg?t=444&scale=640x360&v=high"
+    },
+    {
+      "startTime": 471,
+      "title": "Været",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa21090326/1264974d-7.smil/thumb.jpg?t=496&scale=640x360&v=high"
+    },
+    {
+      "startTime": 524,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa21090326/1264974d-7.smil/thumb.jpg?t=549&scale=640x360&v=high"
+    }
+  ]
+}
