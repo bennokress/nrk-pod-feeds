@@ -1,0 +1,63 @@
+{
+  "version": "1.2.0",
+  "title": "Historisk oppskyting",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa23090526/bbf5f84b-5.smil/thumb.jpg?t=25&scale=640x360&v=high"
+    },
+    {
+      "startTime": 38,
+      "title": "Andøya Space",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa23090526/bbf5f84b-5.smil/thumb.jpg?t=64&scale=640x360&v=high"
+    },
+    {
+      "startTime": 91,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa23090526/bbf5f84b-5.smil/thumb.jpg?t=117&scale=640x360&v=high"
+    },
+    {
+      "startTime": 221,
+      "title": "Slottskapellet kø",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa23090526/bbf5f84b-5.smil/thumb.jpg?t=246&scale=640x360&v=high"
+    },
+    {
+      "startTime": 252,
+      "title": "Natt i naturen",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa23090526/bbf5f84b-5.smil/thumb.jpg?t=277&scale=640x360&v=high"
+    },
+    {
+      "startTime": 363,
+      "title": "Ukraina møte Moskva",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa23090526/bbf5f84b-5.smil/thumb.jpg?t=388&scale=640x360&v=high"
+    },
+    {
+      "startTime": 472,
+      "title": "Diamond League",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa23090526/bbf5f84b-5.smil/thumb.jpg?t=498&scale=640x360&v=high"
+    },
+    {
+      "startTime": 551,
+      "title": "Hjertø-Dahl debut",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa23090526/bbf5f84b-5.smil/thumb.jpg?t=577&scale=640x360&v=high"
+    },
+    {
+      "startTime": 575,
+      "title": "Brann - LSK",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa23090526/bbf5f84b-5.smil/thumb.jpg?t=600&scale=640x360&v=high"
+    },
+    {
+      "startTime": 647,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa23090526/bbf5f84b-5.smil/thumb.jpg?t=673&scale=640x360&v=high"
+    },
+    {
+      "startTime": 741,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa23090526/bbf5f84b-5.smil/thumb.jpg?t=757&scale=640x360&v=high"
+    }
+  ]
+}
