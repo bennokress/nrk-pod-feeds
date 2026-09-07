@@ -1,0 +1,278 @@
+{
+  "version": "1.2.0",
+  "title": "Flere velger privatskole",
+  "author": "NRK",
+  "podcastName": "Nyhetsmorgen",
+  "chapters": [
+    {
+      "startTime": 1,
+      "title": "Åpning 06:30",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa05090426/c8187223-5.smil/thumb.jpg?t=26&scale=640x360&v=high"
+    },
+    {
+      "startTime": 63,
+      "title": "Flere søker seg til privatskoler",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa05090426/c8187223-5.smil/thumb.jpg?t=89&scale=640x360&v=high"
+    },
+    {
+      "startTime": 137,
+      "title": "Boligprisfall i Oslo",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa05090426/c8187223-5.smil/thumb.jpg?t=162&scale=640x360&v=high"
+    },
+    {
+      "startTime": 329,
+      "title": "Siste nytt",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa05090426/c8187223-5.smil/thumb.jpg?t=354&scale=640x360&v=high"
+    },
+    {
+      "startTime": 447,
+      "title": "Milei vil ha Falklandsøyene",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa05090426/c8187223-5.smil/thumb.jpg?t=472&scale=640x360&v=high"
+    },
+    {
+      "startTime": 624,
+      "title": "Dropper heller sex enn å be om hjelp",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa05090426/c8187223-5.smil/thumb.jpg?t=650&scale=640x360&v=high"
+    },
+    {
+      "startTime": 864,
+      "title": "Overskrifter 06:45",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa05090426/c8187223-5.smil/thumb.jpg?t=889&scale=640x360&v=high"
+    },
+    {
+      "startTime": 913,
+      "title": "Rapport fra Katmandu",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa05090426/c8187223-5.smil/thumb.jpg?t=938&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1051,
+      "title": "Debatten i går",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa05090426/c8187223-5.smil/thumb.jpg?t=1077&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1248,
+      "title": "Overgangsvindu og VM-effekt",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa05090426/c8187223-5.smil/thumb.jpg?t=1273&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1359,
+      "title": "VM-effekten",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa05090426/c8187223-5.smil/thumb.jpg?t=1384&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1521,
+      "title": "Overgangsvindu og VM-effekt",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa05090426/c8187223-5.smil/thumb.jpg?t=1546&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1538,
+      "title": "VM-effekten",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa05090426/c8187223-5.smil/thumb.jpg?t=1564&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1592,
+      "title": "Det hvite hus lanserer Maga-spill",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa05090426/c8187223-5.smil/thumb.jpg?t=1617&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1756,
+      "title": "Mesternes mester team: Se det nå",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa05090426/c8187223-5.smil/thumb.jpg?t=1782&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1786,
+      "title": "Åpning 07:00",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa05090426/c8187223-5.smil/thumb.jpg?t=1812&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1834,
+      "title": "Flere søker seg til privatskoler",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa05090426/c8187223-5.smil/thumb.jpg?t=1859&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2042,
+      "title": "Privatskoler",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa05090426/c8187223-5.smil/thumb.jpg?t=2068&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2229,
+      "title": "5 år med Taliban-styre i Afghanistan",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa05090426/c8187223-5.smil/thumb.jpg?t=2254&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2502,
+      "title": "Svensk valg i Politisk kvarter",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa05090426/c8187223-5.smil/thumb.jpg?t=2528&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2574,
+      "title": "Overskrifter 07:15",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa05090426/c8187223-5.smil/thumb.jpg?t=2600&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2623,
+      "title": "Anklager om desinformasjon om Ceuta",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa05090426/c8187223-5.smil/thumb.jpg?t=2648&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2861,
+      "title": "EU og Ceuta",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa05090426/c8187223-5.smil/thumb.jpg?t=2886&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3087,
+      "title": "Landesorg i Norge vs UK",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa05090426/c8187223-5.smil/thumb.jpg?t=3112&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3439,
+      "title": "Historisk cupfinale",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa05090426/c8187223-5.smil/thumb.jpg?t=3465&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3562,
+      "title": "Trailer Leseklubben Prosessen av Frans Kafka",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa05090426/c8187223-5.smil/thumb.jpg?t=3587&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3599,
+      "title": "Overskrifter 07:30",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa05090426/c8187223-5.smil/thumb.jpg?t=3625&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3633,
+      "title": "Flere søker seg til privatskoler",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa05090426/c8187223-5.smil/thumb.jpg?t=3658&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3747,
+      "title": "Boligprisfall i Oslo",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa05090426/c8187223-5.smil/thumb.jpg?t=3772&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3862,
+      "title": "Anklager om desinformasjon om Ceuta",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa05090426/c8187223-5.smil/thumb.jpg?t=3887&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3983,
+      "title": "To personer reddet levende ut i Nepal",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa05090426/c8187223-5.smil/thumb.jpg?t=4009&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4011,
+      "title": "Tekstillevering blir tekstilavfall",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa05090426/c8187223-5.smil/thumb.jpg?t=4037&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4113,
+      "title": "Går mot tilskuerrekord i cupfinalen",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa05090426/c8187223-5.smil/thumb.jpg?t=4139&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4200,
+      "title": "Åpning 07:40",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa05090426/c8187223-5.smil/thumb.jpg?t=4225&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4217,
+      "title": "Redning og opprydning i Nepal",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa05090426/c8187223-5.smil/thumb.jpg?t=4242&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5401,
+      "title": "NRK Nyheter 08:00",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa05090426/c8187223-5.smil/thumb.jpg?t=5426&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5581,
+      "title": "Åpning 08:03",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa05090426/c8187223-5.smil/thumb.jpg?t=5606&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5664,
+      "title": "Boligprisfall i Oslo",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa05090426/c8187223-5.smil/thumb.jpg?t=5690&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5769,
+      "title": "Anklager om desinformasjon om Ceuta",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa05090426/c8187223-5.smil/thumb.jpg?t=5795&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5898,
+      "title": "Migrasjon som pressmiddel",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa05090426/c8187223-5.smil/thumb.jpg?t=5924&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6153,
+      "title": "Eldre i arbeidslivet",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa05090426/c8187223-5.smil/thumb.jpg?t=6179&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6357,
+      "title": "Overskrifter 08:15",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa05090426/c8187223-5.smil/thumb.jpg?t=6383&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6402,
+      "title": "Det hvite hus lanserer Maga-spill",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa05090426/c8187223-5.smil/thumb.jpg?t=6428&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6633,
+      "title": "Fredagspanelet",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa05090426/c8187223-5.smil/thumb.jpg?t=6659&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7251,
+      "title": "Innføring av midlertidig grensekontroll",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa05090426/c8187223-5.smil/thumb.jpg?t=7276&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7468,
+      "title": "Flere søker seg til privatskoler",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa05090426/c8187223-5.smil/thumb.jpg?t=7493&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7637,
+      "title": "Rike familier flytter til samme nabolag",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa05090426/c8187223-5.smil/thumb.jpg?t=7663&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7746,
+      "title": "5 år med Taliban",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa05090426/c8187223-5.smil/thumb.jpg?t=7771&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8013,
+      "title": "Seriestart i England",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa05090426/c8187223-5.smil/thumb.jpg?t=8039&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8162,
+      "title": "Overskrifter 08:45",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa05090426/c8187223-5.smil/thumb.jpg?t=8187&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8210,
+      "title": "Økt spenning før valg i Sverige",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa05090426/c8187223-5.smil/thumb.jpg?t=8235&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8402,
+      "title": "Musikal-tid i Oslo",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa05090426/c8187223-5.smil/thumb.jpg?t=8428&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8625,
+      "title": "Ryddedugnad av giftig ugras",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa05090426/c8187223-5.smil/thumb.jpg?t=8650&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8855,
+      "title": "GJEST Været i dag",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa05090426/c8187223-5.smil/thumb.jpg?t=8881&scale=640x360&v=high"
+    }
+  ]
+}
