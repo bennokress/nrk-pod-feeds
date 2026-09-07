@@ -1,0 +1,53 @@
+{
+  "version": "1.2.0",
+  "title": "Mot stor valgseier",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa21090626/82fddce0-7.smil/thumb.jpg?t=25&scale=640x360&v=high"
+    },
+    {
+      "startTime": 37,
+      "title": "Tysk valg",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa21090626/82fddce0-7.smil/thumb.jpg?t=63&scale=640x360&v=high"
+    },
+    {
+      "startTime": 73,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa21090626/82fddce0-7.smil/thumb.jpg?t=98&scale=640x360&v=high"
+    },
+    {
+      "startTime": 187,
+      "title": "Oslo sentrum stenges for trafikk under kong Haralds gravferd",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa21090626/82fddce0-7.smil/thumb.jpg?t=213&scale=640x360&v=high"
+    },
+    {
+      "startTime": 320,
+      "title": "Dronning Margrethe er innlagt på sykehus - kommer ikke i begravelsen",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa21090626/82fddce0-7.smil/thumb.jpg?t=346&scale=640x360&v=high"
+    },
+    {
+      "startTime": 337,
+      "title": "Valg Sverige",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa21090626/82fddce0-7.smil/thumb.jpg?t=363&scale=640x360&v=high"
+    },
+    {
+      "startTime": 363,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa21090626/82fddce0-7.smil/thumb.jpg?t=388&scale=640x360&v=high"
+    },
+    {
+      "startTime": 501,
+      "title": "Været",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa21090626/82fddce0-7.smil/thumb.jpg?t=527&scale=640x360&v=high"
+    },
+    {
+      "startTime": 552,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa21090626/82fddce0-7.smil/thumb.jpg?t=572.67&scale=640x360&v=high"
+    }
+  ]
+}
