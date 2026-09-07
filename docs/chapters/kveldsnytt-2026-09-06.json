@@ -1,0 +1,88 @@
+{
+  "version": "1.2.0",
+  "title": "Ønskemål: Fred",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-26.akamaized.net/open/ps/nnfa/nnfa23090626/b473a030-5.smil/thumb.jpg?t=25&scale=640x360&v=high"
+    },
+    {
+      "startTime": 38,
+      "title": "Ukraina fredssamtaler",
+      "img": "https://nrk-od-world-26.akamaized.net/open/ps/nnfa/nnfa23090626/b473a030-5.smil/thumb.jpg?t=64&scale=640x360&v=high"
+    },
+    {
+      "startTime": 47,
+      "title": "Gjest:",
+      "img": "https://nrk-od-world-26.akamaized.net/open/ps/nnfa/nnfa23090626/b473a030-5.smil/thumb.jpg?t=72&scale=640x360&v=high"
+    },
+    {
+      "startTime": 167,
+      "title": "Sikkerhet og gravferd",
+      "img": "https://nrk-od-world-26.akamaized.net/open/ps/nnfa/nnfa23090626/b473a030-5.smil/thumb.jpg?t=193&scale=640x360&v=high"
+    },
+    {
+      "startTime": 220,
+      "title": "Dronning Margrethe er innlagt på sykehus - kommer ikke i begravelsen",
+      "img": "https://nrk-od-world-26.akamaized.net/open/ps/nnfa/nnfa23090626/b473a030-5.smil/thumb.jpg?t=245&scale=640x360&v=high"
+    },
+    {
+      "startTime": 255,
+      "title": "Gravferd",
+      "img": "https://nrk-od-world-26.akamaized.net/open/ps/nnfa/nnfa23090626/b473a030-5.smil/thumb.jpg?t=280&scale=640x360&v=high"
+    },
+    {
+      "startTime": 267,
+      "title": "Isar raketter",
+      "img": "https://nrk-od-world-26.akamaized.net/open/ps/nnfa/nnfa23090626/b473a030-5.smil/thumb.jpg?t=293&scale=640x360&v=high"
+    },
+    {
+      "startTime": 304,
+      "title": "Miami fly",
+      "img": "https://nrk-od-world-26.akamaized.net/open/ps/nnfa/nnfa23090626/b473a030-5.smil/thumb.jpg?t=330&scale=640x360&v=high"
+    },
+    {
+      "startTime": 342,
+      "title": "Tysk valg",
+      "img": "https://nrk-od-world-26.akamaized.net/open/ps/nnfa/nnfa23090626/b473a030-5.smil/thumb.jpg?t=368&scale=640x360&v=high"
+    },
+    {
+      "startTime": 381,
+      "title": "Filmen \"En nasjon i sjakk\" fikk bistand fra politiets beredskapstropp før innspilling",
+      "img": "https://nrk-od-world-26.akamaized.net/open/ps/nnfa/nnfa23090626/b473a030-5.smil/thumb.jpg?t=406&scale=640x360&v=high"
+    },
+    {
+      "startTime": 487,
+      "title": "KBK-TIL",
+      "img": "https://nrk-od-world-26.akamaized.net/open/ps/nnfa/nnfa23090626/b473a030-5.smil/thumb.jpg?t=513&scale=640x360&v=high"
+    },
+    {
+      "startTime": 561,
+      "title": "Infantino gjenvalg",
+      "img": "https://nrk-od-world-26.akamaized.net/open/ps/nnfa/nnfa23090626/b473a030-5.smil/thumb.jpg?t=587&scale=640x360&v=high"
+    },
+    {
+      "startTime": 587,
+      "title": "Dramatikk i Italia Grand Prix",
+      "img": "https://nrk-od-world-26.akamaized.net/open/ps/nnfa/nnfa23090626/b473a030-5.smil/thumb.jpg?t=613&scale=640x360&v=high"
+    },
+    {
+      "startTime": 641,
+      "title": "Indycar",
+      "img": "https://nrk-od-world-26.akamaized.net/open/ps/nnfa/nnfa23090626/b473a030-5.smil/thumb.jpg?t=667&scale=640x360&v=high"
+    },
+    {
+      "startTime": 707,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-26.akamaized.net/open/ps/nnfa/nnfa23090626/b473a030-5.smil/thumb.jpg?t=733&scale=640x360&v=high"
+    },
+    {
+      "startTime": 768,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-26.akamaized.net/open/ps/nnfa/nnfa23090626/b473a030-5.smil/thumb.jpg?t=787.55&scale=640x360&v=high"
+    }
+  ]
+}
