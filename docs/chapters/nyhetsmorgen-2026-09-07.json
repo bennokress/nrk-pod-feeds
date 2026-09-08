@@ -1,0 +1,268 @@
+{
+  "version": "1.2.0",
+  "title": "Håp om at forhandlinger kan komme i gang",
+  "author": "NRK",
+  "podcastName": "Nyhetsmorgen",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Åpning 06:30",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa05090726/da8e49f0-7.smil/thumb.jpg?t=25&scale=640x360&v=high"
+    },
+    {
+      "startTime": 80,
+      "title": "Oslo Børs i verdenstoppen",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa05090726/da8e49f0-7.smil/thumb.jpg?t=105&scale=640x360&v=high"
+    },
+    {
+      "startTime": 224,
+      "title": "Turister avbestiller Nepal-reiser",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa05090726/da8e49f0-7.smil/thumb.jpg?t=250&scale=640x360&v=high"
+    },
+    {
+      "startTime": 445,
+      "title": "Siste nytt",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa05090726/da8e49f0-7.smil/thumb.jpg?t=471&scale=640x360&v=high"
+    },
+    {
+      "startTime": 563,
+      "title": "Forhandlinger i Ukaina",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa05090726/da8e49f0-7.smil/thumb.jpg?t=588&scale=640x360&v=high"
+    },
+    {
+      "startTime": 742,
+      "title": "Ber om tiltak for boligbygging",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa05090726/da8e49f0-7.smil/thumb.jpg?t=767&scale=640x360&v=high"
+    },
+    {
+      "startTime": 917,
+      "title": "Overskrifter 06:45",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa05090726/da8e49f0-7.smil/thumb.jpg?t=943&scale=640x360&v=high"
+    },
+    {
+      "startTime": 966,
+      "title": "Utforsykling og hverdagsliv",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa05090726/da8e49f0-7.smil/thumb.jpg?t=991&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1121,
+      "title": "– God nok for landslaget",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa05090726/da8e49f0-7.smil/thumb.jpg?t=1146&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1260,
+      "title": "KI-modeller ute av kontroll",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa05090726/da8e49f0-7.smil/thumb.jpg?t=1286&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1520,
+      "title": "CO2-avgift truer Egersund",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa05090726/da8e49f0-7.smil/thumb.jpg?t=1545&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1791,
+      "title": "Trailer - Mesternes mester team",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa05090726/da8e49f0-7.smil/thumb.jpg?t=1816&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1822,
+      "title": "Åpning 07:00",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa05090726/da8e49f0-7.smil/thumb.jpg?t=1848&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1891,
+      "title": "Samtaler mellom USA-Ukraina-Russland",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa05090726/da8e49f0-7.smil/thumb.jpg?t=1916&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2295,
+      "title": "Tidenes sterkeste El Niño på vei",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa05090726/da8e49f0-7.smil/thumb.jpg?t=2321&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2521,
+      "title": "Om barnevern i Politisk kvarter",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa05090726/da8e49f0-7.smil/thumb.jpg?t=2547&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2597,
+      "title": "Sikkerhetsiltak i kong Haralds gravferd",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa05090726/da8e49f0-7.smil/thumb.jpg?t=2622&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2820,
+      "title": "Oslo forbereder seg på gravferd",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa05090726/da8e49f0-7.smil/thumb.jpg?t=2845&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3090,
+      "title": "AfD-seier, uten parlamentarisk flertall",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa05090726/da8e49f0-7.smil/thumb.jpg?t=3115&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3366,
+      "title": "Historisk oppskyting fra Andøya",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa05090726/da8e49f0-7.smil/thumb.jpg?t=3391&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3544,
+      "title": "Trailer TYRANN GADDAFI",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa05090726/da8e49f0-7.smil/thumb.jpg?t=3570&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3601,
+      "title": "Overskrifter 07:30",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa05090726/da8e49f0-7.smil/thumb.jpg?t=3627&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3636,
+      "title": "Samtaler USA-Ukraina-Russland",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa05090726/da8e49f0-7.smil/thumb.jpg?t=3661&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3754,
+      "title": "AfD med storseier i Sachsen-Anhalt",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa05090726/da8e49f0-7.smil/thumb.jpg?t=3779&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3791,
+      "title": "Oslo Børs i verdenstoppen",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa05090726/da8e49f0-7.smil/thumb.jpg?t=3816&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3899,
+      "title": "Tidenes sterkeste El Niño på vei",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa05090726/da8e49f0-7.smil/thumb.jpg?t=3924&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4033,
+      "title": "Sikkerhetsiltak gravferd",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa05090726/da8e49f0-7.smil/thumb.jpg?t=4058&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4091,
+      "title": "CO2-avgift truer Egersund",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa05090726/da8e49f0-7.smil/thumb.jpg?t=4116&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4199,
+      "title": "Åpning 07:40",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa05090726/da8e49f0-7.smil/thumb.jpg?t=4224&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4215,
+      "title": "Beredskap i barnehager",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa05090726/da8e49f0-7.smil/thumb.jpg?t=4240&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5400,
+      "title": "NRK Nyheter 08:00",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa05090726/da8e49f0-7.smil/thumb.jpg?t=5425&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5579,
+      "title": "Åpning 08:03",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa05090726/da8e49f0-7.smil/thumb.jpg?t=5605&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5656,
+      "title": "Oslo Børs i verdenstoppen",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa05090726/da8e49f0-7.smil/thumb.jpg?t=5681&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5767,
+      "title": "Turister avbestiller Nepal-reiser",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa05090726/da8e49f0-7.smil/thumb.jpg?t=5793&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5948,
+      "title": "Nepaler bosatt i Norge",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa05090726/da8e49f0-7.smil/thumb.jpg?t=5973&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6185,
+      "title": "Ber om tiltak for boligbygging",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa05090726/da8e49f0-7.smil/thumb.jpg?t=6211&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6274,
+      "title": "Overskrifter 08:15",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa05090726/da8e49f0-7.smil/thumb.jpg?t=6299&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6311,
+      "title": "Iran kan bli mer offensive i krigen mot USA",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa05090726/da8e49f0-7.smil/thumb.jpg?t=6337&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6469,
+      "title": "Press mot Iran",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa05090726/da8e49f0-7.smil/thumb.jpg?t=6495&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6602,
+      "title": "Mandagspanelet",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa05090726/da8e49f0-7.smil/thumb.jpg?t=6627&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7158,
+      "title": "Hør Ekko i NRK P2",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa05090726/da8e49f0-7.smil/thumb.jpg?t=7183&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7214,
+      "title": "Overskrifter 08:30",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa05090726/da8e49f0-7.smil/thumb.jpg?t=7240&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7276,
+      "title": "Tidenes sterkeste El Niño på vei",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa05090726/da8e49f0-7.smil/thumb.jpg?t=7301&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7423,
+      "title": "AfD vant delstatsvalg - hva skjer nå?",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa05090726/da8e49f0-7.smil/thumb.jpg?t=7448&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7671,
+      "title": "Status Høiby-saken",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa05090726/da8e49f0-7.smil/thumb.jpg?t=7696&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7949,
+      "title": "Nordmann i NHL",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa05090726/da8e49f0-7.smil/thumb.jpg?t=7974&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8082,
+      "title": "Overskrifter 08:45",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa05090726/da8e49f0-7.smil/thumb.jpg?t=8108&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8128,
+      "title": "Forhandlinger i Ukraina",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa05090726/da8e49f0-7.smil/thumb.jpg?t=8153&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8314,
+      "title": "Sikkerhetsiltak i kong Haralds gravferd",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa05090726/da8e49f0-7.smil/thumb.jpg?t=8340&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8544,
+      "title": "Historisk oppskyting fra Andøya",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa05090726/da8e49f0-7.smil/thumb.jpg?t=8570&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8675,
+      "title": "CO2-avgift truer Egersund",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa05090726/da8e49f0-7.smil/thumb.jpg?t=8700&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8860,
+      "title": "GJEST Været i dag",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa05090726/da8e49f0-7.smil/thumb.jpg?t=8885&scale=640x360&v=high"
+    }
+  ]
+}
