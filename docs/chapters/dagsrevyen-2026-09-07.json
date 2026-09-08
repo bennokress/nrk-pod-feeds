@@ -1,0 +1,138 @@
+{
+  "version": "1.2.0",
+  "title": "Vil granske valget",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 10,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa19090726/7ac29fc8-8.smil/thumb.jpg?t=35&scale=640x360&v=high"
+    },
+    {
+      "startTime": 67,
+      "title": "Parkinson",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa19090726/7ac29fc8-8.smil/thumb.jpg?t=93&scale=640x360&v=high"
+    },
+    {
+      "startTime": 225,
+      "title": "Gjest: Parkinsonforbundet",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa19090726/7ac29fc8-8.smil/thumb.jpg?t=250&scale=640x360&v=high"
+    },
+    {
+      "startTime": 324,
+      "title": "Delstatsvalg Tyskland",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa19090726/7ac29fc8-8.smil/thumb.jpg?t=349&scale=640x360&v=high"
+    },
+    {
+      "startTime": 471,
+      "title": "Direkte: Berlin",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa19090726/7ac29fc8-8.smil/thumb.jpg?t=497&scale=640x360&v=high"
+    },
+    {
+      "startTime": 580,
+      "title": "Direkte: Brussel",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa19090726/7ac29fc8-8.smil/thumb.jpg?t=606&scale=640x360&v=high"
+    },
+    {
+      "startTime": 656,
+      "title": "Brannen i Krokstadelva",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa19090726/7ac29fc8-8.smil/thumb.jpg?t=682&scale=640x360&v=high"
+    },
+    {
+      "startTime": 754,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa19090726/7ac29fc8-8.smil/thumb.jpg?t=779&scale=640x360&v=high"
+    },
+    {
+      "startTime": 828,
+      "title": "Ny partimåling",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa19090726/7ac29fc8-8.smil/thumb.jpg?t=854&scale=640x360&v=high"
+    },
+    {
+      "startTime": 896,
+      "title": "Gjest om partimåling",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa19090726/7ac29fc8-8.smil/thumb.jpg?t=922&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1022,
+      "title": "Utenriksnyheter",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa19090726/7ac29fc8-8.smil/thumb.jpg?t=1048&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1121,
+      "title": "Nepals turistindustri",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa19090726/7ac29fc8-8.smil/thumb.jpg?t=1146&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1252,
+      "title": "Direkte fra Nepal",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa19090726/7ac29fc8-8.smil/thumb.jpg?t=1277&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1361,
+      "title": "El Niño",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa19090726/7ac29fc8-8.smil/thumb.jpg?t=1386&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1548,
+      "title": "Direkte: Slottsplassen",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa19090726/7ac29fc8-8.smil/thumb.jpg?t=1574&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1573,
+      "title": "Tjente tre konger",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa19090726/7ac29fc8-8.smil/thumb.jpg?t=1598&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1752,
+      "title": "Direkte: Slottsplassen",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa19090726/7ac29fc8-8.smil/thumb.jpg?t=1778&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1956,
+      "title": "TRAILER GRAVFERD",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa19090726/7ac29fc8-8.smil/thumb.jpg?t=1981&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1985,
+      "title": "Karskbrennevin",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa19090726/7ac29fc8-8.smil/thumb.jpg?t=2010&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2093,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa19090726/7ac29fc8-8.smil/thumb.jpg?t=2119&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2098,
+      "title": "Ullevålseter",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa19090726/7ac29fc8-8.smil/thumb.jpg?t=2124&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2204,
+      "title": "Viking landing",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa19090726/7ac29fc8-8.smil/thumb.jpg?t=2229&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2247,
+      "title": "Solbakken om Sørloth",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa19090726/7ac29fc8-8.smil/thumb.jpg?t=2273&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2291,
+      "title": "Sparta konk",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa19090726/7ac29fc8-8.smil/thumb.jpg?t=2316&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2316,
+      "title": "Bakke Olsen",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa19090726/7ac29fc8-8.smil/thumb.jpg?t=2341&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2416,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa19090726/7ac29fc8-8.smil/thumb.jpg?t=2442&scale=640x360&v=high"
+    }
+  ]
+}
