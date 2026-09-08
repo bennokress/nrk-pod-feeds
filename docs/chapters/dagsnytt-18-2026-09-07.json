@@ -1,0 +1,83 @@
+{
+  "version": "1.2.0",
+  "title": "AfD vant delstatsvalget i Sachsen-Anhalt",
+  "author": "NRK",
+  "podcastName": "Dagsnytt 18",
+  "chapters": [
+    {
+      "startTime": 1,
+      "title": "Dagsnytt atten",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa56090726/4108a448-6.smil/thumb.jpg?t=27&scale=640x360&v=high"
+    },
+    {
+      "startTime": 69,
+      "title": "Ny meningsmåling",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa56090726/4108a448-6.smil/thumb.jpg?t=94&scale=640x360&v=high"
+    },
+    {
+      "startTime": 635,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa56090726/4108a448-6.smil/thumb.jpg?t=661&scale=640x360&v=high"
+    },
+    {
+      "startTime": 650,
+      "title": "Fredssamtaler om Ukraina",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa56090726/4108a448-6.smil/thumb.jpg?t=675&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1318,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa56090726/4108a448-6.smil/thumb.jpg?t=1343&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1333,
+      "title": "- Urettferdig boliglån",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa56090726/4108a448-6.smil/thumb.jpg?t=1358&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1807,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa56090726/4108a448-6.smil/thumb.jpg?t=1833&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1818,
+      "title": "Kommer senere",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa56090726/4108a448-6.smil/thumb.jpg?t=1844&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1836,
+      "title": "Mladić begraves og hylles",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa56090726/4108a448-6.smil/thumb.jpg?t=1862&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2277,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa56090726/4108a448-6.smil/thumb.jpg?t=2302&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2294,
+      "title": "Doble studieløp",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa56090726/4108a448-6.smil/thumb.jpg?t=2320&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2731,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa56090726/4108a448-6.smil/thumb.jpg?t=2757&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2744,
+      "title": "Valgresultat i Tyskland",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa56090726/4108a448-6.smil/thumb.jpg?t=2769&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3511,
+      "title": "AVSLUTNING",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa56090726/4108a448-6.smil/thumb.jpg?t=3536&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3522,
+      "title": "SLUTTKJENNING",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa56090726/4108a448-6.smil/thumb.jpg?t=3544.88&scale=640x360&v=high"
+    }
+  ]
+}
