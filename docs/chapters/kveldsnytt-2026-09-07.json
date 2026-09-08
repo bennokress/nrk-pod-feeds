@@ -1,0 +1,68 @@
+{
+  "version": "1.2.0",
+  "title": "Stenger deler av luftrommet",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 1,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa23090726/eb80bc6b-7.smil/thumb.jpg?t=26&scale=640x360&v=high"
+    },
+    {
+      "startTime": 39,
+      "title": "Flyforbud",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa23090726/eb80bc6b-7.smil/thumb.jpg?t=64&scale=640x360&v=high"
+    },
+    {
+      "startTime": 67,
+      "title": "Norwegian innstiller",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa23090726/eb80bc6b-7.smil/thumb.jpg?t=92&scale=640x360&v=high"
+    },
+    {
+      "startTime": 95,
+      "title": "TRAILER GRAVFERD",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa23090726/eb80bc6b-7.smil/thumb.jpg?t=120&scale=640x360&v=high"
+    },
+    {
+      "startTime": 119,
+      "title": "Andøy kommune trenger hjelp til å bygg boliger og infrastruktur",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa23090726/eb80bc6b-7.smil/thumb.jpg?t=145&scale=640x360&v=high"
+    },
+    {
+      "startTime": 255,
+      "title": "Libanon angrep",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa23090726/eb80bc6b-7.smil/thumb.jpg?t=281&scale=640x360&v=high"
+    },
+    {
+      "startTime": 280,
+      "title": "FN advarer om KI",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa23090726/eb80bc6b-7.smil/thumb.jpg?t=306&scale=640x360&v=high"
+    },
+    {
+      "startTime": 351,
+      "title": "Kjerneboring i Nordnesfjellet skal gi tryggere overvåking",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa23090726/eb80bc6b-7.smil/thumb.jpg?t=376&scale=640x360&v=high"
+    },
+    {
+      "startTime": 451,
+      "title": "Ståle og Maresca?",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa23090726/eb80bc6b-7.smil/thumb.jpg?t=477&scale=640x360&v=high"
+    },
+    {
+      "startTime": 528,
+      "title": "Allsvenskan",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa23090726/eb80bc6b-7.smil/thumb.jpg?t=554&scale=640x360&v=high"
+    },
+    {
+      "startTime": 570,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa23090726/eb80bc6b-7.smil/thumb.jpg?t=596&scale=640x360&v=high"
+    },
+    {
+      "startTime": 641,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa23090726/eb80bc6b-7.smil/thumb.jpg?t=659.44&scale=640x360&v=high"
+    }
+  ]
+}
