@@ -1,0 +1,58 @@
+{
+  "version": "1.2.0",
+  "title": "Protester i Berlin",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-88.akamaized.net/open/ps/nnfa/nnfa21090726/e1d44132-8.smil/thumb.jpg?t=25&scale=640x360&v=high"
+    },
+    {
+      "startTime": 28,
+      "title": "Afd protester",
+      "img": "https://nrk-od-world-88.akamaized.net/open/ps/nnfa/nnfa21090726/e1d44132-8.smil/thumb.jpg?t=53&scale=640x360&v=high"
+    },
+    {
+      "startTime": 114,
+      "title": "Døde i varetekt i USA",
+      "img": "https://nrk-od-world-88.akamaized.net/open/ps/nnfa/nnfa21090726/e1d44132-8.smil/thumb.jpg?t=140&scale=640x360&v=high"
+    },
+    {
+      "startTime": 137,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-88.akamaized.net/open/ps/nnfa/nnfa21090726/e1d44132-8.smil/thumb.jpg?t=163&scale=640x360&v=high"
+    },
+    {
+      "startTime": 233,
+      "title": "Russland raser mot missiler",
+      "img": "https://nrk-od-world-88.akamaized.net/open/ps/nnfa/nnfa21090726/e1d44132-8.smil/thumb.jpg?t=259&scale=640x360&v=high"
+    },
+    {
+      "startTime": 258,
+      "title": "Russland raser mot missi",
+      "img": "https://nrk-od-world-88.akamaized.net/open/ps/nnfa/nnfa21090726/e1d44132-8.smil/thumb.jpg?t=284&scale=640x360&v=high"
+    },
+    {
+      "startTime": 298,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-88.akamaized.net/open/ps/nnfa/nnfa21090726/e1d44132-8.smil/thumb.jpg?t=324&scale=640x360&v=high"
+    },
+    {
+      "startTime": 406,
+      "title": "Forberedelser gravferd",
+      "img": "https://nrk-od-world-88.akamaized.net/open/ps/nnfa/nnfa21090726/e1d44132-8.smil/thumb.jpg?t=432&scale=640x360&v=high"
+    },
+    {
+      "startTime": 512,
+      "title": "Været",
+      "img": "https://nrk-od-world-88.akamaized.net/open/ps/nnfa/nnfa21090726/e1d44132-8.smil/thumb.jpg?t=538&scale=640x360&v=high"
+    },
+    {
+      "startTime": 566,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-88.akamaized.net/open/ps/nnfa/nnfa21090726/e1d44132-8.smil/thumb.jpg?t=584.76&scale=640x360&v=high"
+    }
+  ]
+}
