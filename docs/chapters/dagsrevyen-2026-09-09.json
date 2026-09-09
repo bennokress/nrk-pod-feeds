@@ -1,0 +1,108 @@
+{
+  "version": "1.2.0",
+  "title": "Et siste farvel",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 54,
+      "title": "Slottet",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa19090926/942b847d-5.smil/thumb.jpg?t=80&scale=640x360&v=high"
+    },
+    {
+      "startTime": 85,
+      "title": "Gravferdseremonien",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa19090926/942b847d-5.smil/thumb.jpg?t=110&scale=640x360&v=high"
+    },
+    {
+      "startTime": 488,
+      "title": "Folkets avskjed",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa19090926/942b847d-5.smil/thumb.jpg?t=513&scale=640x360&v=high"
+    },
+    {
+      "startTime": 649,
+      "title": "Hilser folket",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa19090926/942b847d-5.smil/thumb.jpg?t=674&scale=640x360&v=high"
+    },
+    {
+      "startTime": 792,
+      "title": "Direkte fra slottsplassen",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa19090926/942b847d-5.smil/thumb.jpg?t=818&scale=640x360&v=high"
+    },
+    {
+      "startTime": 812,
+      "title": "Direkte Slottsplassen",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa19090926/942b847d-5.smil/thumb.jpg?t=837&scale=640x360&v=high"
+    },
+    {
+      "startTime": 957,
+      "title": "Støre",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa19090926/942b847d-5.smil/thumb.jpg?t=983&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1111,
+      "title": "Norge sørger",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa19090926/942b847d-5.smil/thumb.jpg?t=1137&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1269,
+      "title": "Ett minutts stillhet",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa19090926/942b847d-5.smil/thumb.jpg?t=1294&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1346,
+      "title": "Direkte fra København",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa19090926/942b847d-5.smil/thumb.jpg?t=1372&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1506,
+      "title": "Salutt for kong Haakon",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa19090926/942b847d-5.smil/thumb.jpg?t=1531&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1543,
+      "title": "Sikkerhet i dag",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa19090926/942b847d-5.smil/thumb.jpg?t=1568&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1646,
+      "title": "Direkte Gardermoen",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa19090926/942b847d-5.smil/thumb.jpg?t=1671&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1755,
+      "title": "Direkte fra Stavanger",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa19090926/942b847d-5.smil/thumb.jpg?t=1781&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1911,
+      "title": "Direkte Oslo",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa19090926/942b847d-5.smil/thumb.jpg?t=1936&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2009,
+      "title": "Soldater marsjerer",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa19090926/942b847d-5.smil/thumb.jpg?t=2035&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2080,
+      "title": "Gravferd-dagen",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa19090926/942b847d-5.smil/thumb.jpg?t=2105&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2210,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa19090926/942b847d-5.smil/thumb.jpg?t=2236&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2407,
+      "title": "Oppsummering",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa19090926/942b847d-5.smil/thumb.jpg?t=2433&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2641,
+      "title": "Direkte fra slottsplassen",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa19090926/942b847d-5.smil/thumb.jpg?t=2653.84&scale=640x360&v=high"
+    }
+  ]
+}
