@@ -1,0 +1,63 @@
+{
+  "version": "1.2.0",
+  "title": "Zelenskyj er i Norge",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa21090826/d5f0ce1d-5.smil/thumb.jpg?t=25&scale=640x360&v=high"
+    },
+    {
+      "startTime": 34,
+      "title": "Zelenskyj Norge",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa21090826/d5f0ce1d-5.smil/thumb.jpg?t=59&scale=640x360&v=high"
+    },
+    {
+      "startTime": 62,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa21090826/d5f0ce1d-5.smil/thumb.jpg?t=87&scale=640x360&v=high"
+    },
+    {
+      "startTime": 129,
+      "title": "Gjest:",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa21090826/d5f0ce1d-5.smil/thumb.jpg?t=154&scale=640x360&v=high"
+    },
+    {
+      "startTime": 302,
+      "title": "Ankomster Oslo",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa21090826/d5f0ce1d-5.smil/thumb.jpg?t=328&scale=640x360&v=high"
+    },
+    {
+      "startTime": 378,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa21090826/d5f0ce1d-5.smil/thumb.jpg?t=404&scale=640x360&v=high"
+    },
+    {
+      "startTime": 484,
+      "title": "Nettpromo",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa21090826/d5f0ce1d-5.smil/thumb.jpg?t=509&scale=640x360&v=high"
+    },
+    {
+      "startTime": 491,
+      "title": "Putin Trump",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa21090826/d5f0ce1d-5.smil/thumb.jpg?t=516&scale=640x360&v=high"
+    },
+    {
+      "startTime": 523,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa21090826/d5f0ce1d-5.smil/thumb.jpg?t=549&scale=640x360&v=high"
+    },
+    {
+      "startTime": 654,
+      "title": "Været",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa21090826/d5f0ce1d-5.smil/thumb.jpg?t=680&scale=640x360&v=high"
+    },
+    {
+      "startTime": 706,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa21090826/d5f0ce1d-5.smil/thumb.jpg?t=731&scale=640x360&v=high"
+    }
+  ]
+}
