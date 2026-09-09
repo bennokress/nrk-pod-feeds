@@ -1,0 +1,68 @@
+{
+  "version": "1.2.0",
+  "title": "Zelenskyj i møte med Støre",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 1,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa23090826/48b907e9-6.smil/thumb.jpg?t=26&scale=640x360&v=high"
+    },
+    {
+      "startTime": 47,
+      "title": "Støre Zelenskyj",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa23090826/48b907e9-6.smil/thumb.jpg?t=72&scale=640x360&v=high"
+    },
+    {
+      "startTime": 59,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa23090826/48b907e9-6.smil/thumb.jpg?t=84&scale=640x360&v=high"
+    },
+    {
+      "startTime": 136,
+      "title": "Diplomat",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa23090826/48b907e9-6.smil/thumb.jpg?t=161&scale=640x360&v=high"
+    },
+    {
+      "startTime": 237,
+      "title": "Ankomster Oslo",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa23090826/48b907e9-6.smil/thumb.jpg?t=262&scale=640x360&v=high"
+    },
+    {
+      "startTime": 307,
+      "title": "Kadett begravelse",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa23090826/48b907e9-6.smil/thumb.jpg?t=333&scale=640x360&v=high"
+    },
+    {
+      "startTime": 414,
+      "title": "TRAILER GRAVFERD",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa23090826/48b907e9-6.smil/thumb.jpg?t=439&scale=640x360&v=high"
+    },
+    {
+      "startTime": 451,
+      "title": "Iransk tankskip",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa23090826/48b907e9-6.smil/thumb.jpg?t=476&scale=640x360&v=high"
+    },
+    {
+      "startTime": 487,
+      "title": "CHAM-LEAGUE",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa23090826/48b907e9-6.smil/thumb.jpg?t=512&scale=640x360&v=high"
+    },
+    {
+      "startTime": 626,
+      "title": "Sparta konkursfare",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa23090826/48b907e9-6.smil/thumb.jpg?t=652&scale=640x360&v=high"
+    },
+    {
+      "startTime": 691,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa23090826/48b907e9-6.smil/thumb.jpg?t=717&scale=640x360&v=high"
+    },
+    {
+      "startTime": 749,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa23090826/48b907e9-6.smil/thumb.jpg?t=772.6&scale=640x360&v=high"
+    }
+  ]
+}
