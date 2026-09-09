@@ -1,0 +1,263 @@
+{
+  "version": "1.2.0",
+  "title": "Sammenheng mellom bosted og parkinson?",
+  "author": "NRK",
+  "podcastName": "Nyhetsmorgen",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Åpning 06:30",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05090826/0cc9476a-6.smil/thumb.jpg?t=25&scale=640x360&v=high"
+    },
+    {
+      "startTime": 65,
+      "title": "Siste fra Ukraina",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05090826/0cc9476a-6.smil/thumb.jpg?t=90&scale=640x360&v=high"
+    },
+    {
+      "startTime": 320,
+      "title": "Geografiske forskjeller ved Parkinsons sykdom",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05090826/0cc9476a-6.smil/thumb.jpg?t=345&scale=640x360&v=high"
+    },
+    {
+      "startTime": 402,
+      "title": "Siste nytt",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05090826/0cc9476a-6.smil/thumb.jpg?t=427&scale=640x360&v=high"
+    },
+    {
+      "startTime": 515,
+      "title": "Askefast i Indonesia",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05090826/0cc9476a-6.smil/thumb.jpg?t=540&scale=640x360&v=high"
+    },
+    {
+      "startTime": 691,
+      "title": "Fleire unge med diabetes",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05090826/0cc9476a-6.smil/thumb.jpg?t=716&scale=640x360&v=high"
+    },
+    {
+      "startTime": 853,
+      "title": "Hockeyboom",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05090826/0cc9476a-6.smil/thumb.jpg?t=878&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1056,
+      "title": "Flere foreldre mot smartmobil",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05090826/0cc9476a-6.smil/thumb.jpg?t=1082&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1231,
+      "title": "Siste dag med defiliering",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05090826/0cc9476a-6.smil/thumb.jpg?t=1257&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1430,
+      "title": "Slik husker vi kong Harald",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05090826/0cc9476a-6.smil/thumb.jpg?t=1456&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1608,
+      "title": "Uthusprosjektet Røros",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05090826/0cc9476a-6.smil/thumb.jpg?t=1633&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1767,
+      "title": "Trailer: Leseklubben",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05090826/0cc9476a-6.smil/thumb.jpg?t=1793&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1798,
+      "title": "Åpning 07:00",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05090826/0cc9476a-6.smil/thumb.jpg?t=1824&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1883,
+      "title": "Geografiske forskjeller ved Parkinsons sykdom",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05090826/0cc9476a-6.smil/thumb.jpg?t=1908&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2127,
+      "title": "Uklart hvorfor Nepal-flommen ble så stor",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05090826/0cc9476a-6.smil/thumb.jpg?t=2153&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2366,
+      "title": "Lokale politifolk drar til Oslo",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05090826/0cc9476a-6.smil/thumb.jpg?t=2392&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2636,
+      "title": "Pisa-tall og borgfred",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05090826/0cc9476a-6.smil/thumb.jpg?t=2662&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2780,
+      "title": "Pisa-undersøkinga",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05090826/0cc9476a-6.smil/thumb.jpg?t=2805&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3024,
+      "title": "Før Politisk kvarter",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05090826/0cc9476a-6.smil/thumb.jpg?t=3049&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3083,
+      "title": "Kva betyr AfD-sigeren for Europa?",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05090826/0cc9476a-6.smil/thumb.jpg?t=3108&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3396,
+      "title": "Hvitløksfestival i Valdres",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05090826/0cc9476a-6.smil/thumb.jpg?t=3422&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3570,
+      "title": "Trailer: Tyrann",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05090826/0cc9476a-6.smil/thumb.jpg?t=3596&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3601,
+      "title": "Overskrifter 07:30",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05090826/0cc9476a-6.smil/thumb.jpg?t=3626&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3629,
+      "title": "Pisa- tall og borgfred",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05090826/0cc9476a-6.smil/thumb.jpg?t=3655&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3753,
+      "title": "Lokale politifolk drar til Oslo",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05090826/0cc9476a-6.smil/thumb.jpg?t=3779&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3847,
+      "title": "Nye angrep mot Kyiv",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05090826/0cc9476a-6.smil/thumb.jpg?t=3872&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3900,
+      "title": "Uklart om hvorfor Nepal-flommen ble så stor",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05090826/0cc9476a-6.smil/thumb.jpg?t=3926&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4007,
+      "title": "Geografiske forskjeller ved Parkinsons sykdom",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05090826/0cc9476a-6.smil/thumb.jpg?t=4033&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4120,
+      "title": "Hockeyboom",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05090826/0cc9476a-6.smil/thumb.jpg?t=4145&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4202,
+      "title": "Åpning 07:40",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05090826/0cc9476a-6.smil/thumb.jpg?t=4227&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4213,
+      "title": "Lærlingar i landbruksfaget",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05090826/0cc9476a-6.smil/thumb.jpg?t=4239&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5399,
+      "title": "NRK Nyheter 08:00",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05090826/0cc9476a-6.smil/thumb.jpg?t=5425&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5580,
+      "title": "Åpning 08:03",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05090826/0cc9476a-6.smil/thumb.jpg?t=5605&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5646,
+      "title": "Hva forteller gjestelisten",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05090826/0cc9476a-6.smil/thumb.jpg?t=5672&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5944,
+      "title": "Pisa-tall og borgfred",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05090826/0cc9476a-6.smil/thumb.jpg?t=5970&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6105,
+      "title": "Pisa-undersøkinga",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05090826/0cc9476a-6.smil/thumb.jpg?t=6131&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6251,
+      "title": "Overskrifter 08:15",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05090826/0cc9476a-6.smil/thumb.jpg?t=6277&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6300,
+      "title": "En nasjon i sjakk",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05090826/0cc9476a-6.smil/thumb.jpg?t=6326&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6740,
+      "title": "Afrika blir større på nytt kart",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05090826/0cc9476a-6.smil/thumb.jpg?t=6765&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6995,
+      "title": "Ny korrupsjonsskandale ryster Ukraina",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05090826/0cc9476a-6.smil/thumb.jpg?t=7021&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7168,
+      "title": "Hør Ekko i NRK P2",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05090826/0cc9476a-6.smil/thumb.jpg?t=7193&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7211,
+      "title": "Overskrifter 08:30",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05090826/0cc9476a-6.smil/thumb.jpg?t=7237&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7279,
+      "title": "Canada innfører straffetoll mot USA",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05090826/0cc9476a-6.smil/thumb.jpg?t=7304&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7425,
+      "title": "Geografiske forskjeller ved Parkinsons sykdom",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05090826/0cc9476a-6.smil/thumb.jpg?t=7450&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7548,
+      "title": "Musikken i kongens gravferd",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05090826/0cc9476a-6.smil/thumb.jpg?t=7573&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7785,
+      "title": "Skikk og bruk under kong Haralds gravferd",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05090826/0cc9476a-6.smil/thumb.jpg?t=7810&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8095,
+      "title": "Er Sverigedemokratene et høyreekstremt parti?",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05090826/0cc9476a-6.smil/thumb.jpg?t=8121&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8270,
+      "title": "Fleire unge med diabetes",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05090826/0cc9476a-6.smil/thumb.jpg?t=8295&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8434,
+      "title": "Siste dag med defilering",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05090826/0cc9476a-6.smil/thumb.jpg?t=8460&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8628,
+      "title": "Lokale politifolk drar til Oslo",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05090826/0cc9476a-6.smil/thumb.jpg?t=8653&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8849,
+      "title": "GJEST Været i dag",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05090826/0cc9476a-6.smil/thumb.jpg?t=8875&scale=640x360&v=high"
+    }
+  ]
+}
