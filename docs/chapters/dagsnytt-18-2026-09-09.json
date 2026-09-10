@@ -1,0 +1,58 @@
+{
+  "version": "1.2.0",
+  "title": "Kong Haralds gravferd",
+  "author": "NRK",
+  "podcastName": "Dagsnytt 18",
+  "chapters": [
+    {
+      "startTime": 1,
+      "title": "Dagsnytt atten",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa56090926/eb5c102a-7.smil/thumb.jpg?t=27&scale=640x360&v=high"
+    },
+    {
+      "startTime": 56,
+      "title": "Kong Haralds gravferd",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa56090926/eb5c102a-7.smil/thumb.jpg?t=82&scale=640x360&v=high"
+    },
+    {
+      "startTime": 949,
+      "title": "Gjester i gravferden",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa56090926/eb5c102a-7.smil/thumb.jpg?t=975&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1412,
+      "title": "Støre om gravferd",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa56090926/eb5c102a-7.smil/thumb.jpg?t=1437&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1440,
+      "title": "Kongelige gravferder",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa56090926/eb5c102a-7.smil/thumb.jpg?t=1465&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2184,
+      "title": "Stort sikkerhetsoppbud",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa56090926/eb5c102a-7.smil/thumb.jpg?t=2209&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2302,
+      "title": "Gravferd og diplomati",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa56090926/eb5c102a-7.smil/thumb.jpg?t=2327&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3079,
+      "title": "Borgfreden er avsluttet",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa56090926/eb5c102a-7.smil/thumb.jpg?t=3104&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3521,
+      "title": "AVSLUTNING",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa56090926/eb5c102a-7.smil/thumb.jpg?t=3544.84&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3528,
+      "title": "SLUTTKJENNING",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa56090926/eb5c102a-7.smil/thumb.jpg?t=3544.84&scale=640x360&v=high"
+    }
+  ]
+}
