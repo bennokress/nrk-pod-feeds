@@ -1,0 +1,248 @@
+{
+  "version": "1.2.0",
+  "title": "Kong Harald gravlegges i dag",
+  "author": "NRK",
+  "podcastName": "Nyhetsmorgen",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Åpning 06:30",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa05090926/87befe13-5.smil/thumb.jpg?t=25&scale=640x360&v=high"
+    },
+    {
+      "startTime": 81,
+      "title": "Stenger av sentrum",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa05090926/87befe13-5.smil/thumb.jpg?t=106&scale=640x360&v=high"
+    },
+    {
+      "startTime": 208,
+      "title": "Angrep i natt",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa05090926/87befe13-5.smil/thumb.jpg?t=234&scale=640x360&v=high"
+    },
+    {
+      "startTime": 495,
+      "title": "Norge i sorg etter kongelig dødsfall",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa05090926/87befe13-5.smil/thumb.jpg?t=521&scale=640x360&v=high"
+    },
+    {
+      "startTime": 746,
+      "title": "Gardermoen før gravferd",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa05090926/87befe13-5.smil/thumb.jpg?t=771&scale=640x360&v=high"
+    },
+    {
+      "startTime": 920,
+      "title": "Overskrifter 06:45",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa05090926/87befe13-5.smil/thumb.jpg?t=946&scale=640x360&v=high"
+    },
+    {
+      "startTime": 976,
+      "title": "Se gravferden der du er",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa05090926/87befe13-5.smil/thumb.jpg?t=1002&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1105,
+      "title": "USAs tollkrig trappes opp",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa05090926/87befe13-5.smil/thumb.jpg?t=1131&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1347,
+      "title": "Blant billigste drivstoff i Europa",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa05090926/87befe13-5.smil/thumb.jpg?t=1372&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1591,
+      "title": "Viking i Mesterligaen",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa05090926/87befe13-5.smil/thumb.jpg?t=1616&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1742,
+      "title": "Se gravferden der du er -nrk.no",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa05090926/87befe13-5.smil/thumb.jpg?t=1768&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1799,
+      "title": "Åpning 07:00",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa05090926/87befe13-5.smil/thumb.jpg?t=1824&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1859,
+      "title": "Visitasjonssoner i Oslo",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa05090926/87befe13-5.smil/thumb.jpg?t=1884&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2022,
+      "title": "Ankomster på Gardermoen",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa05090926/87befe13-5.smil/thumb.jpg?t=2048&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2242,
+      "title": "Zelenskyj i Oslo",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa05090926/87befe13-5.smil/thumb.jpg?t=2267&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2447,
+      "title": "Speler i båreprosesjonen",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa05090926/87befe13-5.smil/thumb.jpg?t=2472&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2649,
+      "title": "Overskrifter 07:15",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa05090926/87befe13-5.smil/thumb.jpg?t=2674&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2686,
+      "title": "Dette skjer under gravferden i dag",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa05090926/87befe13-5.smil/thumb.jpg?t=2712&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2948,
+      "title": "Politisk monarki i kvarteret",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa05090926/87befe13-5.smil/thumb.jpg?t=2974&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3004,
+      "title": "Oslo sentrum før gravferden",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa05090926/87befe13-5.smil/thumb.jpg?t=3030&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3302,
+      "title": "Restaurerer kongens VM-båt",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa05090926/87befe13-5.smil/thumb.jpg?t=3327&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3538,
+      "title": "Trailer - Gravferd",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa05090926/87befe13-5.smil/thumb.jpg?t=3564&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3599,
+      "title": "Overskrifter 07:30",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa05090926/87befe13-5.smil/thumb.jpg?t=3625&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3632,
+      "title": "Sikkerhet i sentrum",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa05090926/87befe13-5.smil/thumb.jpg?t=3658&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3765,
+      "title": "Speler i båreprosesjonen",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa05090926/87befe13-5.smil/thumb.jpg?t=3791&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3871,
+      "title": "Zelenskyj i Norge",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa05090926/87befe13-5.smil/thumb.jpg?t=3897&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4000,
+      "title": "Ankomster på Gardermoen",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa05090926/87befe13-5.smil/thumb.jpg?t=4026&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4120,
+      "title": "Hva skjer under begravelsen i dag?",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa05090926/87befe13-5.smil/thumb.jpg?t=4145&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4219,
+      "title": "Fekk kongebesøk etter storbrann",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa05090926/87befe13-5.smil/thumb.jpg?t=4244&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5400,
+      "title": "NRK Nyheter 08:00",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa05090926/87befe13-5.smil/thumb.jpg?t=5425&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5580,
+      "title": "Åpning 08:03",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa05090926/87befe13-5.smil/thumb.jpg?t=5605&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5621,
+      "title": "Kongefamiliene fortsetter å komme",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa05090926/87befe13-5.smil/thumb.jpg?t=5646&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5764,
+      "title": "Ekornes preget av gravferden",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa05090926/87befe13-5.smil/thumb.jpg?t=5790&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5989,
+      "title": "Forsvarets rolle under gravferden",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa05090926/87befe13-5.smil/thumb.jpg?t=6015&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6250,
+      "title": "Overskrifter 08:15",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa05090926/87befe13-5.smil/thumb.jpg?t=6275&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6300,
+      "title": "Internasjonale gjester i gravferden",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa05090926/87befe13-5.smil/thumb.jpg?t=6326&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6588,
+      "title": "Angrep i natt",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa05090926/87befe13-5.smil/thumb.jpg?t=6613&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6755,
+      "title": "Oslo sentrum før gravferden",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa05090926/87befe13-5.smil/thumb.jpg?t=6780&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6986,
+      "title": "NRK og gravferdssendingen",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa05090926/87befe13-5.smil/thumb.jpg?t=7011&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7186,
+      "title": "Overskrifter 08:30",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa05090926/87befe13-5.smil/thumb.jpg?t=7212&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7246,
+      "title": "Ryddet gatene i natt",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa05090926/87befe13-5.smil/thumb.jpg?t=7271&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7367,
+      "title": "Kommentators forventningar til gravferda",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa05090926/87befe13-5.smil/thumb.jpg?t=7393&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7801,
+      "title": "USAs tollkrig trappes opp",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa05090926/87befe13-5.smil/thumb.jpg?t=7826&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8026,
+      "title": "Overskrifter 08:45",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa05090926/87befe13-5.smil/thumb.jpg?t=8051&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8087,
+      "title": "Politiet om Oslo under gravferden",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa05090926/87befe13-5.smil/thumb.jpg?t=8113&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8213,
+      "title": "De siste gjestene ankommer Oslo",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa05090926/87befe13-5.smil/thumb.jpg?t=8238&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8381,
+      "title": "Slik dekkes kong Haralds gravferd i Danmark",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa05090926/87befe13-5.smil/thumb.jpg?t=8407&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8608,
+      "title": "Kong Haralds betydning for livsynsmangfold",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa05090926/87befe13-5.smil/thumb.jpg?t=8634&scale=640x360&v=high"
+    }
+  ]
+}
