@@ -1,0 +1,68 @@
+{
+  "version": "1.2.0",
+  "title": "Dramatisk reise",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa23090926/e3beb02d-7.smil/thumb.jpg?t=25&scale=640x360&v=high"
+    },
+    {
+      "startTime": 30,
+      "title": "Frp hasteinnkaller",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa23090926/e3beb02d-7.smil/thumb.jpg?t=56&scale=640x360&v=high"
+    },
+    {
+      "startTime": 57,
+      "title": "Republikanernes landsmøte",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa23090926/e3beb02d-7.smil/thumb.jpg?t=83&scale=640x360&v=high"
+    },
+    {
+      "startTime": 134,
+      "title": "Zelenskyj fly",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa23090926/e3beb02d-7.smil/thumb.jpg?t=160&scale=640x360&v=high"
+    },
+    {
+      "startTime": 232,
+      "title": "Tilsyn soldater",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa23090926/e3beb02d-7.smil/thumb.jpg?t=258&scale=640x360&v=high"
+    },
+    {
+      "startTime": 255,
+      "title": "Elever om kongens gravferd",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa23090926/e3beb02d-7.smil/thumb.jpg?t=280&scale=640x360&v=high"
+    },
+    {
+      "startTime": 365,
+      "title": "Mot hverdag etter gravferden",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa23090926/e3beb02d-7.smil/thumb.jpg?t=390&scale=640x360&v=high"
+    },
+    {
+      "startTime": 469,
+      "title": "Napoli-Arsenal",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa23090926/e3beb02d-7.smil/thumb.jpg?t=495&scale=640x360&v=high"
+    },
+    {
+      "startTime": 530,
+      "title": "Liverpool - Atletico",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa23090926/e3beb02d-7.smil/thumb.jpg?t=555&scale=640x360&v=high"
+    },
+    {
+      "startTime": 578,
+      "title": "Viking i Mesterligaen",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa23090926/e3beb02d-7.smil/thumb.jpg?t=603&scale=640x360&v=high"
+    },
+    {
+      "startTime": 647,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa23090926/e3beb02d-7.smil/thumb.jpg?t=672&scale=640x360&v=high"
+    },
+    {
+      "startTime": 700,
+      "title": "Avslutning",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa23090926/e3beb02d-7.smil/thumb.jpg?t=726&scale=640x360&v=high"
+    }
+  ]
+}
