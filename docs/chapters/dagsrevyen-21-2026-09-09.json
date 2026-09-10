@@ -1,0 +1,58 @@
+{
+  "version": "1.2.0",
+  "title": "Strømmet til Slottsplassen",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa21090926/b21643cf-5.smil/thumb.jpg?t=25&scale=640x360&v=high"
+    },
+    {
+      "startTime": 37,
+      "title": "Kongens gravferd",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa21090926/b21643cf-5.smil/thumb.jpg?t=62&scale=640x360&v=high"
+    },
+    {
+      "startTime": 173,
+      "title": "Mottakelse Slottet",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa21090926/b21643cf-5.smil/thumb.jpg?t=199&scale=640x360&v=high"
+    },
+    {
+      "startTime": 219,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa21090926/b21643cf-5.smil/thumb.jpg?t=244&scale=640x360&v=high"
+    },
+    {
+      "startTime": 321,
+      "title": "Zelenskyjs fly",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa21090926/b21643cf-5.smil/thumb.jpg?t=346&scale=640x360&v=high"
+    },
+    {
+      "startTime": 373,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa21090926/b21643cf-5.smil/thumb.jpg?t=398&scale=640x360&v=high"
+    },
+    {
+      "startTime": 476,
+      "title": "Mesterliga",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa21090926/b21643cf-5.smil/thumb.jpg?t=502&scale=640x360&v=high"
+    },
+    {
+      "startTime": 571,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa21090926/b21643cf-5.smil/thumb.jpg?t=596&scale=640x360&v=high"
+    },
+    {
+      "startTime": 679,
+      "title": "Været",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa21090926/b21643cf-5.smil/thumb.jpg?t=705&scale=640x360&v=high"
+    },
+    {
+      "startTime": 729,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa21090926/b21643cf-5.smil/thumb.jpg?t=747.48&scale=640x360&v=high"
+    }
+  ]
+}
