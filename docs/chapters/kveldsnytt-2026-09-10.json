@@ -1,0 +1,73 @@
+{
+  "version": "1.2.0",
+  "title": "Vil ikke følge Danmark",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 1,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-23.akamaized.net/open/ps/nnfa/nnfa23091026/f071a9d9-5.smil/thumb.jpg?t=26&scale=640x360&v=high"
+    },
+    {
+      "startTime": 50,
+      "title": "Skjerm i skolen",
+      "img": "https://nrk-od-world-23.akamaized.net/open/ps/nnfa/nnfa23091026/f071a9d9-5.smil/thumb.jpg?t=75&scale=640x360&v=high"
+    },
+    {
+      "startTime": 155,
+      "title": "Regjeringen",
+      "img": "https://nrk-od-world-23.akamaized.net/open/ps/nnfa/nnfa23091026/f071a9d9-5.smil/thumb.jpg?t=181&scale=640x360&v=high"
+    },
+    {
+      "startTime": 273,
+      "title": "Spregning Libanon",
+      "img": "https://nrk-od-world-23.akamaized.net/open/ps/nnfa/nnfa23091026/f071a9d9-5.smil/thumb.jpg?t=298&scale=640x360&v=high"
+    },
+    {
+      "startTime": 303,
+      "title": "Ukraina og Canada",
+      "img": "https://nrk-od-world-23.akamaized.net/open/ps/nnfa/nnfa23091026/f071a9d9-5.smil/thumb.jpg?t=329&scale=640x360&v=high"
+    },
+    {
+      "startTime": 338,
+      "title": "Merker fjellrev",
+      "img": "https://nrk-od-world-23.akamaized.net/open/ps/nnfa/nnfa23091026/f071a9d9-5.smil/thumb.jpg?t=363&scale=640x360&v=high"
+    },
+    {
+      "startTime": 416,
+      "title": "Høstustillingen 2026 åpnet",
+      "img": "https://nrk-od-world-23.akamaized.net/open/ps/nnfa/nnfa23091026/f071a9d9-5.smil/thumb.jpg?t=441&scale=640x360&v=high"
+    },
+    {
+      "startTime": 515,
+      "title": "Bayern München-Bodø Glimt",
+      "img": "https://nrk-od-world-23.akamaized.net/open/ps/nnfa/nnfa23091026/f071a9d9-5.smil/thumb.jpg?t=541&scale=640x360&v=high"
+    },
+    {
+      "startTime": 604,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-23.akamaized.net/open/ps/nnfa/nnfa23091026/f071a9d9-5.smil/thumb.jpg?t=629&scale=640x360&v=high"
+    },
+    {
+      "startTime": 670,
+      "title": "United vant komfortabelt",
+      "img": "https://nrk-od-world-23.akamaized.net/open/ps/nnfa/nnfa23091026/f071a9d9-5.smil/thumb.jpg?t=696&scale=640x360&v=high"
+    },
+    {
+      "startTime": 727,
+      "title": "Mesterliga i ishockey",
+      "img": "https://nrk-od-world-23.akamaized.net/open/ps/nnfa/nnfa23091026/f071a9d9-5.smil/thumb.jpg?t=753&scale=640x360&v=high"
+    },
+    {
+      "startTime": 774,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-23.akamaized.net/open/ps/nnfa/nnfa23091026/f071a9d9-5.smil/thumb.jpg?t=799&scale=640x360&v=high"
+    },
+    {
+      "startTime": 842,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-23.akamaized.net/open/ps/nnfa/nnfa23091026/f071a9d9-5.smil/thumb.jpg?t=859.56&scale=640x360&v=high"
+    }
+  ]
+}
