@@ -1,0 +1,248 @@
+{
+  "version": "1.2.0",
+  "title": "Slutt på borgfreden",
+  "author": "NRK",
+  "podcastName": "Nyhetsmorgen",
+  "chapters": [
+    {
+      "startTime": 2,
+      "title": "Åpning 06:30",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa05091026/e24dcebf-5.smil/thumb.jpg?t=28&scale=640x360&v=high"
+    },
+    {
+      "startTime": 68,
+      "title": "Borgfreden er slutt",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa05091026/e24dcebf-5.smil/thumb.jpg?t=94&scale=640x360&v=high"
+    },
+    {
+      "startTime": 128,
+      "title": "Drivstoff-opprør i Høyre",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa05091026/e24dcebf-5.smil/thumb.jpg?t=153&scale=640x360&v=high"
+    },
+    {
+      "startTime": 274,
+      "title": "Siste nytt",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa05091026/e24dcebf-5.smil/thumb.jpg?t=299&scale=640x360&v=high"
+    },
+    {
+      "startTime": 395,
+      "title": "Republikanernes landsmøte",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa05091026/e24dcebf-5.smil/thumb.jpg?t=421&scale=640x360&v=high"
+    },
+    {
+      "startTime": 693,
+      "title": "Dårleg plommesesong",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa05091026/e24dcebf-5.smil/thumb.jpg?t=718&scale=640x360&v=high"
+    },
+    {
+      "startTime": 879,
+      "title": "Overskrifter 06:45",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa05091026/e24dcebf-5.smil/thumb.jpg?t=905&scale=640x360&v=high"
+    },
+    {
+      "startTime": 925,
+      "title": "Dagen etter gravferden",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa05091026/e24dcebf-5.smil/thumb.jpg?t=950&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1137,
+      "title": "Viking med laguttak-tabbe",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa05091026/e24dcebf-5.smil/thumb.jpg?t=1162&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1222,
+      "title": "Holvik vant ultraløp",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa05091026/e24dcebf-5.smil/thumb.jpg?t=1248&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1379,
+      "title": "KI og oversettere",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa05091026/e24dcebf-5.smil/thumb.jpg?t=1405&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1547,
+      "title": "Studieplassar i spel",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa05091026/e24dcebf-5.smil/thumb.jpg?t=1572&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1797,
+      "title": "Åpning 07:00",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa05091026/e24dcebf-5.smil/thumb.jpg?t=1823&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1864,
+      "title": "Borgfreden er slutt",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa05091026/e24dcebf-5.smil/thumb.jpg?t=1889&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2027,
+      "title": "Kommentar borgfreden er over",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa05091026/e24dcebf-5.smil/thumb.jpg?t=2053&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2262,
+      "title": "Før Politisk kvarter",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa05091026/e24dcebf-5.smil/thumb.jpg?t=2287&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2299,
+      "title": "Drivstoffpriser i Norge og Kenya",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa05091026/e24dcebf-5.smil/thumb.jpg?t=2325&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2456,
+      "title": "Trump lover penger",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa05091026/e24dcebf-5.smil/thumb.jpg?t=2481&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2599,
+      "title": "Overskrifter 07:15",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa05091026/e24dcebf-5.smil/thumb.jpg?t=2625&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2631,
+      "title": "Verdensdagen for selvmordsforebygging",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa05091026/e24dcebf-5.smil/thumb.jpg?t=2657&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3109,
+      "title": "Gravferdsoppsummering",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa05091026/e24dcebf-5.smil/thumb.jpg?t=3134&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3314,
+      "title": "Lite utanforskap i Nord-Østerdal",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa05091026/e24dcebf-5.smil/thumb.jpg?t=3339&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3563,
+      "title": "Sentralbordet på NRK",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa05091026/e24dcebf-5.smil/thumb.jpg?t=3589&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3599,
+      "title": "Overskrifter 07:30",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa05091026/e24dcebf-5.smil/thumb.jpg?t=3625&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3635,
+      "title": "Borgfreden er slutt",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa05091026/e24dcebf-5.smil/thumb.jpg?t=3660&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3734,
+      "title": "Drivstoff-opprør i Høyre",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa05091026/e24dcebf-5.smil/thumb.jpg?t=3759&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3837,
+      "title": "Trump vil gi penger til alle",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa05091026/e24dcebf-5.smil/thumb.jpg?t=3863&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3933,
+      "title": "Angrep kjøpesenter i Ukraina",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa05091026/e24dcebf-5.smil/thumb.jpg?t=3959&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3955,
+      "title": "Løp 940 km på seks dager",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa05091026/e24dcebf-5.smil/thumb.jpg?t=3980&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4045,
+      "title": "Fornøyd med gjennomføring av gravferden",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa05091026/e24dcebf-5.smil/thumb.jpg?t=4071&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4147,
+      "title": "Støre om gravferdsdagen",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa05091026/e24dcebf-5.smil/thumb.jpg?t=4172&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5400,
+      "title": "NRK Nyheter 08:00",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa05091026/e24dcebf-5.smil/thumb.jpg?t=5425&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5580,
+      "title": "Åpning 08:03",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa05091026/e24dcebf-5.smil/thumb.jpg?t=5606&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5660,
+      "title": "Vil stramme opp for Airbnb",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa05091026/e24dcebf-5.smil/thumb.jpg?t=5686&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5834,
+      "title": "Begrensninger på Airbnb",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa05091026/e24dcebf-5.smil/thumb.jpg?t=5859&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6174,
+      "title": "Prisvekst tall fra SSB",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa05091026/e24dcebf-5.smil/thumb.jpg?t=6200&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6455,
+      "title": "Trump lover penger",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa05091026/e24dcebf-5.smil/thumb.jpg?t=6481&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6736,
+      "title": "South Park med nytt navn",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa05091026/e24dcebf-5.smil/thumb.jpg?t=6762&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6860,
+      "title": "Britiske sanksjoner mot Israel",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa05091026/e24dcebf-5.smil/thumb.jpg?t=6886&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7188,
+      "title": "Hør Ekko i NRK P2",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa05091026/e24dcebf-5.smil/thumb.jpg?t=7214&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7279,
+      "title": "Kommentator om duell",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa05091026/e24dcebf-5.smil/thumb.jpg?t=7304&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7619,
+      "title": "Drivstoffpriser i Norge og Kenya",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa05091026/e24dcebf-5.smil/thumb.jpg?t=7645&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7798,
+      "title": "Rubio i Latin-Amerika",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa05091026/e24dcebf-5.smil/thumb.jpg?t=7823&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8207,
+      "title": "KI og oversettere",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa05091026/e24dcebf-5.smil/thumb.jpg?t=8233&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8377,
+      "title": "Ulefoss jernverk kan bli lagt ned",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa05091026/e24dcebf-5.smil/thumb.jpg?t=8402&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8527,
+      "title": "Filmmelding: Lave forventninger",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa05091026/e24dcebf-5.smil/thumb.jpg?t=8552&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8771,
+      "title": "Ny global varmerekord",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa05091026/e24dcebf-5.smil/thumb.jpg?t=8796&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8959,
+      "title": "Været i dag",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa05091026/e24dcebf-5.smil/thumb.jpg?t=8985&scale=640x360&v=high"
+    }
+  ]
+}
