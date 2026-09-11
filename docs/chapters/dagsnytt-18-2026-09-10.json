@@ -1,0 +1,78 @@
+{
+  "version": "1.2.0",
+  "title": "Nedgangen i lesing og regning fortsetter",
+  "author": "NRK",
+  "podcastName": "Dagsnytt 18",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsnytt atten",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa56091026/a03076d3-5.smil/thumb.jpg?t=25&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8,
+      "title": "TOPPER",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa56091026/a03076d3-5.smil/thumb.jpg?t=34&scale=640x360&v=high"
+    },
+    {
+      "startTime": 56,
+      "title": "Mange gutter kan ikke lese",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa56091026/a03076d3-5.smil/thumb.jpg?t=81&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1199,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa56091026/a03076d3-5.smil/thumb.jpg?t=1224&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1210,
+      "title": "Kommer senere",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa56091026/a03076d3-5.smil/thumb.jpg?t=1236&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1224,
+      "title": "Drivstoffprisene øker",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa56091026/a03076d3-5.smil/thumb.jpg?t=1249&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2102,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa56091026/a03076d3-5.smil/thumb.jpg?t=2128&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2115,
+      "title": "Airbnb-endringer i EU",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa56091026/a03076d3-5.smil/thumb.jpg?t=2141&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2657,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa56091026/a03076d3-5.smil/thumb.jpg?t=2683&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2669,
+      "title": "Trump gir penger for å vinne",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa56091026/a03076d3-5.smil/thumb.jpg?t=2694&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2891,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa56091026/a03076d3-5.smil/thumb.jpg?t=2917&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2903,
+      "title": "Den store utskiftningen",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa56091026/a03076d3-5.smil/thumb.jpg?t=2929&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3516,
+      "title": "AVSLUTNING",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa56091026/a03076d3-5.smil/thumb.jpg?t=3541&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3527,
+      "title": "SLUTTKJENNING",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa56091026/a03076d3-5.smil/thumb.jpg?t=3542.84&scale=640x360&v=high"
+    }
+  ]
+}
