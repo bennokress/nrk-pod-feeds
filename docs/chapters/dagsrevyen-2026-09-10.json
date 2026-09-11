@@ -1,0 +1,143 @@
+{
+  "version": "1.2.0",
+  "title": "Flere bortvist under gravferden",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 11,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa19091026/1222946a-11.smil/thumb.jpg?t=37&scale=640x360&v=high"
+    },
+    {
+      "startTime": 66,
+      "title": "Etter gravferden",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa19091026/1222946a-11.smil/thumb.jpg?t=91&scale=640x360&v=high"
+    },
+    {
+      "startTime": 247,
+      "title": "Danmark mobilforbud",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa19091026/1222946a-11.smil/thumb.jpg?t=272&scale=640x360&v=high"
+    },
+    {
+      "startTime": 369,
+      "title": "Direkte Stockholm",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa19091026/1222946a-11.smil/thumb.jpg?t=394&scale=640x360&v=high"
+    },
+    {
+      "startTime": 459,
+      "title": "Ulvedrap dømt",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa19091026/1222946a-11.smil/thumb.jpg?t=485&scale=640x360&v=high"
+    },
+    {
+      "startTime": 548,
+      "title": "Direkte",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa19091026/1222946a-11.smil/thumb.jpg?t=573&scale=640x360&v=high"
+    },
+    {
+      "startTime": 617,
+      "title": "Kutt i dieselavgifter",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa19091026/1222946a-11.smil/thumb.jpg?t=642&scale=640x360&v=high"
+    },
+    {
+      "startTime": 762,
+      "title": "Drivstoffpriser",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa19091026/1222946a-11.smil/thumb.jpg?t=787&scale=640x360&v=high"
+    },
+    {
+      "startTime": 903,
+      "title": "Republikanerne",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa19091026/1222946a-11.smil/thumb.jpg?t=929&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1019,
+      "title": "Direkte Dallas",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa19091026/1222946a-11.smil/thumb.jpg?t=1044&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1144,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa19091026/1222946a-11.smil/thumb.jpg?t=1170&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1196,
+      "title": "Høiby anke",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa19091026/1222946a-11.smil/thumb.jpg?t=1221&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1271,
+      "title": "Gjest Ravndal",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa19091026/1222946a-11.smil/thumb.jpg?t=1297&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1437,
+      "title": "Kortidsutleie",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa19091026/1222946a-11.smil/thumb.jpg?t=1463&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1634,
+      "title": "Etter gravferden",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa19091026/1222946a-11.smil/thumb.jpg?t=1660&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1742,
+      "title": "Gjest Gylver",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa19091026/1222946a-11.smil/thumb.jpg?t=1768&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1899,
+      "title": "Gravferden",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa19091026/1222946a-11.smil/thumb.jpg?t=1924&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1932,
+      "title": "Høstutstillingen",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa19091026/1222946a-11.smil/thumb.jpg?t=1958&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1963,
+      "title": "Direkte Oslo",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa19091026/1222946a-11.smil/thumb.jpg?t=1989&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2082,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa19091026/1222946a-11.smil/thumb.jpg?t=2108&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2089,
+      "title": "Glimt får kritikk",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa19091026/1222946a-11.smil/thumb.jpg?t=2114&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2161,
+      "title": "Direkte München",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa19091026/1222946a-11.smil/thumb.jpg?t=2187&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2245,
+      "title": "Friidrett",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa19091026/1222946a-11.smil/thumb.jpg?t=2270&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2320,
+      "title": "Bjørseth tilbake",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa19091026/1222946a-11.smil/thumb.jpg?t=2346&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2409,
+      "title": "Trailer Debatten",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa19091026/1222946a-11.smil/thumb.jpg?t=2435&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2439,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa19091026/1222946a-11.smil/thumb.jpg?t=2464&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2597,
+      "title": "Endringer i regjeringen",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa19091026/1222946a-11.smil/thumb.jpg?t=2623&scale=640x360&v=high"
+    }
+  ]
+}
