@@ -8,18 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 11 Sep 2026 21:27:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 21:28:10 +0000</lastBuildDate>
     <pubDate>Fri, 11 Sep 2026 23:00:00 +0200</pubDate>
     <itunes:image href="https://bennokress.github.io/nrk-pod-feeds/assets/images/kveldsnytt-square.png" />
     <item>
       <title>- Lær av de private!</title>
       <description>Investor Celina Midelfart er bekymret for utviklingen i den offentlige skolen.</description>
-      <guid isPermaLink="false">https://nrk-live-world.akamaized.net/nrk1-aaqHYGE-6BgXxrARswGykaolvpGrjMKw6!world/muxed.m3u8?adap=small&amp;aco=aac</guid>
-      <enclosure url="https://nrk-live-world.akamaized.net/nrk1-aaqHYGE-6BgXxrARswGykaolvpGrjMKw6!world/muxed.m3u8?adap=small&amp;aco=aac" length="0" type="application/vnd.apple.mpegurl" />
+      <guid isPermaLink="false">https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa23091126/2a307592-7.smil/muxed.m3u8?adap=small&amp;s=0&amp;aco=aac</guid>
+      <enclosure url="https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa23091126/2a307592-7.smil/muxed.m3u8?adap=small&amp;s=0&amp;aco=aac" length="0" type="application/vnd.apple.mpegurl" />
       <itunes:duration>11:46</itunes:duration>
       <pubDate>Fri, 11 Sep 2026 23:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/HraKWUnEg_w-9rQFVgj5XgFyTxegOJAggTJ1bMMckDnA" />
-    <podcast:alternateEnclosure type="application/x-mpegURL" length="0" default="true" title="HLS Video Stream"><podcast:source uri="https://nrk-live-world.akamaized.net/nrk1-aaqHYGE-6BgXxrARswGykaolvpGrjMKw6!world/muxed.m3u8?adap=small&amp;aco=aac" /></podcast:alternateEnclosure><podcast:person role="host" href="https://www.nrk.no">NRK</podcast:person></item>
+    <psc:chapters version="1.2"><psc:chapter start="0:00" title="VIGNETT" image="https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa23091126/2a307592-7.smil/thumb.jpg?t=25&amp;scale=640x360&amp;v=high" /><psc:chapter start="0:28" title="Markering i USA 25 år etter terrorangrepene" image="https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa23091126/2a307592-7.smil/thumb.jpg?t=54&amp;scale=640x360&amp;v=high" /><psc:chapter start="2:06" title="Midelfart skole" image="https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa23091126/2a307592-7.smil/thumb.jpg?t=151&amp;scale=640x360&amp;v=high" /><psc:chapter start="3:52" title="Regjering" image="https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa23091126/2a307592-7.smil/thumb.jpg?t=257&amp;scale=640x360&amp;v=high" /><psc:chapter start="4:20" title="Prinsesse Astrid" image="https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa23091126/2a307592-7.smil/thumb.jpg?t=285&amp;scale=640x360&amp;v=high" /><psc:chapter start="6:10" title="Friidrett" image="https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa23091126/2a307592-7.smil/thumb.jpg?t=396&amp;scale=640x360&amp;v=high" /><psc:chapter start="8:39" title="Fotball" image="https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa23091126/2a307592-7.smil/thumb.jpg?t=544&amp;scale=640x360&amp;v=high" /><psc:chapter start="10:00" title="Luftballonger" image="https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa23091126/2a307592-7.smil/thumb.jpg?t=625&amp;scale=640x360&amp;v=high" /><psc:chapter start="10:20" title="Været Kveldsnytt" image="https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa23091126/2a307592-7.smil/thumb.jpg?t=646&amp;scale=640x360&amp;v=high" /><psc:chapter start="11:27" title="AVSLUTT" image="https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa23091126/2a307592-7.smil/thumb.jpg?t=706.55&amp;scale=640x360&amp;v=high" /></psc:chapters><podcast:chapters url="https://cdn.jsdelivr.net/gh/bennokress/nrk-pod-feeds@main/docs/chapters/kveldsnytt-2026-09-11.json" type="application/json+chapters" /><podcast:alternateEnclosure type="application/x-mpegURL" length="0" default="true" title="HLS Video Stream"><podcast:source uri="https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa23091126/2a307592-7.smil/muxed.m3u8?adap=small&amp;s=0&amp;aco=aac" /></podcast:alternateEnclosure><podcast:person role="host" href="https://www.nrk.no">NRK</podcast:person></item>
     <item>
       <title>Vil ikke følge Danmark</title>
       <description>Danmark vil forby mobiltelefon i dansk skole. Kunnskapsministeren vil ikke gå så langt som danskene.</description>
