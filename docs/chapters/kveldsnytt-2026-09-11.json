@@ -1,0 +1,58 @@
+{
+  "version": "1.2.0",
+  "title": "- Lær av de private!",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa23091126/2a307592-7.smil/thumb.jpg?t=25&scale=640x360&v=high"
+    },
+    {
+      "startTime": 28,
+      "title": "Markering i USA 25 år etter terrorangrepene",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa23091126/2a307592-7.smil/thumb.jpg?t=54&scale=640x360&v=high"
+    },
+    {
+      "startTime": 126,
+      "title": "Midelfart skole",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa23091126/2a307592-7.smil/thumb.jpg?t=151&scale=640x360&v=high"
+    },
+    {
+      "startTime": 232,
+      "title": "Regjering",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa23091126/2a307592-7.smil/thumb.jpg?t=257&scale=640x360&v=high"
+    },
+    {
+      "startTime": 260,
+      "title": "Prinsesse Astrid",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa23091126/2a307592-7.smil/thumb.jpg?t=285&scale=640x360&v=high"
+    },
+    {
+      "startTime": 370,
+      "title": "Friidrett",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa23091126/2a307592-7.smil/thumb.jpg?t=396&scale=640x360&v=high"
+    },
+    {
+      "startTime": 519,
+      "title": "Fotball",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa23091126/2a307592-7.smil/thumb.jpg?t=544&scale=640x360&v=high"
+    },
+    {
+      "startTime": 600,
+      "title": "Luftballonger",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa23091126/2a307592-7.smil/thumb.jpg?t=625&scale=640x360&v=high"
+    },
+    {
+      "startTime": 620,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa23091126/2a307592-7.smil/thumb.jpg?t=646&scale=640x360&v=high"
+    },
+    {
+      "startTime": 687,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa23091126/2a307592-7.smil/thumb.jpg?t=706.55&scale=640x360&v=high"
+    }
+  ]
+}
