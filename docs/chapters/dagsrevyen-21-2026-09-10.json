@@ -1,0 +1,63 @@
+{
+  "version": "1.2.0",
+  "title": "Endringer i regjeringen",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa21091026/4ac49f45-5.smil/thumb.jpg?t=25&scale=640x360&v=high"
+    },
+    {
+      "startTime": 61,
+      "title": "Regjeringen",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa21091026/4ac49f45-5.smil/thumb.jpg?t=86&scale=640x360&v=high"
+    },
+    {
+      "startTime": 68,
+      "title": "Gjest:",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa21091026/4ac49f45-5.smil/thumb.jpg?t=93&scale=640x360&v=high"
+    },
+    {
+      "startTime": 177,
+      "title": "Unge i forsvaret",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa21091026/4ac49f45-5.smil/thumb.jpg?t=203&scale=640x360&v=high"
+    },
+    {
+      "startTime": 282,
+      "title": "Angrep Ukraina",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa21091026/4ac49f45-5.smil/thumb.jpg?t=308&scale=640x360&v=high"
+    },
+    {
+      "startTime": 307,
+      "title": "Trump og republikanerne",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa21091026/4ac49f45-5.smil/thumb.jpg?t=332&scale=640x360&v=high"
+    },
+    {
+      "startTime": 365,
+      "title": "Tre unge gutter dømt for vold mot russ",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa21091026/4ac49f45-5.smil/thumb.jpg?t=390&scale=640x360&v=high"
+    },
+    {
+      "startTime": 476,
+      "title": "Nettpromo",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa21091026/4ac49f45-5.smil/thumb.jpg?t=501&scale=640x360&v=high"
+    },
+    {
+      "startTime": 491,
+      "title": "Bjørkan pause",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa21091026/4ac49f45-5.smil/thumb.jpg?t=516&scale=640x360&v=high"
+    },
+    {
+      "startTime": 547,
+      "title": "Været",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa21091026/4ac49f45-5.smil/thumb.jpg?t=572&scale=640x360&v=high"
+    },
+    {
+      "startTime": 599,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa21091026/4ac49f45-5.smil/thumb.jpg?t=619.72&scale=640x360&v=high"
+    }
+  ]
+}
