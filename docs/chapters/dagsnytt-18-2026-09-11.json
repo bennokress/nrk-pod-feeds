@@ -1,0 +1,53 @@
+{
+  "version": "1.2.0",
+  "title": "Prinsesse Astrid er død",
+  "author": "NRK",
+  "podcastName": "Dagsnytt 18",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsnytt atten",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa56091126/5a89c1df-7.smil/thumb.jpg?t=25&scale=640x360&v=high"
+    },
+    {
+      "startTime": 56,
+      "title": "Prinsesse Astrid er død",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa56091126/5a89c1df-7.smil/thumb.jpg?t=82&scale=640x360&v=high"
+    },
+    {
+      "startTime": 890,
+      "title": "Nye statsråder",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa56091126/5a89c1df-7.smil/thumb.jpg?t=915&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1989,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa56091126/5a89c1df-7.smil/thumb.jpg?t=2014&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1999,
+      "title": "25 år siden 11. september",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa56091126/5a89c1df-7.smil/thumb.jpg?t=2025&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2720,
+      "title": "LOs 11. september-markering",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa56091126/5a89c1df-7.smil/thumb.jpg?t=2745&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3205,
+      "title": "Valg i Sverige",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa56091126/5a89c1df-7.smil/thumb.jpg?t=3231&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3522,
+      "title": "AVSLUTNING",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa56091126/5a89c1df-7.smil/thumb.jpg?t=3543.76&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3530,
+      "title": "SLUTTKJENNING",
+      "img": "https://nrk-od-world-85.akamaized.net/open/ps/nnfa/nnfa56091126/5a89c1df-7.smil/thumb.jpg?t=3543.76&scale=640x360&v=high"
+    }
+  ]
+}
