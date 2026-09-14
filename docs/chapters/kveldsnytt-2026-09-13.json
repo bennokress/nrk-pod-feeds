@@ -1,0 +1,63 @@
+{
+  "version": "1.2.0",
+  "title": "Dødt løp i svensk valg",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa23091326/f9974b31-7.smil/thumb.jpg?t=25&scale=640x360&v=high"
+    },
+    {
+      "startTime": 33,
+      "title": "Valg i Sverige",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa23091326/f9974b31-7.smil/thumb.jpg?t=58&scale=640x360&v=high"
+    },
+    {
+      "startTime": 109,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa23091326/f9974b31-7.smil/thumb.jpg?t=134&scale=640x360&v=high"
+    },
+    {
+      "startTime": 280,
+      "title": "Reaksjoner valg",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa23091326/f9974b31-7.smil/thumb.jpg?t=305&scale=640x360&v=high"
+    },
+    {
+      "startTime": 329,
+      "title": "Angrep Ukraina",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa23091326/f9974b31-7.smil/thumb.jpg?t=354&scale=640x360&v=high"
+    },
+    {
+      "startTime": 397,
+      "title": "Øvelse hovedstad",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa23091326/f9974b31-7.smil/thumb.jpg?t=423&scale=640x360&v=high"
+    },
+    {
+      "startTime": 454,
+      "title": "Friidrett",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa23091326/f9974b31-7.smil/thumb.jpg?t=479&scale=640x360&v=high"
+    },
+    {
+      "startTime": 527,
+      "title": "Sykkel",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa23091326/f9974b31-7.smil/thumb.jpg?t=552&scale=640x360&v=high"
+    },
+    {
+      "startTime": 587,
+      "title": "FFK-Sarp",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa23091326/f9974b31-7.smil/thumb.jpg?t=613&scale=640x360&v=high"
+    },
+    {
+      "startTime": 672,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa23091326/f9974b31-7.smil/thumb.jpg?t=698&scale=640x360&v=high"
+    },
+    {
+      "startTime": 731,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa23091326/f9974b31-7.smil/thumb.jpg?t=757&scale=640x360&v=high"
+    }
+  ]
+}
