@@ -1,0 +1,43 @@
+{
+  "version": "1.2.0",
+  "title": "Valgthriller i Sverige",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa21091326/c743f091-5.smil/thumb.jpg?t=25&scale=640x360&v=high"
+    },
+    {
+      "startTime": 17,
+      "title": "Valg Sverige",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa21091326/c743f091-5.smil/thumb.jpg?t=43&scale=640x360&v=high"
+    },
+    {
+      "startTime": 108,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa21091326/c743f091-5.smil/thumb.jpg?t=134&scale=640x360&v=high"
+    },
+    {
+      "startTime": 156,
+      "title": "Reaksjoner valg",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa21091326/c743f091-5.smil/thumb.jpg?t=182&scale=640x360&v=high"
+    },
+    {
+      "startTime": 260,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa21091326/c743f091-5.smil/thumb.jpg?t=285&scale=640x360&v=high"
+    },
+    {
+      "startTime": 416,
+      "title": "Været",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa21091326/c743f091-5.smil/thumb.jpg?t=441&scale=640x360&v=high"
+    },
+    {
+      "startTime": 474,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-33.akamaized.net/open/ps/nnfa/nnfa21091326/c743f091-5.smil/thumb.jpg?t=494.52&scale=640x360&v=high"
+    }
+  ]
+}
