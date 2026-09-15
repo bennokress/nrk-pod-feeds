@@ -1,0 +1,138 @@
+{
+  "version": "1.2.0",
+  "title": "Kaotisk situasjon etter valget",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 9,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-95.akamaized.net/open/ps/nnfa/nnfa19091426/f8a5eecb-11.smil/thumb.jpg?t=35&scale=640x360&v=high"
+    },
+    {
+      "startTime": 69,
+      "title": "Direkte fra Stockholm",
+      "img": "https://nrk-od-world-95.akamaized.net/open/ps/nnfa/nnfa19091426/f8a5eecb-11.smil/thumb.jpg?t=94&scale=640x360&v=high"
+    },
+    {
+      "startTime": 113,
+      "title": "Valget i Sverige",
+      "img": "https://nrk-od-world-95.akamaized.net/open/ps/nnfa/nnfa19091426/f8a5eecb-11.smil/thumb.jpg?t=139&scale=640x360&v=high"
+    },
+    {
+      "startTime": 205,
+      "title": "Direkte fra Stockholm",
+      "img": "https://nrk-od-world-95.akamaized.net/open/ps/nnfa/nnfa19091426/f8a5eecb-11.smil/thumb.jpg?t=231&scale=640x360&v=high"
+    },
+    {
+      "startTime": 300,
+      "title": "Banker konkurranse",
+      "img": "https://nrk-od-world-95.akamaized.net/open/ps/nnfa/nnfa19091426/f8a5eecb-11.smil/thumb.jpg?t=325&scale=640x360&v=high"
+    },
+    {
+      "startTime": 438,
+      "title": "Stoltenberg",
+      "img": "https://nrk-od-world-95.akamaized.net/open/ps/nnfa/nnfa19091426/f8a5eecb-11.smil/thumb.jpg?t=463&scale=640x360&v=high"
+    },
+    {
+      "startTime": 529,
+      "title": "Direkte: Førde",
+      "img": "https://nrk-od-world-95.akamaized.net/open/ps/nnfa/nnfa19091426/f8a5eecb-11.smil/thumb.jpg?t=554&scale=640x360&v=high"
+    },
+    {
+      "startTime": 654,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-95.akamaized.net/open/ps/nnfa/nnfa19091426/f8a5eecb-11.smil/thumb.jpg?t=679&scale=640x360&v=high"
+    },
+    {
+      "startTime": 701,
+      "title": "Nettovergripere",
+      "img": "https://nrk-od-world-95.akamaized.net/open/ps/nnfa/nnfa19091426/f8a5eecb-11.smil/thumb.jpg?t=727&scale=640x360&v=high"
+    },
+    {
+      "startTime": 841,
+      "title": "Fiskere rettssak",
+      "img": "https://nrk-od-world-95.akamaized.net/open/ps/nnfa/nnfa19091426/f8a5eecb-11.smil/thumb.jpg?t=867&scale=640x360&v=high"
+    },
+    {
+      "startTime": 957,
+      "title": "Angrep grensen Ukraina",
+      "img": "https://nrk-od-world-95.akamaized.net/open/ps/nnfa/nnfa19091426/f8a5eecb-11.smil/thumb.jpg?t=983&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1064,
+      "title": "Gjest: Palle Ydstebø",
+      "img": "https://nrk-od-world-95.akamaized.net/open/ps/nnfa/nnfa19091426/f8a5eecb-11.smil/thumb.jpg?t=1090&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1208,
+      "title": "Utenriksnyheter",
+      "img": "https://nrk-od-world-95.akamaized.net/open/ps/nnfa/nnfa19091426/f8a5eecb-11.smil/thumb.jpg?t=1233&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1311,
+      "title": "Madshus",
+      "img": "https://nrk-od-world-95.akamaized.net/open/ps/nnfa/nnfa19091426/f8a5eecb-11.smil/thumb.jpg?t=1336&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1481,
+      "title": "Dyrt vann og kloakk",
+      "img": "https://nrk-od-world-95.akamaized.net/open/ps/nnfa/nnfa19091426/f8a5eecb-11.smil/thumb.jpg?t=1506&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1613,
+      "title": "KI-advarsel",
+      "img": "https://nrk-od-world-95.akamaized.net/open/ps/nnfa/nnfa19091426/f8a5eecb-11.smil/thumb.jpg?t=1638&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1706,
+      "title": "Direkte Washington",
+      "img": "https://nrk-od-world-95.akamaized.net/open/ps/nnfa/nnfa19091426/f8a5eecb-11.smil/thumb.jpg?t=1732&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1763,
+      "title": "Gjest: KI Norge",
+      "img": "https://nrk-od-world-95.akamaized.net/open/ps/nnfa/nnfa19091426/f8a5eecb-11.smil/thumb.jpg?t=1789&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1906,
+      "title": "Marian Hussain hets",
+      "img": "https://nrk-od-world-95.akamaized.net/open/ps/nnfa/nnfa19091426/f8a5eecb-11.smil/thumb.jpg?t=1931&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2032,
+      "title": "Kultur",
+      "img": "https://nrk-od-world-95.akamaized.net/open/ps/nnfa/nnfa19091426/f8a5eecb-11.smil/thumb.jpg?t=2057&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2137,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-95.akamaized.net/open/ps/nnfa/nnfa19091426/f8a5eecb-11.smil/thumb.jpg?t=2162&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2141,
+      "title": "Baldauf legger opp",
+      "img": "https://nrk-od-world-95.akamaized.net/open/ps/nnfa/nnfa19091426/f8a5eecb-11.smil/thumb.jpg?t=2167&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2263,
+      "title": "Doping OL-utøver",
+      "img": "https://nrk-od-world-95.akamaized.net/open/ps/nnfa/nnfa19091426/f8a5eecb-11.smil/thumb.jpg?t=2288&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2290,
+      "title": "Hærverk Åråsen",
+      "img": "https://nrk-od-world-95.akamaized.net/open/ps/nnfa/nnfa19091426/f8a5eecb-11.smil/thumb.jpg?t=2316&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2388,
+      "title": "Friidrett",
+      "img": "https://nrk-od-world-95.akamaized.net/open/ps/nnfa/nnfa19091426/f8a5eecb-11.smil/thumb.jpg?t=2413&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2458,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-95.akamaized.net/open/ps/nnfa/nnfa19091426/f8a5eecb-11.smil/thumb.jpg?t=2483&scale=640x360&v=high"
+    }
+  ]
+}
