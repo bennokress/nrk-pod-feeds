@@ -1,0 +1,48 @@
+{
+  "version": "1.2.0",
+  "title": "Zelenskyj: Vil droppe angrep mot energimål",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa21091426/65e8b22b-6.smil/thumb.jpg?t=25&scale=640x360&v=high"
+    },
+    {
+      "startTime": 28,
+      "title": "Ukraina energimål",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa21091426/65e8b22b-6.smil/thumb.jpg?t=53&scale=640x360&v=high"
+    },
+    {
+      "startTime": 58,
+      "title": "Stor HV øvelse i gang i Oslo",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa21091426/65e8b22b-6.smil/thumb.jpg?t=83&scale=640x360&v=high"
+    },
+    {
+      "startTime": 150,
+      "title": "DAGSREVYPAKKE",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa21091426/65e8b22b-6.smil/thumb.jpg?t=176&scale=640x360&v=high"
+    },
+    {
+      "startTime": 263,
+      "title": "Sykehusansatte smerter",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa21091426/65e8b22b-6.smil/thumb.jpg?t=289&scale=640x360&v=high"
+    },
+    {
+      "startTime": 358,
+      "title": "Problemer Wergelandsparken",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa21091426/65e8b22b-6.smil/thumb.jpg?t=384&scale=640x360&v=high"
+    },
+    {
+      "startTime": 465,
+      "title": "Været",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa21091426/65e8b22b-6.smil/thumb.jpg?t=490&scale=640x360&v=high"
+    },
+    {
+      "startTime": 516,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa21091426/65e8b22b-6.smil/thumb.jpg?t=536.44&scale=640x360&v=high"
+    }
+  ]
+}
