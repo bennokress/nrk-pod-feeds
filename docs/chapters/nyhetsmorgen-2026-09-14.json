@@ -1,0 +1,268 @@
+{
+  "version": "1.2.0",
+  "title": "Valgthriller i Sverige",
+  "author": "NRK",
+  "podcastName": "Nyhetsmorgen",
+  "chapters": [
+    {
+      "startTime": 1,
+      "title": "Åpning 06:30",
+      "img": "https://nrk-od-world-55.akamaized.net/open/ps/nnfa/nnfa05091426/5acbe79b-5.smil/thumb.jpg?t=27&scale=640x360&v=high"
+    },
+    {
+      "startTime": 84,
+      "title": "Valgresultatet i Sverige fortsatt uavklart",
+      "img": "https://nrk-od-world-55.akamaized.net/open/ps/nnfa/nnfa05091426/5acbe79b-5.smil/thumb.jpg?t=110&scale=640x360&v=high"
+    },
+    {
+      "startTime": 413,
+      "title": "Vurderer å gi seg: Sliten av hat og hets",
+      "img": "https://nrk-od-world-55.akamaized.net/open/ps/nnfa/nnfa05091426/5acbe79b-5.smil/thumb.jpg?t=438&scale=640x360&v=high"
+    },
+    {
+      "startTime": 470,
+      "title": "Siste nytt",
+      "img": "https://nrk-od-world-55.akamaized.net/open/ps/nnfa/nnfa05091426/5acbe79b-5.smil/thumb.jpg?t=495&scale=640x360&v=high"
+    },
+    {
+      "startTime": 596,
+      "title": "Huseiere må bytte ut renseanlegg",
+      "img": "https://nrk-od-world-55.akamaized.net/open/ps/nnfa/nnfa05091426/5acbe79b-5.smil/thumb.jpg?t=621&scale=640x360&v=high"
+    },
+    {
+      "startTime": 774,
+      "title": "Forskningsprosjekt 3D-print",
+      "img": "https://nrk-od-world-55.akamaized.net/open/ps/nnfa/nnfa05091426/5acbe79b-5.smil/thumb.jpg?t=800&scale=640x360&v=high"
+    },
+    {
+      "startTime": 929,
+      "title": "Overskrifter 06:45",
+      "img": "https://nrk-od-world-55.akamaized.net/open/ps/nnfa/nnfa05091426/5acbe79b-5.smil/thumb.jpg?t=954&scale=640x360&v=high"
+    },
+    {
+      "startTime": 958,
+      "title": "Passasjertog truffet av drone i Ukraina",
+      "img": "https://nrk-od-world-55.akamaized.net/open/ps/nnfa/nnfa05091426/5acbe79b-5.smil/thumb.jpg?t=984&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1135,
+      "title": "Har løyst prestekrisa",
+      "img": "https://nrk-od-world-55.akamaized.net/open/ps/nnfa/nnfa05091426/5acbe79b-5.smil/thumb.jpg?t=1160&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1301,
+      "title": "Forsker på bjørns personlighet",
+      "img": "https://nrk-od-world-55.akamaized.net/open/ps/nnfa/nnfa05091426/5acbe79b-5.smil/thumb.jpg?t=1326&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1490,
+      "title": "Stor oppgradering av strømnettet",
+      "img": "https://nrk-od-world-55.akamaized.net/open/ps/nnfa/nnfa05091426/5acbe79b-5.smil/thumb.jpg?t=1516&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1624,
+      "title": "Historisk lang applaus i Venezia",
+      "img": "https://nrk-od-world-55.akamaized.net/open/ps/nnfa/nnfa05091426/5acbe79b-5.smil/thumb.jpg?t=1650&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1819,
+      "title": "Åpning 07:00",
+      "img": "https://nrk-od-world-55.akamaized.net/open/ps/nnfa/nnfa05091426/5acbe79b-5.smil/thumb.jpg?t=1844&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1843,
+      "title": "Valgresultatet i Sverige fortsatt uavklart",
+      "img": "https://nrk-od-world-55.akamaized.net/open/ps/nnfa/nnfa05091426/5acbe79b-5.smil/thumb.jpg?t=1869&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2452,
+      "title": "Vurderer å gi seg: Sliten av hat og hets",
+      "img": "https://nrk-od-world-55.akamaized.net/open/ps/nnfa/nnfa05091426/5acbe79b-5.smil/thumb.jpg?t=2477&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2882,
+      "title": "Overskrifter 07:15",
+      "img": "https://nrk-od-world-55.akamaized.net/open/ps/nnfa/nnfa05091426/5acbe79b-5.smil/thumb.jpg?t=2908&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2938,
+      "title": "Jakten på nettovergriperne",
+      "img": "https://nrk-od-world-55.akamaized.net/open/ps/nnfa/nnfa05091426/5acbe79b-5.smil/thumb.jpg?t=2964&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3243,
+      "title": "Kontrastfylt seriestart i ishockey",
+      "img": "https://nrk-od-world-55.akamaized.net/open/ps/nnfa/nnfa05091426/5acbe79b-5.smil/thumb.jpg?t=3269&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3340,
+      "title": "Elitehockey-leder om seriestart",
+      "img": "https://nrk-od-world-55.akamaized.net/open/ps/nnfa/nnfa05091426/5acbe79b-5.smil/thumb.jpg?t=3365&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3568,
+      "title": "Lindmo og co",
+      "img": "https://nrk-od-world-55.akamaized.net/open/ps/nnfa/nnfa05091426/5acbe79b-5.smil/thumb.jpg?t=3593&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3602,
+      "title": "Overskrifter 07:30",
+      "img": "https://nrk-od-world-55.akamaized.net/open/ps/nnfa/nnfa05091426/5acbe79b-5.smil/thumb.jpg?t=3628&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3631,
+      "title": "Valget i Sverige",
+      "img": "https://nrk-od-world-55.akamaized.net/open/ps/nnfa/nnfa05091426/5acbe79b-5.smil/thumb.jpg?t=3657&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3872,
+      "title": "Vurderer å gi seg: Sliten av hat og hets",
+      "img": "https://nrk-od-world-55.akamaized.net/open/ps/nnfa/nnfa05091426/5acbe79b-5.smil/thumb.jpg?t=3898&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3968,
+      "title": "Nye anbefalinger for barn og nett",
+      "img": "https://nrk-od-world-55.akamaized.net/open/ps/nnfa/nnfa05091426/5acbe79b-5.smil/thumb.jpg?t=3994&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4002,
+      "title": "Jakten på nettovergriperne",
+      "img": "https://nrk-od-world-55.akamaized.net/open/ps/nnfa/nnfa05091426/5acbe79b-5.smil/thumb.jpg?t=4027&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4051,
+      "title": "Ukraina-tog truffet av drone",
+      "img": "https://nrk-od-world-55.akamaized.net/open/ps/nnfa/nnfa05091426/5acbe79b-5.smil/thumb.jpg?t=4077&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4163,
+      "title": "Månefenomen i dag",
+      "img": "https://nrk-od-world-55.akamaized.net/open/ps/nnfa/nnfa05091426/5acbe79b-5.smil/thumb.jpg?t=4189&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4199,
+      "title": "Åpning 07:40",
+      "img": "https://nrk-od-world-55.akamaized.net/open/ps/nnfa/nnfa05091426/5acbe79b-5.smil/thumb.jpg?t=4224&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4215,
+      "title": "Har løyst prestekrisa",
+      "img": "https://nrk-od-world-55.akamaized.net/open/ps/nnfa/nnfa05091426/5acbe79b-5.smil/thumb.jpg?t=4241&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4414,
+      "title": "Forskningsprosjekt 3D-print",
+      "img": "https://nrk-od-world-55.akamaized.net/open/ps/nnfa/nnfa05091426/5acbe79b-5.smil/thumb.jpg?t=4439&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4461,
+      "title": "Topper 07:44",
+      "img": "https://nrk-od-world-55.akamaized.net/open/ps/nnfa/nnfa05091426/5acbe79b-5.smil/thumb.jpg?t=4486&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4474,
+      "title": "Overgang til Politisk kvarter",
+      "img": "https://nrk-od-world-55.akamaized.net/open/ps/nnfa/nnfa05091426/5acbe79b-5.smil/thumb.jpg?t=4499&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5403,
+      "title": "NRK Nyheter 08:00",
+      "img": "https://nrk-od-world-55.akamaized.net/open/ps/nnfa/nnfa05091426/5acbe79b-5.smil/thumb.jpg?t=5428&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5580,
+      "title": "Åpning 08:03",
+      "img": "https://nrk-od-world-55.akamaized.net/open/ps/nnfa/nnfa05091426/5acbe79b-5.smil/thumb.jpg?t=5605&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5650,
+      "title": "Valgresultatet i Sverige fortsatt uavklart",
+      "img": "https://nrk-od-world-55.akamaized.net/open/ps/nnfa/nnfa05091426/5acbe79b-5.smil/thumb.jpg?t=5676&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5881,
+      "title": "Jakten på nettovergriperne",
+      "img": "https://nrk-od-world-55.akamaized.net/open/ps/nnfa/nnfa05091426/5acbe79b-5.smil/thumb.jpg?t=5907&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6195,
+      "title": "Canada ser mot EU",
+      "img": "https://nrk-od-world-55.akamaized.net/open/ps/nnfa/nnfa05091426/5acbe79b-5.smil/thumb.jpg?t=6220&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6438,
+      "title": "Overskrifter 08:15",
+      "img": "https://nrk-od-world-55.akamaized.net/open/ps/nnfa/nnfa05091426/5acbe79b-5.smil/thumb.jpg?t=6464&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6479,
+      "title": "USAs statsgjeld: Dyre valgløfter uten plan",
+      "img": "https://nrk-od-world-55.akamaized.net/open/ps/nnfa/nnfa05091426/5acbe79b-5.smil/thumb.jpg?t=6505&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6751,
+      "title": "Mandagspanelet",
+      "img": "https://nrk-od-world-55.akamaized.net/open/ps/nnfa/nnfa05091426/5acbe79b-5.smil/thumb.jpg?t=6777&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7241,
+      "title": "Hør Ekko i NRK P2",
+      "img": "https://nrk-od-world-55.akamaized.net/open/ps/nnfa/nnfa05091426/5acbe79b-5.smil/thumb.jpg?t=7266&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7293,
+      "title": "Overskrifter 08:30",
+      "img": "https://nrk-od-world-55.akamaized.net/open/ps/nnfa/nnfa05091426/5acbe79b-5.smil/thumb.jpg?t=7318&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7333,
+      "title": "Fortsatt uavklart valgresultat i Sverige",
+      "img": "https://nrk-od-world-55.akamaized.net/open/ps/nnfa/nnfa05091426/5acbe79b-5.smil/thumb.jpg?t=7359&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7582,
+      "title": "Norske reaksjonar svensk val",
+      "img": "https://nrk-od-world-55.akamaized.net/open/ps/nnfa/nnfa05091426/5acbe79b-5.smil/thumb.jpg?t=7607&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7755,
+      "title": "Trump vil ikkje bremse KI",
+      "img": "https://nrk-od-world-55.akamaized.net/open/ps/nnfa/nnfa05091426/5acbe79b-5.smil/thumb.jpg?t=7780&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7900,
+      "title": "Vil forby AfD",
+      "img": "https://nrk-od-world-55.akamaized.net/open/ps/nnfa/nnfa05091426/5acbe79b-5.smil/thumb.jpg?t=7926&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8104,
+      "title": "Vurderer å gi seg: Sliten av hat og hets",
+      "img": "https://nrk-od-world-55.akamaized.net/open/ps/nnfa/nnfa05091426/5acbe79b-5.smil/thumb.jpg?t=8130&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8243,
+      "title": "Regjeringa med nye skjermråd",
+      "img": "https://nrk-od-world-55.akamaized.net/open/ps/nnfa/nnfa05091426/5acbe79b-5.smil/thumb.jpg?t=8269&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8434,
+      "title": "Anmeldelse: «Fruen fra havet»",
+      "img": "https://nrk-od-world-55.akamaized.net/open/ps/nnfa/nnfa05091426/5acbe79b-5.smil/thumb.jpg?t=8459&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8724,
+      "title": "Historisk lang applaus i Venezia",
+      "img": "https://nrk-od-world-55.akamaized.net/open/ps/nnfa/nnfa05091426/5acbe79b-5.smil/thumb.jpg?t=8750&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8930,
+      "title": "GJEST Været i dag",
+      "img": "https://nrk-od-world-55.akamaized.net/open/ps/nnfa/nnfa05091426/5acbe79b-5.smil/thumb.jpg?t=8956&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8990,
+      "title": "Avslutning",
+      "img": "https://nrk-od-world-55.akamaized.net/open/ps/nnfa/nnfa05091426/5acbe79b-5.smil/thumb.jpg?t=9004.36&scale=640x360&v=high"
+    }
+  ]
+}
