@@ -1,0 +1,48 @@
+{
+  "version": "1.2.0",
+  "title": "Krever innsyn",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa21091526/e218f3d5-8.smil/thumb.jpg?t=25&scale=640x360&v=high"
+    },
+    {
+      "startTime": 26,
+      "title": "Telenor granskers",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa21091526/e218f3d5-8.smil/thumb.jpg?t=52&scale=640x360&v=high"
+    },
+    {
+      "startTime": 138,
+      "title": "Danmark",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa21091526/e218f3d5-8.smil/thumb.jpg?t=164&scale=640x360&v=high"
+    },
+    {
+      "startTime": 181,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa21091526/e218f3d5-8.smil/thumb.jpg?t=206&scale=640x360&v=high"
+    },
+    {
+      "startTime": 325,
+      "title": "DAGSREVYPAKKE",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa21091526/e218f3d5-8.smil/thumb.jpg?t=350&scale=640x360&v=high"
+    },
+    {
+      "startTime": 385,
+      "title": "Studentene mer fornøyde",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa21091526/e218f3d5-8.smil/thumb.jpg?t=410&scale=640x360&v=high"
+    },
+    {
+      "startTime": 507,
+      "title": "Været",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa21091526/e218f3d5-8.smil/thumb.jpg?t=532&scale=640x360&v=high"
+    },
+    {
+      "startTime": 556,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa21091526/e218f3d5-8.smil/thumb.jpg?t=576.67&scale=640x360&v=high"
+    }
+  ]
+}
