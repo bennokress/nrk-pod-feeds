@@ -1,0 +1,73 @@
+{
+  "version": "1.2.0",
+  "title": "Telenor ransaket",
+  "author": "NRK",
+  "podcastName": "Dagsnytt 18",
+  "chapters": [
+    {
+      "startTime": 1,
+      "title": "Dagsnytt atten",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa56091526/6b624b24-5.smil/thumb.jpg?t=27&scale=640x360&v=high"
+    },
+    {
+      "startTime": 74,
+      "title": "Overtid for deltidsansatte",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa56091526/6b624b24-5.smil/thumb.jpg?t=99&scale=640x360&v=high"
+    },
+    {
+      "startTime": 856,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa56091526/6b624b24-5.smil/thumb.jpg?t=882&scale=640x360&v=high"
+    },
+    {
+      "startTime": 867,
+      "title": "Telenor ransaket",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa56091526/6b624b24-5.smil/thumb.jpg?t=892&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1460,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa56091526/6b624b24-5.smil/thumb.jpg?t=1486&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1470,
+      "title": "Kommer senere",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa56091526/6b624b24-5.smil/thumb.jpg?t=1496&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1476,
+      "title": "Forbud mot KI-briller",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa56091526/6b624b24-5.smil/thumb.jpg?t=1501&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2279,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa56091526/6b624b24-5.smil/thumb.jpg?t=2304&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2289,
+      "title": "Russland intensiverer angrep",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa56091526/6b624b24-5.smil/thumb.jpg?t=2314&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3111,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa56091526/6b624b24-5.smil/thumb.jpg?t=3137&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3122,
+      "title": "Kriminelle i barnevernet",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa56091526/6b624b24-5.smil/thumb.jpg?t=3147&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3529,
+      "title": "AVSLUTNING",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa56091526/6b624b24-5.smil/thumb.jpg?t=3544.96&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3535,
+      "title": "SLUTTKJENNING",
+      "img": "https://nrk-od-world-82.akamaized.net/open/ps/nnfa/nnfa56091526/6b624b24-5.smil/thumb.jpg?t=3544.96&scale=640x360&v=high"
+    }
+  ]
+}
