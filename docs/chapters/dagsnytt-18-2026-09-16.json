@@ -1,0 +1,78 @@
+{
+  "version": "1.2.0",
+  "title": "Ønsker europeisk sikkerhetsråd",
+  "author": "NRK",
+  "podcastName": "Dagsnytt 18",
+  "chapters": [
+    {
+      "startTime": 1,
+      "title": "Dagsnytt atten",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa56091626/b727ad5e-5.smil/thumb.jpg?t=27&scale=640x360&v=high"
+    },
+    {
+      "startTime": 65,
+      "title": "Europeisk sikkerhetsråd",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa56091626/b727ad5e-5.smil/thumb.jpg?t=90&scale=640x360&v=high"
+    },
+    {
+      "startTime": 924,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa56091626/b727ad5e-5.smil/thumb.jpg?t=950&scale=640x360&v=high"
+    },
+    {
+      "startTime": 935,
+      "title": "Ny papirfabrikk på Hønefoss",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa56091626/b727ad5e-5.smil/thumb.jpg?t=960&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1461,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa56091626/b727ad5e-5.smil/thumb.jpg?t=1487&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1472,
+      "title": "Kritikk av Redaktørforeningen",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa56091626/b727ad5e-5.smil/thumb.jpg?t=1498&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1985,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa56091626/b727ad5e-5.smil/thumb.jpg?t=2011&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1995,
+      "title": "Prisen på funksjonshemmede",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa56091626/b727ad5e-5.smil/thumb.jpg?t=2021&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2539,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa56091626/b727ad5e-5.smil/thumb.jpg?t=2565&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2550,
+      "title": "Seksualisering i Norges tøffeste",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa56091626/b727ad5e-5.smil/thumb.jpg?t=2575&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3009,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa56091626/b727ad5e-5.smil/thumb.jpg?t=3034&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3020,
+      "title": "Våpen i verdensrommet",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa56091626/b727ad5e-5.smil/thumb.jpg?t=3045&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3519,
+      "title": "AVSLUTNING",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa56091626/b727ad5e-5.smil/thumb.jpg?t=3543.92&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3525,
+      "title": "SLUTTKJENNING",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa56091626/b727ad5e-5.smil/thumb.jpg?t=3543.92&scale=640x360&v=high"
+    }
+  ]
+}
