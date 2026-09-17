@@ -1,0 +1,283 @@
+{
+  "version": "1.2.0",
+  "title": "Innfører rasjonering på en type diabetesmedisin",
+  "author": "NRK",
+  "podcastName": "Nyhetsmorgen",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Åpning 06:30",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa05091626/82ede6fc-6.smil/thumb.jpg?t=25&scale=640x360&v=high"
+    },
+    {
+      "startTime": 58,
+      "title": "Uenige om KI-profetiene",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa05091626/82ede6fc-6.smil/thumb.jpg?t=84&scale=640x360&v=high"
+    },
+    {
+      "startTime": 116,
+      "title": "Rasjonering av diabetesmedisin",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa05091626/82ede6fc-6.smil/thumb.jpg?t=141&scale=640x360&v=high"
+    },
+    {
+      "startTime": 255,
+      "title": "Frykter økt toll på fisk",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa05091626/82ede6fc-6.smil/thumb.jpg?t=280&scale=640x360&v=high"
+    },
+    {
+      "startTime": 507,
+      "title": "Siste nytt",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa05091626/82ede6fc-6.smil/thumb.jpg?t=533&scale=640x360&v=high"
+    },
+    {
+      "startTime": 625,
+      "title": "Flere brannøvelser i hjemmet",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa05091626/82ede6fc-6.smil/thumb.jpg?t=651&scale=640x360&v=high"
+    },
+    {
+      "startTime": 767,
+      "title": "– Fosen-dommen klargjør samiske rettigheter",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa05091626/82ede6fc-6.smil/thumb.jpg?t=792&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1001,
+      "title": "Overskrifter 06:45",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa05091626/82ede6fc-6.smil/thumb.jpg?t=1027&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1048,
+      "title": "Mener nullutslippskrav er en vits",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa05091626/82ede6fc-6.smil/thumb.jpg?t=1073&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1223,
+      "title": "Trekk seg frå Sheerans turne",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa05091626/82ede6fc-6.smil/thumb.jpg?t=1248&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1387,
+      "title": "Trenersamarbeid",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa05091626/82ede6fc-6.smil/thumb.jpg?t=1412&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1516,
+      "title": "Folk tilbake på bibliotekene",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa05091626/82ede6fc-6.smil/thumb.jpg?t=1542&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1770,
+      "title": "Leseklubben: Prosessen av Franz Kafka",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa05091626/82ede6fc-6.smil/thumb.jpg?t=1795&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1799,
+      "title": "Åpning 07:00",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa05091626/82ede6fc-6.smil/thumb.jpg?t=1825&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1868,
+      "title": "Ukraina før Trump-møte",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa05091626/82ede6fc-6.smil/thumb.jpg?t=1893&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2086,
+      "title": "Uenige om KI-profetiene",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa05091626/82ede6fc-6.smil/thumb.jpg?t=2112&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2277,
+      "title": "Diabetesmedisin rasjonering",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa05091626/82ede6fc-6.smil/thumb.jpg?t=2302&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2470,
+      "title": "Diabetesforbundet om rasjonering",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa05091626/82ede6fc-6.smil/thumb.jpg?t=2496&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2713,
+      "title": "Den amerikanske tiårsrenta",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa05091626/82ede6fc-6.smil/thumb.jpg?t=2738&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3043,
+      "title": "Før Politisk kvarter",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa05091626/82ede6fc-6.smil/thumb.jpg?t=3068&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3071,
+      "title": "Turismen i Jordan",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa05091626/82ede6fc-6.smil/thumb.jpg?t=3096&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3198,
+      "title": "Trening mot overspising",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa05091626/82ede6fc-6.smil/thumb.jpg?t=3224&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3365,
+      "title": "Kritikk rundt Trump-bryllup",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa05091626/82ede6fc-6.smil/thumb.jpg?t=3390&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3568,
+      "title": "Hurtigruta brenner",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa05091626/82ede6fc-6.smil/thumb.jpg?t=3593&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3600,
+      "title": "Overskrifter 07:30",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa05091626/82ede6fc-6.smil/thumb.jpg?t=3625&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3633,
+      "title": "Uenige om KI-profetiene",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa05091626/82ede6fc-6.smil/thumb.jpg?t=3658&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3758,
+      "title": "Ukraina før Trump-møte",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa05091626/82ede6fc-6.smil/thumb.jpg?t=3784&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3838,
+      "title": "Frykter økt toll på fisk",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa05091626/82ede6fc-6.smil/thumb.jpg?t=3863&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3948,
+      "title": "Diabetesmedisin rasjonering",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa05091626/82ede6fc-6.smil/thumb.jpg?t=3974&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4067,
+      "title": "Slagsmål på hytte i Kristiansand",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa05091626/82ede6fc-6.smil/thumb.jpg?t=4093&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4098,
+      "title": "Flere brannøvelser i hjemmet",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa05091626/82ede6fc-6.smil/thumb.jpg?t=4123&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4199,
+      "title": "Åpning 07:40",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa05091626/82ede6fc-6.smil/thumb.jpg?t=4225&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4218,
+      "title": "Påkjenning for politiet",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa05091626/82ede6fc-6.smil/thumb.jpg?t=4243&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5400,
+      "title": "NRK Nyheter 08:00",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa05091626/82ede6fc-6.smil/thumb.jpg?t=5425&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5579,
+      "title": "Åpning 08:03",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa05091626/82ede6fc-6.smil/thumb.jpg?t=5604&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5632,
+      "title": "EUs tale om unionens tilstand",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa05091626/82ede6fc-6.smil/thumb.jpg?t=5658&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5915,
+      "title": "Uenige om KI-profetiene",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa05091626/82ede6fc-6.smil/thumb.jpg?t=5941&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6105,
+      "title": "Diabetesmedisin rasjonering",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa05091626/82ede6fc-6.smil/thumb.jpg?t=6131&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6221,
+      "title": "Overskrifter 08:15",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa05091626/82ede6fc-6.smil/thumb.jpg?t=6246&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6254,
+      "title": "Ung demokrat skaper republikansk panikk",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa05091626/82ede6fc-6.smil/thumb.jpg?t=6280&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6578,
+      "title": "Mener nullutslippskrav er en vits",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa05091626/82ede6fc-6.smil/thumb.jpg?t=6604&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6778,
+      "title": "Munchmuseet vannlekkasje",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa05091626/82ede6fc-6.smil/thumb.jpg?t=6803&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6898,
+      "title": "Trenersamarbeid",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa05091626/82ede6fc-6.smil/thumb.jpg?t=6923&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7029,
+      "title": "Frykter økt toll på fisk",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa05091626/82ede6fc-6.smil/thumb.jpg?t=7055&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7145,
+      "title": "Hør Ekko i NRK P2",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa05091626/82ede6fc-6.smil/thumb.jpg?t=7171&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7204,
+      "title": "Overskrifter 08:30",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa05091626/82ede6fc-6.smil/thumb.jpg?t=7229&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7256,
+      "title": "Telenor etterforskes i Myanmar-saken",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa05091626/82ede6fc-6.smil/thumb.jpg?t=7282&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7623,
+      "title": "Flere brannøvelser i hjemmet",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa05091626/82ede6fc-6.smil/thumb.jpg?t=7649&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7764,
+      "title": "– Fosen-dommen klargjør samiske rettigheter",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa05091626/82ede6fc-6.smil/thumb.jpg?t=7790&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8005,
+      "title": "Overskrifter 08:45",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa05091626/82ede6fc-6.smil/thumb.jpg?t=8030&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8070,
+      "title": "Politisk kvarter om olje",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa05091626/82ede6fc-6.smil/thumb.jpg?t=8095&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8235,
+      "title": "DIR Pareto-konferansen",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa05091626/82ede6fc-6.smil/thumb.jpg?t=8261&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8380,
+      "title": "Turismen i Jordan",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa05091626/82ede6fc-6.smil/thumb.jpg?t=8405&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8516,
+      "title": "Anmeldelse Astrup",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa05091626/82ede6fc-6.smil/thumb.jpg?t=8542&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8888,
+      "title": "GJEST Været i dag",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa05091626/82ede6fc-6.smil/thumb.jpg?t=8914&scale=640x360&v=high"
+    }
+  ]
+}
