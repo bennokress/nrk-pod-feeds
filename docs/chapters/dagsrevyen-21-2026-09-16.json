@@ -1,0 +1,63 @@
+{
+  "version": "1.2.0",
+  "title": "Setter opp renten",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa21091626/d9049730-6.smil/thumb.jpg?t=26&scale=640x360&v=high"
+    },
+    {
+      "startTime": 25,
+      "title": "Renteøkning i USA",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa21091626/d9049730-6.smil/thumb.jpg?t=50&scale=640x360&v=high"
+    },
+    {
+      "startTime": 76,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa21091626/d9049730-6.smil/thumb.jpg?t=101&scale=640x360&v=high"
+    },
+    {
+      "startTime": 190,
+      "title": "Opposisjonen har vunnet valget i Sverige - siste valganalyse fra SVT slår dette fast",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa21091626/d9049730-6.smil/thumb.jpg?t=215&scale=640x360&v=high"
+    },
+    {
+      "startTime": 217,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa21091626/d9049730-6.smil/thumb.jpg?t=243&scale=640x360&v=high"
+    },
+    {
+      "startTime": 364,
+      "title": "DAGSREVYPAKKE",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa21091626/d9049730-6.smil/thumb.jpg?t=390&scale=640x360&v=high"
+    },
+    {
+      "startTime": 439,
+      "title": "Nettpromo",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa21091626/d9049730-6.smil/thumb.jpg?t=465&scale=640x360&v=high"
+    },
+    {
+      "startTime": 444,
+      "title": "Prinsesse Astrid",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa21091626/d9049730-6.smil/thumb.jpg?t=469&scale=640x360&v=high"
+    },
+    {
+      "startTime": 472,
+      "title": "Været",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa21091626/d9049730-6.smil/thumb.jpg?t=498&scale=640x360&v=high"
+    },
+    {
+      "startTime": 518,
+      "title": "DAGENS BILDE",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa21091626/d9049730-6.smil/thumb.jpg?t=544&scale=640x360&v=high"
+    },
+    {
+      "startTime": 555,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-06.akamaized.net/open/ps/nnfa/nnfa21091626/d9049730-6.smil/thumb.jpg?t=569.64&scale=640x360&v=high"
+    }
+  ]
+}
