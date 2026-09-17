@@ -1,0 +1,78 @@
+{
+  "version": "1.2.0",
+  "title": "For dårlig kompasskunnskap",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-69.akamaized.net/open/ps/nnfa/nnfa23091626/a69d2bbf-5.smil/thumb.jpg?t=26&scale=640x360&v=high"
+    },
+    {
+      "startTime": 36,
+      "title": "Kart og kompass",
+      "img": "https://nrk-od-world-69.akamaized.net/open/ps/nnfa/nnfa23091626/a69d2bbf-5.smil/thumb.jpg?t=61&scale=640x360&v=high"
+    },
+    {
+      "startTime": 151,
+      "title": "Børsfall USA",
+      "img": "https://nrk-od-world-69.akamaized.net/open/ps/nnfa/nnfa23091626/a69d2bbf-5.smil/thumb.jpg?t=176&scale=640x360&v=high"
+    },
+    {
+      "startTime": 205,
+      "title": "Trump reagerer",
+      "img": "https://nrk-od-world-69.akamaized.net/open/ps/nnfa/nnfa23091626/a69d2bbf-5.smil/thumb.jpg?t=231&scale=640x360&v=high"
+    },
+    {
+      "startTime": 223,
+      "title": "UD Moskva",
+      "img": "https://nrk-od-world-69.akamaized.net/open/ps/nnfa/nnfa23091626/a69d2bbf-5.smil/thumb.jpg?t=248&scale=640x360&v=high"
+    },
+    {
+      "startTime": 247,
+      "title": "FN-sjef KI",
+      "img": "https://nrk-od-world-69.akamaized.net/open/ps/nnfa/nnfa23091626/a69d2bbf-5.smil/thumb.jpg?t=273&scale=640x360&v=high"
+    },
+    {
+      "startTime": 299,
+      "title": "Norske oversettere bekymret for KI",
+      "img": "https://nrk-od-world-69.akamaized.net/open/ps/nnfa/nnfa23091626/a69d2bbf-5.smil/thumb.jpg?t=324&scale=640x360&v=high"
+    },
+    {
+      "startTime": 417,
+      "title": "Nettpromo",
+      "img": "https://nrk-od-world-69.akamaized.net/open/ps/nnfa/nnfa23091626/a69d2bbf-5.smil/thumb.jpg?t=443&scale=640x360&v=high"
+    },
+    {
+      "startTime": 431,
+      "title": "Nepal",
+      "img": "https://nrk-od-world-69.akamaized.net/open/ps/nnfa/nnfa23091626/a69d2bbf-5.smil/thumb.jpg?t=457&scale=640x360&v=high"
+    },
+    {
+      "startTime": 455,
+      "title": "Andre runde i cupen 2026",
+      "img": "https://nrk-od-world-69.akamaized.net/open/ps/nnfa/nnfa23091626/a69d2bbf-5.smil/thumb.jpg?t=481&scale=640x360&v=high"
+    },
+    {
+      "startTime": 534,
+      "title": "Ishockey",
+      "img": "https://nrk-od-world-69.akamaized.net/open/ps/nnfa/nnfa23091626/a69d2bbf-5.smil/thumb.jpg?t=560&scale=640x360&v=high"
+    },
+    {
+      "startTime": 608,
+      "title": "Ligacup",
+      "img": "https://nrk-od-world-69.akamaized.net/open/ps/nnfa/nnfa23091626/a69d2bbf-5.smil/thumb.jpg?t=633&scale=640x360&v=high"
+    },
+    {
+      "startTime": 678,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-69.akamaized.net/open/ps/nnfa/nnfa23091626/a69d2bbf-5.smil/thumb.jpg?t=704&scale=640x360&v=high"
+    },
+    {
+      "startTime": 742,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-69.akamaized.net/open/ps/nnfa/nnfa23091626/a69d2bbf-5.smil/thumb.jpg?t=760.6&scale=640x360&v=high"
+    }
+  ]
+}
