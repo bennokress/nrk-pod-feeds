@@ -1,0 +1,138 @@
+{
+  "version": "1.2.0",
+  "title": "Tettere samarbeid",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 7,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa19091626/e151587e-13.smil/thumb.jpg?t=32&scale=640x360&v=high"
+    },
+    {
+      "startTime": 68,
+      "title": "Europeisk sikkerhetsråd",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa19091626/e151587e-13.smil/thumb.jpg?t=94&scale=640x360&v=high"
+    },
+    {
+      "startTime": 214,
+      "title": "Direkte: Brussel",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa19091626/e151587e-13.smil/thumb.jpg?t=240&scale=640x360&v=high"
+    },
+    {
+      "startTime": 327,
+      "title": "Gjest: F. Mikkelsen",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa19091626/e151587e-13.smil/thumb.jpg?t=352&scale=640x360&v=high"
+    },
+    {
+      "startTime": 462,
+      "title": "Some-begrensing",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa19091626/e151587e-13.smil/thumb.jpg?t=487&scale=640x360&v=high"
+    },
+    {
+      "startTime": 597,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa19091626/e151587e-13.smil/thumb.jpg?t=623&scale=640x360&v=high"
+    },
+    {
+      "startTime": 667,
+      "title": "Kuben",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa19091626/e151587e-13.smil/thumb.jpg?t=693&scale=640x360&v=high"
+    },
+    {
+      "startTime": 779,
+      "title": "Energikonferanse",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa19091626/e151587e-13.smil/thumb.jpg?t=804&scale=640x360&v=high"
+    },
+    {
+      "startTime": 886,
+      "title": "Jordan",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa19091626/e151587e-13.smil/thumb.jpg?t=911&scale=640x360&v=high"
+    },
+    {
+      "startTime": 923,
+      "title": "Direkte fra Istanbul",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa19091626/e151587e-13.smil/thumb.jpg?t=949&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1005,
+      "title": "Jordan",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa19091626/e151587e-13.smil/thumb.jpg?t=1031&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1140,
+      "title": "Utenriksnyheter",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa19091626/e151587e-13.smil/thumb.jpg?t=1165&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1229,
+      "title": "Diabetesmedisin",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa19091626/e151587e-13.smil/thumb.jpg?t=1254&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1399,
+      "title": "Kennedy-senteret",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa19091626/e151587e-13.smil/thumb.jpg?t=1424&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1426,
+      "title": "Direkte: Washington",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa19091626/e151587e-13.smil/thumb.jpg?t=1451&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1535,
+      "title": "Blodforskning",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa19091626/e151587e-13.smil/thumb.jpg?t=1561&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1665,
+      "title": "Ed Sheeran-konserter",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa19091626/e151587e-13.smil/thumb.jpg?t=1690&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1778,
+      "title": "Gjest: om Sheeran-konsert",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa19091626/e151587e-13.smil/thumb.jpg?t=1803&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2007,
+      "title": "Tunnelbygging",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa19091626/e151587e-13.smil/thumb.jpg?t=2032&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2125,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa19091626/e151587e-13.smil/thumb.jpg?t=2150&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2133,
+      "title": "Vålerenga",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa19091626/e151587e-13.smil/thumb.jpg?t=2158&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2214,
+      "title": "KFUM",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa19091626/e151587e-13.smil/thumb.jpg?t=2240&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2243,
+      "title": "Førde-Aalesund",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa19091626/e151587e-13.smil/thumb.jpg?t=2268&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2308,
+      "title": "Blomberg på landslaget",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa19091626/e151587e-13.smil/thumb.jpg?t=2334&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2391,
+      "title": "Før Davis Cup",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa19091626/e151587e-13.smil/thumb.jpg?t=2417&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2490,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa19091626/e151587e-13.smil/thumb.jpg?t=2515&scale=640x360&v=high"
+    }
+  ]
+}
