@@ -1,0 +1,123 @@
+{
+  "version": "1.2.0",
+  "title": "Valgkø i Sverige",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa20091326/d94ed432-8.smil/thumb.jpg?t=25&scale=640x360&v=high"
+    },
+    {
+      "startTime": 58,
+      "title": "Direkte: Stockholm",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa20091326/d94ed432-8.smil/thumb.jpg?t=83&scale=640x360&v=high"
+    },
+    {
+      "startTime": 123,
+      "title": "Valg i Sverige",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa20091326/d94ed432-8.smil/thumb.jpg?t=148&scale=640x360&v=high"
+    },
+    {
+      "startTime": 254,
+      "title": "Direkte: Stockholm",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa20091326/d94ed432-8.smil/thumb.jpg?t=280&scale=640x360&v=high"
+    },
+    {
+      "startTime": 386,
+      "title": "Sverigedemokraterne",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa20091326/d94ed432-8.smil/thumb.jpg?t=411&scale=640x360&v=high"
+    },
+    {
+      "startTime": 662,
+      "title": "Smartbriller",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa20091326/d94ed432-8.smil/thumb.jpg?t=688&scale=640x360&v=high"
+    },
+    {
+      "startTime": 792,
+      "title": "Handel med bosettere",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa20091326/d94ed432-8.smil/thumb.jpg?t=817&scale=640x360&v=high"
+    },
+    {
+      "startTime": 958,
+      "title": "Støtter ikke forslaget",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa20091326/d94ed432-8.smil/thumb.jpg?t=983&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1005,
+      "title": "Utenriksnyheter",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa20091326/d94ed432-8.smil/thumb.jpg?t=1031&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1156,
+      "title": "Ukrainske angrep Krym",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa20091326/d94ed432-8.smil/thumb.jpg?t=1182&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1557,
+      "title": "Afghanistan",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa20091326/d94ed432-8.smil/thumb.jpg?t=1582&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1889,
+      "title": "Direkte: Valgvake Oslo",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa20091326/d94ed432-8.smil/thumb.jpg?t=1914&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2037,
+      "title": "Direkte: Stockholm",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa20091326/d94ed432-8.smil/thumb.jpg?t=2063&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2215,
+      "title": "Friidrett",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa20091326/d94ed432-8.smil/thumb.jpg?t=2241&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2283,
+      "title": "Prem League",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa20091326/d94ed432-8.smil/thumb.jpg?t=2309&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2354,
+      "title": "Viking-KBK",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa20091326/d94ed432-8.smil/thumb.jpg?t=2379&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2430,
+      "title": "Start-Brann",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa20091326/d94ed432-8.smil/thumb.jpg?t=2455&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2471,
+      "title": "KFUM-Aalesund",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa20091326/d94ed432-8.smil/thumb.jpg?t=2496&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2494,
+      "title": "HamKam-Molde",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa20091326/d94ed432-8.smil/thumb.jpg?t=2520&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2517,
+      "title": "Toppserien",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa20091326/d94ed432-8.smil/thumb.jpg?t=2542&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2564,
+      "title": "News",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa20091326/d94ed432-8.smil/thumb.jpg?t=2589&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2622,
+      "title": "Triatlon",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa20091326/d94ed432-8.smil/thumb.jpg?t=2647&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2800,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa20091326/d94ed432-8.smil/thumb.jpg?t=2826&scale=640x360&v=high"
+    }
+  ]
+}

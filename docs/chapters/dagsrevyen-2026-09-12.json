@@ -1,0 +1,128 @@
+{
+  "version": "1.2.0",
+  "title": "Får vi bli eller ikke?",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa20091226/4b6b48c8-17.smil/thumb.jpg?t=25&scale=640x360&v=high"
+    },
+    {
+      "startTime": 54,
+      "title": "Svensk valgkamp",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa20091226/4b6b48c8-17.smil/thumb.jpg?t=80&scale=640x360&v=high"
+    },
+    {
+      "startTime": 74,
+      "title": "Direkte: Stockholm",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa20091226/4b6b48c8-17.smil/thumb.jpg?t=100&scale=640x360&v=high"
+    },
+    {
+      "startTime": 137,
+      "title": "Svensk valgkamp",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa20091226/4b6b48c8-17.smil/thumb.jpg?t=162&scale=640x360&v=high"
+    },
+    {
+      "startTime": 184,
+      "title": "Direkte: Stockholm",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa20091226/4b6b48c8-17.smil/thumb.jpg?t=209&scale=640x360&v=high"
+    },
+    {
+      "startTime": 309,
+      "title": "Svensk valgkamp",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa20091226/4b6b48c8-17.smil/thumb.jpg?t=334&scale=640x360&v=high"
+    },
+    {
+      "startTime": 408,
+      "title": "Ukrainske flyktninger",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa20091226/4b6b48c8-17.smil/thumb.jpg?t=434&scale=640x360&v=high"
+    },
+    {
+      "startTime": 546,
+      "title": "Direkte: Kyiv",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa20091226/4b6b48c8-17.smil/thumb.jpg?t=571&scale=640x360&v=high"
+    },
+    {
+      "startTime": 672,
+      "title": "SoMe og ungdom",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa20091226/4b6b48c8-17.smil/thumb.jpg?t=698&scale=640x360&v=high"
+    },
+    {
+      "startTime": 807,
+      "title": "Båtkortesje",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa20091226/4b6b48c8-17.smil/thumb.jpg?t=833&scale=640x360&v=high"
+    },
+    {
+      "startTime": 893,
+      "title": "Båtkortesje landet",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa20091226/4b6b48c8-17.smil/thumb.jpg?t=918&scale=640x360&v=high"
+    },
+    {
+      "startTime": 911,
+      "title": "Oslo Maraton",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa20091226/4b6b48c8-17.smil/thumb.jpg?t=937&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1055,
+      "title": "Lørdagsgjest",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa20091226/4b6b48c8-17.smil/thumb.jpg?t=1080&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1392,
+      "title": "Livet i ungdomsfengsel",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa20091226/4b6b48c8-17.smil/thumb.jpg?t=1418&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1813,
+      "title": "Byutvikling",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa20091226/4b6b48c8-17.smil/thumb.jpg?t=1839&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2114,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa20091226/4b6b48c8-17.smil/thumb.jpg?t=2140&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2122,
+      "title": "LSK-VIF",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa20091226/4b6b48c8-17.smil/thumb.jpg?t=2147&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2200,
+      "title": "RBK-TIL",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa20091226/4b6b48c8-17.smil/thumb.jpg?t=2225&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2232,
+      "title": "Premier League",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa20091226/4b6b48c8-17.smil/thumb.jpg?t=2257&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2305,
+      "title": "Friidrett",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa20091226/4b6b48c8-17.smil/thumb.jpg?t=2330&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2377,
+      "title": "Jakob Ingebrigtsen",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa20091226/4b6b48c8-17.smil/thumb.jpg?t=2403&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2413,
+      "title": "Oslo Maraton",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa20091226/4b6b48c8-17.smil/thumb.jpg?t=2438&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2441,
+      "title": "News",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa20091226/4b6b48c8-17.smil/thumb.jpg?t=2466&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2499,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa20091226/4b6b48c8-17.smil/thumb.jpg?t=2524&scale=640x360&v=high"
+    }
+  ]
+}
