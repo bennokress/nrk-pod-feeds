@@ -1,0 +1,143 @@
+{
+  "version": "1.2.0",
+  "title": "Lærere visste ikke",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 9,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa19091726/805fef65-5.smil/thumb.jpg?t=35&scale=640x360&v=high"
+    },
+    {
+      "startTime": 72,
+      "title": "Kuben skole",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa19091726/805fef65-5.smil/thumb.jpg?t=97&scale=640x360&v=high"
+    },
+    {
+      "startTime": 262,
+      "title": "Ukrainske flyktninger",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa19091726/805fef65-5.smil/thumb.jpg?t=287&scale=640x360&v=high"
+    },
+    {
+      "startTime": 392,
+      "title": "Gjest: Kommentator",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa19091726/805fef65-5.smil/thumb.jpg?t=418&scale=640x360&v=high"
+    },
+    {
+      "startTime": 500,
+      "title": "Trump om EU",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa19091726/805fef65-5.smil/thumb.jpg?t=525&scale=640x360&v=high"
+    },
+    {
+      "startTime": 608,
+      "title": "Direkte: Washington",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa19091726/805fef65-5.smil/thumb.jpg?t=634&scale=640x360&v=high"
+    },
+    {
+      "startTime": 693,
+      "title": "Meloni i Norge",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa19091726/805fef65-5.smil/thumb.jpg?t=718&scale=640x360&v=high"
+    },
+    {
+      "startTime": 759,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa19091726/805fef65-5.smil/thumb.jpg?t=785&scale=640x360&v=high"
+    },
+    {
+      "startTime": 886,
+      "title": "Foxtrot",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa19091726/805fef65-5.smil/thumb.jpg?t=912&scale=640x360&v=high"
+    },
+    {
+      "startTime": 979,
+      "title": "Gjest: Kvigne",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa19091726/805fef65-5.smil/thumb.jpg?t=1005&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1069,
+      "title": "Narkotikabeslag Norge",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa19091726/805fef65-5.smil/thumb.jpg?t=1094&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1143,
+      "title": "Gjest: Kvigne",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa19091726/805fef65-5.smil/thumb.jpg?t=1169&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1227,
+      "title": "Personsøker sprengstoff",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa19091726/805fef65-5.smil/thumb.jpg?t=1253&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1416,
+      "title": "Sverige",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa19091726/805fef65-5.smil/thumb.jpg?t=1442&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1493,
+      "title": "Direkte Stockholm",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa19091726/805fef65-5.smil/thumb.jpg?t=1519&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1678,
+      "title": "Utenriksnyheter",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa19091726/805fef65-5.smil/thumb.jpg?t=1703&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1759,
+      "title": "Levninger Oslofjorden",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa19091726/805fef65-5.smil/thumb.jpg?t=1784&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1886,
+      "title": "Sykehuset innlandet",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa19091726/805fef65-5.smil/thumb.jpg?t=1912&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2012,
+      "title": "Premiere Kjærast",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa19091726/805fef65-5.smil/thumb.jpg?t=2038&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2165,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa19091726/805fef65-5.smil/thumb.jpg?t=2191&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2175,
+      "title": "Forbannet Solbakken",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa19091726/805fef65-5.smil/thumb.jpg?t=2201&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2277,
+      "title": "Overskudd VM",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa19091726/805fef65-5.smil/thumb.jpg?t=2303&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2324,
+      "title": "Ellefsen slutter",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa19091726/805fef65-5.smil/thumb.jpg?t=2350&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2349,
+      "title": "NM-CUP",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa19091726/805fef65-5.smil/thumb.jpg?t=2374&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2378,
+      "title": "Davis Cup",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa19091726/805fef65-5.smil/thumb.jpg?t=2403&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2467,
+      "title": "Trailer Debatten",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa19091726/805fef65-5.smil/thumb.jpg?t=2492&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2489,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa19091726/805fef65-5.smil/thumb.jpg?t=2515&scale=640x360&v=high"
+    }
+  ]
+}
