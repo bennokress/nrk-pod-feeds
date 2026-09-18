@@ -1,0 +1,88 @@
+{
+  "version": "1.2.0",
+  "title": "Kritikk av Ukraina-forslag",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 1,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa23091726/d7bc3bce-7.smil/thumb.jpg?t=26&scale=640x360&v=high"
+    },
+    {
+      "startTime": 46,
+      "title": "Ukraina",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa23091726/d7bc3bce-7.smil/thumb.jpg?t=72&scale=640x360&v=high"
+    },
+    {
+      "startTime": 161,
+      "title": "Sivilt søksmål mot Telenor",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa23091726/d7bc3bce-7.smil/thumb.jpg?t=187&scale=640x360&v=high"
+    },
+    {
+      "startTime": 274,
+      "title": "Mekling",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa23091726/d7bc3bce-7.smil/thumb.jpg?t=299&scale=640x360&v=high"
+    },
+    {
+      "startTime": 292,
+      "title": "Brann Sortland",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa23091726/d7bc3bce-7.smil/thumb.jpg?t=318&scale=640x360&v=high"
+    },
+    {
+      "startTime": 322,
+      "title": "Tusk om Russland",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa23091726/d7bc3bce-7.smil/thumb.jpg?t=348&scale=640x360&v=high"
+    },
+    {
+      "startTime": 351,
+      "title": "F-35 Saudi",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa23091726/d7bc3bce-7.smil/thumb.jpg?t=377&scale=640x360&v=high"
+    },
+    {
+      "startTime": 384,
+      "title": "Spania flom",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa23091726/d7bc3bce-7.smil/thumb.jpg?t=410&scale=640x360&v=high"
+    },
+    {
+      "startTime": 414,
+      "title": "Hagen-saken",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa23091726/d7bc3bce-7.smil/thumb.jpg?t=439&scale=640x360&v=high"
+    },
+    {
+      "startTime": 469,
+      "title": "Kjærast premiere",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa23091726/d7bc3bce-7.smil/thumb.jpg?t=494&scale=640x360&v=high"
+    },
+    {
+      "startTime": 588,
+      "title": "Prins Harry",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa23091726/d7bc3bce-7.smil/thumb.jpg?t=614&scale=640x360&v=high"
+    },
+    {
+      "startTime": 625,
+      "title": "Europaliga",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa23091726/d7bc3bce-7.smil/thumb.jpg?t=650&scale=640x360&v=high"
+    },
+    {
+      "startTime": 702,
+      "title": "EHL",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa23091726/d7bc3bce-7.smil/thumb.jpg?t=727&scale=640x360&v=high"
+    },
+    {
+      "startTime": 771,
+      "title": "Cup",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa23091726/d7bc3bce-7.smil/thumb.jpg?t=796&scale=640x360&v=high"
+    },
+    {
+      "startTime": 844,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa23091726/d7bc3bce-7.smil/thumb.jpg?t=869&scale=640x360&v=high"
+    },
+    {
+      "startTime": 916,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa23091726/d7bc3bce-7.smil/thumb.jpg?t=934.6&scale=640x360&v=high"
+    }
+  ]
+}
