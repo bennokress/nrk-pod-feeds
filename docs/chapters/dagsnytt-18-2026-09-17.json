@@ -1,0 +1,88 @@
+{
+  "version": "1.2.0",
+  "title": "Vil gi ukrainere opphold",
+  "author": "NRK",
+  "podcastName": "Dagsnytt 18",
+  "chapters": [
+    {
+      "startTime": 2,
+      "title": "Dagsnytt atten",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa56091726/d448e406-5.smil/thumb.jpg?t=27&scale=640x360&v=high"
+    },
+    {
+      "startTime": 57,
+      "title": "Ukrainske flykninger",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa56091726/d448e406-5.smil/thumb.jpg?t=83&scale=640x360&v=high"
+    },
+    {
+      "startTime": 510,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa56091726/d448e406-5.smil/thumb.jpg?t=536&scale=640x360&v=high"
+    },
+    {
+      "startTime": 521,
+      "title": "Cannabis-bruk",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa56091726/d448e406-5.smil/thumb.jpg?t=546&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1191,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa56091726/d448e406-5.smil/thumb.jpg?t=1217&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1202,
+      "title": "Uenighet om renter",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa56091726/d448e406-5.smil/thumb.jpg?t=1227&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1679,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa56091726/d448e406-5.smil/thumb.jpg?t=1704&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1688,
+      "title": "Foreslår færre folkevalgte",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa56091726/d448e406-5.smil/thumb.jpg?t=1713&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2150,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa56091726/d448e406-5.smil/thumb.jpg?t=2176&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2159,
+      "title": "Vold i skolen",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa56091726/d448e406-5.smil/thumb.jpg?t=2185&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2563,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa56091726/d448e406-5.smil/thumb.jpg?t=2589&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2592,
+      "title": "Kristersson går av",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa56091726/d448e406-5.smil/thumb.jpg?t=2617&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3076,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa56091726/d448e406-5.smil/thumb.jpg?t=3102&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3082,
+      "title": "Forbud mot fyrverkeri",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa56091726/d448e406-5.smil/thumb.jpg?t=3108&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3518,
+      "title": "AVSLUTNING",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa56091726/d448e406-5.smil/thumb.jpg?t=3543&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3521,
+      "title": "SLUTTKJENNING",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa56091726/d448e406-5.smil/thumb.jpg?t=3543.92&scale=640x360&v=high"
+    }
+  ]
+}
