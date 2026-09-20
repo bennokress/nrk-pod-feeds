@@ -1,0 +1,58 @@
+{
+  "version": "1.2.0",
+  "title": "Gruppesøksmål mot Telenor",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa21091726/7a9d48a7-8.smil/thumb.jpg?t=25&scale=640x360&v=high"
+    },
+    {
+      "startTime": 32,
+      "title": "Telenor Myanmar",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa21091726/7a9d48a7-8.smil/thumb.jpg?t=58&scale=640x360&v=high"
+    },
+    {
+      "startTime": 121,
+      "title": "Brann Sortland",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa21091726/7a9d48a7-8.smil/thumb.jpg?t=146&scale=640x360&v=high"
+    },
+    {
+      "startTime": 148,
+      "title": "Ukraina opphold",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa21091726/7a9d48a7-8.smil/thumb.jpg?t=173&scale=640x360&v=high"
+    },
+    {
+      "startTime": 236,
+      "title": "Nettpromo",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa21091726/7a9d48a7-8.smil/thumb.jpg?t=261&scale=640x360&v=high"
+    },
+    {
+      "startTime": 255,
+      "title": "Meloni i Norge",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa21091726/7a9d48a7-8.smil/thumb.jpg?t=281&scale=640x360&v=high"
+    },
+    {
+      "startTime": 347,
+      "title": "Vil ha tiltak etter knivstikking på osloskole",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa21091726/7a9d48a7-8.smil/thumb.jpg?t=372&scale=640x360&v=high"
+    },
+    {
+      "startTime": 404,
+      "title": "Viking svartebørs",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa21091726/7a9d48a7-8.smil/thumb.jpg?t=430&scale=640x360&v=high"
+    },
+    {
+      "startTime": 483,
+      "title": "Været",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa21091726/7a9d48a7-8.smil/thumb.jpg?t=509&scale=640x360&v=high"
+    },
+    {
+      "startTime": 541,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa21091726/7a9d48a7-8.smil/thumb.jpg?t=562.52&scale=640x360&v=high"
+    }
+  ]
+}
