@@ -1,0 +1,73 @@
+{
+  "version": "1.2.0",
+  "title": "Tek-topper får møte Xi",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa23091926/f8c51406-7.smil/thumb.jpg?t=26&scale=640x360&v=high"
+    },
+    {
+      "startTime": 34,
+      "title": "Saudi-Arabia",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa23091926/f8c51406-7.smil/thumb.jpg?t=59&scale=640x360&v=high"
+    },
+    {
+      "startTime": 89,
+      "title": "Tek møter Xi",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa23091926/f8c51406-7.smil/thumb.jpg?t=115&scale=640x360&v=high"
+    },
+    {
+      "startTime": 118,
+      "title": "Fisketurister",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa23091926/f8c51406-7.smil/thumb.jpg?t=143&scale=640x360&v=high"
+    },
+    {
+      "startTime": 143,
+      "title": "Russland valg",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa23091926/f8c51406-7.smil/thumb.jpg?t=168&scale=640x360&v=high"
+    },
+    {
+      "startTime": 223,
+      "title": "Grønland avtale",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa23091926/f8c51406-7.smil/thumb.jpg?t=248&scale=640x360&v=high"
+    },
+    {
+      "startTime": 281,
+      "title": "Narges intervju",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa23091926/f8c51406-7.smil/thumb.jpg?t=306&scale=640x360&v=high"
+    },
+    {
+      "startTime": 375,
+      "title": "Tyskland fest",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa23091926/f8c51406-7.smil/thumb.jpg?t=400&scale=640x360&v=high"
+    },
+    {
+      "startTime": 457,
+      "title": "Friidrett",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa23091926/f8c51406-7.smil/thumb.jpg?t=482&scale=640x360&v=high"
+    },
+    {
+      "startTime": 521,
+      "title": "Sportsnyheter",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa23091926/f8c51406-7.smil/thumb.jpg?t=546&scale=640x360&v=high"
+    },
+    {
+      "startTime": 589,
+      "title": "Therese Johaug",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa23091926/f8c51406-7.smil/thumb.jpg?t=614&scale=640x360&v=high"
+    },
+    {
+      "startTime": 657,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa23091926/f8c51406-7.smil/thumb.jpg?t=683&scale=640x360&v=high"
+    },
+    {
+      "startTime": 725,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa23091926/f8c51406-7.smil/thumb.jpg?t=743.55&scale=640x360&v=high"
+    }
+  ]
+}
