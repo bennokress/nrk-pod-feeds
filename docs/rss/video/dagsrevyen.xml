@@ -8,18 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 19 Sep 2026 18:31:14 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 17:27:59 +0000</lastBuildDate>
     <pubDate>Sat, 19 Sep 2026 20:00:00 +0200</pubDate>
     <itunes:image href="https://bennokress.github.io/nrk-pod-feeds/assets/images/dagsrevyen-square.png" />
     <item>
-      <title>I dag</title>
+      <title>I går</title>
       <description>Siste nytt fra NRKs nyhetsredaksjon. NRK har ikke lov til å vise bilder fra Premier League utenfor Norge. Dette er derfor en redigert versjon for våre seere i utlandet.</description>
-      <guid isPermaLink="false">https://nrk-od-world-47.akamaized.net/open/ps/nnfa/nnfa20091926/c2d96b10-5.smil/muxed.m3u8?adap=small&amp;s=0&amp;aco=aac</guid>
-      <enclosure url="https://nrk-od-world-47.akamaized.net/open/ps/nnfa/nnfa20091926/c2d96b10-5.smil/muxed.m3u8?adap=small&amp;s=0&amp;aco=aac" length="0" type="application/vnd.apple.mpegurl" />
+      <guid isPermaLink="false">https://nrk-od-world-47.akamaized.net/open/ps/nnfa/nnfa20091926/bc32ca1a-12.smil/muxed.m3u8?adap=small&amp;s=0&amp;aco=aac</guid>
+      <enclosure url="https://nrk-od-world-47.akamaized.net/open/ps/nnfa/nnfa20091926/bc32ca1a-12.smil/muxed.m3u8?adap=small&amp;s=0&amp;aco=aac" length="0" type="application/vnd.apple.mpegurl" />
       <itunes:duration>43:57</itunes:duration>
       <pubDate>Sat, 19 Sep 2026 20:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/WZmdXJn2BZv6W0kksR6KLwVcy9Pdzp0i0BV93iSu3yrQ" />
-    <podcast:alternateEnclosure type="application/x-mpegURL" length="0" default="true" title="HLS Video Stream"><podcast:source uri="https://nrk-od-world-47.akamaized.net/open/ps/nnfa/nnfa20091926/c2d96b10-5.smil/muxed.m3u8?adap=small&amp;s=0&amp;aco=aac" /></podcast:alternateEnclosure><podcast:person role="host" href="https://www.nrk.no">NRK</podcast:person></item>
+    <podcast:alternateEnclosure type="application/x-mpegURL" length="0" default="true" title="HLS Video Stream"><podcast:source uri="https://nrk-od-world-47.akamaized.net/open/ps/nnfa/nnfa20091926/bc32ca1a-12.smil/muxed.m3u8?adap=small&amp;s=0&amp;aco=aac" /></podcast:alternateEnclosure><podcast:person role="host" href="https://www.nrk.no">NRK</podcast:person></item>
     <item>
       <title>Kong Haralds siste hvilested</title>
       <description>Mye symbolikk rundt kong Haralds sarkofag.</description>
