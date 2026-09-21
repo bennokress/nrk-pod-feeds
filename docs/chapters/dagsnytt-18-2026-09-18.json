@@ -1,0 +1,48 @@
+{
+  "version": "1.2.0",
+  "title": "Togstreiken rammer Østlandet",
+  "author": "NRK",
+  "podcastName": "Dagsnytt 18",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsnytt atten",
+      "img": "https://nrk-od-world-54.akamaized.net/open/ps/nnfa/nnfa56091826/8e4b1642-6.smil/thumb.jpg?t=25&scale=640x360&v=high"
+    },
+    {
+      "startTime": 58,
+      "title": "Togstreik",
+      "img": "https://nrk-od-world-54.akamaized.net/open/ps/nnfa/nnfa56091826/8e4b1642-6.smil/thumb.jpg?t=83&scale=640x360&v=high"
+    },
+    {
+      "startTime": 726,
+      "title": "Nye dagligvaregrep",
+      "img": "https://nrk-od-world-54.akamaized.net/open/ps/nnfa/nnfa56091826/8e4b1642-6.smil/thumb.jpg?t=752&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1269,
+      "title": "Baksnakke sjefen",
+      "img": "https://nrk-od-world-54.akamaized.net/open/ps/nnfa/nnfa56091826/8e4b1642-6.smil/thumb.jpg?t=1294&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1768,
+      "title": "EØS-arbeidet",
+      "img": "https://nrk-od-world-54.akamaized.net/open/ps/nnfa/nnfa56091826/8e4b1642-6.smil/thumb.jpg?t=1793&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2531,
+      "title": "Vil forby hvalfangst",
+      "img": "https://nrk-od-world-54.akamaized.net/open/ps/nnfa/nnfa56091826/8e4b1642-6.smil/thumb.jpg?t=2556&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3012,
+      "title": "Tog på anbud",
+      "img": "https://nrk-od-world-54.akamaized.net/open/ps/nnfa/nnfa56091826/8e4b1642-6.smil/thumb.jpg?t=3037&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3516,
+      "title": "SLUTTKJENNING",
+      "img": "https://nrk-od-world-54.akamaized.net/open/ps/nnfa/nnfa56091826/8e4b1642-6.smil/thumb.jpg?t=3541&scale=640x360&v=high"
+    }
+  ]
+}
