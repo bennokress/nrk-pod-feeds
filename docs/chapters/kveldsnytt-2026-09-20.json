@@ -1,0 +1,73 @@
+{
+  "version": "1.2.0",
+  "title": "Møtes i kveld",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 101,
+      "title": "Canada",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa23092026/91d58370-5.smil/thumb.jpg?t=127&scale=640x360&v=high"
+    },
+    {
+      "startTime": 156,
+      "title": "Tyskland",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa23092026/91d58370-5.smil/thumb.jpg?t=181&scale=640x360&v=high"
+    },
+    {
+      "startTime": 189,
+      "title": "Angrep Moskva",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa23092026/91d58370-5.smil/thumb.jpg?t=214&scale=640x360&v=high"
+    },
+    {
+      "startTime": 277,
+      "title": "Zelenskyj Trump",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa23092026/91d58370-5.smil/thumb.jpg?t=303&scale=640x360&v=high"
+    },
+    {
+      "startTime": 305,
+      "title": "OMKOMMET-200926S-DR19",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa23092026/91d58370-5.smil/thumb.jpg?t=330&scale=640x360&v=high"
+    },
+    {
+      "startTime": 345,
+      "title": "Kina",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa23092026/91d58370-5.smil/thumb.jpg?t=371&scale=640x360&v=high"
+    },
+    {
+      "startTime": 436,
+      "title": "Årets deltaker",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa23092026/91d58370-5.smil/thumb.jpg?t=461&scale=640x360&v=high"
+    },
+    {
+      "startTime": 516,
+      "title": "Fotball, eliteserie",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa23092026/91d58370-5.smil/thumb.jpg?t=541&scale=640x360&v=high"
+    },
+    {
+      "startTime": 603,
+      "title": "Sykkel-VM",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa23092026/91d58370-5.smil/thumb.jpg?t=628&scale=640x360&v=high"
+    },
+    {
+      "startTime": 630,
+      "title": "Skiskyting",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa23092026/91d58370-5.smil/thumb.jpg?t=655&scale=640x360&v=high"
+    },
+    {
+      "startTime": 714,
+      "title": "Canada",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa23092026/91d58370-5.smil/thumb.jpg?t=740&scale=640x360&v=high"
+    },
+    {
+      "startTime": 743,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa23092026/91d58370-5.smil/thumb.jpg?t=769&scale=640x360&v=high"
+    },
+    {
+      "startTime": 807,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa23092026/91d58370-5.smil/thumb.jpg?t=824.6&scale=640x360&v=high"
+    }
+  ]
+}
