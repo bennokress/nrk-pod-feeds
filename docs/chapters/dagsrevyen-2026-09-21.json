@@ -1,0 +1,128 @@
+{
+  "version": "1.2.0",
+  "title": "Omstridt Diana-bok",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 9,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa19092126/1704998a-5.smil/thumb.jpg?t=35&scale=640x360&v=high"
+    },
+    {
+      "startTime": 69,
+      "title": "Epstein-høring",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa19092126/1704998a-5.smil/thumb.jpg?t=94&scale=640x360&v=high"
+    },
+    {
+      "startTime": 193,
+      "title": "Direkte Førde",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa19092126/1704998a-5.smil/thumb.jpg?t=219&scale=640x360&v=high"
+    },
+    {
+      "startTime": 327,
+      "title": "Olje og gass i Arktis",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa19092126/1704998a-5.smil/thumb.jpg?t=353&scale=640x360&v=high"
+    },
+    {
+      "startTime": 470,
+      "title": "Direkte: Brussel",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa19092126/1704998a-5.smil/thumb.jpg?t=495&scale=640x360&v=high"
+    },
+    {
+      "startTime": 595,
+      "title": "Fisketurister",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa19092126/1704998a-5.smil/thumb.jpg?t=620&scale=640x360&v=high"
+    },
+    {
+      "startTime": 695,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa19092126/1704998a-5.smil/thumb.jpg?t=721&scale=640x360&v=high"
+    },
+    {
+      "startTime": 736,
+      "title": "Trump og mediene",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa19092126/1704998a-5.smil/thumb.jpg?t=761&scale=640x360&v=high"
+    },
+    {
+      "startTime": 762,
+      "title": "Direkte Ottawa",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa19092126/1704998a-5.smil/thumb.jpg?t=788&scale=640x360&v=high"
+    },
+    {
+      "startTime": 881,
+      "title": "Togstreik",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa19092126/1704998a-5.smil/thumb.jpg?t=907&scale=640x360&v=high"
+    },
+    {
+      "startTime": 976,
+      "title": "Bensinkøer i Sverige",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa19092126/1704998a-5.smil/thumb.jpg?t=1002&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1139,
+      "title": "Google-bot",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa19092126/1704998a-5.smil/thumb.jpg?t=1165&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1265,
+      "title": "Utenriksnyheter",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa19092126/1704998a-5.smil/thumb.jpg?t=1291&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1360,
+      "title": "Unge uføre",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa19092126/1704998a-5.smil/thumb.jpg?t=1385&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1472,
+      "title": "Trafikkurs eldre",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa19092126/1704998a-5.smil/thumb.jpg?t=1497&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1609,
+      "title": "Ny Diana-bok",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa19092126/1704998a-5.smil/thumb.jpg?t=1634&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1733,
+      "title": "Gjest: Hobbelstad",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa19092126/1704998a-5.smil/thumb.jpg?t=1759&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1982,
+      "title": "Dialekter forsvinner",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa19092126/1704998a-5.smil/thumb.jpg?t=2007&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2089,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa19092126/1704998a-5.smil/thumb.jpg?t=2114&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2094,
+      "title": "Solbakken på pressetreff",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa19092126/1704998a-5.smil/thumb.jpg?t=2120&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2184,
+      "title": "Gjest",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa19092126/1704998a-5.smil/thumb.jpg?t=2210&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2332,
+      "title": "Skistad",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa19092126/1704998a-5.smil/thumb.jpg?t=2357&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2350,
+      "title": "Robsahm",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa19092126/1704998a-5.smil/thumb.jpg?t=2375&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2442,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa19092126/1704998a-5.smil/thumb.jpg?t=2468&scale=640x360&v=high"
+    }
+  ]
+}
