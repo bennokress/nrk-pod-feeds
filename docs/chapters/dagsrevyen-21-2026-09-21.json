@@ -1,0 +1,48 @@
+{
+  "version": "1.2.0",
+  "title": "Grønland-avtale undertegnes i morgen",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa21092126/3d6533ce-5.smil/thumb.jpg?t=25&scale=640x360&v=high"
+    },
+    {
+      "startTime": 34,
+      "title": "Gass og olje i Arktis",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa21092126/3d6533ce-5.smil/thumb.jpg?t=60&scale=640x360&v=high"
+    },
+    {
+      "startTime": 137,
+      "title": "Grønland avtale",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa21092126/3d6533ce-5.smil/thumb.jpg?t=162&scale=640x360&v=high"
+    },
+    {
+      "startTime": 173,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa21092126/3d6533ce-5.smil/thumb.jpg?t=199&scale=640x360&v=high"
+    },
+    {
+      "startTime": 304,
+      "title": "Utenriksnyheter",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa21092126/3d6533ce-5.smil/thumb.jpg?t=329&scale=640x360&v=high"
+    },
+    {
+      "startTime": 353,
+      "title": "DAGSREVYPAKKE",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa21092126/3d6533ce-5.smil/thumb.jpg?t=379&scale=640x360&v=high"
+    },
+    {
+      "startTime": 478,
+      "title": "Været",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa21092126/3d6533ce-5.smil/thumb.jpg?t=503&scale=640x360&v=high"
+    },
+    {
+      "startTime": 531,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa21092126/3d6533ce-5.smil/thumb.jpg?t=550.64&scale=640x360&v=high"
+    }
+  ]
+}

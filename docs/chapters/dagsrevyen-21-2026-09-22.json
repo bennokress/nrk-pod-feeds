@@ -1,0 +1,58 @@
+{
+  "version": "1.2.0",
+  "title": "Støre med New Yorks ordfører på skolebesøk",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa21092226/3d4ac1c2-7.smil/thumb.jpg?t=25&scale=640x360&v=high"
+    },
+    {
+      "startTime": 26,
+      "title": "Støre-Mamdani",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa21092226/3d4ac1c2-7.smil/thumb.jpg?t=52&scale=640x360&v=high"
+    },
+    {
+      "startTime": 110,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa21092226/3d4ac1c2-7.smil/thumb.jpg?t=135&scale=640x360&v=high"
+    },
+    {
+      "startTime": 225,
+      "title": "Ødegaard-trøya",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa21092226/3d4ac1c2-7.smil/thumb.jpg?t=251&scale=640x360&v=high"
+    },
+    {
+      "startTime": 270,
+      "title": "Trump-Zelenskyj",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa21092226/3d4ac1c2-7.smil/thumb.jpg?t=295&scale=640x360&v=high"
+    },
+    {
+      "startTime": 353,
+      "title": "DAGSREVYPAKKE",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa21092226/3d4ac1c2-7.smil/thumb.jpg?t=378&scale=640x360&v=high"
+    },
+    {
+      "startTime": 419,
+      "title": "Hvittingfoss",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa21092226/3d4ac1c2-7.smil/thumb.jpg?t=445&scale=640x360&v=high"
+    },
+    {
+      "startTime": 442,
+      "title": "Nettpromo",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa21092226/3d4ac1c2-7.smil/thumb.jpg?t=468&scale=640x360&v=high"
+    },
+    {
+      "startTime": 458,
+      "title": "Været",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa21092226/3d4ac1c2-7.smil/thumb.jpg?t=483&scale=640x360&v=high"
+    },
+    {
+      "startTime": 511,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-52.akamaized.net/open/ps/nnfa/nnfa21092226/3d4ac1c2-7.smil/thumb.jpg?t=534.55&scale=640x360&v=high"
+    }
+  ]
+}
