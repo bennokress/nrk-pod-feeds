@@ -1,0 +1,283 @@
+{
+  "version": "1.2.0",
+  "title": "Kontakter unge uføre",
+  "author": "NRK",
+  "podcastName": "Nyhetsmorgen",
+  "chapters": [
+    {
+      "startTime": 3,
+      "title": "Åpning 06:30",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa05092126/a09b78e5-6.smil/thumb.jpg?t=28&scale=640x360&v=high"
+    },
+    {
+      "startTime": 85,
+      "title": "Skal kontakte unge uføre",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa05092126/a09b78e5-6.smil/thumb.jpg?t=111&scale=640x360&v=high"
+    },
+    {
+      "startTime": 142,
+      "title": "Siste nytt",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa05092126/a09b78e5-6.smil/thumb.jpg?t=167&scale=640x360&v=high"
+    },
+    {
+      "startTime": 280,
+      "title": "Trimming av elsykler",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa05092126/a09b78e5-6.smil/thumb.jpg?t=306&scale=640x360&v=high"
+    },
+    {
+      "startTime": 514,
+      "title": "Stor mangel på medisinsk utstyr i Gaza",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa05092126/a09b78e5-6.smil/thumb.jpg?t=539&scale=640x360&v=high"
+    },
+    {
+      "startTime": 815,
+      "title": "FNs høynivåuke starter",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa05092126/a09b78e5-6.smil/thumb.jpg?t=841&scale=640x360&v=high"
+    },
+    {
+      "startTime": 990,
+      "title": "Overskrifter 06:45",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa05092126/a09b78e5-6.smil/thumb.jpg?t=1015&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1048,
+      "title": "Støre: Tettere samarbeid med Canada",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa05092126/a09b78e5-6.smil/thumb.jpg?t=1074&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1178,
+      "title": "Landslagsspiller donerer penger",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa05092126/a09b78e5-6.smil/thumb.jpg?t=1204&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1291,
+      "title": "Brann vann mot Bodø Glimt",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa05092126/a09b78e5-6.smil/thumb.jpg?t=1317&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1438,
+      "title": "Dialektene forsvinner",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa05092126/a09b78e5-6.smil/thumb.jpg?t=1464&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1617,
+      "title": "Mange har ulovlige bilskilt",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa05092126/a09b78e5-6.smil/thumb.jpg?t=1642&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1777,
+      "title": "Trailer - HISTORIER FRA VIRKELIGHETEN",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa05092126/a09b78e5-6.smil/thumb.jpg?t=1802&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1807,
+      "title": "Åpning 07:00",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa05092126/a09b78e5-6.smil/thumb.jpg?t=1832&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1872,
+      "title": "Skal kontakte unge uføre",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa05092126/a09b78e5-6.smil/thumb.jpg?t=1897&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2355,
+      "title": "Resultater fra valg i Tyskland",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa05092126/a09b78e5-6.smil/thumb.jpg?t=2380&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2622,
+      "title": "Togstreiken fortsetter",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa05092126/a09b78e5-6.smil/thumb.jpg?t=2647&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2775,
+      "title": "Overskrifter 07:15",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa05092126/a09b78e5-6.smil/thumb.jpg?t=2800&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2809,
+      "title": "Krigen mellom Saudi-Arabia og Jemen",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa05092126/a09b78e5-6.smil/thumb.jpg?t=2835&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3066,
+      "title": "Reaksjoner på helgens ADHD-sak",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa05092126/a09b78e5-6.smil/thumb.jpg?t=3092&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3346,
+      "title": "SVs budsjettkrav i Politisk kvarter",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa05092126/a09b78e5-6.smil/thumb.jpg?t=3372&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3382,
+      "title": "Tilrår trafikkurs for eldre",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa05092126/a09b78e5-6.smil/thumb.jpg?t=3407&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3573,
+      "title": "Trailer - BAKROMMET",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa05092126/a09b78e5-6.smil/thumb.jpg?t=3599&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3602,
+      "title": "Overskrifter 07:30",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa05092126/a09b78e5-6.smil/thumb.jpg?t=3627&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3640,
+      "title": "Skal kontakte unge uføre",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa05092126/a09b78e5-6.smil/thumb.jpg?t=3666&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3745,
+      "title": "Tysk regjeringsparti i krise",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa05092126/a09b78e5-6.smil/thumb.jpg?t=3771&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3865,
+      "title": "Togstreiken fortsetter",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa05092126/a09b78e5-6.smil/thumb.jpg?t=3890&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3947,
+      "title": "Trimming av elsykler",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa05092126/a09b78e5-6.smil/thumb.jpg?t=3973&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4057,
+      "title": "Mann skutt av ICE",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa05092126/a09b78e5-6.smil/thumb.jpg?t=4082&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4085,
+      "title": "Dialektene forsvinner",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa05092126/a09b78e5-6.smil/thumb.jpg?t=4110&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4186,
+      "title": "Åpent for alle i prinsesse Astrids gravferd",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa05092126/a09b78e5-6.smil/thumb.jpg?t=4212&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4199,
+      "title": "Åpning 07:40",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa05092126/a09b78e5-6.smil/thumb.jpg?t=4225&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4217,
+      "title": "Ber om generasjonsforbud mot røyk",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa05092126/a09b78e5-6.smil/thumb.jpg?t=4242&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5399,
+      "title": "NRK Nyheter 08:00",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa05092126/a09b78e5-6.smil/thumb.jpg?t=5424&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5582,
+      "title": "Åpning 08:03",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa05092126/a09b78e5-6.smil/thumb.jpg?t=5607&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5663,
+      "title": "Støre: Tettere samarbeid med Canada",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa05092126/a09b78e5-6.smil/thumb.jpg?t=5689&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5798,
+      "title": "NRK avpubliserer Skyggekrigen",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa05092126/a09b78e5-6.smil/thumb.jpg?t=5823&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5954,
+      "title": "FNs høynivåuke starter",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa05092126/a09b78e5-6.smil/thumb.jpg?t=5979&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6059,
+      "title": "Mange har ulovlige bilskilt",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa05092126/a09b78e5-6.smil/thumb.jpg?t=6085&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6217,
+      "title": "Valgresultater i Russland",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa05092126/a09b78e5-6.smil/thumb.jpg?t=6242&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6509,
+      "title": "Overskrifter 08:15",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa05092126/a09b78e5-6.smil/thumb.jpg?t=6534&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6561,
+      "title": "Valg i Tyskland",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa05092126/a09b78e5-6.smil/thumb.jpg?t=6586&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6689,
+      "title": "Mandagspanel",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa05092126/a09b78e5-6.smil/thumb.jpg?t=6715&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7172,
+      "title": "Dialektene forsvinner",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa05092126/a09b78e5-6.smil/thumb.jpg?t=7197&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7356,
+      "title": "Overskrifter 08:30",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa05092126/a09b78e5-6.smil/thumb.jpg?t=7382&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7391,
+      "title": "Togstreiken fortsetter",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa05092126/a09b78e5-6.smil/thumb.jpg?t=7417&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7538,
+      "title": "Skal kontakte unge uføre",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa05092126/a09b78e5-6.smil/thumb.jpg?t=7563&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7656,
+      "title": "Politisk kommentator om Nav-tiltak",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa05092126/a09b78e5-6.smil/thumb.jpg?t=7681&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7870,
+      "title": "KI-samarbeid mellom Kina og USA",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa05092126/a09b78e5-6.smil/thumb.jpg?t=7896&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8063,
+      "title": "Overskrifter 08:45",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa05092126/a09b78e5-6.smil/thumb.jpg?t=8088&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8131,
+      "title": "Mangel på medisinsk utstyr i Gaza",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa05092126/a09b78e5-6.smil/thumb.jpg?t=8156&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8362,
+      "title": "Anmeldelse: Ubesvart anrop",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa05092126/a09b78e5-6.smil/thumb.jpg?t=8387&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8649,
+      "title": "Trimming av elsykler",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa05092126/a09b78e5-6.smil/thumb.jpg?t=8675&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8868,
+      "title": "Været i dag",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa05092126/a09b78e5-6.smil/thumb.jpg?t=8893&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8990,
+      "title": "Avslutning",
+      "img": "https://nrk-od-world-25.akamaized.net/open/ps/nnfa/nnfa05092126/a09b78e5-6.smil/thumb.jpg?t=9003.32&scale=640x360&v=high"
+    }
+  ]
+}
