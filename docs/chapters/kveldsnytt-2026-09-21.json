@@ -1,0 +1,63 @@
+{
+  "version": "1.2.0",
+  "title": "Frykter turistkøer og kaos i nord",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa23092126/8814faf3-7.smil/thumb.jpg?t=25&scale=640x360&v=high"
+    },
+    {
+      "startTime": 48,
+      "title": "Det blir også denne sesongen rekord for vinterturismen",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa23092126/8814faf3-7.smil/thumb.jpg?t=74&scale=640x360&v=high"
+    },
+    {
+      "startTime": 172,
+      "title": "Togstreik",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa23092126/8814faf3-7.smil/thumb.jpg?t=198&scale=640x360&v=high"
+    },
+    {
+      "startTime": 269,
+      "title": "Valg i Tyskland",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa23092126/8814faf3-7.smil/thumb.jpg?t=294&scale=640x360&v=high"
+    },
+    {
+      "startTime": 391,
+      "title": "Flyproblem USA",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa23092126/8814faf3-7.smil/thumb.jpg?t=416&scale=640x360&v=high"
+    },
+    {
+      "startTime": 426,
+      "title": "Grønland avtale",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa23092126/8814faf3-7.smil/thumb.jpg?t=451&scale=640x360&v=high"
+    },
+    {
+      "startTime": 506,
+      "title": "Gjest:",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa23092126/8814faf3-7.smil/thumb.jpg?t=531&scale=640x360&v=high"
+    },
+    {
+      "startTime": 665,
+      "title": "LANGRENN",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa23092126/8814faf3-7.smil/thumb.jpg?t=690&scale=640x360&v=high"
+    },
+    {
+      "startTime": 697,
+      "title": "Landslaget",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa23092126/8814faf3-7.smil/thumb.jpg?t=723&scale=640x360&v=high"
+    },
+    {
+      "startTime": 778,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa23092126/8814faf3-7.smil/thumb.jpg?t=803&scale=640x360&v=high"
+    },
+    {
+      "startTime": 843,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa23092126/8814faf3-7.smil/thumb.jpg?t=863.76&scale=640x360&v=high"
+    }
+  ]
+}
