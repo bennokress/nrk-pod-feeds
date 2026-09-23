@@ -1,0 +1,88 @@
+{
+  "version": "1.2.0",
+  "title": "Ny skoleplan fra regjeringen",
+  "author": "NRK",
+  "podcastName": "Dagsnytt 18",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsnytt atten",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa56092226/35373559-5.smil/thumb.jpg?t=25&scale=640x360&v=high"
+    },
+    {
+      "startTime": 63,
+      "title": "Færre fag og mer lek",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa56092226/35373559-5.smil/thumb.jpg?t=89&scale=640x360&v=high"
+    },
+    {
+      "startTime": 665,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa56092226/35373559-5.smil/thumb.jpg?t=690&scale=640x360&v=high"
+    },
+    {
+      "startTime": 682,
+      "title": "Unge og energidrikk",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa56092226/35373559-5.smil/thumb.jpg?t=707&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1148,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa56092226/35373559-5.smil/thumb.jpg?t=1174&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1165,
+      "title": "Zelenskyj og Trump møtes",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa56092226/35373559-5.smil/thumb.jpg?t=1190&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1628,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa56092226/35373559-5.smil/thumb.jpg?t=1654&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1643,
+      "title": "Grønland-avtale undertegnet",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa56092226/35373559-5.smil/thumb.jpg?t=1668&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2084,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa56092226/35373559-5.smil/thumb.jpg?t=2109&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2099,
+      "title": "TV2 og aktiv dødshjelp",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa56092226/35373559-5.smil/thumb.jpg?t=2124&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2584,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa56092226/35373559-5.smil/thumb.jpg?t=2609&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2599,
+      "title": "Vil fjerne hatparagrafen",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa56092226/35373559-5.smil/thumb.jpg?t=2624&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3032,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa56092226/35373559-5.smil/thumb.jpg?t=3057&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3047,
+      "title": "Privat helseforsikring",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa56092226/35373559-5.smil/thumb.jpg?t=3072&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3519,
+      "title": "AVSLUTNING",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa56092226/35373559-5.smil/thumb.jpg?t=3543.84&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3534,
+      "title": "SLUTTKJENNING",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa56092226/35373559-5.smil/thumb.jpg?t=3543.84&scale=640x360&v=high"
+    }
+  ]
+}
