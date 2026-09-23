@@ -1,0 +1,48 @@
+{
+  "version": "1.2.0",
+  "title": "Valgjuks?",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa21092326/1646279f-5.smil/thumb.jpg?t=26&scale=640x360&v=high"
+    },
+    {
+      "startTime": 28,
+      "title": "Mulig valgfusk Sverige",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa21092326/1646279f-5.smil/thumb.jpg?t=53&scale=640x360&v=high"
+    },
+    {
+      "startTime": 129,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa21092326/1646279f-5.smil/thumb.jpg?t=154&scale=640x360&v=high"
+    },
+    {
+      "startTime": 227,
+      "title": "Zelenskyj tale",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa21092326/1646279f-5.smil/thumb.jpg?t=252&scale=640x360&v=high"
+    },
+    {
+      "startTime": 287,
+      "title": "DAGSREVYPAKKE",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa21092326/1646279f-5.smil/thumb.jpg?t=313&scale=640x360&v=high"
+    },
+    {
+      "startTime": 400,
+      "title": "Weinstein dømt",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa21092326/1646279f-5.smil/thumb.jpg?t=425&scale=640x360&v=high"
+    },
+    {
+      "startTime": 488,
+      "title": "Været",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa21092326/1646279f-5.smil/thumb.jpg?t=514&scale=640x360&v=high"
+    },
+    {
+      "startTime": 535,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa21092326/1646279f-5.smil/thumb.jpg?t=553.55&scale=640x360&v=high"
+    }
+  ]
+}
