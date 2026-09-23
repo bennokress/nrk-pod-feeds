@@ -1,0 +1,68 @@
+{
+  "version": "1.2.0",
+  "title": "Vil ha Document-redaktør kastet ut",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa23092226/4a3cacde-7.smil/thumb.jpg?t=25&scale=640x360&v=high"
+    },
+    {
+      "startTime": 37,
+      "title": "Rustad-bråk",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa23092226/4a3cacde-7.smil/thumb.jpg?t=62&scale=640x360&v=high"
+    },
+    {
+      "startTime": 145,
+      "title": "New York",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa23092226/4a3cacde-7.smil/thumb.jpg?t=171&scale=640x360&v=high"
+    },
+    {
+      "startTime": 303,
+      "title": "Støre-Mamdani",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa23092226/4a3cacde-7.smil/thumb.jpg?t=328&scale=640x360&v=high"
+    },
+    {
+      "startTime": 394,
+      "title": "Togkanselleringer",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa23092226/4a3cacde-7.smil/thumb.jpg?t=419&scale=640x360&v=high"
+    },
+    {
+      "startTime": 418,
+      "title": "El Nino",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa23092226/4a3cacde-7.smil/thumb.jpg?t=443&scale=640x360&v=high"
+    },
+    {
+      "startTime": 484,
+      "title": "Energidrikk",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa23092226/4a3cacde-7.smil/thumb.jpg?t=509&scale=640x360&v=high"
+    },
+    {
+      "startTime": 601,
+      "title": "Mesterliga",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa23092226/4a3cacde-7.smil/thumb.jpg?t=626&scale=640x360&v=high"
+    },
+    {
+      "startTime": 661,
+      "title": "Nettpromo",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa23092226/4a3cacde-7.smil/thumb.jpg?t=686&scale=640x360&v=high"
+    },
+    {
+      "startTime": 673,
+      "title": "Bo Hegland",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa23092226/4a3cacde-7.smil/thumb.jpg?t=699&scale=640x360&v=high"
+    },
+    {
+      "startTime": 764,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa23092226/4a3cacde-7.smil/thumb.jpg?t=789&scale=640x360&v=high"
+    },
+    {
+      "startTime": 832,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa23092226/4a3cacde-7.smil/thumb.jpg?t=858&scale=640x360&v=high"
+    }
+  ]
+}
