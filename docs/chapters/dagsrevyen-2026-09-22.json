@@ -1,0 +1,128 @@
+{
+  "version": "1.2.0",
+  "title": "Avtale signert",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 7,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa19092226/304c761a-5.smil/thumb.jpg?t=32&scale=640x360&v=high"
+    },
+    {
+      "startTime": 63,
+      "title": "Grønland-avtale",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa19092226/304c761a-5.smil/thumb.jpg?t=89&scale=640x360&v=high"
+    },
+    {
+      "startTime": 177,
+      "title": "Direkte: New York",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa19092226/304c761a-5.smil/thumb.jpg?t=202&scale=640x360&v=high"
+    },
+    {
+      "startTime": 263,
+      "title": "Grønland-avtale",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa19092226/304c761a-5.smil/thumb.jpg?t=288&scale=640x360&v=high"
+    },
+    {
+      "startTime": 398,
+      "title": "Direkte: København",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa19092226/304c761a-5.smil/thumb.jpg?t=423&scale=640x360&v=high"
+    },
+    {
+      "startTime": 517,
+      "title": "Trump taler i FN",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa19092226/304c761a-5.smil/thumb.jpg?t=542&scale=640x360&v=high"
+    },
+    {
+      "startTime": 653,
+      "title": "Direkte: New York",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa19092226/304c761a-5.smil/thumb.jpg?t=679&scale=640x360&v=high"
+    },
+    {
+      "startTime": 698,
+      "title": "Norge i FN",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa19092226/304c761a-5.smil/thumb.jpg?t=723&scale=640x360&v=high"
+    },
+    {
+      "startTime": 787,
+      "title": "Gjest:",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa19092226/304c761a-5.smil/thumb.jpg?t=812&scale=640x360&v=high"
+    },
+    {
+      "startTime": 947,
+      "title": "Direkte: Kyiv",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa19092226/304c761a-5.smil/thumb.jpg?t=973&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1107,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa19092226/304c761a-5.smil/thumb.jpg?t=1132&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1175,
+      "title": "Nye fjerntog",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa19092226/304c761a-5.smil/thumb.jpg?t=1200&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1287,
+      "title": "Nettgambling",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa19092226/304c761a-5.smil/thumb.jpg?t=1312&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1491,
+      "title": "Kraftmangel i nord",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa19092226/304c761a-5.smil/thumb.jpg?t=1517&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1603,
+      "title": "Boktober",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa19092226/304c761a-5.smil/thumb.jpg?t=1629&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1754,
+      "title": "Gjest: Susanne Kaluza",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa19092226/304c761a-5.smil/thumb.jpg?t=1780&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2005,
+      "title": "Bergen nest best",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa19092226/304c761a-5.smil/thumb.jpg?t=2031&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2120,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa19092226/304c761a-5.smil/thumb.jpg?t=2146&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2128,
+      "title": "Kritikk av VM-bok",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa19092226/304c761a-5.smil/thumb.jpg?t=2154&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2259,
+      "title": "Ryerson skade",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa19092226/304c761a-5.smil/thumb.jpg?t=2284&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2350,
+      "title": "Vålerenga bot",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa19092226/304c761a-5.smil/thumb.jpg?t=2375&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2373,
+      "title": "VM sykkel",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa19092226/304c761a-5.smil/thumb.jpg?t=2398&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2438,
+      "title": "Trailer Debatten",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa19092226/304c761a-5.smil/thumb.jpg?t=2464&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2464,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa19092226/304c761a-5.smil/thumb.jpg?t=2489&scale=640x360&v=high"
+    }
+  ]
+}
