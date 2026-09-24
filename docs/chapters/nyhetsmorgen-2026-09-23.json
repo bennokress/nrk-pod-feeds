@@ -1,0 +1,288 @@
+{
+  "version": "1.2.0",
+  "title": "Lettelse etter Grønland-avtale",
+  "author": "NRK",
+  "podcastName": "Nyhetsmorgen",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Åpning 06:30",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05092326/85140d3a-5.smil/thumb.jpg?t=25&scale=640x360&v=high"
+    },
+    {
+      "startTime": 74,
+      "title": "Møte mellom Iran og USA i New York",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05092326/85140d3a-5.smil/thumb.jpg?t=100&scale=640x360&v=high"
+    },
+    {
+      "startTime": 236,
+      "title": "NHO vil formueskatten til livs",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05092326/85140d3a-5.smil/thumb.jpg?t=262&scale=640x360&v=high"
+    },
+    {
+      "startTime": 357,
+      "title": "Siste nytt",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05092326/85140d3a-5.smil/thumb.jpg?t=383&scale=640x360&v=high"
+    },
+    {
+      "startTime": 497,
+      "title": "Skummelt å være landeveissyklist",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05092326/85140d3a-5.smil/thumb.jpg?t=522&scale=640x360&v=high"
+    },
+    {
+      "startTime": 631,
+      "title": "Vil trygge syklister på norske veier",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05092326/85140d3a-5.smil/thumb.jpg?t=656&scale=640x360&v=high"
+    },
+    {
+      "startTime": 850,
+      "title": "Vys reiseplanlegger er nede",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05092326/85140d3a-5.smil/thumb.jpg?t=876&scale=640x360&v=high"
+    },
+    {
+      "startTime": 867,
+      "title": "Overskrifter 06:45",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05092326/85140d3a-5.smil/thumb.jpg?t=893&scale=640x360&v=high"
+    },
+    {
+      "startTime": 931,
+      "title": "VG-redaktør møtte Rustad i Debatten",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05092326/85140d3a-5.smil/thumb.jpg?t=956&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1110,
+      "title": "Stjålne flymotorer i Sylling",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05092326/85140d3a-5.smil/thumb.jpg?t=1136&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1258,
+      "title": "Å leve bærekraftig",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05092326/85140d3a-5.smil/thumb.jpg?t=1284&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1333,
+      "title": "Vanskelig å leve bærekraftig",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05092326/85140d3a-5.smil/thumb.jpg?t=1358&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1567,
+      "title": "Kornkrise på Jæren",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05092326/85140d3a-5.smil/thumb.jpg?t=1592&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1768,
+      "title": "Trailer - Bakrommet",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05092326/85140d3a-5.smil/thumb.jpg?t=1793&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1799,
+      "title": "Åpning 07:00",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05092326/85140d3a-5.smil/thumb.jpg?t=1825&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1879,
+      "title": "Bondevik med Epstein-nei",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05092326/85140d3a-5.smil/thumb.jpg?t=1905&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2068,
+      "title": "Diplomatparet",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05092326/85140d3a-5.smil/thumb.jpg?t=2093&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2319,
+      "title": "Zelenskyj og Trump",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05092326/85140d3a-5.smil/thumb.jpg?t=2344&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2573,
+      "title": "Nato får rolle i Grønland-avtalen",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05092326/85140d3a-5.smil/thumb.jpg?t=2599&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2774,
+      "title": "Overskrifter 07:15",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05092326/85140d3a-5.smil/thumb.jpg?t=2800&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2823,
+      "title": "Før Politisk kvarter",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05092326/85140d3a-5.smil/thumb.jpg?t=2849&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2873,
+      "title": "Prinsesse Astrid",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05092326/85140d3a-5.smil/thumb.jpg?t=2899&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3094,
+      "title": "Prinsesse Astrids bisettes",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05092326/85140d3a-5.smil/thumb.jpg?t=3120&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3355,
+      "title": "Ungdommer og kroppspress",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05092326/85140d3a-5.smil/thumb.jpg?t=3381&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3564,
+      "title": "Trailer - Tyrann: Gadaffi",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05092326/85140d3a-5.smil/thumb.jpg?t=3590&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3602,
+      "title": "Overskrifter 07:30",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05092326/85140d3a-5.smil/thumb.jpg?t=3627&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3647,
+      "title": "Bondevik med Epstein-nei",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05092326/85140d3a-5.smil/thumb.jpg?t=3673&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3754,
+      "title": "Diplomatparet",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05092326/85140d3a-5.smil/thumb.jpg?t=3780&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3847,
+      "title": "Zelenskyj møtte Trump",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05092326/85140d3a-5.smil/thumb.jpg?t=3872&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3915,
+      "title": "Nye sykkeltiltak",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05092326/85140d3a-5.smil/thumb.jpg?t=3941&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3998,
+      "title": "Kornkrise på Jæren",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05092326/85140d3a-5.smil/thumb.jpg?t=4024&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4058,
+      "title": "Prinsesse Astrid bisettes",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05092326/85140d3a-5.smil/thumb.jpg?t=4083&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4200,
+      "title": "Trailer - Hele Historien - Hurtigruta brenner",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05092326/85140d3a-5.smil/thumb.jpg?t=4226&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4233,
+      "title": "Åpning 07:40",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05092326/85140d3a-5.smil/thumb.jpg?t=4258&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4245,
+      "title": "Solskiferfabrikk må permittere folk",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05092326/85140d3a-5.smil/thumb.jpg?t=4270&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5402,
+      "title": "NRK Nyheter 08:00",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05092326/85140d3a-5.smil/thumb.jpg?t=5427&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5578,
+      "title": "Åpning 08:03",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05092326/85140d3a-5.smil/thumb.jpg?t=5604&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5661,
+      "title": "Reaksjoner etter Grønlandavtalen",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05092326/85140d3a-5.smil/thumb.jpg?t=5687&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5888,
+      "title": "Dette skjer under FN-uka",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05092326/85140d3a-5.smil/thumb.jpg?t=5913&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6162,
+      "title": "Vil blokkere ulovlege nettkasino",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05092326/85140d3a-5.smil/thumb.jpg?t=6187&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6393,
+      "title": "Overskrifter 08:15",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05092326/85140d3a-5.smil/thumb.jpg?t=6419&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6439,
+      "title": "Bondevik med Epstein-nei",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05092326/85140d3a-5.smil/thumb.jpg?t=6464&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6650,
+      "title": "Møtte Rød-Larsen",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05092326/85140d3a-5.smil/thumb.jpg?t=6675&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6869,
+      "title": "Å leve bærekraftig",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05092326/85140d3a-5.smil/thumb.jpg?t=6894&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6951,
+      "title": "Vanskelig å leve bærekraftig",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05092326/85140d3a-5.smil/thumb.jpg?t=6976&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7176,
+      "title": "Hør Ekko i NRK P2",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05092326/85140d3a-5.smil/thumb.jpg?t=7201&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7277,
+      "title": "Nye Trump-trusler mot Iran",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05092326/85140d3a-5.smil/thumb.jpg?t=7303&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7486,
+      "title": "Rosa søyfe lanseres i dag",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05092326/85140d3a-5.smil/thumb.jpg?t=7511&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7753,
+      "title": "Skummelt å være landeveissyklist",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05092326/85140d3a-5.smil/thumb.jpg?t=7779&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7879,
+      "title": "Vil trygge syklister på veiene",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05092326/85140d3a-5.smil/thumb.jpg?t=7905&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8129,
+      "title": "Filmpolitiet om seriehøsten",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05092326/85140d3a-5.smil/thumb.jpg?t=8154&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8398,
+      "title": "Politisk kvarter",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05092326/85140d3a-5.smil/thumb.jpg?t=8424&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8580,
+      "title": "Prinsesse Astrids gravferd på radio",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05092326/85140d3a-5.smil/thumb.jpg?t=8605&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8792,
+      "title": "Kornkrise på Jæren",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05092326/85140d3a-5.smil/thumb.jpg?t=8818&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8851,
+      "title": "GJEST Været i dag",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05092326/85140d3a-5.smil/thumb.jpg?t=8876&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8993,
+      "title": "Avslutning",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa05092326/85140d3a-5.smil/thumb.jpg?t=9004.36&scale=640x360&v=high"
+    }
+  ]
+}
