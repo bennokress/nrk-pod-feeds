@@ -1,0 +1,133 @@
+{
+  "version": "1.2.0",
+  "title": "Invitert til USA",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 11,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa19092326/d330fd7d-10.smil/thumb.jpg?t=36&scale=640x360&v=high"
+    },
+    {
+      "startTime": 73,
+      "title": "Rubio inviterer Putin",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa19092326/d330fd7d-10.smil/thumb.jpg?t=98&scale=640x360&v=high"
+    },
+    {
+      "startTime": 104,
+      "title": "Direkte: New York",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa19092326/d330fd7d-10.smil/thumb.jpg?t=129&scale=640x360&v=high"
+    },
+    {
+      "startTime": 189,
+      "title": "Direkte Moskva",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa19092326/d330fd7d-10.smil/thumb.jpg?t=214&scale=640x360&v=high"
+    },
+    {
+      "startTime": 264,
+      "title": "Støre og Zelenskyj",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa19092326/d330fd7d-10.smil/thumb.jpg?t=290&scale=640x360&v=high"
+    },
+    {
+      "startTime": 313,
+      "title": "Direkte: Kyiv",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa19092326/d330fd7d-10.smil/thumb.jpg?t=338&scale=640x360&v=high"
+    },
+    {
+      "startTime": 419,
+      "title": "Prinsesse Astrid",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa19092326/d330fd7d-10.smil/thumb.jpg?t=445&scale=640x360&v=high"
+    },
+    {
+      "startTime": 599,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa19092326/d330fd7d-10.smil/thumb.jpg?t=625&scale=640x360&v=high"
+    },
+    {
+      "startTime": 697,
+      "title": "Helsereform",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa19092326/d330fd7d-10.smil/thumb.jpg?t=722&scale=640x360&v=high"
+    },
+    {
+      "startTime": 812,
+      "title": "Diplomater og Epstein",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa19092326/d330fd7d-10.smil/thumb.jpg?t=838&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1017,
+      "title": "Gjest: Håvard Nyhus",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa19092326/d330fd7d-10.smil/thumb.jpg?t=1042&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1124,
+      "title": "Rentemøte",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa19092326/d330fd7d-10.smil/thumb.jpg?t=1150&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1245,
+      "title": "Fensfeltet",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa19092326/d330fd7d-10.smil/thumb.jpg?t=1270&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1391,
+      "title": "Utenriksnyheter",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa19092326/d330fd7d-10.smil/thumb.jpg?t=1416&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1516,
+      "title": "Oslo eiendomsskatt",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa19092326/d330fd7d-10.smil/thumb.jpg?t=1542&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1609,
+      "title": "E-sjefen slutter",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa19092326/d330fd7d-10.smil/thumb.jpg?t=1635&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1754,
+      "title": "Kina og  USA",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa19092326/d330fd7d-10.smil/thumb.jpg?t=1780&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1785,
+      "title": "Direkte Beijing",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa19092326/d330fd7d-10.smil/thumb.jpg?t=1810&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1950,
+      "title": "Direkte New York",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa19092326/d330fd7d-10.smil/thumb.jpg?t=1976&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2058,
+      "title": "Rosa Sløyfe-aksjon",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa19092326/d330fd7d-10.smil/thumb.jpg?t=2084&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2145,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa19092326/d330fd7d-10.smil/thumb.jpg?t=2170&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2150,
+      "title": "Nasjonsligaen",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa19092326/d330fd7d-10.smil/thumb.jpg?t=2176&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2305,
+      "title": "Direkte Ullevål",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa19092326/d330fd7d-10.smil/thumb.jpg?t=2330&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2390,
+      "title": "Fotball europa cup",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa19092326/d330fd7d-10.smil/thumb.jpg?t=2415&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2456,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa19092326/d330fd7d-10.smil/thumb.jpg?t=2481&scale=640x360&v=high"
+    }
+  ]
+}
