@@ -1,0 +1,83 @@
+{
+  "version": "1.2.0",
+  "title": "De møtes i kveld",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa23092326/c2a5bd02-7.smil/thumb.jpg?t=26&scale=640x360&v=high"
+    },
+    {
+      "startTime": 42,
+      "title": "Møtte Irans president",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa23092326/c2a5bd02-7.smil/thumb.jpg?t=67&scale=640x360&v=high"
+    },
+    {
+      "startTime": 64,
+      "title": "Xi kommer til USA",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa23092326/c2a5bd02-7.smil/thumb.jpg?t=90&scale=640x360&v=high"
+    },
+    {
+      "startTime": 97,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa23092326/c2a5bd02-7.smil/thumb.jpg?t=123&scale=640x360&v=high"
+    },
+    {
+      "startTime": 221,
+      "title": "Skyting mot hus",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa23092326/c2a5bd02-7.smil/thumb.jpg?t=246&scale=640x360&v=high"
+    },
+    {
+      "startTime": 238,
+      "title": "Rekkehus i full fyr",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa23092326/c2a5bd02-7.smil/thumb.jpg?t=263&scale=640x360&v=high"
+    },
+    {
+      "startTime": 250,
+      "title": "Togstreik fortsetter",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa23092326/c2a5bd02-7.smil/thumb.jpg?t=275&scale=640x360&v=high"
+    },
+    {
+      "startTime": 272,
+      "title": "Valgfusk",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa23092326/c2a5bd02-7.smil/thumb.jpg?t=298&scale=640x360&v=high"
+    },
+    {
+      "startTime": 359,
+      "title": "Finnmarkssykehuset",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa23092326/c2a5bd02-7.smil/thumb.jpg?t=385&scale=640x360&v=high"
+    },
+    {
+      "startTime": 428,
+      "title": "Fotball",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa23092326/c2a5bd02-7.smil/thumb.jpg?t=454&scale=640x360&v=high"
+    },
+    {
+      "startTime": 492,
+      "title": "Fredrik Sjøvold",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa23092326/c2a5bd02-7.smil/thumb.jpg?t=518&scale=640x360&v=high"
+    },
+    {
+      "startTime": 583,
+      "title": "Friidrett",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa23092326/c2a5bd02-7.smil/thumb.jpg?t=608&scale=640x360&v=high"
+    },
+    {
+      "startTime": 667,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa23092326/c2a5bd02-7.smil/thumb.jpg?t=693&scale=640x360&v=high"
+    },
+    {
+      "startTime": 727,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa23092326/c2a5bd02-7.smil/thumb.jpg?t=752&scale=640x360&v=high"
+    },
+    {
+      "startTime": 753,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa23092326/c2a5bd02-7.smil/thumb.jpg?t=772.55&scale=640x360&v=high"
+    }
+  ]
+}
