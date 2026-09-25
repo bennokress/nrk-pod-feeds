@@ -1,0 +1,153 @@
+{
+  "version": "1.2.0",
+  "title": "Klar til kamp!",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 10,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa19092426/9b4488a4-9.smil/thumb.jpg?t=36&scale=640x360&v=high"
+    },
+    {
+      "startTime": 71,
+      "title": "Direkte Ullevaal",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa19092426/9b4488a4-9.smil/thumb.jpg?t=96&scale=640x360&v=high"
+    },
+    {
+      "startTime": 126,
+      "title": "Norge-Danmark",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa19092426/9b4488a4-9.smil/thumb.jpg?t=152&scale=640x360&v=high"
+    },
+    {
+      "startTime": 167,
+      "title": "Renta opp",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa19092426/9b4488a4-9.smil/thumb.jpg?t=192&scale=640x360&v=high"
+    },
+    {
+      "startTime": 292,
+      "title": "Gjest",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa19092426/9b4488a4-9.smil/thumb.jpg?t=317&scale=640x360&v=high"
+    },
+    {
+      "startTime": 395,
+      "title": "Grafikk renter",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa19092426/9b4488a4-9.smil/thumb.jpg?t=420&scale=640x360&v=high"
+    },
+    {
+      "startTime": 435,
+      "title": "Gjest Guro S. Eriksrud",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa19092426/9b4488a4-9.smil/thumb.jpg?t=460&scale=640x360&v=high"
+    },
+    {
+      "startTime": 552,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa19092426/9b4488a4-9.smil/thumb.jpg?t=577&scale=640x360&v=high"
+    },
+    {
+      "startTime": 677,
+      "title": "Ulykke elsparkesykkel",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa19092426/9b4488a4-9.smil/thumb.jpg?t=702&scale=640x360&v=high"
+    },
+    {
+      "startTime": 863,
+      "title": "Statsråd om elsparkesykler",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa19092426/9b4488a4-9.smil/thumb.jpg?t=889&scale=640x360&v=high"
+    },
+    {
+      "startTime": 987,
+      "title": "Direkte fra Washington",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa19092426/9b4488a4-9.smil/thumb.jpg?t=1012&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1099,
+      "title": "Xi og Trump",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa19092426/9b4488a4-9.smil/thumb.jpg?t=1124&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1196,
+      "title": "Gjest",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa19092426/9b4488a4-9.smil/thumb.jpg?t=1221&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1313,
+      "title": "Kongeskipet",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa19092426/9b4488a4-9.smil/thumb.jpg?t=1338&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1384,
+      "title": "Prinsesse Astrids hund",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa19092426/9b4488a4-9.smil/thumb.jpg?t=1409&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1532,
+      "title": "Boligkrise Europa",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa19092426/9b4488a4-9.smil/thumb.jpg?t=1558&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1647,
+      "title": "Norge-Danmark",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa19092426/9b4488a4-9.smil/thumb.jpg?t=1672&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1681,
+      "title": "TV-trailer",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa19092426/9b4488a4-9.smil/thumb.jpg?t=1706&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1712,
+      "title": "Gjest om kamp",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa19092426/9b4488a4-9.smil/thumb.jpg?t=1738&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1801,
+      "title": "Solbakken uttalelse",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa19092426/9b4488a4-9.smil/thumb.jpg?t=1826&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1827,
+      "title": "Gjest om kamp",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa19092426/9b4488a4-9.smil/thumb.jpg?t=1852&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1885,
+      "title": "Direkte fra Ullevaal",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa19092426/9b4488a4-9.smil/thumb.jpg?t=1910&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2035,
+      "title": "A-laget Solbakken",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa19092426/9b4488a4-9.smil/thumb.jpg?t=2061&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2079,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa19092426/9b4488a4-9.smil/thumb.jpg?t=2104&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2083,
+      "title": "Norge-Danmark",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa19092426/9b4488a4-9.smil/thumb.jpg?t=2109&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2111,
+      "title": "Direkte Ullevaal",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa19092426/9b4488a4-9.smil/thumb.jpg?t=2137&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2321,
+      "title": "EM orientering",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa19092426/9b4488a4-9.smil/thumb.jpg?t=2347&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2426,
+      "title": "Trailer Debatten",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa19092426/9b4488a4-9.smil/thumb.jpg?t=2451&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2453,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa19092426/9b4488a4-9.smil/thumb.jpg?t=2478&scale=640x360&v=high"
+    }
+  ]
+}
