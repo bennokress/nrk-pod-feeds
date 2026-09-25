@@ -1,0 +1,308 @@
+{
+  "version": "1.2.0",
+  "title": "Økt press for redusert matmoms",
+  "author": "NRK",
+  "podcastName": "Nyhetsmorgen",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Åpning 06:30",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05092426/73ec2084-5.smil/thumb.jpg?t=25&scale=640x360&v=high"
+    },
+    {
+      "startTime": 81,
+      "title": "Nå vil også Rødt kutte matmomsen",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05092426/73ec2084-5.smil/thumb.jpg?t=106&scale=640x360&v=high"
+    },
+    {
+      "startTime": 136,
+      "title": "Folk på gata om en mulig renteøkning",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05092426/73ec2084-5.smil/thumb.jpg?t=161&scale=640x360&v=high"
+    },
+    {
+      "startTime": 200,
+      "title": "FN-toppmøte og Xi i USA",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05092426/73ec2084-5.smil/thumb.jpg?t=226&scale=640x360&v=high"
+    },
+    {
+      "startTime": 461,
+      "title": "Siste nytt",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05092426/73ec2084-5.smil/thumb.jpg?t=487&scale=640x360&v=high"
+    },
+    {
+      "startTime": 621,
+      "title": "Helsevesenet i Australia hacket",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05092426/73ec2084-5.smil/thumb.jpg?t=646&scale=640x360&v=high"
+    },
+    {
+      "startTime": 802,
+      "title": "Brukar KI kvar dag",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05092426/73ec2084-5.smil/thumb.jpg?t=827&scale=640x360&v=high"
+    },
+    {
+      "startTime": 988,
+      "title": "Overskrifter 06:45",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05092426/73ec2084-5.smil/thumb.jpg?t=1013&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1042,
+      "title": "Giverlandsgruppen Palestina",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05092426/73ec2084-5.smil/thumb.jpg?t=1067&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1282,
+      "title": "Danske fans før Norge-Danmark",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05092426/73ec2084-5.smil/thumb.jpg?t=1308&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1397,
+      "title": "Ringerike Panthers slår tilbake",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05092426/73ec2084-5.smil/thumb.jpg?t=1423&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1539,
+      "title": "UNN Harstad i forfall",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05092426/73ec2084-5.smil/thumb.jpg?t=1564&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1767,
+      "title": "Leseklubben: Prosessen av Franz Kafka m",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05092426/73ec2084-5.smil/thumb.jpg?t=1793&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1795,
+      "title": "Åpning 07:00",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05092426/73ec2084-5.smil/thumb.jpg?t=1820&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1853,
+      "title": "Nå vil også Rødt kutte matmomsen",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05092426/73ec2084-5.smil/thumb.jpg?t=1879&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2030,
+      "title": "Kommentator om matmomskutt",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05092426/73ec2084-5.smil/thumb.jpg?t=2056&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2208,
+      "title": "Norges Bank med rentebeslutning",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05092426/73ec2084-5.smil/thumb.jpg?t=2233&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2389,
+      "title": "Kommentator om rentemøtet",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05092426/73ec2084-5.smil/thumb.jpg?t=2414&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2472,
+      "title": "Industridød og valgfusk i Politisk kvarter",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05092426/73ec2084-5.smil/thumb.jpg?t=2498&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2518,
+      "title": "Overskrifter 07:15",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05092426/73ec2084-5.smil/thumb.jpg?t=2543&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2564,
+      "title": "Norge mot Danmark i Nasjonsligaen",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05092426/73ec2084-5.smil/thumb.jpg?t=2589&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2828,
+      "title": "Sjeldne jordarter viktig på toppmøtet",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05092426/73ec2084-5.smil/thumb.jpg?t=2854&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3037,
+      "title": "Utenrikskommentator om Xi-besøk og FN-møte",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05092426/73ec2084-5.smil/thumb.jpg?t=3063&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3305,
+      "title": "Dommer blokkerer utkastelser av medier",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05092426/73ec2084-5.smil/thumb.jpg?t=3331&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3409,
+      "title": "Nok kjøtt til fårikålens dag",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05092426/73ec2084-5.smil/thumb.jpg?t=3435&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3571,
+      "title": "Hele historien: Hurtigruta brenner",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05092426/73ec2084-5.smil/thumb.jpg?t=3597&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3600,
+      "title": "Overskrifter 07:30",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05092426/73ec2084-5.smil/thumb.jpg?t=3626&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3646,
+      "title": "Nå vil også Rødt kutte matmomsen",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05092426/73ec2084-5.smil/thumb.jpg?t=3672&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3762,
+      "title": "Kommentator om matmomskutt",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05092426/73ec2084-5.smil/thumb.jpg?t=3787&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3829,
+      "title": "Norges Bank med rentebeslutning",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05092426/73ec2084-5.smil/thumb.jpg?t=3855&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3937,
+      "title": "Skyting i Oslo og kanskje i Ullensaker",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05092426/73ec2084-5.smil/thumb.jpg?t=3962&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3960,
+      "title": "Xi møter Trump",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05092426/73ec2084-5.smil/thumb.jpg?t=3986&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4030,
+      "title": "Trumps utkastelse av medier blokkert",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05092426/73ec2084-5.smil/thumb.jpg?t=4055&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4055,
+      "title": "Danske fans før Norge-Danmark",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05092426/73ec2084-5.smil/thumb.jpg?t=4081&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4143,
+      "title": "Togstreik",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05092426/73ec2084-5.smil/thumb.jpg?t=4168&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4164,
+      "title": "Elg- og rådyrjakt",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05092426/73ec2084-5.smil/thumb.jpg?t=4190&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4200,
+      "title": "Åpning 07:40",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05092426/73ec2084-5.smil/thumb.jpg?t=4225&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4221,
+      "title": "Kongolesar teikna kongefamilien",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05092426/73ec2084-5.smil/thumb.jpg?t=4247&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5400,
+      "title": "NRK Nyheter 08:00",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05092426/73ec2084-5.smil/thumb.jpg?t=5426&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5580,
+      "title": "Åpning 08:03",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05092426/73ec2084-5.smil/thumb.jpg?t=5605&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5638,
+      "title": "Norges Bank med rentebeslutning",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05092426/73ec2084-5.smil/thumb.jpg?t=5663&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5815,
+      "title": "Kommentator om rentemøtet",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05092426/73ec2084-5.smil/thumb.jpg?t=5840&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5916,
+      "title": "FN-toppmøte og Xi i USA",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05092426/73ec2084-5.smil/thumb.jpg?t=5941&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6183,
+      "title": "Toppmøtet sett fra Kina",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05092426/73ec2084-5.smil/thumb.jpg?t=6209&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6467,
+      "title": "Overskrifter 08:15",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05092426/73ec2084-5.smil/thumb.jpg?t=6492&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6508,
+      "title": "Spent i Etiopia",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05092426/73ec2084-5.smil/thumb.jpg?t=6533&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6773,
+      "title": "Giverlandsgruppen Palestina",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05092426/73ec2084-5.smil/thumb.jpg?t=6798&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7012,
+      "title": "Klar for sesong 2 av LIS og teater",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05092426/73ec2084-5.smil/thumb.jpg?t=7038&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7329,
+      "title": "Hør Ekko i NRK P2",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05092426/73ec2084-5.smil/thumb.jpg?t=7355&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7362,
+      "title": "Overskrifter 08:30",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05092426/73ec2084-5.smil/thumb.jpg?t=7388&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7392,
+      "title": "Nå vil også Rødt kutte matmomsen",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05092426/73ec2084-5.smil/thumb.jpg?t=7417&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7513,
+      "title": "Kommentator om matmomskutt",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05092426/73ec2084-5.smil/thumb.jpg?t=7538&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7723,
+      "title": "Dommer blokkerer utestengelse av medier",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05092426/73ec2084-5.smil/thumb.jpg?t=7749&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7852,
+      "title": "Nasjonalgalleriet åpner igjen",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05092426/73ec2084-5.smil/thumb.jpg?t=7877&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8109,
+      "title": "Overskrifter 08:45",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05092426/73ec2084-5.smil/thumb.jpg?t=8134&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8170,
+      "title": "Vänsterpartiet i trøbbel",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05092426/73ec2084-5.smil/thumb.jpg?t=8195&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8375,
+      "title": "Marius Borg Høiby bytter forsvarere",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05092426/73ec2084-5.smil/thumb.jpg?t=8401&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8504,
+      "title": "Norge møter Danmark i kveld",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05092426/73ec2084-5.smil/thumb.jpg?t=8530&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8728,
+      "title": "Filmanmeldelse Heart of the Beast",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05092426/73ec2084-5.smil/thumb.jpg?t=8754&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8903,
+      "title": "GJEST Været i dag",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa05092426/73ec2084-5.smil/thumb.jpg?t=8929&scale=640x360&v=high"
+    }
+  ]
+}
