@@ -1,0 +1,58 @@
+{
+  "version": "1.2.0",
+  "title": "Norges bank hever renten",
+  "author": "NRK",
+  "podcastName": "Dagsnytt 18",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsnytt atten",
+      "img": "https://nrk-od-world-00.akamaized.net/open/ps/nnfa/nnfa56092426/1f8eff84-5.smil/thumb.jpg?t=25&scale=640x360&v=high"
+    },
+    {
+      "startTime": 54,
+      "title": "Norges bank hever renten",
+      "img": "https://nrk-od-world-00.akamaized.net/open/ps/nnfa/nnfa56092426/1f8eff84-5.smil/thumb.jpg?t=80&scale=640x360&v=high"
+    },
+    {
+      "startTime": 510,
+      "title": "Norgespris og kommunale boliger",
+      "img": "https://nrk-od-world-00.akamaized.net/open/ps/nnfa/nnfa56092426/1f8eff84-5.smil/thumb.jpg?t=536&scale=640x360&v=high"
+    },
+    {
+      "startTime": 984,
+      "title": "Lavere fartsgrense på sykkelvei",
+      "img": "https://nrk-od-world-00.akamaized.net/open/ps/nnfa/nnfa56092426/1f8eff84-5.smil/thumb.jpg?t=1010&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1601,
+      "title": "Xi møter Trump",
+      "img": "https://nrk-od-world-00.akamaized.net/open/ps/nnfa/nnfa56092426/1f8eff84-5.smil/thumb.jpg?t=1627&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2070,
+      "title": "Natur som helseråd",
+      "img": "https://nrk-od-world-00.akamaized.net/open/ps/nnfa/nnfa56092426/1f8eff84-5.smil/thumb.jpg?t=2095&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2453,
+      "title": "Handelsforbud med bosetninger",
+      "img": "https://nrk-od-world-00.akamaized.net/open/ps/nnfa/nnfa56092426/1f8eff84-5.smil/thumb.jpg?t=2479&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3052,
+      "title": "Fjerner eiendomsskatt i Oslo",
+      "img": "https://nrk-od-world-00.akamaized.net/open/ps/nnfa/nnfa56092426/1f8eff84-5.smil/thumb.jpg?t=3077&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3521,
+      "title": "AVSLUTNING",
+      "img": "https://nrk-od-world-00.akamaized.net/open/ps/nnfa/nnfa56092426/1f8eff84-5.smil/thumb.jpg?t=3543.72&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3526,
+      "title": "SLUTTKJENNING",
+      "img": "https://nrk-od-world-00.akamaized.net/open/ps/nnfa/nnfa56092426/1f8eff84-5.smil/thumb.jpg?t=3543.72&scale=640x360&v=high"
+    }
+  ]
+}
