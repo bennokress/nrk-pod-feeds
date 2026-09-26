@@ -1,0 +1,78 @@
+{
+  "version": "1.2.0",
+  "title": "På plass i Norge",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa23092526/8364f916-7.smil/thumb.jpg?t=25&scale=640x360&v=high"
+    },
+    {
+      "startTime": 47,
+      "title": "Portugal ankomst",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa23092526/8364f916-7.smil/thumb.jpg?t=72&scale=640x360&v=high"
+    },
+    {
+      "startTime": 109,
+      "title": "Gjest:",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa23092526/8364f916-7.smil/thumb.jpg?t=134&scale=640x360&v=high"
+    },
+    {
+      "startTime": 215,
+      "title": "Pave Leo",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa23092526/8364f916-7.smil/thumb.jpg?t=241&scale=640x360&v=high"
+    },
+    {
+      "startTime": 237,
+      "title": "Avreise Xi",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa23092526/8364f916-7.smil/thumb.jpg?t=262&scale=640x360&v=high"
+    },
+    {
+      "startTime": 261,
+      "title": "Nyheter fra Norge",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa23092526/8364f916-7.smil/thumb.jpg?t=286&scale=640x360&v=high"
+    },
+    {
+      "startTime": 364,
+      "title": "Siktet Lørenskogsaken",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa23092526/8364f916-7.smil/thumb.jpg?t=389&scale=640x360&v=high"
+    },
+    {
+      "startTime": 432,
+      "title": "Kultur",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa23092526/8364f916-7.smil/thumb.jpg?t=458&scale=640x360&v=high"
+    },
+    {
+      "startTime": 550,
+      "title": "Ny direktør Operaen",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa23092526/8364f916-7.smil/thumb.jpg?t=576&scale=640x360&v=high"
+    },
+    {
+      "startTime": 570,
+      "title": "Oslometeren",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa23092526/8364f916-7.smil/thumb.jpg?t=595&scale=640x360&v=high"
+    },
+    {
+      "startTime": 673,
+      "title": "Nasjonsligaen",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa23092526/8364f916-7.smil/thumb.jpg?t=698&scale=640x360&v=high"
+    },
+    {
+      "startTime": 745,
+      "title": "Sykkel VM",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa23092526/8364f916-7.smil/thumb.jpg?t=770&scale=640x360&v=high"
+    },
+    {
+      "startTime": 800,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa23092526/8364f916-7.smil/thumb.jpg?t=826&scale=640x360&v=high"
+    },
+    {
+      "startTime": 867,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa23092526/8364f916-7.smil/thumb.jpg?t=886.48&scale=640x360&v=high"
+    }
+  ]
+}
