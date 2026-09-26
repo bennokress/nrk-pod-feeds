@@ -1,0 +1,58 @@
+{
+  "version": "1.2.0",
+  "title": "Hevder Russland vinner uansett",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa23092626/f24468a1-8.smil/thumb.jpg?t=25&scale=640x360&v=high"
+    },
+    {
+      "startTime": 30,
+      "title": "Ukraina",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa23092626/f24468a1-8.smil/thumb.jpg?t=56&scale=640x360&v=high"
+    },
+    {
+      "startTime": 141,
+      "title": "Pave Leo",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa23092626/f24468a1-8.smil/thumb.jpg?t=167&scale=640x360&v=high"
+    },
+    {
+      "startTime": 257,
+      "title": "Avviser Iranforslag",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa23092626/f24468a1-8.smil/thumb.jpg?t=282&scale=640x360&v=high"
+    },
+    {
+      "startTime": 357,
+      "title": "Ibsenprisen",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa23092626/f24468a1-8.smil/thumb.jpg?t=382&scale=640x360&v=high"
+    },
+    {
+      "startTime": 452,
+      "title": "Nasjonsligaen",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa23092626/f24468a1-8.smil/thumb.jpg?t=478&scale=640x360&v=high"
+    },
+    {
+      "startTime": 542,
+      "title": "News",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa23092626/f24468a1-8.smil/thumb.jpg?t=568&scale=640x360&v=high"
+    },
+    {
+      "startTime": 631,
+      "title": "Friidrett",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa23092626/f24468a1-8.smil/thumb.jpg?t=656&scale=640x360&v=high"
+    },
+    {
+      "startTime": 696,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa23092626/f24468a1-8.smil/thumb.jpg?t=722&scale=640x360&v=high"
+    },
+    {
+      "startTime": 768,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa23092626/f24468a1-8.smil/thumb.jpg?t=791.6&scale=640x360&v=high"
+    }
+  ]
+}
