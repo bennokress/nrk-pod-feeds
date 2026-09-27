@@ -1,0 +1,48 @@
+{
+  "version": "1.2.0",
+  "title": "Scorer han?",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa21092726/de61759a-7.smil/thumb.jpg?t=25&scale=640x360&v=high"
+    },
+    {
+      "startTime": 25,
+      "title": "Norge-Portugal",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa21092726/de61759a-7.smil/thumb.jpg?t=51&scale=640x360&v=high"
+    },
+    {
+      "startTime": 92,
+      "title": "Bygd isolert",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa21092726/de61759a-7.smil/thumb.jpg?t=117&scale=640x360&v=high"
+    },
+    {
+      "startTime": 122,
+      "title": "Terror-pågripelser",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa21092726/de61759a-7.smil/thumb.jpg?t=148&scale=640x360&v=high"
+    },
+    {
+      "startTime": 223,
+      "title": "STK-PAKKE",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa21092726/de61759a-7.smil/thumb.jpg?t=249&scale=640x360&v=high"
+    },
+    {
+      "startTime": 295,
+      "title": "Støre i Liverpool",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa21092726/de61759a-7.smil/thumb.jpg?t=321&scale=640x360&v=high"
+    },
+    {
+      "startTime": 403,
+      "title": "Epstein-høring",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa21092726/de61759a-7.smil/thumb.jpg?t=428&scale=640x360&v=high"
+    },
+    {
+      "startTime": 462,
+      "title": "Været",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa21092726/de61759a-7.smil/thumb.jpg?t=487&scale=640x360&v=high"
+    }
+  ]
+}
