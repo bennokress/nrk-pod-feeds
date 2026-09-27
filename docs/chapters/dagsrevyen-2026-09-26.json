@@ -1,0 +1,113 @@
+{
+  "version": "1.2.0",
+  "title": "Frykter flere tvangssalg",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 8,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa19092626/0b7dcd30-5.smil/thumb.jpg?t=33&scale=640x360&v=high"
+    },
+    {
+      "startTime": 65,
+      "title": "Boligrente",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa19092626/0b7dcd30-5.smil/thumb.jpg?t=90&scale=640x360&v=high"
+    },
+    {
+      "startTime": 194,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa19092626/0b7dcd30-5.smil/thumb.jpg?t=219&scale=640x360&v=high"
+    },
+    {
+      "startTime": 322,
+      "title": "Thailand",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa19092626/0b7dcd30-5.smil/thumb.jpg?t=348&scale=640x360&v=high"
+    },
+    {
+      "startTime": 411,
+      "title": "Paven messe Paris",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa19092626/0b7dcd30-5.smil/thumb.jpg?t=437&scale=640x360&v=high"
+    },
+    {
+      "startTime": 470,
+      "title": "Gjest om paven",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa19092626/0b7dcd30-5.smil/thumb.jpg?t=496&scale=640x360&v=high"
+    },
+    {
+      "startTime": 636,
+      "title": "Utenriksnyheter",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa19092626/0b7dcd30-5.smil/thumb.jpg?t=661&scale=640x360&v=high"
+    },
+    {
+      "startTime": 736,
+      "title": "Direkte",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa19092626/0b7dcd30-5.smil/thumb.jpg?t=761&scale=640x360&v=high"
+    },
+    {
+      "startTime": 802,
+      "title": "Ronaldo-feber",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa19092626/0b7dcd30-5.smil/thumb.jpg?t=828&scale=640x360&v=high"
+    },
+    {
+      "startTime": 873,
+      "title": "NM i saueklipping",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa19092626/0b7dcd30-5.smil/thumb.jpg?t=899&scale=640x360&v=high"
+    },
+    {
+      "startTime": 943,
+      "title": "Anoreksibehandling",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa19092626/0b7dcd30-5.smil/thumb.jpg?t=969&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1365,
+      "title": "Lørdagsgjest: Hennig-Olsen",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa19092626/0b7dcd30-5.smil/thumb.jpg?t=1391&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1682,
+      "title": "Hva skjer nå Hockeytown",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa19092626/0b7dcd30-5.smil/thumb.jpg?t=1708&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2049,
+      "title": "NM i saueklipping",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa19092626/0b7dcd30-5.smil/thumb.jpg?t=2074&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2149,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa19092626/0b7dcd30-5.smil/thumb.jpg?t=2175&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2154,
+      "title": "Nations League",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa19092626/0b7dcd30-5.smil/thumb.jpg?t=2180&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2253,
+      "title": "Solbakken om City",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa19092626/0b7dcd30-5.smil/thumb.jpg?t=2278&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2314,
+      "title": "Irland avstemning",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa19092626/0b7dcd30-5.smil/thumb.jpg?t=2339&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2362,
+      "title": "EM-gull orientering",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa19092626/0b7dcd30-5.smil/thumb.jpg?t=2387&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2414,
+      "title": "News",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa19092626/0b7dcd30-5.smil/thumb.jpg?t=2440&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2494,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa19092626/0b7dcd30-5.smil/thumb.jpg?t=2520&scale=640x360&v=high"
+    }
+  ]
+}
