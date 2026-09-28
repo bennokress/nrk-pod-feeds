@@ -1,0 +1,283 @@
+{
+  "version": "1.2.0",
+  "title": "Regjeringen styrker drivstoffberedskapen",
+  "author": "NRK",
+  "podcastName": "Nyhetsmorgen",
+  "chapters": [
+    {
+      "startTime": 62,
+      "title": "Øker beredskapslagre for drivstoff",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa05092526/e806ab3f-6.smil/thumb.jpg?t=88&scale=640x360&v=high"
+    },
+    {
+      "startTime": 127,
+      "title": "Siste fra toppmøtet mellom Trump og Xi",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa05092526/e806ab3f-6.smil/thumb.jpg?t=152&scale=640x360&v=high"
+    },
+    {
+      "startTime": 264,
+      "title": "– Tilbakeslag for bistand",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa05092526/e806ab3f-6.smil/thumb.jpg?t=290&scale=640x360&v=high"
+    },
+    {
+      "startTime": 347,
+      "title": "Siste nytt",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa05092526/e806ab3f-6.smil/thumb.jpg?t=373&scale=640x360&v=high"
+    },
+    {
+      "startTime": 523,
+      "title": "Må møte etterretningstjenesten",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa05092526/e806ab3f-6.smil/thumb.jpg?t=549&scale=640x360&v=high"
+    },
+    {
+      "startTime": 701,
+      "title": "Etiopisk etterretning og etiopisk uro",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa05092526/e806ab3f-6.smil/thumb.jpg?t=727&scale=640x360&v=high"
+    },
+    {
+      "startTime": 976,
+      "title": "Overskrifter 06:45",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa05092526/e806ab3f-6.smil/thumb.jpg?t=1002&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1019,
+      "title": "Streik i oljebransjen",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa05092526/e806ab3f-6.smil/thumb.jpg?t=1044&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1126,
+      "title": "ALS-pasienter vil ha ny medisin",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa05092526/e806ab3f-6.smil/thumb.jpg?t=1151&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1265,
+      "title": "Norge vant knepent mot Danmark",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa05092526/e806ab3f-6.smil/thumb.jpg?t=1291&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1416,
+      "title": "Kommentator om Norge-Danmark",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa05092526/e806ab3f-6.smil/thumb.jpg?t=1441&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1649,
+      "title": "Avføring frå donor har ingen effekt",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa05092526/e806ab3f-6.smil/thumb.jpg?t=1674&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1772,
+      "title": "Teasing dagens sending",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa05092526/e806ab3f-6.smil/thumb.jpg?t=1797&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1777,
+      "title": "Trailer: Boktober - Meld deg på",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa05092526/e806ab3f-6.smil/thumb.jpg?t=1802&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1805,
+      "title": "Åpning 07:00",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa05092526/e806ab3f-6.smil/thumb.jpg?t=1830&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1901,
+      "title": "Øker beredskapslagre for drivstoff",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa05092526/e806ab3f-6.smil/thumb.jpg?t=1926&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2109,
+      "title": "Er vi på vei inn i en ny dyrtid?",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa05092526/e806ab3f-6.smil/thumb.jpg?t=2135&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2363,
+      "title": "Drivstoff-opprøret i Høyre",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa05092526/e806ab3f-6.smil/thumb.jpg?t=2388&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2414,
+      "title": "Etter Netanyahus tale",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa05092526/e806ab3f-6.smil/thumb.jpg?t=2440&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2755,
+      "title": "Overskrifter 07:15",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa05092526/e806ab3f-6.smil/thumb.jpg?t=2781&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2796,
+      "title": "Xis møte med Trump",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa05092526/e806ab3f-6.smil/thumb.jpg?t=2821&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3124,
+      "title": "Juleradioen er i gang",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa05092526/e806ab3f-6.smil/thumb.jpg?t=3149&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3342,
+      "title": "Barn bedømmer årets honning",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa05092526/e806ab3f-6.smil/thumb.jpg?t=3368&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3572,
+      "title": "Trailer: Hele historien - Hurtigruta brenner",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa05092526/e806ab3f-6.smil/thumb.jpg?t=3598&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3600,
+      "title": "Overskrifter 07:30",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa05092526/e806ab3f-6.smil/thumb.jpg?t=3626&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3634,
+      "title": "Øker beredskapslagre for drivstoff",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa05092526/e806ab3f-6.smil/thumb.jpg?t=3659&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3750,
+      "title": "Reaksjoner etter Natanyahus tale",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa05092526/e806ab3f-6.smil/thumb.jpg?t=3775&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3882,
+      "title": "Framstilles for etterretningen",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa05092526/e806ab3f-6.smil/thumb.jpg?t=3908&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3979,
+      "title": "ALS-pasienter vil ha ny medisin",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa05092526/e806ab3f-6.smil/thumb.jpg?t=4004&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4090,
+      "title": "Norge vant knepent mot Danmark",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa05092526/e806ab3f-6.smil/thumb.jpg?t=4116&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4201,
+      "title": "Åpning 07:40",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa05092526/e806ab3f-6.smil/thumb.jpg?t=4227&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4233,
+      "title": "Viking gir garn-boom",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa05092526/e806ab3f-6.smil/thumb.jpg?t=4258&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4468,
+      "title": "Topper 07:44",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa05092526/e806ab3f-6.smil/thumb.jpg?t=4493&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4497,
+      "title": "Overgang til Politisk kvarter",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa05092526/e806ab3f-6.smil/thumb.jpg?t=4523&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5401,
+      "title": "NRK Nyheter 08:00",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa05092526/e806ab3f-6.smil/thumb.jpg?t=5427&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5579,
+      "title": "Åpning 08:03",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa05092526/e806ab3f-6.smil/thumb.jpg?t=5605&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5646,
+      "title": "Øker beredskapslagre for drivstoff",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa05092526/e806ab3f-6.smil/thumb.jpg?t=5671&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5851,
+      "title": "Forsker om drivstoffberedskapen",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa05092526/e806ab3f-6.smil/thumb.jpg?t=5877&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6158,
+      "title": "Paven besøker Frankrike",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa05092526/e806ab3f-6.smil/thumb.jpg?t=6183&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6412,
+      "title": "Overskrifter 08:15",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa05092526/e806ab3f-6.smil/thumb.jpg?t=6437&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6451,
+      "title": "Kartet som kan holde Nato samlet",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa05092526/e806ab3f-6.smil/thumb.jpg?t=6476&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6576,
+      "title": "Fredagspanel",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa05092526/e806ab3f-6.smil/thumb.jpg?t=6602&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7335,
+      "title": "Overskrifter 08:30",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa05092526/e806ab3f-6.smil/thumb.jpg?t=7361&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7403,
+      "title": "Iran med Hormuz-planer",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa05092526/e806ab3f-6.smil/thumb.jpg?t=7429&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7514,
+      "title": "Etter Netanyahus tale",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa05092526/e806ab3f-6.smil/thumb.jpg?t=7539&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7781,
+      "title": "Må møte etterretningstjenesten",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa05092526/e806ab3f-6.smil/thumb.jpg?t=7807&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7913,
+      "title": "Bokmesse i Gøteborg",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa05092526/e806ab3f-6.smil/thumb.jpg?t=7939&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8189,
+      "title": "Overskrifter 08:45",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa05092526/e806ab3f-6.smil/thumb.jpg?t=8214&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8228,
+      "title": "Streik i oljebransjen",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa05092526/e806ab3f-6.smil/thumb.jpg?t=8254&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8367,
+      "title": "Norge vant knepent mot Danmark",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa05092526/e806ab3f-6.smil/thumb.jpg?t=8393&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8414,
+      "title": "Kommentator om Norge-Danmark",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa05092526/e806ab3f-6.smil/thumb.jpg?t=8440&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8632,
+      "title": "Barn bedømmer årets honning",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa05092526/e806ab3f-6.smil/thumb.jpg?t=8658&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8814,
+      "title": "DIR Før Abels tårn i NRK P2",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa05092526/e806ab3f-6.smil/thumb.jpg?t=8840&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8861,
+      "title": "GJEST Været i dag",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa05092526/e806ab3f-6.smil/thumb.jpg?t=8887&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8998,
+      "title": "Avslutning",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa05092526/e806ab3f-6.smil/thumb.jpg?t=9003.32&scale=640x360&v=high"
+    }
+  ]
+}
