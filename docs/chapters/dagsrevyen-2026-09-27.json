@@ -1,0 +1,123 @@
+{
+  "version": "1.2.0",
+  "title": "Spiller han?",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 9,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa19092726/0bc37a5f-5.smil/thumb.jpg?t=35&scale=640x360&v=high"
+    },
+    {
+      "startTime": 101,
+      "title": "Fotballfeber",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa19092726/0bc37a5f-5.smil/thumb.jpg?t=127&scale=640x360&v=high"
+    },
+    {
+      "startTime": 233,
+      "title": "Direkte: Ullevaal",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa19092726/0bc37a5f-5.smil/thumb.jpg?t=259&scale=640x360&v=high"
+    },
+    {
+      "startTime": 313,
+      "title": "Støre i Liverpool",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa19092726/0bc37a5f-5.smil/thumb.jpg?t=339&scale=640x360&v=high"
+    },
+    {
+      "startTime": 424,
+      "title": "Direkte: Liverpool",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa19092726/0bc37a5f-5.smil/thumb.jpg?t=450&scale=640x360&v=high"
+    },
+    {
+      "startTime": 520,
+      "title": "Terror-pågripelser",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa19092726/0bc37a5f-5.smil/thumb.jpg?t=545&scale=640x360&v=high"
+    },
+    {
+      "startTime": 623,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa19092726/0bc37a5f-5.smil/thumb.jpg?t=649&scale=640x360&v=high"
+    },
+    {
+      "startTime": 706,
+      "title": "Fjernvarme krav",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa19092726/0bc37a5f-5.smil/thumb.jpg?t=732&scale=640x360&v=high"
+    },
+    {
+      "startTime": 819,
+      "title": "Epstein-høring",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa19092726/0bc37a5f-5.smil/thumb.jpg?t=845&scale=640x360&v=high"
+    },
+    {
+      "startTime": 889,
+      "title": "Gjest: Jonas Andersen Sayed",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa19092726/0bc37a5f-5.smil/thumb.jpg?t=914&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1107,
+      "title": "Ukraina",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa19092726/0bc37a5f-5.smil/thumb.jpg?t=1133&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1444,
+      "title": "Kina",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa19092726/0bc37a5f-5.smil/thumb.jpg?t=1470&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1803,
+      "title": "Storbritannia",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa19092726/0bc37a5f-5.smil/thumb.jpg?t=1829&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2076,
+      "title": "Suser avgårde",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa19092726/0bc37a5f-5.smil/thumb.jpg?t=2101&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2239,
+      "title": "Ronaldo ankomst",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa19092726/0bc37a5f-5.smil/thumb.jpg?t=2264&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2276,
+      "title": "Direkte",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa19092726/0bc37a5f-5.smil/thumb.jpg?t=2301&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2408,
+      "title": "NASJONSLIGAEN",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa19092726/0bc37a5f-5.smil/thumb.jpg?t=2434&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2486,
+      "title": "WSL",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa19092726/0bc37a5f-5.smil/thumb.jpg?t=2512&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2558,
+      "title": "EM-sølv orientering",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa19092726/0bc37a5f-5.smil/thumb.jpg?t=2584&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2590,
+      "title": "Laver cup",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa19092726/0bc37a5f-5.smil/thumb.jpg?t=2616&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2620,
+      "title": "HÅNDBALL",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa19092726/0bc37a5f-5.smil/thumb.jpg?t=2646&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2678,
+      "title": "Bostadløkken",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa19092726/0bc37a5f-5.smil/thumb.jpg?t=2703&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2802,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa19092726/0bc37a5f-5.smil/thumb.jpg?t=2828&scale=640x360&v=high"
+    }
+  ]
+}
