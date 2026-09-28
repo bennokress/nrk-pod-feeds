@@ -1,0 +1,58 @@
+{
+  "version": "1.2.0",
+  "title": "Nye russiske droneangrep",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa21092826/983660bc-7.smil/thumb.jpg?t=26&scale=640x360&v=high"
+    },
+    {
+      "startTime": 28,
+      "title": "Krigen i Ukraina",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa21092826/983660bc-7.smil/thumb.jpg?t=54&scale=640x360&v=high"
+    },
+    {
+      "startTime": 108,
+      "title": "DAGSREVYPAKKE",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa21092826/983660bc-7.smil/thumb.jpg?t=133&scale=640x360&v=high"
+    },
+    {
+      "startTime": 201,
+      "title": "Nettpromo",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa21092826/983660bc-7.smil/thumb.jpg?t=227&scale=640x360&v=high"
+    },
+    {
+      "startTime": 217,
+      "title": "Oslofjorden",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa21092826/983660bc-7.smil/thumb.jpg?t=243&scale=640x360&v=high"
+    },
+    {
+      "startTime": 315,
+      "title": "Meslinger",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa21092826/983660bc-7.smil/thumb.jpg?t=340&scale=640x360&v=high"
+    },
+    {
+      "startTime": 422,
+      "title": "Space X",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa21092826/983660bc-7.smil/thumb.jpg?t=447&scale=640x360&v=high"
+    },
+    {
+      "startTime": 454,
+      "title": "Paven i Frankrike",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa21092826/983660bc-7.smil/thumb.jpg?t=479&scale=640x360&v=high"
+    },
+    {
+      "startTime": 480,
+      "title": "Været",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa21092826/983660bc-7.smil/thumb.jpg?t=506&scale=640x360&v=high"
+    },
+    {
+      "startTime": 534,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa21092826/983660bc-7.smil/thumb.jpg?t=554.44&scale=640x360&v=high"
+    }
+  ]
+}
