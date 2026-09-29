@@ -1,0 +1,68 @@
+{
+  "version": "1.2.0",
+  "title": "Avviser krisemaksimering",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa21092926/58920839-7.smil/thumb.jpg?t=25&scale=640x360&v=high"
+    },
+    {
+      "startTime": 28,
+      "title": "Stoltenberg og Listhaug",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa21092926/58920839-7.smil/thumb.jpg?t=53&scale=640x360&v=high"
+    },
+    {
+      "startTime": 157,
+      "title": "KI møte",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa21092926/58920839-7.smil/thumb.jpg?t=183&scale=640x360&v=high"
+    },
+    {
+      "startTime": 274,
+      "title": "Datasentere",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa21092926/58920839-7.smil/thumb.jpg?t=300&scale=640x360&v=high"
+    },
+    {
+      "startTime": 302,
+      "title": "Telenor trøbbel",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa21092926/58920839-7.smil/thumb.jpg?t=328&scale=640x360&v=high"
+    },
+    {
+      "startTime": 322,
+      "title": "Drivstoff",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa21092926/58920839-7.smil/thumb.jpg?t=348&scale=640x360&v=high"
+    },
+    {
+      "startTime": 348,
+      "title": "Bedrageri dom",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa21092926/58920839-7.smil/thumb.jpg?t=374&scale=640x360&v=high"
+    },
+    {
+      "startTime": 377,
+      "title": "Togstreiken",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa21092926/58920839-7.smil/thumb.jpg?t=402&scale=640x360&v=high"
+    },
+    {
+      "startTime": 403,
+      "title": "Burnham tale",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa21092926/58920839-7.smil/thumb.jpg?t=429&scale=640x360&v=high"
+    },
+    {
+      "startTime": 449,
+      "title": "U21",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa21092926/58920839-7.smil/thumb.jpg?t=474&scale=640x360&v=high"
+    },
+    {
+      "startTime": 477,
+      "title": "Været",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa21092926/58920839-7.smil/thumb.jpg?t=503&scale=640x360&v=high"
+    },
+    {
+      "startTime": 534,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa21092926/58920839-7.smil/thumb.jpg?t=555.96&scale=640x360&v=high"
+    }
+  ]
+}
