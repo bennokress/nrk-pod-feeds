@@ -1,0 +1,58 @@
+{
+  "version": "1.2.0",
+  "title": "Røykeforbud?",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa23092826/e2d28d90-7.smil/thumb.jpg?t=26&scale=640x360&v=high"
+    },
+    {
+      "startTime": 53,
+      "title": "Trump",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa23092826/e2d28d90-7.smil/thumb.jpg?t=79&scale=640x360&v=high"
+    },
+    {
+      "startTime": 131,
+      "title": "Maricarmen får flytte hjem",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa23092826/e2d28d90-7.smil/thumb.jpg?t=156&scale=640x360&v=high"
+    },
+    {
+      "startTime": 161,
+      "title": "Ulv får leve",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa23092826/e2d28d90-7.smil/thumb.jpg?t=187&scale=640x360&v=high"
+    },
+    {
+      "startTime": 280,
+      "title": "Rassikring",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa23092826/e2d28d90-7.smil/thumb.jpg?t=306&scale=640x360&v=high"
+    },
+    {
+      "startTime": 303,
+      "title": "Røykeforbud Oslo",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa23092826/e2d28d90-7.smil/thumb.jpg?t=329&scale=640x360&v=high"
+    },
+    {
+      "startTime": 401,
+      "title": "Belgia-Frankrike",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa23092826/e2d28d90-7.smil/thumb.jpg?t=426&scale=640x360&v=high"
+    },
+    {
+      "startTime": 467,
+      "title": "Nasjonsligaen",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa23092826/e2d28d90-7.smil/thumb.jpg?t=493&scale=640x360&v=high"
+    },
+    {
+      "startTime": 585,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa23092826/e2d28d90-7.smil/thumb.jpg?t=611&scale=640x360&v=high"
+    },
+    {
+      "startTime": 644,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa23092826/e2d28d90-7.smil/thumb.jpg?t=662.44&scale=640x360&v=high"
+    }
+  ]
+}
