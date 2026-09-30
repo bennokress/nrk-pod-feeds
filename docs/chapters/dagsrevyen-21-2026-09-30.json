@@ -1,0 +1,68 @@
+{
+  "version": "1.2.0",
+  "title": "Mener Iran var involvert",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa21093026/88c05afe-7.smil/thumb.jpg?t=25&scale=640x360&v=high"
+    },
+    {
+      "startTime": 26,
+      "title": "Burnham Iran",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa21093026/88c05afe-7.smil/thumb.jpg?t=52&scale=640x360&v=high"
+    },
+    {
+      "startTime": 105,
+      "title": "Narvik ulykke",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa21093026/88c05afe-7.smil/thumb.jpg?t=130&scale=640x360&v=high"
+    },
+    {
+      "startTime": 126,
+      "title": "Henrettelse utsatt",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa21093026/88c05afe-7.smil/thumb.jpg?t=151&scale=640x360&v=high"
+    },
+    {
+      "startTime": 158,
+      "title": "Epstein-høring",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa21093026/88c05afe-7.smil/thumb.jpg?t=184&scale=640x360&v=high"
+    },
+    {
+      "startTime": 272,
+      "title": "DAGSREVYPAKKE",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa21093026/88c05afe-7.smil/thumb.jpg?t=298&scale=640x360&v=high"
+    },
+    {
+      "startTime": 349,
+      "title": "Nettpromo",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa21093026/88c05afe-7.smil/thumb.jpg?t=375&scale=640x360&v=high"
+    },
+    {
+      "startTime": 363,
+      "title": "FOT-ruter",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa21093026/88c05afe-7.smil/thumb.jpg?t=389&scale=640x360&v=high"
+    },
+    {
+      "startTime": 457,
+      "title": "Bergen temperatur",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa21093026/88c05afe-7.smil/thumb.jpg?t=483&scale=640x360&v=high"
+    },
+    {
+      "startTime": 476,
+      "title": "Ronaldo",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa21093026/88c05afe-7.smil/thumb.jpg?t=501&scale=640x360&v=high"
+    },
+    {
+      "startTime": 512,
+      "title": "Været",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa21093026/88c05afe-7.smil/thumb.jpg?t=537&scale=640x360&v=high"
+    },
+    {
+      "startTime": 568,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa21093026/88c05afe-7.smil/thumb.jpg?t=587.52&scale=640x360&v=high"
+    }
+  ]
+}
