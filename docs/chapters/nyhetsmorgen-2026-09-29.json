@@ -1,0 +1,293 @@
+{
+  "version": "1.2.0",
+  "title": "Jukset seg til asyl",
+  "author": "NRK",
+  "podcastName": "Nyhetsmorgen",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Åpning 06:30",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa05092926/0e74139d-5.smil/thumb.jpg?t=25&scale=640x360&v=high"
+    },
+    {
+      "startTime": 63,
+      "title": "Ny rapport om datasentre",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa05092926/0e74139d-5.smil/thumb.jpg?t=89&scale=640x360&v=high"
+    },
+    {
+      "startTime": 109,
+      "title": "Siste nytt",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa05092926/0e74139d-5.smil/thumb.jpg?t=134&scale=640x360&v=high"
+    },
+    {
+      "startTime": 244,
+      "title": "Jukset seg til asyl",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa05092926/0e74139d-5.smil/thumb.jpg?t=269&scale=640x360&v=high"
+    },
+    {
+      "startTime": 310,
+      "title": "Uttalelse om mulige terrorplaner",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa05092926/0e74139d-5.smil/thumb.jpg?t=335&scale=640x360&v=high"
+    },
+    {
+      "startTime": 559,
+      "title": "Etterlyser mer undervisning om kvensk",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa05092926/0e74139d-5.smil/thumb.jpg?t=585&scale=640x360&v=high"
+    },
+    {
+      "startTime": 718,
+      "title": "Lite skattepenger fra turisme til kommunene",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa05092926/0e74139d-5.smil/thumb.jpg?t=744&scale=640x360&v=high"
+    },
+    {
+      "startTime": 944,
+      "title": "Overskrifter 06:45",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa05092926/0e74139d-5.smil/thumb.jpg?t=970&scale=640x360&v=high"
+    },
+    {
+      "startTime": 994,
+      "title": "96 mill til integrering",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa05092926/0e74139d-5.smil/thumb.jpg?t=1019&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1129,
+      "title": "Kapell og grensemerke",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa05092926/0e74139d-5.smil/thumb.jpg?t=1154&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1323,
+      "title": "Mener Toppserien har for dårlig nivå",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa05092926/0e74139d-5.smil/thumb.jpg?t=1348&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1440,
+      "title": "Krise i film- og TV-bransjen",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa05092926/0e74139d-5.smil/thumb.jpg?t=1465&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1556,
+      "title": "Spenning hos bilbransjen",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa05092926/0e74139d-5.smil/thumb.jpg?t=1582&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1758,
+      "title": "Trailer - Boktober",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa05092926/0e74139d-5.smil/thumb.jpg?t=1783&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1786,
+      "title": "Åpning 07:00",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa05092926/0e74139d-5.smil/thumb.jpg?t=1811&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1859,
+      "title": "Jukset seg til asyl",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa05092926/0e74139d-5.smil/thumb.jpg?t=1884&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2037,
+      "title": "Dette skiller jordanere og palestinere",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa05092926/0e74139d-5.smil/thumb.jpg?t=2062&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2248,
+      "title": "Ny rapport om datasentre",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa05092926/0e74139d-5.smil/thumb.jpg?t=2274&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2395,
+      "title": "Politisk kommentator om datasentre",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa05092926/0e74139d-5.smil/thumb.jpg?t=2420&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2667,
+      "title": "Overskrifter 07:15",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa05092926/0e74139d-5.smil/thumb.jpg?t=2692&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2705,
+      "title": "Varsler dieselbrøl ved Stortinget",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa05092926/0e74139d-5.smil/thumb.jpg?t=2731&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2915,
+      "title": "Før Politisk kvarter",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa05092926/0e74139d-5.smil/thumb.jpg?t=2940&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2933,
+      "title": "Regjeringsforhandlinger i Sverige",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa05092926/0e74139d-5.smil/thumb.jpg?t=2959&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3222,
+      "title": "Forskning på senskader etter barnekreft",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa05092926/0e74139d-5.smil/thumb.jpg?t=3248&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3392,
+      "title": "Farlige sykler",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa05092926/0e74139d-5.smil/thumb.jpg?t=3418&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3567,
+      "title": "Trailer - Seriesnakk: LIS",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa05092926/0e74139d-5.smil/thumb.jpg?t=3593&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3600,
+      "title": "Overskrifter 07:30",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa05092926/0e74139d-5.smil/thumb.jpg?t=3626&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3632,
+      "title": "Jukset seg til asyl",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa05092926/0e74139d-5.smil/thumb.jpg?t=3657&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3758,
+      "title": "96 mill til integrering",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa05092926/0e74139d-5.smil/thumb.jpg?t=3783&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3865,
+      "title": "USA om mulige terrorplaner",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa05092926/0e74139d-5.smil/thumb.jpg?t=3891&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3959,
+      "title": "Ny rapport om datasentre",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa05092926/0e74139d-5.smil/thumb.jpg?t=3984&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4062,
+      "title": "Krise i film- og TV-bransjen",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa05092926/0e74139d-5.smil/thumb.jpg?t=4088&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4174,
+      "title": "Flere kreftpasienter får beholde brystet",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa05092926/0e74139d-5.smil/thumb.jpg?t=4199&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4197,
+      "title": "Åpning 07:40",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa05092926/0e74139d-5.smil/thumb.jpg?t=4223&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4213,
+      "title": "Vil heve aldersgrensen på lett-MC",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa05092926/0e74139d-5.smil/thumb.jpg?t=4238&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5400,
+      "title": "NRK Nyheter 08:00",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa05092926/0e74139d-5.smil/thumb.jpg?t=5425&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5579,
+      "title": "Åpning 08:03",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa05092926/0e74139d-5.smil/thumb.jpg?t=5604&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5629,
+      "title": "Ny rapport om datasentre",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa05092926/0e74139d-5.smil/thumb.jpg?t=5655&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5778,
+      "title": "Politisk kommentator om datasentre",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa05092926/0e74139d-5.smil/thumb.jpg?t=5804&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6043,
+      "title": "Aksjoner mot skeive i Tyrkia",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa05092926/0e74139d-5.smil/thumb.jpg?t=6069&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6350,
+      "title": "Overskrifter 08:15",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa05092926/0e74139d-5.smil/thumb.jpg?t=6376&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6398,
+      "title": "Utsetter KI-modell",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa05092926/0e74139d-5.smil/thumb.jpg?t=6423&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6566,
+      "title": "Burnhams første tale",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa05092926/0e74139d-5.smil/thumb.jpg?t=6591&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6812,
+      "title": "96 mill til integrering",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa05092926/0e74139d-5.smil/thumb.jpg?t=6838&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6971,
+      "title": "Krise i film- og TV-bransjen",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa05092926/0e74139d-5.smil/thumb.jpg?t=6996&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7113,
+      "title": "Lite skattepenger fra turisme til kommunene",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa05092926/0e74139d-5.smil/thumb.jpg?t=7138&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7243,
+      "title": "Hør Ekko i NRK P2",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa05092926/0e74139d-5.smil/thumb.jpg?t=7269&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7306,
+      "title": "Overskrifter 08:30",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa05092926/0e74139d-5.smil/thumb.jpg?t=7331&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7345,
+      "title": "Skal lede Urørtfinalen i morgen",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa05092926/0e74139d-5.smil/thumb.jpg?t=7371&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7634,
+      "title": "Jukset seg til asyl",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa05092926/0e74139d-5.smil/thumb.jpg?t=7659&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7765,
+      "title": "Varsler dieselbrøl ved Stortinget",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa05092926/0e74139d-5.smil/thumb.jpg?t=7791&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7967,
+      "title": "Politisk kommentator om Epstein-høringene",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa05092926/0e74139d-5.smil/thumb.jpg?t=7993&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8168,
+      "title": "Overskrifter 08:45",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa05092926/0e74139d-5.smil/thumb.jpg?t=8193&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8199,
+      "title": "Anm. Svart seng på Munchmuseet",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa05092926/0e74139d-5.smil/thumb.jpg?t=8224&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8416,
+      "title": "Forskning på senskader etter barnekreft",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa05092926/0e74139d-5.smil/thumb.jpg?t=8441&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8612,
+      "title": "Farlige sykler",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa05092926/0e74139d-5.smil/thumb.jpg?t=8638&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8777,
+      "title": "GJEST Været i dag",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa05092926/0e74139d-5.smil/thumb.jpg?t=8802&scale=640x360&v=high"
+    }
+  ]
+}
