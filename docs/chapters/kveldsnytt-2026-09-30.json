@@ -1,0 +1,73 @@
+{
+  "version": "1.2.0",
+  "title": "Overlevde flydramaet",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa23093026/db138773-5.smil/thumb.jpg?t=25&scale=640x360&v=high"
+    },
+    {
+      "startTime": 36,
+      "title": "Flydrama",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa23093026/db138773-5.smil/thumb.jpg?t=61&scale=640x360&v=high"
+    },
+    {
+      "startTime": 138,
+      "title": "Haaland saksøker Norwegian",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa23093026/db138773-5.smil/thumb.jpg?t=163&scale=640x360&v=high"
+    },
+    {
+      "startTime": 162,
+      "title": "Gul midtstripe",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa23093026/db138773-5.smil/thumb.jpg?t=188&scale=640x360&v=high"
+    },
+    {
+      "startTime": 253,
+      "title": "Utenriksnyheter",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa23093026/db138773-5.smil/thumb.jpg?t=279&scale=640x360&v=high"
+    },
+    {
+      "startTime": 339,
+      "title": "Lite norsk kjøtt",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa23093026/db138773-5.smil/thumb.jpg?t=365&scale=640x360&v=high"
+    },
+    {
+      "startTime": 394,
+      "title": "Vindskader",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa23093026/db138773-5.smil/thumb.jpg?t=420&scale=640x360&v=high"
+    },
+    {
+      "startTime": 410,
+      "title": "Europacup",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa23093026/db138773-5.smil/thumb.jpg?t=435&scale=640x360&v=high"
+    },
+    {
+      "startTime": 492,
+      "title": "Mesterliga",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa23093026/db138773-5.smil/thumb.jpg?t=518&scale=640x360&v=high"
+    },
+    {
+      "startTime": 531,
+      "title": "Ronaldo",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa23093026/db138773-5.smil/thumb.jpg?t=556&scale=640x360&v=high"
+    },
+    {
+      "startTime": 561,
+      "title": "Kristoffer Ajer",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa23093026/db138773-5.smil/thumb.jpg?t=587&scale=640x360&v=high"
+    },
+    {
+      "startTime": 648,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa23093026/db138773-5.smil/thumb.jpg?t=674&scale=640x360&v=high"
+    },
+    {
+      "startTime": 714,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa23093026/db138773-5.smil/thumb.jpg?t=732.88&scale=640x360&v=high"
+    }
+  ]
+}
