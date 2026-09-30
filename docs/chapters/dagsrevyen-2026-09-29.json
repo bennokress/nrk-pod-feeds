@@ -1,0 +1,133 @@
+{
+  "version": "1.2.0",
+  "title": "KI på godt og vondt?",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 10,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa19092926/887c0d34-7.smil/thumb.jpg?t=36&scale=640x360&v=high"
+    },
+    {
+      "startTime": 70,
+      "title": "KI-topper",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa19092926/887c0d34-7.smil/thumb.jpg?t=95&scale=640x360&v=high"
+    },
+    {
+      "startTime": 172,
+      "title": "Direkte USA",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa19092926/887c0d34-7.smil/thumb.jpg?t=198&scale=640x360&v=high"
+    },
+    {
+      "startTime": 293,
+      "title": "Datasenter rapport",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa19092926/887c0d34-7.smil/thumb.jpg?t=319&scale=640x360&v=high"
+    },
+    {
+      "startTime": 444,
+      "title": "Gjest Micaelsen",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa19092926/887c0d34-7.smil/thumb.jpg?t=469&scale=640x360&v=high"
+    },
+    {
+      "startTime": 605,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa19092926/887c0d34-7.smil/thumb.jpg?t=631&scale=640x360&v=high"
+    },
+    {
+      "startTime": 687,
+      "title": "Togstreiken",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa19092926/887c0d34-7.smil/thumb.jpg?t=713&scale=640x360&v=high"
+    },
+    {
+      "startTime": 775,
+      "title": "Jordan asyljuks",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa19092926/887c0d34-7.smil/thumb.jpg?t=800&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1037,
+      "title": "Vestbredden",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa19092926/887c0d34-7.smil/thumb.jpg?t=1063&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1144,
+      "title": "Ceuta-krisen",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa19092926/887c0d34-7.smil/thumb.jpg?t=1169&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1267,
+      "title": "Direkte Cueta",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa19092926/887c0d34-7.smil/thumb.jpg?t=1292&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1370,
+      "title": "Epstein-høring",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa19092926/887c0d34-7.smil/thumb.jpg?t=1396&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1520,
+      "title": "Burnham tale",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa19092926/887c0d34-7.smil/thumb.jpg?t=1546&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1563,
+      "title": "Direkte Liverpool",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa19092926/887c0d34-7.smil/thumb.jpg?t=1589&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1679,
+      "title": "Nettpoker",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa19092926/887c0d34-7.smil/thumb.jpg?t=1705&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1795,
+      "title": "Paris Fashion Week",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa19092926/887c0d34-7.smil/thumb.jpg?t=1821&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1910,
+      "title": "Direkte Paris",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa19092926/887c0d34-7.smil/thumb.jpg?t=1936&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2029,
+      "title": "Høstferie",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa19092926/887c0d34-7.smil/thumb.jpg?t=2054&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2124,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa19092926/887c0d34-7.smil/thumb.jpg?t=2150&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2130,
+      "title": "City skyldig",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa19092926/887c0d34-7.smil/thumb.jpg?t=2155&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2158,
+      "title": "Direkte København",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa19092926/887c0d34-7.smil/thumb.jpg?t=2183&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2250,
+      "title": "Ødegaard status",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa19092926/887c0d34-7.smil/thumb.jpg?t=2275&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2376,
+      "title": "U21-kvalifisering",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa19092926/887c0d34-7.smil/thumb.jpg?t=2401&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2442,
+      "title": "Trailer Debatten",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa19092926/887c0d34-7.smil/thumb.jpg?t=2467&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2479,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa19092926/887c0d34-7.smil/thumb.jpg?t=2504&scale=640x360&v=high"
+    }
+  ]
+}
