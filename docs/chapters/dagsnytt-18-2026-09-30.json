@@ -1,0 +1,73 @@
+{
+  "version": "1.2.0",
+  "title": "Epstein-høring i Stortinget",
+  "author": "NRK",
+  "podcastName": "Dagsnytt 18",
+  "chapters": [
+    {
+      "startTime": 1,
+      "title": "Dagsnytt atten",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa56093026/f5a4df31-5.smil/thumb.jpg?t=27&scale=640x360&v=high"
+    },
+    {
+      "startTime": 60,
+      "title": "Epstein-høring",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa56093026/f5a4df31-5.smil/thumb.jpg?t=85&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1143,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa56093026/f5a4df31-5.smil/thumb.jpg?t=1168&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1153,
+      "title": "Krigsprofitør-skatt",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa56093026/f5a4df31-5.smil/thumb.jpg?t=1179&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1573,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa56093026/f5a4df31-5.smil/thumb.jpg?t=1599&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1584,
+      "title": "Manchester City funnet skyldig",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa56093026/f5a4df31-5.smil/thumb.jpg?t=1610&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2010,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa56093026/f5a4df31-5.smil/thumb.jpg?t=2036&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2021,
+      "title": "Sykepleiere og språkkrav",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa56093026/f5a4df31-5.smil/thumb.jpg?t=2046&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2624,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa56093026/f5a4df31-5.smil/thumb.jpg?t=2649&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2634,
+      "title": "Nasjonalbibliotekets språkmodell",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa56093026/f5a4df31-5.smil/thumb.jpg?t=2660&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3066,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa56093026/f5a4df31-5.smil/thumb.jpg?t=3092&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3075,
+      "title": "Nikotinfritt samfunn",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa56093026/f5a4df31-5.smil/thumb.jpg?t=3101&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3516,
+      "title": "SLUTTKJENNING",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa56093026/f5a4df31-5.smil/thumb.jpg?t=3541&scale=640x360&v=high"
+    }
+  ]
+}
