@@ -1,0 +1,128 @@
+{
+  "version": "1.2.0",
+  "title": "Beklager at jeg ikke var ærlig",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 10,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa19093026/9e51f527-5.smil/thumb.jpg?t=36&scale=640x360&v=high"
+    },
+    {
+      "startTime": 87,
+      "title": "Epstein-høring",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa19093026/9e51f527-5.smil/thumb.jpg?t=113&scale=640x360&v=high"
+    },
+    {
+      "startTime": 323,
+      "title": "Gjest Nyhus",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa19093026/9e51f527-5.smil/thumb.jpg?t=349&scale=640x360&v=high"
+    },
+    {
+      "startTime": 449,
+      "title": "Epstein-høring",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa19093026/9e51f527-5.smil/thumb.jpg?t=475&scale=640x360&v=high"
+    },
+    {
+      "startTime": 600,
+      "title": "Gjest: Nyhus",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa19093026/9e51f527-5.smil/thumb.jpg?t=626&scale=640x360&v=high"
+    },
+    {
+      "startTime": 650,
+      "title": "Flydrama",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa19093026/9e51f527-5.smil/thumb.jpg?t=675&scale=640x360&v=high"
+    },
+    {
+      "startTime": 804,
+      "title": "Direkte Istanbul",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa19093026/9e51f527-5.smil/thumb.jpg?t=830&scale=640x360&v=high"
+    },
+    {
+      "startTime": 904,
+      "title": "Dom skipsulykke",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa19093026/9e51f527-5.smil/thumb.jpg?t=930&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1000,
+      "title": "Vindkraft Finnmark",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa19093026/9e51f527-5.smil/thumb.jpg?t=1026&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1039,
+      "title": "Overvekt barn",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa19093026/9e51f527-5.smil/thumb.jpg?t=1064&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1187,
+      "title": "Utenriks",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa19093026/9e51f527-5.smil/thumb.jpg?t=1212&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1336,
+      "title": "Tysk bilfabrikk",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa19093026/9e51f527-5.smil/thumb.jpg?t=1362&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1471,
+      "title": "Svensk politikk",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa19093026/9e51f527-5.smil/thumb.jpg?t=1497&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1584,
+      "title": "Penger oppskytning",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa19093026/9e51f527-5.smil/thumb.jpg?t=1610&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1687,
+      "title": "Manchester City",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa19093026/9e51f527-5.smil/thumb.jpg?t=1713&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1726,
+      "title": "Gjest Haugstad",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa19093026/9e51f527-5.smil/thumb.jpg?t=1752&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1921,
+      "title": "Sommervarme vest",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa19093026/9e51f527-5.smil/thumb.jpg?t=1946&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2015,
+      "title": "KI skuespillere",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa19093026/9e51f527-5.smil/thumb.jpg?t=2040&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2146,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa19093026/9e51f527-5.smil/thumb.jpg?t=2172&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2152,
+      "title": "Dagen før Wales",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa19093026/9e51f527-5.smil/thumb.jpg?t=2178&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2236,
+      "title": "PK Wales",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa19093026/9e51f527-5.smil/thumb.jpg?t=2262&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2275,
+      "title": "Direkte: Wales",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa19093026/9e51f527-5.smil/thumb.jpg?t=2300&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2392,
+      "title": "Alpinsak",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa19093026/9e51f527-5.smil/thumb.jpg?t=2417&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2456,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa19093026/9e51f527-5.smil/thumb.jpg?t=2481&scale=640x360&v=high"
+    }
+  ]
+}
