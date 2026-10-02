@@ -1,0 +1,273 @@
+{
+  "version": "1.2.0",
+  "title": "Bosted avgjør psykisk helsehjelp",
+  "author": "NRK",
+  "podcastName": "Nyhetsmorgen",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Åpning 06:30",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa05100126/99bf88ef-5.smil/thumb.jpg?t=26&scale=640x360&v=high"
+    },
+    {
+      "startTime": 78,
+      "title": "Bosted avgjør psykisk helsehjelp",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa05100126/99bf88ef-5.smil/thumb.jpg?t=103&scale=640x360&v=high"
+    },
+    {
+      "startTime": 145,
+      "title": "Epstein-høringen fortsetter",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa05100126/99bf88ef-5.smil/thumb.jpg?t=170&scale=640x360&v=high"
+    },
+    {
+      "startTime": 350,
+      "title": "Siste nytt",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa05100126/99bf88ef-5.smil/thumb.jpg?t=375&scale=640x360&v=high"
+    },
+    {
+      "startTime": 479,
+      "title": "Gammel tørkesommer dreper fortsatt trær",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa05100126/99bf88ef-5.smil/thumb.jpg?t=505&scale=640x360&v=high"
+    },
+    {
+      "startTime": 661,
+      "title": "Haaland saksøker Norwegian",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa05100126/99bf88ef-5.smil/thumb.jpg?t=686&scale=640x360&v=high"
+    },
+    {
+      "startTime": 779,
+      "title": "Elon Musk får lederrolle i Pentagon-prosjekt",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa05100126/99bf88ef-5.smil/thumb.jpg?t=805&scale=640x360&v=high"
+    },
+    {
+      "startTime": 954,
+      "title": "Overskrifter 06:45",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa05100126/99bf88ef-5.smil/thumb.jpg?t=979&scale=640x360&v=high"
+    },
+    {
+      "startTime": 987,
+      "title": "Norge møter Wales i Nasjonsligaen",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa05100126/99bf88ef-5.smil/thumb.jpg?t=1013&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1343,
+      "title": "Kommune vil gi papirlause varig opphald",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa05100126/99bf88ef-5.smil/thumb.jpg?t=1368&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1578,
+      "title": "Mer hummer",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa05100126/99bf88ef-5.smil/thumb.jpg?t=1604&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1766,
+      "title": "Trailer - Spor",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa05100126/99bf88ef-5.smil/thumb.jpg?t=1792&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1801,
+      "title": "Åpning 07:00",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa05100126/99bf88ef-5.smil/thumb.jpg?t=1826&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1868,
+      "title": "Bosted avgjør psykisk helsehjelp",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa05100126/99bf88ef-5.smil/thumb.jpg?t=1894&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2070,
+      "title": "Andrepilot knivstakk kaptein i lufta",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa05100126/99bf88ef-5.smil/thumb.jpg?t=2095&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2240,
+      "title": "Kvinne overlevde henrettelsesforsøk i USA",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa05100126/99bf88ef-5.smil/thumb.jpg?t=2266&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2446,
+      "title": "Meiner KI-tannbørste kan gi falsk tryggleik",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa05100126/99bf88ef-5.smil/thumb.jpg?t=2472&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2629,
+      "title": "Før Politisk kvarter",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa05100126/99bf88ef-5.smil/thumb.jpg?t=2654&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2677,
+      "title": "Overskrifter 07:15",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa05100126/99bf88ef-5.smil/thumb.jpg?t=2702&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2711,
+      "title": "Mer inkluderende kulturtilbud",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa05100126/99bf88ef-5.smil/thumb.jpg?t=2736&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2950,
+      "title": "Vinner av Akademikerprisen 2026",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa05100126/99bf88ef-5.smil/thumb.jpg?t=2975&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3297,
+      "title": "Burnham åpner for EU",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa05100126/99bf88ef-5.smil/thumb.jpg?t=3323&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3565,
+      "title": "Trailer – Sentralbordet på NRK",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa05100126/99bf88ef-5.smil/thumb.jpg?t=3591&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3602,
+      "title": "Overskrifter 07:30",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa05100126/99bf88ef-5.smil/thumb.jpg?t=3627&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3644,
+      "title": "Bosted avgjør psykisk helsehjelp",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa05100126/99bf88ef-5.smil/thumb.jpg?t=3669&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3763,
+      "title": "Høyeste dødstall i trafikken på ti år",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa05100126/99bf88ef-5.smil/thumb.jpg?t=3789&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3863,
+      "title": "Epstein-høringen fortsetter",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa05100126/99bf88ef-5.smil/thumb.jpg?t=3888&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3990,
+      "title": "Gammel tørkesommer dreper fortsatt trær",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa05100126/99bf88ef-5.smil/thumb.jpg?t=4016&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4105,
+      "title": "Kvardagsprodukt med kunstig intelligens",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa05100126/99bf88ef-5.smil/thumb.jpg?t=4131&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4173,
+      "title": "Ødegaard med i troppen mot Wales",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa05100126/99bf88ef-5.smil/thumb.jpg?t=4199&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4199,
+      "title": "Åpning 07:40",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa05100126/99bf88ef-5.smil/thumb.jpg?t=4224&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4217,
+      "title": "Helomvending om Nicolas (6)",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa05100126/99bf88ef-5.smil/thumb.jpg?t=4243&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5401,
+      "title": "NRK Nyheter 08:00",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa05100126/99bf88ef-5.smil/thumb.jpg?t=5426&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5580,
+      "title": "Åpning 08:03",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa05100126/99bf88ef-5.smil/thumb.jpg?t=5606&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5651,
+      "title": "Epstein-høringen fortsetter",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa05100126/99bf88ef-5.smil/thumb.jpg?t=5676&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5847,
+      "title": "Kommentator om Epstein-høringene",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa05100126/99bf88ef-5.smil/thumb.jpg?t=5872&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6073,
+      "title": "Fotballherrenes kampbelastning",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa05100126/99bf88ef-5.smil/thumb.jpg?t=6099&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6373,
+      "title": "Overskrifter 08:15",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa05100126/99bf88ef-5.smil/thumb.jpg?t=6398&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6429,
+      "title": "Pilot-angrep på fly",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa05100126/99bf88ef-5.smil/thumb.jpg?t=6455&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6554,
+      "title": "Kommune vil gi papirlause varig opphald",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa05100126/99bf88ef-5.smil/thumb.jpg?t=6579&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6771,
+      "title": "Boktober er i gang",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa05100126/99bf88ef-5.smil/thumb.jpg?t=6797&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7267,
+      "title": "Hør Ekko i NRK P2",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa05100126/99bf88ef-5.smil/thumb.jpg?t=7292&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7319,
+      "title": "Overskrifter 08:30",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa05100126/99bf88ef-5.smil/thumb.jpg?t=7345&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7372,
+      "title": "Bosted avgjør psykisk helsehjelp",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa05100126/99bf88ef-5.smil/thumb.jpg?t=7398&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7571,
+      "title": "Meiner KI-tannbørste kan gi falsk tryggleik",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa05100126/99bf88ef-5.smil/thumb.jpg?t=7597&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7752,
+      "title": "Vinner av Akademikerprisen",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa05100126/99bf88ef-5.smil/thumb.jpg?t=7777&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7999,
+      "title": "Høyeste dødstall i trafikken på ti år",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa05100126/99bf88ef-5.smil/thumb.jpg?t=8024&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8122,
+      "title": "Overskrifter 08:45",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa05100126/99bf88ef-5.smil/thumb.jpg?t=8147&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8165,
+      "title": "Intern uro i SV",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa05100126/99bf88ef-5.smil/thumb.jpg?t=8190&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8363,
+      "title": "Filmanmeldelse: «Digger»",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa05100126/99bf88ef-5.smil/thumb.jpg?t=8388&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8566,
+      "title": "Helomvending om Nicolas (6)",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa05100126/99bf88ef-5.smil/thumb.jpg?t=8592&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8800,
+      "title": "Bengt Eriksen før Norge–Wales",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa05100126/99bf88ef-5.smil/thumb.jpg?t=8825&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8900,
+      "title": "Været i dag",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa05100126/99bf88ef-5.smil/thumb.jpg?t=8926&scale=640x360&v=high"
+    }
+  ]
+}
