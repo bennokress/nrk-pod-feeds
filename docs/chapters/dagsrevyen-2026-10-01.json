@@ -1,0 +1,143 @@
+{
+  "version": "1.2.0",
+  "title": "Nyland får sjansen",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 8,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-05.akamaized.net/open/ps/nnfa/nnfa19100126/b0911542-5.smil/thumb.jpg?t=34&scale=640x360&v=high"
+    },
+    {
+      "startTime": 80,
+      "title": "Direkte Wales",
+      "img": "https://nrk-od-world-05.akamaized.net/open/ps/nnfa/nnfa19100126/b0911542-5.smil/thumb.jpg?t=105&scale=640x360&v=high"
+    },
+    {
+      "startTime": 131,
+      "title": "Dødsdømt døde ikke",
+      "img": "https://nrk-od-world-05.akamaized.net/open/ps/nnfa/nnfa19100126/b0911542-5.smil/thumb.jpg?t=157&scale=640x360&v=high"
+    },
+    {
+      "startTime": 235,
+      "title": "Direkte Washington",
+      "img": "https://nrk-od-world-05.akamaized.net/open/ps/nnfa/nnfa19100126/b0911542-5.smil/thumb.jpg?t=261&scale=640x360&v=high"
+    },
+    {
+      "startTime": 347,
+      "title": "Dykket ved skipsvrak",
+      "img": "https://nrk-od-world-05.akamaized.net/open/ps/nnfa/nnfa19100126/b0911542-5.smil/thumb.jpg?t=372&scale=640x360&v=high"
+    },
+    {
+      "startTime": 457,
+      "title": "Epstein-høringen",
+      "img": "https://nrk-od-world-05.akamaized.net/open/ps/nnfa/nnfa19100126/b0911542-5.smil/thumb.jpg?t=482&scale=640x360&v=high"
+    },
+    {
+      "startTime": 599,
+      "title": "Direkte fra Stortinget",
+      "img": "https://nrk-od-world-05.akamaized.net/open/ps/nnfa/nnfa19100126/b0911542-5.smil/thumb.jpg?t=625&scale=640x360&v=high"
+    },
+    {
+      "startTime": 723,
+      "title": "Gjest Nyhus",
+      "img": "https://nrk-od-world-05.akamaized.net/open/ps/nnfa/nnfa19100126/b0911542-5.smil/thumb.jpg?t=749&scale=640x360&v=high"
+    },
+    {
+      "startTime": 812,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-05.akamaized.net/open/ps/nnfa/nnfa19100126/b0911542-5.smil/thumb.jpg?t=838&scale=640x360&v=high"
+    },
+    {
+      "startTime": 862,
+      "title": "SV opprør",
+      "img": "https://nrk-od-world-05.akamaized.net/open/ps/nnfa/nnfa19100126/b0911542-5.smil/thumb.jpg?t=888&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1013,
+      "title": "Knivdrama på fly",
+      "img": "https://nrk-od-world-05.akamaized.net/open/ps/nnfa/nnfa19100126/b0911542-5.smil/thumb.jpg?t=1039&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1128,
+      "title": "Børsuro norsk rente",
+      "img": "https://nrk-od-world-05.akamaized.net/open/ps/nnfa/nnfa19100126/b0911542-5.smil/thumb.jpg?t=1154&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1241,
+      "title": "Gullsmedran",
+      "img": "https://nrk-od-world-05.akamaized.net/open/ps/nnfa/nnfa19100126/b0911542-5.smil/thumb.jpg?t=1267&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1334,
+      "title": "Ronaldo slutt landslag",
+      "img": "https://nrk-od-world-05.akamaized.net/open/ps/nnfa/nnfa19100126/b0911542-5.smil/thumb.jpg?t=1359&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1435,
+      "title": "Direkte København",
+      "img": "https://nrk-od-world-05.akamaized.net/open/ps/nnfa/nnfa19100126/b0911542-5.smil/thumb.jpg?t=1461&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1505,
+      "title": "Direkte Tønsberg",
+      "img": "https://nrk-od-world-05.akamaized.net/open/ps/nnfa/nnfa19100126/b0911542-5.smil/thumb.jpg?t=1531&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1665,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-05.akamaized.net/open/ps/nnfa/nnfa19100126/b0911542-5.smil/thumb.jpg?t=1691&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1676,
+      "title": "Siste Wales",
+      "img": "https://nrk-od-world-05.akamaized.net/open/ps/nnfa/nnfa19100126/b0911542-5.smil/thumb.jpg?t=1701&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1692,
+      "title": "Direkte Cardiff",
+      "img": "https://nrk-od-world-05.akamaized.net/open/ps/nnfa/nnfa19100126/b0911542-5.smil/thumb.jpg?t=1717&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1860,
+      "title": "Cup",
+      "img": "https://nrk-od-world-05.akamaized.net/open/ps/nnfa/nnfa19100126/b0911542-5.smil/thumb.jpg?t=1885&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1888,
+      "title": "Jentefotball Bergen",
+      "img": "https://nrk-od-world-05.akamaized.net/open/ps/nnfa/nnfa19100126/b0911542-5.smil/thumb.jpg?t=1913&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1993,
+      "title": "Ingebrigtsen Runfest",
+      "img": "https://nrk-od-world-05.akamaized.net/open/ps/nnfa/nnfa19100126/b0911542-5.smil/thumb.jpg?t=2019&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2092,
+      "title": "Hummerfisket i gang",
+      "img": "https://nrk-od-world-05.akamaized.net/open/ps/nnfa/nnfa19100126/b0911542-5.smil/thumb.jpg?t=2117&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2213,
+      "title": "Duran Duran",
+      "img": "https://nrk-od-world-05.akamaized.net/open/ps/nnfa/nnfa19100126/b0911542-5.smil/thumb.jpg?t=2238&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2405,
+      "title": "Trailer Debatten",
+      "img": "https://nrk-od-world-05.akamaized.net/open/ps/nnfa/nnfa19100126/b0911542-5.smil/thumb.jpg?t=2430&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2428,
+      "title": "Godvær Nordland",
+      "img": "https://nrk-od-world-05.akamaized.net/open/ps/nnfa/nnfa19100126/b0911542-5.smil/thumb.jpg?t=2453&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2488,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-05.akamaized.net/open/ps/nnfa/nnfa19100126/b0911542-5.smil/thumb.jpg?t=2514&scale=640x360&v=high"
+    }
+  ]
+}
