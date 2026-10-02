@@ -1,0 +1,78 @@
+{
+  "version": "1.2.0",
+  "title": "Heggem fikk rødt kort",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa23100126/d5a18df3-5.smil/thumb.jpg?t=25&scale=640x360&v=high"
+    },
+    {
+      "startTime": 33,
+      "title": "Resultat kamp",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa23100126/d5a18df3-5.smil/thumb.jpg?t=59&scale=640x360&v=high"
+    },
+    {
+      "startTime": 134,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa23100126/d5a18df3-5.smil/thumb.jpg?t=159&scale=640x360&v=high"
+    },
+    {
+      "startTime": 295,
+      "title": "Skolebrann Frankrike",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa23100126/d5a18df3-5.smil/thumb.jpg?t=320&scale=640x360&v=high"
+    },
+    {
+      "startTime": 327,
+      "title": "Bergstø SV",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa23100126/d5a18df3-5.smil/thumb.jpg?t=352&scale=640x360&v=high"
+    },
+    {
+      "startTime": 372,
+      "title": "Fly-knivstikking",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa23100126/d5a18df3-5.smil/thumb.jpg?t=397&scale=640x360&v=high"
+    },
+    {
+      "startTime": 406,
+      "title": "Død etter skoleangrep",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa23100126/d5a18df3-5.smil/thumb.jpg?t=431&scale=640x360&v=high"
+    },
+    {
+      "startTime": 432,
+      "title": "Overnattingstall",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa23100126/d5a18df3-5.smil/thumb.jpg?t=458&scale=640x360&v=high"
+    },
+    {
+      "startTime": 528,
+      "title": "Danmark-Portugal",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa23100126/d5a18df3-5.smil/thumb.jpg?t=553&scale=640x360&v=high"
+    },
+    {
+      "startTime": 590,
+      "title": "NM",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa23100126/d5a18df3-5.smil/thumb.jpg?t=615&scale=640x360&v=high"
+    },
+    {
+      "startTime": 659,
+      "title": "Ishockey",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa23100126/d5a18df3-5.smil/thumb.jpg?t=685&scale=640x360&v=high"
+    },
+    {
+      "startTime": 719,
+      "title": "BILDE",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa23100126/d5a18df3-5.smil/thumb.jpg?t=744&scale=640x360&v=high"
+    },
+    {
+      "startTime": 760,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa23100126/d5a18df3-5.smil/thumb.jpg?t=786&scale=640x360&v=high"
+    },
+    {
+      "startTime": 818,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-30.akamaized.net/open/ps/nnfa/nnfa23100126/d5a18df3-5.smil/thumb.jpg?t=843&scale=640x360&v=high"
+    }
+  ]
+}
