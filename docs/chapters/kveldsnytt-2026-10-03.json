@@ -1,0 +1,68 @@
+{
+  "version": "1.2.0",
+  "title": "#IamJaneDoe",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 5,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa23100326/351b8ee2-7.smil/thumb.jpg?t=30&scale=640x360&v=high"
+    },
+    {
+      "startTime": 43,
+      "title": "Cornell-universitet",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa23100326/351b8ee2-7.smil/thumb.jpg?t=68&scale=640x360&v=high"
+    },
+    {
+      "startTime": 144,
+      "title": "Snur om koranskoler",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa23100326/351b8ee2-7.smil/thumb.jpg?t=169&scale=640x360&v=high"
+    },
+    {
+      "startTime": 237,
+      "title": "Valg i Brasil",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa23100326/351b8ee2-7.smil/thumb.jpg?t=262&scale=640x360&v=high"
+    },
+    {
+      "startTime": 267,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa23100326/351b8ee2-7.smil/thumb.jpg?t=292&scale=640x360&v=high"
+    },
+    {
+      "startTime": 408,
+      "title": "Valg i Latvia",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa23100326/351b8ee2-7.smil/thumb.jpg?t=434&scale=640x360&v=high"
+    },
+    {
+      "startTime": 437,
+      "title": "Christa Pike",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa23100326/351b8ee2-7.smil/thumb.jpg?t=463&scale=640x360&v=high"
+    },
+    {
+      "startTime": 466,
+      "title": "Jaktulykke",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa23100326/351b8ee2-7.smil/thumb.jpg?t=491&scale=640x360&v=high"
+    },
+    {
+      "startTime": 488,
+      "title": "Nasjonsligaen",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa23100326/351b8ee2-7.smil/thumb.jpg?t=513&scale=640x360&v=high"
+    },
+    {
+      "startTime": 609,
+      "title": "Før Portugal-Norge",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa23100326/351b8ee2-7.smil/thumb.jpg?t=634&scale=640x360&v=high"
+    },
+    {
+      "startTime": 673,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa23100326/351b8ee2-7.smil/thumb.jpg?t=699&scale=640x360&v=high"
+    },
+    {
+      "startTime": 740,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa23100326/351b8ee2-7.smil/thumb.jpg?t=761.6&scale=640x360&v=high"
+    }
+  ]
+}
