@@ -1,0 +1,118 @@
+{
+  "version": "1.2.0",
+  "title": "Solbakken angrer",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 9,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa19100226/2c2eeaac-7.smil/thumb.jpg?t=34&scale=640x360&v=high"
+    },
+    {
+      "startTime": 59,
+      "title": "Frankrike",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa19100226/2c2eeaac-7.smil/thumb.jpg?t=85&scale=640x360&v=high"
+    },
+    {
+      "startTime": 173,
+      "title": "Direkte Brüssel",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa19100226/2c2eeaac-7.smil/thumb.jpg?t=199&scale=640x360&v=high"
+    },
+    {
+      "startTime": 248,
+      "title": "Knivstikking fly",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa19100226/2c2eeaac-7.smil/thumb.jpg?t=273&scale=640x360&v=high"
+    },
+    {
+      "startTime": 325,
+      "title": "Åpning Stortinget",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa19100226/2c2eeaac-7.smil/thumb.jpg?t=350&scale=640x360&v=high"
+    },
+    {
+      "startTime": 456,
+      "title": "Gullsmedranet",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa19100226/2c2eeaac-7.smil/thumb.jpg?t=481&scale=640x360&v=high"
+    },
+    {
+      "startTime": 500,
+      "title": "Jeger drept",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa19100226/2c2eeaac-7.smil/thumb.jpg?t=525&scale=640x360&v=high"
+    },
+    {
+      "startTime": 519,
+      "title": "Direkte Sverige",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa19100226/2c2eeaac-7.smil/thumb.jpg?t=545&scale=640x360&v=high"
+    },
+    {
+      "startTime": 595,
+      "title": "Brann Porsgrunn",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa19100226/2c2eeaac-7.smil/thumb.jpg?t=621&scale=640x360&v=high"
+    },
+    {
+      "startTime": 657,
+      "title": "Eksplosjon Oslo",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa19100226/2c2eeaac-7.smil/thumb.jpg?t=683&scale=640x360&v=high"
+    },
+    {
+      "startTime": 685,
+      "title": "Protest gruve",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa19100226/2c2eeaac-7.smil/thumb.jpg?t=711&scale=640x360&v=high"
+    },
+    {
+      "startTime": 838,
+      "title": "G7 drivstoff",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa19100226/2c2eeaac-7.smil/thumb.jpg?t=863&scale=640x360&v=high"
+    },
+    {
+      "startTime": 869,
+      "title": "Studenter Cornell",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa19100226/2c2eeaac-7.smil/thumb.jpg?t=895&scale=640x360&v=high"
+    },
+    {
+      "startTime": 997,
+      "title": "Tyrkia",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa19100226/2c2eeaac-7.smil/thumb.jpg?t=1022&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1112,
+      "title": "Tomme hus",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa19100226/2c2eeaac-7.smil/thumb.jpg?t=1137&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1212,
+      "title": "Smalahove barnehage",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa19100226/2c2eeaac-7.smil/thumb.jpg?t=1238&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1353,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa19100226/2c2eeaac-7.smil/thumb.jpg?t=1378&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1354,
+      "title": "Fotball, landslag",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa19100226/2c2eeaac-7.smil/thumb.jpg?t=1379&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1457,
+      "title": "Fotball, City-skandale",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa19100226/2c2eeaac-7.smil/thumb.jpg?t=1483&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1478,
+      "title": "Håndball, Reistad",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa19100226/2c2eeaac-7.smil/thumb.jpg?t=1503&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1496,
+      "title": "Friidrett, Ingebrigtsen",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa19100226/2c2eeaac-7.smil/thumb.jpg?t=1522&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1551,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa19100226/2c2eeaac-7.smil/thumb.jpg?t=1577&scale=640x360&v=high"
+    }
+  ]
+}
