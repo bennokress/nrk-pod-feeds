@@ -1,0 +1,88 @@
+{
+  "version": "1.2.0",
+  "title": "I respirator",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 3,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-55.akamaized.net/open/ps/nnfa/nnfa23100226/d093d307-7.smil/thumb.jpg?t=28&scale=640x360&v=high"
+    },
+    {
+      "startTime": 38,
+      "title": "FN om Ukraina",
+      "img": "https://nrk-od-world-55.akamaized.net/open/ps/nnfa/nnfa23100226/d093d307-7.smil/thumb.jpg?t=64&scale=640x360&v=high"
+    },
+    {
+      "startTime": 157,
+      "title": "Terrosiktet",
+      "img": "https://nrk-od-world-55.akamaized.net/open/ps/nnfa/nnfa23100226/d093d307-7.smil/thumb.jpg?t=183&scale=640x360&v=high"
+    },
+    {
+      "startTime": 180,
+      "title": "Demonstrasjoner",
+      "img": "https://nrk-od-world-55.akamaized.net/open/ps/nnfa/nnfa23100226/d093d307-7.smil/thumb.jpg?t=205&scale=640x360&v=high"
+    },
+    {
+      "startTime": 212,
+      "title": "Nettpromo",
+      "img": "https://nrk-od-world-55.akamaized.net/open/ps/nnfa/nnfa23100226/d093d307-7.smil/thumb.jpg?t=238&scale=640x360&v=high"
+    },
+    {
+      "startTime": 230,
+      "title": "Dødsdømt",
+      "img": "https://nrk-od-world-55.akamaized.net/open/ps/nnfa/nnfa23100226/d093d307-7.smil/thumb.jpg?t=256&scale=640x360&v=high"
+    },
+    {
+      "startTime": 302,
+      "title": "Gullsmedranet",
+      "img": "https://nrk-od-world-55.akamaized.net/open/ps/nnfa/nnfa23100226/d093d307-7.smil/thumb.jpg?t=328&scale=640x360&v=high"
+    },
+    {
+      "startTime": 345,
+      "title": "Jeger drept",
+      "img": "https://nrk-od-world-55.akamaized.net/open/ps/nnfa/nnfa23100226/d093d307-7.smil/thumb.jpg?t=370&scale=640x360&v=high"
+    },
+    {
+      "startTime": 367,
+      "title": "Eksplosjon Oslo",
+      "img": "https://nrk-od-world-55.akamaized.net/open/ps/nnfa/nnfa23100226/d093d307-7.smil/thumb.jpg?t=393&scale=640x360&v=high"
+    },
+    {
+      "startTime": 388,
+      "title": "ALS-medisin",
+      "img": "https://nrk-od-world-55.akamaized.net/open/ps/nnfa/nnfa23100226/d093d307-7.smil/thumb.jpg?t=414&scale=640x360&v=high"
+    },
+    {
+      "startTime": 498,
+      "title": "Stortinget",
+      "img": "https://nrk-od-world-55.akamaized.net/open/ps/nnfa/nnfa23100226/d093d307-7.smil/thumb.jpg?t=524&scale=640x360&v=high"
+    },
+    {
+      "startTime": 523,
+      "title": "Fotball, nasjonsliga",
+      "img": "https://nrk-od-world-55.akamaized.net/open/ps/nnfa/nnfa23100226/d093d307-7.smil/thumb.jpg?t=549&scale=640x360&v=high"
+    },
+    {
+      "startTime": 654,
+      "title": "Toppidrettspar",
+      "img": "https://nrk-od-world-55.akamaized.net/open/ps/nnfa/nnfa23100226/d093d307-7.smil/thumb.jpg?t=679&scale=640x360&v=high"
+    },
+    {
+      "startTime": 739,
+      "title": "DAGENS BILDE",
+      "img": "https://nrk-od-world-55.akamaized.net/open/ps/nnfa/nnfa23100226/d093d307-7.smil/thumb.jpg?t=764&scale=640x360&v=high"
+    },
+    {
+      "startTime": 766,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-55.akamaized.net/open/ps/nnfa/nnfa23100226/d093d307-7.smil/thumb.jpg?t=791&scale=640x360&v=high"
+    },
+    {
+      "startTime": 829,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-55.akamaized.net/open/ps/nnfa/nnfa23100226/d093d307-7.smil/thumb.jpg?t=852.55&scale=640x360&v=high"
+    }
+  ]
+}
