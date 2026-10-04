@@ -1,0 +1,48 @@
+{
+  "version": "1.2.0",
+  "title": "Økt støtte til Ukraina",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-40.akamaized.net/open/ps/nnfa/nnfa21100426/e4bd1a86-6.smil/thumb.jpg?t=25&scale=640x360&v=high"
+    },
+    {
+      "startTime": 26,
+      "title": "Nations League",
+      "img": "https://nrk-od-world-40.akamaized.net/open/ps/nnfa/nnfa21100426/e4bd1a86-6.smil/thumb.jpg?t=52&scale=640x360&v=high"
+    },
+    {
+      "startTime": 76,
+      "title": "Drap Halden",
+      "img": "https://nrk-od-world-40.akamaized.net/open/ps/nnfa/nnfa21100426/e4bd1a86-6.smil/thumb.jpg?t=102&scale=640x360&v=high"
+    },
+    {
+      "startTime": 196,
+      "title": "Økt støtte til Ukraina",
+      "img": "https://nrk-od-world-40.akamaized.net/open/ps/nnfa/nnfa21100426/e4bd1a86-6.smil/thumb.jpg?t=222&scale=640x360&v=high"
+    },
+    {
+      "startTime": 272,
+      "title": "Kvinnehelse",
+      "img": "https://nrk-od-world-40.akamaized.net/open/ps/nnfa/nnfa21100426/e4bd1a86-6.smil/thumb.jpg?t=298&scale=640x360&v=high"
+    },
+    {
+      "startTime": 390,
+      "title": "Rally-VM",
+      "img": "https://nrk-od-world-40.akamaized.net/open/ps/nnfa/nnfa21100426/e4bd1a86-6.smil/thumb.jpg?t=416&scale=640x360&v=high"
+    },
+    {
+      "startTime": 500,
+      "title": "Været",
+      "img": "https://nrk-od-world-40.akamaized.net/open/ps/nnfa/nnfa21100426/e4bd1a86-6.smil/thumb.jpg?t=525&scale=640x360&v=high"
+    },
+    {
+      "startTime": 552,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-40.akamaized.net/open/ps/nnfa/nnfa21100426/e4bd1a86-6.smil/thumb.jpg?t=574.44&scale=640x360&v=high"
+    }
+  ]
+}
