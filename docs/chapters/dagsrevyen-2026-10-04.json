@@ -1,0 +1,133 @@
+{
+  "version": "1.2.0",
+  "title": "Far og sønn drept",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 10,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa19100426/526d78a8-7.smil/thumb.jpg?t=36&scale=640x360&v=high"
+    },
+    {
+      "startTime": 69,
+      "title": "Drap Halden",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa19100426/526d78a8-7.smil/thumb.jpg?t=95&scale=640x360&v=high"
+    },
+    {
+      "startTime": 189,
+      "title": "Direkte: Halden",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa19100426/526d78a8-7.smil/thumb.jpg?t=214&scale=640x360&v=high"
+    },
+    {
+      "startTime": 297,
+      "title": "Dennis Ravndal",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa19100426/526d78a8-7.smil/thumb.jpg?t=323&scale=640x360&v=high"
+    },
+    {
+      "startTime": 403,
+      "title": "Direkte: Portugal",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa19100426/526d78a8-7.smil/thumb.jpg?t=429&scale=640x360&v=high"
+    },
+    {
+      "startTime": 522,
+      "title": "Skip koliderte",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa19100426/526d78a8-7.smil/thumb.jpg?t=548&scale=640x360&v=high"
+    },
+    {
+      "startTime": 601,
+      "title": "Kvinnehelse",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa19100426/526d78a8-7.smil/thumb.jpg?t=627&scale=640x360&v=high"
+    },
+    {
+      "startTime": 721,
+      "title": "Gjest: endometriose",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa19100426/526d78a8-7.smil/thumb.jpg?t=747&scale=640x360&v=high"
+    },
+    {
+      "startTime": 890,
+      "title": "Vil stanse strømeksport",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa19100426/526d78a8-7.smil/thumb.jpg?t=915&scale=640x360&v=high"
+    },
+    {
+      "startTime": 977,
+      "title": "Verdenspakke",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa19100426/526d78a8-7.smil/thumb.jpg?t=1003&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1114,
+      "title": "Ceuta",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa19100426/526d78a8-7.smil/thumb.jpg?t=1140&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1471,
+      "title": "Ungarn",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa19100426/526d78a8-7.smil/thumb.jpg?t=1496&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1773,
+      "title": "Rettelse",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa19100426/526d78a8-7.smil/thumb.jpg?t=1798&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1786,
+      "title": "Valg i Brasil",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa19100426/526d78a8-7.smil/thumb.jpg?t=1812&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1894,
+      "title": "Direkte Brasil",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa19100426/526d78a8-7.smil/thumb.jpg?t=1919&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2050,
+      "title": "Valg i Brasil",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa19100426/526d78a8-7.smil/thumb.jpg?t=2076&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2315,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa19100426/526d78a8-7.smil/thumb.jpg?t=2340&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2320,
+      "title": "Før Portugal Norge",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa19100426/526d78a8-7.smil/thumb.jpg?t=2346&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2344,
+      "title": "Direkte: Portugal",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa19100426/526d78a8-7.smil/thumb.jpg?t=2369&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2432,
+      "title": "Rally-VM",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa19100426/526d78a8-7.smil/thumb.jpg?t=2457&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2546,
+      "title": "Formel 1",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa19100426/526d78a8-7.smil/thumb.jpg?t=2571&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2591,
+      "title": "Klubber konkurs",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa19100426/526d78a8-7.smil/thumb.jpg?t=2617&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2681,
+      "title": "Toppserien",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa19100426/526d78a8-7.smil/thumb.jpg?t=2706&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2729,
+      "title": "Ishockey",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa19100426/526d78a8-7.smil/thumb.jpg?t=2754&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2845,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa19100426/526d78a8-7.smil/thumb.jpg?t=2871&scale=640x360&v=high"
+    }
+  ]
+}
