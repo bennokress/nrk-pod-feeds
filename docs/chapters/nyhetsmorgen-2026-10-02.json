@@ -1,0 +1,283 @@
+{
+  "version": "1.2.0",
+  "title": "Nedtur i Wales",
+  "author": "NRK",
+  "podcastName": "Nyhetsmorgen",
+  "chapters": [
+    {
+      "startTime": 70,
+      "title": "Ny strategi for forbrukere",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05100226/b28d80e0-5.smil/thumb.jpg?t=95&scale=640x360&v=high"
+    },
+    {
+      "startTime": 252,
+      "title": "Massive skoleprotester i Frankrike",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05100226/b28d80e0-5.smil/thumb.jpg?t=277&scale=640x360&v=high"
+    },
+    {
+      "startTime": 431,
+      "title": "Siste nytt",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05100226/b28d80e0-5.smil/thumb.jpg?t=456&scale=640x360&v=high"
+    },
+    {
+      "startTime": 577,
+      "title": "Dødsstraff i USA",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05100226/b28d80e0-5.smil/thumb.jpg?t=603&scale=640x360&v=high"
+    },
+    {
+      "startTime": 914,
+      "title": "Pillebruk blant unge",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05100226/b28d80e0-5.smil/thumb.jpg?t=939&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1030,
+      "title": "Overskrifter 06:45",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05100226/b28d80e0-5.smil/thumb.jpg?t=1055&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1067,
+      "title": "Nedtur i Wales",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05100226/b28d80e0-5.smil/thumb.jpg?t=1093&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1234,
+      "title": "Nytt tap i Nasjonsligaen",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05100226/b28d80e0-5.smil/thumb.jpg?t=1259&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1471,
+      "title": "Åpning av Stortinget",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05100226/b28d80e0-5.smil/thumb.jpg?t=1497&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1733,
+      "title": "Nyvinning kan fange opp smerter",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05100226/b28d80e0-5.smil/thumb.jpg?t=1759&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1846,
+      "title": "Åpning 07:00",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05100226/b28d80e0-5.smil/thumb.jpg?t=1872&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1924,
+      "title": "Lange renter og finansuro",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05100226/b28d80e0-5.smil/thumb.jpg?t=1950&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2118,
+      "title": "Portører tar over oppgaver",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05100226/b28d80e0-5.smil/thumb.jpg?t=2143&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2306,
+      "title": "Bolsonaro junior vil bli president",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05100226/b28d80e0-5.smil/thumb.jpg?t=2332&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2509,
+      "title": "Kva er viktig for brasilianarane?",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05100226/b28d80e0-5.smil/thumb.jpg?t=2535&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2765,
+      "title": "Overskrifter 07:15",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05100226/b28d80e0-5.smil/thumb.jpg?t=2790&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2804,
+      "title": "Mistenkelige innbrudd i Finland",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05100226/b28d80e0-5.smil/thumb.jpg?t=2830&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3024,
+      "title": "Kongens rolle under Stortingets åpning",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05100226/b28d80e0-5.smil/thumb.jpg?t=3049&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3259,
+      "title": "Før Politisk kvarter",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05100226/b28d80e0-5.smil/thumb.jpg?t=3285&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3299,
+      "title": "Papegøyer i Svelvik",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05100226/b28d80e0-5.smil/thumb.jpg?t=3325&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3519,
+      "title": "Teasing dagens sending",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05100226/b28d80e0-5.smil/thumb.jpg?t=3544&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3567,
+      "title": "Trailer - Spor",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05100226/b28d80e0-5.smil/thumb.jpg?t=3593&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3602,
+      "title": "Overskrifter 07:30",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05100226/b28d80e0-5.smil/thumb.jpg?t=3627&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3631,
+      "title": "Nedtur i Wales",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05100226/b28d80e0-5.smil/thumb.jpg?t=3657&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3788,
+      "title": "Eriksen ser fremover mot Portugal",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05100226/b28d80e0-5.smil/thumb.jpg?t=3813&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3798,
+      "title": "Eksplosjonsfare i Porsgrunn",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05100226/b28d80e0-5.smil/thumb.jpg?t=3824&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3861,
+      "title": "Utnevner ny etterforsker i Cornell-saken",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05100226/b28d80e0-5.smil/thumb.jpg?t=3886&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3952,
+      "title": "Lange renter og finansuro",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05100226/b28d80e0-5.smil/thumb.jpg?t=3978&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4066,
+      "title": "Frp, Sp og KrF foreslår avgiftskutt",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05100226/b28d80e0-5.smil/thumb.jpg?t=4091&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4086,
+      "title": "Nyvinning kan fange opp smerter",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05100226/b28d80e0-5.smil/thumb.jpg?t=4112&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4200,
+      "title": "Åpning 07:40",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05100226/b28d80e0-5.smil/thumb.jpg?t=4226&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4210,
+      "title": "Smalahove i vossabarnehagane",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05100226/b28d80e0-5.smil/thumb.jpg?t=4235&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4456,
+      "title": "Topper 07:44",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05100226/b28d80e0-5.smil/thumb.jpg?t=4482&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4498,
+      "title": "Overgang til Politisk kvarter",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05100226/b28d80e0-5.smil/thumb.jpg?t=4523&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5402,
+      "title": "NRK Nyheter 08:00",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05100226/b28d80e0-5.smil/thumb.jpg?t=5427&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5579,
+      "title": "Åpning 08:03",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05100226/b28d80e0-5.smil/thumb.jpg?t=5605&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5637,
+      "title": "Ny etterforsker i Cornell-saken",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05100226/b28d80e0-5.smil/thumb.jpg?t=5663&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5822,
+      "title": "Kritikk av Epstein-høringene",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05100226/b28d80e0-5.smil/thumb.jpg?t=5848&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6115,
+      "title": "Sopp i oktober er topp",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05100226/b28d80e0-5.smil/thumb.jpg?t=6141&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6367,
+      "title": "Overskrifter 08:15",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05100226/b28d80e0-5.smil/thumb.jpg?t=6392&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6371,
+      "title": "Norge rundt er 50 år",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05100226/b28d80e0-5.smil/thumb.jpg?t=6397&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6562,
+      "title": "Fredagspanelet",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05100226/b28d80e0-5.smil/thumb.jpg?t=6588&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7243,
+      "title": "Overskrifter 08:30",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05100226/b28d80e0-5.smil/thumb.jpg?t=7268&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7246,
+      "title": "Nedtur i Wales",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05100226/b28d80e0-5.smil/thumb.jpg?t=7272&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7452,
+      "title": "Nytt tap i Nasjonsligaen",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05100226/b28d80e0-5.smil/thumb.jpg?t=7478&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7570,
+      "title": "Høstferie til Afghanistan",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05100226/b28d80e0-5.smil/thumb.jpg?t=7596&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7891,
+      "title": "Dødsstraff i USA",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05100226/b28d80e0-5.smil/thumb.jpg?t=7917&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8090,
+      "title": "Overskrifter 08:45",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05100226/b28d80e0-5.smil/thumb.jpg?t=8116&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8136,
+      "title": "Lange renter og finansuro",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05100226/b28d80e0-5.smil/thumb.jpg?t=8162&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8253,
+      "title": "Bolsonaro junior vil bli president",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05100226/b28d80e0-5.smil/thumb.jpg?t=8278&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8454,
+      "title": "Valg i Brasil (R)",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05100226/b28d80e0-5.smil/thumb.jpg?t=8480&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8633,
+      "title": "Fem flyplasser fredes",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05100226/b28d80e0-5.smil/thumb.jpg?t=8659&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8819,
+      "title": "Før Abels tårn i NRK P2",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05100226/b28d80e0-5.smil/thumb.jpg?t=8845&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8879,
+      "title": "Været i dag",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05100226/b28d80e0-5.smil/thumb.jpg?t=8904&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8994,
+      "title": "Avslutning",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa05100226/b28d80e0-5.smil/thumb.jpg?t=9003.4&scale=640x360&v=high"
+    }
+  ]
+}
