@@ -1,0 +1,63 @@
+{
+  "version": "1.2.0",
+  "title": "Stor studentdemonstrasjon ved Cornell-universitetet",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa23100526/11c0d4f4-7.smil/thumb.jpg?t=25&scale=640x360&v=high"
+    },
+    {
+      "startTime": 27,
+      "title": "Cornell University",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa23100526/11c0d4f4-7.smil/thumb.jpg?t=52&scale=640x360&v=high"
+    },
+    {
+      "startTime": 60,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa23100526/11c0d4f4-7.smil/thumb.jpg?t=85&scale=640x360&v=high"
+    },
+    {
+      "startTime": 152,
+      "title": "Skipskollisjon",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa23100526/11c0d4f4-7.smil/thumb.jpg?t=178&scale=640x360&v=high"
+    },
+    {
+      "startTime": 178,
+      "title": "Kongsberg-drapene",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa23100526/11c0d4f4-7.smil/thumb.jpg?t=204&scale=640x360&v=high"
+    },
+    {
+      "startTime": 299,
+      "title": "Nettpromo",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa23100526/11c0d4f4-7.smil/thumb.jpg?t=325&scale=640x360&v=high"
+    },
+    {
+      "startTime": 307,
+      "title": "Fossilindustrien",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa23100526/11c0d4f4-7.smil/thumb.jpg?t=332&scale=640x360&v=high"
+    },
+    {
+      "startTime": 434,
+      "title": "Nasjonsligaen",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa23100526/11c0d4f4-7.smil/thumb.jpg?t=459&scale=640x360&v=high"
+    },
+    {
+      "startTime": 535,
+      "title": "Alpint",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa23100526/11c0d4f4-7.smil/thumb.jpg?t=560&scale=640x360&v=high"
+    },
+    {
+      "startTime": 619,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa23100526/11c0d4f4-7.smil/thumb.jpg?t=644&scale=640x360&v=high"
+    },
+    {
+      "startTime": 678,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa23100526/11c0d4f4-7.smil/thumb.jpg?t=696.64&scale=640x360&v=high"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "version": "1.2.0",
+  "title": "Tre strake tap",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa23100426/c65ef7a5-7.smil/thumb.jpg?t=26&scale=640x360&v=high"
+    },
+    {
+      "startTime": 26,
+      "title": "Nations league",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa23100426/c65ef7a5-7.smil/thumb.jpg?t=51&scale=640x360&v=high"
+    },
+    {
+      "startTime": 116,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa23100426/c65ef7a5-7.smil/thumb.jpg?t=142&scale=640x360&v=high"
+    },
+    {
+      "startTime": 244,
+      "title": "Drap i Halden",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa23100426/c65ef7a5-7.smil/thumb.jpg?t=270&scale=640x360&v=high"
+    },
+    {
+      "startTime": 347,
+      "title": "Streik trappes opp",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa23100426/c65ef7a5-7.smil/thumb.jpg?t=373&scale=640x360&v=high"
+    },
+    {
+      "startTime": 366,
+      "title": "Ceuta",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa23100426/c65ef7a5-7.smil/thumb.jpg?t=392&scale=640x360&v=high"
+    },
+    {
+      "startTime": 398,
+      "title": "Valg Brasil",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa23100426/c65ef7a5-7.smil/thumb.jpg?t=423&scale=640x360&v=high"
+    },
+    {
+      "startTime": 426,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa23100426/c65ef7a5-7.smil/thumb.jpg?t=451&scale=640x360&v=high"
+    },
+    {
+      "startTime": 553,
+      "title": "Nations league",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa23100426/c65ef7a5-7.smil/thumb.jpg?t=579&scale=640x360&v=high"
+    },
+    {
+      "startTime": 681,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa23100426/c65ef7a5-7.smil/thumb.jpg?t=707&scale=640x360&v=high"
+    },
+    {
+      "startTime": 749,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa23100426/c65ef7a5-7.smil/thumb.jpg?t=767.52&scale=640x360&v=high"
+    }
+  ]
+}
