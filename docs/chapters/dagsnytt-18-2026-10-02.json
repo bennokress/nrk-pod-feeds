@@ -1,0 +1,48 @@
+{
+  "version": "1.2.0",
+  "title": "Har folk fått dårligere råd, eller bare føles det sånn?",
+  "author": "NRK",
+  "podcastName": "Dagsnytt 18",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsnytt atten",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa56100226/d6d3fb37-5.smil/thumb.jpg?t=26&scale=640x360&v=high"
+    },
+    {
+      "startTime": 53,
+      "title": "Økonomi og føleri",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa56100226/d6d3fb37-5.smil/thumb.jpg?t=78&scale=640x360&v=high"
+    },
+    {
+      "startTime": 701,
+      "title": "Voldtektssak provoserer",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa56100226/d6d3fb37-5.smil/thumb.jpg?t=726&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1437,
+      "title": "Oljefondets KI-investeringer",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa56100226/d6d3fb37-5.smil/thumb.jpg?t=1462&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1942,
+      "title": "Bybanen vil koste milliarder",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa56100226/d6d3fb37-5.smil/thumb.jpg?t=1968&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2605,
+      "title": "Valg i Brasil",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa56100226/d6d3fb37-5.smil/thumb.jpg?t=2631&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3079,
+      "title": "Kristiserer jobbsatsing",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa56100226/d6d3fb37-5.smil/thumb.jpg?t=3104&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3533,
+      "title": "SLUTTKJENNING",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa56100226/d6d3fb37-5.smil/thumb.jpg?t=3543.84&scale=640x360&v=high"
+    }
+  ]
+}
