@@ -1,0 +1,323 @@
+{
+  "version": "1.2.0",
+  "title": "Nytt nederlag i Nasjonsligaen",
+  "author": "NRK",
+  "podcastName": "Nyhetsmorgen",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Åpning 06:30",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa05100526/582df522-5.smil/thumb.jpg?t=25&scale=640x360&v=high"
+    },
+    {
+      "startTime": 50,
+      "title": "Folk flest bommer på Equinors fornybarandel",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa05100526/582df522-5.smil/thumb.jpg?t=76&scale=640x360&v=high"
+    },
+    {
+      "startTime": 110,
+      "title": "Cornell-rektor tar selvkritikk",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa05100526/582df522-5.smil/thumb.jpg?t=135&scale=640x360&v=high"
+    },
+    {
+      "startTime": 365,
+      "title": "Siste nytt",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa05100526/582df522-5.smil/thumb.jpg?t=390&scale=640x360&v=high"
+    },
+    {
+      "startTime": 482,
+      "title": "Smågruppeundervisning",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa05100526/582df522-5.smil/thumb.jpg?t=508&scale=640x360&v=high"
+    },
+    {
+      "startTime": 674,
+      "title": "Mener regjeringen somler med barnehageopptak",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa05100526/582df522-5.smil/thumb.jpg?t=700&scale=640x360&v=high"
+    },
+    {
+      "startTime": 860,
+      "title": "Overskrifter 06:45",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa05100526/582df522-5.smil/thumb.jpg?t=885&scale=640x360&v=high"
+    },
+    {
+      "startTime": 899,
+      "title": "Norge tapte mot Portugal",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa05100526/582df522-5.smil/thumb.jpg?t=925&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1079,
+      "title": "Fengslingsmøte etter Halden-skytingen",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa05100526/582df522-5.smil/thumb.jpg?t=1105&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1399,
+      "title": "Barnehagelærerkrise i Finnmark",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa05100526/582df522-5.smil/thumb.jpg?t=1425&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1613,
+      "title": "Hussein tar ikke gjenvalg som SV nestleder",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa05100526/582df522-5.smil/thumb.jpg?t=1639&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1740,
+      "title": "Teasing dagens sending",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa05100526/582df522-5.smil/thumb.jpg?t=1765&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1768,
+      "title": "Trailer - Sentralbordet",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa05100526/582df522-5.smil/thumb.jpg?t=1793&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1802,
+      "title": "Åpning 07:00",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa05100526/582df522-5.smil/thumb.jpg?t=1827&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1874,
+      "title": "Folk flest bommer på Equinors fornybarandel",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa05100526/582df522-5.smil/thumb.jpg?t=1899&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2083,
+      "title": "Analytiker om Equinor",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa05100526/582df522-5.smil/thumb.jpg?t=2109&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2336,
+      "title": "Blir ny valgrunde i Brasil",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa05100526/582df522-5.smil/thumb.jpg?t=2362&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2511,
+      "title": "Før Politisk kvarter",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa05100526/582df522-5.smil/thumb.jpg?t=2536&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2546,
+      "title": "Overskrifter 07:15",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa05100526/582df522-5.smil/thumb.jpg?t=2572&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2582,
+      "title": "Norge tapte mot Portugal",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa05100526/582df522-5.smil/thumb.jpg?t=2607&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2900,
+      "title": "Russiske angrep mot energi og broer Kyiv",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa05100526/582df522-5.smil/thumb.jpg?t=2925&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3111,
+      "title": "Midlertidig forbud mot KI-briller",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa05100526/582df522-5.smil/thumb.jpg?t=3136&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3301,
+      "title": "Vil ha RS-vaksine",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa05100526/582df522-5.smil/thumb.jpg?t=3327&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3401,
+      "title": "Ny kampanje skal holde unge unna vape",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa05100526/582df522-5.smil/thumb.jpg?t=3426&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3559,
+      "title": "Teasing dagens sending",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa05100526/582df522-5.smil/thumb.jpg?t=3584&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3567,
+      "title": "Trailer - Boktober",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa05100526/582df522-5.smil/thumb.jpg?t=3592&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3601,
+      "title": "Overskrifter 07:30",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa05100526/582df522-5.smil/thumb.jpg?t=3626&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3609,
+      "title": "Equinors ord",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa05100526/582df522-5.smil/thumb.jpg?t=3635&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3738,
+      "title": "Hussain tar ikke gjenvalg som SV nestleder",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa05100526/582df522-5.smil/thumb.jpg?t=3763&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3820,
+      "title": "Cornell-saken demonstrasjoner",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa05100526/582df522-5.smil/thumb.jpg?t=3845&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3890,
+      "title": "Blir ny valgrunde i Brasil",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa05100526/582df522-5.smil/thumb.jpg?t=3915&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4007,
+      "title": "Ordfører i Halden om rykter",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa05100526/582df522-5.smil/thumb.jpg?t=4032&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4054,
+      "title": "Midlertidig forbud mot KI-briller",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa05100526/582df522-5.smil/thumb.jpg?t=4079&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4105,
+      "title": "Norge tapte mot Portugal",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa05100526/582df522-5.smil/thumb.jpg?t=4130&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4198,
+      "title": "Åpning 07:40",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa05100526/582df522-5.smil/thumb.jpg?t=4224&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4210,
+      "title": "NHO positive til cruiseavgift",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa05100526/582df522-5.smil/thumb.jpg?t=4235&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4432,
+      "title": "Topper 07:44",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa05100526/582df522-5.smil/thumb.jpg?t=4458&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5398,
+      "title": "NRK Nyheter 08:00",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa05100526/582df522-5.smil/thumb.jpg?t=5424&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5580,
+      "title": "Åpning 08:03",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa05100526/582df522-5.smil/thumb.jpg?t=5605&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5635,
+      "title": "Togstreiken trappes opp i dag",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa05100526/582df522-5.smil/thumb.jpg?t=5660&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5793,
+      "title": "Folk flest bommer på Equinors fornybarandel",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa05100526/582df522-5.smil/thumb.jpg?t=5819&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5943,
+      "title": "Kommentator om Equinors grønne omstilling",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa05100526/582df522-5.smil/thumb.jpg?t=5969&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6153,
+      "title": "Cornell-rektor tar selvkritikk",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa05100526/582df522-5.smil/thumb.jpg?t=6178&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6339,
+      "title": "Overskrifter 08:15",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa05100526/582df522-5.smil/thumb.jpg?t=6364&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6385,
+      "title": "Midlertidig forbud mot KI-briller",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa05100526/582df522-5.smil/thumb.jpg?t=6410&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6493,
+      "title": "Mandagspanelet",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa05100526/582df522-5.smil/thumb.jpg?t=6519&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6996,
+      "title": "Smågruppeundervisning",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa05100526/582df522-5.smil/thumb.jpg?t=7021&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7109,
+      "title": "Hør Ekko i NRK P2",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa05100526/582df522-5.smil/thumb.jpg?t=7135&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7148,
+      "title": "Overskrifter 08:30",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa05100526/582df522-5.smil/thumb.jpg?t=7173&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7192,
+      "title": "Hussein tar ikke gjenvalg som SV-nestleder",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa05100526/582df522-5.smil/thumb.jpg?t=7217&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7282,
+      "title": "Krisen i SV",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa05100526/582df522-5.smil/thumb.jpg?t=7308&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7401,
+      "title": "Togstreik på Oslo S",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa05100526/582df522-5.smil/thumb.jpg?t=7426&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7610,
+      "title": "Mener regjeringen somler med barnehageopptak",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa05100526/582df522-5.smil/thumb.jpg?t=7636&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7737,
+      "title": "Norge tapte mot Portugal",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa05100526/582df522-5.smil/thumb.jpg?t=7762&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7824,
+      "title": "Kommentator om tap mot Portugal",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa05100526/582df522-5.smil/thumb.jpg?t=7850&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7993,
+      "title": "Overskrifter 08:45",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa05100526/582df522-5.smil/thumb.jpg?t=8019&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8039,
+      "title": "Datainnbrudd i Danmark",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa05100526/582df522-5.smil/thumb.jpg?t=8064&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8158,
+      "title": "ANMELDELSE: Verdens verste teater",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa05100526/582df522-5.smil/thumb.jpg?t=8184&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8390,
+      "title": "Blir ny valgrunde i Brasil",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa05100526/582df522-5.smil/thumb.jpg?t=8416&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8518,
+      "title": "Snart fem år siden Kongsbergdrapene",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa05100526/582df522-5.smil/thumb.jpg?t=8543&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8710,
+      "title": "Barnerettspris til Lisanne Dijkstra",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa05100526/582df522-5.smil/thumb.jpg?t=8736&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8842,
+      "title": "GJEST Været i dag",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa05100526/582df522-5.smil/thumb.jpg?t=8868&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8994,
+      "title": "Avslutning",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa05100526/582df522-5.smil/thumb.jpg?t=9003.2&scale=640x360&v=high"
+    }
+  ]
+}
