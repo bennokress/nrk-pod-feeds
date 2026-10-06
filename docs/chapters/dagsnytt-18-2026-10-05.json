@@ -1,0 +1,58 @@
+{
+  "version": "1.2.0",
+  "title": "SV-topper gir seg",
+  "author": "NRK",
+  "podcastName": "Dagsnytt 18",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsnytt atten",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa56100526/77b0e859-5.smil/thumb.jpg?t=26&scale=640x360&v=high"
+    },
+    {
+      "startTime": 55,
+      "title": "Lederkabalen i SV",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa56100526/77b0e859-5.smil/thumb.jpg?t=81&scale=640x360&v=high"
+    },
+    {
+      "startTime": 738,
+      "title": "Elever og latskap",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa56100526/77b0e859-5.smil/thumb.jpg?t=764&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1150,
+      "title": "Dobbeltdrapene i Halden",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa56100526/77b0e859-5.smil/thumb.jpg?t=1175&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1564,
+      "title": "Nyvalg i Spania",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa56100526/77b0e859-5.smil/thumb.jpg?t=1590&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1998,
+      "title": "Lønnstak for fotballspillere",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa56100526/77b0e859-5.smil/thumb.jpg?t=2023&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2449,
+      "title": "Forbud mot KI-briller",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa56100526/77b0e859-5.smil/thumb.jpg?t=2474&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2989,
+      "title": "Dieselavgifter",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa56100526/77b0e859-5.smil/thumb.jpg?t=3014&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3509,
+      "title": "AVSLUTNING",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa56100526/77b0e859-5.smil/thumb.jpg?t=3535&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3529,
+      "title": "SLUTTKJENNING",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa56100526/77b0e859-5.smil/thumb.jpg?t=3544.84&scale=640x360&v=high"
+    }
+  ]
+}
