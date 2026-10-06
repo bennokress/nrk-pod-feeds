@@ -1,0 +1,143 @@
+{
+  "version": "1.2.0",
+  "title": "-Ikke til å leve med",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 10,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa19100526/15c9afec-6.smil/thumb.jpg?t=35&scale=640x360&v=high"
+    },
+    {
+      "startTime": 78,
+      "title": "Halden drap",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa19100526/15c9afec-6.smil/thumb.jpg?t=103&scale=640x360&v=high"
+    },
+    {
+      "startTime": 174,
+      "title": "Gjest: Dennis Ravndal",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa19100526/15c9afec-6.smil/thumb.jpg?t=200&scale=640x360&v=high"
+    },
+    {
+      "startTime": 286,
+      "title": "Elsparkesykler",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa19100526/15c9afec-6.smil/thumb.jpg?t=312&scale=640x360&v=high"
+    },
+    {
+      "startTime": 407,
+      "title": "SV-ledelsen",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa19100526/15c9afec-6.smil/thumb.jpg?t=432&scale=640x360&v=high"
+    },
+    {
+      "startTime": 453,
+      "title": "Gjest: Lars Nehru Sand",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa19100526/15c9afec-6.smil/thumb.jpg?t=479&scale=640x360&v=high"
+    },
+    {
+      "startTime": 552,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa19100526/15c9afec-6.smil/thumb.jpg?t=578&scale=640x360&v=high"
+    },
+    {
+      "startTime": 608,
+      "title": "RS-virus",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa19100526/15c9afec-6.smil/thumb.jpg?t=634&scale=640x360&v=high"
+    },
+    {
+      "startTime": 731,
+      "title": "Nyvalg Spania",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa19100526/15c9afec-6.smil/thumb.jpg?t=757&scale=640x360&v=high"
+    },
+    {
+      "startTime": 834,
+      "title": "Direkte Madrid",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa19100526/15c9afec-6.smil/thumb.jpg?t=859&scale=640x360&v=high"
+    },
+    {
+      "startTime": 927,
+      "title": "Utenriksnyheter",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa19100526/15c9afec-6.smil/thumb.jpg?t=953&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1028,
+      "title": "Lokfører streik",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa19100526/15c9afec-6.smil/thumb.jpg?t=1054&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1190,
+      "title": "Cornell university",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa19100526/15c9afec-6.smil/thumb.jpg?t=1215&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1260,
+      "title": "Direkte Ithaca, New York",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa19100526/15c9afec-6.smil/thumb.jpg?t=1285&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1400,
+      "title": "Cornell university",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa19100526/15c9afec-6.smil/thumb.jpg?t=1425&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1446,
+      "title": "Direkte Ithaca, New York",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa19100526/15c9afec-6.smil/thumb.jpg?t=1472&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1513,
+      "title": "Direkte Ithaca",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa19100526/15c9afec-6.smil/thumb.jpg?t=1538&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1695,
+      "title": "Equinors ordbruk",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa19100526/15c9afec-6.smil/thumb.jpg?t=1721&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1900,
+      "title": "Rosa sløyfe-løp",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa19100526/15c9afec-6.smil/thumb.jpg?t=1925&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1919,
+      "title": "Direkte Kristiansand",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa19100526/15c9afec-6.smil/thumb.jpg?t=1945&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2024,
+      "title": "Årets våteste",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa19100526/15c9afec-6.smil/thumb.jpg?t=2049&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2092,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa19100526/15c9afec-6.smil/thumb.jpg?t=2118&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2098,
+      "title": "Landslaget",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa19100526/15c9afec-6.smil/thumb.jpg?t=2124&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2179,
+      "title": "Gjest Vatshaug",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa19100526/15c9afec-6.smil/thumb.jpg?t=2204&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2278,
+      "title": "Tutta",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa19100526/15c9afec-6.smil/thumb.jpg?t=2303&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2301,
+      "title": "Skøyter",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa19100526/15c9afec-6.smil/thumb.jpg?t=2326&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2414,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa19100526/15c9afec-6.smil/thumb.jpg?t=2440&scale=640x360&v=high"
+    }
+  ]
+}
