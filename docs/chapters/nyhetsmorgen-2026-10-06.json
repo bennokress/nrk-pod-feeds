@@ -1,0 +1,323 @@
+{
+  "version": "1.2.0",
+  "title": "Demonstrasjoner ved Cornell-unversitetet i New York",
+  "author": "NRK",
+  "podcastName": "Nyhetsmorgen",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Åpning 06:30",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa05100626/7d8d9848-7.smil/thumb.jpg?t=26&scale=640x360&v=high"
+    },
+    {
+      "startTime": 66,
+      "title": "Strømmetjenester blir dyrere",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa05100626/7d8d9848-7.smil/thumb.jpg?t=91&scale=640x360&v=high"
+    },
+    {
+      "startTime": 118,
+      "title": "Cornell-demonstrasjoner",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa05100626/7d8d9848-7.smil/thumb.jpg?t=144&scale=640x360&v=high"
+    },
+    {
+      "startTime": 243,
+      "title": "Siste nytt",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa05100626/7d8d9848-7.smil/thumb.jpg?t=268&scale=640x360&v=high"
+    },
+    {
+      "startTime": 366,
+      "title": "Ankesaken mot Steinar Wangen starter",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa05100626/7d8d9848-7.smil/thumb.jpg?t=391&scale=640x360&v=high"
+    },
+    {
+      "startTime": 482,
+      "title": "Teaser: Oppdatert om Wangen-saken",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa05100626/7d8d9848-7.smil/thumb.jpg?t=508&scale=640x360&v=high"
+    },
+    {
+      "startTime": 507,
+      "title": "Elverum håndball i Europaligaen",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa05100626/7d8d9848-7.smil/thumb.jpg?t=533&scale=640x360&v=high"
+    },
+    {
+      "startTime": 626,
+      "title": "KI-briller på NTG",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa05100626/7d8d9848-7.smil/thumb.jpg?t=652&scale=640x360&v=high"
+    },
+    {
+      "startTime": 799,
+      "title": "Overskrifter 06:45",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa05100626/7d8d9848-7.smil/thumb.jpg?t=824&scale=640x360&v=high"
+    },
+    {
+      "startTime": 845,
+      "title": "Økning i viltpåkjørsler",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa05100626/7d8d9848-7.smil/thumb.jpg?t=871&scale=640x360&v=high"
+    },
+    {
+      "startTime": 927,
+      "title": "SUS utsetter byggetrinn 2",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa05100626/7d8d9848-7.smil/thumb.jpg?t=952&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1069,
+      "title": "Vadsø prøver snuoperasjon",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa05100626/7d8d9848-7.smil/thumb.jpg?t=1094&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1315,
+      "title": "Mulig pestsmitte i Russland",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa05100626/7d8d9848-7.smil/thumb.jpg?t=1340&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1456,
+      "title": "FN om Gaza-gjenoppbygging",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa05100626/7d8d9848-7.smil/thumb.jpg?t=1482&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1517,
+      "title": "Turistskatt-krangel",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa05100626/7d8d9848-7.smil/thumb.jpg?t=1542&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1770,
+      "title": "Trailer - Boktober i gang",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa05100626/7d8d9848-7.smil/thumb.jpg?t=1795&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1798,
+      "title": "Åpning 07:00",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa05100626/7d8d9848-7.smil/thumb.jpg?t=1824&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1887,
+      "title": "Studentavisa om Cornell-saken",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa05100626/7d8d9848-7.smil/thumb.jpg?t=1913&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2089,
+      "title": "Norgespris øker",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa05100626/7d8d9848-7.smil/thumb.jpg?t=2114&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2196,
+      "title": "Dyrere strømmetjenester",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa05100626/7d8d9848-7.smil/thumb.jpg?t=2222&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2380,
+      "title": "Nyvalg i Spania",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa05100626/7d8d9848-7.smil/thumb.jpg?t=2406&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2617,
+      "title": "Fakta og følelser i Politisk kvarter",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa05100626/7d8d9848-7.smil/thumb.jpg?t=2642&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2688,
+      "title": "Krigen har tatt seg opp i Jemen",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa05100626/7d8d9848-7.smil/thumb.jpg?t=2713&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2710,
+      "title": "Overskrifter 07:15",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa05100626/7d8d9848-7.smil/thumb.jpg?t=2736&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2732,
+      "title": "Krigen har tatt seg opp i Jemen",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa05100626/7d8d9848-7.smil/thumb.jpg?t=2757&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2960,
+      "title": "Brukte ikke eget våpen i Halden-drapene",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa05100626/7d8d9848-7.smil/thumb.jpg?t=2986&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3104,
+      "title": "Vegard var 12 timer på mobilen hver dag",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa05100626/7d8d9848-7.smil/thumb.jpg?t=3130&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3217,
+      "title": "Hvordan forbli avlogga?",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa05100626/7d8d9848-7.smil/thumb.jpg?t=3243&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3423,
+      "title": "Auke i elsyklar",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa05100626/7d8d9848-7.smil/thumb.jpg?t=3449&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3570,
+      "title": "Trailer - Hele Historien: Bueskytteren",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa05100626/7d8d9848-7.smil/thumb.jpg?t=3595&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3600,
+      "title": "Overskrifter 07:30",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa05100626/7d8d9848-7.smil/thumb.jpg?t=3626&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3633,
+      "title": "Studentavisa om Cornell-saken",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa05100626/7d8d9848-7.smil/thumb.jpg?t=3658&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3752,
+      "title": "Dyrere strømmetjenester",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa05100626/7d8d9848-7.smil/thumb.jpg?t=3777&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3858,
+      "title": "Vil øke norgespris med 5 øre",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa05100626/7d8d9848-7.smil/thumb.jpg?t=3884&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3907,
+      "title": "Halden dobbeltdrap",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa05100626/7d8d9848-7.smil/thumb.jpg?t=3932&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3997,
+      "title": "Wangen-saken starter",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa05100626/7d8d9848-7.smil/thumb.jpg?t=4022&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4075,
+      "title": "Vegard var 12 timer på mobilen hver dag",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa05100626/7d8d9848-7.smil/thumb.jpg?t=4101&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4175,
+      "title": "Økning i viltpåkjørsler",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa05100626/7d8d9848-7.smil/thumb.jpg?t=4201&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4199,
+      "title": "Åpning 07:40",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa05100626/7d8d9848-7.smil/thumb.jpg?t=4224&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4210,
+      "title": "Unge potetbønder",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa05100626/7d8d9848-7.smil/thumb.jpg?t=4236&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5399,
+      "title": "NRK Nyheter 08:00",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa05100626/7d8d9848-7.smil/thumb.jpg?t=5425&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5579,
+      "title": "Åpning 08:03",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa05100626/7d8d9848-7.smil/thumb.jpg?t=5605&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5630,
+      "title": "Cornell-demonstrasjoner",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa05100626/7d8d9848-7.smil/thumb.jpg?t=5655&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5743,
+      "title": "Nyhus om Cornell-saken",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa05100626/7d8d9848-7.smil/thumb.jpg?t=5768&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5979,
+      "title": "Vil øke norgespris med 5 øre",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa05100626/7d8d9848-7.smil/thumb.jpg?t=6004&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6126,
+      "title": "Dyrere strømmetjenester",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa05100626/7d8d9848-7.smil/thumb.jpg?t=6152&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6313,
+      "title": "Overskrifter 08:15",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa05100626/7d8d9848-7.smil/thumb.jpg?t=6338&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6354,
+      "title": "Nyvalg i Spania",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa05100626/7d8d9848-7.smil/thumb.jpg?t=6379&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6582,
+      "title": "KI-briller på NTG",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa05100626/7d8d9848-7.smil/thumb.jpg?t=6607&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6760,
+      "title": "Det rare været",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa05100626/7d8d9848-7.smil/thumb.jpg?t=6785&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7018,
+      "title": "Vadsø prøver snuoperasjon",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa05100626/7d8d9848-7.smil/thumb.jpg?t=7044&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7166,
+      "title": "Hør Ekko i NRK P2",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa05100626/7d8d9848-7.smil/thumb.jpg?t=7191&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7214,
+      "title": "Overskrifter 08:30",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa05100626/7d8d9848-7.smil/thumb.jpg?t=7240&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7270,
+      "title": "Studentavisa om Cornell-saken",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa05100626/7d8d9848-7.smil/thumb.jpg?t=7296&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7469,
+      "title": "Krigen har tatt seg opp i Jemen",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa05100626/7d8d9848-7.smil/thumb.jpg?t=7494&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7627,
+      "title": "Foreslår å øke norgespris med 5 øre",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa05100626/7d8d9848-7.smil/thumb.jpg?t=7652&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7775,
+      "title": "Hjortelusflue-sesong",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa05100626/7d8d9848-7.smil/thumb.jpg?t=7800&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8053,
+      "title": "Overskrifter 08:45",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa05100626/7d8d9848-7.smil/thumb.jpg?t=8078&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8086,
+      "title": "Wangen-saken starter",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa05100626/7d8d9848-7.smil/thumb.jpg?t=8112&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8269,
+      "title": "Drivstoffavgiftene",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa05100626/7d8d9848-7.smil/thumb.jpg?t=8295&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8340,
+      "title": "Anm. Lys ved Kunsthall Grenland",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa05100626/7d8d9848-7.smil/thumb.jpg?t=8366&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8620,
+      "title": "Vegard var 12 timer på mobilen hver dag",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa05100626/7d8d9848-7.smil/thumb.jpg?t=8646&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8868,
+      "title": "GJEST Været i dag",
+      "img": "https://nrk-od-world-86.akamaized.net/open/ps/nnfa/nnfa05100626/7d8d9848-7.smil/thumb.jpg?t=8893&scale=640x360&v=high"
+    }
+  ]
+}
