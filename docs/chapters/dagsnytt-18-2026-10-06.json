@@ -1,0 +1,78 @@
+{
+  "version": "1.2.0",
+  "title": "Regjeringen vil gjøre Norgespris dyrere",
+  "author": "NRK",
+  "podcastName": "Dagsnytt 18",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsnytt atten",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa56100626/98365c9d-5.smil/thumb.jpg?t=25&scale=640x360&v=high"
+    },
+    {
+      "startTime": 55,
+      "title": "Dyrere Norgespris",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa56100626/98365c9d-5.smil/thumb.jpg?t=80&scale=640x360&v=high"
+    },
+    {
+      "startTime": 882,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa56100626/98365c9d-5.smil/thumb.jpg?t=907&scale=640x360&v=high"
+    },
+    {
+      "startTime": 897,
+      "title": "Ettåringer i barnehage",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa56100626/98365c9d-5.smil/thumb.jpg?t=923&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1369,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa56100626/98365c9d-5.smil/thumb.jpg?t=1394&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1381,
+      "title": "Equinor og fornybar energi",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa56100626/98365c9d-5.smil/thumb.jpg?t=1406&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1866,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa56100626/98365c9d-5.smil/thumb.jpg?t=1892&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1880,
+      "title": "Dolly Parton og feminisme",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa56100626/98365c9d-5.smil/thumb.jpg?t=1906&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2379,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa56100626/98365c9d-5.smil/thumb.jpg?t=2405&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2391,
+      "title": "Veier mangler gul midtstripe",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa56100626/98365c9d-5.smil/thumb.jpg?t=2417&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2868,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa56100626/98365c9d-5.smil/thumb.jpg?t=2893&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2881,
+      "title": "Datainnbrudd i Danmark",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa56100626/98365c9d-5.smil/thumb.jpg?t=2906&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3522,
+      "title": "AVSLUTNING",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa56100626/98365c9d-5.smil/thumb.jpg?t=3543.84&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3528,
+      "title": "SLUTTKJENNING",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa56100626/98365c9d-5.smil/thumb.jpg?t=3543.84&scale=640x360&v=high"
+    }
+  ]
+}
