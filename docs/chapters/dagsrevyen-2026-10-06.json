@@ -1,0 +1,138 @@
+{
+  "version": "1.2.0",
+  "title": "Tåregass mot elever",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 9,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-26.akamaized.net/open/ps/nnfa/nnfa19100626/45eb6813-7.smil/thumb.jpg?t=34&scale=640x360&v=high"
+    },
+    {
+      "startTime": 62,
+      "title": "Frankrike demonstrasjoner",
+      "img": "https://nrk-od-world-26.akamaized.net/open/ps/nnfa/nnfa19100626/45eb6813-7.smil/thumb.jpg?t=87&scale=640x360&v=high"
+    },
+    {
+      "startTime": 271,
+      "title": "Halden",
+      "img": "https://nrk-od-world-26.akamaized.net/open/ps/nnfa/nnfa19100626/45eb6813-7.smil/thumb.jpg?t=297&scale=640x360&v=high"
+    },
+    {
+      "startTime": 383,
+      "title": "Gjest: Dennis Ravndal",
+      "img": "https://nrk-od-world-26.akamaized.net/open/ps/nnfa/nnfa19100626/45eb6813-7.smil/thumb.jpg?t=408&scale=640x360&v=high"
+    },
+    {
+      "startTime": 501,
+      "title": "Norgespris",
+      "img": "https://nrk-od-world-26.akamaized.net/open/ps/nnfa/nnfa19100626/45eb6813-7.smil/thumb.jpg?t=526&scale=640x360&v=high"
+    },
+    {
+      "startTime": 621,
+      "title": "Gjest: Håvard Nyhus",
+      "img": "https://nrk-od-world-26.akamaized.net/open/ps/nnfa/nnfa19100626/45eb6813-7.smil/thumb.jpg?t=647&scale=640x360&v=high"
+    },
+    {
+      "startTime": 733,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-26.akamaized.net/open/ps/nnfa/nnfa19100626/45eb6813-7.smil/thumb.jpg?t=758&scale=640x360&v=high"
+    },
+    {
+      "startTime": 826,
+      "title": "To siktet",
+      "img": "https://nrk-od-world-26.akamaized.net/open/ps/nnfa/nnfa19100626/45eb6813-7.smil/thumb.jpg?t=852&scale=640x360&v=high"
+    },
+    {
+      "startTime": 941,
+      "title": "Nærmat eldre",
+      "img": "https://nrk-od-world-26.akamaized.net/open/ps/nnfa/nnfa19100626/45eb6813-7.smil/thumb.jpg?t=966&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1059,
+      "title": "Utenriksnyheter",
+      "img": "https://nrk-od-world-26.akamaized.net/open/ps/nnfa/nnfa19100626/45eb6813-7.smil/thumb.jpg?t=1085&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1179,
+      "title": "Mellomvalg USA",
+      "img": "https://nrk-od-world-26.akamaized.net/open/ps/nnfa/nnfa19100626/45eb6813-7.smil/thumb.jpg?t=1204&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1307,
+      "title": "Direkte Iowa",
+      "img": "https://nrk-od-world-26.akamaized.net/open/ps/nnfa/nnfa19100626/45eb6813-7.smil/thumb.jpg?t=1332&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1413,
+      "title": "Turistskatt",
+      "img": "https://nrk-od-world-26.akamaized.net/open/ps/nnfa/nnfa19100626/45eb6813-7.smil/thumb.jpg?t=1439&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1542,
+      "title": "Cornell Daily Sun",
+      "img": "https://nrk-od-world-26.akamaized.net/open/ps/nnfa/nnfa19100626/45eb6813-7.smil/thumb.jpg?t=1567&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1663,
+      "title": "Nobels fredspris",
+      "img": "https://nrk-od-world-26.akamaized.net/open/ps/nnfa/nnfa19100626/45eb6813-7.smil/thumb.jpg?t=1689&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1723,
+      "title": "Gjest: Nobels fredspris",
+      "img": "https://nrk-od-world-26.akamaized.net/open/ps/nnfa/nnfa19100626/45eb6813-7.smil/thumb.jpg?t=1749&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1960,
+      "title": "Billigere månedskort",
+      "img": "https://nrk-od-world-26.akamaized.net/open/ps/nnfa/nnfa19100626/45eb6813-7.smil/thumb.jpg?t=1986&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2082,
+      "title": "Prinsesse Anne",
+      "img": "https://nrk-od-world-26.akamaized.net/open/ps/nnfa/nnfa19100626/45eb6813-7.smil/thumb.jpg?t=2108&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2117,
+      "title": "Trailer Debatten",
+      "img": "https://nrk-od-world-26.akamaized.net/open/ps/nnfa/nnfa19100626/45eb6813-7.smil/thumb.jpg?t=2142&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2145,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-26.akamaized.net/open/ps/nnfa/nnfa19100626/45eb6813-7.smil/thumb.jpg?t=2171&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2154,
+      "title": "Alpint",
+      "img": "https://nrk-od-world-26.akamaized.net/open/ps/nnfa/nnfa19100626/45eb6813-7.smil/thumb.jpg?t=2179&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2275,
+      "title": "Utro alpint",
+      "img": "https://nrk-od-world-26.akamaized.net/open/ps/nnfa/nnfa19100626/45eb6813-7.smil/thumb.jpg?t=2300&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2281,
+      "title": "Norge før Romania",
+      "img": "https://nrk-od-world-26.akamaized.net/open/ps/nnfa/nnfa19100626/45eb6813-7.smil/thumb.jpg?t=2306&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2349,
+      "title": "Cup",
+      "img": "https://nrk-od-world-26.akamaized.net/open/ps/nnfa/nnfa19100626/45eb6813-7.smil/thumb.jpg?t=2374&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2381,
+      "title": "Messis siste",
+      "img": "https://nrk-od-world-26.akamaized.net/open/ps/nnfa/nnfa19100626/45eb6813-7.smil/thumb.jpg?t=2406&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2471,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-26.akamaized.net/open/ps/nnfa/nnfa19100626/45eb6813-7.smil/thumb.jpg?t=2496&scale=640x360&v=high"
+    }
+  ]
+}
