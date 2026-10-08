@@ -1,0 +1,103 @@
+{
+  "version": "1.2.0",
+  "title": "Godt eller dårlig nytt?",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 10,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa19100726/65509049-5.smil/thumb.jpg?t=35&scale=640x360&v=high"
+    },
+    {
+      "startTime": 65,
+      "title": "Statsbudsjett",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa19100726/65509049-5.smil/thumb.jpg?t=91&scale=640x360&v=high"
+    },
+    {
+      "startTime": 477,
+      "title": "Gjest: Jens Stoltenberg",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa19100726/65509049-5.smil/thumb.jpg?t=502&scale=640x360&v=high"
+    },
+    {
+      "startTime": 744,
+      "title": "Statsbudsjett",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa19100726/65509049-5.smil/thumb.jpg?t=769&scale=640x360&v=high"
+    },
+    {
+      "startTime": 961,
+      "title": "Gjest: Lars Nehru Sand",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa19100726/65509049-5.smil/thumb.jpg?t=987&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1094,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa19100726/65509049-5.smil/thumb.jpg?t=1119&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1191,
+      "title": "7. oktober-angrepet",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa19100726/65509049-5.smil/thumb.jpg?t=1217&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1350,
+      "title": "Direkte: Israel",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa19100726/65509049-5.smil/thumb.jpg?t=1376&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1458,
+      "title": "Demonstrasjon Oslo",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa19100726/65509049-5.smil/thumb.jpg?t=1484&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1484,
+      "title": "Utenriksnyheter",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa19100726/65509049-5.smil/thumb.jpg?t=1510&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1611,
+      "title": "Direkte: USA",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa19100726/65509049-5.smil/thumb.jpg?t=1637&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1708,
+      "title": "Oppdal satsing",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa19100726/65509049-5.smil/thumb.jpg?t=1734&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1833,
+      "title": "Messi",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa19100726/65509049-5.smil/thumb.jpg?t=1858&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1934,
+      "title": "Kommentar",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa19100726/65509049-5.smil/thumb.jpg?t=1959&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2158,
+      "title": "Alpint",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa19100726/65509049-5.smil/thumb.jpg?t=2183&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2276,
+      "title": "Tour of Norway",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa19100726/65509049-5.smil/thumb.jpg?t=2301&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2376,
+      "title": "Arteta, ny kontrakt",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa19100726/65509049-5.smil/thumb.jpg?t=2401&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2401,
+      "title": "Landslaget, fotball",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa19100726/65509049-5.smil/thumb.jpg?t=2427&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2492,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa19100726/65509049-5.smil/thumb.jpg?t=2517&scale=640x360&v=high"
+    }
+  ]
+}
