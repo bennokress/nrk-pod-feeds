@@ -1,0 +1,58 @@
+{
+  "version": "1.2.0",
+  "title": "Maricarmen er død",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa21100726/45a9ab9a-6.smil/thumb.jpg?t=25&scale=640x360&v=high"
+    },
+    {
+      "startTime": 25,
+      "title": "Maricarmen død",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa21100726/45a9ab9a-6.smil/thumb.jpg?t=50&scale=640x360&v=high"
+    },
+    {
+      "startTime": 58,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa21100726/45a9ab9a-6.smil/thumb.jpg?t=83&scale=640x360&v=high"
+    },
+    {
+      "startTime": 195,
+      "title": "Ut mot skatteforlik",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa21100726/45a9ab9a-6.smil/thumb.jpg?t=220&scale=640x360&v=high"
+    },
+    {
+      "startTime": 295,
+      "title": "Elbilfordeler",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa21100726/45a9ab9a-6.smil/thumb.jpg?t=321&scale=640x360&v=high"
+    },
+    {
+      "startTime": 402,
+      "title": "Christa Pike",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa21100726/45a9ab9a-6.smil/thumb.jpg?t=428&scale=640x360&v=high"
+    },
+    {
+      "startTime": 433,
+      "title": "07 oktober",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa21100726/45a9ab9a-6.smil/thumb.jpg?t=458&scale=640x360&v=high"
+    },
+    {
+      "startTime": 468,
+      "title": "Nettpromo",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa21100726/45a9ab9a-6.smil/thumb.jpg?t=493&scale=640x360&v=high"
+    },
+    {
+      "startTime": 483,
+      "title": "Været",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa21100726/45a9ab9a-6.smil/thumb.jpg?t=509&scale=640x360&v=high"
+    },
+    {
+      "startTime": 537,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa21100726/45a9ab9a-6.smil/thumb.jpg?t=557.6&scale=640x360&v=high"
+    }
+  ]
+}

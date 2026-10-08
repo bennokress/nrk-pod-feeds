@@ -1,0 +1,53 @@
+{
+  "version": "1.2.0",
+  "title": "Togene går igjen",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa21100826/62670c3f-6.smil/thumb.jpg?t=25&scale=640x360&v=high"
+    },
+    {
+      "startTime": 37,
+      "title": "Telenor-trøbbel",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa21100826/62670c3f-6.smil/thumb.jpg?t=62&scale=640x360&v=high"
+    },
+    {
+      "startTime": 122,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa21100826/62670c3f-6.smil/thumb.jpg?t=147&scale=640x360&v=high"
+    },
+    {
+      "startTime": 248,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa21100826/62670c3f-6.smil/thumb.jpg?t=273&scale=640x360&v=high"
+    },
+    {
+      "startTime": 304,
+      "title": "Nkom varsler tilsyn",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa21100826/62670c3f-6.smil/thumb.jpg?t=329&scale=640x360&v=high"
+    },
+    {
+      "startTime": 361,
+      "title": "USA Iran",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa21100826/62670c3f-6.smil/thumb.jpg?t=387&scale=640x360&v=high"
+    },
+    {
+      "startTime": 386,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa21100826/62670c3f-6.smil/thumb.jpg?t=412&scale=640x360&v=high"
+    },
+    {
+      "startTime": 483,
+      "title": "Været",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa21100826/62670c3f-6.smil/thumb.jpg?t=508&scale=640x360&v=high"
+    },
+    {
+      "startTime": 533,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa21100826/62670c3f-6.smil/thumb.jpg?t=552.55&scale=640x360&v=high"
+    }
+  ]
+}

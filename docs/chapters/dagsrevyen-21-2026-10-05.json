@@ -1,0 +1,43 @@
+{
+  "version": "1.2.0",
+  "title": "Regjeringen vil ha midlertidig forbud mot KI-briller",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 22,
+      "title": "KI-briller",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa21100526/014b789a-6.smil/thumb.jpg?t=48&scale=640x360&v=high"
+    },
+    {
+      "startTime": 134,
+      "title": "Ulykke E18",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa21100526/014b789a-6.smil/thumb.jpg?t=160&scale=640x360&v=high"
+    },
+    {
+      "startTime": 152,
+      "title": "Märtha og Durek",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa21100526/014b789a-6.smil/thumb.jpg?t=178&scale=640x360&v=high"
+    },
+    {
+      "startTime": 182,
+      "title": "Norsk industri",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa21100526/014b789a-6.smil/thumb.jpg?t=207&scale=640x360&v=high"
+    },
+    {
+      "startTime": 300,
+      "title": "Dagsrevypakke",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa21100526/014b789a-6.smil/thumb.jpg?t=326&scale=640x360&v=high"
+    },
+    {
+      "startTime": 387,
+      "title": "Andøya",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa21100526/014b789a-6.smil/thumb.jpg?t=412&scale=640x360&v=high"
+    },
+    {
+      "startTime": 497,
+      "title": "Været",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa21100526/014b789a-6.smil/thumb.jpg?t=522&scale=640x360&v=high"
+    }
+  ]
+}
