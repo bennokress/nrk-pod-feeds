@@ -1,0 +1,63 @@
+{
+  "version": "1.2.0",
+  "title": "Epidemifrykt",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 26,
+      "title": "WHO om pest",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa23100726/922849df-6.smil/thumb.jpg?t=52&scale=640x360&v=high"
+    },
+    {
+      "startTime": 117,
+      "title": "Maricarmen er død",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa23100726/922849df-6.smil/thumb.jpg?t=143&scale=640x360&v=high"
+    },
+    {
+      "startTime": 212,
+      "title": "Trump fredspris",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa23100726/922849df-6.smil/thumb.jpg?t=237&scale=640x360&v=high"
+    },
+    {
+      "startTime": 266,
+      "title": "Christa Pike",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa23100726/922849df-6.smil/thumb.jpg?t=292&scale=640x360&v=high"
+    },
+    {
+      "startTime": 301,
+      "title": "Forsvaret budsjettvinner",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa23100726/922849df-6.smil/thumb.jpg?t=327&scale=640x360&v=high"
+    },
+    {
+      "startTime": 408,
+      "title": "Storhamar i Mesterligaen",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa23100726/922849df-6.smil/thumb.jpg?t=434&scale=640x360&v=high"
+    },
+    {
+      "startTime": 487,
+      "title": "Storhamar-helt død",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa23100726/922849df-6.smil/thumb.jpg?t=513&scale=640x360&v=high"
+    },
+    {
+      "startTime": 512,
+      "title": "Kolstad i Mesterligaen",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa23100726/922849df-6.smil/thumb.jpg?t=538&scale=640x360&v=high"
+    },
+    {
+      "startTime": 560,
+      "title": "Scorer drømmemål",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa23100726/922849df-6.smil/thumb.jpg?t=586&scale=640x360&v=high"
+    },
+    {
+      "startTime": 634,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa23100726/922849df-6.smil/thumb.jpg?t=660&scale=640x360&v=high"
+    },
+    {
+      "startTime": 698,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-76.akamaized.net/open/ps/nnfa/nnfa23100726/922849df-6.smil/thumb.jpg?t=717.55&scale=640x360&v=high"
+    }
+  ]
+}
