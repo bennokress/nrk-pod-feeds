@@ -1,0 +1,268 @@
+{
+  "version": "1.2.0",
+  "title": "Legger fram statsbudsjettet",
+  "author": "NRK",
+  "podcastName": "Nyhetsmorgen",
+  "chapters": [
+    {
+      "startTime": 1,
+      "title": "Åpning 06:30",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa05100726/c8c5fe2a-7.smil/thumb.jpg?t=27&scale=640x360&v=high"
+    },
+    {
+      "startTime": 77,
+      "title": "Overlevde 7. oktober-terroren",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa05100726/c8c5fe2a-7.smil/thumb.jpg?t=103&scale=640x360&v=high"
+    },
+    {
+      "startTime": 278,
+      "title": "Tre år etter 7. oktober-angrepet",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa05100726/c8c5fe2a-7.smil/thumb.jpg?t=303&scale=640x360&v=high"
+    },
+    {
+      "startTime": 575,
+      "title": "Lekkasjer statsbudsjettet",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa05100726/c8c5fe2a-7.smil/thumb.jpg?t=601&scale=640x360&v=high"
+    },
+    {
+      "startTime": 764,
+      "title": "Valg av RS-beskyttelse",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa05100726/c8c5fe2a-7.smil/thumb.jpg?t=790&scale=640x360&v=high"
+    },
+    {
+      "startTime": 843,
+      "title": "Siste nytt",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa05100726/c8c5fe2a-7.smil/thumb.jpg?t=868&scale=640x360&v=high"
+    },
+    {
+      "startTime": 943,
+      "title": "Flere rydder opp i privatøkonomien",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa05100726/c8c5fe2a-7.smil/thumb.jpg?t=969&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1121,
+      "title": "Overskrifter 06:45",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa05100726/c8c5fe2a-7.smil/thumb.jpg?t=1146&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1155,
+      "title": "Messis siste landskamp",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa05100726/c8c5fe2a-7.smil/thumb.jpg?t=1181&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1417,
+      "title": "Norge spiller EM-kvalifisering i futsal",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa05100726/c8c5fe2a-7.smil/thumb.jpg?t=1442&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1563,
+      "title": "Vil oppheve vern i seks vassdrag",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa05100726/c8c5fe2a-7.smil/thumb.jpg?t=1589&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1759,
+      "title": "Trailer - Spor",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa05100726/c8c5fe2a-7.smil/thumb.jpg?t=1785&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1791,
+      "title": "Åpning 07:00",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa05100726/c8c5fe2a-7.smil/thumb.jpg?t=1816&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1804,
+      "title": "Stoltenberg møter pressen",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa05100726/c8c5fe2a-7.smil/thumb.jpg?t=1829&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2083,
+      "title": "Hva vet vi om statsbudsjettet?",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa05100726/c8c5fe2a-7.smil/thumb.jpg?t=2109&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2336,
+      "title": "Valg av RS-beskyttelse",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa05100726/c8c5fe2a-7.smil/thumb.jpg?t=2362&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2541,
+      "title": "Før Politisk kvarter",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa05100726/c8c5fe2a-7.smil/thumb.jpg?t=2566&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2568,
+      "title": "Tre år siden 7. oktober-terroren",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa05100726/c8c5fe2a-7.smil/thumb.jpg?t=2593&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2950,
+      "title": "Overskrifter 07:15",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa05100726/c8c5fe2a-7.smil/thumb.jpg?t=2976&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2986,
+      "title": "Kraftige angrep i Ukraina i natt",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa05100726/c8c5fe2a-7.smil/thumb.jpg?t=3011&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3227,
+      "title": "Christa Pike har våknet",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa05100726/c8c5fe2a-7.smil/thumb.jpg?t=3253&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3424,
+      "title": "Ber voksne bruke hjelm på elsparkesykkel",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa05100726/c8c5fe2a-7.smil/thumb.jpg?t=3450&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3569,
+      "title": "Trailer - Bueskytteren",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa05100726/c8c5fe2a-7.smil/thumb.jpg?t=3595&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3601,
+      "title": "Overskrifter 07:30",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa05100726/c8c5fe2a-7.smil/thumb.jpg?t=3626&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3630,
+      "title": "Stoltenberg om statsbudsjettet",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa05100726/c8c5fe2a-7.smil/thumb.jpg?t=3656&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3789,
+      "title": "Valg av RS-beskyttelse",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa05100726/c8c5fe2a-7.smil/thumb.jpg?t=3814&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3923,
+      "title": "Overlevde 7. oktober-terroren",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa05100726/c8c5fe2a-7.smil/thumb.jpg?t=3948&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4097,
+      "title": "Tre år siden 7.oktober",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa05100726/c8c5fe2a-7.smil/thumb.jpg?t=4123&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4106,
+      "title": "Stort angrep på Ukraina",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa05100726/c8c5fe2a-7.smil/thumb.jpg?t=4132&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4140,
+      "title": "Messis siste landskamp",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa05100726/c8c5fe2a-7.smil/thumb.jpg?t=4166&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4199,
+      "title": "Åpning 07:40",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa05100726/c8c5fe2a-7.smil/thumb.jpg?t=4225&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4214,
+      "title": "Nekter å sende barna alene til skolen",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa05100726/c8c5fe2a-7.smil/thumb.jpg?t=4240&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5399,
+      "title": "NRK Nyheter 08:00",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa05100726/c8c5fe2a-7.smil/thumb.jpg?t=5425&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5580,
+      "title": "Åpning 08:03",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa05100726/c8c5fe2a-7.smil/thumb.jpg?t=5606&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5638,
+      "title": "Nøkkeltall i budsjettforslaget",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa05100726/c8c5fe2a-7.smil/thumb.jpg?t=5663&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5923,
+      "title": "Overlevde 7. oktober-terroren",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa05100726/c8c5fe2a-7.smil/thumb.jpg?t=5949&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6135,
+      "title": "Moldova vil kjøpe norske våpen",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa05100726/c8c5fe2a-7.smil/thumb.jpg?t=6161&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6339,
+      "title": "Overskrifter 08:15",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa05100726/c8c5fe2a-7.smil/thumb.jpg?t=6364&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6400,
+      "title": "Valg av RS-beskyttelse",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa05100726/c8c5fe2a-7.smil/thumb.jpg?t=6426&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6604,
+      "title": "Økonomisk krise i Tromsø kommune",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa05100726/c8c5fe2a-7.smil/thumb.jpg?t=6630&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6798,
+      "title": "Vil oppheve vern i seks vassdrag",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa05100726/c8c5fe2a-7.smil/thumb.jpg?t=6823&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6966,
+      "title": "Uro i Frankrike",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa05100726/c8c5fe2a-7.smil/thumb.jpg?t=6992&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7136,
+      "title": "Hør Ekko i NRK P2",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa05100726/c8c5fe2a-7.smil/thumb.jpg?t=7162&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7218,
+      "title": "Overskrifter 08:30",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa05100726/c8c5fe2a-7.smil/thumb.jpg?t=7243&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7282,
+      "title": "Statsbudsjettet",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa05100726/c8c5fe2a-7.smil/thumb.jpg?t=7308&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7460,
+      "title": "Hovedtallene i forslag til statsbudsjettet",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa05100726/c8c5fe2a-7.smil/thumb.jpg?t=7486&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7601,
+      "title": "Tre år siden 7. oktober-terroren",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa05100726/c8c5fe2a-7.smil/thumb.jpg?t=7626&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7879,
+      "title": "Kraftige angrep i Kyiv",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa05100726/c8c5fe2a-7.smil/thumb.jpg?t=7904&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8152,
+      "title": "Overskrifter 08:45",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa05100726/c8c5fe2a-7.smil/thumb.jpg?t=8177&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8194,
+      "title": "Suser avgårde-filmen har premiere",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa05100726/c8c5fe2a-7.smil/thumb.jpg?t=8219&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8611,
+      "title": "Messis siste landskamp",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa05100726/c8c5fe2a-7.smil/thumb.jpg?t=8637&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8866,
+      "title": "Været i dag",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa05100726/c8c5fe2a-7.smil/thumb.jpg?t=8891&scale=640x360&v=high"
+    }
+  ]
+}
