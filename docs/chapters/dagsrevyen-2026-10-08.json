@@ -1,0 +1,158 @@
+{
+  "version": "1.2.0",
+  "title": "Togene står i hele landet",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 10,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa19100826/8db0681f-5.smil/thumb.jpg?t=36&scale=640x360&v=high"
+    },
+    {
+      "startTime": 86,
+      "title": "Direkte Oslo S",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa19100826/8db0681f-5.smil/thumb.jpg?t=112&scale=640x360&v=high"
+    },
+    {
+      "startTime": 215,
+      "title": "Telenor-trøbbel",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa19100826/8db0681f-5.smil/thumb.jpg?t=240&scale=640x360&v=high"
+    },
+    {
+      "startTime": 260,
+      "title": "Direkte Fornebu",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa19100826/8db0681f-5.smil/thumb.jpg?t=286&scale=640x360&v=high"
+    },
+    {
+      "startTime": 417,
+      "title": "Nasjonal kom. myndighet",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa19100826/8db0681f-5.smil/thumb.jpg?t=443&scale=640x360&v=high"
+    },
+    {
+      "startTime": 464,
+      "title": "Direkte Trondheim",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa19100826/8db0681f-5.smil/thumb.jpg?t=489&scale=640x360&v=high"
+    },
+    {
+      "startTime": 542,
+      "title": "Togtrafikken",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa19100826/8db0681f-5.smil/thumb.jpg?t=568&scale=640x360&v=high"
+    },
+    {
+      "startTime": 545,
+      "title": "Ukraina angrep",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa19100826/8db0681f-5.smil/thumb.jpg?t=571&scale=640x360&v=high"
+    },
+    {
+      "startTime": 663,
+      "title": "Direkte fra Ukraina",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa19100826/8db0681f-5.smil/thumb.jpg?t=689&scale=640x360&v=high"
+    },
+    {
+      "startTime": 779,
+      "title": "Spionlov PST",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa19100826/8db0681f-5.smil/thumb.jpg?t=804&scale=640x360&v=high"
+    },
+    {
+      "startTime": 939,
+      "title": "Kvinne funnet død",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa19100826/8db0681f-5.smil/thumb.jpg?t=964&scale=640x360&v=high"
+    },
+    {
+      "startTime": 956,
+      "title": "Før Nobels fredspris",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa19100826/8db0681f-5.smil/thumb.jpg?t=982&scale=640x360&v=high"
+    },
+    {
+      "startTime": 982,
+      "title": "Gjest om fredspris",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa19100826/8db0681f-5.smil/thumb.jpg?t=1008&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1078,
+      "title": "Før Nobels fredspris",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa19100826/8db0681f-5.smil/thumb.jpg?t=1104&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1105,
+      "title": "Gjest om fredspris",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa19100826/8db0681f-5.smil/thumb.jpg?t=1131&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1146,
+      "title": "Gaza før og nå",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa19100826/8db0681f-5.smil/thumb.jpg?t=1171&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1290,
+      "title": "Telenor-trøbbel",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa19100826/8db0681f-5.smil/thumb.jpg?t=1315&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1319,
+      "title": "Direkte Tromsø",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa19100826/8db0681f-5.smil/thumb.jpg?t=1344&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1486,
+      "title": "Nobels litteraturpris",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa19100826/8db0681f-5.smil/thumb.jpg?t=1511&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1620,
+      "title": "Gjest om litteraturpris",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa19100826/8db0681f-5.smil/thumb.jpg?t=1645&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1803,
+      "title": "Økokrim",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa19100826/8db0681f-5.smil/thumb.jpg?t=1828&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1920,
+      "title": "Parkinson-forskning",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa19100826/8db0681f-5.smil/thumb.jpg?t=1945&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2044,
+      "title": "Ny Fatland-bok",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa19100826/8db0681f-5.smil/thumb.jpg?t=2070&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2187,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa19100826/8db0681f-5.smil/thumb.jpg?t=2212&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2193,
+      "title": "Tutta comeback",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa19100826/8db0681f-5.smil/thumb.jpg?t=2218&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2273,
+      "title": "Håndball",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa19100826/8db0681f-5.smil/thumb.jpg?t=2298&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2296,
+      "title": "Gjenvalg UEFA",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa19100826/8db0681f-5.smil/thumb.jpg?t=2322&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2353,
+      "title": "PK Norge",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa19100826/8db0681f-5.smil/thumb.jpg?t=2379&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2458,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa19100826/8db0681f-5.smil/thumb.jpg?t=2483&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2614,
+      "title": "Trailer Debatten",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa19100826/8db0681f-5.smil/thumb.jpg?t=2639&scale=640x360&v=high"
+    }
+  ]
+}
