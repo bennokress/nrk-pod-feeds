@@ -1,0 +1,68 @@
+{
+  "version": "1.2.0",
+  "title": "Skal ikke skje",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-00.akamaized.net/open/ps/nnfa/nnfa23100826/522618c9-5.smil/thumb.jpg?t=26&scale=640x360&v=high"
+    },
+    {
+      "startTime": 30,
+      "title": "Telenor-problemer",
+      "img": "https://nrk-od-world-00.akamaized.net/open/ps/nnfa/nnfa23100826/522618c9-5.smil/thumb.jpg?t=55&scale=640x360&v=high"
+    },
+    {
+      "startTime": 137,
+      "title": "Debatten",
+      "img": "https://nrk-od-world-00.akamaized.net/open/ps/nnfa/nnfa23100826/522618c9-5.smil/thumb.jpg?t=163&scale=640x360&v=high"
+    },
+    {
+      "startTime": 251,
+      "title": "Kvinne funnet død",
+      "img": "https://nrk-od-world-00.akamaized.net/open/ps/nnfa/nnfa23100826/522618c9-5.smil/thumb.jpg?t=277&scale=640x360&v=high"
+    },
+    {
+      "startTime": 279,
+      "title": "Overlevde dødsstraff",
+      "img": "https://nrk-od-world-00.akamaized.net/open/ps/nnfa/nnfa23100826/522618c9-5.smil/thumb.jpg?t=305&scale=640x360&v=high"
+    },
+    {
+      "startTime": 310,
+      "title": "Stubb om fredsprisen",
+      "img": "https://nrk-od-world-00.akamaized.net/open/ps/nnfa/nnfa23100826/522618c9-5.smil/thumb.jpg?t=335&scale=640x360&v=high"
+    },
+    {
+      "startTime": 402,
+      "title": "Folkehøyskole",
+      "img": "https://nrk-od-world-00.akamaized.net/open/ps/nnfa/nnfa23100826/522618c9-5.smil/thumb.jpg?t=427&scale=640x360&v=high"
+    },
+    {
+      "startTime": 496,
+      "title": "Narvik 2029",
+      "img": "https://nrk-od-world-00.akamaized.net/open/ps/nnfa/nnfa23100826/522618c9-5.smil/thumb.jpg?t=522&scale=640x360&v=high"
+    },
+    {
+      "startTime": 591,
+      "title": "Ishockey",
+      "img": "https://nrk-od-world-00.akamaized.net/open/ps/nnfa/nnfa23100826/522618c9-5.smil/thumb.jpg?t=616&scale=640x360&v=high"
+    },
+    {
+      "startTime": 665,
+      "title": "Fotball",
+      "img": "https://nrk-od-world-00.akamaized.net/open/ps/nnfa/nnfa23100826/522618c9-5.smil/thumb.jpg?t=691&scale=640x360&v=high"
+    },
+    {
+      "startTime": 718,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-00.akamaized.net/open/ps/nnfa/nnfa23100826/522618c9-5.smil/thumb.jpg?t=743&scale=640x360&v=high"
+    },
+    {
+      "startTime": 779,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-00.akamaized.net/open/ps/nnfa/nnfa23100826/522618c9-5.smil/thumb.jpg?t=798.6&scale=640x360&v=high"
+    }
+  ]
+}
