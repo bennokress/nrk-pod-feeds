@@ -1,0 +1,58 @@
+{
+  "version": "1.2.0",
+  "title": "Store mobilproblemer",
+  "author": "NRK",
+  "podcastName": "Dagsnytt 18",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsnytt atten",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa56100826/3e1f2dfb-5.smil/thumb.jpg?t=26&scale=640x360&v=high"
+    },
+    {
+      "startTime": 54,
+      "title": "Telenor problemer",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa56100826/3e1f2dfb-5.smil/thumb.jpg?t=79&scale=640x360&v=high"
+    },
+    {
+      "startTime": 514,
+      "title": "Statsbudsjett og næringsliv",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa56100826/3e1f2dfb-5.smil/thumb.jpg?t=539&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1472,
+      "title": "Posten og statsbudsjettet",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa56100826/3e1f2dfb-5.smil/thumb.jpg?t=1498&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1924,
+      "title": "Elevopprør i Frankrike",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa56100826/3e1f2dfb-5.smil/thumb.jpg?t=1949&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2658,
+      "title": "Nobelspris i litteratur",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa56100826/3e1f2dfb-5.smil/thumb.jpg?t=2684&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2832,
+      "title": "Nobels fredspris i morgen",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa56100826/3e1f2dfb-5.smil/thumb.jpg?t=2857&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3336,
+      "title": "Problemer hos Telenor",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa56100826/3e1f2dfb-5.smil/thumb.jpg?t=3362&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3496,
+      "title": "AVSLUTNING",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa56100826/3e1f2dfb-5.smil/thumb.jpg?t=3522&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3508,
+      "title": "SLUTTKJENNING",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa56100826/3e1f2dfb-5.smil/thumb.jpg?t=3534&scale=640x360&v=high"
+    }
+  ]
+}
