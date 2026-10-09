@@ -1,0 +1,273 @@
+{
+  "version": "1.2.0",
+  "title": "Rekordmange skip seiler i Norges bakgård",
+  "author": "NRK",
+  "podcastName": "Nyhetsmorgen",
+  "chapters": [
+    {
+      "startTime": 1,
+      "title": "Åpning 06:30",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa05100826/e252eac9-6.smil/thumb.jpg?t=27&scale=640x360&v=high"
+    },
+    {
+      "startTime": 81,
+      "title": "Rekordmange skip seiler i Arktis",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa05100826/e252eac9-6.smil/thumb.jpg?t=107&scale=640x360&v=high"
+    },
+    {
+      "startTime": 156,
+      "title": "Undersøker Deepwater Horizon-ulykken",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa05100826/e252eac9-6.smil/thumb.jpg?t=182&scale=640x360&v=high"
+    },
+    {
+      "startTime": 336,
+      "title": "Siste nytt",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa05100826/e252eac9-6.smil/thumb.jpg?t=362&scale=640x360&v=high"
+    },
+    {
+      "startTime": 461,
+      "title": "Protester i Spania",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa05100826/e252eac9-6.smil/thumb.jpg?t=486&scale=640x360&v=high"
+    },
+    {
+      "startTime": 635,
+      "title": "Må framleis leva utan gul midtstripe",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa05100826/e252eac9-6.smil/thumb.jpg?t=660&scale=640x360&v=high"
+    },
+    {
+      "startTime": 872,
+      "title": "Overskrifter 06:45",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa05100826/e252eac9-6.smil/thumb.jpg?t=898&scale=640x360&v=high"
+    },
+    {
+      "startTime": 936,
+      "title": "Hotellene melder seg ut",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa05100826/e252eac9-6.smil/thumb.jpg?t=962&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1057,
+      "title": "– Skolen i Norge er ikke gratis",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa05100826/e252eac9-6.smil/thumb.jpg?t=1083&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1211,
+      "title": "Tøff Viking-høst",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa05100826/e252eac9-6.smil/thumb.jpg?t=1236&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1415,
+      "title": "Norge møter Romania i VM-kvalifiseringen",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa05100826/e252eac9-6.smil/thumb.jpg?t=1440&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1540,
+      "title": "Skole lager racerbil",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa05100826/e252eac9-6.smil/thumb.jpg?t=1566&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1711,
+      "title": "Folk om Nobelprisen i litteratur",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa05100826/e252eac9-6.smil/thumb.jpg?t=1737&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1788,
+      "title": "Boktober - er i gang",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa05100826/e252eac9-6.smil/thumb.jpg?t=1814&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1816,
+      "title": "Åpning 07:00",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa05100826/e252eac9-6.smil/thumb.jpg?t=1841&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1895,
+      "title": "Rekordmange skip seiler i Arktis",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa05100826/e252eac9-6.smil/thumb.jpg?t=1921&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2170,
+      "title": "Fant over 500 nettkasinoer på norsk",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa05100826/e252eac9-6.smil/thumb.jpg?t=2196&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2394,
+      "title": "Tre år med krig i Gaza",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa05100826/e252eac9-6.smil/thumb.jpg?t=2420&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2622,
+      "title": "Gaza etter tre år med krig",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa05100826/e252eac9-6.smil/thumb.jpg?t=2647&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2785,
+      "title": "Overskrifter 07:15",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa05100826/e252eac9-6.smil/thumb.jpg?t=2811&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2821,
+      "title": "Budsjettpartnernes prioriteringer",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa05100826/e252eac9-6.smil/thumb.jpg?t=2846&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2997,
+      "title": "Før Politisk kvarter",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa05100826/e252eac9-6.smil/thumb.jpg?t=3023&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3067,
+      "title": "Demonstrasjonene fortsetter i Frankrike",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa05100826/e252eac9-6.smil/thumb.jpg?t=3092&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3366,
+      "title": "Færre sauar, men vil ha meir ull",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa05100826/e252eac9-6.smil/thumb.jpg?t=3391&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3564,
+      "title": "Sentralbordet på NRK",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa05100826/e252eac9-6.smil/thumb.jpg?t=3590&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3600,
+      "title": "Overskrifter 07:30",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa05100826/e252eac9-6.smil/thumb.jpg?t=3625&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3632,
+      "title": "Fant over 500 nettkasinoer på norsk",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa05100826/e252eac9-6.smil/thumb.jpg?t=3657&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3772,
+      "title": "Rekordmange skip seiler i Arktis",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa05100826/e252eac9-6.smil/thumb.jpg?t=3798&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3890,
+      "title": "Undersøker Deepwater Horizon-ulykken",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa05100826/e252eac9-6.smil/thumb.jpg?t=3916&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4005,
+      "title": "Tre år med krig i Gaza",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa05100826/e252eac9-6.smil/thumb.jpg?t=4030&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4121,
+      "title": "Budsjettpartnernes prioriteringer",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa05100826/e252eac9-6.smil/thumb.jpg?t=4146&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4170,
+      "title": "Pingvinbæsj får snøen til å smelte raskere",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa05100826/e252eac9-6.smil/thumb.jpg?t=4195&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4200,
+      "title": "Åpning 07:40",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa05100826/e252eac9-6.smil/thumb.jpg?t=4225&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4215,
+      "title": "Må framleis leva utan gul midstripe",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa05100826/e252eac9-6.smil/thumb.jpg?t=4240&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5400,
+      "title": "NRK Nyheter 08:00",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa05100826/e252eac9-6.smil/thumb.jpg?t=5426&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5581,
+      "title": "Åpning 08:03",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa05100826/e252eac9-6.smil/thumb.jpg?t=5606&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5650,
+      "title": "Fant over 500 nettkasinoer på norsk",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa05100826/e252eac9-6.smil/thumb.jpg?t=5675&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5861,
+      "title": "Undersøker Deepwater Horizon-ulykken",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa05100826/e252eac9-6.smil/thumb.jpg?t=5886&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6041,
+      "title": "Konsekvensene av Deepwater Horizon-ulykken",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa05100826/e252eac9-6.smil/thumb.jpg?t=6067&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6349,
+      "title": "Ny bok fra Erika Fatland om Ukraina",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa05100826/e252eac9-6.smil/thumb.jpg?t=6375&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6631,
+      "title": "Tre år med krig i Gaza",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa05100826/e252eac9-6.smil/thumb.jpg?t=6657&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6861,
+      "title": "Valg i UK",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa05100826/e252eac9-6.smil/thumb.jpg?t=6886&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7116,
+      "title": "Tøff Viking-høst",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa05100826/e252eac9-6.smil/thumb.jpg?t=7142&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7229,
+      "title": "Hør Ekko i NRK P2",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa05100826/e252eac9-6.smil/thumb.jpg?t=7255&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7348,
+      "title": "Rekordmange skip seiler i Arktis",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa05100826/e252eac9-6.smil/thumb.jpg?t=7373&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7578,
+      "title": "Folk om Nobelprisen i litteratur",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa05100826/e252eac9-6.smil/thumb.jpg?t=7604&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7652,
+      "title": "Nobelprisen i litteratur blir kjent i dag",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa05100826/e252eac9-6.smil/thumb.jpg?t=7677&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7958,
+      "title": "Når ikke bistandsmålet",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa05100826/e252eac9-6.smil/thumb.jpg?t=7984&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8144,
+      "title": "Overskrifter 08:45",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa05100826/e252eac9-6.smil/thumb.jpg?t=8169&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8201,
+      "title": "WWF roper varsko om havet",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa05100826/e252eac9-6.smil/thumb.jpg?t=8227&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8456,
+      "title": "Demonstrasjoner i Frankrike",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa05100826/e252eac9-6.smil/thumb.jpg?t=8481&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8666,
+      "title": "Filmanmeldelse: «Suser avgårde»",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa05100826/e252eac9-6.smil/thumb.jpg?t=8692&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8912,
+      "title": "GJEST Været i dag",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa05100826/e252eac9-6.smil/thumb.jpg?t=8937&scale=640x360&v=high"
+    }
+  ]
+}
