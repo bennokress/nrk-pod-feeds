@@ -1,0 +1,118 @@
+{
+  "version": "1.2.0",
+  "title": "Göbbels gratulerer fra helvete",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 7,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa19100926/1fb3b4cc-5.smil/thumb.jpg?t=33&scale=640x360&v=high"
+    },
+    {
+      "startTime": 72,
+      "title": "Direkte: Beirut",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa19100926/1fb3b4cc-5.smil/thumb.jpg?t=98&scale=640x360&v=high"
+    },
+    {
+      "startTime": 166,
+      "title": "Direkte Nürnberg",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa19100926/1fb3b4cc-5.smil/thumb.jpg?t=192&scale=640x360&v=high"
+    },
+    {
+      "startTime": 227,
+      "title": "Nobels fredspris",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa19100926/1fb3b4cc-5.smil/thumb.jpg?t=253&scale=640x360&v=high"
+    },
+    {
+      "startTime": 328,
+      "title": "Grafikk",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa19100926/1fb3b4cc-5.smil/thumb.jpg?t=354&scale=640x360&v=high"
+    },
+    {
+      "startTime": 381,
+      "title": "Nobels fredspris",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa19100926/1fb3b4cc-5.smil/thumb.jpg?t=406&scale=640x360&v=high"
+    },
+    {
+      "startTime": 503,
+      "title": "Direkte: USA",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa19100926/1fb3b4cc-5.smil/thumb.jpg?t=528&scale=640x360&v=high"
+    },
+    {
+      "startTime": 589,
+      "title": "Gjest: Jørgen Watne Frydnes",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa19100926/1fb3b4cc-5.smil/thumb.jpg?t=615&scale=640x360&v=high"
+    },
+    {
+      "startTime": 802,
+      "title": "Gjest: Gro Holm",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa19100926/1fb3b4cc-5.smil/thumb.jpg?t=827&scale=640x360&v=high"
+    },
+    {
+      "startTime": 862,
+      "title": "Telenortrøbbel",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa19100926/1fb3b4cc-5.smil/thumb.jpg?t=887&scale=640x360&v=high"
+    },
+    {
+      "startTime": 979,
+      "title": "Prisutvikling",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa19100926/1fb3b4cc-5.smil/thumb.jpg?t=1005&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1092,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa19100926/1fb3b4cc-5.smil/thumb.jpg?t=1118&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1194,
+      "title": "Skutt av ICE",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa19100926/1fb3b4cc-5.smil/thumb.jpg?t=1219&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1307,
+      "title": "Henrettelse live",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa19100926/1fb3b4cc-5.smil/thumb.jpg?t=1332&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1350,
+      "title": "Frankrike demonstrasjoner",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa19100926/1fb3b4cc-5.smil/thumb.jpg?t=1376&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1459,
+      "title": "Vinterdekk og snø",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa19100926/1fb3b4cc-5.smil/thumb.jpg?t=1485&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1549,
+      "title": "Fra Bergen til Voss",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa19100926/1fb3b4cc-5.smil/thumb.jpg?t=1575&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1679,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa19100926/1fb3b4cc-5.smil/thumb.jpg?t=1705&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1686,
+      "title": "Fotball, City",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa19100926/1fb3b4cc-5.smil/thumb.jpg?t=1711&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1777,
+      "title": "Fotball, landslag",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa19100926/1fb3b4cc-5.smil/thumb.jpg?t=1803&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1799,
+      "title": "Psykisk helse",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa19100926/1fb3b4cc-5.smil/thumb.jpg?t=1825&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1886,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa19100926/1fb3b4cc-5.smil/thumb.jpg?t=1912&scale=640x360&v=high"
+    }
+  ]
+}
