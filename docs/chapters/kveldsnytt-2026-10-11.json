@@ -1,0 +1,53 @@
+{
+  "version": "1.2.0",
+  "title": "Kan måtte betale milliardbøter",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 40,
+      "title": "Ulovlig dagligvare-samarbeid i retten i morgen",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa23101126/4f71f971-5.smil/thumb.jpg?t=66&scale=640x360&v=high"
+    },
+    {
+      "startTime": 161,
+      "title": "Trump kritiserer Zelenskyj",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa23101126/4f71f971-5.smil/thumb.jpg?t=187&scale=640x360&v=high"
+    },
+    {
+      "startTime": 274,
+      "title": "Burnham om Brexit",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa23101126/4f71f971-5.smil/thumb.jpg?t=299&scale=640x360&v=high"
+    },
+    {
+      "startTime": 308,
+      "title": "Togstreik",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa23101126/4f71f971-5.smil/thumb.jpg?t=333&scale=640x360&v=high"
+    },
+    {
+      "startTime": 357,
+      "title": "Vinner av Jenteprisen 2026",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa23101126/4f71f971-5.smil/thumb.jpg?t=382&scale=640x360&v=high"
+    },
+    {
+      "startTime": 470,
+      "title": "Molde raser",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa23101126/4f71f971-5.smil/thumb.jpg?t=495&scale=640x360&v=high"
+    },
+    {
+      "startTime": 575,
+      "title": "Fotball, landslag",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa23101126/4f71f971-5.smil/thumb.jpg?t=600&scale=640x360&v=high"
+    },
+    {
+      "startTime": 652,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa23101126/4f71f971-5.smil/thumb.jpg?t=678&scale=640x360&v=high"
+    },
+    {
+      "startTime": 720,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa23101126/4f71f971-5.smil/thumb.jpg?t=739.55&scale=640x360&v=high"
+    }
+  ]
+}
