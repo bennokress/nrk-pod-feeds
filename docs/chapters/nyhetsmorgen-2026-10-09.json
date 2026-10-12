@@ -1,0 +1,303 @@
+{
+  "version": "1.2.0",
+  "title": "Verdens øyne rettes mot Norge",
+  "author": "NRK",
+  "podcastName": "Nyhetsmorgen",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Åpning 06:30",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa05100926/59694eca-5.smil/thumb.jpg?t=25&scale=640x360&v=high"
+    },
+    {
+      "startTime": 68,
+      "title": "Nobels fredspris",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa05100926/59694eca-5.smil/thumb.jpg?t=93&scale=640x360&v=high"
+    },
+    {
+      "startTime": 174,
+      "title": "PST vil ha ny spionlov",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa05100926/59694eca-5.smil/thumb.jpg?t=200&scale=640x360&v=high"
+    },
+    {
+      "startTime": 364,
+      "title": "Siste nytt",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa05100926/59694eca-5.smil/thumb.jpg?t=390&scale=640x360&v=high"
+    },
+    {
+      "startTime": 468,
+      "title": "Zelenskyj går ut mot USA",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa05100926/59694eca-5.smil/thumb.jpg?t=493&scale=640x360&v=high"
+    },
+    {
+      "startTime": 702,
+      "title": "Motorproblemer i Formel 1",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa05100926/59694eca-5.smil/thumb.jpg?t=727&scale=640x360&v=high"
+    },
+    {
+      "startTime": 853,
+      "title": "Overskrifter 06:45",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa05100926/59694eca-5.smil/thumb.jpg?t=879&scale=640x360&v=high"
+    },
+    {
+      "startTime": 897,
+      "title": "Frykter buss for tog",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa05100926/59694eca-5.smil/thumb.jpg?t=923&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1055,
+      "title": "Oslo S stenger",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa05100926/59694eca-5.smil/thumb.jpg?t=1081&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1121,
+      "title": "Mamdani reagerer på ICE-skyting",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa05100926/59694eca-5.smil/thumb.jpg?t=1147&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1279,
+      "title": "Talenter faller fra i skolen",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa05100926/59694eca-5.smil/thumb.jpg?t=1304&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1458,
+      "title": "Ordkrig før Brann-Viking",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa05100926/59694eca-5.smil/thumb.jpg?t=1483&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1723,
+      "title": "Vil ha nyvalg i Venezuela",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa05100926/59694eca-5.smil/thumb.jpg?t=1749&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1783,
+      "title": "LIS - NRK TV",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa05100926/59694eca-5.smil/thumb.jpg?t=1809&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1822,
+      "title": "Åpning 07:00",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa05100926/59694eca-5.smil/thumb.jpg?t=1847&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1881,
+      "title": "Nobels fredspris",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa05100926/59694eca-5.smil/thumb.jpg?t=1907&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2084,
+      "title": "Aktuelle kandidater til fredsprisen",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa05100926/59694eca-5.smil/thumb.jpg?t=2109&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2399,
+      "title": "Telenor-trøbbel",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa05100926/59694eca-5.smil/thumb.jpg?t=2425&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2603,
+      "title": "Første AfD-ledet delstatsparlament",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa05100926/59694eca-5.smil/thumb.jpg?t=2629&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2802,
+      "title": "Overskrifter 07:15",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa05100926/59694eca-5.smil/thumb.jpg?t=2827&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2835,
+      "title": "Store kutt i klimasatsing",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa05100926/59694eca-5.smil/thumb.jpg?t=2861&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2892,
+      "title": "«Offentlig» henrettelse i USA",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa05100926/59694eca-5.smil/thumb.jpg?t=2917&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3070,
+      "title": "Verdensdagen for psykisk helse",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa05100926/59694eca-5.smil/thumb.jpg?t=3096&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3263,
+      "title": "NM i hopp",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa05100926/59694eca-5.smil/thumb.jpg?t=3288&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3373,
+      "title": "Jeba kan bli årets avløysar",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa05100926/59694eca-5.smil/thumb.jpg?t=3399&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3537,
+      "title": "Teasing dagens sending",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa05100926/59694eca-5.smil/thumb.jpg?t=3562&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3571,
+      "title": "Boktober er i gang",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa05100926/59694eca-5.smil/thumb.jpg?t=3596&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3599,
+      "title": "Overskrifter 07:30",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa05100926/59694eca-5.smil/thumb.jpg?t=3624&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3637,
+      "title": "Nobels fredspris",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa05100926/59694eca-5.smil/thumb.jpg?t=3662&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3735,
+      "title": "Falkenberg Mikkelsen om fredsprisen",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa05100926/59694eca-5.smil/thumb.jpg?t=3760&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3827,
+      "title": "PST vil ha ny spionlov",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa05100926/59694eca-5.smil/thumb.jpg?t=3852&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3935,
+      "title": "Telenortrøbbel",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa05100926/59694eca-5.smil/thumb.jpg?t=3961&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4051,
+      "title": "Ordkrig før Brann-Viking",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa05100926/59694eca-5.smil/thumb.jpg?t=4076&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4159,
+      "title": "Snø kan gi trafikkproblemer",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa05100926/59694eca-5.smil/thumb.jpg?t=4184&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4199,
+      "title": "Åpning 07:40",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa05100926/59694eca-5.smil/thumb.jpg?t=4224&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4218,
+      "title": "Siste dag med hoffsorg",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa05100926/59694eca-5.smil/thumb.jpg?t=4244&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4489,
+      "title": "Overgang til Politisk kvarter",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa05100926/59694eca-5.smil/thumb.jpg?t=4514&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5399,
+      "title": "NRK Nyheter 08:00",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa05100926/59694eca-5.smil/thumb.jpg?t=5425&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5579,
+      "title": "Åpning 08:03",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa05100926/59694eca-5.smil/thumb.jpg?t=5604&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5647,
+      "title": "Nobels fredspris",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa05100926/59694eca-5.smil/thumb.jpg?t=5673&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5745,
+      "title": "Prios liste over mulige vinnere",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa05100926/59694eca-5.smil/thumb.jpg?t=5771&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6000,
+      "title": "Prisene steg 3,4 prosent i september",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa05100926/59694eca-5.smil/thumb.jpg?t=6026&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6221,
+      "title": "PST vil ha ny spionlov",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa05100926/59694eca-5.smil/thumb.jpg?t=6247&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6323,
+      "title": "Overskrifter 08:15",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa05100926/59694eca-5.smil/thumb.jpg?t=6349&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6354,
+      "title": "Talenter faller fra i skolen",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa05100926/59694eca-5.smil/thumb.jpg?t=6379&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6475,
+      "title": "Fredagspanelet",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa05100926/59694eca-5.smil/thumb.jpg?t=6500&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7260,
+      "title": "Overskrifter 08:30",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa05100926/59694eca-5.smil/thumb.jpg?t=7286&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7320,
+      "title": "Telenor-trøbbel",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa05100926/59694eca-5.smil/thumb.jpg?t=7345&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7527,
+      "title": "Orkan kan legge press på energimarkeder",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa05100926/59694eca-5.smil/thumb.jpg?t=7553&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7670,
+      "title": "«Offentlig» henrettelse i USA",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa05100926/59694eca-5.smil/thumb.jpg?t=7696&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7830,
+      "title": "Ordkrig før Brann–Viking",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa05100926/59694eca-5.smil/thumb.jpg?t=7855&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7946,
+      "title": "Fjorårets fredspris til Machado",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa05100926/59694eca-5.smil/thumb.jpg?t=7971&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8212,
+      "title": "Overskrifter 08:45",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa05100926/59694eca-5.smil/thumb.jpg?t=8237&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8251,
+      "title": "Klima tapte budsjettkampen",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa05100926/59694eca-5.smil/thumb.jpg?t=8277&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8453,
+      "title": "Siste dag med hoffsorg",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa05100926/59694eca-5.smil/thumb.jpg?t=8478&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8723,
+      "title": "Verdensdagen for psykisk helse",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa05100926/59694eca-5.smil/thumb.jpg?t=8749&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8825,
+      "title": "Før Abels tårn i NRK P2",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa05100926/59694eca-5.smil/thumb.jpg?t=8851&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8886,
+      "title": "GJEST Været i dag",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa05100926/59694eca-5.smil/thumb.jpg?t=8912&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8988,
+      "title": "Avslutning",
+      "img": "https://nrk-od-world-59.akamaized.net/open/ps/nnfa/nnfa05100926/59694eca-5.smil/thumb.jpg?t=9003.28&scale=640x360&v=high"
+    }
+  ]
+}
