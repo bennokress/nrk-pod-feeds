@@ -1,0 +1,53 @@
+{
+  "version": "1.2.0",
+  "title": "Fredsprisen til Navi Pillay",
+  "author": "NRK",
+  "podcastName": "Dagsnytt 18",
+  "chapters": [
+    {
+      "startTime": 1,
+      "title": "Dagsnytt atten",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa56100926/2bd31e11-5.smil/thumb.jpg?t=27&scale=640x360&v=high"
+    },
+    {
+      "startTime": 66,
+      "title": "Krever svar om Telenor-trøbbel",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa56100926/2bd31e11-5.smil/thumb.jpg?t=91&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1207,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa56100926/2bd31e11-5.smil/thumb.jpg?t=1233&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1217,
+      "title": "Navi Pillay får Nobels fredspris",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa56100926/2bd31e11-5.smil/thumb.jpg?t=1242&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2298,
+      "title": "Skiforbundet og Red Bull",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa56100926/2bd31e11-5.smil/thumb.jpg?t=2324&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2751,
+      "title": "ADHD-medisiner og psykose",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa56100926/2bd31e11-5.smil/thumb.jpg?t=2777&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3164,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa56100926/2bd31e11-5.smil/thumb.jpg?t=3189&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3174,
+      "title": "18-årsgrense på smarttelefon",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa56100926/2bd31e11-5.smil/thumb.jpg?t=3200&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3531,
+      "title": "SLUTTKJENNING",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa56100926/2bd31e11-5.smil/thumb.jpg?t=3543.92&scale=640x360&v=high"
+    }
+  ]
+}
