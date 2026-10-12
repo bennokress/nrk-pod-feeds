@@ -1,0 +1,48 @@
+{
+  "version": "1.2.0",
+  "title": "Zelenskyj om våpenhvilen",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa21101126/35ed822d-8.smil/thumb.jpg?t=25&scale=640x360&v=high"
+    },
+    {
+      "startTime": 31,
+      "title": "Ukraina",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa21101126/35ed822d-8.smil/thumb.jpg?t=56&scale=640x360&v=high"
+    },
+    {
+      "startTime": 140,
+      "title": "Ukrainere opphold",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa21101126/35ed822d-8.smil/thumb.jpg?t=165&scale=640x360&v=high"
+    },
+    {
+      "startTime": 266,
+      "title": "Ryadh angrep",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa21101126/35ed822d-8.smil/thumb.jpg?t=291&scale=640x360&v=high"
+    },
+    {
+      "startTime": 332,
+      "title": "Jenteprisen",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa21101126/35ed822d-8.smil/thumb.jpg?t=358&scale=640x360&v=high"
+    },
+    {
+      "startTime": 387,
+      "title": "Lillestrøm - Molde",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa21101126/35ed822d-8.smil/thumb.jpg?t=413&scale=640x360&v=high"
+    },
+    {
+      "startTime": 452,
+      "title": "Været",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa21101126/35ed822d-8.smil/thumb.jpg?t=478&scale=640x360&v=high"
+    },
+    {
+      "startTime": 506,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-10.akamaized.net/open/ps/nnfa/nnfa21101126/35ed822d-8.smil/thumb.jpg?t=527.67&scale=640x360&v=high"
+    }
+  ]
+}
