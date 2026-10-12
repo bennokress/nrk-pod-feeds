@@ -1,0 +1,108 @@
+{
+  "version": "1.2.0",
+  "title": "Kule fra jaktlag traff bolighus",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-54.akamaized.net/open/ps/nnfa/nnfa20101026/5057ebe3-27.smil/thumb.jpg?t=25&scale=640x360&v=high"
+    },
+    {
+      "startTime": 71,
+      "title": "Fredsprisen",
+      "img": "https://nrk-od-world-54.akamaized.net/open/ps/nnfa/nnfa20101026/5057ebe3-27.smil/thumb.jpg?t=97&scale=640x360&v=high"
+    },
+    {
+      "startTime": 184,
+      "title": "Skudd traff hus",
+      "img": "https://nrk-od-world-54.akamaized.net/open/ps/nnfa/nnfa20101026/5057ebe3-27.smil/thumb.jpg?t=209&scale=640x360&v=high"
+    },
+    {
+      "startTime": 256,
+      "title": "Frankrike demonstrasjoner",
+      "img": "https://nrk-od-world-54.akamaized.net/open/ps/nnfa/nnfa20101026/5057ebe3-27.smil/thumb.jpg?t=281&scale=640x360&v=high"
+    },
+    {
+      "startTime": 280,
+      "title": "Gjest Kristin Orgeret",
+      "img": "https://nrk-od-world-54.akamaized.net/open/ps/nnfa/nnfa20101026/5057ebe3-27.smil/thumb.jpg?t=305&scale=640x360&v=high"
+    },
+    {
+      "startTime": 426,
+      "title": "Frankrike demonstrasjoner",
+      "img": "https://nrk-od-world-54.akamaized.net/open/ps/nnfa/nnfa20101026/5057ebe3-27.smil/thumb.jpg?t=452&scale=640x360&v=high"
+    },
+    {
+      "startTime": 531,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-54.akamaized.net/open/ps/nnfa/nnfa20101026/5057ebe3-27.smil/thumb.jpg?t=557&scale=640x360&v=high"
+    },
+    {
+      "startTime": 596,
+      "title": "Flyktninger Arbeid",
+      "img": "https://nrk-od-world-54.akamaized.net/open/ps/nnfa/nnfa20101026/5057ebe3-27.smil/thumb.jpg?t=622&scale=640x360&v=high"
+    },
+    {
+      "startTime": 721,
+      "title": "Utenriks",
+      "img": "https://nrk-od-world-54.akamaized.net/open/ps/nnfa/nnfa20101026/5057ebe3-27.smil/thumb.jpg?t=746&scale=640x360&v=high"
+    },
+    {
+      "startTime": 834,
+      "title": "Treholt suksess",
+      "img": "https://nrk-od-world-54.akamaized.net/open/ps/nnfa/nnfa20101026/5057ebe3-27.smil/thumb.jpg?t=859&scale=640x360&v=high"
+    },
+    {
+      "startTime": 945,
+      "title": "Løping og skader",
+      "img": "https://nrk-od-world-54.akamaized.net/open/ps/nnfa/nnfa20101026/5057ebe3-27.smil/thumb.jpg?t=970&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1131,
+      "title": "Stamcellebehandling",
+      "img": "https://nrk-od-world-54.akamaized.net/open/ps/nnfa/nnfa20101026/5057ebe3-27.smil/thumb.jpg?t=1157&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1473,
+      "title": "Lillian Muller",
+      "img": "https://nrk-od-world-54.akamaized.net/open/ps/nnfa/nnfa20101026/5057ebe3-27.smil/thumb.jpg?t=1499&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1778,
+      "title": "Dialog for å løse kriminalitet",
+      "img": "https://nrk-od-world-54.akamaized.net/open/ps/nnfa/nnfa20101026/5057ebe3-27.smil/thumb.jpg?t=1804&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2156,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-54.akamaized.net/open/ps/nnfa/nnfa20101026/5057ebe3-27.smil/thumb.jpg?t=2181&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2161,
+      "title": "Fotball, England",
+      "img": "https://nrk-od-world-54.akamaized.net/open/ps/nnfa/nnfa20101026/5057ebe3-27.smil/thumb.jpg?t=2186&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2249,
+      "title": "Fotball, Tyskland",
+      "img": "https://nrk-od-world-54.akamaized.net/open/ps/nnfa/nnfa20101026/5057ebe3-27.smil/thumb.jpg?t=2275&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2271,
+      "title": "Fotball, eliteserien",
+      "img": "https://nrk-od-world-54.akamaized.net/open/ps/nnfa/nnfa20101026/5057ebe3-27.smil/thumb.jpg?t=2296&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2334,
+      "title": "Tennis, ATP-tour",
+      "img": "https://nrk-od-world-54.akamaized.net/open/ps/nnfa/nnfa20101026/5057ebe3-27.smil/thumb.jpg?t=2360&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2494,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-54.akamaized.net/open/ps/nnfa/nnfa20101026/5057ebe3-27.smil/thumb.jpg?t=2519&scale=640x360&v=high"
+    }
+  ]
+}
