@@ -1,0 +1,133 @@
+{
+  "version": "1.2.0",
+  "title": "Forvirring om våpenhvile",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa20101126/1b4192ad-12.smil/thumb.jpg?t=25&scale=640x360&v=high"
+    },
+    {
+      "startTime": 80,
+      "title": "Ukraina",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa20101126/1b4192ad-12.smil/thumb.jpg?t=105&scale=640x360&v=high"
+    },
+    {
+      "startTime": 184,
+      "title": "Direkte",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa20101126/1b4192ad-12.smil/thumb.jpg?t=209&scale=640x360&v=high"
+    },
+    {
+      "startTime": 334,
+      "title": "Riyhad angrep",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa20101126/1b4192ad-12.smil/thumb.jpg?t=360&scale=640x360&v=high"
+    },
+    {
+      "startTime": 356,
+      "title": "Direkte Beirut",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa20101126/1b4192ad-12.smil/thumb.jpg?t=382&scale=640x360&v=high"
+    },
+    {
+      "startTime": 392,
+      "title": "Riyhad angrep",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa20101126/1b4192ad-12.smil/thumb.jpg?t=418&scale=640x360&v=high"
+    },
+    {
+      "startTime": 474,
+      "title": "Direkte Beirut",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa20101126/1b4192ad-12.smil/thumb.jpg?t=500&scale=640x360&v=high"
+    },
+    {
+      "startTime": 576,
+      "title": "Mindre engangsstøtte",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa20101126/1b4192ad-12.smil/thumb.jpg?t=602&scale=640x360&v=high"
+    },
+    {
+      "startTime": 700,
+      "title": "Orkan ødeleggelser",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa20101126/1b4192ad-12.smil/thumb.jpg?t=725&scale=640x360&v=high"
+    },
+    {
+      "startTime": 792,
+      "title": "Ny styrtflom Nepal",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa20101126/1b4192ad-12.smil/thumb.jpg?t=818&scale=640x360&v=high"
+    },
+    {
+      "startTime": 863,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa20101126/1b4192ad-12.smil/thumb.jpg?t=889&scale=640x360&v=high"
+    },
+    {
+      "startTime": 899,
+      "title": "Jenteprisen",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa20101126/1b4192ad-12.smil/thumb.jpg?t=925&scale=640x360&v=high"
+    },
+    {
+      "startTime": 914,
+      "title": "Direkte Jenteprisen",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa20101126/1b4192ad-12.smil/thumb.jpg?t=940&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1097,
+      "title": "USA",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa20101126/1b4192ad-12.smil/thumb.jpg?t=1123&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1386,
+      "title": "Boligkrise i Spania",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa20101126/1b4192ad-12.smil/thumb.jpg?t=1412&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1681,
+      "title": "Frankrike elever",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa20101126/1b4192ad-12.smil/thumb.jpg?t=1706&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1936,
+      "title": "Kvinnedrap i Afrika",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa20101126/1b4192ad-12.smil/thumb.jpg?t=1962&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2245,
+      "title": "Fotball, England",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa20101126/1b4192ad-12.smil/thumb.jpg?t=2271&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2327,
+      "title": "Gjest",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa20101126/1b4192ad-12.smil/thumb.jpg?t=2352&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2420,
+      "title": "Fotball, eliteserien",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa20101126/1b4192ad-12.smil/thumb.jpg?t=2445&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2527,
+      "title": "Ironman",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa20101126/1b4192ad-12.smil/thumb.jpg?t=2552&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2617,
+      "title": "Sykkel",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa20101126/1b4192ad-12.smil/thumb.jpg?t=2642&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2641,
+      "title": "Håndball, europacup",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa20101126/1b4192ad-12.smil/thumb.jpg?t=2667&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2686,
+      "title": "Fotball, landslag",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa20101126/1b4192ad-12.smil/thumb.jpg?t=2712&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2777,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa20101126/1b4192ad-12.smil/thumb.jpg?t=2802&scale=640x360&v=high"
+    }
+  ]
+}
