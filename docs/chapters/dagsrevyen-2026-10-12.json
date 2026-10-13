@@ -1,0 +1,123 @@
+{
+  "version": "1.2.0",
+  "title": "Fjernet fra Kongehuset",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 10,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa19101226/d0bdb5fd-6.smil/thumb.jpg?t=36&scale=640x360&v=high"
+    },
+    {
+      "startTime": 64,
+      "title": "Dronning Sonja",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa19101226/d0bdb5fd-6.smil/thumb.jpg?t=89&scale=640x360&v=high"
+    },
+    {
+      "startTime": 284,
+      "title": "Dagligvarebransjen",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa19101226/d0bdb5fd-6.smil/thumb.jpg?t=309&scale=640x360&v=high"
+    },
+    {
+      "startTime": 402,
+      "title": "Direkte: Bergen",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa19101226/d0bdb5fd-6.smil/thumb.jpg?t=427&scale=640x360&v=high"
+    },
+    {
+      "startTime": 467,
+      "title": "Nærbutikker",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa19101226/d0bdb5fd-6.smil/thumb.jpg?t=492&scale=640x360&v=high"
+    },
+    {
+      "startTime": 623,
+      "title": "Polen toppmøte",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa19101226/d0bdb5fd-6.smil/thumb.jpg?t=649&scale=640x360&v=high"
+    },
+    {
+      "startTime": 735,
+      "title": "Direkte Warszawa",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa19101226/d0bdb5fd-6.smil/thumb.jpg?t=761&scale=640x360&v=high"
+    },
+    {
+      "startTime": 817,
+      "title": "Ukraina",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa19101226/d0bdb5fd-6.smil/thumb.jpg?t=843&scale=640x360&v=high"
+    },
+    {
+      "startTime": 929,
+      "title": "Gjest: Gro Holm",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa19101226/d0bdb5fd-6.smil/thumb.jpg?t=954&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1045,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa19101226/d0bdb5fd-6.smil/thumb.jpg?t=1070&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1086,
+      "title": "Utenriksnyheter",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa19101226/d0bdb5fd-6.smil/thumb.jpg?t=1112&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1244,
+      "title": "Stort pillebeslag",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa19101226/d0bdb5fd-6.smil/thumb.jpg?t=1269&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1337,
+      "title": "Gjest: Steiro",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa19101226/d0bdb5fd-6.smil/thumb.jpg?t=1362&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1623,
+      "title": "Strid Fifa-spill",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa19101226/d0bdb5fd-6.smil/thumb.jpg?t=1648&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1766,
+      "title": "Direkte Bergen",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa19101226/d0bdb5fd-6.smil/thumb.jpg?t=1791&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1855,
+      "title": "Direkte Narvik",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa19101226/d0bdb5fd-6.smil/thumb.jpg?t=1881&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1968,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa19101226/d0bdb5fd-6.smil/thumb.jpg?t=1994&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1980,
+      "title": "Viking-Bayern",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa19101226/d0bdb5fd-6.smil/thumb.jpg?t=2006&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2050,
+      "title": "LOT VIKING",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa19101226/d0bdb5fd-6.smil/thumb.jpg?t=2076&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2103,
+      "title": "Molde",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa19101226/d0bdb5fd-6.smil/thumb.jpg?t=2129&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2123,
+      "title": "Ruud",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa19101226/d0bdb5fd-6.smil/thumb.jpg?t=2148&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2141,
+      "title": "Opseth valg",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa19101226/d0bdb5fd-6.smil/thumb.jpg?t=2166&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2361,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa19101226/d0bdb5fd-6.smil/thumb.jpg?t=2387&scale=640x360&v=high"
+    }
+  ]
+}
