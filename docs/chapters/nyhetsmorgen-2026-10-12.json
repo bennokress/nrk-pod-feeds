@@ -1,0 +1,298 @@
+{
+  "version": "1.2.0",
+  "title": "Ut mot eget parti om lederlønninger",
+  "author": "NRK",
+  "podcastName": "Nyhetsmorgen",
+  "chapters": [
+    {
+      "startTime": 2,
+      "title": "Åpning 06:30",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa05101226/483b310b-6.smil/thumb.jpg?t=28&scale=640x360&v=high"
+    },
+    {
+      "startTime": 61,
+      "title": "AUF-leder kritiserer lederlønninger",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa05101226/483b310b-6.smil/thumb.jpg?t=86&scale=640x360&v=high"
+    },
+    {
+      "startTime": 110,
+      "title": "Krever oljestopp i nord",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa05101226/483b310b-6.smil/thumb.jpg?t=135&scale=640x360&v=high"
+    },
+    {
+      "startTime": 278,
+      "title": "Siste nytt",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa05101226/483b310b-6.smil/thumb.jpg?t=303&scale=640x360&v=high"
+    },
+    {
+      "startTime": 381,
+      "title": "Kongeørn døde av blyforgiftning",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa05101226/483b310b-6.smil/thumb.jpg?t=407&scale=640x360&v=high"
+    },
+    {
+      "startTime": 530,
+      "title": "Frp ut mot regjeringa om tog",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa05101226/483b310b-6.smil/thumb.jpg?t=556&scale=640x360&v=high"
+    },
+    {
+      "startTime": 643,
+      "title": "Slik blir sjukdomshausten",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa05101226/483b310b-6.smil/thumb.jpg?t=669&scale=640x360&v=high"
+    },
+    {
+      "startTime": 935,
+      "title": "Overskrifter 06:45",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa05101226/483b310b-6.smil/thumb.jpg?t=960&scale=640x360&v=high"
+    },
+    {
+      "startTime": 973,
+      "title": "Uklar våpenhvile mellom Russland og Ukraina",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa05101226/483b310b-6.smil/thumb.jpg?t=998&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1198,
+      "title": "Prisjegersaken i retten",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa05101226/483b310b-6.smil/thumb.jpg?t=1223&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1282,
+      "title": "Sykkelritt farligere for kvinner",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa05101226/483b310b-6.smil/thumb.jpg?t=1307&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1458,
+      "title": "Stor politiinnsats under Viking–Bayern",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa05101226/483b310b-6.smil/thumb.jpg?t=1484&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1669,
+      "title": "Norskfødd tiger drap mann",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa05101226/483b310b-6.smil/thumb.jpg?t=1695&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1786,
+      "title": "Trailer: Tyrann – Macias",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa05101226/483b310b-6.smil/thumb.jpg?t=1812&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1817,
+      "title": "Åpning 07:00",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa05101226/483b310b-6.smil/thumb.jpg?t=1843&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1893,
+      "title": "AUF-leder kritiserer lederlønninger",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa05101226/483b310b-6.smil/thumb.jpg?t=1919&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2066,
+      "title": "Vil forby kjøp i spill",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa05101226/483b310b-6.smil/thumb.jpg?t=2092&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2237,
+      "title": "Spillkritiker om kjøp i spill",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa05101226/483b310b-6.smil/thumb.jpg?t=2263&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2502,
+      "title": "Houthi-angrep mot Saudi-Arabia",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa05101226/483b310b-6.smil/thumb.jpg?t=2527&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2671,
+      "title": "Før Politisk kvarter",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa05101226/483b310b-6.smil/thumb.jpg?t=2697&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2721,
+      "title": "Overskrifter 07:15",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa05101226/483b310b-6.smil/thumb.jpg?t=2746&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2773,
+      "title": "Prisjegersaken i lagmannsretten",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa05101226/483b310b-6.smil/thumb.jpg?t=2799&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3005,
+      "title": "Offentlig henrettelse USA",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa05101226/483b310b-6.smil/thumb.jpg?t=3030&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3269,
+      "title": "Trafikktiltak et år etter ulykken på E8",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa05101226/483b310b-6.smil/thumb.jpg?t=3294&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3374,
+      "title": "Norsk raps som metanhemmer",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa05101226/483b310b-6.smil/thumb.jpg?t=3399&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3569,
+      "title": "Trailer: Boktober",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa05101226/483b310b-6.smil/thumb.jpg?t=3595&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3600,
+      "title": "Overskrifter 07:30",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa05101226/483b310b-6.smil/thumb.jpg?t=3625&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3635,
+      "title": "AUF-leder kritiserer lederlønninger",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa05101226/483b310b-6.smil/thumb.jpg?t=3660&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3762,
+      "title": "Prisjeger-saken starter",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa05101226/483b310b-6.smil/thumb.jpg?t=3788&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3882,
+      "title": "Krever oljestopp i nord",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa05101226/483b310b-6.smil/thumb.jpg?t=3908&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3895,
+      "title": "Frykt for nye angrep i Saudi-Arabia",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa05101226/483b310b-6.smil/thumb.jpg?t=3921&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3908,
+      "title": "Krever oljestopp i nord",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa05101226/483b310b-6.smil/thumb.jpg?t=3933&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4035,
+      "title": "Vil forby kjøp i spill",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa05101226/483b310b-6.smil/thumb.jpg?t=4061&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4148,
+      "title": "Håper vi blir immune mot korona",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa05101226/483b310b-6.smil/thumb.jpg?t=4174&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4213,
+      "title": "Russiske romvåpen",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa05101226/483b310b-6.smil/thumb.jpg?t=4239&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4449,
+      "title": "Overgang til Politisk kvarter",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa05101226/483b310b-6.smil/thumb.jpg?t=4474&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5400,
+      "title": "NRK Nyheter 08:00",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa05101226/483b310b-6.smil/thumb.jpg?t=5426&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5581,
+      "title": "Åpning 08:03",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa05101226/483b310b-6.smil/thumb.jpg?t=5606&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5658,
+      "title": "AUF-leder kritiserer lederlønninger",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa05101226/483b310b-6.smil/thumb.jpg?t=5683&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5832,
+      "title": "Eritreiske styrker i Etiopia",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa05101226/483b310b-6.smil/thumb.jpg?t=5858&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6119,
+      "title": "Topptung sikkerhetskonferanse",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa05101226/483b310b-6.smil/thumb.jpg?t=6144&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6368,
+      "title": "Overskrifter 08:15",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa05101226/483b310b-6.smil/thumb.jpg?t=6394&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6408,
+      "title": "Datatilsynet gir Microsoft-selskap rekordbot",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa05101226/483b310b-6.smil/thumb.jpg?t=6434&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6531,
+      "title": "Mandagspanelet",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa05101226/483b310b-6.smil/thumb.jpg?t=6556&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6996,
+      "title": "Frakt av varer med drone",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa05101226/483b310b-6.smil/thumb.jpg?t=7022&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7214,
+      "title": "Hør Ekko i NRK P2",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa05101226/483b310b-6.smil/thumb.jpg?t=7239&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7256,
+      "title": "Overskrifter 08:30",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa05101226/483b310b-6.smil/thumb.jpg?t=7281&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7303,
+      "title": "Prisjegersaken opp i retten",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa05101226/483b310b-6.smil/thumb.jpg?t=7328&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7519,
+      "title": "Vil forby kjøp i spill",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa05101226/483b310b-6.smil/thumb.jpg?t=7545&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7677,
+      "title": "Krever oljestopp i nord",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa05101226/483b310b-6.smil/thumb.jpg?t=7703&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7855,
+      "title": "Teater lærer barn om døden",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa05101226/483b310b-6.smil/thumb.jpg?t=7881&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8064,
+      "title": "Overskrifter 08:45",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa05101226/483b310b-6.smil/thumb.jpg?t=8089&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8107,
+      "title": "Tolletaten beslagla 600.000 piller",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa05101226/483b310b-6.smil/thumb.jpg?t=8133&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8245,
+      "title": "Politisk kvarter",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa05101226/483b310b-6.smil/thumb.jpg?t=8271&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8412,
+      "title": "Teateranmeldelse: Gutta",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa05101226/483b310b-6.smil/thumb.jpg?t=8437&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8644,
+      "title": "Slik blir sjukdomshausten",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa05101226/483b310b-6.smil/thumb.jpg?t=8670&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8837,
+      "title": "Været i dag",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa05101226/483b310b-6.smil/thumb.jpg?t=8863&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8992,
+      "title": "Avslutning",
+      "img": "https://nrk-od-world-32.akamaized.net/open/ps/nnfa/nnfa05101226/483b310b-6.smil/thumb.jpg?t=9004.24&scale=640x360&v=high"
+    }
+  ]
+}
