@@ -1,0 +1,63 @@
+{
+  "version": "1.2.0",
+  "title": "Houthiene tar på seg skylden for angrep",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa23101226/96ed456a-6.smil/thumb.jpg?t=25&scale=640x360&v=high"
+    },
+    {
+      "startTime": 36,
+      "title": "Nye angrep Riyadh",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa23101226/96ed456a-6.smil/thumb.jpg?t=61&scale=640x360&v=high"
+    },
+    {
+      "startTime": 130,
+      "title": "Epstein varsler",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa23101226/96ed456a-6.smil/thumb.jpg?t=155&scale=640x360&v=high"
+    },
+    {
+      "startTime": 251,
+      "title": "Tvungen mekling i togstreiken",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa23101226/96ed456a-6.smil/thumb.jpg?t=276&scale=640x360&v=high"
+    },
+    {
+      "startTime": 363,
+      "title": "Tvungen mekling streik",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa23101226/96ed456a-6.smil/thumb.jpg?t=389&scale=640x360&v=high"
+    },
+    {
+      "startTime": 398,
+      "title": "Pave Leo",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa23101226/96ed456a-6.smil/thumb.jpg?t=423&scale=640x360&v=high"
+    },
+    {
+      "startTime": 427,
+      "title": "Haakon besøk",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa23101226/96ed456a-6.smil/thumb.jpg?t=453&scale=640x360&v=high"
+    },
+    {
+      "startTime": 488,
+      "title": "KFUM-VIF",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa23101226/96ed456a-6.smil/thumb.jpg?t=514&scale=640x360&v=high"
+    },
+    {
+      "startTime": 582,
+      "title": "Landslag kvinner",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa23101226/96ed456a-6.smil/thumb.jpg?t=608&scale=640x360&v=high"
+    },
+    {
+      "startTime": 677,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa23101226/96ed456a-6.smil/thumb.jpg?t=702&scale=640x360&v=high"
+    },
+    {
+      "startTime": 743,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa23101226/96ed456a-6.smil/thumb.jpg?t=768&scale=640x360&v=high"
+    }
+  ]
+}
