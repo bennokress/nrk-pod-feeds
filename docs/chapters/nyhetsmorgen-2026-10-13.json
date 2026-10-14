@@ -1,0 +1,278 @@
+{
+  "version": "1.2.0",
+  "title": "Kritikk mot matvarekopier i butikkhyllene",
+  "author": "NRK",
+  "podcastName": "Nyhetsmorgen",
+  "chapters": [
+    {
+      "startTime": 2,
+      "title": "Åpning 06:30",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa05101326/9691a9fe-5.smil/thumb.jpg?t=27&scale=640x360&v=high"
+    },
+    {
+      "startTime": 64,
+      "title": "Etterlikning av daglegvarer",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa05101326/9691a9fe-5.smil/thumb.jpg?t=90&scale=640x360&v=high"
+    },
+    {
+      "startTime": 134,
+      "title": "Oppfyller ikkje Naturavtalen",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa05101326/9691a9fe-5.smil/thumb.jpg?t=159&scale=640x360&v=high"
+    },
+    {
+      "startTime": 325,
+      "title": "Siste nytt",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa05101326/9691a9fe-5.smil/thumb.jpg?t=351&scale=640x360&v=high"
+    },
+    {
+      "startTime": 430,
+      "title": "Sikkerhetskonferansen i Polen",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa05101326/9691a9fe-5.smil/thumb.jpg?t=456&scale=640x360&v=high"
+    },
+    {
+      "startTime": 758,
+      "title": "Unge velger bort elektrisk mopedbil",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa05101326/9691a9fe-5.smil/thumb.jpg?t=784&scale=640x360&v=high"
+    },
+    {
+      "startTime": 977,
+      "title": "Overskrifter 06:45",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa05101326/9691a9fe-5.smil/thumb.jpg?t=1003&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1013,
+      "title": "Houthi-militsen advarer USA",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa05101326/9691a9fe-5.smil/thumb.jpg?t=1039&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1187,
+      "title": "Norge bør vinne over Romania",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa05101326/9691a9fe-5.smil/thumb.jpg?t=1212&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1420,
+      "title": "Trener mindre, men bedre",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa05101326/9691a9fe-5.smil/thumb.jpg?t=1445&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1558,
+      "title": "Kan bli priskrig på breiband",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa05101326/9691a9fe-5.smil/thumb.jpg?t=1584&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1800,
+      "title": "Åpning 07:00",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa05101326/9691a9fe-5.smil/thumb.jpg?t=1825&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1874,
+      "title": "Etterlikning av daglegvarer",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa05101326/9691a9fe-5.smil/thumb.jpg?t=1900&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2076,
+      "title": "Oppfyller ikkje Naturavtalen",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa05101326/9691a9fe-5.smil/thumb.jpg?t=2102&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2265,
+      "title": "Norges bevaring av natur",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa05101326/9691a9fe-5.smil/thumb.jpg?t=2291&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2503,
+      "title": "Lukkede dører i prisjegersaken",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa05101326/9691a9fe-5.smil/thumb.jpg?t=2528&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2615,
+      "title": "Før Politisk kvarter: Billige månadskort",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa05101326/9691a9fe-5.smil/thumb.jpg?t=2640&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2674,
+      "title": "Overskrifter 07:15",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa05101326/9691a9fe-5.smil/thumb.jpg?t=2699&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2735,
+      "title": "Første kommunebesøk som konge",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa05101326/9691a9fe-5.smil/thumb.jpg?t=2760&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2955,
+      "title": "Amerikansk dieselavtale med Russland",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa05101326/9691a9fe-5.smil/thumb.jpg?t=2980&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3189,
+      "title": "Beskyldninger mot Netanyahu",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa05101326/9691a9fe-5.smil/thumb.jpg?t=3214&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3434,
+      "title": "Birger vil ha barn",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa05101326/9691a9fe-5.smil/thumb.jpg?t=3460&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3599,
+      "title": "Overskrifter 07:30",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa05101326/9691a9fe-5.smil/thumb.jpg?t=3625&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3636,
+      "title": "Etterlikning av daglegvarer",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa05101326/9691a9fe-5.smil/thumb.jpg?t=3661&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3756,
+      "title": "Oppfyller ikkje Naturavtalen",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa05101326/9691a9fe-5.smil/thumb.jpg?t=3782&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3888,
+      "title": "Første kommunebesøk som konge",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa05101326/9691a9fe-5.smil/thumb.jpg?t=3914&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3954,
+      "title": "Bulgarske skip truffet av droner",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa05101326/9691a9fe-5.smil/thumb.jpg?t=3979&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3974,
+      "title": "Lukkede dører i prisjegersaken",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa05101326/9691a9fe-5.smil/thumb.jpg?t=4000&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4089,
+      "title": "Svartebørshaier utestenges",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa05101326/9691a9fe-5.smil/thumb.jpg?t=4114&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4201,
+      "title": "Åpning 07:40",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa05101326/9691a9fe-5.smil/thumb.jpg?t=4227&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4222,
+      "title": "Dropper Pyramiden og Barentsburg",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa05101326/9691a9fe-5.smil/thumb.jpg?t=4247&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4426,
+      "title": "Topper 07:44",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa05101326/9691a9fe-5.smil/thumb.jpg?t=4452&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5400,
+      "title": "NRK Nyheter 08:00",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa05101326/9691a9fe-5.smil/thumb.jpg?t=5426&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5580,
+      "title": "Åpning 08:03",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa05101326/9691a9fe-5.smil/thumb.jpg?t=5605&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5632,
+      "title": "Oppfyller ikkje Naturavtalen",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa05101326/9691a9fe-5.smil/thumb.jpg?t=5657&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5817,
+      "title": "Mindre urørt natur i Noreg",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa05101326/9691a9fe-5.smil/thumb.jpg?t=5842&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6002,
+      "title": "Vikings sjanser mot Bayern München",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa05101326/9691a9fe-5.smil/thumb.jpg?t=6027&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6294,
+      "title": "Overskrifter 08:15",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa05101326/9691a9fe-5.smil/thumb.jpg?t=6319&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6344,
+      "title": "Etterlikning av daglegvarer",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa05101326/9691a9fe-5.smil/thumb.jpg?t=6370&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6545,
+      "title": "Frist for Andersson i Sverige",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa05101326/9691a9fe-5.smil/thumb.jpg?t=6571&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6801,
+      "title": "Beskyldninger mot Netanyahu",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa05101326/9691a9fe-5.smil/thumb.jpg?t=6826&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6904,
+      "title": "Amerikansk dieselavtale med Russland",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa05101326/9691a9fe-5.smil/thumb.jpg?t=6930&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7141,
+      "title": "Overskrifter 08:30",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa05101326/9691a9fe-5.smil/thumb.jpg?t=7166&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7193,
+      "title": "Mer demens",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa05101326/9691a9fe-5.smil/thumb.jpg?t=7218&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7392,
+      "title": "Lukkede dører i prisjegersaken",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa05101326/9691a9fe-5.smil/thumb.jpg?t=7417&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7513,
+      "title": "Andre dag i prisjegersaken",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa05101326/9691a9fe-5.smil/thumb.jpg?t=7538&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7704,
+      "title": "Skip trefte av dronar i Svartehavet",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa05101326/9691a9fe-5.smil/thumb.jpg?t=7730&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7797,
+      "title": "Halvor (26) er avisteiknar i VG",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa05101326/9691a9fe-5.smil/thumb.jpg?t=7822&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8045,
+      "title": "Overskrifter 08:45",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa05101326/9691a9fe-5.smil/thumb.jpg?t=8071&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8104,
+      "title": "Politisk kvarter-debatt om månedskort",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa05101326/9691a9fe-5.smil/thumb.jpg?t=8129&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8280,
+      "title": "Anmeldelse: Oslo Negativ",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa05101326/9691a9fe-5.smil/thumb.jpg?t=8306&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8585,
+      "title": "Birger vil ha barn",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa05101326/9691a9fe-5.smil/thumb.jpg?t=8611&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8689,
+      "title": "Kongen i Narvik",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa05101326/9691a9fe-5.smil/thumb.jpg?t=8714&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8899,
+      "title": "Været i dag",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa05101326/9691a9fe-5.smil/thumb.jpg?t=8925&scale=640x360&v=high"
+    }
+  ]
+}
