@@ -1,0 +1,63 @@
+{
+  "version": "1.2.0",
+  "title": "Sjokkåpning mot Bayern",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa23101326/df6eefc8-7.smil/thumb.jpg?t=26&scale=640x360&v=high"
+    },
+    {
+      "startTime": 27,
+      "title": "Viking-Bayern",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa23101326/df6eefc8-7.smil/thumb.jpg?t=52&scale=640x360&v=high"
+    },
+    {
+      "startTime": 138,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa23101326/df6eefc8-7.smil/thumb.jpg?t=163&scale=640x360&v=high"
+    },
+    {
+      "startTime": 251,
+      "title": "Lederlønninger",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa23101326/df6eefc8-7.smil/thumb.jpg?t=277&scale=640x360&v=high"
+    },
+    {
+      "startTime": 381,
+      "title": "Pave Leo kreft",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa23101326/df6eefc8-7.smil/thumb.jpg?t=407&scale=640x360&v=high"
+    },
+    {
+      "startTime": 410,
+      "title": "Nordic Mining konkurstruet",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa23101326/df6eefc8-7.smil/thumb.jpg?t=436&scale=640x360&v=high"
+    },
+    {
+      "startTime": 514,
+      "title": "Rinnan serie",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa23101326/df6eefc8-7.smil/thumb.jpg?t=540&scale=640x360&v=high"
+    },
+    {
+      "startTime": 623,
+      "title": "Mesterligaen",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa23101326/df6eefc8-7.smil/thumb.jpg?t=649&scale=640x360&v=high"
+    },
+    {
+      "startTime": 685,
+      "title": "Norge-Romania",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa23101326/df6eefc8-7.smil/thumb.jpg?t=710&scale=640x360&v=high"
+    },
+    {
+      "startTime": 756,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa23101326/df6eefc8-7.smil/thumb.jpg?t=781&scale=640x360&v=high"
+    },
+    {
+      "startTime": 831,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa23101326/df6eefc8-7.smil/thumb.jpg?t=850.6&scale=640x360&v=high"
+    }
+  ]
+}
