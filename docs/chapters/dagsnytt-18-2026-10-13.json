@@ -1,0 +1,53 @@
+{
+  "version": "1.2.0",
+  "title": "Kinesiske biler overvåker",
+  "author": "NRK",
+  "podcastName": "Dagsnytt 18",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsnytt atten",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa56101326/fd9fb809-6.smil/thumb.jpg?t=25&scale=640x360&v=high"
+    },
+    {
+      "startTime": 69,
+      "title": "Lederlønninger statlige bedrifter",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa56101326/fd9fb809-6.smil/thumb.jpg?t=95&scale=640x360&v=high"
+    },
+    {
+      "startTime": 614,
+      "title": "Kinesiske biler overvåker",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa56101326/fd9fb809-6.smil/thumb.jpg?t=640&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1691,
+      "title": "Kamp for nærbutikkene",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa56101326/fd9fb809-6.smil/thumb.jpg?t=1716&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2075,
+      "title": "Houti-angrep i Saudi-Arabia",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa56101326/fd9fb809-6.smil/thumb.jpg?t=2100&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2562,
+      "title": "Patriotisk redaktør",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa56101326/fd9fb809-6.smil/thumb.jpg?t=2587&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3084,
+      "title": "Kjernekraftdebatt",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa56101326/fd9fb809-6.smil/thumb.jpg?t=3109&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3530,
+      "title": "AVSLUTNING",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa56101326/fd9fb809-6.smil/thumb.jpg?t=3542.84&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3533,
+      "title": "SLUTTKJENNING",
+      "img": "https://nrk-od-world-58.akamaized.net/open/ps/nnfa/nnfa56101326/fd9fb809-6.smil/thumb.jpg?t=3542.84&scale=640x360&v=high"
+    }
+  ]
+}
