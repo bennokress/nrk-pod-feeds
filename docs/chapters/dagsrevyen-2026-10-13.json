@@ -1,0 +1,143 @@
+{
+  "version": "1.2.0",
+  "title": "Rørt kong Haakon",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 9,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa19101326/b219e010-5.smil/thumb.jpg?t=35&scale=640x360&v=high"
+    },
+    {
+      "startTime": 64,
+      "title": "Kong Haakon",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa19101326/b219e010-5.smil/thumb.jpg?t=90&scale=640x360&v=high"
+    },
+    {
+      "startTime": 295,
+      "title": "Direkte Finnmark",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa19101326/b219e010-5.smil/thumb.jpg?t=320&scale=640x360&v=high"
+    },
+    {
+      "startTime": 358,
+      "title": "Kong Haakon",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa19101326/b219e010-5.smil/thumb.jpg?t=383&scale=640x360&v=high"
+    },
+    {
+      "startTime": 379,
+      "title": "Brønnøysund brann",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa19101326/b219e010-5.smil/thumb.jpg?t=405&scale=640x360&v=high"
+    },
+    {
+      "startTime": 473,
+      "title": "RS-sesong",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa19101326/b219e010-5.smil/thumb.jpg?t=498&scale=640x360&v=high"
+    },
+    {
+      "startTime": 628,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa19101326/b219e010-5.smil/thumb.jpg?t=654&scale=640x360&v=high"
+    },
+    {
+      "startTime": 746,
+      "title": "Skip angrepet",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa19101326/b219e010-5.smil/thumb.jpg?t=771&scale=640x360&v=high"
+    },
+    {
+      "startTime": 856,
+      "title": "Dronefrykt",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa19101326/b219e010-5.smil/thumb.jpg?t=881&scale=640x360&v=high"
+    },
+    {
+      "startTime": 986,
+      "title": "Opphever LHBTQ-lover",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa19101326/b219e010-5.smil/thumb.jpg?t=1011&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1105,
+      "title": "Gjest: Stephen Adom",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa19101326/b219e010-5.smil/thumb.jpg?t=1131&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1233,
+      "title": "Feil pasienttransport",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa19101326/b219e010-5.smil/thumb.jpg?t=1259&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1370,
+      "title": "Tiden",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa19101326/b219e010-5.smil/thumb.jpg?t=1395&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1462,
+      "title": "Gjest: Harald Hauglin",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa19101326/b219e010-5.smil/thumb.jpg?t=1488&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1597,
+      "title": "Barnløse Birger",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa19101326/b219e010-5.smil/thumb.jpg?t=1622&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1713,
+      "title": "Serie om Rinnan",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa19101326/b219e010-5.smil/thumb.jpg?t=1739&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1872,
+      "title": "Direkte Oslo",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa19101326/b219e010-5.smil/thumb.jpg?t=1897&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1995,
+      "title": "Mopedbil",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa19101326/b219e010-5.smil/thumb.jpg?t=2021&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2087,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa19101326/b219e010-5.smil/thumb.jpg?t=2112&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2093,
+      "title": "Viking-Bayern",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa19101326/b219e010-5.smil/thumb.jpg?t=2119&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2154,
+      "title": "Direkte: Stavanger",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa19101326/b219e010-5.smil/thumb.jpg?t=2179&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2220,
+      "title": "PK Bodø",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa19101326/b219e010-5.smil/thumb.jpg?t=2246&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2292,
+      "title": "Nor-Rom",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa19101326/b219e010-5.smil/thumb.jpg?t=2318&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2314,
+      "title": "Infantino",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa19101326/b219e010-5.smil/thumb.jpg?t=2339&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2342,
+      "title": "Narve",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa19101326/b219e010-5.smil/thumb.jpg?t=2367&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2407,
+      "title": "Trailer Debatten",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa19101326/b219e010-5.smil/thumb.jpg?t=2432&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2437,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa19101326/b219e010-5.smil/thumb.jpg?t=2462&scale=640x360&v=high"
+    }
+  ]
+}
