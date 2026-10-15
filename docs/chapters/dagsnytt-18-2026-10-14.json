@@ -1,0 +1,53 @@
+{
+  "version": "1.2.0",
+  "title": "Drapsoppdrag på Instagram",
+  "author": "NRK",
+  "podcastName": "Dagsnytt 18",
+  "chapters": [
+    {
+      "startTime": 15,
+      "title": "Dagsnytt atten",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa56101426/64e17f3e-5.smil/thumb.jpg?t=41&scale=640x360&v=high"
+    },
+    {
+      "startTime": 134,
+      "title": "LIS og partnervold",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa56101426/64e17f3e-5.smil/thumb.jpg?t=159&scale=640x360&v=high"
+    },
+    {
+      "startTime": 629,
+      "title": "Ukraina etterretning",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa56101426/64e17f3e-5.smil/thumb.jpg?t=655&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1136,
+      "title": "Færre fraværsdager på VGS",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa56101426/64e17f3e-5.smil/thumb.jpg?t=1161&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1645,
+      "title": "Drapsoppdrag på Instagram",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa56101426/64e17f3e-5.smil/thumb.jpg?t=1670&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2493,
+      "title": "Endrer støtten til Hvite busser",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa56101426/64e17f3e-5.smil/thumb.jpg?t=2519&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2989,
+      "title": "Stille fra Haaland om City",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa56101426/64e17f3e-5.smil/thumb.jpg?t=3015&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3523,
+      "title": "AVSLUTNING",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa56101426/64e17f3e-5.smil/thumb.jpg?t=3543.92&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3526,
+      "title": "SLUTTKJENNING",
+      "img": "https://nrk-od-world-83.akamaized.net/open/ps/nnfa/nnfa56101426/64e17f3e-5.smil/thumb.jpg?t=3543.92&scale=640x360&v=high"
+    }
+  ]
+}
