@@ -1,0 +1,53 @@
+{
+  "version": "1.2.0",
+  "title": "Ny Glimt bragd i mesterligaen",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Kveldsnytt",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa23101426/8b3a494b-7.smil/thumb.jpg?t=25&scale=640x360&v=high"
+    },
+    {
+      "startTime": 26,
+      "title": "Glimt-Dortmund",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa23101426/8b3a494b-7.smil/thumb.jpg?t=52&scale=640x360&v=high"
+    },
+    {
+      "startTime": 103,
+      "title": "Direkte Bodø",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa23101426/8b3a494b-7.smil/thumb.jpg?t=128&scale=640x360&v=high"
+    },
+    {
+      "startTime": 203,
+      "title": "Zelenskyj om Trump",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa23101426/8b3a494b-7.smil/thumb.jpg?t=228&scale=640x360&v=high"
+    },
+    {
+      "startTime": 319,
+      "title": "Pillay om ICC-sanksjoner",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa23101426/8b3a494b-7.smil/thumb.jpg?t=345&scale=640x360&v=high"
+    },
+    {
+      "startTime": 366,
+      "title": "Fravær går ned på Vgs",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa23101426/8b3a494b-7.smil/thumb.jpg?t=391&scale=640x360&v=high"
+    },
+    {
+      "startTime": 473,
+      "title": "Mesterliga",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa23101426/8b3a494b-7.smil/thumb.jpg?t=499&scale=640x360&v=high"
+    },
+    {
+      "startTime": 581,
+      "title": "Hockey",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa23101426/8b3a494b-7.smil/thumb.jpg?t=606&scale=640x360&v=high"
+    },
+    {
+      "startTime": 652,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa23101426/8b3a494b-7.smil/thumb.jpg?t=677&scale=640x360&v=high"
+    }
+  ]
+}
