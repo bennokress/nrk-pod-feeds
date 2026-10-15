@@ -1,0 +1,118 @@
+{
+  "version": "1.2.0",
+  "title": "Organiserte kriminalitet fra institusjon",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 8,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa19101426/bebb28ed-5.smil/thumb.jpg?t=34&scale=640x360&v=high"
+    },
+    {
+      "startTime": 66,
+      "title": "Foxtrot",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa19101426/bebb28ed-5.smil/thumb.jpg?t=92&scale=640x360&v=high"
+    },
+    {
+      "startTime": 224,
+      "title": "Statsråd Lene Vågsli",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa19101426/bebb28ed-5.smil/thumb.jpg?t=249&scale=640x360&v=high"
+    },
+    {
+      "startTime": 311,
+      "title": "Vold barn",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa19101426/bebb28ed-5.smil/thumb.jpg?t=337&scale=640x360&v=high"
+    },
+    {
+      "startTime": 428,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa19101426/bebb28ed-5.smil/thumb.jpg?t=453&scale=640x360&v=high"
+    },
+    {
+      "startTime": 495,
+      "title": "Kongen Finnmark",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa19101426/bebb28ed-5.smil/thumb.jpg?t=520&scale=640x360&v=high"
+    },
+    {
+      "startTime": 594,
+      "title": "Ukraina angrep",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa19101426/bebb28ed-5.smil/thumb.jpg?t=619&scale=640x360&v=high"
+    },
+    {
+      "startTime": 752,
+      "title": "Gjest Dalhaug",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa19101426/bebb28ed-5.smil/thumb.jpg?t=777&scale=640x360&v=high"
+    },
+    {
+      "startTime": 906,
+      "title": "Direkte Kyiv",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa19101426/bebb28ed-5.smil/thumb.jpg?t=932&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1011,
+      "title": "Direkte Brussel",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa19101426/bebb28ed-5.smil/thumb.jpg?t=1036&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1161,
+      "title": "Bedrageri mot Nato",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa19101426/bebb28ed-5.smil/thumb.jpg?t=1186&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1260,
+      "title": "Temu krav",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa19101426/bebb28ed-5.smil/thumb.jpg?t=1285&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1407,
+      "title": "Nord Stream",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa19101426/bebb28ed-5.smil/thumb.jpg?t=1432&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1541,
+      "title": "Utenriksnyheter",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa19101426/bebb28ed-5.smil/thumb.jpg?t=1567&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1639,
+      "title": "Skorgan",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa19101426/bebb28ed-5.smil/thumb.jpg?t=1664&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1759,
+      "title": "Gjest Skorgan",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa19101426/bebb28ed-5.smil/thumb.jpg?t=1784&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2128,
+      "title": "Tripic etter Bayern-møte",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa19101426/bebb28ed-5.smil/thumb.jpg?t=2153&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2218,
+      "title": "Glimt-Dortmund",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa19101426/bebb28ed-5.smil/thumb.jpg?t=2243&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2242,
+      "title": "Direkte: Bodø",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa19101426/bebb28ed-5.smil/thumb.jpg?t=2267&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2343,
+      "title": "Tennis: Shanghai",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa19101426/bebb28ed-5.smil/thumb.jpg?t=2368&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2366,
+      "title": "Nygift Warholm",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa19101426/bebb28ed-5.smil/thumb.jpg?t=2392&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2452,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa19101426/bebb28ed-5.smil/thumb.jpg?t=2477&scale=640x360&v=high"
+    }
+  ]
+}
