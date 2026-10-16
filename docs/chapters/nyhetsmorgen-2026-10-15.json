@@ -1,0 +1,303 @@
+{
+  "version": "1.2.0",
+  "title": "Foreslår ny oljefondsetikk",
+  "author": "NRK",
+  "podcastName": "Nyhetsmorgen",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Åpning 06:30",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa05101526/83aa47b7-6.smil/thumb.jpg?t=26&scale=640x360&v=high"
+    },
+    {
+      "startTime": 84,
+      "title": "Etikkutvalget om oljefondets investeringer",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa05101526/83aa47b7-6.smil/thumb.jpg?t=109&scale=640x360&v=high"
+    },
+    {
+      "startTime": 153,
+      "title": "Bekymret for USA-støtte til Ukraina",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa05101526/83aa47b7-6.smil/thumb.jpg?t=178&scale=640x360&v=high"
+    },
+    {
+      "startTime": 325,
+      "title": "Siste nytt",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa05101526/83aa47b7-6.smil/thumb.jpg?t=350&scale=640x360&v=high"
+    },
+    {
+      "startTime": 450,
+      "title": "Demonstrasjoner i Albania",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa05101526/83aa47b7-6.smil/thumb.jpg?t=476&scale=640x360&v=high"
+    },
+    {
+      "startTime": 539,
+      "title": "Utviklingsministeren",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa05101526/83aa47b7-6.smil/thumb.jpg?t=565&scale=640x360&v=high"
+    },
+    {
+      "startTime": 817,
+      "title": "Datainnbrudd Lørenskog: Ofre venter svar",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa05101526/83aa47b7-6.smil/thumb.jpg?t=842&scale=640x360&v=high"
+    },
+    {
+      "startTime": 952,
+      "title": "Overskrifter 06:45",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa05101526/83aa47b7-6.smil/thumb.jpg?t=977&scale=640x360&v=high"
+    },
+    {
+      "startTime": 999,
+      "title": "Advarer mot lootboksforbod",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa05101526/83aa47b7-6.smil/thumb.jpg?t=1024&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1172,
+      "title": "Krever svar om rekruttering til vold",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa05101526/83aa47b7-6.smil/thumb.jpg?t=1197&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1317,
+      "title": "Økning i KI-overgrepsmateriale",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa05101526/83aa47b7-6.smil/thumb.jpg?t=1342&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1549,
+      "title": "Bodø-Glimt med ny sterk seier",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa05101526/83aa47b7-6.smil/thumb.jpg?t=1574&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1635,
+      "title": "Stor norsk fotball",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa05101526/83aa47b7-6.smil/thumb.jpg?t=1660&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1797,
+      "title": "Åpning 07:00",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa05101526/83aa47b7-6.smil/thumb.jpg?t=1822&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1890,
+      "title": "Etikkutvalget om oljefondets investeringer",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa05101526/83aa47b7-6.smil/thumb.jpg?t=1916&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2063,
+      "title": "Nye anbefalinger for oljefondets etikkråd",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa05101526/83aa47b7-6.smil/thumb.jpg?t=2089&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2297,
+      "title": "EU-toppmøte i Brussel",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa05101526/83aa47b7-6.smil/thumb.jpg?t=2322&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2573,
+      "title": "Politisk kvarter: Førdefjorden",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa05101526/83aa47b7-6.smil/thumb.jpg?t=2599&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2619,
+      "title": "Lederflukt fra sykehus",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa05101526/83aa47b7-6.smil/thumb.jpg?t=2645&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2778,
+      "title": "Overskrifter 07:15",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa05101526/83aa47b7-6.smil/thumb.jpg?t=2804&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2831,
+      "title": "Ukraina sliter med Starlink",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa05101526/83aa47b7-6.smil/thumb.jpg?t=2857&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3092,
+      "title": "Stadig mer penger til spillselskaper",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa05101526/83aa47b7-6.smil/thumb.jpg?t=3118&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3294,
+      "title": "Israelske filmskapere frykter å reise hjem",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa05101526/83aa47b7-6.smil/thumb.jpg?t=3319&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3530,
+      "title": "Refleksdagen markeres i dag",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa05101526/83aa47b7-6.smil/thumb.jpg?t=3555&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3599,
+      "title": "Overskrifter 07:30",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa05101526/83aa47b7-6.smil/thumb.jpg?t=3625&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3627,
+      "title": "Etikkutvalget om oljefondets investeringer",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa05101526/83aa47b7-6.smil/thumb.jpg?t=3653&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3739,
+      "title": "Kommentar etikk og olje",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa05101526/83aa47b7-6.smil/thumb.jpg?t=3765&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3792,
+      "title": "Økning i KI-overgrepsmateriale",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa05101526/83aa47b7-6.smil/thumb.jpg?t=3817&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3911,
+      "title": "Lederflukt fra sykehus",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa05101526/83aa47b7-6.smil/thumb.jpg?t=3937&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3999,
+      "title": "Advarer mot lootboksforbud",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa05101526/83aa47b7-6.smil/thumb.jpg?t=4024&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4110,
+      "title": "Bodø-Glimt med ny Mesterliga-bragd",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa05101526/83aa47b7-6.smil/thumb.jpg?t=4135&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4199,
+      "title": "Åpning 07:40",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa05101526/83aa47b7-6.smil/thumb.jpg?t=4225&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4222,
+      "title": "Beredskap på sparebluss",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa05101526/83aa47b7-6.smil/thumb.jpg?t=4247&scale=640x360&v=high"
+    },
+    {
+      "startTime": 4451,
+      "title": "Topper 07:44",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa05101526/83aa47b7-6.smil/thumb.jpg?t=4477&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5404,
+      "title": "NRK Nyheter 08:00",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa05101526/83aa47b7-6.smil/thumb.jpg?t=5430&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5580,
+      "title": "Åpning 08:03",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa05101526/83aa47b7-6.smil/thumb.jpg?t=5605&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5633,
+      "title": "Etikkutvalget om oljefondets investeringer",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa05101526/83aa47b7-6.smil/thumb.jpg?t=5658&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5804,
+      "title": "Datainnbrudd Lørenskog: Ofre venter svar",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa05101526/83aa47b7-6.smil/thumb.jpg?t=5829&scale=640x360&v=high"
+    },
+    {
+      "startTime": 5940,
+      "title": "Nord Stream-rettssaken",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa05101526/83aa47b7-6.smil/thumb.jpg?t=5965&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6132,
+      "title": "Advarer mot lootboksforbod",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa05101526/83aa47b7-6.smil/thumb.jpg?t=6158&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6302,
+      "title": "Overskrifter 08:15",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa05101526/83aa47b7-6.smil/thumb.jpg?t=6328&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6342,
+      "title": "Hva vet du om vinterdekk?",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa05101526/83aa47b7-6.smil/thumb.jpg?t=6368&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6407,
+      "title": "Vinterdekka skal på: Dette må du vite",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa05101526/83aa47b7-6.smil/thumb.jpg?t=6433&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6675,
+      "title": "Lederflukt fra sykehus",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa05101526/83aa47b7-6.smil/thumb.jpg?t=6700&scale=640x360&v=high"
+    },
+    {
+      "startTime": 6836,
+      "title": "Rooney slutter å selge bøker i UK",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa05101526/83aa47b7-6.smil/thumb.jpg?t=6862&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7112,
+      "title": "Hør Ekko i NRK P2",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa05101526/83aa47b7-6.smil/thumb.jpg?t=7138&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7173,
+      "title": "Overskrifter 08:30",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa05101526/83aa47b7-6.smil/thumb.jpg?t=7198&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7241,
+      "title": "Økning i KI-overgrepsmateriale",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa05101526/83aa47b7-6.smil/thumb.jpg?t=7267&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7428,
+      "title": "Robot tafset på jente",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa05101526/83aa47b7-6.smil/thumb.jpg?t=7453&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7547,
+      "title": "Høring om barnevernet på Stortinget",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa05101526/83aa47b7-6.smil/thumb.jpg?t=7572&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7679,
+      "title": "Bekymret for USA-støtte til Ukraina",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa05101526/83aa47b7-6.smil/thumb.jpg?t=7704&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7820,
+      "title": "Ukraina sliter med Starlink",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa05101526/83aa47b7-6.smil/thumb.jpg?t=7845&scale=640x360&v=high"
+    },
+    {
+      "startTime": 7954,
+      "title": "Bodø-Glimt med ny sterk seier",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa05101526/83aa47b7-6.smil/thumb.jpg?t=7980&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8080,
+      "title": "Vil ha fotball-landslagene til Jæren",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa05101526/83aa47b7-6.smil/thumb.jpg?t=8105&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8273,
+      "title": "Overskrifter 08:45",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa05101526/83aa47b7-6.smil/thumb.jpg?t=8298&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8306,
+      "title": "Foreslåtte endringer for Etikkrådet",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa05101526/83aa47b7-6.smil/thumb.jpg?t=8332&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8452,
+      "title": "Israelske filmskapere frykter å reise hjem",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa05101526/83aa47b7-6.smil/thumb.jpg?t=8477&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8682,
+      "title": "Anmeldelse: «Pensjonskuppet»",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa05101526/83aa47b7-6.smil/thumb.jpg?t=8708&scale=640x360&v=high"
+    },
+    {
+      "startTime": 8899,
+      "title": "Været i dag",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa05101526/83aa47b7-6.smil/thumb.jpg?t=8925&scale=640x360&v=high"
+    }
+  ]
+}
