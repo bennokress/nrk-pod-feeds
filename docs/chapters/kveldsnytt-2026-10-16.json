@@ -1,0 +1,73 @@
+{
+  "version": "1.2.0",
+  "title": "-Ferdig!",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa23101626/eec85aa4-5.smil/thumb.jpg?t=25&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 28,
+      "title": "Trump presse",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa23101626/eec85aa4-5.smil/thumb.jpg?t=54&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 125,
+      "title": "Tannhelsereform",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa23101626/eec85aa4-5.smil/thumb.jpg?t=150&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 148,
+      "title": "Togstreik mekling",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa23101626/eec85aa4-5.smil/thumb.jpg?t=173&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 218,
+      "title": "Ny type flått",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa23101626/eec85aa4-5.smil/thumb.jpg?t=244&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 301,
+      "title": "Sammenstøt",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa23101626/eec85aa4-5.smil/thumb.jpg?t=326&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 317,
+      "title": "Klimarapport fra landbruket",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa23101626/eec85aa4-5.smil/thumb.jpg?t=342&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 405,
+      "title": "Sommelier-VM",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa23101626/eec85aa4-5.smil/thumb.jpg?t=431&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 437,
+      "title": "Bordtennis",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa23101626/eec85aa4-5.smil/thumb.jpg?t=462&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 519,
+      "title": "Toppserie",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa23101626/eec85aa4-5.smil/thumb.jpg?t=544&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 587,
+      "title": "Fotballpakke",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa23101626/eec85aa4-5.smil/thumb.jpg?t=612&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 667,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa23101626/eec85aa4-5.smil/thumb.jpg?t=692&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 734,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa23101626/eec85aa4-5.smil/thumb.jpg?t=752.55&scale=1920x1080&v=high"
+    }
+  ]
+}
