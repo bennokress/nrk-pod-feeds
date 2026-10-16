@@ -1,0 +1,143 @@
+{
+  "version": "1.2.0",
+  "title": "Bok skaper splid",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 10,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa19101526/91f410e4-5.smil/thumb.jpg?t=35&scale=640x360&v=high"
+    },
+    {
+      "startTime": 66,
+      "title": "Oljefondet",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa19101526/91f410e4-5.smil/thumb.jpg?t=91&scale=640x360&v=high"
+    },
+    {
+      "startTime": 210,
+      "title": "Gjest Nehru Sand",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa19101526/91f410e4-5.smil/thumb.jpg?t=235&scale=640x360&v=high"
+    },
+    {
+      "startTime": 308,
+      "title": "Trailer Debatten",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa19101526/91f410e4-5.smil/thumb.jpg?t=334&scale=640x360&v=high"
+    },
+    {
+      "startTime": 338,
+      "title": "Datainnbrudd Lørenskog",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa19101526/91f410e4-5.smil/thumb.jpg?t=363&scale=640x360&v=high"
+    },
+    {
+      "startTime": 466,
+      "title": "Utenriksnyheter",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa19101526/91f410e4-5.smil/thumb.jpg?t=492&scale=640x360&v=high"
+    },
+    {
+      "startTime": 576,
+      "title": "Dropper livestream",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa19101526/91f410e4-5.smil/thumb.jpg?t=601&scale=640x360&v=high"
+    },
+    {
+      "startTime": 607,
+      "title": "Direkte Washington",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa19101526/91f410e4-5.smil/thumb.jpg?t=633&scale=640x360&v=high"
+    },
+    {
+      "startTime": 713,
+      "title": "Svalbard",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa19101526/91f410e4-5.smil/thumb.jpg?t=738&scale=640x360&v=high"
+    },
+    {
+      "startTime": 906,
+      "title": "Direkte",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa19101526/91f410e4-5.smil/thumb.jpg?t=932&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1048,
+      "title": "Harry og Meghan",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa19101526/91f410e4-5.smil/thumb.jpg?t=1073&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1119,
+      "title": "Refleksbruk",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa19101526/91f410e4-5.smil/thumb.jpg?t=1145&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1211,
+      "title": "Eli Rygg død",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa19101526/91f410e4-5.smil/thumb.jpg?t=1237&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1339,
+      "title": "Naza film",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa19101526/91f410e4-5.smil/thumb.jpg?t=1364&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1366,
+      "title": "Direkte Beirut",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa19101526/91f410e4-5.smil/thumb.jpg?t=1391&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1431,
+      "title": "Naza film",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa19101526/91f410e4-5.smil/thumb.jpg?t=1457&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1614,
+      "title": "Fasting Torgersen",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa19101526/91f410e4-5.smil/thumb.jpg?t=1640&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1738,
+      "title": "Gjest Ravndal",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa19101526/91f410e4-5.smil/thumb.jpg?t=1764&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1912,
+      "title": "Norsk modell",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa19101526/91f410e4-5.smil/thumb.jpg?t=1937&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2061,
+      "title": "Lesekonkurranse",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa19101526/91f410e4-5.smil/thumb.jpg?t=2086&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2163,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa19101526/91f410e4-5.smil/thumb.jpg?t=2188&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2167,
+      "title": "Alpint",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa19101526/91f410e4-5.smil/thumb.jpg?t=2192&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2220,
+      "title": "Fifa",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa19101526/91f410e4-5.smil/thumb.jpg?t=2246&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2270,
+      "title": "Direkte Ekeland",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa19101526/91f410e4-5.smil/thumb.jpg?t=2296&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2359,
+      "title": "Europaliga",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa19101526/91f410e4-5.smil/thumb.jpg?t=2385&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2391,
+      "title": "Grøvdal",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa19101526/91f410e4-5.smil/thumb.jpg?t=2417&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2474,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa19101526/91f410e4-5.smil/thumb.jpg?t=2500&scale=640x360&v=high"
+    }
+  ]
+}
