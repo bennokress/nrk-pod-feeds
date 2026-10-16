@@ -1,0 +1,63 @@
+{
+  "version": "1.2.0",
+  "title": "Ny rapport om oljefondets etikk",
+  "author": "NRK",
+  "podcastName": "Dagsnytt 18",
+  "chapters": [
+    {
+      "startTime": 1,
+      "title": "Dagsnytt atten",
+      "img": "https://nrk-od-world-07.akamaized.net/open/ps/nnfa/nnfa56101526/f88e1403-5.smil/thumb.jpg?t=27&scale=640x360&v=high"
+    },
+    {
+      "startTime": 53,
+      "title": "Oljefondets etikkråd",
+      "img": "https://nrk-od-world-07.akamaized.net/open/ps/nnfa/nnfa56101526/f88e1403-5.smil/thumb.jpg?t=79&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1306,
+      "title": "Statsministeravstemning i Sverige",
+      "img": "https://nrk-od-world-07.akamaized.net/open/ps/nnfa/nnfa56101526/f88e1403-5.smil/thumb.jpg?t=1331&scale=640x360&v=high"
+    },
+    {
+      "startTime": 1561,
+      "title": "Vil kutte i kjønnsstudier",
+      "img": "https://nrk-od-world-07.akamaized.net/open/ps/nnfa/nnfa56101526/f88e1403-5.smil/thumb.jpg?t=1586&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2041,
+      "title": "Kommer senere",
+      "img": "https://nrk-od-world-07.akamaized.net/open/ps/nnfa/nnfa56101526/f88e1403-5.smil/thumb.jpg?t=2066&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2056,
+      "title": "Krangler om Ukraina-støtte",
+      "img": "https://nrk-od-world-07.akamaized.net/open/ps/nnfa/nnfa56101526/f88e1403-5.smil/thumb.jpg?t=2081&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2296,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-07.akamaized.net/open/ps/nnfa/nnfa56101526/f88e1403-5.smil/thumb.jpg?t=2322&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2311,
+      "title": "Uenighet om drapsdom",
+      "img": "https://nrk-od-world-07.akamaized.net/open/ps/nnfa/nnfa56101526/f88e1403-5.smil/thumb.jpg?t=2336&scale=640x360&v=high"
+    },
+    {
+      "startTime": 2916,
+      "title": "Formel 1 i Rwanda",
+      "img": "https://nrk-od-world-07.akamaized.net/open/ps/nnfa/nnfa56101526/f88e1403-5.smil/thumb.jpg?t=2942&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3519,
+      "title": "AVSLUTNING",
+      "img": "https://nrk-od-world-07.akamaized.net/open/ps/nnfa/nnfa56101526/f88e1403-5.smil/thumb.jpg?t=3543.68&scale=640x360&v=high"
+    },
+    {
+      "startTime": 3529,
+      "title": "SLUTTKJENNING",
+      "img": "https://nrk-od-world-07.akamaized.net/open/ps/nnfa/nnfa56101526/f88e1403-5.smil/thumb.jpg?t=3543.68&scale=640x360&v=high"
+    }
+  ]
+}
