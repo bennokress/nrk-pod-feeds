@@ -1,0 +1,73 @@
+{
+  "version": "1.2.0",
+  "title": "Europa protesterer",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa23101726/798f88f8-7.smil/thumb.jpg?t=26&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 34,
+      "title": "Protester Europa",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa23101726/798f88f8-7.smil/thumb.jpg?t=59&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 131,
+      "title": "USA valgkamp",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa23101726/798f88f8-7.smil/thumb.jpg?t=157&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 239,
+      "title": "Politiaksjon Bergen",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa23101726/798f88f8-7.smil/thumb.jpg?t=264&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 263,
+      "title": "Klankultur",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa23101726/798f88f8-7.smil/thumb.jpg?t=289&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 372,
+      "title": "Synkehull",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa23101726/798f88f8-7.smil/thumb.jpg?t=398&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 398,
+      "title": "Uvær sikring",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa23101726/798f88f8-7.smil/thumb.jpg?t=423&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 430,
+      "title": "Paven utskrevet",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa23101726/798f88f8-7.smil/thumb.jpg?t=455&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 468,
+      "title": "Eliteserien",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa23101726/798f88f8-7.smil/thumb.jpg?t=494&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 535,
+      "title": "Toppserien",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa23101726/798f88f8-7.smil/thumb.jpg?t=560&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 579,
+      "title": "HOCKEY",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa23101726/798f88f8-7.smil/thumb.jpg?t=604&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 660,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa23101726/798f88f8-7.smil/thumb.jpg?t=685&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 730,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-19.akamaized.net/open/ps/nnfa/nnfa23101726/798f88f8-7.smil/thumb.jpg?t=748.52&scale=1920x1080&v=high"
+    }
+  ]
+}
