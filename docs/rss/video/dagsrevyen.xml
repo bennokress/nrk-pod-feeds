@@ -8,18 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 17 Oct 2026 18:32:58 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 17:29:00 +0000</lastBuildDate>
     <pubDate>Sat, 17 Oct 2026 20:00:00 +0200</pubDate>
     <itunes:image href="https://bennokress.github.io/nrk-pod-feeds/assets/images/dagsrevyen-square.png" />
     <item>
-      <title>I dag</title>
-      <description>Siste nytt fra NRKs nyhetsredaksjon. NRK har ikke lov til å vise bilder fra Premier League utenfor Norge. Dette er derfor en redigert versjon for våre seere i utlandet.</description>
-      <guid isPermaLink="false">https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa20101726/9381ff82-5.smil/muxed.m3u8?adap=small&amp;s=0&amp;aco=aac</guid>
-      <enclosure url="https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa20101726/9381ff82-5.smil/muxed.m3u8?adap=small&amp;s=0&amp;aco=aac" length="0" type="application/vnd.apple.mpegurl" />
+      <title>Nye sammenstøt</title>
+      <description>Massive protester i Frankrike - ampert mellom demonstranter og politiet flere steder.</description>
+      <guid isPermaLink="false">https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa20101726/e7d39778-12.smil/muxed.m3u8?adap=small&amp;s=0&amp;aco=aac</guid>
+      <enclosure url="https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa20101726/e7d39778-12.smil/muxed.m3u8?adap=small&amp;s=0&amp;aco=aac" length="0" type="application/vnd.apple.mpegurl" />
       <itunes:duration>44:18</itunes:duration>
       <pubDate>Sat, 17 Oct 2026 20:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/7Ahuz9lfHimL8d35nrljnwOBe_5TtgBU1n2lf3FTnLxg" />
-    <podcast:alternateEnclosure type="application/x-mpegURL" length="0" default="true" title="HLS Video Stream"><podcast:source uri="https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa20101726/9381ff82-5.smil/muxed.m3u8?adap=small&amp;s=0&amp;aco=aac" /></podcast:alternateEnclosure><podcast:person role="host" href="https://www.nrk.no">NRK</podcast:person></item>
+      <itunes:image href="https://gfx.nrk.no/hvceoUP8D3uNL8h4xU2s-Qhkk-eMN8751ImkJQfhB4EQ" />
+    <podcast:alternateEnclosure type="application/x-mpegURL" length="0" default="true" title="HLS Video Stream"><podcast:source uri="https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa20101726/e7d39778-12.smil/muxed.m3u8?adap=small&amp;s=0&amp;aco=aac" /></podcast:alternateEnclosure><podcast:person role="host" href="https://www.nrk.no">NRK</podcast:person></item>
     <item>
       <title>Dømt til 20 års fengsel</title>
       <description>Den nå 19 år gamle rogalendingen fikk tøff straff for å ha tatt på seg drapsoppdrag i Storbritannia.</description>
