@@ -1,0 +1,48 @@
+{
+  "version": "1.2.0",
+  "title": "Ønsker seg penger fra EU",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-07.akamaized.net/open/ps/nnfa/nnfa21101526/240f7918-5.smil/thumb.jpg?t=26&scale=640x360&v=high"
+    },
+    {
+      "startTime": 31,
+      "title": "EU-toppmøte",
+      "img": "https://nrk-od-world-07.akamaized.net/open/ps/nnfa/nnfa21101526/240f7918-5.smil/thumb.jpg?t=57&scale=640x360&v=high"
+    },
+    {
+      "startTime": 60,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-07.akamaized.net/open/ps/nnfa/nnfa21101526/240f7918-5.smil/thumb.jpg?t=86&scale=640x360&v=high"
+    },
+    {
+      "startTime": 184,
+      "title": "Reax etikkråd",
+      "img": "https://nrk-od-world-07.akamaized.net/open/ps/nnfa/nnfa21101526/240f7918-5.smil/thumb.jpg?t=210&scale=640x360&v=high"
+    },
+    {
+      "startTime": 302,
+      "title": "DAGSREVYPAKKE",
+      "img": "https://nrk-od-world-07.akamaized.net/open/ps/nnfa/nnfa21101526/240f7918-5.smil/thumb.jpg?t=328&scale=640x360&v=high"
+    },
+    {
+      "startTime": 427,
+      "title": "Nettpromo",
+      "img": "https://nrk-od-world-07.akamaized.net/open/ps/nnfa/nnfa21101526/240f7918-5.smil/thumb.jpg?t=453&scale=640x360&v=high"
+    },
+    {
+      "startTime": 447,
+      "title": "EUROPALIGA",
+      "img": "https://nrk-od-world-07.akamaized.net/open/ps/nnfa/nnfa21101526/240f7918-5.smil/thumb.jpg?t=473&scale=640x360&v=high"
+    },
+    {
+      "startTime": 504,
+      "title": "Været",
+      "img": "https://nrk-od-world-07.akamaized.net/open/ps/nnfa/nnfa21101526/240f7918-5.smil/thumb.jpg?t=529&scale=640x360&v=high"
+    }
+  ]
+}
