@@ -1,0 +1,63 @@
+{
+  "version": "1.2.0",
+  "title": "Fastlåst i Frankrike",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa23101826/7f5bc3bf-5.smil/thumb.jpg?t=25&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 43,
+      "title": "Ødeleggelser Frankrike",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa23101826/7f5bc3bf-5.smil/thumb.jpg?t=69&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 145,
+      "title": "Zelenskyj og Trump",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa23101826/7f5bc3bf-5.smil/thumb.jpg?t=171&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 169,
+      "title": "Klankultur",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa23101826/7f5bc3bf-5.smil/thumb.jpg?t=195&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 275,
+      "title": "Ny AUF-leder",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa23101826/7f5bc3bf-5.smil/thumb.jpg?t=300&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 305,
+      "title": "Halliksiktet",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa23101826/7f5bc3bf-5.smil/thumb.jpg?t=331&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 410,
+      "title": "Eliteserien",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa23101826/7f5bc3bf-5.smil/thumb.jpg?t=436&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 534,
+      "title": "EM bordtennis",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa23101826/7f5bc3bf-5.smil/thumb.jpg?t=560&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 642,
+      "title": "TV-aksjonen",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa23101826/7f5bc3bf-5.smil/thumb.jpg?t=667&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 698,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa23101826/7f5bc3bf-5.smil/thumb.jpg?t=724&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 763,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-43.akamaized.net/open/ps/nnfa/nnfa23101826/7f5bc3bf-5.smil/thumb.jpg?t=781.52&scale=1920x1080&v=high"
+    }
+  ]
+}
