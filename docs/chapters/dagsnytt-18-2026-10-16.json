@@ -1,0 +1,48 @@
+{
+  "version": "1.2.0",
+  "title": "Foxtrot-rettssaker",
+  "author": "NRK",
+  "podcastName": "Dagsnytt 18",
+  "chapters": [
+    {
+      "startTime": 1,
+      "title": "Dagsnytt atten",
+      "img": "https://nrk-od-world-31.akamaized.net/open/ps/nnfa/nnfa56101626/f1fef6c4-6.smil/thumb.jpg?t=26&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 61,
+      "title": "Foxtrot-rettssaker",
+      "img": "https://nrk-od-world-31.akamaized.net/open/ps/nnfa/nnfa56101626/f1fef6c4-6.smil/thumb.jpg?t=87&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 812,
+      "title": "Fattigdom og avgifter",
+      "img": "https://nrk-od-world-31.akamaized.net/open/ps/nnfa/nnfa56101626/f1fef6c4-6.smil/thumb.jpg?t=838&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1367,
+      "title": "Vil ikke helbredes",
+      "img": "https://nrk-od-world-31.akamaized.net/open/ps/nnfa/nnfa56101626/f1fef6c4-6.smil/thumb.jpg?t=1393&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1915,
+      "title": "Ukraina og Trump",
+      "img": "https://nrk-od-world-31.akamaized.net/open/ps/nnfa/nnfa56101626/f1fef6c4-6.smil/thumb.jpg?t=1941&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2622,
+      "title": "Kritikk mot samtidskunst",
+      "img": "https://nrk-od-world-31.akamaized.net/open/ps/nnfa/nnfa56101626/f1fef6c4-6.smil/thumb.jpg?t=2648&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3081,
+      "title": "Vil ha norsk datalagringssky",
+      "img": "https://nrk-od-world-31.akamaized.net/open/ps/nnfa/nnfa56101626/f1fef6c4-6.smil/thumb.jpg?t=3107&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3530,
+      "title": "SLUTTKJENNING",
+      "img": "https://nrk-od-world-31.akamaized.net/open/ps/nnfa/nnfa56101626/f1fef6c4-6.smil/thumb.jpg?t=3543.8&scale=1920x1080&v=high"
+    }
+  ]
+}
