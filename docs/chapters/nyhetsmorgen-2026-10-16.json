@@ -1,0 +1,283 @@
+{
+  "version": "1.2.0",
+  "title": "Frykter KI-overvåking av samtaler",
+  "author": "NRK",
+  "podcastName": "Nyhetsmorgen",
+  "chapters": [
+    {
+      "startTime": 81,
+      "title": "Apple Watch overvåker",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa05101626/bac990b5-14.smil/thumb.jpg?t=107&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 191,
+      "title": "Opptak av samtaler – hva er lov?",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa05101626/bac990b5-14.smil/thumb.jpg?t=217&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 458,
+      "title": "Drapsforbund-dømt får straff i London",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa05101626/bac990b5-14.smil/thumb.jpg?t=484&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 516,
+      "title": "Siste nytt",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa05101626/bac990b5-14.smil/thumb.jpg?t=542&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 543,
+      "title": "Skoleskyting i Oregon, USA",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa05101626/bac990b5-14.smil/thumb.jpg?t=569&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 576,
+      "title": "Siste nytt",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa05101626/bac990b5-14.smil/thumb.jpg?t=601&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 605,
+      "title": "Skoleskyting i Oregon, USA",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa05101626/bac990b5-14.smil/thumb.jpg?t=631&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 733,
+      "title": "Fregatt til Svalbard",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa05101626/bac990b5-14.smil/thumb.jpg?t=758&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 867,
+      "title": "Overskrifter 06:45",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa05101626/bac990b5-14.smil/thumb.jpg?t=893&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 927,
+      "title": "Vil merke matvarer som sunne og usunne",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa05101626/bac990b5-14.smil/thumb.jpg?t=953&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1136,
+      "title": "Mener Nøkkelhull-merking holder",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa05101626/bac990b5-14.smil/thumb.jpg?t=1161&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1422,
+      "title": "Girls er tilbake",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa05101626/bac990b5-14.smil/thumb.jpg?t=1448&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1612,
+      "title": "Derfor husker vi sportsøyeblikk så godt",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa05101626/bac990b5-14.smil/thumb.jpg?t=1638&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1795,
+      "title": "Boktober - er i gang",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa05101626/bac990b5-14.smil/thumb.jpg?t=1821&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1817,
+      "title": "Åpning 07:00",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa05101626/bac990b5-14.smil/thumb.jpg?t=1843&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1907,
+      "title": "Drapsforbund-dømt får straff i London",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa05101626/bac990b5-14.smil/thumb.jpg?t=1933&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2030,
+      "title": "Norsk ungdom med tilknytning til Foxtrot",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa05101626/bac990b5-14.smil/thumb.jpg?t=2056&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2350,
+      "title": "Apple Watch overvåker",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa05101626/bac990b5-14.smil/thumb.jpg?t=2376&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2515,
+      "title": "Tvungen mekling i lokførerstreiken",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa05101626/bac990b5-14.smil/thumb.jpg?t=2541&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2662,
+      "title": "Før Politisk kvarter: Natur mot næring",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa05101626/bac990b5-14.smil/thumb.jpg?t=2688&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2703,
+      "title": "Overskrifter 07:15",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa05101626/bac990b5-14.smil/thumb.jpg?t=2728&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2750,
+      "title": "Uro rundt Trumps pressesekretær",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa05101626/bac990b5-14.smil/thumb.jpg?t=2776&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2906,
+      "title": "KI-uro på verdens børser",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa05101626/bac990b5-14.smil/thumb.jpg?t=2932&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3083,
+      "title": "Kina klarer seg godt i handelskrigen",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa05101626/bac990b5-14.smil/thumb.jpg?t=3108&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3412,
+      "title": "Protesterer mot kongekrabbekrav",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa05101626/bac990b5-14.smil/thumb.jpg?t=3438&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3615,
+      "title": "Overskrifter 07:30",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa05101626/bac990b5-14.smil/thumb.jpg?t=3641&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3647,
+      "title": "Apple Watch overvåker",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa05101626/bac990b5-14.smil/thumb.jpg?t=3672&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3742,
+      "title": "Drapsforbund-dømt får straff i London",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa05101626/bac990b5-14.smil/thumb.jpg?t=3768&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3848,
+      "title": "Norsk ungdom med tilknytning til Foxtrot",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa05101626/bac990b5-14.smil/thumb.jpg?t=3873&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3985,
+      "title": "Vil merke matvarer som sunne og usunne",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa05101626/bac990b5-14.smil/thumb.jpg?t=4010&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 4088,
+      "title": "NHO mener merking ikke trengs",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa05101626/bac990b5-14.smil/thumb.jpg?t=4114&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 4132,
+      "title": "Flåtteksperter roper varsko",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa05101626/bac990b5-14.smil/thumb.jpg?t=4157&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 4208,
+      "title": "Åpning 07:40",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa05101626/bac990b5-14.smil/thumb.jpg?t=4233&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 4221,
+      "title": "Folk tilbake Stenseth",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa05101626/bac990b5-14.smil/thumb.jpg?t=4246&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 4459,
+      "title": "Overgang til Politisk kvarter",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa05101626/bac990b5-14.smil/thumb.jpg?t=4484&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 5403,
+      "title": "NRK Nyheter 08:00",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa05101626/bac990b5-14.smil/thumb.jpg?t=5428&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 5580,
+      "title": "Åpning 08:03",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa05101626/bac990b5-14.smil/thumb.jpg?t=5606&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 5675,
+      "title": "Rettssak mot norsk 16-åring i Sverige",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa05101626/bac990b5-14.smil/thumb.jpg?t=5700&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 5912,
+      "title": "Vil merke matvarer som sunne og usunne",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa05101626/bac990b5-14.smil/thumb.jpg?t=5938&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 6071,
+      "title": "India har fengslet kakerlakk-ledere",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa05101626/bac990b5-14.smil/thumb.jpg?t=6097&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 6314,
+      "title": "Overskrifter 08:15",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa05101626/bac990b5-14.smil/thumb.jpg?t=6340&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 6353,
+      "title": "God behandling av hjerneslagpasienter",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa05101626/bac990b5-14.smil/thumb.jpg?t=6378&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 6563,
+      "title": "Fredagspanelet",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa05101626/bac990b5-14.smil/thumb.jpg?t=6588&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 7267,
+      "title": "Overskrifter 08:30",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa05101626/bac990b5-14.smil/thumb.jpg?t=7292&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 7307,
+      "title": "Apple Watch overvåker",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa05101626/bac990b5-14.smil/thumb.jpg?t=7332&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 7473,
+      "title": "Opptak av samtaler",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa05101626/bac990b5-14.smil/thumb.jpg?t=7499&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 7736,
+      "title": "I kulissene av Reform UK",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa05101626/bac990b5-14.smil/thumb.jpg?t=7761&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8180,
+      "title": "Tvungen mekling i lokførerstreiken",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa05101626/bac990b5-14.smil/thumb.jpg?t=8206&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8319,
+      "title": "Overskrifter 08:45",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa05101626/bac990b5-14.smil/thumb.jpg?t=8344&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8379,
+      "title": "Straff for nordmann i England",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa05101626/bac990b5-14.smil/thumb.jpg?t=8405&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8563,
+      "title": "Politisk kvarter om naturnedbygging",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa05101626/bac990b5-14.smil/thumb.jpg?t=8588&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8715,
+      "title": "Flåtteksperter roper varsko",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa05101626/bac990b5-14.smil/thumb.jpg?t=8741&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8834,
+      "title": "Følg Abels Tårn i P2",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa05101626/bac990b5-14.smil/thumb.jpg?t=8859&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8878,
+      "title": "GJEST Været i dag",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa05101626/bac990b5-14.smil/thumb.jpg?t=8903&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8998,
+      "title": "Avslutning",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa05101626/bac990b5-14.smil/thumb.jpg?t=9003.32&scale=1920x1080&v=high"
+    }
+  ]
+}
