@@ -1,0 +1,58 @@
+{
+  "version": "1.2.0",
+  "title": "Fordømmer volden",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-80.akamaized.net/open/ps/nnfa/nnfa21101826/841e85da-9.smil/thumb.jpg?t=26&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 27,
+      "title": "Macron tale",
+      "img": "https://nrk-od-world-80.akamaized.net/open/ps/nnfa/nnfa21101826/841e85da-9.smil/thumb.jpg?t=52&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 68,
+      "title": "Gjest:",
+      "img": "https://nrk-od-world-80.akamaized.net/open/ps/nnfa/nnfa21101826/841e85da-9.smil/thumb.jpg?t=94&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 190,
+      "title": "Dødsfall Åmli",
+      "img": "https://nrk-od-world-80.akamaized.net/open/ps/nnfa/nnfa21101826/841e85da-9.smil/thumb.jpg?t=215&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 208,
+      "title": "Siktet etter ran",
+      "img": "https://nrk-od-world-80.akamaized.net/open/ps/nnfa/nnfa21101826/841e85da-9.smil/thumb.jpg?t=234&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 224,
+      "title": "TV-aksjonen",
+      "img": "https://nrk-od-world-80.akamaized.net/open/ps/nnfa/nnfa21101826/841e85da-9.smil/thumb.jpg?t=249&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 317,
+      "title": "Bordtennis-EM",
+      "img": "https://nrk-od-world-80.akamaized.net/open/ps/nnfa/nnfa21101826/841e85da-9.smil/thumb.jpg?t=342&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 354,
+      "title": "Premier League",
+      "img": "https://nrk-od-world-80.akamaized.net/open/ps/nnfa/nnfa21101826/841e85da-9.smil/thumb.jpg?t=379&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 425,
+      "title": "Været",
+      "img": "https://nrk-od-world-80.akamaized.net/open/ps/nnfa/nnfa21101826/841e85da-9.smil/thumb.jpg?t=450&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 481,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-80.akamaized.net/open/ps/nnfa/nnfa21101826/841e85da-9.smil/thumb.jpg?t=502.56&scale=1920x1080&v=high"
+    }
+  ]
+}
