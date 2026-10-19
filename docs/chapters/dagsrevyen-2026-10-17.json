@@ -1,0 +1,108 @@
+{
+  "version": "1.2.0",
+  "title": "Nye sammenstøt",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa20101726/e7d39778-12.smil/thumb.jpg?t=25&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 55,
+      "title": "Trump letter sanksjoner",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa20101726/e7d39778-12.smil/thumb.jpg?t=80&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 159,
+      "title": "Direkte: Washington",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa20101726/e7d39778-12.smil/thumb.jpg?t=184&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 274,
+      "title": "Direkte: Kyiv",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa20101726/e7d39778-12.smil/thumb.jpg?t=300&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 378,
+      "title": "Listhaug om klankultur",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa20101726/e7d39778-12.smil/thumb.jpg?t=403&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 583,
+      "title": "Protester i Frankrike",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa20101726/e7d39778-12.smil/thumb.jpg?t=608&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 774,
+      "title": "Fengslet nordmann",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa20101726/e7d39778-12.smil/thumb.jpg?t=800&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 893,
+      "title": "Redningsaksjon Bodø",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa20101726/e7d39778-12.smil/thumb.jpg?t=919&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1004,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa20101726/e7d39778-12.smil/thumb.jpg?t=1029&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1062,
+      "title": "Togstreik over",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa20101726/e7d39778-12.smil/thumb.jpg?t=1087&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1216,
+      "title": "Ny AUF-leder",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa20101726/e7d39778-12.smil/thumb.jpg?t=1241&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1559,
+      "title": "Matvarekjedene dominerer",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa20101726/e7d39778-12.smil/thumb.jpg?t=1584&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1850,
+      "title": "Gir ikke opp",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa20101726/e7d39778-12.smil/thumb.jpg?t=1875&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2188,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa20101726/e7d39778-12.smil/thumb.jpg?t=2214&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2194,
+      "title": "Hytteplanmila",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa20101726/e7d39778-12.smil/thumb.jpg?t=2219&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2279,
+      "title": "Eliteserien",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa20101726/e7d39778-12.smil/thumb.jpg?t=2305&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2349,
+      "title": "Premier League",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa20101726/e7d39778-12.smil/thumb.jpg?t=2374&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2405,
+      "title": "Brent-LIv",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa20101726/e7d39778-12.smil/thumb.jpg?t=2431&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2433,
+      "title": "Bordtennis",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa20101726/e7d39778-12.smil/thumb.jpg?t=2459&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2484,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa20101726/e7d39778-12.smil/thumb.jpg?t=2510&scale=1920x1080&v=high"
+    }
+  ]
+}
