@@ -1,0 +1,148 @@
+{
+  "version": "1.2.0",
+  "title": "Alt er ødelagt",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-49.akamaized.net/open/ps/nnfa/nnfa20101826/87f2d370-16.smil/thumb.jpg?t=25&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 70,
+      "title": "Direkte: Paris",
+      "img": "https://nrk-od-world-49.akamaized.net/open/ps/nnfa/nnfa20101826/87f2d370-16.smil/thumb.jpg?t=96&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 113,
+      "title": "Frankrike",
+      "img": "https://nrk-od-world-49.akamaized.net/open/ps/nnfa/nnfa20101826/87f2d370-16.smil/thumb.jpg?t=139&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 207,
+      "title": "Nordmann i opptøyene",
+      "img": "https://nrk-od-world-49.akamaized.net/open/ps/nnfa/nnfa20101826/87f2d370-16.smil/thumb.jpg?t=233&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 280,
+      "title": "Direkte: Paris",
+      "img": "https://nrk-od-world-49.akamaized.net/open/ps/nnfa/nnfa20101826/87f2d370-16.smil/thumb.jpg?t=306&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 398,
+      "title": "Gjest: Sigurd F. Mikkelsen",
+      "img": "https://nrk-od-world-49.akamaized.net/open/ps/nnfa/nnfa20101826/87f2d370-16.smil/thumb.jpg?t=423&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 547,
+      "title": "Utenriksnyheter",
+      "img": "https://nrk-od-world-49.akamaized.net/open/ps/nnfa/nnfa20101826/87f2d370-16.smil/thumb.jpg?t=572&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 649,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-49.akamaized.net/open/ps/nnfa/nnfa20101826/87f2d370-16.smil/thumb.jpg?t=675&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 684,
+      "title": "Bosettervold",
+      "img": "https://nrk-od-world-49.akamaized.net/open/ps/nnfa/nnfa20101826/87f2d370-16.smil/thumb.jpg?t=710&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 740,
+      "title": "Direkte: Kairo",
+      "img": "https://nrk-od-world-49.akamaized.net/open/ps/nnfa/nnfa20101826/87f2d370-16.smil/thumb.jpg?t=766&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 870,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-49.akamaized.net/open/ps/nnfa/nnfa20101826/87f2d370-16.smil/thumb.jpg?t=895&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 934,
+      "title": "TV-aksjonen",
+      "img": "https://nrk-od-world-49.akamaized.net/open/ps/nnfa/nnfa20101826/87f2d370-16.smil/thumb.jpg?t=960&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1033,
+      "title": "Direkte: Leder for aksjonen",
+      "img": "https://nrk-od-world-49.akamaized.net/open/ps/nnfa/nnfa20101826/87f2d370-16.smil/thumb.jpg?t=1059&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1157,
+      "title": "Valgkamp Florida",
+      "img": "https://nrk-od-world-49.akamaized.net/open/ps/nnfa/nnfa20101826/87f2d370-16.smil/thumb.jpg?t=1183&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1496,
+      "title": "Direkte: Washington",
+      "img": "https://nrk-od-world-49.akamaized.net/open/ps/nnfa/nnfa20101826/87f2d370-16.smil/thumb.jpg?t=1521&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1623,
+      "title": "Valgkamp Michigan",
+      "img": "https://nrk-od-world-49.akamaized.net/open/ps/nnfa/nnfa20101826/87f2d370-16.smil/thumb.jpg?t=1648&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1874,
+      "title": "Moldova",
+      "img": "https://nrk-od-world-49.akamaized.net/open/ps/nnfa/nnfa20101826/87f2d370-16.smil/thumb.jpg?t=1899&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2121,
+      "title": "VIF-Brann",
+      "img": "https://nrk-od-world-49.akamaized.net/open/ps/nnfa/nnfa20101826/87f2d370-16.smil/thumb.jpg?t=2146&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2193,
+      "title": "Sarpsborg 08-RBK",
+      "img": "https://nrk-od-world-49.akamaized.net/open/ps/nnfa/nnfa20101826/87f2d370-16.smil/thumb.jpg?t=2219&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2240,
+      "title": "Sandefjord-LSK",
+      "img": "https://nrk-od-world-49.akamaized.net/open/ps/nnfa/nnfa20101826/87f2d370-16.smil/thumb.jpg?t=2265&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2265,
+      "title": "Molde-Start",
+      "img": "https://nrk-od-world-49.akamaized.net/open/ps/nnfa/nnfa20101826/87f2d370-16.smil/thumb.jpg?t=2290&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2303,
+      "title": "Lyn overfall",
+      "img": "https://nrk-od-world-49.akamaized.net/open/ps/nnfa/nnfa20101826/87f2d370-16.smil/thumb.jpg?t=2328&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2484,
+      "title": "Premier League",
+      "img": "https://nrk-od-world-49.akamaized.net/open/ps/nnfa/nnfa20101826/87f2d370-16.smil/thumb.jpg?t=2509&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2549,
+      "title": "VM turn",
+      "img": "https://nrk-od-world-49.akamaized.net/open/ps/nnfa/nnfa20101826/87f2d370-16.smil/thumb.jpg?t=2574&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2566,
+      "title": "Sommerskiskyting",
+      "img": "https://nrk-od-world-49.akamaized.net/open/ps/nnfa/nnfa20101826/87f2d370-16.smil/thumb.jpg?t=2592&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2594,
+      "title": "Minnebenk for Bakken",
+      "img": "https://nrk-od-world-49.akamaized.net/open/ps/nnfa/nnfa20101826/87f2d370-16.smil/thumb.jpg?t=2619&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2708,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-49.akamaized.net/open/ps/nnfa/nnfa20101826/87f2d370-16.smil/thumb.jpg?t=2734&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2877,
+      "title": "Direkte: Paris",
+      "img": "https://nrk-od-world-49.akamaized.net/open/ps/nnfa/nnfa20101826/87f2d370-16.smil/thumb.jpg?t=2902&scale=1920x1080&v=high"
+    }
+  ]
+}
