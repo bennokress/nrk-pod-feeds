@@ -1,0 +1,63 @@
+{
+  "version": "1.2.0",
+  "title": "Ukrainia samtaler i Oslo",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa21102026/b91df732-7.smil/thumb.jpg?t=26&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 25,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa21102026/b91df732-7.smil/thumb.jpg?t=51&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 85,
+      "title": "Ukraina møte",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa21102026/b91df732-7.smil/thumb.jpg?t=111&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 182,
+      "title": "Lavrov",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa21102026/b91df732-7.smil/thumb.jpg?t=207&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 205,
+      "title": "Gjest:",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa21102026/b91df732-7.smil/thumb.jpg?t=230&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 293,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa21102026/b91df732-7.smil/thumb.jpg?t=319&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 420,
+      "title": "Trump",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa21102026/b91df732-7.smil/thumb.jpg?t=445&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 455,
+      "title": "EU Arktis",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa21102026/b91df732-7.smil/thumb.jpg?t=481&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 488,
+      "title": "Billig Euro",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa21102026/b91df732-7.smil/thumb.jpg?t=514&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 515,
+      "title": "Været",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa21102026/b91df732-7.smil/thumb.jpg?t=540&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 564,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa21102026/b91df732-7.smil/thumb.jpg?t=587.6&scale=1920x1080&v=high"
+    }
+  ]
+}
