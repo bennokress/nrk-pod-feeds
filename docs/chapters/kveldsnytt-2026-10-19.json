@@ -1,0 +1,68 @@
+{
+  "version": "1.2.0",
+  "title": "Forhandlinger i Norge?",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-67.akamaized.net/open/ps/nnfa/nnfa23101926/b333d20a-5.smil/thumb.jpg?t=25&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 34,
+      "title": "Zelenskyj",
+      "img": "https://nrk-od-world-67.akamaized.net/open/ps/nnfa/nnfa23101926/b333d20a-5.smil/thumb.jpg?t=59&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 92,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-67.akamaized.net/open/ps/nnfa/nnfa23101926/b333d20a-5.smil/thumb.jpg?t=118&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 245,
+      "title": "Trump",
+      "img": "https://nrk-od-world-67.akamaized.net/open/ps/nnfa/nnfa23101926/b333d20a-5.smil/thumb.jpg?t=271&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 282,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-67.akamaized.net/open/ps/nnfa/nnfa23101926/b333d20a-5.smil/thumb.jpg?t=308&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 416,
+      "title": "Uro i Frankrike",
+      "img": "https://nrk-od-world-67.akamaized.net/open/ps/nnfa/nnfa23101926/b333d20a-5.smil/thumb.jpg?t=441&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 498,
+      "title": "Hydro aluminium",
+      "img": "https://nrk-od-world-67.akamaized.net/open/ps/nnfa/nnfa23101926/b333d20a-5.smil/thumb.jpg?t=523&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 613,
+      "title": "Tottenham - Coventry",
+      "img": "https://nrk-od-world-67.akamaized.net/open/ps/nnfa/nnfa23101926/b333d20a-5.smil/thumb.jpg?t=639&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 684,
+      "title": "Ronaldo bot",
+      "img": "https://nrk-od-world-67.akamaized.net/open/ps/nnfa/nnfa23101926/b333d20a-5.smil/thumb.jpg?t=710&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 709,
+      "title": "Nygård NHL",
+      "img": "https://nrk-od-world-67.akamaized.net/open/ps/nnfa/nnfa23101926/b333d20a-5.smil/thumb.jpg?t=735&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 779,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-67.akamaized.net/open/ps/nnfa/nnfa23101926/b333d20a-5.smil/thumb.jpg?t=804&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 842,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-67.akamaized.net/open/ps/nnfa/nnfa23101926/b333d20a-5.smil/thumb.jpg?t=860.6&scale=1920x1080&v=high"
+    }
+  ]
+}
