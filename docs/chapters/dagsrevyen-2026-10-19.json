@@ -1,0 +1,133 @@
+{
+  "version": "1.2.0",
+  "title": "Vil hindre folk i å gå ut",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 7,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-41.akamaized.net/open/ps/nnfa/nnfa19101926/58a047df-9.smil/thumb.jpg?t=33&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 53,
+      "title": "Plyndring og hærverk",
+      "img": "https://nrk-od-world-41.akamaized.net/open/ps/nnfa/nnfa19101926/58a047df-9.smil/thumb.jpg?t=78&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 169,
+      "title": "Direkte: Paris",
+      "img": "https://nrk-od-world-41.akamaized.net/open/ps/nnfa/nnfa19101926/58a047df-9.smil/thumb.jpg?t=195&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 255,
+      "title": "Gjest: Kjerstin Aukrust",
+      "img": "https://nrk-od-world-41.akamaized.net/open/ps/nnfa/nnfa19101926/58a047df-9.smil/thumb.jpg?t=280&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 400,
+      "title": "Aldersgrense SoMe",
+      "img": "https://nrk-od-world-41.akamaized.net/open/ps/nnfa/nnfa19101926/58a047df-9.smil/thumb.jpg?t=425&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 543,
+      "title": "Spillavhengighet",
+      "img": "https://nrk-od-world-41.akamaized.net/open/ps/nnfa/nnfa19101926/58a047df-9.smil/thumb.jpg?t=568&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 670,
+      "title": "Prinsessen audiens",
+      "img": "https://nrk-od-world-41.akamaized.net/open/ps/nnfa/nnfa19101926/58a047df-9.smil/thumb.jpg?t=696&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 689,
+      "title": "Tannhelsereform",
+      "img": "https://nrk-od-world-41.akamaized.net/open/ps/nnfa/nnfa19101926/58a047df-9.smil/thumb.jpg?t=715&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 812,
+      "title": "Direkte: Tromsø",
+      "img": "https://nrk-od-world-41.akamaized.net/open/ps/nnfa/nnfa19101926/58a047df-9.smil/thumb.jpg?t=837&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 920,
+      "title": "Uvær i nord",
+      "img": "https://nrk-od-world-41.akamaized.net/open/ps/nnfa/nnfa19101926/58a047df-9.smil/thumb.jpg?t=945&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1013,
+      "title": "Får færre hjelpemidler",
+      "img": "https://nrk-od-world-41.akamaized.net/open/ps/nnfa/nnfa19101926/58a047df-9.smil/thumb.jpg?t=1039&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1143,
+      "title": "Krigen i Ukraina",
+      "img": "https://nrk-od-world-41.akamaized.net/open/ps/nnfa/nnfa19101926/58a047df-9.smil/thumb.jpg?t=1169&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1266,
+      "title": "Gjest: Gro Holm",
+      "img": "https://nrk-od-world-41.akamaized.net/open/ps/nnfa/nnfa19101926/58a047df-9.smil/thumb.jpg?t=1292&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1391,
+      "title": "Utenriksnyheter",
+      "img": "https://nrk-od-world-41.akamaized.net/open/ps/nnfa/nnfa19101926/58a047df-9.smil/thumb.jpg?t=1416&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1529,
+      "title": "Rusmisbrukeres helse",
+      "img": "https://nrk-od-world-41.akamaized.net/open/ps/nnfa/nnfa19101926/58a047df-9.smil/thumb.jpg?t=1554&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1665,
+      "title": "Vinkelner-VM",
+      "img": "https://nrk-od-world-41.akamaized.net/open/ps/nnfa/nnfa19101926/58a047df-9.smil/thumb.jpg?t=1690&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1695,
+      "title": "Gjest: Nikolai Haram Svorte",
+      "img": "https://nrk-od-world-41.akamaized.net/open/ps/nnfa/nnfa19101926/58a047df-9.smil/thumb.jpg?t=1721&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1993,
+      "title": "Kulturnyheter",
+      "img": "https://nrk-od-world-41.akamaized.net/open/ps/nnfa/nnfa19101926/58a047df-9.smil/thumb.jpg?t=2018&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2098,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-41.akamaized.net/open/ps/nnfa/nnfa19101926/58a047df-9.smil/thumb.jpg?t=2123&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2103,
+      "title": "Glimt før Napoli",
+      "img": "https://nrk-od-world-41.akamaized.net/open/ps/nnfa/nnfa19101926/58a047df-9.smil/thumb.jpg?t=2129&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2179,
+      "title": "Direkte Napoli",
+      "img": "https://nrk-od-world-41.akamaized.net/open/ps/nnfa/nnfa19101926/58a047df-9.smil/thumb.jpg?t=2204&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2253,
+      "title": "Milliardær kjøpte tromme",
+      "img": "https://nrk-od-world-41.akamaized.net/open/ps/nnfa/nnfa19101926/58a047df-9.smil/thumb.jpg?t=2279&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2271,
+      "title": "Narvik må avlyse",
+      "img": "https://nrk-od-world-41.akamaized.net/open/ps/nnfa/nnfa19101926/58a047df-9.smil/thumb.jpg?t=2297&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2344,
+      "title": "Uttak hockey",
+      "img": "https://nrk-od-world-41.akamaized.net/open/ps/nnfa/nnfa19101926/58a047df-9.smil/thumb.jpg?t=2369&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2419,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-41.akamaized.net/open/ps/nnfa/nnfa19101926/58a047df-9.smil/thumb.jpg?t=2445&scale=1920x1080&v=high"
+    }
+  ]
+}
