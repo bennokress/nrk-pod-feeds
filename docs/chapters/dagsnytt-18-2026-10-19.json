@@ -1,0 +1,53 @@
+{
+  "version": "1.2.0",
+  "title": "Opptøyer i Frankrike",
+  "author": "NRK",
+  "podcastName": "Dagsnytt 18",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsnytt atten",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa56101926/fa18776c-5.smil/thumb.jpg?t=25&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 47,
+      "title": "Opptøyer i Frankrike",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa56101926/fa18776c-5.smil/thumb.jpg?t=73&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 810,
+      "title": "Doble bompenger for fossilbiler",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa56101926/fa18776c-5.smil/thumb.jpg?t=836&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1311,
+      "title": "Ordkrig mellom Zelenskyj og Trump",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa56101926/fa18776c-5.smil/thumb.jpg?t=1336&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2004,
+      "title": "Regningen for Oslofjorden",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa56101926/fa18776c-5.smil/thumb.jpg?t=2029&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2520,
+      "title": "- Mer hjelp til brudd enn kjærlighet",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa56101926/fa18776c-5.smil/thumb.jpg?t=2546&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3040,
+      "title": "KI og Baldisholteppet",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa56101926/fa18776c-5.smil/thumb.jpg?t=3066&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3514,
+      "title": "AVSLUTNING",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa56101926/fa18776c-5.smil/thumb.jpg?t=3539&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3528,
+      "title": "SLUTTKJENNING",
+      "img": "https://nrk-od-world-04.akamaized.net/open/ps/nnfa/nnfa56101926/fa18776c-5.smil/thumb.jpg?t=3542.84&scale=1920x1080&v=high"
+    }
+  ]
+}
