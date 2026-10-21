@@ -1,0 +1,93 @@
+{
+  "version": "1.2.0",
+  "title": "Møtes i Oslo",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 7,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa19102026/9ffc4fa2-5.smil/thumb.jpg?t=33&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 67,
+      "title": "Direkte: Oslo",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa19102026/9ffc4fa2-5.smil/thumb.jpg?t=93&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 100,
+      "title": "Aktørene",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa19102026/9ffc4fa2-5.smil/thumb.jpg?t=125&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 141,
+      "title": "Direkte: Pressekonferanse",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa19102026/9ffc4fa2-5.smil/thumb.jpg?t=166&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1509,
+      "title": "Gjest: Sigurd F. Mikkelsen",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa19102026/9ffc4fa2-5.smil/thumb.jpg?t=1534&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1670,
+      "title": "Direkte: Kyiv",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa19102026/9ffc4fa2-5.smil/thumb.jpg?t=1696&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1788,
+      "title": "Direkte: Kansas",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa19102026/9ffc4fa2-5.smil/thumb.jpg?t=1814&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1927,
+      "title": "Ukraina-samtaler",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa19102026/9ffc4fa2-5.smil/thumb.jpg?t=1952&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2042,
+      "title": "USA-Ukraina",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa19102026/9ffc4fa2-5.smil/thumb.jpg?t=2067&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2198,
+      "title": "Direkte: Moskva",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa19102026/9ffc4fa2-5.smil/thumb.jpg?t=2224&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2366,
+      "title": "Direkte fra Paris",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa19102026/9ffc4fa2-5.smil/thumb.jpg?t=2391&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2438,
+      "title": "Gjest: Gro Holm og Kåre Aas",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa19102026/9ffc4fa2-5.smil/thumb.jpg?t=2464&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2902,
+      "title": "Direkte: Kansas",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa19102026/9ffc4fa2-5.smil/thumb.jpg?t=2928&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3035,
+      "title": "Trailer Debatten",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa19102026/9ffc4fa2-5.smil/thumb.jpg?t=3060&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3089,
+      "title": "Nordisk Råds priser",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa19102026/9ffc4fa2-5.smil/thumb.jpg?t=3114&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3238,
+      "title": "Direkte Napoli",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa19102026/9ffc4fa2-5.smil/thumb.jpg?t=3263&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3339,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa19102026/9ffc4fa2-5.smil/thumb.jpg?t=3365&scale=1920x1080&v=high"
+    }
+  ]
+}
