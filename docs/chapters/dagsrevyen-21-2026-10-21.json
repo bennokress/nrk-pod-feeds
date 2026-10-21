@@ -1,0 +1,58 @@
+{
+  "version": "1.2.0",
+  "title": "Går mot snarlig møte",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa21102126/1da4da2a-7.smil/thumb.jpg?t=25&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 31,
+      "title": "Ukriana-samtaler",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa21102126/1da4da2a-7.smil/thumb.jpg?t=56&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 83,
+      "title": "Witkoff i Russland",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa21102126/1da4da2a-7.smil/thumb.jpg?t=109&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 200,
+      "title": "Nettpromo",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa21102126/1da4da2a-7.smil/thumb.jpg?t=225&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 215,
+      "title": "Partimåling",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa21102126/1da4da2a-7.smil/thumb.jpg?t=241&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 228,
+      "title": "Rettssak Strømmen",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa21102126/1da4da2a-7.smil/thumb.jpg?t=254&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 336,
+      "title": "Utenriksnyheter",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa21102126/1da4da2a-7.smil/thumb.jpg?t=361&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 448,
+      "title": "Mesterligaen",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa21102126/1da4da2a-7.smil/thumb.jpg?t=473&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 548,
+      "title": "Været",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa21102126/1da4da2a-7.smil/thumb.jpg?t=574&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 603,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa21102126/1da4da2a-7.smil/thumb.jpg?t=628&scale=1920x1080&v=high"
+    }
+  ]
+}
