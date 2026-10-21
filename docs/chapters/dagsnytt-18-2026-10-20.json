@@ -1,0 +1,48 @@
+{
+  "version": "1.2.0",
+  "title": "Ukraina-samtaler i Norge",
+  "author": "NRK",
+  "podcastName": "Dagsnytt 18",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsnytt atten",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa56102026/547928cd-5.smil/thumb.jpg?t=25&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 49,
+      "title": "Ukraina-samtaler i Norge",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa56102026/547928cd-5.smil/thumb.jpg?t=74&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1563,
+      "title": "Ukraina og USA",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa56102026/547928cd-5.smil/thumb.jpg?t=1589&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2070,
+      "title": "Ukraina og Europa",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa56102026/547928cd-5.smil/thumb.jpg?t=2096&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2645,
+      "title": "Ukraina og krigens gang",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa56102026/547928cd-5.smil/thumb.jpg?t=2671&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3276,
+      "title": "Snart pressekonferanse",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa56102026/547928cd-5.smil/thumb.jpg?t=3301&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3517,
+      "title": "AVSLUTNING",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa56102026/547928cd-5.smil/thumb.jpg?t=3543&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3527,
+      "title": "SLUTTKJENNING",
+      "img": "https://nrk-od-world-28.akamaized.net/open/ps/nnfa/nnfa56102026/547928cd-5.smil/thumb.jpg?t=3543.84&scale=1920x1080&v=high"
+    }
+  ]
+}
