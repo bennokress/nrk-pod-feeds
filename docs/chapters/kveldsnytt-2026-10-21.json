@@ -1,0 +1,63 @@
+{
+  "version": "1.2.0",
+  "title": "Tøft mot Villa",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 1,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa23102126/bc63f75b-5.smil/thumb.jpg?t=27&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 36,
+      "title": "Ukraina-samtaler",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa23102126/bc63f75b-5.smil/thumb.jpg?t=61&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 145,
+      "title": "Partimåling",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa23102126/bc63f75b-5.smil/thumb.jpg?t=171&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 230,
+      "title": "Bodø narkotika",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa23102126/bc63f75b-5.smil/thumb.jpg?t=255&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 341,
+      "title": "Innenriksnyheter",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa23102126/bc63f75b-5.smil/thumb.jpg?t=367&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 445,
+      "title": "Pave Leo",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa23102126/bc63f75b-5.smil/thumb.jpg?t=470&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 511,
+      "title": "Ane Brun kommer med nytt album",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa23102126/bc63f75b-5.smil/thumb.jpg?t=536&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 617,
+      "title": "Villa-Viking",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa23102126/bc63f75b-5.smil/thumb.jpg?t=642&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 724,
+      "title": "Mesterliga",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa23102126/bc63f75b-5.smil/thumb.jpg?t=749&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 880,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa23102126/bc63f75b-5.smil/thumb.jpg?t=905&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 941,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-16.akamaized.net/open/ps/nnfa/nnfa23102126/bc63f75b-5.smil/thumb.jpg?t=967&scale=1920x1080&v=high"
+    }
+  ]
+}
