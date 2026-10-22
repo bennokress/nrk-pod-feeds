@@ -1,0 +1,123 @@
+{
+  "version": "1.2.0",
+  "title": "Orienterte Støre",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 9,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa19102126/a654f91f-7.smil/thumb.jpg?t=34&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 71,
+      "title": "Støre og Witkoff",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa19102126/a654f91f-7.smil/thumb.jpg?t=97&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 115,
+      "title": "Gjest: Støre",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa19102126/a654f91f-7.smil/thumb.jpg?t=140&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 374,
+      "title": "Direkte Moskva",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa19102126/a654f91f-7.smil/thumb.jpg?t=400&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 490,
+      "title": "Gjest: Falkenberg Mikkelsen",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa19102126/a654f91f-7.smil/thumb.jpg?t=516&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 648,
+      "title": "Zelenskyj på Stortinget",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa19102126/a654f91f-7.smil/thumb.jpg?t=673&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 755,
+      "title": "Fersk meningsmåling",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa19102126/a654f91f-7.smil/thumb.jpg?t=780&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 821,
+      "title": "Gjest om meningsmåling",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa19102126/a654f91f-7.smil/thumb.jpg?t=846&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1061,
+      "title": "Fersk meningsmåling",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa19102126/a654f91f-7.smil/thumb.jpg?t=1087&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1188,
+      "title": "Gjest: Nyhus",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa19102126/a654f91f-7.smil/thumb.jpg?t=1213&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1314,
+      "title": "Granatangrep Strømmen",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa19102126/a654f91f-7.smil/thumb.jpg?t=1339&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1361,
+      "title": "KI-satsing",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa19102126/a654f91f-7.smil/thumb.jpg?t=1387&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1518,
+      "title": "Arktis",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa19102126/a654f91f-7.smil/thumb.jpg?t=1543&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1680,
+      "title": "Willoch-bok",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa19102126/a654f91f-7.smil/thumb.jpg?t=1705&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1886,
+      "title": "Stevie Wonder og norsk mote",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa19102126/a654f91f-7.smil/thumb.jpg?t=1911&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2009,
+      "title": "Gymlærer Jæger",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa19102126/a654f91f-7.smil/thumb.jpg?t=2034&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2115,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa19102126/a654f91f-7.smil/thumb.jpg?t=2140&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2123,
+      "title": "Sverige",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa19102126/a654f91f-7.smil/thumb.jpg?t=2148&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2212,
+      "title": "Viking-Villa",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa19102126/a654f91f-7.smil/thumb.jpg?t=2238&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2234,
+      "title": "Direkte: Birmingham",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa19102126/a654f91f-7.smil/thumb.jpg?t=2259&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2298,
+      "title": "Fotball",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa19102126/a654f91f-7.smil/thumb.jpg?t=2324&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2384,
+      "title": "Youtube-mål i cupkamp",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa19102126/a654f91f-7.smil/thumb.jpg?t=2410&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2455,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa19102126/a654f91f-7.smil/thumb.jpg?t=2480&scale=1920x1080&v=high"
+    }
+  ]
+}
