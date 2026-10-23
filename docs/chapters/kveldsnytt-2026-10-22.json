@@ -1,0 +1,63 @@
+{
+  "version": "1.2.0",
+  "title": "Advarer mot kjøp av norske missiler",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-40.akamaized.net/open/ps/nnfa/nnfa23102226/9b540777-5.smil/thumb.jpg?t=25&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 35,
+      "title": "Danmark raketter",
+      "img": "https://nrk-od-world-40.akamaized.net/open/ps/nnfa/nnfa23102226/9b540777-5.smil/thumb.jpg?t=60&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 123,
+      "title": "Uro Europa",
+      "img": "https://nrk-od-world-40.akamaized.net/open/ps/nnfa/nnfa23102226/9b540777-5.smil/thumb.jpg?t=148&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 217,
+      "title": "Børsfall USA",
+      "img": "https://nrk-od-world-40.akamaized.net/open/ps/nnfa/nnfa23102226/9b540777-5.smil/thumb.jpg?t=242&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 242,
+      "title": "Kong Haakon inviterte til sin første stortingsmiddag som konge",
+      "img": "https://nrk-od-world-40.akamaized.net/open/ps/nnfa/nnfa23102226/9b540777-5.smil/thumb.jpg?t=268&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 470,
+      "title": "Tobias Birkeland Hovet vant Ibelinprisen",
+      "img": "https://nrk-od-world-40.akamaized.net/open/ps/nnfa/nnfa23102226/9b540777-5.smil/thumb.jpg?t=496&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 574,
+      "title": "Lucas Braathen",
+      "img": "https://nrk-od-world-40.akamaized.net/open/ps/nnfa/nnfa23102226/9b540777-5.smil/thumb.jpg?t=600&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 641,
+      "title": "Europaliga",
+      "img": "https://nrk-od-world-40.akamaized.net/open/ps/nnfa/nnfa23102226/9b540777-5.smil/thumb.jpg?t=667&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 718,
+      "title": "Serieliga",
+      "img": "https://nrk-od-world-40.akamaized.net/open/ps/nnfa/nnfa23102226/9b540777-5.smil/thumb.jpg?t=743&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 791,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-40.akamaized.net/open/ps/nnfa/nnfa23102226/9b540777-5.smil/thumb.jpg?t=816&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 852,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-40.akamaized.net/open/ps/nnfa/nnfa23102226/9b540777-5.smil/thumb.jpg?t=871.6&scale=1920x1080&v=high"
+    }
+  ]
+}
