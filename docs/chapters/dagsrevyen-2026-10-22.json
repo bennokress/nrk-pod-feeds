@@ -1,0 +1,153 @@
+{
+  "version": "1.2.0",
+  "title": "Opptøyer i Europa",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 10,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa19102226/66b7ac12-7.smil/thumb.jpg?t=35&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 71,
+      "title": "Uro i Europa",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa19102226/66b7ac12-7.smil/thumb.jpg?t=97&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 108,
+      "title": "Direkte Tirana",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa19102226/66b7ac12-7.smil/thumb.jpg?t=133&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 200,
+      "title": "Albania opptøyer",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa19102226/66b7ac12-7.smil/thumb.jpg?t=226&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 304,
+      "title": "Direkte Beograd",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa19102226/66b7ac12-7.smil/thumb.jpg?t=329&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 396,
+      "title": "Direkte Paris",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa19102226/66b7ac12-7.smil/thumb.jpg?t=421&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 497,
+      "title": "Frankrike",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa19102226/66b7ac12-7.smil/thumb.jpg?t=523&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 613,
+      "title": "Direkte Brussel",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa19102226/66b7ac12-7.smil/thumb.jpg?t=638&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 785,
+      "title": "Slottsmiddag",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa19102226/66b7ac12-7.smil/thumb.jpg?t=810&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 814,
+      "title": "Direkte Oslo",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa19102226/66b7ac12-7.smil/thumb.jpg?t=839&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 883,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa19102226/66b7ac12-7.smil/thumb.jpg?t=908&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 954,
+      "title": "Samarbeid marine",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa19102226/66b7ac12-7.smil/thumb.jpg?t=979&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1078,
+      "title": "Parkinson og sprøytemidler",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa19102226/66b7ac12-7.smil/thumb.jpg?t=1103&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1191,
+      "title": "Gjest om Parkinson",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa19102226/66b7ac12-7.smil/thumb.jpg?t=1216&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1289,
+      "title": "Batteri i søpla",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa19102226/66b7ac12-7.smil/thumb.jpg?t=1315&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1432,
+      "title": "Glemte fanger",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa19102226/66b7ac12-7.smil/thumb.jpg?t=1458&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1542,
+      "title": "Utenriksnyheter",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa19102226/66b7ac12-7.smil/thumb.jpg?t=1567&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1651,
+      "title": "Sanger som pensum",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa19102226/66b7ac12-7.smil/thumb.jpg?t=1677&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1764,
+      "title": "Roblox og kjøpepress",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa19102226/66b7ac12-7.smil/thumb.jpg?t=1789&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1882,
+      "title": "Slottsmiddag",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa19102226/66b7ac12-7.smil/thumb.jpg?t=1907&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1911,
+      "title": "Direkte Oslo",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa19102226/66b7ac12-7.smil/thumb.jpg?t=1936&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2029,
+      "title": "Soldater deler seng",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa19102226/66b7ac12-7.smil/thumb.jpg?t=2054&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2136,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa19102226/66b7ac12-7.smil/thumb.jpg?t=2161&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2142,
+      "title": "Slokvik",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa19102226/66b7ac12-7.smil/thumb.jpg?t=2167&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2234,
+      "title": "Alpint",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa19102226/66b7ac12-7.smil/thumb.jpg?t=2259&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2317,
+      "title": "Brann",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa19102226/66b7ac12-7.smil/thumb.jpg?t=2343&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2358,
+      "title": "Langrenn",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa19102226/66b7ac12-7.smil/thumb.jpg?t=2383&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2466,
+      "title": "Trailer Debatten",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa19102226/66b7ac12-7.smil/thumb.jpg?t=2492&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2493,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa19102226/66b7ac12-7.smil/thumb.jpg?t=2519&scale=1920x1080&v=high"
+    }
+  ]
+}

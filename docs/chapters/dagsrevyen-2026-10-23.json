@@ -1,0 +1,113 @@
+{
+  "version": "1.2.0",
+  "title": "Frykter KI-smell",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 8,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-38.akamaized.net/open/ps/nnfa/nnfa19102326/eb73d041-5.smil/thumb.jpg?t=33&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 58,
+      "title": "Flyktninger flytter",
+      "img": "https://nrk-od-world-38.akamaized.net/open/ps/nnfa/nnfa19102326/eb73d041-5.smil/thumb.jpg?t=84&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 238,
+      "title": "Ukraina-samtaler",
+      "img": "https://nrk-od-world-38.akamaized.net/open/ps/nnfa/nnfa19102326/eb73d041-5.smil/thumb.jpg?t=263&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 284,
+      "title": "Skyting i Jordan",
+      "img": "https://nrk-od-world-38.akamaized.net/open/ps/nnfa/nnfa19102326/eb73d041-5.smil/thumb.jpg?t=309&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 316,
+      "title": "Terror Paris",
+      "img": "https://nrk-od-world-38.akamaized.net/open/ps/nnfa/nnfa19102326/eb73d041-5.smil/thumb.jpg?t=342&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 431,
+      "title": "Direkte fra Paris",
+      "img": "https://nrk-od-world-38.akamaized.net/open/ps/nnfa/nnfa19102326/eb73d041-5.smil/thumb.jpg?t=456&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 518,
+      "title": "Redaktørforening",
+      "img": "https://nrk-od-world-38.akamaized.net/open/ps/nnfa/nnfa19102326/eb73d041-5.smil/thumb.jpg?t=544&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 579,
+      "title": "Streik i SAS",
+      "img": "https://nrk-od-world-38.akamaized.net/open/ps/nnfa/nnfa19102326/eb73d041-5.smil/thumb.jpg?t=604&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 651,
+      "title": "Børsuro",
+      "img": "https://nrk-od-world-38.akamaized.net/open/ps/nnfa/nnfa19102326/eb73d041-5.smil/thumb.jpg?t=677&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 698,
+      "title": "Gjest Heyerdahl",
+      "img": "https://nrk-od-world-38.akamaized.net/open/ps/nnfa/nnfa19102326/eb73d041-5.smil/thumb.jpg?t=724&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 818,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-38.akamaized.net/open/ps/nnfa/nnfa19102326/eb73d041-5.smil/thumb.jpg?t=844&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 867,
+      "title": "Unge og tobakk",
+      "img": "https://nrk-od-world-38.akamaized.net/open/ps/nnfa/nnfa19102326/eb73d041-5.smil/thumb.jpg?t=892&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1031,
+      "title": "Utenriksnyheter",
+      "img": "https://nrk-od-world-38.akamaized.net/open/ps/nnfa/nnfa19102326/eb73d041-5.smil/thumb.jpg?t=1057&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1135,
+      "title": "KI eksamensresultat",
+      "img": "https://nrk-od-world-38.akamaized.net/open/ps/nnfa/nnfa19102326/eb73d041-5.smil/thumb.jpg?t=1161&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1238,
+      "title": "Norgesnyheter",
+      "img": "https://nrk-od-world-38.akamaized.net/open/ps/nnfa/nnfa19102326/eb73d041-5.smil/thumb.jpg?t=1264&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1337,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-38.akamaized.net/open/ps/nnfa/nnfa19102326/eb73d041-5.smil/thumb.jpg?t=1363&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1343,
+      "title": "Alpint",
+      "img": "https://nrk-od-world-38.akamaized.net/open/ps/nnfa/nnfa19102326/eb73d041-5.smil/thumb.jpg?t=1369&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1441,
+      "title": "Friidrett",
+      "img": "https://nrk-od-world-38.akamaized.net/open/ps/nnfa/nnfa19102326/eb73d041-5.smil/thumb.jpg?t=1467&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1461,
+      "title": "Turn",
+      "img": "https://nrk-od-world-38.akamaized.net/open/ps/nnfa/nnfa19102326/eb73d041-5.smil/thumb.jpg?t=1487&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1528,
+      "title": "Uværet Austen",
+      "img": "https://nrk-od-world-38.akamaized.net/open/ps/nnfa/nnfa19102326/eb73d041-5.smil/thumb.jpg?t=1553&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1554,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-38.akamaized.net/open/ps/nnfa/nnfa19102326/eb73d041-5.smil/thumb.jpg?t=1579&scale=1920x1080&v=high"
+    }
+  ]
+}
