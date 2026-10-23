@@ -1,0 +1,278 @@
+{
+  "version": "1.2.0",
+  "title": "Parkinsons kobles til sprøytemidler",
+  "author": "NRK",
+  "podcastName": "Nyhetsmorgen",
+  "chapters": [
+    {
+      "startTime": 1,
+      "title": "Åpning 06:30",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa05102226/e8a1e628-6.smil/thumb.jpg?t=26&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 86,
+      "title": "Sprøytemidler en årsak til Parkinson",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa05102226/e8a1e628-6.smil/thumb.jpg?t=111&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 113,
+      "title": "Norad og Ukraina-støtte",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa05102226/e8a1e628-6.smil/thumb.jpg?t=139&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 363,
+      "title": "Daniil Valanov inspirasjon for gutter",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa05102226/e8a1e628-6.smil/thumb.jpg?t=389&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 498,
+      "title": "Siste nytt",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa05102226/e8a1e628-6.smil/thumb.jpg?t=524&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 601,
+      "title": "Filmanmeldelse: «Tony»",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa05102226/e8a1e628-6.smil/thumb.jpg?t=626&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 809,
+      "title": "Viking-Villa",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa05102226/e8a1e628-6.smil/thumb.jpg?t=835&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 938,
+      "title": "Overskrifter 06:45",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa05102226/e8a1e628-6.smil/thumb.jpg?t=963&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 991,
+      "title": "Kjøpepress på Roblox",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa05102226/e8a1e628-6.smil/thumb.jpg?t=1017&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1177,
+      "title": "Alvorlige sikkerhetshull på internett",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa05102226/e8a1e628-6.smil/thumb.jpg?t=1202&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1338,
+      "title": "Kina og Zelenskyj",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa05102226/e8a1e628-6.smil/thumb.jpg?t=1363&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1647,
+      "title": "Motstand mot datasenter",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa05102226/e8a1e628-6.smil/thumb.jpg?t=1673&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1773,
+      "title": "Boktober",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa05102226/e8a1e628-6.smil/thumb.jpg?t=1798&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1799,
+      "title": "Åpning 07:00",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa05102226/e8a1e628-6.smil/thumb.jpg?t=1824&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1880,
+      "title": "Sprøytemidler kobles til parkinson",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa05102226/e8a1e628-6.smil/thumb.jpg?t=1906&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2057,
+      "title": "Ulik behandling Witkoff og Zelenskyj",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa05102226/e8a1e628-6.smil/thumb.jpg?t=2083&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2251,
+      "title": "Hva kom ut av Ukraina-samtalene?",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa05102226/e8a1e628-6.smil/thumb.jpg?t=2277&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2583,
+      "title": "Overskrifter 07:15",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa05102226/e8a1e628-6.smil/thumb.jpg?t=2608&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2617,
+      "title": "Nye anbefalingar i norskfaget",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa05102226/e8a1e628-6.smil/thumb.jpg?t=2642&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2785,
+      "title": "Kunnskapsministeren om nye anbefalinger",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa05102226/e8a1e628-6.smil/thumb.jpg?t=2811&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3037,
+      "title": "Ventet flere store opptøyer i Frankrike",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa05102226/e8a1e628-6.smil/thumb.jpg?t=3063&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3303,
+      "title": "Før Politisk kvarter",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa05102226/e8a1e628-6.smil/thumb.jpg?t=3329&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3351,
+      "title": "Vy kurser ansatte i selvforsvar",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa05102226/e8a1e628-6.smil/thumb.jpg?t=3377&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3562,
+      "title": "Maskorama starter 24. oktober",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa05102226/e8a1e628-6.smil/thumb.jpg?t=3588&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3600,
+      "title": "Overskrifter 07:30",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa05102226/e8a1e628-6.smil/thumb.jpg?t=3625&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3639,
+      "title": "Sprøytemidler kobles til parkinson",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa05102226/e8a1e628-6.smil/thumb.jpg?t=3665&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3758,
+      "title": "Nye anbefalingar i norsk-faget",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa05102226/e8a1e628-6.smil/thumb.jpg?t=3783&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3876,
+      "title": "12 prosent av arbeidsveka går til møter",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa05102226/e8a1e628-6.smil/thumb.jpg?t=3901&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3978,
+      "title": "Ulik behandling Witkoff og Zelenskyj",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa05102226/e8a1e628-6.smil/thumb.jpg?t=4004&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 4042,
+      "title": "Kjøpepress i Roblox",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa05102226/e8a1e628-6.smil/thumb.jpg?t=4068&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 4164,
+      "title": "Rød beredskap ved Kirkenes sykehus",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa05102226/e8a1e628-6.smil/thumb.jpg?t=4190&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 4196,
+      "title": "Åpning 07:40",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa05102226/e8a1e628-6.smil/thumb.jpg?t=4221&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 4212,
+      "title": "Protester og valg i Serbia",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa05102226/e8a1e628-6.smil/thumb.jpg?t=4238&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 5399,
+      "title": "NRK Nyheter 08:00",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa05102226/e8a1e628-6.smil/thumb.jpg?t=5425&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 5581,
+      "title": "Åpning 08:03",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa05102226/e8a1e628-6.smil/thumb.jpg?t=5606&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 5658,
+      "title": "Opptøyer i Albania",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa05102226/e8a1e628-6.smil/thumb.jpg?t=5683&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 5901,
+      "title": "Sprøytemidler kobles til parkinson",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa05102226/e8a1e628-6.smil/thumb.jpg?t=5926&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 6082,
+      "title": "Valgkamp i Brasil",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa05102226/e8a1e628-6.smil/thumb.jpg?t=6107&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 6456,
+      "title": "Overskrifter 08:15",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa05102226/e8a1e628-6.smil/thumb.jpg?t=6482&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 6480,
+      "title": "Kjøpepress på Roblox",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa05102226/e8a1e628-6.smil/thumb.jpg?t=6506&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 6667,
+      "title": "Barn og unge på spillplattformen Roblox",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa05102226/e8a1e628-6.smil/thumb.jpg?t=6693&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 6923,
+      "title": "Nye anbefalingar i norskfaget",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa05102226/e8a1e628-6.smil/thumb.jpg?t=6948&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 7046,
+      "title": "Meta er ilagt bot",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa05102226/e8a1e628-6.smil/thumb.jpg?t=7072&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 7210,
+      "title": "Hør Ekko i NRK P2",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa05102226/e8a1e628-6.smil/thumb.jpg?t=7236&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 7261,
+      "title": "Overskrifter 08:30",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa05102226/e8a1e628-6.smil/thumb.jpg?t=7287&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 7304,
+      "title": "Ulik behandling Witkoff og Zelenskyj",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa05102226/e8a1e628-6.smil/thumb.jpg?t=7329&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 7423,
+      "title": "Hva kom ut av Ukraina-samtalene?",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa05102226/e8a1e628-6.smil/thumb.jpg?t=7449&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 7689,
+      "title": "A-laget med ny sesong",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa05102226/e8a1e628-6.smil/thumb.jpg?t=7715&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 7959,
+      "title": "Anmeldelse Malerinne på Nasjonalmuseet",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa05102226/e8a1e628-6.smil/thumb.jpg?t=7985&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8209,
+      "title": "Overskrifter 08:45",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa05102226/e8a1e628-6.smil/thumb.jpg?t=8235&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8251,
+      "title": "Kina og Zelenskyj",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa05102226/e8a1e628-6.smil/thumb.jpg?t=8276&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8558,
+      "title": "Vy kurser ansatte i selvforsvar",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa05102226/e8a1e628-6.smil/thumb.jpg?t=8584&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8684,
+      "title": "12 prosent av arbeidsveka går til møter",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa05102226/e8a1e628-6.smil/thumb.jpg?t=8709&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8861,
+      "title": "GJEST Været i dag",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa05102226/e8a1e628-6.smil/thumb.jpg?t=8887&scale=1920x1080&v=high"
+    }
+  ]
+}
