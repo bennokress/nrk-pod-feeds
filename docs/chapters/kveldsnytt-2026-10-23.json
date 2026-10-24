@@ -1,0 +1,88 @@
+{
+  "version": "1.2.0",
+  "title": "Rasistisk terrorangrep",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa23102326/8cad759a-5.smil/thumb.jpg?t=25&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 35,
+      "title": "Macron",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa23102326/8cad759a-5.smil/thumb.jpg?t=60&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 90,
+      "title": "Frankrike",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa23102326/8cad759a-5.smil/thumb.jpg?t=116&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 175,
+      "title": "Storm UK",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa23102326/8cad759a-5.smil/thumb.jpg?t=200&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 192,
+      "title": "Meghan",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa23102326/8cad759a-5.smil/thumb.jpg?t=217&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 229,
+      "title": "Dødsbrann",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa23102326/8cad759a-5.smil/thumb.jpg?t=254&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 278,
+      "title": "Togtrøbbel",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa23102326/8cad759a-5.smil/thumb.jpg?t=303&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 306,
+      "title": "Ebola",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa23102326/8cad759a-5.smil/thumb.jpg?t=331&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 380,
+      "title": "Romania skip bekyrming",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa23102326/8cad759a-5.smil/thumb.jpg?t=406&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 404,
+      "title": "Frøhvelv Svalbard",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa23102326/8cad759a-5.smil/thumb.jpg?t=430&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 438,
+      "title": "Naturfotograf",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa23102326/8cad759a-5.smil/thumb.jpg?t=464&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 466,
+      "title": "Elevar på kontrollfiske i Vartdalselva",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa23102326/8cad759a-5.smil/thumb.jpg?t=491&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 562,
+      "title": "Fotball",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa23102326/8cad759a-5.smil/thumb.jpg?t=587&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 640,
+      "title": "Alpint",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa23102326/8cad759a-5.smil/thumb.jpg?t=666&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 714,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa23102326/8cad759a-5.smil/thumb.jpg?t=740&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 787,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa23102326/8cad759a-5.smil/thumb.jpg?t=808.6&scale=1920x1080&v=high"
+    }
+  ]
+}
