@@ -1,0 +1,108 @@
+{
+  "version": "1.2.0",
+  "title": "Hvorfor tar ingen ansvar?",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa20102426/ad5f5155-5.smil/thumb.jpg?t=25&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 77,
+      "title": "Direkte Frankrike",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa20102426/ad5f5155-5.smil/thumb.jpg?t=103&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 133,
+      "title": "Frankrike demo",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa20102426/ad5f5155-5.smil/thumb.jpg?t=158&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 238,
+      "title": "Direkte Frankrike",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa20102426/ad5f5155-5.smil/thumb.jpg?t=264&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 344,
+      "title": "Vestbredden",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa20102426/ad5f5155-5.smil/thumb.jpg?t=369&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 497,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa20102426/ad5f5155-5.smil/thumb.jpg?t=523&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 584,
+      "title": "Stoltenberg Ungarn",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa20102426/ad5f5155-5.smil/thumb.jpg?t=609&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 701,
+      "title": "Maskorama",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa20102426/ad5f5155-5.smil/thumb.jpg?t=726&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 824,
+      "title": "Badstu-test",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa20102426/ad5f5155-5.smil/thumb.jpg?t=849&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 945,
+      "title": "Mistet livet i elva",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa20102426/ad5f5155-5.smil/thumb.jpg?t=971&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1342,
+      "title": "Lørdagsgjest: Venja Ruud Nilsen",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa20102426/ad5f5155-5.smil/thumb.jpg?t=1367&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1689,
+      "title": "Prisstigning og økonomi",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa20102426/ad5f5155-5.smil/thumb.jpg?t=1715&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1957,
+      "title": "Badstu-test",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa20102426/ad5f5155-5.smil/thumb.jpg?t=1982&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2091,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa20102426/ad5f5155-5.smil/thumb.jpg?t=2117&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2097,
+      "title": "Internasj fotball",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa20102426/ad5f5155-5.smil/thumb.jpg?t=2122&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2216,
+      "title": "Eliteserien",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa20102426/ad5f5155-5.smil/thumb.jpg?t=2241&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2287,
+      "title": "Toppserien",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa20102426/ad5f5155-5.smil/thumb.jpg?t=2312&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2313,
+      "title": "Alpint",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa20102426/ad5f5155-5.smil/thumb.jpg?t=2338&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2359,
+      "title": "Sommertid over",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa20102426/ad5f5155-5.smil/thumb.jpg?t=2385&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2470,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa20102426/ad5f5155-5.smil/thumb.jpg?t=2496&scale=1920x1080&v=high"
+    }
+  ]
+}
