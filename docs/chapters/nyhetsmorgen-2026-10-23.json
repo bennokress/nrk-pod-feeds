@@ -1,0 +1,308 @@
+{
+  "version": "1.2.0",
+  "title": "4 av 5 flyktninger flytter fra småkommuner",
+  "author": "NRK",
+  "podcastName": "Nyhetsmorgen",
+  "chapters": [
+    {
+      "startTime": 1,
+      "title": "Åpning 06:30",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa05102326/2ed52579-5.smil/thumb.jpg?t=27&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 83,
+      "title": "Flyktninger flytter",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa05102326/2ed52579-5.smil/thumb.jpg?t=108&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 130,
+      "title": "Norsk-britisk marinesamarbeid",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa05102326/2ed52579-5.smil/thumb.jpg?t=156&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 329,
+      "title": "Lillestrøm-Real Sociedad",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa05102326/2ed52579-5.smil/thumb.jpg?t=354&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 434,
+      "title": "Sesongen ryker for fartskjører Vickoff Lie",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa05102326/2ed52579-5.smil/thumb.jpg?t=460&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 551,
+      "title": "Siste nytt",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa05102326/2ed52579-5.smil/thumb.jpg?t=576&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 631,
+      "title": "Kan badstue redusere stress?",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa05102326/2ed52579-5.smil/thumb.jpg?t=656&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 749,
+      "title": "Brann i Haugesund i natt",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa05102326/2ed52579-5.smil/thumb.jpg?t=774&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 833,
+      "title": "Overskrifter 06:45",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa05102326/2ed52579-5.smil/thumb.jpg?t=858&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 897,
+      "title": "Presidentvalg i Brasil",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa05102326/2ed52579-5.smil/thumb.jpg?t=923&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1074,
+      "title": "Valg i Brasil på søndag",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa05102326/2ed52579-5.smil/thumb.jpg?t=1099&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1333,
+      "title": "Holmes-dokumentar til norske kinoer",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa05102326/2ed52579-5.smil/thumb.jpg?t=1359&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1560,
+      "title": "Siste om Starlink",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa05102326/2ed52579-5.smil/thumb.jpg?t=1586&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1677,
+      "title": "Støy ved sementfabrikk i Narvik",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa05102326/2ed52579-5.smil/thumb.jpg?t=1702&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1848,
+      "title": "Åpning 07:00",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa05102326/2ed52579-5.smil/thumb.jpg?t=1873&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1914,
+      "title": "Flyktninger flytter",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa05102326/2ed52579-5.smil/thumb.jpg?t=1939&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2086,
+      "title": "Nye kriterier for bosetting",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa05102326/2ed52579-5.smil/thumb.jpg?t=2111&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2325,
+      "title": "Havnet midt i opptøyene",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa05102326/2ed52579-5.smil/thumb.jpg?t=2351&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2609,
+      "title": "Opprørsforsker om ungdomsprotestene",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa05102326/2ed52579-5.smil/thumb.jpg?t=2635&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2860,
+      "title": "Overskrifter 07:15",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa05102326/2ed52579-5.smil/thumb.jpg?t=2885&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2906,
+      "title": "Behandles tøffere i ungdomsfengsel",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa05102326/2ed52579-5.smil/thumb.jpg?t=2932&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3130,
+      "title": "Ungdom i fengsel",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa05102326/2ed52579-5.smil/thumb.jpg?t=3155&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3354,
+      "title": "Frp vil ha Wisting-garanti",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa05102326/2ed52579-5.smil/thumb.jpg?t=3380&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3518,
+      "title": "Før Politisk kvarter",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa05102326/2ed52579-5.smil/thumb.jpg?t=3543&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3574,
+      "title": "Trailer - Tyrann Macias",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa05102326/2ed52579-5.smil/thumb.jpg?t=3599&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3600,
+      "title": "Overskrifter 07:30",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa05102326/2ed52579-5.smil/thumb.jpg?t=3625&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3632,
+      "title": "Flyktninger flytter",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa05102326/2ed52579-5.smil/thumb.jpg?t=3657&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3751,
+      "title": "Snutt Rieber-Mohn",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa05102326/2ed52579-5.smil/thumb.jpg?t=3776&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3796,
+      "title": "En omkom i boligbrann i Haugesund",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa05102326/2ed52579-5.smil/thumb.jpg?t=3822&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3810,
+      "title": "Havnet midt i opptøyene",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa05102326/2ed52579-5.smil/thumb.jpg?t=3836&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3922,
+      "title": "Protester i Frankrike",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa05102326/2ed52579-5.smil/thumb.jpg?t=3948&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 4011,
+      "title": "Behandles tøffere i ungdomsfengsel",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa05102326/2ed52579-5.smil/thumb.jpg?t=4037&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 4082,
+      "title": "Brasil-valg",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa05102326/2ed52579-5.smil/thumb.jpg?t=4108&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 4197,
+      "title": "Avslutning",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa05102326/2ed52579-5.smil/thumb.jpg?t=4223&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 4205,
+      "title": "Åpning 07:40",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa05102326/2ed52579-5.smil/thumb.jpg?t=4231&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 4218,
+      "title": "Oppfordrer til å ta influensavaksine",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa05102326/2ed52579-5.smil/thumb.jpg?t=4243&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 4392,
+      "title": "Kong Haaakon om Mette Marit",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa05102326/2ed52579-5.smil/thumb.jpg?t=4417&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 4464,
+      "title": "Topper 07:44",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa05102326/2ed52579-5.smil/thumb.jpg?t=4490&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 4494,
+      "title": "Overgang til Politisk kvarter",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa05102326/2ed52579-5.smil/thumb.jpg?t=4520&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 5403,
+      "title": "NRK Nyheter 08:00",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa05102326/2ed52579-5.smil/thumb.jpg?t=5428&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 5579,
+      "title": "Åpning 08:03",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa05102326/2ed52579-5.smil/thumb.jpg?t=5605&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 5650,
+      "title": "Flyktninger flytter",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa05102326/2ed52579-5.smil/thumb.jpg?t=5675&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 5761,
+      "title": "Rieber-Mohn om flyktningene",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa05102326/2ed52579-5.smil/thumb.jpg?t=5787&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 6003,
+      "title": "Unge festrøyker mer",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa05102326/2ed52579-5.smil/thumb.jpg?t=6028&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 6091,
+      "title": "Høy nikotinbruk blant unge",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa05102326/2ed52579-5.smil/thumb.jpg?t=6117&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 6279,
+      "title": "Overskrifter 08:15",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa05102326/2ed52579-5.smil/thumb.jpg?t=6305&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 6349,
+      "title": "Droneangrep Sudan",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa05102326/2ed52579-5.smil/thumb.jpg?t=6374&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 6510,
+      "title": "Fredagspanelet",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa05102326/2ed52579-5.smil/thumb.jpg?t=6535&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 7213,
+      "title": "Overskrifter 08:30",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa05102326/2ed52579-5.smil/thumb.jpg?t=7239&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 7257,
+      "title": "Angrep i Svartehavet",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa05102326/2ed52579-5.smil/thumb.jpg?t=7283&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 7437,
+      "title": "Holmes-dokumentar til norske kinoer",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa05102326/2ed52579-5.smil/thumb.jpg?t=7463&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 7651,
+      "title": "Trier og Vogt vant i retten",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa05102326/2ed52579-5.smil/thumb.jpg?t=7677&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 7813,
+      "title": "Kong Haakons tale",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa05102326/2ed52579-5.smil/thumb.jpg?t=7838&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8043,
+      "title": "Overskrifter 08:45",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa05102326/2ed52579-5.smil/thumb.jpg?t=8068&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8095,
+      "title": "Hivju spiller i ny sesong av svensk serie",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa05102326/2ed52579-5.smil/thumb.jpg?t=8120&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8446,
+      "title": "Politisk kvarter",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa05102326/2ed52579-5.smil/thumb.jpg?t=8471&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8600,
+      "title": "Presidentvalg i Brasil",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa05102326/2ed52579-5.smil/thumb.jpg?t=8626&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8774,
+      "title": "Før Abels tårn i NRK P2",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa05102326/2ed52579-5.smil/thumb.jpg?t=8799&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8831,
+      "title": "GJEST Været i dag",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa05102326/2ed52579-5.smil/thumb.jpg?t=8856&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8993,
+      "title": "Avslutning",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa05102326/2ed52579-5.smil/thumb.jpg?t=9003.24&scale=1920x1080&v=high"
+    }
+  ]
+}
