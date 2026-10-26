@@ -1,0 +1,63 @@
+{
+  "version": "1.2.0",
+  "title": "Tilbake i Venezuela",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa21102526/aa7a6519-8.smil/thumb.jpg?t=26&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 35,
+      "title": "Uvær",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa21102526/aa7a6519-8.smil/thumb.jpg?t=60&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 55,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa21102526/aa7a6519-8.smil/thumb.jpg?t=80&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 134,
+      "title": "Brasil valg",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa21102526/aa7a6519-8.smil/thumb.jpg?t=159&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 157,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa21102526/aa7a6519-8.smil/thumb.jpg?t=182&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 217,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa21102526/aa7a6519-8.smil/thumb.jpg?t=242&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 362,
+      "title": "Venezuela",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa21102526/aa7a6519-8.smil/thumb.jpg?t=387&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 434,
+      "title": "Brann tog",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa21102526/aa7a6519-8.smil/thumb.jpg?t=460&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 478,
+      "title": "Premier league",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa21102526/aa7a6519-8.smil/thumb.jpg?t=503&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 547,
+      "title": "Været",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa21102526/aa7a6519-8.smil/thumb.jpg?t=572&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 601,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa21102526/aa7a6519-8.smil/thumb.jpg?t=619.6&scale=1920x1080&v=high"
+    }
+  ]
+}
