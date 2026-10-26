@@ -1,0 +1,58 @@
+{
+  "version": "1.2.0",
+  "title": "Feiringen fortsetter",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa23102626/89974e1b-7.smil/thumb.jpg?t=25&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 40,
+      "title": "Serbia",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa23102626/89974e1b-7.smil/thumb.jpg?t=65&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 143,
+      "title": "Frykt krankollaps",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa23102626/89974e1b-7.smil/thumb.jpg?t=168&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 217,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa23102626/89974e1b-7.smil/thumb.jpg?t=242&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 279,
+      "title": "Brasil",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa23102626/89974e1b-7.smil/thumb.jpg?t=305&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 380,
+      "title": "Frankrike",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa23102626/89974e1b-7.smil/thumb.jpg?t=406&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 453,
+      "title": "Nettpromo",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa23102626/89974e1b-7.smil/thumb.jpg?t=479&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 556,
+      "title": "Sæters vei tilbake",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa23102626/89974e1b-7.smil/thumb.jpg?t=581&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 643,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa23102626/89974e1b-7.smil/thumb.jpg?t=668&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 699,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-37.akamaized.net/open/ps/nnfa/nnfa23102626/89974e1b-7.smil/thumb.jpg?t=725&scale=1920x1080&v=high"
+    }
+  ]
+}
