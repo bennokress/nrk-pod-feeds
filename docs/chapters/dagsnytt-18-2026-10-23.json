@@ -1,0 +1,68 @@
+{
+  "version": "1.2.0",
+  "title": "Valgkamp i USA",
+  "author": "NRK",
+  "podcastName": "Dagsnytt 18",
+  "chapters": [
+    {
+      "startTime": 3,
+      "title": "Dagsnytt atten",
+      "img": "https://nrk-od-world-01.akamaized.net/open/ps/nnfa/nnfa56102326/480bcf55-12.smil/thumb.jpg?t=28&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 63,
+      "title": "Valgkamp i USA",
+      "img": "https://nrk-od-world-01.akamaized.net/open/ps/nnfa/nnfa56102326/480bcf55-12.smil/thumb.jpg?t=89&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 985,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-01.akamaized.net/open/ps/nnfa/nnfa56102326/480bcf55-12.smil/thumb.jpg?t=1011&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 995,
+      "title": "Dom om særlig uavhengig stilling",
+      "img": "https://nrk-od-world-01.akamaized.net/open/ps/nnfa/nnfa56102326/480bcf55-12.smil/thumb.jpg?t=1021&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1912,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-01.akamaized.net/open/ps/nnfa/nnfa56102326/480bcf55-12.smil/thumb.jpg?t=1937&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1923,
+      "title": "Flyktninger i småkommuner",
+      "img": "https://nrk-od-world-01.akamaized.net/open/ps/nnfa/nnfa56102326/480bcf55-12.smil/thumb.jpg?t=1948&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2473,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-01.akamaized.net/open/ps/nnfa/nnfa56102326/480bcf55-12.smil/thumb.jpg?t=2498&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2484,
+      "title": "Nye lovbrudd av barn i fengsel",
+      "img": "https://nrk-od-world-01.akamaized.net/open/ps/nnfa/nnfa56102326/480bcf55-12.smil/thumb.jpg?t=2509&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3081,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-01.akamaized.net/open/ps/nnfa/nnfa56102326/480bcf55-12.smil/thumb.jpg?t=3106&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3091,
+      "title": "Profeten i Bærum og rus",
+      "img": "https://nrk-od-world-01.akamaized.net/open/ps/nnfa/nnfa56102326/480bcf55-12.smil/thumb.jpg?t=3117&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3533,
+      "title": "AVSLUTNING",
+      "img": "https://nrk-od-world-01.akamaized.net/open/ps/nnfa/nnfa56102326/480bcf55-12.smil/thumb.jpg?t=3543.84&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3536,
+      "title": "SLUTTKJENNING",
+      "img": "https://nrk-od-world-01.akamaized.net/open/ps/nnfa/nnfa56102326/480bcf55-12.smil/thumb.jpg?t=3543.84&scale=1920x1080&v=high"
+    }
+  ]
+}
