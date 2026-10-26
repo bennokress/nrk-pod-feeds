@@ -1,0 +1,138 @@
+{
+  "version": "1.2.0",
+  "title": "Krankaos i Oslo",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 10,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa19102626/a76043fb-5.smil/thumb.jpg?t=36&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 66,
+      "title": "Kran kollaps",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa19102626/a76043fb-5.smil/thumb.jpg?t=92&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 163,
+      "title": "Direkte Oslo",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa19102626/a76043fb-5.smil/thumb.jpg?t=188&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 269,
+      "title": "Valget i Serbia",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa19102626/a76043fb-5.smil/thumb.jpg?t=295&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 383,
+      "title": "Gjest Sigurd Falkenberg Mikkelsen",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa19102626/a76043fb-5.smil/thumb.jpg?t=408&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 545,
+      "title": "Valg i Brasil",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa19102626/a76043fb-5.smil/thumb.jpg?t=571&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 628,
+      "title": "Direkte: Rio",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa19102626/a76043fb-5.smil/thumb.jpg?t=654&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 750,
+      "title": "Sprukne vannrør",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa19102626/a76043fb-5.smil/thumb.jpg?t=775&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 853,
+      "title": "Høy vannstand",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa19102626/a76043fb-5.smil/thumb.jpg?t=879&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 951,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa19102626/a76043fb-5.smil/thumb.jpg?t=976&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1032,
+      "title": "Valg i USA",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa19102626/a76043fb-5.smil/thumb.jpg?t=1057&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1067,
+      "title": "Direkte: USA",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa19102626/a76043fb-5.smil/thumb.jpg?t=1093&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1207,
+      "title": "Valg i USA",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa19102626/a76043fb-5.smil/thumb.jpg?t=1233&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1260,
+      "title": "Strømforbruk",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa19102626/a76043fb-5.smil/thumb.jpg?t=1286&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1390,
+      "title": "Løping",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa19102626/a76043fb-5.smil/thumb.jpg?t=1415&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1521,
+      "title": "Gjest Ingrid Kristiansen",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa19102626/a76043fb-5.smil/thumb.jpg?t=1547&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1702,
+      "title": "Butikker kontrolleres",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa19102626/a76043fb-5.smil/thumb.jpg?t=1728&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1826,
+      "title": "Gullballen",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa19102626/a76043fb-5.smil/thumb.jpg?t=1851&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1930,
+      "title": "Gjest Saltvedt",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa19102626/a76043fb-5.smil/thumb.jpg?t=1955&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2012,
+      "title": "Direkte Oslo",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa19102626/a76043fb-5.smil/thumb.jpg?t=2037&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2116,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa19102626/a76043fb-5.smil/thumb.jpg?t=2142&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2122,
+      "title": "Ønsker visumnekt Russland",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa19102626/a76043fb-5.smil/thumb.jpg?t=2148&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2191,
+      "title": "Gjest Saltvedt",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa19102626/a76043fb-5.smil/thumb.jpg?t=2216&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2274,
+      "title": "Sparta-konkursen",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa19102626/a76043fb-5.smil/thumb.jpg?t=2299&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2365,
+      "title": "Bronsehelt",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa19102626/a76043fb-5.smil/thumb.jpg?t=2391&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2466,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa19102626/a76043fb-5.smil/thumb.jpg?t=2492&scale=1920x1080&v=high"
+    }
+  ]
+}
