@@ -1,0 +1,123 @@
+{
+  "version": "1.2.0",
+  "title": "Høststorm herjer",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 11,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa19102526/b70094bd-8.smil/thumb.jpg?t=36&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 96,
+      "title": "Uværet",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa19102526/b70094bd-8.smil/thumb.jpg?t=121&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 203,
+      "title": "Uvær UK",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa19102526/b70094bd-8.smil/thumb.jpg?t=229&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 244,
+      "title": "Helsereform",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa19102526/b70094bd-8.smil/thumb.jpg?t=270&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 430,
+      "title": "Machado tilbake",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa19102526/b70094bd-8.smil/thumb.jpg?t=456&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 481,
+      "title": "LePen",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa19102526/b70094bd-8.smil/thumb.jpg?t=506&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 565,
+      "title": "Direkte Orléans",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa19102526/b70094bd-8.smil/thumb.jpg?t=591&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 663,
+      "title": "Obama",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa19102526/b70094bd-8.smil/thumb.jpg?t=688&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 700,
+      "title": "Valg Brasil",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa19102526/b70094bd-8.smil/thumb.jpg?t=726&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 826,
+      "title": "Direkte Brasil",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa19102526/b70094bd-8.smil/thumb.jpg?t=852&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 955,
+      "title": "Ekspedisjonen",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa19102526/b70094bd-8.smil/thumb.jpg?t=981&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1121,
+      "title": "Texas",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa19102526/b70094bd-8.smil/thumb.jpg?t=1147&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1474,
+      "title": "Serbia",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa19102526/b70094bd-8.smil/thumb.jpg?t=1499&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1736,
+      "title": "Direkte Beograd",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa19102526/b70094bd-8.smil/thumb.jpg?t=1762&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1811,
+      "title": "Oslo",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa19102526/b70094bd-8.smil/thumb.jpg?t=1836&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1854,
+      "title": "Israel",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa19102526/b70094bd-8.smil/thumb.jpg?t=1879&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2303,
+      "title": "Turn",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa19102526/b70094bd-8.smil/thumb.jpg?t=2329&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2393,
+      "title": "Eliteserien",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa19102526/b70094bd-8.smil/thumb.jpg?t=2419&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2476,
+      "title": "Langrenn",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa19102526/b70094bd-8.smil/thumb.jpg?t=2501&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2570,
+      "title": "Alpint",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa19102526/b70094bd-8.smil/thumb.jpg?t=2595&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2611,
+      "title": "Beach volley",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa19102526/b70094bd-8.smil/thumb.jpg?t=2636&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2745,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa19102526/b70094bd-8.smil/thumb.jpg?t=2770&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2906,
+      "title": "Meldig tog brann",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa19102526/b70094bd-8.smil/thumb.jpg?t=2932&scale=1920x1080&v=high"
+    }
+  ]
+}
