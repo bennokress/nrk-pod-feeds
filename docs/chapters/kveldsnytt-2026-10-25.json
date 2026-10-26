@@ -1,0 +1,73 @@
+{
+  "version": "1.2.0",
+  "title": "Studentene seiret",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa23102526/e802b372-5.smil/thumb.jpg?t=25&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 33,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa23102526/e802b372-5.smil/thumb.jpg?t=59&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 192,
+      "title": "Valg Brasil",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa23102526/e802b372-5.smil/thumb.jpg?t=217&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 217,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa23102526/e802b372-5.smil/thumb.jpg?t=242&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 306,
+      "title": "Machado tilbake",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa23102526/e802b372-5.smil/thumb.jpg?t=332&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 401,
+      "title": "E6 stengt",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa23102526/e802b372-5.smil/thumb.jpg?t=427&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 420,
+      "title": "Brann tog",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa23102526/e802b372-5.smil/thumb.jpg?t=446&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 433,
+      "title": "Obama og Harris ut mot Trump",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa23102526/e802b372-5.smil/thumb.jpg?t=458&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 543,
+      "title": "Storkamp i Spania",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa23102526/e802b372-5.smil/thumb.jpg?t=568&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 617,
+      "title": "Eliteserien i fotball",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa23102526/e802b372-5.smil/thumb.jpg?t=642&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 655,
+      "title": "Alpint",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa23102526/e802b372-5.smil/thumb.jpg?t=681&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 724,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa23102526/e802b372-5.smil/thumb.jpg?t=750&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 786,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-13.akamaized.net/open/ps/nnfa/nnfa23102526/e802b372-5.smil/thumb.jpg?t=803.72&scale=1920x1080&v=high"
+    }
+  ]
+}
