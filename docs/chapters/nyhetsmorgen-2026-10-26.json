@@ -1,0 +1,288 @@
+{
+  "version": "1.2.0",
+  "title": "Slår alarm om norske sykehus",
+  "author": "NRK",
+  "podcastName": "Nyhetsmorgen",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Åpning 06:30",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05102626/11fb8475-5.smil/thumb.jpg?t=26&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 82,
+      "title": "Krever ny styring av sykehus",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05102626/11fb8475-5.smil/thumb.jpg?t=108&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 159,
+      "title": "– Norge er blitt et «shit house»-land",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05102626/11fb8475-5.smil/thumb.jpg?t=184&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 368,
+      "title": "Norsk støtte til Ungarn",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05102626/11fb8475-5.smil/thumb.jpg?t=394&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 700,
+      "title": "Siste nytt",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05102626/11fb8475-5.smil/thumb.jpg?t=725&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 752,
+      "title": "Dyre boliger på grunn av sommel",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05102626/11fb8475-5.smil/thumb.jpg?t=777&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 891,
+      "title": "Overskrifter 06:45",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05102626/11fb8475-5.smil/thumb.jpg?t=917&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 937,
+      "title": "Studentene vant i Serbia",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05102626/11fb8475-5.smil/thumb.jpg?t=962&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1092,
+      "title": "Unge mangler beredskap",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05102626/11fb8475-5.smil/thumb.jpg?t=1118&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1244,
+      "title": "Nå starter beredskapsuka",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05102626/11fb8475-5.smil/thumb.jpg?t=1270&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1485,
+      "title": "Graham Hansen om Gullballen",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05102626/11fb8475-5.smil/thumb.jpg?t=1510&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1627,
+      "title": "Flere blir medforskere",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05102626/11fb8475-5.smil/thumb.jpg?t=1652&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1826,
+      "title": "Åpning 07:00",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05102626/11fb8475-5.smil/thumb.jpg?t=1851&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1887,
+      "title": "Sp slår alarm om sykehusene",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05102626/11fb8475-5.smil/thumb.jpg?t=1912&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2060,
+      "title": "Politisk kommentator om budsjett",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05102626/11fb8475-5.smil/thumb.jpg?t=2086&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2132,
+      "title": "Krever ny styring av sykehus",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05102626/11fb8475-5.smil/thumb.jpg?t=2157&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2328,
+      "title": "Politisk kommentator om sykehusreform",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05102626/11fb8475-5.smil/thumb.jpg?t=2353&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2522,
+      "title": "Før Politisk kvarter om helsepolitikk",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05102626/11fb8475-5.smil/thumb.jpg?t=2548&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2553,
+      "title": "Uro og valgkamp i Frankrike",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05102626/11fb8475-5.smil/thumb.jpg?t=2578&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2767,
+      "title": "Overskrifter 07:15",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05102626/11fb8475-5.smil/thumb.jpg?t=2792&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2796,
+      "title": "Brasil: Lula vant presidentvalget",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05102626/11fb8475-5.smil/thumb.jpg?t=2822&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3006,
+      "title": "Brasilianer om valresultatet",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05102626/11fb8475-5.smil/thumb.jpg?t=3031&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3265,
+      "title": "Høg vasstand lang vestkysten",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05102626/11fb8475-5.smil/thumb.jpg?t=3290&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3436,
+      "title": "Flere bønder satser på mais",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05102626/11fb8475-5.smil/thumb.jpg?t=3462&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3571,
+      "title": "Trailer - Lytternes romanpris",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05102626/11fb8475-5.smil/thumb.jpg?t=3597&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3600,
+      "title": "Overskrifter 07:30",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05102626/11fb8475-5.smil/thumb.jpg?t=3626&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3630,
+      "title": "Brasil: Lula vant presidentvalget",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05102626/11fb8475-5.smil/thumb.jpg?t=3655&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3751,
+      "title": "Studentene vant i Serbia",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05102626/11fb8475-5.smil/thumb.jpg?t=3777&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3808,
+      "title": "Sp slår alarm om sykehusene",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05102626/11fb8475-5.smil/thumb.jpg?t=3833&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3928,
+      "title": "Krever ny styring av sykehus",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05102626/11fb8475-5.smil/thumb.jpg?t=3954&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 4055,
+      "title": "Rød beredskap sykehus",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05102626/11fb8475-5.smil/thumb.jpg?t=4080&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 4070,
+      "title": "Én pågrepet etter mistenkt drap på Ringerike",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05102626/11fb8475-5.smil/thumb.jpg?t=4095&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 4099,
+      "title": "Trump om drittlandet Norge",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05102626/11fb8475-5.smil/thumb.jpg?t=4125&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 4200,
+      "title": "Åpning 07:40",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05102626/11fb8475-5.smil/thumb.jpg?t=4225&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 4243,
+      "title": "Studentene vant i Serbia",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05102626/11fb8475-5.smil/thumb.jpg?t=4268&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 5401,
+      "title": "NRK Nyheter 08:00",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05102626/11fb8475-5.smil/thumb.jpg?t=5427&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 5581,
+      "title": "Åpning 08:03",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05102626/11fb8475-5.smil/thumb.jpg?t=5606&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 5646,
+      "title": "Brasil: Lula vant presidentvalget",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05102626/11fb8475-5.smil/thumb.jpg?t=5672&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 5846,
+      "title": "Hvem tar over for Xi?",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05102626/11fb8475-5.smil/thumb.jpg?t=5872&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 6284,
+      "title": "Overskrifter 08:15",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05102626/11fb8475-5.smil/thumb.jpg?t=6310&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 6319,
+      "title": "Krever ny styring av sykehus",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05102626/11fb8475-5.smil/thumb.jpg?t=6345&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 6519,
+      "title": "Mandagspanel",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05102626/11fb8475-5.smil/thumb.jpg?t=6545&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 6936,
+      "title": "Graham Hansen om Gullballen",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05102626/11fb8475-5.smil/thumb.jpg?t=6962&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 7075,
+      "title": "Gullballen deles ut i kveld",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05102626/11fb8475-5.smil/thumb.jpg?t=7100&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 7301,
+      "title": "Hør Ekko i NRK P2",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05102626/11fb8475-5.smil/thumb.jpg?t=7326&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 7343,
+      "title": "Overskrifter 08:30",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05102626/11fb8475-5.smil/thumb.jpg?t=7369&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 7397,
+      "title": "Silva valgt til president for fjerde gang",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05102626/11fb8475-5.smil/thumb.jpg?t=7422&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 7682,
+      "title": "– Norge er blitt et «shit house»-land",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05102626/11fb8475-5.smil/thumb.jpg?t=7708&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 7865,
+      "title": "Sp krev betre sjukehusbudsjett",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05102626/11fb8475-5.smil/thumb.jpg?t=7891&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8060,
+      "title": "Nordic Mining stanser gruvedriften",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05102626/11fb8475-5.smil/thumb.jpg?t=8086&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8180,
+      "title": "Overskrifter 08:45",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05102626/11fb8475-5.smil/thumb.jpg?t=8206&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8243,
+      "title": "Studentene vant i Serbia",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05102626/11fb8475-5.smil/thumb.jpg?t=8268&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8401,
+      "title": "Anmeldelse: «Svendsens catering»",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05102626/11fb8475-5.smil/thumb.jpg?t=8427&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8702,
+      "title": "Unge mangler beredskap",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05102626/11fb8475-5.smil/thumb.jpg?t=8727&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8850,
+      "title": "GJEST Været i dag",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05102626/11fb8475-5.smil/thumb.jpg?t=8876&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8996,
+      "title": "Avslutning",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa05102626/11fb8475-5.smil/thumb.jpg?t=9004.36&scale=1920x1080&v=high"
+    }
+  ]
+}
