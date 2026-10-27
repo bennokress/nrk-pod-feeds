@@ -1,0 +1,53 @@
+{
+  "version": "1.2.0",
+  "title": "Svært jevnt i Israel",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 1,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa21102726/67ecba3b-5.smil/thumb.jpg?t=26&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 46,
+      "title": "Israel",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa21102726/67ecba3b-5.smil/thumb.jpg?t=71&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 128,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa21102726/67ecba3b-5.smil/thumb.jpg?t=153&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 271,
+      "title": "Stubb og Støre",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa21102726/67ecba3b-5.smil/thumb.jpg?t=297&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 331,
+      "title": "Nettpromo",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa21102726/67ecba3b-5.smil/thumb.jpg?t=356&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 346,
+      "title": "Sikkerhet",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa21102726/67ecba3b-5.smil/thumb.jpg?t=371&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 439,
+      "title": "Trump",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa21102726/67ecba3b-5.smil/thumb.jpg?t=465&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 465,
+      "title": "Vannbrudd",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa21102726/67ecba3b-5.smil/thumb.jpg?t=491&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 489,
+      "title": "Været",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa21102726/67ecba3b-5.smil/thumb.jpg?t=514&scale=1920x1080&v=high"
+    }
+  ]
+}
