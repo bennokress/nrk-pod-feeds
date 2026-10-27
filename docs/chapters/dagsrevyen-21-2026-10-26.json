@@ -1,0 +1,63 @@
+{
+  "version": "1.2.0",
+  "title": "Hylles i gatene",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa21102626/a39cfb8b-6.smil/thumb.jpg?t=25&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 31,
+      "title": "Fare krankollaps",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa21102626/a39cfb8b-6.smil/thumb.jpg?t=56&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 47,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa21102626/a39cfb8b-6.smil/thumb.jpg?t=73&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 141,
+      "title": "Venezuela",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa21102626/a39cfb8b-6.smil/thumb.jpg?t=166&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 241,
+      "title": "Visumnekt russere",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa21102626/a39cfb8b-6.smil/thumb.jpg?t=267&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 328,
+      "title": "Holocaustsenteret",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa21102626/a39cfb8b-6.smil/thumb.jpg?t=354&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 429,
+      "title": "Nettpromo",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa21102626/a39cfb8b-6.smil/thumb.jpg?t=454&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 448,
+      "title": "Gullballen",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa21102626/a39cfb8b-6.smil/thumb.jpg?t=473&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 516,
+      "title": "Været",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa21102626/a39cfb8b-6.smil/thumb.jpg?t=541&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 562,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa21102626/a39cfb8b-6.smil/thumb.jpg?t=588&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 585,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa21102626/a39cfb8b-6.smil/thumb.jpg?t=604.8&scale=1920x1080&v=high"
+    }
+  ]
+}
