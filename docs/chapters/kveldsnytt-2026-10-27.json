@@ -1,0 +1,63 @@
+{
+  "version": "1.2.0",
+  "title": "Diskuterer full innvandringsstopp",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa23102726/d431a204-6.smil/thumb.jpg?t=26&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 35,
+      "title": "Israel",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa23102726/d431a204-6.smil/thumb.jpg?t=61&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 117,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa23102726/d431a204-6.smil/thumb.jpg?t=142&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 222,
+      "title": "AP og H innrømmer at de har vært naive i innvandringsspørsmålet",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa23102726/d431a204-6.smil/thumb.jpg?t=247&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 325,
+      "title": "Beredskap",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa23102726/d431a204-6.smil/thumb.jpg?t=351&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 431,
+      "title": "Bolsonaro",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa23102726/d431a204-6.smil/thumb.jpg?t=456&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 456,
+      "title": "Trump om Venezuela",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa23102726/d431a204-6.smil/thumb.jpg?t=481&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 527,
+      "title": "Best of Fotball",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa23102726/d431a204-6.smil/thumb.jpg?t=552&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 666,
+      "title": "Arsenal Fleetwood",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa23102726/d431a204-6.smil/thumb.jpg?t=692&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 701,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa23102726/d431a204-6.smil/thumb.jpg?t=726&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 771,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-61.akamaized.net/open/ps/nnfa/nnfa23102726/d431a204-6.smil/thumb.jpg?t=797&scale=1920x1080&v=high"
+    }
+  ]
+}
