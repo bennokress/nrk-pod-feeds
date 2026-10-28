@@ -1,0 +1,48 @@
+{
+  "version": "1.2.0",
+  "title": "Støre og Stubb har snakket med Putin",
+  "author": "NRK",
+  "podcastName": "Dagsnytt 18",
+  "chapters": [
+    {
+      "startTime": 1,
+      "title": "Dagsnytt atten",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa56102726/bd402853-6.smil/thumb.jpg?t=27&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 67,
+      "title": "Putin-samtale",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa56102726/bd402853-6.smil/thumb.jpg?t=93&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 955,
+      "title": "Frederiksen reagerer",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa56102726/bd402853-6.smil/thumb.jpg?t=980&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1804,
+      "title": "NSM om cyberrisiko",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa56102726/bd402853-6.smil/thumb.jpg?t=1830&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2244,
+      "title": "Valg i Israel",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa56102726/bd402853-6.smil/thumb.jpg?t=2269&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2830,
+      "title": "Språk på ferger",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa56102726/bd402853-6.smil/thumb.jpg?t=2856&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3533,
+      "title": "AVSLUTNING",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa56102726/bd402853-6.smil/thumb.jpg?t=3545.84&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3535,
+      "title": "SLUTTKJENNING",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa56102726/bd402853-6.smil/thumb.jpg?t=3545.84&scale=1920x1080&v=high"
+    }
+  ]
+}
