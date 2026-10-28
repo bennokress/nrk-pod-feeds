@@ -1,0 +1,268 @@
+{
+  "version": "1.2.0",
+  "title": "Diagnoser gir kostnadssmell",
+  "author": "NRK",
+  "podcastName": "Nyhetsmorgen",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Åpning 06:30",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05102726/c4dae2e3-5.smil/thumb.jpg?t=25&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 82,
+      "title": "Tunge diagnoser gir kostnadssmell i skolen",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05102726/c4dae2e3-5.smil/thumb.jpg?t=108&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 211,
+      "title": "Større cruisenæring",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05102726/c4dae2e3-5.smil/thumb.jpg?t=237&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 453,
+      "title": "Siste nytt",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05102726/c4dae2e3-5.smil/thumb.jpg?t=479&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 575,
+      "title": "Bilbonanza blant ungdommen",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05102726/c4dae2e3-5.smil/thumb.jpg?t=600&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 772,
+      "title": "Jay-Z skal opptre under Super Bowl",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05102726/c4dae2e3-5.smil/thumb.jpg?t=798&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 975,
+      "title": "Overskrifter 06:45",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05102726/c4dae2e3-5.smil/thumb.jpg?t=1000&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1007,
+      "title": "VM i bryting",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05102726/c4dae2e3-5.smil/thumb.jpg?t=1032&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1163,
+      "title": "Slik står det med KI nå",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05102726/c4dae2e3-5.smil/thumb.jpg?t=1188&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1333,
+      "title": "Fall i KI-aksjer",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05102726/c4dae2e3-5.smil/thumb.jpg?t=1358&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1655,
+      "title": "Vil ha helseattester i gateløp",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05102726/c4dae2e3-5.smil/thumb.jpg?t=1680&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1828,
+      "title": "Åpning 07:00",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05102726/c4dae2e3-5.smil/thumb.jpg?t=1854&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1907,
+      "title": "Tunge diagnoser gir kostnadssmell i skolen",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05102726/c4dae2e3-5.smil/thumb.jpg?t=1933&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2087,
+      "title": "Før Politisk kvarter",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05102726/c4dae2e3-5.smil/thumb.jpg?t=2112&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2142,
+      "title": "Valg Israel",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05102726/c4dae2e3-5.smil/thumb.jpg?t=2167&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2367,
+      "title": "Valg i Israel i dag",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05102726/c4dae2e3-5.smil/thumb.jpg?t=2392&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2583,
+      "title": "Saksøker Meta",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05102726/c4dae2e3-5.smil/thumb.jpg?t=2609&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2778,
+      "title": "Overskrifter 07:15",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05102726/c4dae2e3-5.smil/thumb.jpg?t=2804&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2814,
+      "title": "100 dager med Burnham",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05102726/c4dae2e3-5.smil/thumb.jpg?t=2839&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3127,
+      "title": "Gullballen-utdelinga",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05102726/c4dae2e3-5.smil/thumb.jpg?t=3152&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3410,
+      "title": "Store forskjeller i sykefravær",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05102726/c4dae2e3-5.smil/thumb.jpg?t=3435&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3566,
+      "title": "Trailer - A-laget: Ståle Solbakken",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05102726/c4dae2e3-5.smil/thumb.jpg?t=3592&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3599,
+      "title": "Overskrifter 07:30",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05102726/c4dae2e3-5.smil/thumb.jpg?t=3624&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3630,
+      "title": "Tunge diagnoser gir kostnadssmell i skolen",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05102726/c4dae2e3-5.smil/thumb.jpg?t=3656&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3755,
+      "title": "Saksøker Meta",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05102726/c4dae2e3-5.smil/thumb.jpg?t=3781&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3879,
+      "title": "Valg i Israel i dag",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05102726/c4dae2e3-5.smil/thumb.jpg?t=3905&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3990,
+      "title": "Vil ha helseattester i gateløp",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05102726/c4dae2e3-5.smil/thumb.jpg?t=4016&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 4082,
+      "title": "Større cruisenæring",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05102726/c4dae2e3-5.smil/thumb.jpg?t=4108&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 4169,
+      "title": "Ingen Gullball til Norge",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05102726/c4dae2e3-5.smil/thumb.jpg?t=4195&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 4200,
+      "title": "Åpning 07:40",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05102726/c4dae2e3-5.smil/thumb.jpg?t=4226&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 4213,
+      "title": "Nebraska før mellomvalget",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05102726/c4dae2e3-5.smil/thumb.jpg?t=4238&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 5400,
+      "title": "NRK Nyheter 08:00",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05102726/c4dae2e3-5.smil/thumb.jpg?t=5425&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 5579,
+      "title": "Åpning 08:03",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05102726/c4dae2e3-5.smil/thumb.jpg?t=5605&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 5641,
+      "title": "Vil ha helseattester i gateløp",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05102726/c4dae2e3-5.smil/thumb.jpg?t=5666&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 5818,
+      "title": "Valg Israel",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05102726/c4dae2e3-5.smil/thumb.jpg?t=5844&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 6053,
+      "title": "Hva velges i et mellomvalg i USA?",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05102726/c4dae2e3-5.smil/thumb.jpg?t=6079&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 6415,
+      "title": "Overskrifter 08:15",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05102726/c4dae2e3-5.smil/thumb.jpg?t=6440&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 6420,
+      "title": "Større cruisenæring",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05102726/c4dae2e3-5.smil/thumb.jpg?t=6446&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 6665,
+      "title": "Store forskjeller i sykefravær",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05102726/c4dae2e3-5.smil/thumb.jpg?t=6690&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 6786,
+      "title": "Anmeldelse: «Borgen»",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05102726/c4dae2e3-5.smil/thumb.jpg?t=6812&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 7048,
+      "title": "Slik står det med KI nå",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05102726/c4dae2e3-5.smil/thumb.jpg?t=7074&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 7213,
+      "title": "Hør Ekko i NRK P2",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05102726/c4dae2e3-5.smil/thumb.jpg?t=7238&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 7290,
+      "title": "Overskrifter 08:30",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05102726/c4dae2e3-5.smil/thumb.jpg?t=7315&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 7342,
+      "title": "Saksøker Meta",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05102726/c4dae2e3-5.smil/thumb.jpg?t=7368&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 7537,
+      "title": "Meta-søksmål",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05102726/c4dae2e3-5.smil/thumb.jpg?t=7563&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 7814,
+      "title": "Tunge diagnoser gir kostnadssmell i skolen",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05102726/c4dae2e3-5.smil/thumb.jpg?t=7839&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 7998,
+      "title": "Overskrifter 08:45",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05102726/c4dae2e3-5.smil/thumb.jpg?t=8024&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8035,
+      "title": "Nordisk råd i Helsingfors",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05102726/c4dae2e3-5.smil/thumb.jpg?t=8060&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8309,
+      "title": "Ingen Gullball til Norge",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05102726/c4dae2e3-5.smil/thumb.jpg?t=8334&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8592,
+      "title": "Kane om Gulballen",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05102726/c4dae2e3-5.smil/thumb.jpg?t=8618&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8688,
+      "title": "Nebraska før mellomvalget",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05102726/c4dae2e3-5.smil/thumb.jpg?t=8714&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8922,
+      "title": "GJEST Været i dag",
+      "img": "https://nrk-od-world-96.akamaized.net/open/ps/nnfa/nnfa05102726/c4dae2e3-5.smil/thumb.jpg?t=8948&scale=1920x1080&v=high"
+    }
+  ]
+}
