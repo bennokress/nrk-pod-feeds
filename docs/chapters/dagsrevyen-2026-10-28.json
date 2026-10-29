@@ -1,0 +1,138 @@
+{
+  "version": "1.2.0",
+  "title": "- Mennesker fløy gjennom lufta",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 10,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa19102826/12027caa-5.smil/thumb.jpg?t=36&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 69,
+      "title": "Togulykke Spania",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa19102826/12027caa-5.smil/thumb.jpg?t=95&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 247,
+      "title": "Gjest: Bane Nor",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa19102826/12027caa-5.smil/thumb.jpg?t=272&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 377,
+      "title": "Listhaug i Paris",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa19102826/12027caa-5.smil/thumb.jpg?t=402&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 515,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa19102826/12027caa-5.smil/thumb.jpg?t=540&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 619,
+      "title": "Valg i Israel",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa19102826/12027caa-5.smil/thumb.jpg?t=645&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 772,
+      "title": "Direkte: Israel",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa19102826/12027caa-5.smil/thumb.jpg?t=798&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 895,
+      "title": "Drammen",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa19102826/12027caa-5.smil/thumb.jpg?t=920&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 909,
+      "title": "Utenriksnyheter",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa19102826/12027caa-5.smil/thumb.jpg?t=934&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1006,
+      "title": "Datasenter",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa19102826/12027caa-5.smil/thumb.jpg?t=1031&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1160,
+      "title": "Gjest: Håvard Nyhus",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa19102826/12027caa-5.smil/thumb.jpg?t=1185&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1269,
+      "title": "Norwegian resultat",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa19102826/12027caa-5.smil/thumb.jpg?t=1294&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1376,
+      "title": "Equinor resultat",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa19102826/12027caa-5.smil/thumb.jpg?t=1401&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1530,
+      "title": "Turistskatt",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa19102826/12027caa-5.smil/thumb.jpg?t=1555&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1623,
+      "title": "Ny James Bond",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa19102826/12027caa-5.smil/thumb.jpg?t=1648&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1701,
+      "title": "Gjest: I.M. Hobbelstad",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa19102826/12027caa-5.smil/thumb.jpg?t=1727&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1951,
+      "title": "Økt bilsalg",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa19102826/12027caa-5.smil/thumb.jpg?t=1976&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2057,
+      "title": "Idrettsmerket",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa19102826/12027caa-5.smil/thumb.jpg?t=2083&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2161,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa19102826/12027caa-5.smil/thumb.jpg?t=2186&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2165,
+      "title": "Brann Europa",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa19102826/12027caa-5.smil/thumb.jpg?t=2191&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2195,
+      "title": "Bullen",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa19102826/12027caa-5.smil/thumb.jpg?t=2220&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2218,
+      "title": "Casper Ruud",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa19102826/12027caa-5.smil/thumb.jpg?t=2243&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2237,
+      "title": "ALPINT",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa19102826/12027caa-5.smil/thumb.jpg?t=2263&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2329,
+      "title": "Ironman innendørs",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa19102826/12027caa-5.smil/thumb.jpg?t=2355&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2419,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa19102826/12027caa-5.smil/thumb.jpg?t=2445&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2576,
+      "title": "Direkte: Madrid",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa19102826/12027caa-5.smil/thumb.jpg?t=2602&scale=1920x1080&v=high"
+    }
+  ]
+}
