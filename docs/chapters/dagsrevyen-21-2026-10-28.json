@@ -1,0 +1,58 @@
+{
+  "version": "1.2.0",
+  "title": "Vant første runde mot Meta",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa21102826/bf986d8a-7.smil/thumb.jpg?t=25&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 27,
+      "title": "Togulykken Spania",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa21102826/bf986d8a-7.smil/thumb.jpg?t=52&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 168,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa21102826/bf986d8a-7.smil/thumb.jpg?t=194&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 173,
+      "title": "DAGSREVYPAKKE",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa21102826/bf986d8a-7.smil/thumb.jpg?t=199&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 267,
+      "title": "Nettpromo",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa21102826/bf986d8a-7.smil/thumb.jpg?t=292&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 286,
+      "title": "Meta søksmål",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa21102826/bf986d8a-7.smil/thumb.jpg?t=311&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 384,
+      "title": "Kronprinsessa",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa21102826/bf986d8a-7.smil/thumb.jpg?t=409&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 405,
+      "title": "Fotball",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa21102826/bf986d8a-7.smil/thumb.jpg?t=430&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 484,
+      "title": "Været",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa21102826/bf986d8a-7.smil/thumb.jpg?t=509&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 532,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-22.akamaized.net/open/ps/nnfa/nnfa21102826/bf986d8a-7.smil/thumb.jpg?t=550.6&scale=1920x1080&v=high"
+    }
+  ]
+}
