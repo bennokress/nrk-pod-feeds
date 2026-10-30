@@ -1,0 +1,83 @@
+{
+  "version": "1.2.0",
+  "title": "Kritiserer barselomsorgen",
+  "author": "NRK",
+  "podcastName": "Dagsnytt 18",
+  "chapters": [
+    {
+      "startTime": 2,
+      "title": "Dagsnytt atten",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa56102926/9183f5cc-6.smil/thumb.jpg?t=28&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 50,
+      "title": "Psykisk helse i barselomsorgen",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa56102926/9183f5cc-6.smil/thumb.jpg?t=76&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 781,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa56102926/9183f5cc-6.smil/thumb.jpg?t=807&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 791,
+      "title": "Mistenker fiskerikriminalitet",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa56102926/9183f5cc-6.smil/thumb.jpg?t=817&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1043,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa56102926/9183f5cc-6.smil/thumb.jpg?t=1069&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1052,
+      "title": "Røykeforbud på bussholdeplass",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa56102926/9183f5cc-6.smil/thumb.jpg?t=1078&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1576,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa56102926/9183f5cc-6.smil/thumb.jpg?t=1601&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1586,
+      "title": "Lærere og ytringsfrihet",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa56102926/9183f5cc-6.smil/thumb.jpg?t=1611&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2171,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa56102926/9183f5cc-6.smil/thumb.jpg?t=2197&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2182,
+      "title": "Navnestrid om stadion i Bodø",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa56102926/9183f5cc-6.smil/thumb.jpg?t=2207&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2624,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa56102926/9183f5cc-6.smil/thumb.jpg?t=2650&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2635,
+      "title": "Moms på trening",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa56102926/9183f5cc-6.smil/thumb.jpg?t=2660&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3103,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa56102926/9183f5cc-6.smil/thumb.jpg?t=3128&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3113,
+      "title": "Ta med drikkevann på tur",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa56102926/9183f5cc-6.smil/thumb.jpg?t=3138&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3524,
+      "title": "SLUTTKJENNING",
+      "img": "https://nrk-od-world-46.akamaized.net/open/ps/nnfa/nnfa56102926/9183f5cc-6.smil/thumb.jpg?t=3544.84&scale=1920x1080&v=high"
+    }
+  ]
+}
