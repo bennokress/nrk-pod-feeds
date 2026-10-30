@@ -1,0 +1,148 @@
+{
+  "version": "1.2.0",
+  "title": "- Lyst på en klubbjobb",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa19102926/2a4915fa-24.smil/thumb.jpg?t=25&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 57,
+      "title": "Fiskerikriminalitet",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa19102926/2a4915fa-24.smil/thumb.jpg?t=83&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 170,
+      "title": "Gjest: Dennis Ravndal",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa19102926/2a4915fa-24.smil/thumb.jpg?t=196&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 297,
+      "title": "Direkte: Spania",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa19102926/2a4915fa-24.smil/thumb.jpg?t=322&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 344,
+      "title": "Togulykken",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa19102926/2a4915fa-24.smil/thumb.jpg?t=370&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 559,
+      "title": "Direkte: Madrid",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa19102926/2a4915fa-24.smil/thumb.jpg?t=585&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 631,
+      "title": "Direkte: Malaga",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa19102926/2a4915fa-24.smil/thumb.jpg?t=656&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 727,
+      "title": "Munch og Picasso",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa19102926/2a4915fa-24.smil/thumb.jpg?t=752&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 810,
+      "title": "Datasenter",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa19102926/2a4915fa-24.smil/thumb.jpg?t=835&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 942,
+      "title": "Gjest Sindre Heyerdahl",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa19102926/2a4915fa-24.smil/thumb.jpg?t=967&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1064,
+      "title": "Trailer Debatten",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa19102926/2a4915fa-24.smil/thumb.jpg?t=1090&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1100,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa19102926/2a4915fa-24.smil/thumb.jpg?t=1126&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1195,
+      "title": "Barselomsorg",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa19102926/2a4915fa-24.smil/thumb.jpg?t=1220&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1344,
+      "title": "Mellomvalg USA",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa19102926/2a4915fa-24.smil/thumb.jpg?t=1369&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1499,
+      "title": "Utenriksnyheter",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa19102926/2a4915fa-24.smil/thumb.jpg?t=1524&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1623,
+      "title": "Ny innsatstropp",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa19102926/2a4915fa-24.smil/thumb.jpg?t=1649&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1720,
+      "title": "Gullrekka",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa19102926/2a4915fa-24.smil/thumb.jpg?t=1745&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1731,
+      "title": "Direkte: Oslo",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa19102926/2a4915fa-24.smil/thumb.jpg?t=1757&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1836,
+      "title": "Gullrekka",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa19102926/2a4915fa-24.smil/thumb.jpg?t=1862&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1912,
+      "title": "Beredskapsuka",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa19102926/2a4915fa-24.smil/thumb.jpg?t=1938&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2019,
+      "title": "Halloween",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa19102926/2a4915fa-24.smil/thumb.jpg?t=2044&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2116,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa19102926/2a4915fa-24.smil/thumb.jpg?t=2142&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2121,
+      "title": "Landslag, Solbakken",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa19102926/2a4915fa-24.smil/thumb.jpg?t=2146&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2195,
+      "title": "Gjester",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa19102926/2a4915fa-24.smil/thumb.jpg?t=2220&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2273,
+      "title": "Fotball,før Glimt-Viking",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa19102926/2a4915fa-24.smil/thumb.jpg?t=2299&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2371,
+      "title": "Alpint, Kvitfjell",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa19102926/2a4915fa-24.smil/thumb.jpg?t=2397&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2392,
+      "title": "Langrenn, Heggen",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa19102926/2a4915fa-24.smil/thumb.jpg?t=2418&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2466,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa19102926/2a4915fa-24.smil/thumb.jpg?t=2491&scale=1920x1080&v=high"
+    }
+  ]
+}

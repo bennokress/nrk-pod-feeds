@@ -1,0 +1,148 @@
+{
+  "version": "1.2.0",
+  "title": "Ringte Putin",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 5,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa19102726/59ce7e05-5.smil/thumb.jpg?t=30&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 58,
+      "title": "Ukraina-samtaler",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa19102726/59ce7e05-5.smil/thumb.jpg?t=83&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 177,
+      "title": "Direkte: Helsingfors",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa19102726/59ce7e05-5.smil/thumb.jpg?t=203&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 287,
+      "title": "Direkte: Moskva",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa19102726/59ce7e05-5.smil/thumb.jpg?t=313&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 387,
+      "title": "Ukraina-samtaler",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa19102726/59ce7e05-5.smil/thumb.jpg?t=413&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 476,
+      "title": "Gjest: Holm",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa19102726/59ce7e05-5.smil/thumb.jpg?t=501&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 580,
+      "title": "Bolsonaro rømt",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa19102726/59ce7e05-5.smil/thumb.jpg?t=605&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 606,
+      "title": "Vannrør brudd",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa19102726/59ce7e05-5.smil/thumb.jpg?t=632&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 722,
+      "title": "Direkte: Sør-Varanger",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa19102726/59ce7e05-5.smil/thumb.jpg?t=747&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 814,
+      "title": "NSM sikkerhet",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa19102726/59ce7e05-5.smil/thumb.jpg?t=839&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 874,
+      "title": "Diagnoser i skolen",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa19102726/59ce7e05-5.smil/thumb.jpg?t=900&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1003,
+      "title": "Valg i Israel",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa19102726/59ce7e05-5.smil/thumb.jpg?t=1029&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1190,
+      "title": "Direkte: Jerusalem",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa19102726/59ce7e05-5.smil/thumb.jpg?t=1215&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1302,
+      "title": "Valg i Israel",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa19102726/59ce7e05-5.smil/thumb.jpg?t=1328&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1436,
+      "title": "USA mellomvalg",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa19102726/59ce7e05-5.smil/thumb.jpg?t=1462&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1485,
+      "title": "Gjest Buvarp Aardal",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa19102726/59ce7e05-5.smil/thumb.jpg?t=1510&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1556,
+      "title": "Mopedbiler",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa19102726/59ce7e05-5.smil/thumb.jpg?t=1582&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1676,
+      "title": "Politisk tillit",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa19102726/59ce7e05-5.smil/thumb.jpg?t=1701&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1806,
+      "title": "Gjest: Johannes Bergh",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa19102726/59ce7e05-5.smil/thumb.jpg?t=1831&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1944,
+      "title": "Nordisk råd",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa19102726/59ce7e05-5.smil/thumb.jpg?t=1969&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2003,
+      "title": "Gir penger til sykehus",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa19102726/59ce7e05-5.smil/thumb.jpg?t=2029&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2107,
+      "title": "Trailer Debatten",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa19102726/59ce7e05-5.smil/thumb.jpg?t=2133&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2137,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa19102726/59ce7e05-5.smil/thumb.jpg?t=2163&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2145,
+      "title": "Vektløfting",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa19102726/59ce7e05-5.smil/thumb.jpg?t=2171&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2236,
+      "title": "Gullballen",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa19102726/59ce7e05-5.smil/thumb.jpg?t=2262&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2318,
+      "title": "Får fortsette",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa19102726/59ce7e05-5.smil/thumb.jpg?t=2344&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2354,
+      "title": "Navnestrid Glimt",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa19102726/59ce7e05-5.smil/thumb.jpg?t=2380&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2461,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa19102726/59ce7e05-5.smil/thumb.jpg?t=2486&scale=1920x1080&v=high"
+    }
+  ]
+}
