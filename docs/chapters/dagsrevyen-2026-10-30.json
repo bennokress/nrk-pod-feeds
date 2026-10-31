@@ -1,0 +1,98 @@
+{
+  "version": "1.2.0",
+  "title": "Et helvete på jord",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 8,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa19103026/b828046c-5.smil/thumb.jpg?t=33&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 87,
+      "title": "Investeringer i Norge",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa19103026/b828046c-5.smil/thumb.jpg?t=112&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 195,
+      "title": "Gjest Macic",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa19103026/b828046c-5.smil/thumb.jpg?t=220&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 304,
+      "title": "Evakuering Ukraina",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa19103026/b828046c-5.smil/thumb.jpg?t=329&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 434,
+      "title": "Direkte Moskva",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa19103026/b828046c-5.smil/thumb.jpg?t=459&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 539,
+      "title": "Dødsulykke Stjørdal",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa19103026/b828046c-5.smil/thumb.jpg?t=565&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 634,
+      "title": "Høiby varetekt",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa19103026/b828046c-5.smil/thumb.jpg?t=659&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 682,
+      "title": "Utenriksnyheter",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa19103026/b828046c-5.smil/thumb.jpg?t=708&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 782,
+      "title": "Amerikanernes økonomi",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa19103026/b828046c-5.smil/thumb.jpg?t=807&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 889,
+      "title": "Sonja Spania",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa19103026/b828046c-5.smil/thumb.jpg?t=914&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1002,
+      "title": "Eckhoff løping",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa19103026/b828046c-5.smil/thumb.jpg?t=1027&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1095,
+      "title": "Halloween",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa19103026/b828046c-5.smil/thumb.jpg?t=1120&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1218,
+      "title": "Direkte: Skaun",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa19103026/b828046c-5.smil/thumb.jpg?t=1244&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1360,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa19103026/b828046c-5.smil/thumb.jpg?t=1386&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1371,
+      "title": "Håndball EM-tropp",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa19103026/b828046c-5.smil/thumb.jpg?t=1397&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1458,
+      "title": "Russland til ishockey-VM",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa19103026/b828046c-5.smil/thumb.jpg?t=1483&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1512,
+      "title": "Eliteserien",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa19103026/b828046c-5.smil/thumb.jpg?t=1538&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1551,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-08.akamaized.net/open/ps/nnfa/nnfa19103026/b828046c-5.smil/thumb.jpg?t=1577&scale=1920x1080&v=high"
+    }
+  ]
+}
