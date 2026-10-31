@@ -1,0 +1,68 @@
+{
+  "version": "1.2.0",
+  "title": "Bidrar til matberedskap",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa23103026/8c56e686-10.smil/thumb.jpg?t=25&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 31,
+      "title": "Lokal mat Forsvaret",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa23103026/8c56e686-10.smil/thumb.jpg?t=57&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 122,
+      "title": "Røde tall Wall street",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa23103026/8c56e686-10.smil/thumb.jpg?t=147&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 147,
+      "title": "Dødstall ebola",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa23103026/8c56e686-10.smil/thumb.jpg?t=172&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 168,
+      "title": "Christa Pike",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa23103026/8c56e686-10.smil/thumb.jpg?t=193&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 242,
+      "title": "Økt kontroll Svalbard",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa23103026/8c56e686-10.smil/thumb.jpg?t=267&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 354,
+      "title": "Frisør i 50 år",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa23103026/8c56e686-10.smil/thumb.jpg?t=379&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 441,
+      "title": "Konsert før halloween",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa23103026/8c56e686-10.smil/thumb.jpg?t=467&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 549,
+      "title": "Vinkla Glimt-Viking",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa23103026/8c56e686-10.smil/thumb.jpg?t=574&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 649,
+      "title": "Magnussen Nederland",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa23103026/8c56e686-10.smil/thumb.jpg?t=675&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 739,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa23103026/8c56e686-10.smil/thumb.jpg?t=765&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 807,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-34.akamaized.net/open/ps/nnfa/nnfa23103026/8c56e686-10.smil/thumb.jpg?t=832&scale=1920x1080&v=high"
+    }
+  ]
+}
