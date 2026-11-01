@@ -1,0 +1,63 @@
+{
+  "version": "1.2.0",
+  "title": "Reagerer på forslag om datasenter-stans",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 1,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-47.akamaized.net/open/ps/nnfa/nnfa21102926/28cc438e-5.smil/thumb.jpg?t=26&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 45,
+      "title": "Datasentre",
+      "img": "https://nrk-od-world-47.akamaized.net/open/ps/nnfa/nnfa21102926/28cc438e-5.smil/thumb.jpg?t=70&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 139,
+      "title": "Nettpromo",
+      "img": "https://nrk-od-world-47.akamaized.net/open/ps/nnfa/nnfa21102926/28cc438e-5.smil/thumb.jpg?t=164&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 154,
+      "title": "Sarpsborg",
+      "img": "https://nrk-od-world-47.akamaized.net/open/ps/nnfa/nnfa21102926/28cc438e-5.smil/thumb.jpg?t=180&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 172,
+      "title": "Dronning Sonja",
+      "img": "https://nrk-od-world-47.akamaized.net/open/ps/nnfa/nnfa21102926/28cc438e-5.smil/thumb.jpg?t=198&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 235,
+      "title": "NTNU åpnet forskningsflåte",
+      "img": "https://nrk-od-world-47.akamaized.net/open/ps/nnfa/nnfa21102926/28cc438e-5.smil/thumb.jpg?t=261&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 344,
+      "title": "Nytt på Nytt",
+      "img": "https://nrk-od-world-47.akamaized.net/open/ps/nnfa/nnfa21102926/28cc438e-5.smil/thumb.jpg?t=370&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 404,
+      "title": "Patrick Stewart",
+      "img": "https://nrk-od-world-47.akamaized.net/open/ps/nnfa/nnfa21102926/28cc438e-5.smil/thumb.jpg?t=430&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 425,
+      "title": "Europacup",
+      "img": "https://nrk-od-world-47.akamaized.net/open/ps/nnfa/nnfa21102926/28cc438e-5.smil/thumb.jpg?t=451&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 501,
+      "title": "Været",
+      "img": "https://nrk-od-world-47.akamaized.net/open/ps/nnfa/nnfa21102926/28cc438e-5.smil/thumb.jpg?t=526&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 547,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-47.akamaized.net/open/ps/nnfa/nnfa21102926/28cc438e-5.smil/thumb.jpg?t=567.55&scale=1920x1080&v=high"
+    }
+  ]
+}
