@@ -1,0 +1,63 @@
+{
+  "version": "1.2.0",
+  "title": "Fly styrtet – alle omkom",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa23110126/ef9402fd-8.smil/thumb.jpg?t=25&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 43,
+      "title": "Flystyrt Florida",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa23110126/ef9402fd-8.smil/thumb.jpg?t=68&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 96,
+      "title": "Valg i USA",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa23110126/ef9402fd-8.smil/thumb.jpg?t=122&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 216,
+      "title": "Avviser Trump-søksmål",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa23110126/ef9402fd-8.smil/thumb.jpg?t=242&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 242,
+      "title": "Allehelgensdag",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa23110126/ef9402fd-8.smil/thumb.jpg?t=268&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 380,
+      "title": "Vakre kjæledyr",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa23110126/ef9402fd-8.smil/thumb.jpg?t=405&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 411,
+      "title": "Langrenn",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa23110126/ef9402fd-8.smil/thumb.jpg?t=436&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 545,
+      "title": "VIF-Tromsø 4-0 etter tidlig utvisning av TIL-spiller",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa23110126/ef9402fd-8.smil/thumb.jpg?t=570&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 639,
+      "title": "New York Marathon",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa23110126/ef9402fd-8.smil/thumb.jpg?t=664&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 681,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa23110126/ef9402fd-8.smil/thumb.jpg?t=706&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 746,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa23110126/ef9402fd-8.smil/thumb.jpg?t=772&scale=1920x1080&v=high"
+    }
+  ]
+}
