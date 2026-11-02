@@ -1,0 +1,53 @@
+{
+  "version": "1.2.0",
+  "title": "To år som forandret alt",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa21110126/1b9c3313-7.smil/thumb.jpg?t=25&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 27,
+      "title": "Serbia",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa21110126/1b9c3313-7.smil/thumb.jpg?t=52&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 139,
+      "title": "Avviser Trump-søksmål",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa21110126/1b9c3313-7.smil/thumb.jpg?t=164&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 168,
+      "title": "Brann gjenvinning",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa21110126/1b9c3313-7.smil/thumb.jpg?t=194&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 195,
+      "title": "Nazialbum",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa21110126/1b9c3313-7.smil/thumb.jpg?t=220&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 304,
+      "title": "Halloween",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa21110126/1b9c3313-7.smil/thumb.jpg?t=330&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 357,
+      "title": "Pianist på pub",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa21110126/1b9c3313-7.smil/thumb.jpg?t=382&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 505,
+      "title": "Været",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa21110126/1b9c3313-7.smil/thumb.jpg?t=531&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 553,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-93.akamaized.net/open/ps/nnfa/nnfa21110126/1b9c3313-7.smil/thumb.jpg?t=573.6&scale=1920x1080&v=high"
+    }
+  ]
+}
