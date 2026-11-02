@@ -1,0 +1,43 @@
+{
+  "version": "1.2.0",
+  "title": "Sju personer fengslet for fiskerijuks",
+  "author": "NRK",
+  "podcastName": "Dagsnytt 18",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsnytt atten",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa56103026/0eb09ceb-7.smil/thumb.jpg?t=25&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 61,
+      "title": "Fengslet for fiskejuks",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa56103026/0eb09ceb-7.smil/thumb.jpg?t=87&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1414,
+      "title": "Tidenes kryptoran",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa56103026/0eb09ceb-7.smil/thumb.jpg?t=1440&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1870,
+      "title": "Dyrere tomat og agurk",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa56103026/0eb09ceb-7.smil/thumb.jpg?t=1896&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2662,
+      "title": "Novaya Gazeta legges ned",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa56103026/0eb09ceb-7.smil/thumb.jpg?t=2687&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3089,
+      "title": "Slutt for bysykler i Bergen",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa56103026/0eb09ceb-7.smil/thumb.jpg?t=3115&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3527,
+      "title": "SLUTTKJENNING",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa56103026/0eb09ceb-7.smil/thumb.jpg?t=3542.92&scale=1920x1080&v=high"
+    }
+  ]
+}
