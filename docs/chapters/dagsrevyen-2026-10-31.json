@@ -1,0 +1,123 @@
+{
+  "version": "1.2.0",
+  "title": "Reklamestunt på Times Square",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa20103126/4b26aa7f-8.smil/thumb.jpg?t=25&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 76,
+      "title": "Slår tilbake på Times Square",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa20103126/4b26aa7f-8.smil/thumb.jpg?t=102&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 158,
+      "title": "Gjest: Visit Norway",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa20103126/4b26aa7f-8.smil/thumb.jpg?t=184&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 291,
+      "title": "Nordmenn om shithouse utspill",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa20103126/4b26aa7f-8.smil/thumb.jpg?t=316&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 340,
+      "title": "Direkte Washington",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa20103126/4b26aa7f-8.smil/thumb.jpg?t=365&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 432,
+      "title": "Demonstrasjoner Europa",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa20103126/4b26aa7f-8.smil/thumb.jpg?t=458&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 528,
+      "title": "Direkte",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa20103126/4b26aa7f-8.smil/thumb.jpg?t=554&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 673,
+      "title": "Ukrainere i Norge",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa20103126/4b26aa7f-8.smil/thumb.jpg?t=699&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 805,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa20103126/4b26aa7f-8.smil/thumb.jpg?t=830&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 835,
+      "title": "Løping og sykdom",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa20103126/4b26aa7f-8.smil/thumb.jpg?t=861&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 937,
+      "title": "Halloween",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa20103126/4b26aa7f-8.smil/thumb.jpg?t=962&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 966,
+      "title": "Direkte: Halloween",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa20103126/4b26aa7f-8.smil/thumb.jpg?t=992&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1104,
+      "title": "Lørdagsgjest: Saltrø Ytrevik",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa20103126/4b26aa7f-8.smil/thumb.jpg?t=1129&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1444,
+      "title": "Gaza",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa20103126/4b26aa7f-8.smil/thumb.jpg?t=1469&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1727,
+      "title": "Fredsmarsj i Østfold",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa20103126/4b26aa7f-8.smil/thumb.jpg?t=1753&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2079,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa20103126/4b26aa7f-8.smil/thumb.jpg?t=2105&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2086,
+      "title": "Trenerbråk",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa20103126/4b26aa7f-8.smil/thumb.jpg?t=2112&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2156,
+      "title": "Gjest",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa20103126/4b26aa7f-8.smil/thumb.jpg?t=2181&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2259,
+      "title": "Navnestrid",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa20103126/4b26aa7f-8.smil/thumb.jpg?t=2284&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2281,
+      "title": "Eliteserien",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa20103126/4b26aa7f-8.smil/thumb.jpg?t=2306&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2351,
+      "title": "Toppserien",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa20103126/4b26aa7f-8.smil/thumb.jpg?t=2376&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2371,
+      "title": "Premier League",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa20103126/4b26aa7f-8.smil/thumb.jpg?t=2397&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2450,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa20103126/4b26aa7f-8.smil/thumb.jpg?t=2475&scale=1920x1080&v=high"
+    }
+  ]
+}

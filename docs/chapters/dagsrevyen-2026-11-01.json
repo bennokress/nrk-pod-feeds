@@ -1,0 +1,108 @@
+{
+  "version": "1.2.0",
+  "title": "Endelig hjemme!",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa20110126/c5eef720-8.smil/thumb.jpg?t=25&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 84,
+      "title": "Ukraina",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa20110126/c5eef720-8.smil/thumb.jpg?t=109&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 183,
+      "title": "Statsbudsjettet",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa20110126/c5eef720-8.smil/thumb.jpg?t=209&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 304,
+      "title": "Narkotikasalg",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa20110126/c5eef720-8.smil/thumb.jpg?t=330&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 428,
+      "title": "Valget i Alaska",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa20110126/c5eef720-8.smil/thumb.jpg?t=453&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 555,
+      "title": "Gjest om USA-valg",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa20110126/c5eef720-8.smil/thumb.jpg?t=581&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 688,
+      "title": "Unge kriminielle",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa20110126/c5eef720-8.smil/thumb.jpg?t=714&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 820,
+      "title": "Billigere månedskort",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa20110126/c5eef720-8.smil/thumb.jpg?t=846&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 857,
+      "title": "Allehellgenskonsert",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa20110126/c5eef720-8.smil/thumb.jpg?t=882&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 992,
+      "title": "Forsvarets minnedag",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa20110126/c5eef720-8.smil/thumb.jpg?t=1018&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1068,
+      "title": "Direkte",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa20110126/c5eef720-8.smil/thumb.jpg?t=1093&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1141,
+      "title": "Vestbredden",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa20110126/c5eef720-8.smil/thumb.jpg?t=1166&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1499,
+      "title": "Ukraina",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa20110126/c5eef720-8.smil/thumb.jpg?t=1525&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1848,
+      "title": "Memphis, USA",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa20110126/c5eef720-8.smil/thumb.jpg?t=1874&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2229,
+      "title": "Eliteserien",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa20110126/c5eef720-8.smil/thumb.jpg?t=2254&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2335,
+      "title": "Toppserien",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa20110126/c5eef720-8.smil/thumb.jpg?t=2360&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2410,
+      "title": "Fotball",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa20110126/c5eef720-8.smil/thumb.jpg?t=2436&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2605,
+      "title": "Premier League",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa20110126/c5eef720-8.smil/thumb.jpg?t=2631&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2667,
+      "title": "Triatlon",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa20110126/c5eef720-8.smil/thumb.jpg?t=2693&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2777,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa20110126/c5eef720-8.smil/thumb.jpg?t=2803&scale=1920x1080&v=high"
+    }
+  ]
+}

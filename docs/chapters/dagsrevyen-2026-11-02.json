@@ -1,0 +1,118 @@
+{
+  "version": "1.2.0",
+  "title": "Rett i søpla",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 10,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-54.akamaized.net/open/ps/nnfa/nnfa19110226/a0e276ad-9.smil/thumb.jpg?t=36&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 70,
+      "title": "Hacking frysere",
+      "img": "https://nrk-od-world-54.akamaized.net/open/ps/nnfa/nnfa19110226/a0e276ad-9.smil/thumb.jpg?t=96&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 275,
+      "title": "Gjest: Haugstøyl",
+      "img": "https://nrk-od-world-54.akamaized.net/open/ps/nnfa/nnfa19110226/a0e276ad-9.smil/thumb.jpg?t=300&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 404,
+      "title": "Vil løslate Høiby",
+      "img": "https://nrk-od-world-54.akamaized.net/open/ps/nnfa/nnfa19110226/a0e276ad-9.smil/thumb.jpg?t=429&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 439,
+      "title": "Gjest: Dennis Ravndal",
+      "img": "https://nrk-od-world-54.akamaized.net/open/ps/nnfa/nnfa19110226/a0e276ad-9.smil/thumb.jpg?t=464&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 565,
+      "title": "Helsereform",
+      "img": "https://nrk-od-world-54.akamaized.net/open/ps/nnfa/nnfa19110226/a0e276ad-9.smil/thumb.jpg?t=590&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 812,
+      "title": "Gjest: Jan Christian Vestre",
+      "img": "https://nrk-od-world-54.akamaized.net/open/ps/nnfa/nnfa19110226/a0e276ad-9.smil/thumb.jpg?t=837&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 943,
+      "title": "Mellomvalg USA",
+      "img": "https://nrk-od-world-54.akamaized.net/open/ps/nnfa/nnfa19110226/a0e276ad-9.smil/thumb.jpg?t=968&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1091,
+      "title": "Direkte: Maryland",
+      "img": "https://nrk-od-world-54.akamaized.net/open/ps/nnfa/nnfa19110226/a0e276ad-9.smil/thumb.jpg?t=1116&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1228,
+      "title": "Direkte: Austin",
+      "img": "https://nrk-od-world-54.akamaized.net/open/ps/nnfa/nnfa19110226/a0e276ad-9.smil/thumb.jpg?t=1253&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1310,
+      "title": "Mellomvalg USA",
+      "img": "https://nrk-od-world-54.akamaized.net/open/ps/nnfa/nnfa19110226/a0e276ad-9.smil/thumb.jpg?t=1335&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1507,
+      "title": "Sletting studiegjeld",
+      "img": "https://nrk-od-world-54.akamaized.net/open/ps/nnfa/nnfa19110226/a0e276ad-9.smil/thumb.jpg?t=1533&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1627,
+      "title": "HPV menn",
+      "img": "https://nrk-od-world-54.akamaized.net/open/ps/nnfa/nnfa19110226/a0e276ad-9.smil/thumb.jpg?t=1652&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1732,
+      "title": "Formel 1",
+      "img": "https://nrk-od-world-54.akamaized.net/open/ps/nnfa/nnfa19110226/a0e276ad-9.smil/thumb.jpg?t=1757&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1910,
+      "title": "Gjest: Dennis Hauger",
+      "img": "https://nrk-od-world-54.akamaized.net/open/ps/nnfa/nnfa19110226/a0e276ad-9.smil/thumb.jpg?t=1935&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2131,
+      "title": "Glimt før Lille",
+      "img": "https://nrk-od-world-54.akamaized.net/open/ps/nnfa/nnfa19110226/a0e276ad-9.smil/thumb.jpg?t=2156&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2238,
+      "title": "TIL nedtur",
+      "img": "https://nrk-od-world-54.akamaized.net/open/ps/nnfa/nnfa19110226/a0e276ad-9.smil/thumb.jpg?t=2263&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2314,
+      "title": "Røkke vs Øvrebø",
+      "img": "https://nrk-od-world-54.akamaized.net/open/ps/nnfa/nnfa19110226/a0e276ad-9.smil/thumb.jpg?t=2340&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2329,
+      "title": "Tennis Paris",
+      "img": "https://nrk-od-world-54.akamaized.net/open/ps/nnfa/nnfa19110226/a0e276ad-9.smil/thumb.jpg?t=2355&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2357,
+      "title": "Almgren om OL28",
+      "img": "https://nrk-od-world-54.akamaized.net/open/ps/nnfa/nnfa19110226/a0e276ad-9.smil/thumb.jpg?t=2383&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2404,
+      "title": "Ventura",
+      "img": "https://nrk-od-world-54.akamaized.net/open/ps/nnfa/nnfa19110226/a0e276ad-9.smil/thumb.jpg?t=2429&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2467,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-54.akamaized.net/open/ps/nnfa/nnfa19110226/a0e276ad-9.smil/thumb.jpg?t=2493&scale=1920x1080&v=high"
+    }
+  ]
+}
