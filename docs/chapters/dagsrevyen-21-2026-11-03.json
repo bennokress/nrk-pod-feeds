@@ -1,0 +1,58 @@
+{
+  "version": "1.2.0",
+  "title": "Følger spent med",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-41.akamaized.net/open/ps/nnfa/nnfa21110326/bd478fb4-5.smil/thumb.jpg?t=25&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 26,
+      "title": "Valg USA",
+      "img": "https://nrk-od-world-41.akamaized.net/open/ps/nnfa/nnfa21110326/bd478fb4-5.smil/thumb.jpg?t=52&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 77,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-41.akamaized.net/open/ps/nnfa/nnfa21110326/bd478fb4-5.smil/thumb.jpg?t=103&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 167,
+      "title": "Fugleinfluensa Klepp",
+      "img": "https://nrk-od-world-41.akamaized.net/open/ps/nnfa/nnfa21110326/bd478fb4-5.smil/thumb.jpg?t=193&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 197,
+      "title": "DAGSREVYPAKKE",
+      "img": "https://nrk-od-world-41.akamaized.net/open/ps/nnfa/nnfa21110326/bd478fb4-5.smil/thumb.jpg?t=223&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 258,
+      "title": "Cyber sikkerhet på Verft",
+      "img": "https://nrk-od-world-41.akamaized.net/open/ps/nnfa/nnfa21110326/bd478fb4-5.smil/thumb.jpg?t=284&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 378,
+      "title": "Kong Charles om slaveri",
+      "img": "https://nrk-od-world-41.akamaized.net/open/ps/nnfa/nnfa21110326/bd478fb4-5.smil/thumb.jpg?t=403&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 454,
+      "title": "Mesterligaen",
+      "img": "https://nrk-od-world-41.akamaized.net/open/ps/nnfa/nnfa21110326/bd478fb4-5.smil/thumb.jpg?t=480&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 476,
+      "title": "Været",
+      "img": "https://nrk-od-world-41.akamaized.net/open/ps/nnfa/nnfa21110326/bd478fb4-5.smil/thumb.jpg?t=502&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 528,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-41.akamaized.net/open/ps/nnfa/nnfa21110326/bd478fb4-5.smil/thumb.jpg?t=554&scale=1920x1080&v=high"
+    }
+  ]
+}

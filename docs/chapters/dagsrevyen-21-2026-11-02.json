@@ -1,0 +1,48 @@
+{
+  "version": "1.2.0",
+  "title": "Speilbassenget i fokus dagen før valget",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-17.akamaized.net/open/ps/nnfa/nnfa21110226/f7d8caed-7.smil/thumb.jpg?t=25&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 29,
+      "title": "Trumps tale",
+      "img": "https://nrk-od-world-17.akamaized.net/open/ps/nnfa/nnfa21110226/f7d8caed-7.smil/thumb.jpg?t=54&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 152,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-17.akamaized.net/open/ps/nnfa/nnfa21110226/f7d8caed-7.smil/thumb.jpg?t=178&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 263,
+      "title": "Hacking frysere",
+      "img": "https://nrk-od-world-17.akamaized.net/open/ps/nnfa/nnfa21110226/f7d8caed-7.smil/thumb.jpg?t=288&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 332,
+      "title": "Høiby",
+      "img": "https://nrk-od-world-17.akamaized.net/open/ps/nnfa/nnfa21110226/f7d8caed-7.smil/thumb.jpg?t=358&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 358,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-17.akamaized.net/open/ps/nnfa/nnfa21110226/f7d8caed-7.smil/thumb.jpg?t=383&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 472,
+      "title": "Været",
+      "img": "https://nrk-od-world-17.akamaized.net/open/ps/nnfa/nnfa21110226/f7d8caed-7.smil/thumb.jpg?t=497&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 524,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-17.akamaized.net/open/ps/nnfa/nnfa21110226/f7d8caed-7.smil/thumb.jpg?t=545.64&scale=1920x1080&v=high"
+    }
+  ]
+}
