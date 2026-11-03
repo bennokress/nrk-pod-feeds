@@ -1,0 +1,293 @@
+{
+  "version": "1.2.0",
+  "title": "Foreslår flere helsetjenester der folk bor",
+  "author": "NRK",
+  "podcastName": "Nyhetsmorgen",
+  "chapters": [
+    {
+      "startTime": 1,
+      "title": "Åpning 06:30",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa05110226/040a1fce-5.smil/thumb.jpg?t=27&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 62,
+      "title": "Foreslår flere helsetjenester nærmere folk",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa05110226/040a1fce-5.smil/thumb.jpg?t=87&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 189,
+      "title": "– Norske sykehus ikke forberedt på krig",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa05110226/040a1fce-5.smil/thumb.jpg?t=214&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 325,
+      "title": "Vil gjøre det enklere å ta spioner",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa05110226/040a1fce-5.smil/thumb.jpg?t=350&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 384,
+      "title": "Siste nytt",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa05110226/040a1fce-5.smil/thumb.jpg?t=409&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 503,
+      "title": "Aldersgrense SoMe Australia",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa05110226/040a1fce-5.smil/thumb.jpg?t=528&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 746,
+      "title": "Mener Stoltenberg nedprioriterer skolen",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa05110226/040a1fce-5.smil/thumb.jpg?t=771&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 880,
+      "title": "Overskrifter 06:45",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa05110226/040a1fce-5.smil/thumb.jpg?t=905&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 913,
+      "title": "Stans i angrep etter press fra Trump",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa05110226/040a1fce-5.smil/thumb.jpg?t=938&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1225,
+      "title": "Trakassering i ambulansetjenesten",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa05110226/040a1fce-5.smil/thumb.jpg?t=1250&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1388,
+      "title": "Sandvolleyballgutter til ungdoms-OL",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa05110226/040a1fce-5.smil/thumb.jpg?t=1413&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1561,
+      "title": "Alle filmar vil til Vestlandet",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa05110226/040a1fce-5.smil/thumb.jpg?t=1587&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1788,
+      "title": "Lytternes romanpris",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa05110226/040a1fce-5.smil/thumb.jpg?t=1813&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1816,
+      "title": "Åpning 07:00",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa05110226/040a1fce-5.smil/thumb.jpg?t=1842&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1917,
+      "title": "Foreslår flere helsetjenester nærmere folk",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa05110226/040a1fce-5.smil/thumb.jpg?t=1942&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2090,
+      "title": "Helseministeren om helsereform",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa05110226/040a1fce-5.smil/thumb.jpg?t=2115&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2362,
+      "title": "Vil gjøre det enklere å ta spioner",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa05110226/040a1fce-5.smil/thumb.jpg?t=2388&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2585,
+      "title": "Kinesiske-eide leiebiler i Forsvaret",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa05110226/040a1fce-5.smil/thumb.jpg?t=2610&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2825,
+      "title": "Overskrifter 07:15",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa05110226/040a1fce-5.smil/thumb.jpg?t=2850&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2861,
+      "title": "Én dag igjen til mellomvalget i USA",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa05110226/040a1fce-5.smil/thumb.jpg?t=2887&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3179,
+      "title": "Før Politisk kvarter",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa05110226/040a1fce-5.smil/thumb.jpg?t=3204&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3230,
+      "title": "Telefon kan redde liv",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa05110226/040a1fce-5.smil/thumb.jpg?t=3256&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3385,
+      "title": "Billige tomter",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa05110226/040a1fce-5.smil/thumb.jpg?t=3411&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3570,
+      "title": "Hele historien: Dop fra himmelen",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa05110226/040a1fce-5.smil/thumb.jpg?t=3595&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3600,
+      "title": "Overskrifter 07:30",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa05110226/040a1fce-5.smil/thumb.jpg?t=3626&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3638,
+      "title": "Foreslår flere helsetjenester nærmere folk",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa05110226/040a1fce-5.smil/thumb.jpg?t=3664&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3743,
+      "title": "Vil gjøre det enklere å ta spioner",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa05110226/040a1fce-5.smil/thumb.jpg?t=3769&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3853,
+      "title": "Fleire døde i flystyrt",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa05110226/040a1fce-5.smil/thumb.jpg?t=3878&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3869,
+      "title": "Trakassering i ambulansetjenesten",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa05110226/040a1fce-5.smil/thumb.jpg?t=3895&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 4002,
+      "title": "HPV-kreft øker kraftig",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa05110226/040a1fce-5.smil/thumb.jpg?t=4028&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 4039,
+      "title": "Alle filmar vil til Vestlandet",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa05110226/040a1fce-5.smil/thumb.jpg?t=4065&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 4174,
+      "title": "Antonelli tidens yngste vinner i F1",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa05110226/040a1fce-5.smil/thumb.jpg?t=4200&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 4198,
+      "title": "Åpning 07:40",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa05110226/040a1fce-5.smil/thumb.jpg?t=4224&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 4211,
+      "title": "Ungdomsråd blir sjelden lyttet til",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa05110226/040a1fce-5.smil/thumb.jpg?t=4236&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 4458,
+      "title": "Topper 07:44",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa05110226/040a1fce-5.smil/thumb.jpg?t=4484&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 4467,
+      "title": "Overgang til Politisk kvarter",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa05110226/040a1fce-5.smil/thumb.jpg?t=4492&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 5400,
+      "title": "NRK Nyheter 08:00",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa05110226/040a1fce-5.smil/thumb.jpg?t=5425&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 5583,
+      "title": "Åpning 08:03",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa05110226/040a1fce-5.smil/thumb.jpg?t=5608&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 5655,
+      "title": "Foreslår flere helsetjenester nærmere folk",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa05110226/040a1fce-5.smil/thumb.jpg?t=5680&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 5825,
+      "title": "Kommentator om helsereform",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa05110226/040a1fce-5.smil/thumb.jpg?t=5851&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 6068,
+      "title": "Frykter at USA gjenopptar angrep på Iran",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa05110226/040a1fce-5.smil/thumb.jpg?t=6093&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 6279,
+      "title": "Overskrifter 08:15",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa05110226/040a1fce-5.smil/thumb.jpg?t=6304&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 6443,
+      "title": "Nordmenn som verver seg til Ukraina",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa05110226/040a1fce-5.smil/thumb.jpg?t=6468&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 6691,
+      "title": "Mandagspanelet",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa05110226/040a1fce-5.smil/thumb.jpg?t=6717&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 7168,
+      "title": "Hør Ekko i NRK P2",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa05110226/040a1fce-5.smil/thumb.jpg?t=7194&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 7215,
+      "title": "Overskrifter 08:30",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa05110226/040a1fce-5.smil/thumb.jpg?t=7241&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 7269,
+      "title": "Ravndal om fengslingsmøte for Høiby",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa05110226/040a1fce-5.smil/thumb.jpg?t=7294&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 7515,
+      "title": "Flyalarm-app hacket i Ukraina",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa05110226/040a1fce-5.smil/thumb.jpg?t=7540&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 7700,
+      "title": "Alle filmar vil til Vestlandet",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa05110226/040a1fce-5.smil/thumb.jpg?t=7725&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 7834,
+      "title": "Ny dvergplanet oppdaget",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa05110226/040a1fce-5.smil/thumb.jpg?t=7859&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8015,
+      "title": "Overskrifter 08:45",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa05110226/040a1fce-5.smil/thumb.jpg?t=8041&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8049,
+      "title": "Vil gjøre det enklere å ta spioner",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa05110226/040a1fce-5.smil/thumb.jpg?t=8074&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8269,
+      "title": "Kinesiske-eide leiebiler",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa05110226/040a1fce-5.smil/thumb.jpg?t=8294&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8424,
+      "title": "Forhandlingene om statsbudsjettet",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa05110226/040a1fce-5.smil/thumb.jpg?t=8450&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8595,
+      "title": "Anmeldelse – La Bohème",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa05110226/040a1fce-5.smil/thumb.jpg?t=8621&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8925,
+      "title": "Været i dag",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa05110226/040a1fce-5.smil/thumb.jpg?t=8951&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 9000,
+      "title": "Avslutning",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa05110226/040a1fce-5.smil/thumb.jpg?t=9003.44&scale=1920x1080&v=high"
+    }
+  ]
+}
