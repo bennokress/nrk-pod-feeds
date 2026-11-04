@@ -1,0 +1,58 @@
+{
+  "version": "1.2.0",
+  "title": "Valgdag i USA",
+  "author": "NRK",
+  "podcastName": "Dagsnytt 18",
+  "chapters": [
+    {
+      "startTime": 3,
+      "title": "Dagsnytt atten",
+      "img": "https://nrk-od-world-41.akamaized.net/open/ps/nnfa/nnfa56110326/869a482d-5.smil/thumb.jpg?t=29&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 52,
+      "title": "Valgdag i USA",
+      "img": "https://nrk-od-world-41.akamaized.net/open/ps/nnfa/nnfa56110326/869a482d-5.smil/thumb.jpg?t=78&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1700,
+      "title": "Hva skjer hvis Trump taper?",
+      "img": "https://nrk-od-world-41.akamaized.net/open/ps/nnfa/nnfa56110326/869a482d-5.smil/thumb.jpg?t=1725&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1716,
+      "title": "Demokratene videre",
+      "img": "https://nrk-od-world-41.akamaized.net/open/ps/nnfa/nnfa56110326/869a482d-5.smil/thumb.jpg?t=1741&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1810,
+      "title": "Klage på standpunktkarakter",
+      "img": "https://nrk-od-world-41.akamaized.net/open/ps/nnfa/nnfa56110326/869a482d-5.smil/thumb.jpg?t=1836&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2201,
+      "title": "Stoltenberg i Ukraina",
+      "img": "https://nrk-od-world-41.akamaized.net/open/ps/nnfa/nnfa56110326/869a482d-5.smil/thumb.jpg?t=2227&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2456,
+      "title": "- Forbrukertester er verdiløse",
+      "img": "https://nrk-od-world-41.akamaized.net/open/ps/nnfa/nnfa56110326/869a482d-5.smil/thumb.jpg?t=2482&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2890,
+      "title": "Mellomvalget i USA",
+      "img": "https://nrk-od-world-41.akamaized.net/open/ps/nnfa/nnfa56110326/869a482d-5.smil/thumb.jpg?t=2915&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3520,
+      "title": "AVSLUTNING",
+      "img": "https://nrk-od-world-41.akamaized.net/open/ps/nnfa/nnfa56110326/869a482d-5.smil/thumb.jpg?t=3543.88&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3528,
+      "title": "SLUTTKJENNING",
+      "img": "https://nrk-od-world-41.akamaized.net/open/ps/nnfa/nnfa56110326/869a482d-5.smil/thumb.jpg?t=3543.88&scale=1920x1080&v=high"
+    }
+  ]
+}
