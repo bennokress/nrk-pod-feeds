@@ -8,18 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 02 Nov 2026 22:26:03 +0000</lastBuildDate>
-    <pubDate>Mon, 02 Nov 2026 23:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 04 Nov 2026 22:26:22 +0000</lastBuildDate>
+    <pubDate>Wed, 04 Nov 2026 22:59:59 +0100</pubDate>
     <itunes:image href="https://bennokress.github.io/nrk-pod-feeds/assets/images/kveldsnytt-square.png" />
     <item>
-      <title>Sluttspurt i valgkampen</title>
-      <description>I USA driver Republikanerne og Demokratene en hektisk innspurt før mellomvalget i morgen.</description>
-      <guid isPermaLink="false">https://nrk-live-world.akamaized.net/nrk1-aauZzb2kkSTrfVxSiOgjpar0L6WpNx0wD!world/muxed.m3u8?adap=small&amp;aco=aac</guid>
-      <enclosure url="https://nrk-live-world.akamaized.net/nrk1-aauZzb2kkSTrfVxSiOgjpar0L6WpNx0wD!world/muxed.m3u8?adap=small&amp;aco=aac" length="0" type="application/vnd.apple.mpegurl" />
-      <itunes:duration>14:52</itunes:duration>
-      <pubDate>Mon, 02 Nov 2026 23:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/FHVokimf6W_-fKH8NoSYdQ3krqpt0FHzvir4Q20_LfpQ" />
-    <podcast:alternateEnclosure type="application/x-mpegURL" length="0" default="true" title="HLS Video Stream"><podcast:source uri="https://nrk-live-world.akamaized.net/nrk1-aauZzb2kkSTrfVxSiOgjpar0L6WpNx0wD!world/muxed.m3u8?adap=small&amp;aco=aac" /></podcast:alternateEnclosure><podcast:person role="host" href="https://www.nrk.no">NRK</podcast:person></item>
+      <title>-Det var verdt det</title>
+      <description>Donald Trump angrer ikke på Iran-krigen til tross for valgnederlaget.</description>
+      <guid isPermaLink="false">https://nrk-live-world.akamaized.net/nrk1-aaukWamkkSTrfWqdn36rrai6u62o4etCA!world/muxed.m3u8?adap=small&amp;aco=aac</guid>
+      <enclosure url="https://nrk-live-world.akamaized.net/nrk1-aaukWamkkSTrfWqdn36rrai6u62o4etCA!world/muxed.m3u8?adap=small&amp;aco=aac" length="0" type="application/vnd.apple.mpegurl" />
+      <itunes:duration>13:59</itunes:duration>
+      <pubDate>Wed, 04 Nov 2026 22:59:59 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/LN6SEb-RpC6KM4xYE8iw1QBRsi5pHKFlDh43ug78_AGQ" />
+    <podcast:alternateEnclosure type="application/x-mpegURL" length="0" default="true" title="HLS Video Stream"><podcast:source uri="https://nrk-live-world.akamaized.net/nrk1-aaukWamkkSTrfWqdn36rrai6u62o4etCA!world/muxed.m3u8?adap=small&amp;aco=aac" /></podcast:alternateEnclosure><podcast:person role="host" href="https://www.nrk.no">NRK</podcast:person></item>
     <item>
       <title>Fly styrtet – alle omkom</title>
       <description>Alle de ni i omkom da privatfly styrtet i Florida.</description>
