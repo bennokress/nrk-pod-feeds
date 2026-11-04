@@ -1,0 +1,43 @@
+{
+  "version": "1.2.0",
+  "title": "Stein og vann sprutet",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa21110426/891a79b4-6.smil/thumb.jpg?t=25&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 25,
+      "title": "Vannlekkasje",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa21110426/891a79b4-6.smil/thumb.jpg?t=51&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 102,
+      "title": "Direkte: Oslo",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa21110426/891a79b4-6.smil/thumb.jpg?t=128&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 233,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa21110426/891a79b4-6.smil/thumb.jpg?t=258&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 314,
+      "title": "Mellomvalg",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa21110426/891a79b4-6.smil/thumb.jpg?t=339&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 412,
+      "title": "Direkte: Washington",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa21110426/891a79b4-6.smil/thumb.jpg?t=437&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 503,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-66.akamaized.net/open/ps/nnfa/nnfa21110426/891a79b4-6.smil/thumb.jpg?t=528&scale=1920x1080&v=high"
+    }
+  ]
+}
