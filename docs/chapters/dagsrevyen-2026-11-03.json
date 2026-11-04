@@ -1,0 +1,143 @@
+{
+  "version": "1.2.0",
+  "title": "Demokratisk eller republikansk?",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 9,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa19110326/7d42dfef-5.smil/thumb.jpg?t=34&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 77,
+      "title": "Mellomvalg USA",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa19110326/7d42dfef-5.smil/thumb.jpg?t=102&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 311,
+      "title": "Direkte USA",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa19110326/7d42dfef-5.smil/thumb.jpg?t=336&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 446,
+      "title": "Mellomvalg USA",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa19110326/7d42dfef-5.smil/thumb.jpg?t=471&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 497,
+      "title": "Direkte USA",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa19110326/7d42dfef-5.smil/thumb.jpg?t=522&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 613,
+      "title": "Mellomvalg USA",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa19110326/7d42dfef-5.smil/thumb.jpg?t=639&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 707,
+      "title": "Gjest Gro Holm",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa19110326/7d42dfef-5.smil/thumb.jpg?t=732&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 835,
+      "title": "Lista",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa19110326/7d42dfef-5.smil/thumb.jpg?t=860&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 951,
+      "title": "Bensinpriser",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa19110326/7d42dfef-5.smil/thumb.jpg?t=976&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1070,
+      "title": "Hacking Norge",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa19110326/7d42dfef-5.smil/thumb.jpg?t=1095&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1162,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa19110326/7d42dfef-5.smil/thumb.jpg?t=1188&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1227,
+      "title": "Bombetrusler fly",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa19110326/7d42dfef-5.smil/thumb.jpg?t=1252&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1318,
+      "title": "Fosen reinbeite",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa19110326/7d42dfef-5.smil/thumb.jpg?t=1344&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1435,
+      "title": "Fiskerikriminalitet",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa19110326/7d42dfef-5.smil/thumb.jpg?t=1460&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1585,
+      "title": "Ukraina",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa19110326/7d42dfef-5.smil/thumb.jpg?t=1611&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1717,
+      "title": "Direkte Kyiv",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa19110326/7d42dfef-5.smil/thumb.jpg?t=1743&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1828,
+      "title": "Oppdrett laks",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa19110326/7d42dfef-5.smil/thumb.jpg?t=1854&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1925,
+      "title": "Juledesserten reddet",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa19110326/7d42dfef-5.smil/thumb.jpg?t=1950&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2035,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa19110326/7d42dfef-5.smil/thumb.jpg?t=2061&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2040,
+      "title": "Trenerbråket",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa19110326/7d42dfef-5.smil/thumb.jpg?t=2065&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2062,
+      "title": "Direkte",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa19110326/7d42dfef-5.smil/thumb.jpg?t=2087&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2140,
+      "title": "Rasisme på banen",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa19110326/7d42dfef-5.smil/thumb.jpg?t=2165&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2207,
+      "title": "Ishockey",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa19110326/7d42dfef-5.smil/thumb.jpg?t=2232&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2318,
+      "title": "VM skyting",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa19110326/7d42dfef-5.smil/thumb.jpg?t=2343&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2354,
+      "title": "Friidrett",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa19110326/7d42dfef-5.smil/thumb.jpg?t=2379&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2391,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa19110326/7d42dfef-5.smil/thumb.jpg?t=2416&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2545,
+      "title": "Trailer Debatten",
+      "img": "https://nrk-od-world-79.akamaized.net/open/ps/nnfa/nnfa19110326/7d42dfef-5.smil/thumb.jpg?t=2570&scale=1920x1080&v=high"
+    }
+  ]
+}
