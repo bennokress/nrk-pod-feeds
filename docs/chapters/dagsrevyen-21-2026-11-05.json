@@ -1,0 +1,53 @@
+{
+  "version": "1.2.0",
+  "title": "Bredt fall på Wall Street",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa21110526/d84f2363-5.smil/thumb.jpg?t=25&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 27,
+      "title": "Børsfall USA",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa21110526/d84f2363-5.smil/thumb.jpg?t=52&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 44,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa21110526/d84f2363-5.smil/thumb.jpg?t=69&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 176,
+      "title": "Gjest:",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa21110526/d84f2363-5.smil/thumb.jpg?t=201&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 310,
+      "title": "Paris-demo",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa21110526/d84f2363-5.smil/thumb.jpg?t=335&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 382,
+      "title": "Oslo-dokumenter",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa21110526/d84f2363-5.smil/thumb.jpg?t=407&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 423,
+      "title": "Nettpromo",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa21110526/d84f2363-5.smil/thumb.jpg?t=448&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 441,
+      "title": "Været",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa21110526/d84f2363-5.smil/thumb.jpg?t=466&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 490,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa21110526/d84f2363-5.smil/thumb.jpg?t=512.55&scale=1920x1080&v=high"
+    }
+  ]
+}
