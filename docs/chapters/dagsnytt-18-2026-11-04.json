@@ -1,0 +1,78 @@
+{
+  "version": "1.2.0",
+  "title": "Blå bølge over USA",
+  "author": "NRK",
+  "podcastName": "Dagsnytt 18",
+  "chapters": [
+    {
+      "startTime": 2,
+      "title": "Dagsnytt atten",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa56110426/87a7e7a6-6.smil/thumb.jpg?t=27&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 58,
+      "title": "Demokratene vant i USA",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa56110426/87a7e7a6-6.smil/thumb.jpg?t=83&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1160,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa56110426/87a7e7a6-6.smil/thumb.jpg?t=1185&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1170,
+      "title": "Utenrikspolitikk etter valget",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa56110426/87a7e7a6-6.smil/thumb.jpg?t=1195&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2082,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa56110426/87a7e7a6-6.smil/thumb.jpg?t=2107&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2092,
+      "title": "Økonomien etter valget",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa56110426/87a7e7a6-6.smil/thumb.jpg?t=2118&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2544,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa56110426/87a7e7a6-6.smil/thumb.jpg?t=2570&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2554,
+      "title": "Demokrater og republikanere",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa56110426/87a7e7a6-6.smil/thumb.jpg?t=2580&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3018,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa56110426/87a7e7a6-6.smil/thumb.jpg?t=3043&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3028,
+      "title": "Siste nytt fra USA",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa56110426/87a7e7a6-6.smil/thumb.jpg?t=3054&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3206,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa56110426/87a7e7a6-6.smil/thumb.jpg?t=3231&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3216,
+      "title": "Hva skjer med polariseringen?",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa56110426/87a7e7a6-6.smil/thumb.jpg?t=3242&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3532,
+      "title": "AVSLUTNING + BREAKING",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa56110426/87a7e7a6-6.smil/thumb.jpg?t=3543.84&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3538,
+      "title": "SLUTTKJENNING",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa56110426/87a7e7a6-6.smil/thumb.jpg?t=3543.84&scale=1920x1080&v=high"
+    }
+  ]
+}
