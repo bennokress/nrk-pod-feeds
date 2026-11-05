@@ -1,0 +1,268 @@
+{
+  "version": "1.2.0",
+  "title": "USA går til valg i dag",
+  "author": "NRK",
+  "podcastName": "Nyhetsmorgen",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Åpning 06:30",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa05110326/7d552b6c-6.smil/thumb.jpg?t=25&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 77,
+      "title": "Full fyr før rødgrønt budsjettoppgjør",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa05110326/7d552b6c-6.smil/thumb.jpg?t=103&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 135,
+      "title": "Meningsmålinger har vært problematisk i USA",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa05110326/7d552b6c-6.smil/thumb.jpg?t=161&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 464,
+      "title": "Siste nytt",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa05110326/7d552b6c-6.smil/thumb.jpg?t=489&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 601,
+      "title": "KS kritisk til statlig legevakt",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa05110326/7d552b6c-6.smil/thumb.jpg?t=626&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 783,
+      "title": "Rettssak truer ikke fiskeriavtale",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa05110326/7d552b6c-6.smil/thumb.jpg?t=808&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 965,
+      "title": "Overskrifter 06:45",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa05110326/7d552b6c-6.smil/thumb.jpg?t=991&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1007,
+      "title": "Meslingdødsfall i New York",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa05110326/7d552b6c-6.smil/thumb.jpg?t=1032&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1175,
+      "title": "Verdensmesterskapet i skyting",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa05110326/7d552b6c-6.smil/thumb.jpg?t=1200&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1253,
+      "title": "Anmeldelse: Kunstutstillingen Ulmie",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa05110326/7d552b6c-6.smil/thumb.jpg?t=1279&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1498,
+      "title": "Droner i Forsvaret",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa05110326/7d552b6c-6.smil/thumb.jpg?t=1524&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1758,
+      "title": "Dagny",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa05110326/7d552b6c-6.smil/thumb.jpg?t=1784&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1791,
+      "title": "Åpning 07:00",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa05110326/7d552b6c-6.smil/thumb.jpg?t=1816&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1881,
+      "title": "Full fyr før rødgrønt budsjettoppgjør",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa05110326/7d552b6c-6.smil/thumb.jpg?t=1907&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2053,
+      "title": "Politisk kommentator budsjett",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa05110326/7d552b6c-6.smil/thumb.jpg?t=2078&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2303,
+      "title": "Før Politisk kvarter",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa05110326/7d552b6c-6.smil/thumb.jpg?t=2329&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2349,
+      "title": "Veljarar før mellomvalet i USA",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa05110326/7d552b6c-6.smil/thumb.jpg?t=2375&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2486,
+      "title": "Valgdag USA",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa05110326/7d552b6c-6.smil/thumb.jpg?t=2512&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2889,
+      "title": "Overskrifter 07:15",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa05110326/7d552b6c-6.smil/thumb.jpg?t=2915&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2927,
+      "title": "Hacket frysere",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa05110326/7d552b6c-6.smil/thumb.jpg?t=2953&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3206,
+      "title": "Ingen dessert på julafta",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa05110326/7d552b6c-6.smil/thumb.jpg?t=3231&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3312,
+      "title": "Ungdoms-OL i Senegal",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa05110326/7d552b6c-6.smil/thumb.jpg?t=3338&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3572,
+      "title": "Brenner deler dikt",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa05110326/7d552b6c-6.smil/thumb.jpg?t=3598&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3603,
+      "title": "Overskrifter 07:30",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa05110326/7d552b6c-6.smil/thumb.jpg?t=3628&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3637,
+      "title": "Full fyr før rødgrønt budsjettoppgjør",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa05110326/7d552b6c-6.smil/thumb.jpg?t=3662&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3753,
+      "title": "Veljarar før mellomvalet i USA",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa05110326/7d552b6c-6.smil/thumb.jpg?t=3779&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3858,
+      "title": "Kommentator om USA-valget",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa05110326/7d552b6c-6.smil/thumb.jpg?t=3883&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3951,
+      "title": "Waterhouse om frysarar",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa05110326/7d552b6c-6.smil/thumb.jpg?t=3976&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 4006,
+      "title": "KS kritisk til statlig legevakt",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa05110326/7d552b6c-6.smil/thumb.jpg?t=4032&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 4069,
+      "title": "Droner i Forsvaret",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa05110326/7d552b6c-6.smil/thumb.jpg?t=4094&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 4200,
+      "title": "Åpning 07:40",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa05110326/7d552b6c-6.smil/thumb.jpg?t=4225&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 4217,
+      "title": "Tydal Data Senter",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa05110326/7d552b6c-6.smil/thumb.jpg?t=4242&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 5396,
+      "title": "NRK Nyheter 08:00",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa05110326/7d552b6c-6.smil/thumb.jpg?t=5421&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 5580,
+      "title": "Åpning 08:03",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa05110326/7d552b6c-6.smil/thumb.jpg?t=5605&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 5654,
+      "title": "Angrep i Ukraina",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa05110326/7d552b6c-6.smil/thumb.jpg?t=5679&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 5818,
+      "title": "Mellomvalget i USA",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa05110326/7d552b6c-6.smil/thumb.jpg?t=5844&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 6237,
+      "title": "Frida Kahlo på Nasjonalmuseet",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa05110326/7d552b6c-6.smil/thumb.jpg?t=6262&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 6680,
+      "title": "Overskrifter 08:15",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa05110326/7d552b6c-6.smil/thumb.jpg?t=6706&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 6735,
+      "title": "Rederi saksøker staten",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa05110326/7d552b6c-6.smil/thumb.jpg?t=6760&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 6973,
+      "title": "Hacket frysere",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa05110326/7d552b6c-6.smil/thumb.jpg?t=6998&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 7239,
+      "title": "Overskrifter 08:30",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa05110326/7d552b6c-6.smil/thumb.jpg?t=7264&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 7288,
+      "title": "Domstolstrid i Polen",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa05110326/7d552b6c-6.smil/thumb.jpg?t=7313&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 7554,
+      "title": "Veljarar før mellomvalet i USA",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa05110326/7d552b6c-6.smil/thumb.jpg?t=7579&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 7727,
+      "title": "Valgdag i USA",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa05110326/7d552b6c-6.smil/thumb.jpg?t=7752&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8015,
+      "title": "Hegerberg om Glimt og Viking",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa05110326/7d552b6c-6.smil/thumb.jpg?t=8041&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8262,
+      "title": "Overskrifter 08:45",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa05110326/7d552b6c-6.smil/thumb.jpg?t=8287&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8295,
+      "title": "Barn i fengsel",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa05110326/7d552b6c-6.smil/thumb.jpg?t=8321&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8360,
+      "title": "Full fyr før rødgrønt budsjettoppgjør",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa05110326/7d552b6c-6.smil/thumb.jpg?t=8386&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8483,
+      "title": "Ap om rødgrønne utspill",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa05110326/7d552b6c-6.smil/thumb.jpg?t=8509&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8589,
+      "title": "Ungdoms-OL i Senegal",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa05110326/7d552b6c-6.smil/thumb.jpg?t=8614&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8897,
+      "title": "Været i dag",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa05110326/7d552b6c-6.smil/thumb.jpg?t=8923&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8993,
+      "title": "Avslutning",
+      "img": "https://nrk-od-world-39.akamaized.net/open/ps/nnfa/nnfa05110326/7d552b6c-6.smil/thumb.jpg?t=9003.36&scale=1920x1080&v=high"
+    }
+  ]
+}
