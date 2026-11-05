@@ -1,0 +1,58 @@
+{
+  "version": "1.2.0",
+  "title": "Bombetrusler og fryser-hacking",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa23110526/ad684453-7.smil/thumb.jpg?t=25&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 34,
+      "title": "Trusler mot Europa",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa23110526/ad684453-7.smil/thumb.jpg?t=60&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 143,
+      "title": "Børsfall USA",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa23110526/ad684453-7.smil/thumb.jpg?t=169&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 175,
+      "title": "Droner",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa23110526/ad684453-7.smil/thumb.jpg?t=200&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 317,
+      "title": "Dronningen Østfold",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa23110526/ad684453-7.smil/thumb.jpg?t=342&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 348,
+      "title": "Teatret vårt har premiere på forestillingen \"Forsøket\"",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa23110526/ad684453-7.smil/thumb.jpg?t=373&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 463,
+      "title": "Fotball",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa23110526/ad684453-7.smil/thumb.jpg?t=489&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 565,
+      "title": "Håndball",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa23110526/ad684453-7.smil/thumb.jpg?t=590&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 641,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa23110526/ad684453-7.smil/thumb.jpg?t=667&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 707,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa23110526/ad684453-7.smil/thumb.jpg?t=727.6&scale=1920x1080&v=high"
+    }
+  ]
+}
