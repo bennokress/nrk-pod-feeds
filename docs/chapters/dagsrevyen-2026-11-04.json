@@ -1,0 +1,183 @@
+{
+  "version": "1.2.0",
+  "title": "Brakseier for Demokratene",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 10,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa19110426/463d42f4-5.smil/thumb.jpg?t=36&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 53,
+      "title": "Intro Skjerm",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa19110426/463d42f4-5.smil/thumb.jpg?t=78&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 70,
+      "title": "Oslo",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa19110426/463d42f4-5.smil/thumb.jpg?t=95&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 146,
+      "title": "Direkte Oslo",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa19110426/463d42f4-5.smil/thumb.jpg?t=172&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 283,
+      "title": "Direkte Washington",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa19110426/463d42f4-5.smil/thumb.jpg?t=308&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 329,
+      "title": "USA-valgresultat",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa19110426/463d42f4-5.smil/thumb.jpg?t=354&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 456,
+      "title": "Direkte Washington",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa19110426/463d42f4-5.smil/thumb.jpg?t=481&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 535,
+      "title": "Grafikk mellomvalg",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa19110426/463d42f4-5.smil/thumb.jpg?t=561&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 634,
+      "title": "Direkte fra Austin",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa19110426/463d42f4-5.smil/thumb.jpg?t=659&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 730,
+      "title": "El Sayed til Senatet",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa19110426/463d42f4-5.smil/thumb.jpg?t=755&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 834,
+      "title": "Gjest om USA-valg",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa19110426/463d42f4-5.smil/thumb.jpg?t=860&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 982,
+      "title": "Republikanerne tapte",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa19110426/463d42f4-5.smil/thumb.jpg?t=1008&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1084,
+      "title": "Direkte Istanbul",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa19110426/463d42f4-5.smil/thumb.jpg?t=1109&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1160,
+      "title": "Direkte Kaliningrad",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa19110426/463d42f4-5.smil/thumb.jpg?t=1185&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1252,
+      "title": "Putin om USA-valget",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa19110426/463d42f4-5.smil/thumb.jpg?t=1277&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1284,
+      "title": "Direkte Kyiv",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa19110426/463d42f4-5.smil/thumb.jpg?t=1309&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1341,
+      "title": "Direkte Brussel",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa19110426/463d42f4-5.smil/thumb.jpg?t=1366&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1413,
+      "title": "Trump om valgresultat",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa19110426/463d42f4-5.smil/thumb.jpg?t=1438&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1438,
+      "title": "Gjest F. Mikkelsen",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa19110426/463d42f4-5.smil/thumb.jpg?t=1464&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1574,
+      "title": "Norske reaksjoner",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa19110426/463d42f4-5.smil/thumb.jpg?t=1600&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1654,
+      "title": "Høiby varetekt",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa19110426/463d42f4-5.smil/thumb.jpg?t=1679&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1686,
+      "title": "Gjest Ravndal",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa19110426/463d42f4-5.smil/thumb.jpg?t=1712&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1771,
+      "title": "Tiltalt Kamerun",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa19110426/463d42f4-5.smil/thumb.jpg?t=1796&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1877,
+      "title": "ADHD Vestfold",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa19110426/463d42f4-5.smil/thumb.jpg?t=1903&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2034,
+      "title": "Fotball",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa19110426/463d42f4-5.smil/thumb.jpg?t=2060&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2092,
+      "title": "Solbakken intervju",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa19110426/463d42f4-5.smil/thumb.jpg?t=2118&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2389,
+      "title": "Ny julekalender",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa19110426/463d42f4-5.smil/thumb.jpg?t=2415&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2519,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa19110426/463d42f4-5.smil/thumb.jpg?t=2544&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2527,
+      "title": "Viking trenerduo",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa19110426/463d42f4-5.smil/thumb.jpg?t=2552&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2626,
+      "title": "Direkte",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa19110426/463d42f4-5.smil/thumb.jpg?t=2652&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2701,
+      "title": "Landslagsuttak",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa19110426/463d42f4-5.smil/thumb.jpg?t=2727&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2768,
+      "title": "Alpint",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa19110426/463d42f4-5.smil/thumb.jpg?t=2793&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2854,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa19110426/463d42f4-5.smil/thumb.jpg?t=2879&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3025,
+      "title": "Oslo",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa19110426/463d42f4-5.smil/thumb.jpg?t=3050&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3090,
+      "title": "Direkte Oslo",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa19110426/463d42f4-5.smil/thumb.jpg?t=3115&scale=1920x1080&v=high"
+    }
+  ]
+}
