@@ -1,0 +1,68 @@
+{
+  "version": "1.2.0",
+  "title": "-Det var verdt det",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Kveldsnytt",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa23110426/2ad33dad-7.smil/thumb.jpg?t=25&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 36,
+      "title": "Mesterliga",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa23110426/2ad33dad-7.smil/thumb.jpg?t=61&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 110,
+      "title": "Direkte: Stavanger",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa23110426/2ad33dad-7.smil/thumb.jpg?t=135&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 201,
+      "title": "Trump om valget",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa23110426/2ad33dad-7.smil/thumb.jpg?t=227&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 259,
+      "title": "Vannlekkasje",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa23110426/2ad33dad-7.smil/thumb.jpg?t=284&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 367,
+      "title": "Boligprisene",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa23110426/2ad33dad-7.smil/thumb.jpg?t=392&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 389,
+      "title": "Fugleinfluensa",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa23110426/2ad33dad-7.smil/thumb.jpg?t=415&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 492,
+      "title": "Demonstrasjoner",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa23110426/2ad33dad-7.smil/thumb.jpg?t=518&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 512,
+      "title": "Endring BankID",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa23110426/2ad33dad-7.smil/thumb.jpg?t=537&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 607,
+      "title": "Dirigent død",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa23110426/2ad33dad-7.smil/thumb.jpg?t=633&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 629,
+      "title": "Mesterliga",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa23110426/2ad33dad-7.smil/thumb.jpg?t=654&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 754,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa23110426/2ad33dad-7.smil/thumb.jpg?t=779&scale=1920x1080&v=high"
+    }
+  ]
+}
