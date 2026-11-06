@@ -1,0 +1,78 @@
+{
+  "version": "1.2.0",
+  "title": "Erna Solbergs nye bok:",
+  "author": "NRK",
+  "podcastName": "Dagsnytt 18",
+  "chapters": [
+    {
+      "startTime": 1,
+      "title": "Dagsnytt atten",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa56110526/d4a4f2a7-5.smil/thumb.jpg?t=26&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 64,
+      "title": "Oslo-dokumentene offentliggjort",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa56110526/d4a4f2a7-5.smil/thumb.jpg?t=90&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 856,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa56110526/d4a4f2a7-5.smil/thumb.jpg?t=882&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 870,
+      "title": "Erna Solbergs nye bok",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa56110526/d4a4f2a7-5.smil/thumb.jpg?t=895&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1517,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa56110526/d4a4f2a7-5.smil/thumb.jpg?t=1543&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1534,
+      "title": "Kritiserer diesel-ultimatum",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa56110526/d4a4f2a7-5.smil/thumb.jpg?t=1560&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2042,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa56110526/d4a4f2a7-5.smil/thumb.jpg?t=2068&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2056,
+      "title": "Slutt på masteroppgaver",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa56110526/d4a4f2a7-5.smil/thumb.jpg?t=2081&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2478,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa56110526/d4a4f2a7-5.smil/thumb.jpg?t=2503&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2493,
+      "title": "Mulige presidentkandidater",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa56110526/d4a4f2a7-5.smil/thumb.jpg?t=2519&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2987,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa56110526/d4a4f2a7-5.smil/thumb.jpg?t=3012&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3002,
+      "title": "Aktiv dødshjelp",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa56110526/d4a4f2a7-5.smil/thumb.jpg?t=3028&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3532,
+      "title": "AVSLUTNING",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa56110526/d4a4f2a7-5.smil/thumb.jpg?t=3543.88&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3534,
+      "title": "SLUTTKJENNING",
+      "img": "https://nrk-od-world-90.akamaized.net/open/ps/nnfa/nnfa56110526/d4a4f2a7-5.smil/thumb.jpg?t=3543.88&scale=1920x1080&v=high"
+    }
+  ]
+}
