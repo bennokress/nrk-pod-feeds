@@ -1,0 +1,288 @@
+{
+  "version": "1.2.0",
+  "title": "Vil endre fastlegeordning for de sykeste",
+  "author": "NRK",
+  "podcastName": "Nyhetsmorgen",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Åpning 06:30",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa05110526/767c7e4e-6.smil/thumb.jpg?t=25&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 75,
+      "title": "Nå kan rentetoppen være nådd",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa05110526/767c7e4e-6.smil/thumb.jpg?t=101&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 201,
+      "title": "Republikanerne etter valgnederlaget",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa05110526/767c7e4e-6.smil/thumb.jpg?t=227&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 375,
+      "title": "Siste nytt",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa05110526/767c7e4e-6.smil/thumb.jpg?t=400&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 483,
+      "title": "Endring i BankID",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa05110526/767c7e4e-6.smil/thumb.jpg?t=508&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 584,
+      "title": "Datasenter på Undheim",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa05110526/767c7e4e-6.smil/thumb.jpg?t=609&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 788,
+      "title": "Overskrifter 06:45",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa05110526/767c7e4e-6.smil/thumb.jpg?t=814&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 854,
+      "title": "Vil begrense fisketurismen",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa05110526/767c7e4e-6.smil/thumb.jpg?t=880&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 988,
+      "title": "Historisk Vikingsiger",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa05110526/767c7e4e-6.smil/thumb.jpg?t=1014&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1153,
+      "title": "Stein fra skipstunnelen får nytt liv",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa05110526/767c7e4e-6.smil/thumb.jpg?t=1179&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1339,
+      "title": "Filmanmeldelse: «Julenissens verksted»",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa05110526/767c7e4e-6.smil/thumb.jpg?t=1364&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1564,
+      "title": "5000 Rød-Larsen-dokumenter frigis",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa05110526/767c7e4e-6.smil/thumb.jpg?t=1589&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1614,
+      "title": "Fjernvarmen tilbake i Oslo",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa05110526/767c7e4e-6.smil/thumb.jpg?t=1639&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1714,
+      "title": "Trailer - Leo og de farlige",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa05110526/767c7e4e-6.smil/thumb.jpg?t=1740&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1741,
+      "title": "Åpning 07:00",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa05110526/767c7e4e-6.smil/thumb.jpg?t=1766&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1822,
+      "title": "Vil endre fastlegeordningen",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa05110526/767c7e4e-6.smil/thumb.jpg?t=1847&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2044,
+      "title": "Over 200 voldsoppdrag avdekket",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa05110526/767c7e4e-6.smil/thumb.jpg?t=2069&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2151,
+      "title": "Hva skjer med krigen i Iran nå?",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa05110526/767c7e4e-6.smil/thumb.jpg?t=2177&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2373,
+      "title": "Etter mellomvalget i USA",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa05110526/767c7e4e-6.smil/thumb.jpg?t=2399&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2613,
+      "title": "Rødt og MDG i polkvart",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa05110526/767c7e4e-6.smil/thumb.jpg?t=2639&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2668,
+      "title": "Overskrifter 07:15",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa05110526/767c7e4e-6.smil/thumb.jpg?t=2694&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2731,
+      "title": "Advarer mot «maxxing»",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa05110526/767c7e4e-6.smil/thumb.jpg?t=2757&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2909,
+      "title": "Hvorfor driver unge med «maxxing»?",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa05110526/767c7e4e-6.smil/thumb.jpg?t=2935&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3219,
+      "title": "Plussgrader med spinnglatt asfalt",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa05110526/767c7e4e-6.smil/thumb.jpg?t=3244&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3405,
+      "title": "Rød-Larsen-dokumenter frigis i dag",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa05110526/767c7e4e-6.smil/thumb.jpg?t=3430&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3599,
+      "title": "Overskrifter 07:30",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa05110526/767c7e4e-6.smil/thumb.jpg?t=3625&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3640,
+      "title": "Dokumenter Oslo-prosessen",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa05110526/767c7e4e-6.smil/thumb.jpg?t=3666&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3707,
+      "title": "Vil endre fastlegeordningen",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa05110526/767c7e4e-6.smil/thumb.jpg?t=3733&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3825,
+      "title": "Nå kan rentetoppen være nådd",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa05110526/767c7e4e-6.smil/thumb.jpg?t=3850&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3929,
+      "title": "Over 200 voldsoppdrag avdekket",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa05110526/767c7e4e-6.smil/thumb.jpg?t=3954&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 4044,
+      "title": "Advarer mot «maxxing»",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa05110526/767c7e4e-6.smil/thumb.jpg?t=4069&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 4199,
+      "title": "Åpning 07:40",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa05110526/767c7e4e-6.smil/thumb.jpg?t=4224&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 4213,
+      "title": "Demokratiaktivist dømt i Hongkong",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa05110526/767c7e4e-6.smil/thumb.jpg?t=4238&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 4468,
+      "title": "Topper 07:44",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa05110526/767c7e4e-6.smil/thumb.jpg?t=4493&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 5399,
+      "title": "NRK Nyheter 08:00",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa05110526/767c7e4e-6.smil/thumb.jpg?t=5425&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 5579,
+      "title": "Åpning 08:03",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa05110526/767c7e4e-6.smil/thumb.jpg?t=5604&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 5646,
+      "title": "Nå kan rentetoppen være nådd",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa05110526/767c7e4e-6.smil/thumb.jpg?t=5672&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 5751,
+      "title": "Europa og USA-valget",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa05110526/767c7e4e-6.smil/thumb.jpg?t=5777&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 6028,
+      "title": "Generalstreik i Frankrike",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa05110526/767c7e4e-6.smil/thumb.jpg?t=6054&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 6290,
+      "title": "Over 200 voldsoppdrag avdekket",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa05110526/767c7e4e-6.smil/thumb.jpg?t=6316&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 6397,
+      "title": "Overskrifter 08:15",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa05110526/767c7e4e-6.smil/thumb.jpg?t=6423&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 6468,
+      "title": "Rød-Larsen-dokumenter frigis i dag",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa05110526/767c7e4e-6.smil/thumb.jpg?t=6494&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 6652,
+      "title": "Advarer mot «maxxing»",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa05110526/767c7e4e-6.smil/thumb.jpg?t=6678&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 6823,
+      "title": "Reform om «maxxing»",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa05110526/767c7e4e-6.smil/thumb.jpg?t=6848&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 7056,
+      "title": "Forventninger til Solbergs biografi",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa05110526/767c7e4e-6.smil/thumb.jpg?t=7082&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 7234,
+      "title": "Hør Ekko i NRK P2",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa05110526/767c7e4e-6.smil/thumb.jpg?t=7259&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 7316,
+      "title": "Overskrifter 08:30",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa05110526/767c7e4e-6.smil/thumb.jpg?t=7341&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 7387,
+      "title": "Vil endre fastlegeordningen",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa05110526/767c7e4e-6.smil/thumb.jpg?t=7413&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 7597,
+      "title": "Dagen derpå for velgere i USA",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa05110526/767c7e4e-6.smil/thumb.jpg?t=7622&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 7795,
+      "title": "Etter mellomvalget i USA",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa05110526/767c7e4e-6.smil/thumb.jpg?t=7820&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8010,
+      "title": "Overskrifter 08:45",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa05110526/767c7e4e-6.smil/thumb.jpg?t=8035&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8061,
+      "title": "Plussgrader med spinnglatt asfalt",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa05110526/767c7e4e-6.smil/thumb.jpg?t=8087&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8278,
+      "title": "Anmeldelse «Zelda: Ocarina of Time»",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa05110526/767c7e4e-6.smil/thumb.jpg?t=8304&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8533,
+      "title": "Kommune godt i gang med nærhelsemodell",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa05110526/767c7e4e-6.smil/thumb.jpg?t=8559&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8661,
+      "title": "Solberg-biografien",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa05110526/767c7e4e-6.smil/thumb.jpg?t=8686&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8937,
+      "title": "Været i dag",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa05110526/767c7e4e-6.smil/thumb.jpg?t=8962&scale=1920x1080&v=high"
+    }
+  ]
+}
