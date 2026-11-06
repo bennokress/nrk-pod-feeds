@@ -1,0 +1,113 @@
+{
+  "version": "1.2.0",
+  "title": "Drept på sykehus",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 9,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa19110626/00d6c69f-5.smil/thumb.jpg?t=35&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 65,
+      "title": "Drept sykehus",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa19110626/00d6c69f-5.smil/thumb.jpg?t=90&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 147,
+      "title": "Direkte Drammen",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa19110626/00d6c69f-5.smil/thumb.jpg?t=173&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 257,
+      "title": "Datainnbrudd",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa19110626/00d6c69f-5.smil/thumb.jpg?t=283&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 381,
+      "title": "Bombetrusler",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa19110626/00d6c69f-5.smil/thumb.jpg?t=407&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 473,
+      "title": "Kraftig børsfall",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa19110626/00d6c69f-5.smil/thumb.jpg?t=498&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 637,
+      "title": "Direkte fra USA",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa19110626/00d6c69f-5.smil/thumb.jpg?t=663&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 712,
+      "title": "Markle",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa19110626/00d6c69f-5.smil/thumb.jpg?t=738&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 734,
+      "title": "Bastøferga",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa19110626/00d6c69f-5.smil/thumb.jpg?t=760&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 763,
+      "title": "Ran eldre",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa19110626/00d6c69f-5.smil/thumb.jpg?t=789&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 888,
+      "title": "Solberg ny bok",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa19110626/00d6c69f-5.smil/thumb.jpg?t=913&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 997,
+      "title": "Opprør og politikk",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa19110626/00d6c69f-5.smil/thumb.jpg?t=1023&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1118,
+      "title": "P3 Gull",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa19110626/00d6c69f-5.smil/thumb.jpg?t=1144&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1142,
+      "title": "Direkte: P3 Gull",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa19110626/00d6c69f-5.smil/thumb.jpg?t=1167&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1257,
+      "title": "Dekkskift",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa19110626/00d6c69f-5.smil/thumb.jpg?t=1283&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1333,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa19110626/00d6c69f-5.smil/thumb.jpg?t=1359&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1339,
+      "title": "Infantino",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa19110626/00d6c69f-5.smil/thumb.jpg?t=1364&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1434,
+      "title": "Vik vs Knutsen",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa19110626/00d6c69f-5.smil/thumb.jpg?t=1459&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1507,
+      "title": "Ishockey",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa19110626/00d6c69f-5.smil/thumb.jpg?t=1533&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1539,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa19110626/00d6c69f-5.smil/thumb.jpg?t=1564&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1726,
+      "title": "Lysfestival",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa19110626/00d6c69f-5.smil/thumb.jpg?t=1751&scale=1920x1080&v=high"
+    }
+  ]
+}
