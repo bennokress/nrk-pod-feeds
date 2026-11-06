@@ -1,0 +1,143 @@
+{
+  "version": "1.2.0",
+  "title": "Ønsker varig fred",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 9,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa19110526/90baa601-5.smil/thumb.jpg?t=35&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 67,
+      "title": "Melania",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa19110526/90baa601-5.smil/thumb.jpg?t=93&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 143,
+      "title": "Direkte Kyiv",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa19110526/90baa601-5.smil/thumb.jpg?t=169&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 209,
+      "title": "Evakuerte Ukraina",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa19110526/90baa601-5.smil/thumb.jpg?t=235&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 338,
+      "title": "Bombetrusler fly",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa19110526/90baa601-5.smil/thumb.jpg?t=364&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 504,
+      "title": "Gjest Grendahl Sivertsen",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa19110526/90baa601-5.smil/thumb.jpg?t=529&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 630,
+      "title": "Vannlekasje",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa19110526/90baa601-5.smil/thumb.jpg?t=656&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 680,
+      "title": "Bilulykke",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa19110526/90baa601-5.smil/thumb.jpg?t=706&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 789,
+      "title": "USA-valget",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa19110526/90baa601-5.smil/thumb.jpg?t=814&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 921,
+      "title": "Direkte USA",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa19110526/90baa601-5.smil/thumb.jpg?t=947&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1066,
+      "title": "Oslo-avtalen",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa19110526/90baa601-5.smil/thumb.jpg?t=1092&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1213,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa19110526/90baa601-5.smil/thumb.jpg?t=1239&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1311,
+      "title": "Solberg bok",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa19110526/90baa601-5.smil/thumb.jpg?t=1336&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1428,
+      "title": "Gjest Nehru Sand",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa19110526/90baa601-5.smil/thumb.jpg?t=1453&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1538,
+      "title": "Direkte fra Paris",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa19110526/90baa601-5.smil/thumb.jpg?t=1563&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1625,
+      "title": "Generalstreik Frankrike",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa19110526/90baa601-5.smil/thumb.jpg?t=1650&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1686,
+      "title": "Voldsoppdrag",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa19110526/90baa601-5.smil/thumb.jpg?t=1711&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1833,
+      "title": "Maxxing",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa19110526/90baa601-5.smil/thumb.jpg?t=1858&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1959,
+      "title": "Benjamin Ingrosso",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa19110526/90baa601-5.smil/thumb.jpg?t=1984&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2057,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa19110526/90baa601-5.smil/thumb.jpg?t=2082&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2063,
+      "title": "Viking fyrverkeri",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa19110526/90baa601-5.smil/thumb.jpg?t=2089&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2152,
+      "title": "Årets spiller",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa19110526/90baa601-5.smil/thumb.jpg?t=2178&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2192,
+      "title": "Ronaldo landslagsexit",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa19110526/90baa601-5.smil/thumb.jpg?t=2217&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2269,
+      "title": "Nadal styremedlem",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa19110526/90baa601-5.smil/thumb.jpg?t=2295&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2306,
+      "title": "Klevstuen satser",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa19110526/90baa601-5.smil/thumb.jpg?t=2332&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2401,
+      "title": "Trailer Debatten",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa19110526/90baa601-5.smil/thumb.jpg?t=2426&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2430,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-27.akamaized.net/open/ps/nnfa/nnfa19110526/90baa601-5.smil/thumb.jpg?t=2456&scale=1920x1080&v=high"
+    }
+  ]
+}
