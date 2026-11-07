@@ -1,0 +1,73 @@
+{
+  "version": "1.2.0",
+  "title": "Trump tar grep",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-77.akamaized.net/open/ps/nnfa/nnfa23110626/df681164-7.smil/thumb.jpg?t=25&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 36,
+      "title": "Ny stabssjef",
+      "img": "https://nrk-od-world-77.akamaized.net/open/ps/nnfa/nnfa23110626/df681164-7.smil/thumb.jpg?t=61&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 159,
+      "title": "Gjest:",
+      "img": "https://nrk-od-world-77.akamaized.net/open/ps/nnfa/nnfa23110626/df681164-7.smil/thumb.jpg?t=184&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 268,
+      "title": "Drap i Drammen",
+      "img": "https://nrk-od-world-77.akamaized.net/open/ps/nnfa/nnfa23110626/df681164-7.smil/thumb.jpg?t=294&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 348,
+      "title": "Ulykke Eidsvoll",
+      "img": "https://nrk-od-world-77.akamaized.net/open/ps/nnfa/nnfa23110626/df681164-7.smil/thumb.jpg?t=373&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 374,
+      "title": "Datasikkerhet",
+      "img": "https://nrk-od-world-77.akamaized.net/open/ps/nnfa/nnfa23110626/df681164-7.smil/thumb.jpg?t=399&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 424,
+      "title": "P3 Gull",
+      "img": "https://nrk-od-world-77.akamaized.net/open/ps/nnfa/nnfa23110626/df681164-7.smil/thumb.jpg?t=449&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 557,
+      "title": "Premier League",
+      "img": "https://nrk-od-world-77.akamaized.net/open/ps/nnfa/nnfa23110626/df681164-7.smil/thumb.jpg?t=582&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 623,
+      "title": "VAR offside",
+      "img": "https://nrk-od-world-77.akamaized.net/open/ps/nnfa/nnfa23110626/df681164-7.smil/thumb.jpg?t=649&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 688,
+      "title": "Sogndal skjebnekamp",
+      "img": "https://nrk-od-world-77.akamaized.net/open/ps/nnfa/nnfa23110626/df681164-7.smil/thumb.jpg?t=713&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 768,
+      "title": "Brann Kongsvinger",
+      "img": "https://nrk-od-world-77.akamaized.net/open/ps/nnfa/nnfa23110626/df681164-7.smil/thumb.jpg?t=793&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 803,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-77.akamaized.net/open/ps/nnfa/nnfa23110626/df681164-7.smil/thumb.jpg?t=829&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 867,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-77.akamaized.net/open/ps/nnfa/nnfa23110626/df681164-7.smil/thumb.jpg?t=885.72&scale=1920x1080&v=high"
+    }
+  ]
+}
