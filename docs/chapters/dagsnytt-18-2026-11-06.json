@@ -1,0 +1,68 @@
+{
+  "version": "1.2.0",
+  "title": "Uro på verdens børser",
+  "author": "NRK",
+  "podcastName": "Dagsnytt 18",
+  "chapters": [
+    {
+      "startTime": 1,
+      "title": "Dagsnytt atten",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa56110626/134d1772-5.smil/thumb.jpg?t=26&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 78,
+      "title": "Global børsuro",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa56110626/134d1772-5.smil/thumb.jpg?t=104&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1135,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa56110626/134d1772-5.smil/thumb.jpg?t=1161&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1159,
+      "title": "Konflikt om Fosen-rein",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa56110626/134d1772-5.smil/thumb.jpg?t=1184&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1687,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa56110626/134d1772-5.smil/thumb.jpg?t=1713&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1702,
+      "title": "KI i høyere utdanning",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa56110626/134d1772-5.smil/thumb.jpg?t=1727&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2380,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa56110626/134d1772-5.smil/thumb.jpg?t=2405&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2397,
+      "title": "Foreslår sukkeravgift",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa56110626/134d1772-5.smil/thumb.jpg?t=2423&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2826,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa56110626/134d1772-5.smil/thumb.jpg?t=2852&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2842,
+      "title": "Strid om Krfs sjel",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa56110626/134d1772-5.smil/thumb.jpg?t=2868&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3532,
+      "title": "AVSLUTNING",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa56110626/134d1772-5.smil/thumb.jpg?t=3542.88&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3534,
+      "title": "SLUTTKJENNING",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa56110626/134d1772-5.smil/thumb.jpg?t=3542.88&scale=1920x1080&v=high"
+    }
+  ]
+}
