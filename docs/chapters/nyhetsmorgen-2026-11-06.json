@@ -1,0 +1,293 @@
+{
+  "version": "1.2.0",
+  "title": "Kan ta med seg topplønn og frynsegoder til nye stillinger",
+  "author": "NRK",
+  "podcastName": "Nyhetsmorgen",
+  "chapters": [
+    {
+      "startTime": 1,
+      "title": "Åpning 06:30",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05110626/a5e7c6a2-7.smil/thumb.jpg?t=27&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 78,
+      "title": "Helsedirektører og lønn",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05110626/a5e7c6a2-7.smil/thumb.jpg?t=104&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 269,
+      "title": "Opplæringsvideoer demens",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05110626/a5e7c6a2-7.smil/thumb.jpg?t=295&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 463,
+      "title": "Siste nytt",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05110626/a5e7c6a2-7.smil/thumb.jpg?t=488&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 579,
+      "title": "Teater forvandlet livet til Emrik",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05110626/a5e7c6a2-7.smil/thumb.jpg?t=605&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 735,
+      "title": "Gjør om 548 dødsdommer",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05110626/a5e7c6a2-7.smil/thumb.jpg?t=760&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 895,
+      "title": "Overskrifter 06:45",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05110626/a5e7c6a2-7.smil/thumb.jpg?t=920&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 955,
+      "title": "Hegseth mot forsøk på riksrett",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05110626/a5e7c6a2-7.smil/thumb.jpg?t=981&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1184,
+      "title": "Hvordan SoMe-forbud fungerer i Australia",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05110626/a5e7c6a2-7.smil/thumb.jpg?t=1210&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1359,
+      "title": "Tromsø mot Bodø Glimt på søndag",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05110626/a5e7c6a2-7.smil/thumb.jpg?t=1384&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1488,
+      "title": "Kan redde Norge i kriser",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05110626/a5e7c6a2-7.smil/thumb.jpg?t=1514&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1773,
+      "title": "Teasing",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05110626/a5e7c6a2-7.smil/thumb.jpg?t=1798&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1777,
+      "title": "Trailer: Dagny",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05110626/a5e7c6a2-7.smil/thumb.jpg?t=1802&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1807,
+      "title": "Åpning 07:00",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05110626/a5e7c6a2-7.smil/thumb.jpg?t=1832&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1882,
+      "title": "Forventer regulering av KI",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05110626/a5e7c6a2-7.smil/thumb.jpg?t=1908&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2067,
+      "title": "Børsras fortsetter i Asia",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05110626/a5e7c6a2-7.smil/thumb.jpg?t=2093&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2343,
+      "title": "Helsedirektører beholder lønna",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05110626/a5e7c6a2-7.smil/thumb.jpg?t=2368&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2410,
+      "title": "Idrettsboikott av Russland",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05110626/a5e7c6a2-7.smil/thumb.jpg?t=2435&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2582,
+      "title": "Idrettsboikotten slår sprekker",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05110626/a5e7c6a2-7.smil/thumb.jpg?t=2607&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2832,
+      "title": "Overskrifter 07:15",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05110626/a5e7c6a2-7.smil/thumb.jpg?t=2858&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2872,
+      "title": "Budsjettforhandlingene starter i dag",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05110626/a5e7c6a2-7.smil/thumb.jpg?t=2897&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3028,
+      "title": "Før Politisk kvarter",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05110626/a5e7c6a2-7.smil/thumb.jpg?t=3054&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3078,
+      "title": "Forbered deg på cyberangrep og vannbrudd",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05110626/a5e7c6a2-7.smil/thumb.jpg?t=3103&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3388,
+      "title": "Komiserie ryster Danmark",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05110626/a5e7c6a2-7.smil/thumb.jpg?t=3414&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3566,
+      "title": "Teasing dagens sending",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05110626/a5e7c6a2-7.smil/thumb.jpg?t=3591&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3569,
+      "title": "Trailer: A-laget med prinsesse Märtha Louise",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05110626/a5e7c6a2-7.smil/thumb.jpg?t=3594&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3601,
+      "title": "Overskrifter 07:30",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05110626/a5e7c6a2-7.smil/thumb.jpg?t=3626&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3634,
+      "title": "Forventer regulering av KI",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05110626/a5e7c6a2-7.smil/thumb.jpg?t=3659&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3750,
+      "title": "Børsras Asia",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05110626/a5e7c6a2-7.smil/thumb.jpg?t=3775&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3833,
+      "title": "Helsedirektører og lønn",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05110626/a5e7c6a2-7.smil/thumb.jpg?t=3858&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3941,
+      "title": "Budsjettforhandlingene starter i dag",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05110626/a5e7c6a2-7.smil/thumb.jpg?t=3966&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 4054,
+      "title": "Hvordan SoMe-forbud fungerer i Australia",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05110626/a5e7c6a2-7.smil/thumb.jpg?t=4079&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 4175,
+      "title": "Stanser bygging av Trumps triumfbue",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05110626/a5e7c6a2-7.smil/thumb.jpg?t=4201&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 4199,
+      "title": "Åpning 07:40",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05110626/a5e7c6a2-7.smil/thumb.jpg?t=4224&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 4269,
+      "title": "Alle elsker Rasmus - i Norge?",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05110626/a5e7c6a2-7.smil/thumb.jpg?t=4294&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 4472,
+      "title": "Topper 07:44",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05110626/a5e7c6a2-7.smil/thumb.jpg?t=4498&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 4499,
+      "title": "Overgang til Politisk kvarter",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05110626/a5e7c6a2-7.smil/thumb.jpg?t=4525&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 5400,
+      "title": "NRK Nyheter 08:00",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05110626/a5e7c6a2-7.smil/thumb.jpg?t=5425&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 5580,
+      "title": "Åpning 08:03",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05110626/a5e7c6a2-7.smil/thumb.jpg?t=5606&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 5672,
+      "title": "Helsedirektører og lønn",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05110626/a5e7c6a2-7.smil/thumb.jpg?t=5697&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 5842,
+      "title": "Helsetopper og lønn",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05110626/a5e7c6a2-7.smil/thumb.jpg?t=5868&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 6110,
+      "title": "Forventer regulering av KI",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05110626/a5e7c6a2-7.smil/thumb.jpg?t=6135&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 6239,
+      "title": "Konsekvenser av børsras i Asia",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05110626/a5e7c6a2-7.smil/thumb.jpg?t=6265&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 6472,
+      "title": "Overskrifter 08:15",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05110626/a5e7c6a2-7.smil/thumb.jpg?t=6498&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 6475,
+      "title": "Fredagspanel",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05110626/a5e7c6a2-7.smil/thumb.jpg?t=6500&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 7215,
+      "title": "Overskrifter 08:30",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05110626/a5e7c6a2-7.smil/thumb.jpg?t=7240&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 7274,
+      "title": "Nytt droneforsvar i Norge",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05110626/a5e7c6a2-7.smil/thumb.jpg?t=7300&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 7469,
+      "title": "Budsjettforhandlingene starter i dag",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05110626/a5e7c6a2-7.smil/thumb.jpg?t=7494&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 7624,
+      "title": "Forventninger til budsjettforhandlinger",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05110626/a5e7c6a2-7.smil/thumb.jpg?t=7649&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 7855,
+      "title": "Kan redde Norge i kriser",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05110626/a5e7c6a2-7.smil/thumb.jpg?t=7880&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8106,
+      "title": "Overskrifter 08:45",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05110626/a5e7c6a2-7.smil/thumb.jpg?t=8132&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8143,
+      "title": "Hegseth trues med riksrett",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05110626/a5e7c6a2-7.smil/thumb.jpg?t=8169&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8332,
+      "title": "Forventninger til børsåpning",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05110626/a5e7c6a2-7.smil/thumb.jpg?t=8358&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8558,
+      "title": "Anmeldelse av «Dans til dere dør»",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05110626/a5e7c6a2-7.smil/thumb.jpg?t=8583&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8804,
+      "title": "Før Abels tårn i NRK P2",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05110626/a5e7c6a2-7.smil/thumb.jpg?t=8830&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8883,
+      "title": "Været i dag",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05110626/a5e7c6a2-7.smil/thumb.jpg?t=8908&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8999,
+      "title": "Avslutning",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa05110626/a5e7c6a2-7.smil/thumb.jpg?t=9003.28&scale=1920x1080&v=high"
+    }
+  ]
+}
