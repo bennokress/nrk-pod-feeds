@@ -1,0 +1,48 @@
+{
+  "version": "1.2.0",
+  "title": "Skadet på fotballkamp",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 1,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-63.akamaized.net/open/ps/nnfa/nnfa21110826/8bd5d20a-7.smil/thumb.jpg?t=26&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 29,
+      "title": "Tribunegulvet kollapset i Tromsø",
+      "img": "https://nrk-od-world-63.akamaized.net/open/ps/nnfa/nnfa21110826/8bd5d20a-7.smil/thumb.jpg?t=54&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 134,
+      "title": "Krakow dagen derpå",
+      "img": "https://nrk-od-world-63.akamaized.net/open/ps/nnfa/nnfa21110826/8bd5d20a-7.smil/thumb.jpg?t=160&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 284,
+      "title": "Midtøsten",
+      "img": "https://nrk-od-world-63.akamaized.net/open/ps/nnfa/nnfa21110826/8bd5d20a-7.smil/thumb.jpg?t=309&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 304,
+      "title": "Naturvernforbundet om datasentre",
+      "img": "https://nrk-od-world-63.akamaized.net/open/ps/nnfa/nnfa21110826/8bd5d20a-7.smil/thumb.jpg?t=329&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 409,
+      "title": "Eliteserie",
+      "img": "https://nrk-od-world-63.akamaized.net/open/ps/nnfa/nnfa21110826/8bd5d20a-7.smil/thumb.jpg?t=434&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 468,
+      "title": "Været",
+      "img": "https://nrk-od-world-63.akamaized.net/open/ps/nnfa/nnfa21110826/8bd5d20a-7.smil/thumb.jpg?t=494&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 524,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-63.akamaized.net/open/ps/nnfa/nnfa21110826/8bd5d20a-7.smil/thumb.jpg?t=543.55&scale=1920x1080&v=high"
+    }
+  ]
+}
