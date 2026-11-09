@@ -1,0 +1,83 @@
+{
+  "version": "1.2.0",
+  "title": "Havnet midt i skytedramaet",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 1,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-26.akamaized.net/open/ps/nnfa/nnfa23110826/329d018e-6.smil/thumb.jpg?t=26&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 28,
+      "title": "Skyting Krakow",
+      "img": "https://nrk-od-world-26.akamaized.net/open/ps/nnfa/nnfa23110826/329d018e-6.smil/thumb.jpg?t=53&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 153,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-26.akamaized.net/open/ps/nnfa/nnfa23110826/329d018e-6.smil/thumb.jpg?t=179&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 234,
+      "title": "Nvidia",
+      "img": "https://nrk-od-world-26.akamaized.net/open/ps/nnfa/nnfa23110826/329d018e-6.smil/thumb.jpg?t=259&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 264,
+      "title": "Utenriks",
+      "img": "https://nrk-od-world-26.akamaized.net/open/ps/nnfa/nnfa23110826/329d018e-6.smil/thumb.jpg?t=290&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 370,
+      "title": "Raftoprisen",
+      "img": "https://nrk-od-world-26.akamaized.net/open/ps/nnfa/nnfa23110826/329d018e-6.smil/thumb.jpg?t=395&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 397,
+      "title": "Mari Boine",
+      "img": "https://nrk-od-world-26.akamaized.net/open/ps/nnfa/nnfa23110826/329d018e-6.smil/thumb.jpg?t=423&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 502,
+      "title": "Landslagssamling",
+      "img": "https://nrk-od-world-26.akamaized.net/open/ps/nnfa/nnfa23110826/329d018e-6.smil/thumb.jpg?t=527&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 519,
+      "title": "La Liga",
+      "img": "https://nrk-od-world-26.akamaized.net/open/ps/nnfa/nnfa23110826/329d018e-6.smil/thumb.jpg?t=544&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 589,
+      "title": "Nettpromo",
+      "img": "https://nrk-od-world-26.akamaized.net/open/ps/nnfa/nnfa23110826/329d018e-6.smil/thumb.jpg?t=615&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 607,
+      "title": "Eliteserien",
+      "img": "https://nrk-od-world-26.akamaized.net/open/ps/nnfa/nnfa23110826/329d018e-6.smil/thumb.jpg?t=632&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 753,
+      "title": "Tennis, Formel 1",
+      "img": "https://nrk-od-world-26.akamaized.net/open/ps/nnfa/nnfa23110826/329d018e-6.smil/thumb.jpg?t=778&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 804,
+      "title": "Kongen maraton",
+      "img": "https://nrk-od-world-26.akamaized.net/open/ps/nnfa/nnfa23110826/329d018e-6.smil/thumb.jpg?t=829&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 837,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-26.akamaized.net/open/ps/nnfa/nnfa23110826/329d018e-6.smil/thumb.jpg?t=863&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 903,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-26.akamaized.net/open/ps/nnfa/nnfa23110826/329d018e-6.smil/thumb.jpg?t=921.6&scale=1920x1080&v=high"
+    }
+  ]
+}
