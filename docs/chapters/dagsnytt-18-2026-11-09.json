@@ -1,0 +1,48 @@
+{
+  "version": "1.2.0",
+  "title": "Stanser ny kraft til datasentre",
+  "author": "NRK",
+  "podcastName": "Dagsnytt 18",
+  "chapters": [
+    {
+      "startTime": 3,
+      "title": "Dagsnytt atten",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa56110926/387854e4-5.smil/thumb.jpg?t=28&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 63,
+      "title": "VGS-elever med hjelpebehov",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa56110926/387854e4-5.smil/thumb.jpg?t=89&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 733,
+      "title": "Konsesjonskrav for datasentre",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa56110926/387854e4-5.smil/thumb.jpg?t=758&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1740,
+      "title": "Nvidia-skandale",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa56110926/387854e4-5.smil/thumb.jpg?t=1766&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2217,
+      "title": "Oppdateringer fra barnehager",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa56110926/387854e4-5.smil/thumb.jpg?t=2242&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2852,
+      "title": "- Samfunnet svikter pårørende",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa56110926/387854e4-5.smil/thumb.jpg?t=2877&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3536,
+      "title": "AVSLUTNING",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa56110926/387854e4-5.smil/thumb.jpg?t=3544&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3538,
+      "title": "SLUTTKJENNING",
+      "img": "https://nrk-od-world-87.akamaized.net/open/ps/nnfa/nnfa56110926/387854e4-5.smil/thumb.jpg?t=3544&scale=1920x1080&v=high"
+    }
+  ]
+}
