@@ -1,0 +1,48 @@
+{
+  "version": "1.2.0",
+  "title": "Støre: Antisemittismen øker",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 1,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa23110926/6561cff5-6.smil/thumb.jpg?t=26&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 36,
+      "title": "Krystallnatt",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa23110926/6561cff5-6.smil/thumb.jpg?t=61&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 164,
+      "title": "Utenriksnyheter",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa23110926/6561cff5-6.smil/thumb.jpg?t=189&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 276,
+      "title": "Svalbard",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa23110926/6561cff5-6.smil/thumb.jpg?t=301&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 399,
+      "title": "Eliteserien",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa23110926/6561cff5-6.smil/thumb.jpg?t=425&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 501,
+      "title": "Tufte snakker",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa23110926/6561cff5-6.smil/thumb.jpg?t=526&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 590,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa23110926/6561cff5-6.smil/thumb.jpg?t=616&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 651,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa23110926/6561cff5-6.smil/thumb.jpg?t=668.64&scale=1920x1080&v=high"
+    }
+  ]
+}
