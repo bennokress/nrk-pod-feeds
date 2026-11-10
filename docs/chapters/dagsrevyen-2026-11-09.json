@@ -1,0 +1,128 @@
+{
+  "version": "1.2.0",
+  "title": "Utro med mistenkt spion",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 9,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa19110926/473aeebb-8.smil/thumb.jpg?t=35&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 64,
+      "title": "Nvidia-spionasje",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa19110926/473aeebb-8.smil/thumb.jpg?t=90&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 200,
+      "title": "Direkte Washington",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa19110926/473aeebb-8.smil/thumb.jpg?t=225&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 330,
+      "title": "Gjest: Gard Sveen",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa19110926/473aeebb-8.smil/thumb.jpg?t=356&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 566,
+      "title": "Datasentre",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa19110926/473aeebb-8.smil/thumb.jpg?t=591&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 770,
+      "title": "Gjest: Kommentator",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa19110926/473aeebb-8.smil/thumb.jpg?t=795&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 876,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa19110926/473aeebb-8.smil/thumb.jpg?t=901&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 943,
+      "title": "Ukraina",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa19110926/473aeebb-8.smil/thumb.jpg?t=968&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1062,
+      "title": "Direkte: Brussel",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa19110926/473aeebb-8.smil/thumb.jpg?t=1088&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1196,
+      "title": "Landesorg Polen",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa19110926/473aeebb-8.smil/thumb.jpg?t=1222&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1335,
+      "title": "Krystallnatta",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa19110926/473aeebb-8.smil/thumb.jpg?t=1361&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1392,
+      "title": "Direkte: Trondheim",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa19110926/473aeebb-8.smil/thumb.jpg?t=1417&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1516,
+      "title": "Etterforsker hacking",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa19110926/473aeebb-8.smil/thumb.jpg?t=1541&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1548,
+      "title": "Frykter hacking",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa19110926/473aeebb-8.smil/thumb.jpg?t=1573&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1669,
+      "title": "Fullføringsreformen",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa19110926/473aeebb-8.smil/thumb.jpg?t=1694&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1796,
+      "title": "Russell Brand dømt",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa19110926/473aeebb-8.smil/thumb.jpg?t=1822&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1889,
+      "title": "Gjest: Inger Merete",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa19110926/473aeebb-8.smil/thumb.jpg?t=1914&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2022,
+      "title": "Norges dyreste bok",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa19110926/473aeebb-8.smil/thumb.jpg?t=2048&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2134,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa19110926/473aeebb-8.smil/thumb.jpg?t=2159&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2139,
+      "title": "Tribune dagen derp",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa19110926/473aeebb-8.smil/thumb.jpg?t=2164&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2222,
+      "title": "Endring i Kollen",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa19110926/473aeebb-8.smil/thumb.jpg?t=2248&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2309,
+      "title": "Johaug Maraton",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa19110926/473aeebb-8.smil/thumb.jpg?t=2335&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2339,
+      "title": "Sanders drøm",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa19110926/473aeebb-8.smil/thumb.jpg?t=2365&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2454,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-24.akamaized.net/open/ps/nnfa/nnfa19110926/473aeebb-8.smil/thumb.jpg?t=2479&scale=1920x1080&v=high"
+    }
+  ]
+}
