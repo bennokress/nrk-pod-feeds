@@ -1,0 +1,268 @@
+{
+  "version": "1.2.0",
+  "title": "Slår alarm om skolereform",
+  "author": "NRK",
+  "podcastName": "Nyhetsmorgen",
+  "chapters": [
+    {
+      "startTime": 1,
+      "title": "Åpning 06:30",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa05110926/3706a87f-5.smil/thumb.jpg?t=26&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 104,
+      "title": "Slår alarm om skolereform",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa05110926/3706a87f-5.smil/thumb.jpg?t=129&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 235,
+      "title": "Praksis for tilflyttere",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa05110926/3706a87f-5.smil/thumb.jpg?t=260&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 457,
+      "title": "Siste nytt",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa05110926/3706a87f-5.smil/thumb.jpg?t=483&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 585,
+      "title": "Nord-Koreas hemmelige fotballjenter",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa05110926/3706a87f-5.smil/thumb.jpg?t=610&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 740,
+      "title": "Flyktninger til Kanariøyene",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa05110926/3706a87f-5.smil/thumb.jpg?t=766&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 868,
+      "title": "Overskrifter 06:45",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa05110926/3706a87f-5.smil/thumb.jpg?t=893&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 918,
+      "title": "Jakten på snø",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa05110926/3706a87f-5.smil/thumb.jpg?t=943&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1175,
+      "title": "Snøen er mangelvare",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa05110926/3706a87f-5.smil/thumb.jpg?t=1201&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1421,
+      "title": "Haaland-bok ankommer Bryne",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa05110926/3706a87f-5.smil/thumb.jpg?t=1447&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1792,
+      "title": "Historier fra virkeligheten: Rottefangeren",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa05110926/3706a87f-5.smil/thumb.jpg?t=1818&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1818,
+      "title": "Åpning 07:00",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa05110926/3706a87f-5.smil/thumb.jpg?t=1844&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1892,
+      "title": "Slår alarm om skolereform",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa05110926/3706a87f-5.smil/thumb.jpg?t=1918&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2086,
+      "title": "Etterlyser alternative studieløp",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa05110926/3706a87f-5.smil/thumb.jpg?t=2112&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2340,
+      "title": "Nvidia-topp innrømmer affære",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa05110926/3706a87f-5.smil/thumb.jpg?t=2366&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2596,
+      "title": "Skytinga i Krakow",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa05110926/3706a87f-5.smil/thumb.jpg?t=2621&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2871,
+      "title": "Solberg vs Listhaug i Polkvart",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa05110926/3706a87f-5.smil/thumb.jpg?t=2896&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2923,
+      "title": "Overskrifter 07:15",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa05110926/3706a87f-5.smil/thumb.jpg?t=2948&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2962,
+      "title": "KI-modeller i reklame",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa05110926/3706a87f-5.smil/thumb.jpg?t=2987&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3197,
+      "title": "Landslagets kokk",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa05110926/3706a87f-5.smil/thumb.jpg?t=3223&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3473,
+      "title": "Tribune-kollaps under TIL-Glimt",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa05110926/3706a87f-5.smil/thumb.jpg?t=3499&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3601,
+      "title": "Overskrifter 07:30",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa05110926/3706a87f-5.smil/thumb.jpg?t=3627&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3634,
+      "title": "Skytinga i Krakow",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa05110926/3706a87f-5.smil/thumb.jpg?t=3660&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3774,
+      "title": "Nvidia-sjefen ble lurt",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa05110926/3706a87f-5.smil/thumb.jpg?t=3799&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3843,
+      "title": "Slår alarm om skolereform",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa05110926/3706a87f-5.smil/thumb.jpg?t=3869&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3962,
+      "title": "KI-modeller i reklame",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa05110926/3706a87f-5.smil/thumb.jpg?t=3987&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 4096,
+      "title": "Haalands bok kommer til Bryne",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa05110926/3706a87f-5.smil/thumb.jpg?t=4122&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 4200,
+      "title": "Åpning 07:40",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa05110926/3706a87f-5.smil/thumb.jpg?t=4226&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 4215,
+      "title": "Forbereder ny Kyiv-vinter",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa05110926/3706a87f-5.smil/thumb.jpg?t=4241&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 4486,
+      "title": "Topper 07:44",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa05110926/3706a87f-5.smil/thumb.jpg?t=4511&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 4488,
+      "title": "Overgang til Politisk kvarter",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa05110926/3706a87f-5.smil/thumb.jpg?t=4513&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 5400,
+      "title": "NRK Nyheter 08:00",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa05110926/3706a87f-5.smil/thumb.jpg?t=5425&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 5580,
+      "title": "Åpning 08:03",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa05110926/3706a87f-5.smil/thumb.jpg?t=5606&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 5656,
+      "title": "Slår alarm om skolereform",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa05110926/3706a87f-5.smil/thumb.jpg?t=5681&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 5807,
+      "title": "KS etterlyser juridisk klarhet",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa05110926/3706a87f-5.smil/thumb.jpg?t=5833&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 6077,
+      "title": "Trump på  60 minutes",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa05110926/3706a87f-5.smil/thumb.jpg?t=6102&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 6275,
+      "title": "Overskrifter 08:15",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa05110926/3706a87f-5.smil/thumb.jpg?t=6300&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 6302,
+      "title": "Kunstig intelligens og datasenter",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa05110926/3706a87f-5.smil/thumb.jpg?t=6327&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 6541,
+      "title": "NVIDIA-sjef innrømmer affære",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa05110926/3706a87f-5.smil/thumb.jpg?t=6566&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 6802,
+      "title": "Kommer Haaland til Bryne?",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa05110926/3706a87f-5.smil/thumb.jpg?t=6828&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 7047,
+      "title": "Mandagspanelet",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa05110926/3706a87f-5.smil/thumb.jpg?t=7073&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 7452,
+      "title": "Hør Ekko i NRK P2",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa05110926/3706a87f-5.smil/thumb.jpg?t=7478&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 7536,
+      "title": "Overskrifter 08:30",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa05110926/3706a87f-5.smil/thumb.jpg?t=7561&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 7585,
+      "title": "Skytinga i Krakow",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa05110926/3706a87f-5.smil/thumb.jpg?t=7610&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 7683,
+      "title": "Kinesisk etterretningsscoop",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa05110926/3706a87f-5.smil/thumb.jpg?t=7708&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 7971,
+      "title": "Klimaendringer truer skisporten",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa05110926/3706a87f-5.smil/thumb.jpg?t=7997&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8277,
+      "title": "Overskrifter 08:45",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa05110926/3706a87f-5.smil/thumb.jpg?t=8302&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8346,
+      "title": "KI-modeller i reklame",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa05110926/3706a87f-5.smil/thumb.jpg?t=8371&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8569,
+      "title": "Anmeldelse: Ilden på Den nationale scene",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa05110926/3706a87f-5.smil/thumb.jpg?t=8594&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8784,
+      "title": "Fritidstilbud betyr mer aktivitet",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa05110926/3706a87f-5.smil/thumb.jpg?t=8810&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8914,
+      "title": "Været i dag",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa05110926/3706a87f-5.smil/thumb.jpg?t=8939&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8993,
+      "title": "Avslutning",
+      "img": "https://nrk-od-world-84.akamaized.net/open/ps/nnfa/nnfa05110926/3706a87f-5.smil/thumb.jpg?t=9003.2&scale=1920x1080&v=high"
+    }
+  ]
+}
