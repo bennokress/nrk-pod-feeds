@@ -1,0 +1,48 @@
+{
+  "version": "1.2.0",
+  "title": "Frp ut mot nullutslippsforslag",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa21111026/0e4a0509-6.smil/thumb.jpg?t=25&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 23,
+      "title": "BIL-OVERVÅKING-101126-DR21",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa21111026/0e4a0509-6.smil/thumb.jpg?t=49&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 140,
+      "title": "Folketrygden",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa21111026/0e4a0509-6.smil/thumb.jpg?t=166&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 225,
+      "title": "Ukraina-samtaler",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa21111026/0e4a0509-6.smil/thumb.jpg?t=251&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 276,
+      "title": "DAGSREVYPAKKE",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa21111026/0e4a0509-6.smil/thumb.jpg?t=301&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 369,
+      "title": "Tredobling i antallet små barn som får oppfølging for autisme i spesialisthelsetjenesten",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa21111026/0e4a0509-6.smil/thumb.jpg?t=394&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 486,
+      "title": "Været",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa21111026/0e4a0509-6.smil/thumb.jpg?t=512&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 537,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-11.akamaized.net/open/ps/nnfa/nnfa21111026/0e4a0509-6.smil/thumb.jpg?t=555.55&scale=1920x1080&v=high"
+    }
+  ]
+}
