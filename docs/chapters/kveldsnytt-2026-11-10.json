@@ -1,0 +1,68 @@
+{
+  "version": "1.2.0",
+  "title": "Listhaug krever svar fra næringsministeren",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa23111026/09cd6644-6.smil/thumb.jpg?t=26&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 28,
+      "title": "Nussir",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa23111026/09cd6644-6.smil/thumb.jpg?t=54&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 147,
+      "title": "Ukraina-forhandlinger",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa23111026/09cd6644-6.smil/thumb.jpg?t=173&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 205,
+      "title": "Kongeparet",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa23111026/09cd6644-6.smil/thumb.jpg?t=231&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 297,
+      "title": "Matsvinn",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa23111026/09cd6644-6.smil/thumb.jpg?t=322&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 327,
+      "title": "Tsjekkia",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa23111026/09cd6644-6.smil/thumb.jpg?t=353&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 383,
+      "title": "Kalenderkrangel",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa23111026/09cd6644-6.smil/thumb.jpg?t=409&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 463,
+      "title": "Landslagssamling",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa23111026/09cd6644-6.smil/thumb.jpg?t=489&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 552,
+      "title": "Newspakke",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa23111026/09cd6644-6.smil/thumb.jpg?t=578&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 628,
+      "title": "Latvia",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa23111026/09cd6644-6.smil/thumb.jpg?t=653&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 647,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa23111026/09cd6644-6.smil/thumb.jpg?t=672&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 709,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-74.akamaized.net/open/ps/nnfa/nnfa23111026/09cd6644-6.smil/thumb.jpg?t=727.64&scale=1920x1080&v=high"
+    }
+  ]
+}
