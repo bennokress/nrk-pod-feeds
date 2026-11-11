@@ -1,0 +1,53 @@
+{
+  "version": "1.2.0",
+  "title": "Boplikt i byer",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa21111126/ef2a63fc-5.smil/thumb.jpg?t=25&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 24,
+      "title": "Boplikt",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa21111126/ef2a63fc-5.smil/thumb.jpg?t=50&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 130,
+      "title": "Trussel i Sandefjord",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa21111126/ef2a63fc-5.smil/thumb.jpg?t=156&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 149,
+      "title": "Husbrann",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa21111126/ef2a63fc-5.smil/thumb.jpg?t=175&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 179,
+      "title": "Forsvar",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa21111126/ef2a63fc-5.smil/thumb.jpg?t=204&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 284,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa21111126/ef2a63fc-5.smil/thumb.jpg?t=309&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 354,
+      "title": "Ville stanset fisket",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa21111126/ef2a63fc-5.smil/thumb.jpg?t=379&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 466,
+      "title": "Rosenborg",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa21111126/ef2a63fc-5.smil/thumb.jpg?t=492&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 508,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-35.akamaized.net/open/ps/nnfa/nnfa21111126/ef2a63fc-5.smil/thumb.jpg?t=533&scale=1920x1080&v=high"
+    }
+  ]
+}
