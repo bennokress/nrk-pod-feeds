@@ -1,0 +1,293 @@
+{
+  "version": "1.2.0",
+  "title": "Over 70 personer ble smugfilmet",
+  "author": "NRK",
+  "podcastName": "Nyhetsmorgen",
+  "chapters": [
+    {
+      "startTime": 1,
+      "title": "Åpning 06:30",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05111026/781bd247-6.smil/thumb.jpg?t=26&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 68,
+      "title": "Tilsette blei smugfilma på do i elleve år",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05111026/781bd247-6.smil/thumb.jpg?t=94&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 182,
+      "title": "Saken om smugfilming",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05111026/781bd247-6.smil/thumb.jpg?t=208&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 348,
+      "title": "Siste nytt",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05111026/781bd247-6.smil/thumb.jpg?t=373&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 489,
+      "title": "Gjøvikbanen stengt for trafikk igjen",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05111026/781bd247-6.smil/thumb.jpg?t=515&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 687,
+      "title": "En av tre på kristne skoler tror ikke på Gud",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05111026/781bd247-6.smil/thumb.jpg?t=713&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 943,
+      "title": "Overskrifter 06:45",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05111026/781bd247-6.smil/thumb.jpg?t=969&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 988,
+      "title": "Riksrettsforslag mot Hegseth",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05111026/781bd247-6.smil/thumb.jpg?t=1014&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1075,
+      "title": "Hvorfor er verden så avhengig av Nvidia?",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05111026/781bd247-6.smil/thumb.jpg?t=1101&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1266,
+      "title": "Sørloth tilbake som innbytter?",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05111026/781bd247-6.smil/thumb.jpg?t=1292&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1412,
+      "title": "Tribunen ble sjekket før ulykken",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05111026/781bd247-6.smil/thumb.jpg?t=1437&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1616,
+      "title": "Hva gjør du om du kjører på vilt?",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05111026/781bd247-6.smil/thumb.jpg?t=1641&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1632,
+      "title": "Mange ikke-kvalifiserte lærere",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05111026/781bd247-6.smil/thumb.jpg?t=1658&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1656,
+      "title": "Hva gjør du om du kjører på vilt?",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05111026/781bd247-6.smil/thumb.jpg?t=1682&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1778,
+      "title": "Trailer Brenner deler dikt",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05111026/781bd247-6.smil/thumb.jpg?t=1803&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1806,
+      "title": "Åpning 07:00",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05111026/781bd247-6.smil/thumb.jpg?t=1831&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1880,
+      "title": "Forventinger til Ukraina-forhandlinger",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05111026/781bd247-6.smil/thumb.jpg?t=1906&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2327,
+      "title": "Før Politisk kvarter",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05111026/781bd247-6.smil/thumb.jpg?t=2352&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2340,
+      "title": "Tilsette blei smugfilma på do",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05111026/781bd247-6.smil/thumb.jpg?t=2365&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2547,
+      "title": "Å arbeide i andres hjem",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05111026/781bd247-6.smil/thumb.jpg?t=2572&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2787,
+      "title": "Overskrifter 07:15",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05111026/781bd247-6.smil/thumb.jpg?t=2813&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2829,
+      "title": "Norge på topp i bruk av ufaglærte lærere",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05111026/781bd247-6.smil/thumb.jpg?t=2854&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2972,
+      "title": "Kraftig økning i autismebehandling",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05111026/781bd247-6.smil/thumb.jpg?t=2997&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3170,
+      "title": "FBI etterforsker Nvidia-sjefen",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05111026/781bd247-6.smil/thumb.jpg?t=3195&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3478,
+      "title": "Undersøker havbotnen i Volda",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05111026/781bd247-6.smil/thumb.jpg?t=3504&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3561,
+      "title": "Trailer Spor Susanne Sunfør",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05111026/781bd247-6.smil/thumb.jpg?t=3586&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3598,
+      "title": "Overskrifter 07:30",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05111026/781bd247-6.smil/thumb.jpg?t=3624&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3627,
+      "title": "Smugfilma på badet i elleve år",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05111026/781bd247-6.smil/thumb.jpg?t=3653&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3740,
+      "title": "Ukrainaforhandlinger starter",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05111026/781bd247-6.smil/thumb.jpg?t=3765&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3836,
+      "title": "Iran-krigen fører til nedgang i utslipp",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05111026/781bd247-6.smil/thumb.jpg?t=3862&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3950,
+      "title": "FBI etterforsker Nvidia-sjefen",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05111026/781bd247-6.smil/thumb.jpg?t=3975&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 4014,
+      "title": "Bank id problemer",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05111026/781bd247-6.smil/thumb.jpg?t=4040&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 4039,
+      "title": "Kraftig økning i autisme-behandling",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05111026/781bd247-6.smil/thumb.jpg?t=4064&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 4155,
+      "title": "Vil ikke tjene på «Sexy sosialister»",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05111026/781bd247-6.smil/thumb.jpg?t=4180&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 4198,
+      "title": "Åpning 07:40",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05111026/781bd247-6.smil/thumb.jpg?t=4223&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 4210,
+      "title": "Havbruk og plast",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05111026/781bd247-6.smil/thumb.jpg?t=4236&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 4466,
+      "title": "Topper 07:44",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05111026/781bd247-6.smil/thumb.jpg?t=4491&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 5401,
+      "title": "NRK Nyheter 08:00",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05111026/781bd247-6.smil/thumb.jpg?t=5427&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 5579,
+      "title": "Åpning 08:03",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05111026/781bd247-6.smil/thumb.jpg?t=5605&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 5633,
+      "title": "Kraftig økning i autismebehandling",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05111026/781bd247-6.smil/thumb.jpg?t=5659&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 5873,
+      "title": "Økning i autisme",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05111026/781bd247-6.smil/thumb.jpg?t=5899&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 6107,
+      "title": "Hvorfor er verden så avhengig av Nvidia?",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05111026/781bd247-6.smil/thumb.jpg?t=6132&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 6296,
+      "title": "Overskrifter 08:15",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05111026/781bd247-6.smil/thumb.jpg?t=6322&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 6359,
+      "title": "Inflasjonstall",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05111026/781bd247-6.smil/thumb.jpg?t=6384&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 6644,
+      "title": "Riksrettsforslag mot Hegseth",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05111026/781bd247-6.smil/thumb.jpg?t=6669&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 6799,
+      "title": "FBI etterforsker Nvidia-sjefen",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05111026/781bd247-6.smil/thumb.jpg?t=6824&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 7085,
+      "title": "Tribunen ble sjekket før ulykken",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05111026/781bd247-6.smil/thumb.jpg?t=7110&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 7219,
+      "title": "Hør Ekko i NRK P2",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05111026/781bd247-6.smil/thumb.jpg?t=7244&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 7350,
+      "title": "Tilsette blei smugfilma på do",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05111026/781bd247-6.smil/thumb.jpg?t=7376&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 7560,
+      "title": "Idrett og mindre snø i fjellet",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05111026/781bd247-6.smil/thumb.jpg?t=7586&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 7878,
+      "title": "Iran-krigen fører til nedgang i utslipp",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05111026/781bd247-6.smil/thumb.jpg?t=7904&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8055,
+      "title": "COP-rapport",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05111026/781bd247-6.smil/thumb.jpg?t=8080&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8264,
+      "title": "Overskrifter 08:45",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05111026/781bd247-6.smil/thumb.jpg?t=8289&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8342,
+      "title": "Forventninger til Ukraina-forhandlinger",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05111026/781bd247-6.smil/thumb.jpg?t=8367&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8621,
+      "title": "Anm. opera i Bergen",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05111026/781bd247-6.smil/thumb.jpg?t=8647&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8886,
+      "title": "Været i dag",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05111026/781bd247-6.smil/thumb.jpg?t=8912&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8994,
+      "title": "Avslutning",
+      "img": "https://nrk-od-world-09.akamaized.net/open/ps/nnfa/nnfa05111026/781bd247-6.smil/thumb.jpg?t=9003.4&scale=1920x1080&v=high"
+    }
+  ]
+}
