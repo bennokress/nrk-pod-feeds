@@ -1,0 +1,153 @@
+{
+  "version": "1.2.0",
+  "title": "Fødte midt i trafikken",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 9,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa19111126/d7f68279-5.smil/thumb.jpg?t=34&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 64,
+      "title": "Direkte: Oslo",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa19111126/d7f68279-5.smil/thumb.jpg?t=90&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 88,
+      "title": "Ukraina-samtalene",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa19111126/d7f68279-5.smil/thumb.jpg?t=114&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 162,
+      "title": "SAS kutt i nord",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa19111126/d7f68279-5.smil/thumb.jpg?t=187&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 282,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa19111126/d7f68279-5.smil/thumb.jpg?t=307&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 377,
+      "title": "Fødte i morgenrushet",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa19111126/d7f68279-5.smil/thumb.jpg?t=402&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 491,
+      "title": "Datainnbrudd",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa19111126/d7f68279-5.smil/thumb.jpg?t=516&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 597,
+      "title": "Gjest: Geir Egil Myhre",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa19111126/d7f68279-5.smil/thumb.jpg?t=623&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 727,
+      "title": "Utenriksnyheter",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa19111126/d7f68279-5.smil/thumb.jpg?t=753&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 845,
+      "title": "Flykntingstrøm USA",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa19111126/d7f68279-5.smil/thumb.jpg?t=870&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 874,
+      "title": "Direkte Washington",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa19111126/d7f68279-5.smil/thumb.jpg?t=900&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 975,
+      "title": "Norske livreddere i Krakow",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa19111126/d7f68279-5.smil/thumb.jpg?t=1000&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1093,
+      "title": "Klimatoppmøtet",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa19111126/d7f68279-5.smil/thumb.jpg?t=1119&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1208,
+      "title": "Direkte. Antalya",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa19111126/d7f68279-5.smil/thumb.jpg?t=1233&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1334,
+      "title": "Rutte i Oslo",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa19111126/d7f68279-5.smil/thumb.jpg?t=1359&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1401,
+      "title": "Afrika overfiske",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa19111126/d7f68279-5.smil/thumb.jpg?t=1426&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1512,
+      "title": "Kreft-sykehus",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa19111126/d7f68279-5.smil/thumb.jpg?t=1538&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1656,
+      "title": "Høiby-saken",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa19111126/d7f68279-5.smil/thumb.jpg?t=1681&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1678,
+      "title": "Kongen på jobb",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa19111126/d7f68279-5.smil/thumb.jpg?t=1703&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1718,
+      "title": "Signing i Trondheim",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa19111126/d7f68279-5.smil/thumb.jpg?t=1744&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1825,
+      "title": "Bo hjemme",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa19111126/d7f68279-5.smil/thumb.jpg?t=1850&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1940,
+      "title": "Snøen kommer",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa19111126/d7f68279-5.smil/thumb.jpg?t=1966&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1976,
+      "title": "Direkte: Oslo",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa19111126/d7f68279-5.smil/thumb.jpg?t=2002&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2123,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa19111126/d7f68279-5.smil/thumb.jpg?t=2149&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2130,
+      "title": "Landslaget fotball",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa19111126/d7f68279-5.smil/thumb.jpg?t=2156&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2262,
+      "title": "Brann europacup",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa19111126/d7f68279-5.smil/thumb.jpg?t=2287&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2310,
+      "title": "Tromsø tribunekollaps",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa19111126/d7f68279-5.smil/thumb.jpg?t=2336&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2335,
+      "title": "Skiskyting gebyr",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa19111126/d7f68279-5.smil/thumb.jpg?t=2361&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2440,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-73.akamaized.net/open/ps/nnfa/nnfa19111126/d7f68279-5.smil/thumb.jpg?t=2466&scale=1920x1080&v=high"
+    }
+  ]
+}
