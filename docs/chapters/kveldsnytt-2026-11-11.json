@@ -1,0 +1,68 @@
+{
+  "version": "1.2.0",
+  "title": "Turister omringet spekkhoggere",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Kveldsnytt",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa23111126/b8fe1886-7.smil/thumb.jpg?t=26&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 36,
+      "title": "Spania protest",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa23111126/b8fe1886-7.smil/thumb.jpg?t=61&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 133,
+      "title": "Nussir-gruve",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa23111126/b8fe1886-7.smil/thumb.jpg?t=159&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 169,
+      "title": "Flerkoneri",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa23111126/b8fe1886-7.smil/thumb.jpg?t=194&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 276,
+      "title": "Tromsø",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa23111126/b8fe1886-7.smil/thumb.jpg?t=302&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 304,
+      "title": "Klimamøtet",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa23111126/b8fe1886-7.smil/thumb.jpg?t=329&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 372,
+      "title": "FN om Kongo",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa23111126/b8fe1886-7.smil/thumb.jpg?t=397&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 416,
+      "title": "Paven",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa23111126/b8fe1886-7.smil/thumb.jpg?t=442&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 445,
+      "title": "Fotball",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa23111126/b8fe1886-7.smil/thumb.jpg?t=470&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 493,
+      "title": "Alpint",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa23111126/b8fe1886-7.smil/thumb.jpg?t=518&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 586,
+      "title": "Sportspakke",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa23111126/b8fe1886-7.smil/thumb.jpg?t=611&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 670,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-98.akamaized.net/open/ps/nnfa/nnfa23111126/b8fe1886-7.smil/thumb.jpg?t=696&scale=1920x1080&v=high"
+    }
+  ]
+}
