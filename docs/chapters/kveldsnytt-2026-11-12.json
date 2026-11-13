@@ -1,0 +1,68 @@
+{
+  "version": "1.2.0",
+  "title": "Norge sier nei",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-23.akamaized.net/open/ps/nnfa/nnfa23111226/b32c3034-7.smil/thumb.jpg?t=26&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 40,
+      "title": "Gjest:",
+      "img": "https://nrk-od-world-23.akamaized.net/open/ps/nnfa/nnfa23111226/b32c3034-7.smil/thumb.jpg?t=66&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 198,
+      "title": "Dublin",
+      "img": "https://nrk-od-world-23.akamaized.net/open/ps/nnfa/nnfa23111226/b32c3034-7.smil/thumb.jpg?t=224&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 259,
+      "title": "Forsvarsavtale",
+      "img": "https://nrk-od-world-23.akamaized.net/open/ps/nnfa/nnfa23111226/b32c3034-7.smil/thumb.jpg?t=285&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 313,
+      "title": "Tidligere terrorsiktet",
+      "img": "https://nrk-od-world-23.akamaized.net/open/ps/nnfa/nnfa23111226/b32c3034-7.smil/thumb.jpg?t=338&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 345,
+      "title": "Datainbrudd",
+      "img": "https://nrk-od-world-23.akamaized.net/open/ps/nnfa/nnfa23111226/b32c3034-7.smil/thumb.jpg?t=371&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 373,
+      "title": "Snøkaos",
+      "img": "https://nrk-od-world-23.akamaized.net/open/ps/nnfa/nnfa23111226/b32c3034-7.smil/thumb.jpg?t=399&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 479,
+      "title": "Klimaføringer",
+      "img": "https://nrk-od-world-23.akamaized.net/open/ps/nnfa/nnfa23111226/b32c3034-7.smil/thumb.jpg?t=505&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 541,
+      "title": "Nasjonsligaen",
+      "img": "https://nrk-od-world-23.akamaized.net/open/ps/nnfa/nnfa23111226/b32c3034-7.smil/thumb.jpg?t=566&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 664,
+      "title": "Mesterliga kvinner",
+      "img": "https://nrk-od-world-23.akamaized.net/open/ps/nnfa/nnfa23111226/b32c3034-7.smil/thumb.jpg?t=690&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 712,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-23.akamaized.net/open/ps/nnfa/nnfa23111226/b32c3034-7.smil/thumb.jpg?t=738&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 774,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-23.akamaized.net/open/ps/nnfa/nnfa23111226/b32c3034-7.smil/thumb.jpg?t=792.6&scale=1920x1080&v=high"
+    }
+  ]
+}
