@@ -1,0 +1,143 @@
+{
+  "version": "1.2.0",
+  "title": "Teknologikjempen felt av utroskap",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 9,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa19111226/b235549d-11.smil/thumb.jpg?t=35&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 57,
+      "title": "Nvidia-sjef trekker seg",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa19111226/b235549d-11.smil/thumb.jpg?t=83&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 92,
+      "title": "Direkte: Washington D.C.",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa19111226/b235549d-11.smil/thumb.jpg?t=118&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 179,
+      "title": "Nvidia-sjefens fremtid",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa19111226/b235549d-11.smil/thumb.jpg?t=205&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 354,
+      "title": "Direkte: Washington D.C.",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa19111226/b235549d-11.smil/thumb.jpg?t=380&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 394,
+      "title": "PST",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa19111226/b235549d-11.smil/thumb.jpg?t=420&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 545,
+      "title": "Gjest: Falkenberg Mikkelsen",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa19111226/b235549d-11.smil/thumb.jpg?t=570&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 652,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa19111226/b235549d-11.smil/thumb.jpg?t=678&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 739,
+      "title": "Hønefoss",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa19111226/b235549d-11.smil/thumb.jpg?t=764&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 775,
+      "title": "Direkte: Oslo",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa19111226/b235549d-11.smil/thumb.jpg?t=800&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 898,
+      "title": "Snøkaos",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa19111226/b235549d-11.smil/thumb.jpg?t=923&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1063,
+      "title": "SAS-kuttene",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa19111226/b235549d-11.smil/thumb.jpg?t=1089&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1183,
+      "title": "Angrep sykehus",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa19111226/b235549d-11.smil/thumb.jpg?t=1209&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1294,
+      "title": "USA og Russland",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa19111226/b235549d-11.smil/thumb.jpg?t=1320&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1320,
+      "title": "Støre sykmeldt",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa19111226/b235549d-11.smil/thumb.jpg?t=1345&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1329,
+      "title": "Utenriks",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa19111226/b235549d-11.smil/thumb.jpg?t=1354&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1472,
+      "title": "Rus og psykiatri",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa19111226/b235549d-11.smil/thumb.jpg?t=1497&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1644,
+      "title": "GTA 6",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa19111226/b235549d-11.smil/thumb.jpg?t=1669&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1799,
+      "title": "Gjest: Steffen Lund",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa19111226/b235549d-11.smil/thumb.jpg?t=1825&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1958,
+      "title": "Velkommen til familien",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa19111226/b235549d-11.smil/thumb.jpg?t=1983&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2025,
+      "title": "Direkte: Kristiansand",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa19111226/b235549d-11.smil/thumb.jpg?t=2050&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2141,
+      "title": "Trailer Debatten",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa19111226/b235549d-11.smil/thumb.jpg?t=2166&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2168,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa19111226/b235549d-11.smil/thumb.jpg?t=2193&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2176,
+      "title": "Landslaget fotball",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa19111226/b235549d-11.smil/thumb.jpg?t=2201&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2365,
+      "title": "Manchester United",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa19111226/b235549d-11.smil/thumb.jpg?t=2390&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2391,
+      "title": "Langrenn",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa19111226/b235549d-11.smil/thumb.jpg?t=2417&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2478,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-97.akamaized.net/open/ps/nnfa/nnfa19111226/b235549d-11.smil/thumb.jpg?t=2504&scale=1920x1080&v=high"
+    }
+  ]
+}
