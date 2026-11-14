@@ -1,0 +1,78 @@
+{
+  "version": "1.2.0",
+  "title": "Kantret etter kollisjon",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-47.akamaized.net/open/ps/nnfa/nnfa23111326/b836f960-6.smil/thumb.jpg?t=26&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 34,
+      "title": "Alle fly på bakken i USA",
+      "img": "https://nrk-od-world-47.akamaized.net/open/ps/nnfa/nnfa23111326/b836f960-6.smil/thumb.jpg?t=59&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 64,
+      "title": "Cruise kantret New Orleans",
+      "img": "https://nrk-od-world-47.akamaized.net/open/ps/nnfa/nnfa23111326/b836f960-6.smil/thumb.jpg?t=90&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 158,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-47.akamaized.net/open/ps/nnfa/nnfa23111326/b836f960-6.smil/thumb.jpg?t=183&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 303,
+      "title": "Uro om mindre bedrifters datasikkerhet",
+      "img": "https://nrk-od-world-47.akamaized.net/open/ps/nnfa/nnfa23111326/b836f960-6.smil/thumb.jpg?t=329&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 418,
+      "title": "Microsoft problemer",
+      "img": "https://nrk-od-world-47.akamaized.net/open/ps/nnfa/nnfa23111326/b836f960-6.smil/thumb.jpg?t=444&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 441,
+      "title": "EU sater på KI",
+      "img": "https://nrk-od-world-47.akamaized.net/open/ps/nnfa/nnfa23111326/b836f960-6.smil/thumb.jpg?t=467&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 494,
+      "title": "Sykdom laks",
+      "img": "https://nrk-od-world-47.akamaized.net/open/ps/nnfa/nnfa23111326/b836f960-6.smil/thumb.jpg?t=520&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 602,
+      "title": "Keeper utestengt",
+      "img": "https://nrk-od-world-47.akamaized.net/open/ps/nnfa/nnfa23111326/b836f960-6.smil/thumb.jpg?t=627&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 624,
+      "title": "Styrkeløft gull",
+      "img": "https://nrk-od-world-47.akamaized.net/open/ps/nnfa/nnfa23111326/b836f960-6.smil/thumb.jpg?t=649&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 677,
+      "title": "Sjakk og Carlsen",
+      "img": "https://nrk-od-world-47.akamaized.net/open/ps/nnfa/nnfa23111326/b836f960-6.smil/thumb.jpg?t=702&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 724,
+      "title": "Nasjonsligaen",
+      "img": "https://nrk-od-world-47.akamaized.net/open/ps/nnfa/nnfa23111326/b836f960-6.smil/thumb.jpg?t=750&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 817,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-47.akamaized.net/open/ps/nnfa/nnfa23111326/b836f960-6.smil/thumb.jpg?t=842&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 894,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-47.akamaized.net/open/ps/nnfa/nnfa23111326/b836f960-6.smil/thumb.jpg?t=913.84&scale=1920x1080&v=high"
+    }
+  ]
+}
