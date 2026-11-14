@@ -1,0 +1,103 @@
+{
+  "version": "1.2.0",
+  "title": "Datatrøbbel for tusener",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 6,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa19111326/02f2de7e-5.smil/thumb.jpg?t=32&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 57,
+      "title": "Høyres skattekutt",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa19111326/02f2de7e-5.smil/thumb.jpg?t=82&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 221,
+      "title": "Direkte Førde",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa19111326/02f2de7e-5.smil/thumb.jpg?t=246&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 330,
+      "title": "Togtrøbbel",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa19111326/02f2de7e-5.smil/thumb.jpg?t=355&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 428,
+      "title": "Toppmøte Dublin",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa19111326/02f2de7e-5.smil/thumb.jpg?t=454&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 463,
+      "title": "Direkte: Brussel",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa19111326/02f2de7e-5.smil/thumb.jpg?t=488&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 571,
+      "title": "Microsoft problemer",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa19111326/02f2de7e-5.smil/thumb.jpg?t=597&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 715,
+      "title": "Nvidia",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa19111326/02f2de7e-5.smil/thumb.jpg?t=740&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 825,
+      "title": "Klimasøksmålet",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa19111326/02f2de7e-5.smil/thumb.jpg?t=851&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 948,
+      "title": "Glatt føre",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa19111326/02f2de7e-5.smil/thumb.jpg?t=974&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1033,
+      "title": "Oljevulkan",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa19111326/02f2de7e-5.smil/thumb.jpg?t=1058&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1150,
+      "title": "Synne Vo i Spektrum",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa19111326/02f2de7e-5.smil/thumb.jpg?t=1175&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1270,
+      "title": "Tombra ny USA-korrespondent",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa19111326/02f2de7e-5.smil/thumb.jpg?t=1295&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1290,
+      "title": "Nisseskole London",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa19111326/02f2de7e-5.smil/thumb.jpg?t=1315&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1368,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa19111326/02f2de7e-5.smil/thumb.jpg?t=1393&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1372,
+      "title": "Vcup skøyter",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa19111326/02f2de7e-5.smil/thumb.jpg?t=1398&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1443,
+      "title": "Fotball nasjonsliga",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa19111326/02f2de7e-5.smil/thumb.jpg?t=1469&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1514,
+      "title": "Skiskyting",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa19111326/02f2de7e-5.smil/thumb.jpg?t=1539&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1590,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-21.akamaized.net/open/ps/nnfa/nnfa19111326/02f2de7e-5.smil/thumb.jpg?t=1615&scale=1920x1080&v=high"
+    }
+  ]
+}
