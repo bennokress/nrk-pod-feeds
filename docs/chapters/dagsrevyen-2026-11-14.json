@@ -1,0 +1,113 @@
+{
+  "version": "1.2.0",
+  "title": "Frykter spredning",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 12,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa19111426/c7946c9d-5.smil/thumb.jpg?t=38&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 73,
+      "title": "Fugelinfluensa",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa19111426/c7946c9d-5.smil/thumb.jpg?t=98&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 181,
+      "title": "Gjest Nils Kristen Sandtrøen",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa19111426/c7946c9d-5.smil/thumb.jpg?t=207&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 277,
+      "title": "Høyre Frp",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa19111426/c7946c9d-5.smil/thumb.jpg?t=302&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 407,
+      "title": "Krigen i Ukraina",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa19111426/c7946c9d-5.smil/thumb.jpg?t=433&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 526,
+      "title": "Hacking og beredskap",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa19111426/c7946c9d-5.smil/thumb.jpg?t=551&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 551,
+      "title": "Flykaos USA",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa19111426/c7946c9d-5.smil/thumb.jpg?t=577&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 649,
+      "title": "Hacking og beredskap",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa19111426/c7946c9d-5.smil/thumb.jpg?t=675&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 837,
+      "title": "Verdensnyheter",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa19111426/c7946c9d-5.smil/thumb.jpg?t=862&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 947,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa19111426/c7946c9d-5.smil/thumb.jpg?t=973&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1035,
+      "title": "Sebastian Sponevik",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa19111426/c7946c9d-5.smil/thumb.jpg?t=1061&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1341,
+      "title": "Tyveri",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa19111426/c7946c9d-5.smil/thumb.jpg?t=1366&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1744,
+      "title": "Eivind Løberg",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa19111426/c7946c9d-5.smil/thumb.jpg?t=1769&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1990,
+      "title": "Julevinduer",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa19111426/c7946c9d-5.smil/thumb.jpg?t=2015&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2115,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa19111426/c7946c9d-5.smil/thumb.jpg?t=2141&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2120,
+      "title": "Norge-Wales",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa19111426/c7946c9d-5.smil/thumb.jpg?t=2146&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2198,
+      "title": "1.divisjon fotball",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa19111426/c7946c9d-5.smil/thumb.jpg?t=2224&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2228,
+      "title": "V-cup skøyter",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa19111426/c7946c9d-5.smil/thumb.jpg?t=2253&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2289,
+      "title": "V-cup slalåm",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa19111426/c7946c9d-5.smil/thumb.jpg?t=2314&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2309,
+      "title": "Skiskyting",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa19111426/c7946c9d-5.smil/thumb.jpg?t=2335&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2471,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-45.akamaized.net/open/ps/nnfa/nnfa19111426/c7946c9d-5.smil/thumb.jpg?t=2496&scale=1920x1080&v=high"
+    }
+  ]
+}
