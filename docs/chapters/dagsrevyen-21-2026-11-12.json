@@ -1,0 +1,58 @@
+{
+  "version": "1.2.0",
+  "title": "Snøtrøbbel på Gardermoen",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa21111226/320c9797-5.smil/thumb.jpg?t=25&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 32,
+      "title": "Ukraina-møte",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa21111226/320c9797-5.smil/thumb.jpg?t=57&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 63,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa21111226/320c9797-5.smil/thumb.jpg?t=88&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 202,
+      "title": "Russiske utøvere",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa21111226/320c9797-5.smil/thumb.jpg?t=227&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 222,
+      "title": "Nvidia",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa21111226/320c9797-5.smil/thumb.jpg?t=248&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 334,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa21111226/320c9797-5.smil/thumb.jpg?t=360&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 435,
+      "title": "Snøkaos",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa21111226/320c9797-5.smil/thumb.jpg?t=460&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 461,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa21111226/320c9797-5.smil/thumb.jpg?t=487&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 568,
+      "title": "Været",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa21111226/320c9797-5.smil/thumb.jpg?t=593&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 625,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-60.akamaized.net/open/ps/nnfa/nnfa21111226/320c9797-5.smil/thumb.jpg?t=644.55&scale=1920x1080&v=high"
+    }
+  ]
+}
