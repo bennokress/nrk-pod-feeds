@@ -1,0 +1,73 @@
+{
+  "version": "1.2.0",
+  "title": "Snakket om City",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa23111426/afec3e2c-5.smil/thumb.jpg?t=25&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 44,
+      "title": "Norge vant",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa23111426/afec3e2c-5.smil/thumb.jpg?t=69&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 157,
+      "title": "Haaland om city",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa23111426/afec3e2c-5.smil/thumb.jpg?t=182&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 213,
+      "title": "Streik Old Irish",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa23111426/afec3e2c-5.smil/thumb.jpg?t=238&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 349,
+      "title": "Flytrøbbel USA",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa23111426/afec3e2c-5.smil/thumb.jpg?t=374&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 382,
+      "title": "Ungarn Arkiv",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa23111426/afec3e2c-5.smil/thumb.jpg?t=407&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 510,
+      "title": "SpaceX",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa23111426/afec3e2c-5.smil/thumb.jpg?t=535&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 544,
+      "title": "Mushtaq om Oslo",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa23111426/afec3e2c-5.smil/thumb.jpg?t=569&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 608,
+      "title": "Pepperkakeby Bergen",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa23111426/afec3e2c-5.smil/thumb.jpg?t=634&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 715,
+      "title": "Nasjonsliga",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa23111426/afec3e2c-5.smil/thumb.jpg?t=740&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 761,
+      "title": "Ishockey",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa23111426/afec3e2c-5.smil/thumb.jpg?t=787&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 836,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa23111426/afec3e2c-5.smil/thumb.jpg?t=861&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 904,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-71.akamaized.net/open/ps/nnfa/nnfa23111426/afec3e2c-5.smil/thumb.jpg?t=924.72&scale=1920x1080&v=high"
+    }
+  ]
+}
