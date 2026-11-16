@@ -1,0 +1,68 @@
+{
+  "version": "1.2.0",
+  "title": "Kaoset fortsetter i Sverige",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-95.akamaized.net/open/ps/nnfa/nnfa23111526/5248f372-7.smil/thumb.jpg?t=25&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 39,
+      "title": "Norges største, kommersielle fugleinfluensa-utbrudd",
+      "img": "https://nrk-od-world-95.akamaized.net/open/ps/nnfa/nnfa23111526/5248f372-7.smil/thumb.jpg?t=64&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 129,
+      "title": "Gjest:",
+      "img": "https://nrk-od-world-95.akamaized.net/open/ps/nnfa/nnfa23111526/5248f372-7.smil/thumb.jpg?t=154&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 264,
+      "title": "Sverige regjering",
+      "img": "https://nrk-od-world-95.akamaized.net/open/ps/nnfa/nnfa23111526/5248f372-7.smil/thumb.jpg?t=289&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 311,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-95.akamaized.net/open/ps/nnfa/nnfa23111526/5248f372-7.smil/thumb.jpg?t=337&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 439,
+      "title": "Paven å reise i Sør-Amerika.",
+      "img": "https://nrk-od-world-95.akamaized.net/open/ps/nnfa/nnfa23111526/5248f372-7.smil/thumb.jpg?t=464&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 538,
+      "title": "Utenriksnyheter",
+      "img": "https://nrk-od-world-95.akamaized.net/open/ps/nnfa/nnfa23111526/5248f372-7.smil/thumb.jpg?t=563&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 637,
+      "title": "Ronaldinho is back",
+      "img": "https://nrk-od-world-95.akamaized.net/open/ps/nnfa/nnfa23111526/5248f372-7.smil/thumb.jpg?t=663&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 665,
+      "title": "Spania - England",
+      "img": "https://nrk-od-world-95.akamaized.net/open/ps/nnfa/nnfa23111526/5248f372-7.smil/thumb.jpg?t=691&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 757,
+      "title": "Botn vs Hedegart",
+      "img": "https://nrk-od-world-95.akamaized.net/open/ps/nnfa/nnfa23111526/5248f372-7.smil/thumb.jpg?t=783&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 832,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-95.akamaized.net/open/ps/nnfa/nnfa23111526/5248f372-7.smil/thumb.jpg?t=857&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 891,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-95.akamaized.net/open/ps/nnfa/nnfa23111526/5248f372-7.smil/thumb.jpg?t=910.48&scale=1920x1080&v=high"
+    }
+  ]
+}
