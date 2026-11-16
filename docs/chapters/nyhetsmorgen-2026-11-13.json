@@ -1,0 +1,293 @@
+{
+  "version": "1.2.0",
+  "title": "Høyre med rekord-skattelette",
+  "author": "NRK",
+  "podcastName": "Nyhetsmorgen",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Åpning 06:30",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05111326/2be55619-6.smil/thumb.jpg?t=25&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 71,
+      "title": "Oslo S stengt",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05111326/2be55619-6.smil/thumb.jpg?t=96&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 163,
+      "title": "Høyre vil ha skattekutt på 25 milliarder",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05111326/2be55619-6.smil/thumb.jpg?t=188&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 301,
+      "title": "Sier ingenting om de dyreste medisinene",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05111326/2be55619-6.smil/thumb.jpg?t=326&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 441,
+      "title": "Siste nytt",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05111326/2be55619-6.smil/thumb.jpg?t=466&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 516,
+      "title": "Microsoft-trøbbel",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05111326/2be55619-6.smil/thumb.jpg?t=541&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 642,
+      "title": "Vålerenga har vokst ut av Jordal Amfi",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05111326/2be55619-6.smil/thumb.jpg?t=667&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 783,
+      "title": "Overskrifter 06:45",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05111326/2be55619-6.smil/thumb.jpg?t=808&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 825,
+      "title": "Unge tar stor aksjerisiko",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05111326/2be55619-6.smil/thumb.jpg?t=851&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1037,
+      "title": "Nvidia-sjef ferdig etter utroskapsskandale",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05111326/2be55619-6.smil/thumb.jpg?t=1063&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1355,
+      "title": "1",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05111326/2be55619-6.smil/thumb.jpg?t=1380&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1467,
+      "title": "Ny Nussir-omkamp",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05111326/2be55619-6.smil/thumb.jpg?t=1492&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1722,
+      "title": "Åtvarer mot sjeldnare postutdeling",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05111326/2be55619-6.smil/thumb.jpg?t=1747&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1774,
+      "title": "Historier fra virkeligheten: Rottefangeren",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05111326/2be55619-6.smil/thumb.jpg?t=1799&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1801,
+      "title": "Åpning 07:00",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05111326/2be55619-6.smil/thumb.jpg?t=1826&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1896,
+      "title": "Trøbbel på Oslo S og Oslo lufthavn",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05111326/2be55619-6.smil/thumb.jpg?t=1922&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1985,
+      "title": "Høyre vil ha skattekutt på 25 milliarder",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05111326/2be55619-6.smil/thumb.jpg?t=2010&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2174,
+      "title": "Kommentator om Høyres budsjett",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05111326/2be55619-6.smil/thumb.jpg?t=2200&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2370,
+      "title": "Høgres skatteforslag i Politisk kvarter",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05111326/2be55619-6.smil/thumb.jpg?t=2396&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2397,
+      "title": "Russiske reaksjoner på visum-nekt",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05111326/2be55619-6.smil/thumb.jpg?t=2422&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2492,
+      "title": "Kommentator om visum-nekt",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05111326/2be55619-6.smil/thumb.jpg?t=2518&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2732,
+      "title": "Overskrifter 07:15",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05111326/2be55619-6.smil/thumb.jpg?t=2758&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2790,
+      "title": "Oslo er delvis stengt",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05111326/2be55619-6.smil/thumb.jpg?t=2815&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3014,
+      "title": "Uformelt EU-møte i Dublin",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05111326/2be55619-6.smil/thumb.jpg?t=3040&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3282,
+      "title": "Speiding er ikke friluftsliv nok",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05111326/2be55619-6.smil/thumb.jpg?t=3308&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3501,
+      "title": "Ny Nussir-omkamp",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05111326/2be55619-6.smil/thumb.jpg?t=3526&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3571,
+      "title": "Brenner deler dikt - ny sesong",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05111326/2be55619-6.smil/thumb.jpg?t=3596&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3601,
+      "title": "Overskrifter 07:30",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05111326/2be55619-6.smil/thumb.jpg?t=3626&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3632,
+      "title": "Oslo S delvis stengt",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05111326/2be55619-6.smil/thumb.jpg?t=3657&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3766,
+      "title": "Høyre vil ha skattekutt på 25 milliarder",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05111326/2be55619-6.smil/thumb.jpg?t=3791&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3888,
+      "title": "Sier ingenting om de dyreste medisinene",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05111326/2be55619-6.smil/thumb.jpg?t=3913&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 4012,
+      "title": "– Avgang får følger for Nvidia",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05111326/2be55619-6.smil/thumb.jpg?t=4037&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 4084,
+      "title": "Unge tar stor aksjerisiko",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05111326/2be55619-6.smil/thumb.jpg?t=4109&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 4202,
+      "title": "Åpning 07:40",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05111326/2be55619-6.smil/thumb.jpg?t=4227&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 4219,
+      "title": "Elg i boligstrøk",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05111326/2be55619-6.smil/thumb.jpg?t=4245&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 4481,
+      "title": "Topper 07:44",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05111326/2be55619-6.smil/thumb.jpg?t=4507&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 5400,
+      "title": "NRK Nyheter 08:00",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05111326/2be55619-6.smil/thumb.jpg?t=5426&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 5581,
+      "title": "Åpning 08:03",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05111326/2be55619-6.smil/thumb.jpg?t=5606&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 5642,
+      "title": "Politikere i USA vil ha Nvidia-svar",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05111326/2be55619-6.smil/thumb.jpg?t=5667&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 5783,
+      "title": "Nvidia-sjef ferdig",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05111326/2be55619-6.smil/thumb.jpg?t=5809&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 6049,
+      "title": "Blå bølge i raude delstatar",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05111326/2be55619-6.smil/thumb.jpg?t=6074&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 6290,
+      "title": "Siste nytt om trafikkproblemer",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05111326/2be55619-6.smil/thumb.jpg?t=6315&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 6375,
+      "title": "Overskrifter 08:15",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05111326/2be55619-6.smil/thumb.jpg?t=6401&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 6420,
+      "title": "Sier ingenting om de dyreste medisinene",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05111326/2be55619-6.smil/thumb.jpg?t=6445&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 6539,
+      "title": "Fredagspanelet",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05111326/2be55619-6.smil/thumb.jpg?t=6565&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 7261,
+      "title": "Overskrifter 08:30",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05111326/2be55619-6.smil/thumb.jpg?t=7286&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 7310,
+      "title": "Landskampen mot Wales",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05111326/2be55619-6.smil/thumb.jpg?t=7335&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 7606,
+      "title": "Kulturministeren om visum-nekt",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05111326/2be55619-6.smil/thumb.jpg?t=7632&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 7758,
+      "title": "Dom i det andre klimasøksmålet",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05111326/2be55619-6.smil/thumb.jpg?t=7783&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 7991,
+      "title": "Høyre vil ha skattekutt på 25 milliarder",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05111326/2be55619-6.smil/thumb.jpg?t=8017&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8114,
+      "title": "Unge tar stor aksjerisiko",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05111326/2be55619-6.smil/thumb.jpg?t=8140&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8219,
+      "title": "Overskrifter 08:45",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05111326/2be55619-6.smil/thumb.jpg?t=8244&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8260,
+      "title": "Anmeldelse: «Underjordisk»",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05111326/2be55619-6.smil/thumb.jpg?t=8286&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8530,
+      "title": "Ny Nussir-omkamp",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05111326/2be55619-6.smil/thumb.jpg?t=8556&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8650,
+      "title": "Gutter i barnehagene",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05111326/2be55619-6.smil/thumb.jpg?t=8675&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8820,
+      "title": "Før Abels tårn i NRK P2",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05111326/2be55619-6.smil/thumb.jpg?t=8846&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8907,
+      "title": "Været i dag",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa05111326/2be55619-6.smil/thumb.jpg?t=8932&scale=1920x1080&v=high"
+    }
+  ]
+}
