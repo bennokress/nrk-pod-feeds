@@ -1,0 +1,153 @@
+{
+  "version": "1.2.0",
+  "title": "Stor atomfare",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 9,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa19111626/57be4e83-9.smil/thumb.jpg?t=34&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 63,
+      "title": "Atomberedskap",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa19111626/57be4e83-9.smil/thumb.jpg?t=89&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 243,
+      "title": "Direkte Kyiv",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa19111626/57be4e83-9.smil/thumb.jpg?t=268&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 332,
+      "title": "Gjest Strålevernet",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa19111626/57be4e83-9.smil/thumb.jpg?t=358&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 452,
+      "title": "Nussir-eier",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa19111626/57be4e83-9.smil/thumb.jpg?t=478&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 579,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa19111626/57be4e83-9.smil/thumb.jpg?t=605&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 653,
+      "title": "Fugleinfluensa",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa19111626/57be4e83-9.smil/thumb.jpg?t=679&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 790,
+      "title": "Hermes innbrudd",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa19111626/57be4e83-9.smil/thumb.jpg?t=815&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 912,
+      "title": "Direkte Oslo",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa19111626/57be4e83-9.smil/thumb.jpg?t=938&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1030,
+      "title": "Posten streik",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa19111626/57be4e83-9.smil/thumb.jpg?t=1055&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1135,
+      "title": "Økern-drapet",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa19111626/57be4e83-9.smil/thumb.jpg?t=1160&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1257,
+      "title": "Direkte Sverige",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa19111626/57be4e83-9.smil/thumb.jpg?t=1282&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1327,
+      "title": "Utenriksnyheter",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa19111626/57be4e83-9.smil/thumb.jpg?t=1352&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1420,
+      "title": "NyJames Bond",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa19111626/57be4e83-9.smil/thumb.jpg?t=1445&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1459,
+      "title": "Direkte Stjørdal",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa19111626/57be4e83-9.smil/thumb.jpg?t=1485&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1574,
+      "title": "Hurtigruten",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa19111626/57be4e83-9.smil/thumb.jpg?t=1600&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1717,
+      "title": "Helsekrise Arendal",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa19111626/57be4e83-9.smil/thumb.jpg?t=1743&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1824,
+      "title": "Prins Harry i Ukraina",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa19111626/57be4e83-9.smil/thumb.jpg?t=1850&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1940,
+      "title": "Harry og Meghan",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa19111626/57be4e83-9.smil/thumb.jpg?t=1965&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1981,
+      "title": "Direkte: London",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa19111626/57be4e83-9.smil/thumb.jpg?t=2007&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2111,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa19111626/57be4e83-9.smil/thumb.jpg?t=2137&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2118,
+      "title": "Haaland status",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa19111626/57be4e83-9.smil/thumb.jpg?t=2143&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2210,
+      "title": "Danmark PK",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa19111626/57be4e83-9.smil/thumb.jpg?t=2236&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2230,
+      "title": "Synk Rieme",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa19111626/57be4e83-9.smil/thumb.jpg?t=2256&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2265,
+      "title": "Diallo FIFA",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa19111626/57be4e83-9.smil/thumb.jpg?t=2290&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2285,
+      "title": "Russland nekt",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa19111626/57be4e83-9.smil/thumb.jpg?t=2310&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2306,
+      "title": "Hedegart IBU",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa19111626/57be4e83-9.smil/thumb.jpg?t=2332&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2332,
+      "title": "Langrenn",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa19111626/57be4e83-9.smil/thumb.jpg?t=2358&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2428,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-94.akamaized.net/open/ps/nnfa/nnfa19111626/57be4e83-9.smil/thumb.jpg?t=2453&scale=1920x1080&v=high"
+    }
+  ]
+}
