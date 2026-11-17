@@ -1,0 +1,58 @@
+{
+  "version": "1.2.0",
+  "title": "Advarer mot atomulykke",
+  "author": "NRK",
+  "podcastName": "Dagsnytt 18",
+  "chapters": [
+    {
+      "startTime": 2,
+      "title": "Dagsnytt atten",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa56111626/b7f1958a-6.smil/thumb.jpg?t=27&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 47,
+      "title": "Advarer mot atomulykke",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa56111626/b7f1958a-6.smil/thumb.jpg?t=72&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 727,
+      "title": "- Likestilling gjør folk syke",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa56111626/b7f1958a-6.smil/thumb.jpg?t=753&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1198,
+      "title": "Fugleinfluensa i Norge",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa56111626/b7f1958a-6.smil/thumb.jpg?t=1224&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1794,
+      "title": "Klimaavgift i fiskeflåten",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa56111626/b7f1958a-6.smil/thumb.jpg?t=1819&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2335,
+      "title": "- Svikter voldtektsofre",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa56111626/b7f1958a-6.smil/thumb.jpg?t=2360&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2787,
+      "title": "Ny James Bond",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa56111626/b7f1958a-6.smil/thumb.jpg?t=2813&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3091,
+      "title": "Journalist med våpen",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa56111626/b7f1958a-6.smil/thumb.jpg?t=3116&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3524,
+      "title": "AVSLUTNING",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa56111626/b7f1958a-6.smil/thumb.jpg?t=3543.72&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3530,
+      "title": "SLUTTKJENNING",
+      "img": "https://nrk-od-world-56.akamaized.net/open/ps/nnfa/nnfa56111626/b7f1958a-6.smil/thumb.jpg?t=3543.72&scale=1920x1080&v=high"
+    }
+  ]
+}
