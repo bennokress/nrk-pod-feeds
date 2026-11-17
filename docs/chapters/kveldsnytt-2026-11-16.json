@@ -1,0 +1,58 @@
+{
+  "version": "1.2.0",
+  "title": "Nye samtaler mellom Ukraina, USA og EU",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa23111626/87c64152-6.smil/thumb.jpg?t=26&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 39,
+      "title": "Ukraina-samtaler EU",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa23111626/87c64152-6.smil/thumb.jpg?t=64&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 64,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa23111626/87c64152-6.smil/thumb.jpg?t=90&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 204,
+      "title": "Transportkostnadene doblet på SUS",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa23111626/87c64152-6.smil/thumb.jpg?t=230&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 325,
+      "title": "Spillrom",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa23111626/87c64152-6.smil/thumb.jpg?t=350&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 431,
+      "title": "James Bond reax",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa23111626/87c64152-6.smil/thumb.jpg?t=457&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 526,
+      "title": "Solbakken fyrer løs",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa23111626/87c64152-6.smil/thumb.jpg?t=552&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 616,
+      "title": "Nasjonsligaen",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa23111626/87c64152-6.smil/thumb.jpg?t=641&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 701,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa23111626/87c64152-6.smil/thumb.jpg?t=726&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 774,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-20.akamaized.net/open/ps/nnfa/nnfa23111626/87c64152-6.smil/thumb.jpg?t=791.6&scale=1920x1080&v=high"
+    }
+  ]
+}
