@@ -1,0 +1,63 @@
+{
+  "version": "1.2.0",
+  "title": "Norge med ellevill opphenting",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa23111726/579a63e5-7.smil/thumb.jpg?t=26&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 31,
+      "title": "Danmark-Norge",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa23111726/579a63e5-7.smil/thumb.jpg?t=56&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 187,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa23111726/579a63e5-7.smil/thumb.jpg?t=212&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 279,
+      "title": "På Skype:",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa23111726/579a63e5-7.smil/thumb.jpg?t=304&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 452,
+      "title": "Tog evakueres Dovrebanen",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa23111726/579a63e5-7.smil/thumb.jpg?t=478&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 481,
+      "title": "Nettpromo",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa23111726/579a63e5-7.smil/thumb.jpg?t=506&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 503,
+      "title": "Wales-Portugal",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa23111726/579a63e5-7.smil/thumb.jpg?t=529&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 585,
+      "title": "Kombinert",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa23111726/579a63e5-7.smil/thumb.jpg?t=611&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 660,
+      "title": "Tysk håndartist",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa23111726/579a63e5-7.smil/thumb.jpg?t=685&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 758,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa23111726/579a63e5-7.smil/thumb.jpg?t=784&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 846,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-44.akamaized.net/open/ps/nnfa/nnfa23111726/579a63e5-7.smil/thumb.jpg?t=868.72&scale=1920x1080&v=high"
+    }
+  ]
+}

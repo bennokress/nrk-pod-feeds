@@ -1,0 +1,73 @@
+{
+  "version": "1.2.0",
+  "title": "Vil ha høyere aldersgrense",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Kveldsnytt",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa23111826/f42c49f7-7.smil/thumb.jpg?t=25&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 32,
+      "title": "Botox",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa23111826/f42c49f7-7.smil/thumb.jpg?t=58&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 135,
+      "title": "Brann Tvedestrand",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa23111826/f42c49f7-7.smil/thumb.jpg?t=160&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 154,
+      "title": "Kina toppmøte",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa23111826/f42c49f7-7.smil/thumb.jpg?t=180&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 236,
+      "title": "Direkte Washington",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa23111826/f42c49f7-7.smil/thumb.jpg?t=261&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 334,
+      "title": "Venezuela",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa23111826/f42c49f7-7.smil/thumb.jpg?t=359&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 368,
+      "title": "Cyberangrep",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa23111826/f42c49f7-7.smil/thumb.jpg?t=393&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 406,
+      "title": "Stenger t-bane",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa23111826/f42c49f7-7.smil/thumb.jpg?t=431&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 433,
+      "title": "GTA slipp",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa23111826/f42c49f7-7.smil/thumb.jpg?t=458&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 534,
+      "title": "Langrenn",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa23111826/f42c49f7-7.smil/thumb.jpg?t=560&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 561,
+      "title": "Hopp",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa23111826/f42c49f7-7.smil/thumb.jpg?t=586&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 642,
+      "title": "Tennis",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa23111826/f42c49f7-7.smil/thumb.jpg?t=668&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 738,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-68.akamaized.net/open/ps/nnfa/nnfa23111826/f42c49f7-7.smil/thumb.jpg?t=763&scale=1920x1080&v=high"
+    }
+  ]
+}
