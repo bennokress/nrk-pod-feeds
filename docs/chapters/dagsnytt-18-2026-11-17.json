@@ -1,0 +1,73 @@
+{
+  "version": "1.2.0",
+  "title": "Ny meningsmåling",
+  "author": "NRK",
+  "podcastName": "Dagsnytt 18",
+  "chapters": [
+    {
+      "startTime": 2,
+      "title": "Dagsnytt atten",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa56111726/0a1a8074-6.smil/thumb.jpg?t=27&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 55,
+      "title": "Ny meningsmåling",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa56111726/0a1a8074-6.smil/thumb.jpg?t=80&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 536,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa56111726/0a1a8074-6.smil/thumb.jpg?t=562&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 547,
+      "title": "Advarer mot høye lønnsoppgjør",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa56111726/0a1a8074-6.smil/thumb.jpg?t=572&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1113,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa56111726/0a1a8074-6.smil/thumb.jpg?t=1139&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1123,
+      "title": "GTA 6-feber",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa56111726/0a1a8074-6.smil/thumb.jpg?t=1148&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1862,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa56111726/0a1a8074-6.smil/thumb.jpg?t=1887&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1872,
+      "title": "Kommer senere",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa56111726/0a1a8074-6.smil/thumb.jpg?t=1897&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1891,
+      "title": "Angrep på Krym-broen",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa56111726/0a1a8074-6.smil/thumb.jpg?t=1917&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2285,
+      "title": "Kutt i støtte til overgrepsmottak",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa56111726/0a1a8074-6.smil/thumb.jpg?t=2311&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3047,
+      "title": "Offentlige søkerlister",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa56111726/0a1a8074-6.smil/thumb.jpg?t=3072&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3518,
+      "title": "AVSLUTNING",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa56111726/0a1a8074-6.smil/thumb.jpg?t=3543.8&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3526,
+      "title": "SLUTTKJENNING",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa56111726/0a1a8074-6.smil/thumb.jpg?t=3543.8&scale=1920x1080&v=high"
+    }
+  ]
+}
