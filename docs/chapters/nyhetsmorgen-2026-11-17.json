@@ -1,0 +1,283 @@
+{
+  "version": "1.2.0",
+  "title": "-Tåler høyt strålingsnivå i perioder",
+  "author": "NRK",
+  "podcastName": "Nyhetsmorgen",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Åpning 0630",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05111726/a18f3ca2-6.smil/thumb.jpg?t=25&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 90,
+      "title": "Hemmelighold om datasentre",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05111726/a18f3ca2-6.smil/thumb.jpg?t=115&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 295,
+      "title": "Store utslipp fra datasentere",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05111726/a18f3ca2-6.smil/thumb.jpg?t=321&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 403,
+      "title": "Radioaktivitet kan tillates i mat",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05111726/a18f3ca2-6.smil/thumb.jpg?t=428&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 461,
+      "title": "Siste nytt",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05111726/a18f3ca2-6.smil/thumb.jpg?t=486&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 598,
+      "title": "Karbonfangst i Brevik",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05111726/a18f3ca2-6.smil/thumb.jpg?t=623&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 854,
+      "title": "Overskrifter 06:45",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05111726/a18f3ca2-6.smil/thumb.jpg?t=879&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 921,
+      "title": "Uenighet blant demokratene i Senatet",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05111726/a18f3ca2-6.smil/thumb.jpg?t=947&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1124,
+      "title": "Norske supportere til København",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05111726/a18f3ca2-6.smil/thumb.jpg?t=1150&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1259,
+      "title": "Anmeldelse:Einarsson-utstilling på Kode",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05111726/a18f3ca2-6.smil/thumb.jpg?t=1284&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1518,
+      "title": "Stipend mot rus",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05111726/a18f3ca2-6.smil/thumb.jpg?t=1543&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1775,
+      "title": "Tyrann: Leopold",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05111726/a18f3ca2-6.smil/thumb.jpg?t=1801&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1807,
+      "title": "Åpning 07:00",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05111726/a18f3ca2-6.smil/thumb.jpg?t=1832&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1887,
+      "title": "Radioaktivitet kan tillates i mat",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05111726/a18f3ca2-6.smil/thumb.jpg?t=1913&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2099,
+      "title": "Broangrep i Ukraina",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05111726/a18f3ca2-6.smil/thumb.jpg?t=2124&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2241,
+      "title": "Før Politisk kvarter",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05111726/a18f3ca2-6.smil/thumb.jpg?t=2266&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2306,
+      "title": "Asylsentre i Rwanda",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05111726/a18f3ca2-6.smil/thumb.jpg?t=2332&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2571,
+      "title": "Enorm GTA VI-lansering",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05111726/a18f3ca2-6.smil/thumb.jpg?t=2596&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2750,
+      "title": "Overskrifter 07:15",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05111726/a18f3ca2-6.smil/thumb.jpg?t=2776&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2810,
+      "title": "Spenning rundt Nvidia",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05111726/a18f3ca2-6.smil/thumb.jpg?t=2835&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3032,
+      "title": "Plukket døde fugler i 2023",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05111726/a18f3ca2-6.smil/thumb.jpg?t=3058&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3288,
+      "title": "Den sjuende James Bond",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05111726/a18f3ca2-6.smil/thumb.jpg?t=3314&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3600,
+      "title": "Overskrifter 07:30",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05111726/a18f3ca2-6.smil/thumb.jpg?t=3625&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3638,
+      "title": "Radioaktivitet kan tillates i mat",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05111726/a18f3ca2-6.smil/thumb.jpg?t=3663&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3755,
+      "title": "Broangrep i Ukraina",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05111726/a18f3ca2-6.smil/thumb.jpg?t=3781&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3832,
+      "title": "Hemmelighold om datasentre",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05111726/a18f3ca2-6.smil/thumb.jpg?t=3858&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3952,
+      "title": "KrF mot kinesiske biler hos Forsvaret",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05111726/a18f3ca2-6.smil/thumb.jpg?t=3977&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3976,
+      "title": "Enorm GTA VI-lansering",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05111726/a18f3ca2-6.smil/thumb.jpg?t=4001&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 4092,
+      "title": "Norske supportere til København",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05111726/a18f3ca2-6.smil/thumb.jpg?t=4118&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 4199,
+      "title": "Åpning 07:40",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05111726/a18f3ca2-6.smil/thumb.jpg?t=4225&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 4216,
+      "title": "Solbakken krev naturgras",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05111726/a18f3ca2-6.smil/thumb.jpg?t=4242&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 4435,
+      "title": "Topper 07:44",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05111726/a18f3ca2-6.smil/thumb.jpg?t=4460&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 5401,
+      "title": "NRK Nyheter 08:00",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05111726/a18f3ca2-6.smil/thumb.jpg?t=5426&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 5580,
+      "title": "Åpning 08:03",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05111726/a18f3ca2-6.smil/thumb.jpg?t=5606&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 5649,
+      "title": "Hemmelighold om datasentre",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05111726/a18f3ca2-6.smil/thumb.jpg?t=5674&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 5853,
+      "title": "California saksøker Open AI",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05111726/a18f3ca2-6.smil/thumb.jpg?t=5879&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 6027,
+      "title": "Uenighet blant demokratene i Senatet",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05111726/a18f3ca2-6.smil/thumb.jpg?t=6053&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 6221,
+      "title": "EØS-råd i Brussel",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05111726/a18f3ca2-6.smil/thumb.jpg?t=6246&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 6416,
+      "title": "Overskrifter 08:15",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05111726/a18f3ca2-6.smil/thumb.jpg?t=6441&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 6470,
+      "title": "Norske supportere til København",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05111726/a18f3ca2-6.smil/thumb.jpg?t=6496&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 6558,
+      "title": "Danmark - Norge",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05111726/a18f3ca2-6.smil/thumb.jpg?t=6584&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 6743,
+      "title": "Enorm GTA VI-lansering",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05111726/a18f3ca2-6.smil/thumb.jpg?t=6768&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 6937,
+      "title": "Hvorfor betyr GTA så mye for spillerne?",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05111726/a18f3ca2-6.smil/thumb.jpg?t=6963&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 7189,
+      "title": "Hør Ekko i NRK P2",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05111726/a18f3ca2-6.smil/thumb.jpg?t=7214&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 7218,
+      "title": "Overskrifter 08:30",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05111726/a18f3ca2-6.smil/thumb.jpg?t=7244&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 7276,
+      "title": "Radioaktivitet kan tillates i mat",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05111726/a18f3ca2-6.smil/thumb.jpg?t=7302&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 7488,
+      "title": "Kertsjbroen stengt etter angrep",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05111726/a18f3ca2-6.smil/thumb.jpg?t=7513&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 7723,
+      "title": "Utredning aktiv dødshjelp",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05111726/a18f3ca2-6.smil/thumb.jpg?t=7749&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 7946,
+      "title": "Høyre krever demens-forløp",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05111726/a18f3ca2-6.smil/thumb.jpg?t=7972&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8115,
+      "title": "Overskrifter 08:45",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05111726/a18f3ca2-6.smil/thumb.jpg?t=8140&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8151,
+      "title": "Wolt i Høyesterett",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05111726/a18f3ca2-6.smil/thumb.jpg?t=8176&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8422,
+      "title": "Plukket døde fugler i 2023",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05111726/a18f3ca2-6.smil/thumb.jpg?t=8447&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8666,
+      "title": "Kutt i bind og tampongar for VGS-elevar",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05111726/a18f3ca2-6.smil/thumb.jpg?t=8692&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8876,
+      "title": "Været i dag",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05111726/a18f3ca2-6.smil/thumb.jpg?t=8902&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8994,
+      "title": "Avslutning",
+      "img": "https://nrk-od-world-78.akamaized.net/open/ps/nnfa/nnfa05111726/a18f3ca2-6.smil/thumb.jpg?t=9003.44&scale=1920x1080&v=high"
+    }
+  ]
+}
