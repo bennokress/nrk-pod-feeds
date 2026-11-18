@@ -1,0 +1,58 @@
+{
+  "version": "1.2.0",
+  "title": "Pågende cyberangrep mot Equinor",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa21111726/ac600a8e-6.smil/thumb.jpg?t=25&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 37,
+      "title": "Pågående cyberangrep",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa21111726/ac600a8e-6.smil/thumb.jpg?t=63&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 96,
+      "title": "Huang comeback",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa21111726/ac600a8e-6.smil/thumb.jpg?t=121&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 196,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa21111726/ac600a8e-6.smil/thumb.jpg?t=221&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 301,
+      "title": "Fugleinfluensautbrudd",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa21111726/ac600a8e-6.smil/thumb.jpg?t=326&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 325,
+      "title": "Dagsrevypakke",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa21111726/ac600a8e-6.smil/thumb.jpg?t=350&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 382,
+      "title": "Saabye KI",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa21111726/ac600a8e-6.smil/thumb.jpg?t=407&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 482,
+      "title": "Dan-Norge",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa21111726/ac600a8e-6.smil/thumb.jpg?t=507&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 521,
+      "title": "Været",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa21111726/ac600a8e-6.smil/thumb.jpg?t=547&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 573,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-81.akamaized.net/open/ps/nnfa/nnfa21111726/ac600a8e-6.smil/thumb.jpg?t=592.6&scale=1920x1080&v=high"
+    }
+  ]
+}
