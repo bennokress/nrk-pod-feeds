@@ -1,0 +1,153 @@
+{
+  "version": "1.2.0",
+  "title": "Keeper mot Danmark",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 7,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-18.akamaized.net/open/ps/nnfa/nnfa19111726/93033577-5.smil/thumb.jpg?t=33&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 54,
+      "title": "Nyland starter",
+      "img": "https://nrk-od-world-18.akamaized.net/open/ps/nnfa/nnfa19111726/93033577-5.smil/thumb.jpg?t=79&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 65,
+      "title": "Direkte: København",
+      "img": "https://nrk-od-world-18.akamaized.net/open/ps/nnfa/nnfa19111726/93033577-5.smil/thumb.jpg?t=91&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 149,
+      "title": "Partimåling",
+      "img": "https://nrk-od-world-18.akamaized.net/open/ps/nnfa/nnfa19111726/93033577-5.smil/thumb.jpg?t=174&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 311,
+      "title": "Gjest Nyhus",
+      "img": "https://nrk-od-world-18.akamaized.net/open/ps/nnfa/nnfa19111726/93033577-5.smil/thumb.jpg?t=336&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 432,
+      "title": "Angrep Krym",
+      "img": "https://nrk-od-world-18.akamaized.net/open/ps/nnfa/nnfa19111726/93033577-5.smil/thumb.jpg?t=458&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 562,
+      "title": "Direkte Kyiv",
+      "img": "https://nrk-od-world-18.akamaized.net/open/ps/nnfa/nnfa19111726/93033577-5.smil/thumb.jpg?t=588&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 652,
+      "title": "Gjest Bukkvoll",
+      "img": "https://nrk-od-world-18.akamaized.net/open/ps/nnfa/nnfa19111726/93033577-5.smil/thumb.jpg?t=677&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 758,
+      "title": "Bompenger",
+      "img": "https://nrk-od-world-18.akamaized.net/open/ps/nnfa/nnfa19111726/93033577-5.smil/thumb.jpg?t=783&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 871,
+      "title": "Fornebubanen",
+      "img": "https://nrk-od-world-18.akamaized.net/open/ps/nnfa/nnfa19111726/93033577-5.smil/thumb.jpg?t=897&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 903,
+      "title": "Kongen befaring",
+      "img": "https://nrk-od-world-18.akamaized.net/open/ps/nnfa/nnfa19111726/93033577-5.smil/thumb.jpg?t=929&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1001,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-18.akamaized.net/open/ps/nnfa/nnfa19111726/93033577-5.smil/thumb.jpg?t=1027&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1120,
+      "title": "Ny behandling",
+      "img": "https://nrk-od-world-18.akamaized.net/open/ps/nnfa/nnfa19111726/93033577-5.smil/thumb.jpg?t=1146&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1226,
+      "title": "Fugleinfluensa",
+      "img": "https://nrk-od-world-18.akamaized.net/open/ps/nnfa/nnfa19111726/93033577-5.smil/thumb.jpg?t=1252&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1260,
+      "title": "Direkte Vikersund",
+      "img": "https://nrk-od-world-18.akamaized.net/open/ps/nnfa/nnfa19111726/93033577-5.smil/thumb.jpg?t=1286&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1412,
+      "title": "Made in Europe",
+      "img": "https://nrk-od-world-18.akamaized.net/open/ps/nnfa/nnfa19111726/93033577-5.smil/thumb.jpg?t=1438&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1505,
+      "title": "Trump i Asia",
+      "img": "https://nrk-od-world-18.akamaized.net/open/ps/nnfa/nnfa19111726/93033577-5.smil/thumb.jpg?t=1531&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1534,
+      "title": "Toppmøte Kina",
+      "img": "https://nrk-od-world-18.akamaized.net/open/ps/nnfa/nnfa19111726/93033577-5.smil/thumb.jpg?t=1560&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1660,
+      "title": "Saabye Christiensen",
+      "img": "https://nrk-od-world-18.akamaized.net/open/ps/nnfa/nnfa19111726/93033577-5.smil/thumb.jpg?t=1686&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1822,
+      "title": "Ny bok Biden",
+      "img": "https://nrk-od-world-18.akamaized.net/open/ps/nnfa/nnfa19111726/93033577-5.smil/thumb.jpg?t=1847&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1961,
+      "title": "Direkte USA",
+      "img": "https://nrk-od-world-18.akamaized.net/open/ps/nnfa/nnfa19111726/93033577-5.smil/thumb.jpg?t=1986&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2099,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-18.akamaized.net/open/ps/nnfa/nnfa19111726/93033577-5.smil/thumb.jpg?t=2124&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2108,
+      "title": "Danmark-Norge",
+      "img": "https://nrk-od-world-18.akamaized.net/open/ps/nnfa/nnfa19111726/93033577-5.smil/thumb.jpg?t=2133&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2140,
+      "title": "Direkte: København",
+      "img": "https://nrk-od-world-18.akamaized.net/open/ps/nnfa/nnfa19111726/93033577-5.smil/thumb.jpg?t=2166&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2228,
+      "title": "Diallo",
+      "img": "https://nrk-od-world-18.akamaized.net/open/ps/nnfa/nnfa19111726/93033577-5.smil/thumb.jpg?t=2254&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2276,
+      "title": "Direkte: Paris",
+      "img": "https://nrk-od-world-18.akamaized.net/open/ps/nnfa/nnfa19111726/93033577-5.smil/thumb.jpg?t=2302&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2334,
+      "title": "Langrenn",
+      "img": "https://nrk-od-world-18.akamaized.net/open/ps/nnfa/nnfa19111726/93033577-5.smil/thumb.jpg?t=2360&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2436,
+      "title": "Trailer Debatten",
+      "img": "https://nrk-od-world-18.akamaized.net/open/ps/nnfa/nnfa19111726/93033577-5.smil/thumb.jpg?t=2462&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2472,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-18.akamaized.net/open/ps/nnfa/nnfa19111726/93033577-5.smil/thumb.jpg?t=2497&scale=1920x1080&v=high"
+    }
+  ]
+}
