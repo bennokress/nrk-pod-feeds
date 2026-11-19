@@ -1,0 +1,58 @@
+{
+  "version": "1.2.0",
+  "title": "Historisk møte",
+  "author": "NRK",
+  "podcastName": "Dagsnytt 18",
+  "chapters": [
+    {
+      "startTime": 6,
+      "title": "Dagsnytt atten",
+      "img": "https://nrk-od-world-05.akamaized.net/open/ps/nnfa/nnfa56111826/1f798c7b-6.smil/thumb.jpg?t=32&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 72,
+      "title": "Toppmøte med Trump, Putin og Xi",
+      "img": "https://nrk-od-world-05.akamaized.net/open/ps/nnfa/nnfa56111826/1f798c7b-6.smil/thumb.jpg?t=98&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 946,
+      "title": "Kommunesammenslåing",
+      "img": "https://nrk-od-world-05.akamaized.net/open/ps/nnfa/nnfa56111826/1f798c7b-6.smil/thumb.jpg?t=972&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1715,
+      "title": "Sannsynlig med terrorforsøk",
+      "img": "https://nrk-od-world-05.akamaized.net/open/ps/nnfa/nnfa56111826/1f798c7b-6.smil/thumb.jpg?t=1740&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2033,
+      "title": "Kommer senere",
+      "img": "https://nrk-od-world-05.akamaized.net/open/ps/nnfa/nnfa56111826/1f798c7b-6.smil/thumb.jpg?t=2058&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2041,
+      "title": "Giftstoffer i barneklær",
+      "img": "https://nrk-od-world-05.akamaized.net/open/ps/nnfa/nnfa56111826/1f798c7b-6.smil/thumb.jpg?t=2066&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2540,
+      "title": "Infantinos utfordrere",
+      "img": "https://nrk-od-world-05.akamaized.net/open/ps/nnfa/nnfa56111826/1f798c7b-6.smil/thumb.jpg?t=2565&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2818,
+      "title": "Kosmetikkindustrien",
+      "img": "https://nrk-od-world-05.akamaized.net/open/ps/nnfa/nnfa56111826/1f798c7b-6.smil/thumb.jpg?t=2844&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3520,
+      "title": "AVSLUTNING",
+      "img": "https://nrk-od-world-05.akamaized.net/open/ps/nnfa/nnfa56111826/1f798c7b-6.smil/thumb.jpg?t=3544.04&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3531,
+      "title": "SLUTTKJENNING",
+      "img": "https://nrk-od-world-05.akamaized.net/open/ps/nnfa/nnfa56111826/1f798c7b-6.smil/thumb.jpg?t=3544.04&scale=1920x1080&v=high"
+    }
+  ]
+}
