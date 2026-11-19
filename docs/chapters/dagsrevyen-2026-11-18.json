@@ -1,0 +1,118 @@
+{
+  "version": "1.2.0",
+  "title": "Verden holder pusten",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 10,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa19111826/35f6a09d-7.smil/thumb.jpg?t=36&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 83,
+      "title": "Apec-møtet starter",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa19111826/35f6a09d-7.smil/thumb.jpg?t=109&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 172,
+      "title": "Direkte fra Shenzhen",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa19111826/35f6a09d-7.smil/thumb.jpg?t=198&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 295,
+      "title": "Gjest om Apec",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa19111826/35f6a09d-7.smil/thumb.jpg?t=321&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 406,
+      "title": "Operasjon Duckface",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa19111826/35f6a09d-7.smil/thumb.jpg?t=432&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 764,
+      "title": "Fosen reinbeite",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa19111826/35f6a09d-7.smil/thumb.jpg?t=789&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 906,
+      "title": "Gjest",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa19111826/35f6a09d-7.smil/thumb.jpg?t=931&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1009,
+      "title": "For dyre lønnsoppgjør",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa19111826/35f6a09d-7.smil/thumb.jpg?t=1034&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1127,
+      "title": "COP31",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa19111826/35f6a09d-7.smil/thumb.jpg?t=1152&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1151,
+      "title": "Ny trusselvurdering",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa19111826/35f6a09d-7.smil/thumb.jpg?t=1176&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1266,
+      "title": "Direkte Stavanger",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa19111826/35f6a09d-7.smil/thumb.jpg?t=1291&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1412,
+      "title": "Grafikk Oslo t-bane",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa19111826/35f6a09d-7.smil/thumb.jpg?t=1437&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1457,
+      "title": "Direkte fra Oslo",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa19111826/35f6a09d-7.smil/thumb.jpg?t=1482&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1579,
+      "title": "Vrengedag",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa19111826/35f6a09d-7.smil/thumb.jpg?t=1604&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1689,
+      "title": "GTA",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa19111826/35f6a09d-7.smil/thumb.jpg?t=1715&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1777,
+      "title": "Direkte",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa19111826/35f6a09d-7.smil/thumb.jpg?t=1802&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1941,
+      "title": "Landslaget",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa19111826/35f6a09d-7.smil/thumb.jpg?t=1966&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2279,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa19111826/35f6a09d-7.smil/thumb.jpg?t=2304&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2282,
+      "title": "Langrenn",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa19111826/35f6a09d-7.smil/thumb.jpg?t=2308&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2423,
+      "title": "Ishockey",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa19111826/35f6a09d-7.smil/thumb.jpg?t=2448&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2448,
+      "title": "VM para bordtennis",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa19111826/35f6a09d-7.smil/thumb.jpg?t=2473&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2499,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-42.akamaized.net/open/ps/nnfa/nnfa19111826/35f6a09d-7.smil/thumb.jpg?t=2524&scale=1920x1080&v=high"
+    }
+  ]
+}
