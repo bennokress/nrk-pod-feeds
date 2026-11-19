@@ -1,0 +1,263 @@
+{
+  "version": "1.2.0",
+  "title": "Vill vest i skjønnhetsbransjen",
+  "author": "NRK",
+  "podcastName": "Nyhetsmorgen",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Åpning 06:30",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa05111826/224bed39-6.smil/thumb.jpg?t=26&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 106,
+      "title": "Ulovlige injeksjonsbehandlinger",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa05111826/224bed39-6.smil/thumb.jpg?t=131&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 201,
+      "title": "Nvidia-resultat",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa05111826/224bed39-6.smil/thumb.jpg?t=226&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 527,
+      "title": "Siste nytt",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa05111826/224bed39-6.smil/thumb.jpg?t=552&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 615,
+      "title": "Xi, Putin og Trump møtes",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa05111826/224bed39-6.smil/thumb.jpg?t=641&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 861,
+      "title": "Gjentatte flomskader",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa05111826/224bed39-6.smil/thumb.jpg?t=887&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1023,
+      "title": "Overskrifter 06:45",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa05111826/224bed39-6.smil/thumb.jpg?t=1049&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1055,
+      "title": "Danmark–Noreg",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa05111826/224bed39-6.smil/thumb.jpg?t=1080&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1189,
+      "title": "Kommentator om Danmark–Noreg",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa05111826/224bed39-6.smil/thumb.jpg?t=1214&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1405,
+      "title": "Ingen setebelter på metrobussene",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa05111826/224bed39-6.smil/thumb.jpg?t=1431&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1555,
+      "title": "T-banen stenger",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa05111826/224bed39-6.smil/thumb.jpg?t=1580&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1805,
+      "title": "Åpning 07:00",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa05111826/224bed39-6.smil/thumb.jpg?t=1830&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1895,
+      "title": "Ulovlige injeksjonsbehandlinger",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa05111826/224bed39-6.smil/thumb.jpg?t=1920&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2124,
+      "title": "Helsetilsynet ønsker strengere regulering",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa05111826/224bed39-6.smil/thumb.jpg?t=2150&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2380,
+      "title": "Skjerpet terrortrussel mot Norge",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa05111826/224bed39-6.smil/thumb.jpg?t=2405&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2575,
+      "title": "Fryktar store kutt til strandrydding",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa05111826/224bed39-6.smil/thumb.jpg?t=2600&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2766,
+      "title": "Overskrifter 07:15",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa05111826/224bed39-6.smil/thumb.jpg?t=2792&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2809,
+      "title": "Xi, Putin og Trump møtes",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa05111826/224bed39-6.smil/thumb.jpg?t=2835&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3108,
+      "title": "Forventninger til presidentmøte",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa05111826/224bed39-6.smil/thumb.jpg?t=3133&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3420,
+      "title": "Før Politisk kvarter",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa05111826/224bed39-6.smil/thumb.jpg?t=3445&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3427,
+      "title": "Kongelig besøk på Østre Toten",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa05111826/224bed39-6.smil/thumb.jpg?t=3453&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3571,
+      "title": "Trailer: Leseklubben",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa05111826/224bed39-6.smil/thumb.jpg?t=3596&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3604,
+      "title": "Overskrifter 07:30",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa05111826/224bed39-6.smil/thumb.jpg?t=3629&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3645,
+      "title": "Ulovlige injeksjonsbehandlinger",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa05111826/224bed39-6.smil/thumb.jpg?t=3671&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3808,
+      "title": "Skjerpet terrortrussel mot Norge",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa05111826/224bed39-6.smil/thumb.jpg?t=3833&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3902,
+      "title": "Xi, Putin og Trump møtes",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa05111826/224bed39-6.smil/thumb.jpg?t=3928&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 4000,
+      "title": "Landslaget snudde kampen i Danmark",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa05111826/224bed39-6.smil/thumb.jpg?t=4026&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 4078,
+      "title": "T-banen stenger",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa05111826/224bed39-6.smil/thumb.jpg?t=4104&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 4165,
+      "title": "Bezos om Bond",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa05111826/224bed39-6.smil/thumb.jpg?t=4191&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 4203,
+      "title": "Åpning 07:40",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa05111826/224bed39-6.smil/thumb.jpg?t=4228&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 4213,
+      "title": "Xi, Putin og Trump møtes",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa05111826/224bed39-6.smil/thumb.jpg?t=4239&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 5400,
+      "title": "NRK Nyheter 08:00",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa05111826/224bed39-6.smil/thumb.jpg?t=5425&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 5582,
+      "title": "Åpning 08:03",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa05111826/224bed39-6.smil/thumb.jpg?t=5608&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 5662,
+      "title": "Nvidia-resultat overrasket",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa05111826/224bed39-6.smil/thumb.jpg?t=5687&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 5848,
+      "title": "Ulovlige injeksjonsbehandlinger",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa05111826/224bed39-6.smil/thumb.jpg?t=5874&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 5988,
+      "title": "Brennpunkt sjekket skjønnhetsbransjen",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa05111826/224bed39-6.smil/thumb.jpg?t=6013&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 6242,
+      "title": "Ettervirkninger av kreft",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa05111826/224bed39-6.smil/thumb.jpg?t=6268&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 6582,
+      "title": "Overskrifter 08:15",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa05111826/224bed39-6.smil/thumb.jpg?t=6608&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 6637,
+      "title": "Xi, Putin og Trump møtes",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa05111826/224bed39-6.smil/thumb.jpg?t=6662&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 7082,
+      "title": "Bezos og Bond",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa05111826/224bed39-6.smil/thumb.jpg?t=7107&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 7263,
+      "title": "Hør Ekko i NRK P2",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa05111826/224bed39-6.smil/thumb.jpg?t=7288&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 7330,
+      "title": "Overskrifter 08:30",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa05111826/224bed39-6.smil/thumb.jpg?t=7355&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 7388,
+      "title": "Skjerpet terrortrussel mot Norge",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa05111826/224bed39-6.smil/thumb.jpg?t=7413&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 7665,
+      "title": "Tromsø-brua blir åpnet igjen",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa05111826/224bed39-6.smil/thumb.jpg?t=7691&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 7910,
+      "title": "Kommentator om Danmark–Noreg",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa05111826/224bed39-6.smil/thumb.jpg?t=7936&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8189,
+      "title": "Overskrifter 08:45",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa05111826/224bed39-6.smil/thumb.jpg?t=8215&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8223,
+      "title": "Debatt om oljefondets KI-investeringer",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa05111826/224bed39-6.smil/thumb.jpg?t=8248&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8420,
+      "title": "Anmeldelse: «Saltgitteret»",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa05111826/224bed39-6.smil/thumb.jpg?t=8445&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8651,
+      "title": "17-åring med flylappen på elfly",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa05111826/224bed39-6.smil/thumb.jpg?t=8677&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8824,
+      "title": "Været i dag",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa05111826/224bed39-6.smil/thumb.jpg?t=8849&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8994,
+      "title": "Avslutning",
+      "img": "https://nrk-od-world-03.akamaized.net/open/ps/nnfa/nnfa05111826/224bed39-6.smil/thumb.jpg?t=9003.4&scale=1920x1080&v=high"
+    }
+  ]
+}
