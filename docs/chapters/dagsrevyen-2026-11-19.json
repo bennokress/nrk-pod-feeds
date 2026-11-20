@@ -1,0 +1,138 @@
+{
+  "version": "1.2.0",
+  "title": "KI-gigant på børs",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 10,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-67.akamaized.net/open/ps/nnfa/nnfa19111926/e0af16d6-5.smil/thumb.jpg?t=35&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 65,
+      "title": "Toppmøte i Kina",
+      "img": "https://nrk-od-world-67.akamaized.net/open/ps/nnfa/nnfa19111926/e0af16d6-5.smil/thumb.jpg?t=90&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 172,
+      "title": "Direkte: Shenzhen",
+      "img": "https://nrk-od-world-67.akamaized.net/open/ps/nnfa/nnfa19111926/e0af16d6-5.smil/thumb.jpg?t=198&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 236,
+      "title": "Direkte: Moskva",
+      "img": "https://nrk-od-world-67.akamaized.net/open/ps/nnfa/nnfa19111926/e0af16d6-5.smil/thumb.jpg?t=261&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 292,
+      "title": "Direkte: Washington",
+      "img": "https://nrk-od-world-67.akamaized.net/open/ps/nnfa/nnfa19111926/e0af16d6-5.smil/thumb.jpg?t=318&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 353,
+      "title": "Gjest",
+      "img": "https://nrk-od-world-67.akamaized.net/open/ps/nnfa/nnfa19111926/e0af16d6-5.smil/thumb.jpg?t=379&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 463,
+      "title": "Ukraina-møte",
+      "img": "https://nrk-od-world-67.akamaized.net/open/ps/nnfa/nnfa19111926/e0af16d6-5.smil/thumb.jpg?t=489&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 561,
+      "title": "Direkte Kyiv",
+      "img": "https://nrk-od-world-67.akamaized.net/open/ps/nnfa/nnfa19111926/e0af16d6-5.smil/thumb.jpg?t=587&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 653,
+      "title": "Hermès-ran",
+      "img": "https://nrk-od-world-67.akamaized.net/open/ps/nnfa/nnfa19111926/e0af16d6-5.smil/thumb.jpg?t=679&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 752,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-67.akamaized.net/open/ps/nnfa/nnfa19111926/e0af16d6-5.smil/thumb.jpg?t=777&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 818,
+      "title": "Anthropic børsnoteres",
+      "img": "https://nrk-od-world-67.akamaized.net/open/ps/nnfa/nnfa19111926/e0af16d6-5.smil/thumb.jpg?t=843&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 949,
+      "title": "Gjest: KI-ekspert",
+      "img": "https://nrk-od-world-67.akamaized.net/open/ps/nnfa/nnfa19111926/e0af16d6-5.smil/thumb.jpg?t=975&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1091,
+      "title": "Mottakssentre Rwanda",
+      "img": "https://nrk-od-world-67.akamaized.net/open/ps/nnfa/nnfa19111926/e0af16d6-5.smil/thumb.jpg?t=1116&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1251,
+      "title": "Direkte. Nairobi",
+      "img": "https://nrk-od-world-67.akamaized.net/open/ps/nnfa/nnfa19111926/e0af16d6-5.smil/thumb.jpg?t=1276&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1371,
+      "title": "Nytt på Nytt",
+      "img": "https://nrk-od-world-67.akamaized.net/open/ps/nnfa/nnfa19111926/e0af16d6-5.smil/thumb.jpg?t=1397&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1563,
+      "title": "Unge på russefest",
+      "img": "https://nrk-od-world-67.akamaized.net/open/ps/nnfa/nnfa19111926/e0af16d6-5.smil/thumb.jpg?t=1588&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1691,
+      "title": "Peer Gynt-film",
+      "img": "https://nrk-od-world-67.akamaized.net/open/ps/nnfa/nnfa19111926/e0af16d6-5.smil/thumb.jpg?t=1716&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1729,
+      "title": "GTA VI",
+      "img": "https://nrk-od-world-67.akamaized.net/open/ps/nnfa/nnfa19111926/e0af16d6-5.smil/thumb.jpg?t=1754&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1851,
+      "title": "Gjest",
+      "img": "https://nrk-od-world-67.akamaized.net/open/ps/nnfa/nnfa19111926/e0af16d6-5.smil/thumb.jpg?t=1876&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1986,
+      "title": "Katt savnet i 11 år",
+      "img": "https://nrk-od-world-67.akamaized.net/open/ps/nnfa/nnfa19111926/e0af16d6-5.smil/thumb.jpg?t=2011&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2101,
+      "title": "Trailer Debatten",
+      "img": "https://nrk-od-world-67.akamaized.net/open/ps/nnfa/nnfa19111926/e0af16d6-5.smil/thumb.jpg?t=2127&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2133,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-67.akamaized.net/open/ps/nnfa/nnfa19111926/e0af16d6-5.smil/thumb.jpg?t=2158&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2140,
+      "title": "Langrenn",
+      "img": "https://nrk-od-world-67.akamaized.net/open/ps/nnfa/nnfa19111926/e0af16d6-5.smil/thumb.jpg?t=2166&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2301,
+      "title": "VM para bordtennis",
+      "img": "https://nrk-od-world-67.akamaized.net/open/ps/nnfa/nnfa19111926/e0af16d6-5.smil/thumb.jpg?t=2327&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2382,
+      "title": "Hopp",
+      "img": "https://nrk-od-world-67.akamaized.net/open/ps/nnfa/nnfa19111926/e0af16d6-5.smil/thumb.jpg?t=2408&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2470,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-67.akamaized.net/open/ps/nnfa/nnfa19111926/e0af16d6-5.smil/thumb.jpg?t=2495&scale=1920x1080&v=high"
+    }
+  ]
+}
