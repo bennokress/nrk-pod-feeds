@@ -1,0 +1,63 @@
+{
+  "version": "1.2.0",
+  "title": "Datainnbrudd hos Norwegian",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa23111926/0320649c-9.smil/thumb.jpg?t=25&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 30,
+      "title": "Norwegian",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa23111926/0320649c-9.smil/thumb.jpg?t=55&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 59,
+      "title": "Påkjørsel sykkel",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa23111926/0320649c-9.smil/thumb.jpg?t=85&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 82,
+      "title": "Forsvaret",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa23111926/0320649c-9.smil/thumb.jpg?t=107&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 198,
+      "title": "Anthropic",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa23111926/0320649c-9.smil/thumb.jpg?t=223&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 228,
+      "title": "Verdenspakke",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa23111926/0320649c-9.smil/thumb.jpg?t=254&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 342,
+      "title": "Jakter på skøyteis",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa23111926/0320649c-9.smil/thumb.jpg?t=367&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 447,
+      "title": "Mesterliga kvinner",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa23111926/0320649c-9.smil/thumb.jpg?t=472&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 524,
+      "title": "Boksing",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa23111926/0320649c-9.smil/thumb.jpg?t=550&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 605,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa23111926/0320649c-9.smil/thumb.jpg?t=630&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 667,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-92.akamaized.net/open/ps/nnfa/nnfa23111926/0320649c-9.smil/thumb.jpg?t=685.8&scale=1920x1080&v=high"
+    }
+  ]
+}
