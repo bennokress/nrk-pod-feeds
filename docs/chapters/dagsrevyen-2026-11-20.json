@@ -1,0 +1,118 @@
+{
+  "version": "1.2.0",
+  "title": "Møter England",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 12,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa19112026/813f6a29-6.smil/thumb.jpg?t=37&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 65,
+      "title": "Bestilte drap",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa19112026/813f6a29-6.smil/thumb.jpg?t=91&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 177,
+      "title": "Ukraina angrep",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa19112026/813f6a29-6.smil/thumb.jpg?t=203&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 267,
+      "title": "Klimatoppmøtet",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa19112026/813f6a29-6.smil/thumb.jpg?t=293&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 323,
+      "title": "Direkte Tuvalu",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa19112026/813f6a29-6.smil/thumb.jpg?t=348&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 415,
+      "title": "Klimatoppmøtet",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa19112026/813f6a29-6.smil/thumb.jpg?t=441&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 549,
+      "title": "Eldre faller",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa19112026/813f6a29-6.smil/thumb.jpg?t=575&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 653,
+      "title": "Etter Brexit",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa19112026/813f6a29-6.smil/thumb.jpg?t=679&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 684,
+      "title": "Direkte Brûssel",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa19112026/813f6a29-6.smil/thumb.jpg?t=710&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 751,
+      "title": "Nigel Farage",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa19112026/813f6a29-6.smil/thumb.jpg?t=777&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 765,
+      "title": "Direkte Brûssel",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa19112026/813f6a29-6.smil/thumb.jpg?t=791&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 831,
+      "title": "Etter Brexit",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa19112026/813f6a29-6.smil/thumb.jpg?t=857&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 932,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa19112026/813f6a29-6.smil/thumb.jpg?t=957&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1072,
+      "title": "Kongens gravferd",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa19112026/813f6a29-6.smil/thumb.jpg?t=1097&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1150,
+      "title": "Kulturnyheter",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa19112026/813f6a29-6.smil/thumb.jpg?t=1175&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1238,
+      "title": "Juletre London",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa19112026/813f6a29-6.smil/thumb.jpg?t=1264&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1307,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa19112026/813f6a29-6.smil/thumb.jpg?t=1332&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1313,
+      "title": "Nasjonsligaen trekning",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa19112026/813f6a29-6.smil/thumb.jpg?t=1339&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1380,
+      "title": "Gjest Olav Traaen",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa19112026/813f6a29-6.smil/thumb.jpg?t=1406&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1448,
+      "title": "Langrenn Beito",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa19112026/813f6a29-6.smil/thumb.jpg?t=1474&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1513,
+      "title": "Vintersport",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa19112026/813f6a29-6.smil/thumb.jpg?t=1538&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1575,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-91.akamaized.net/open/ps/nnfa/nnfa19112026/813f6a29-6.smil/thumb.jpg?t=1600&scale=1920x1080&v=high"
+    }
+  ]
+}
