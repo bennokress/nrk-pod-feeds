@@ -1,0 +1,73 @@
+{
+  "version": "1.2.0",
+  "title": "Døde etter påkjørsel",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-17.akamaized.net/open/ps/nnfa/nnfa23112026/6a5d1fb0-5.smil/thumb.jpg?t=26&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 27,
+      "title": "Bussjåfør nekter straffskyld",
+      "img": "https://nrk-od-world-17.akamaized.net/open/ps/nnfa/nnfa23112026/6a5d1fb0-5.smil/thumb.jpg?t=52&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 127,
+      "title": "Protester Europa",
+      "img": "https://nrk-od-world-17.akamaized.net/open/ps/nnfa/nnfa23112026/6a5d1fb0-5.smil/thumb.jpg?t=152&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 225,
+      "title": "Utsetter budsjettfrist",
+      "img": "https://nrk-od-world-17.akamaized.net/open/ps/nnfa/nnfa23112026/6a5d1fb0-5.smil/thumb.jpg?t=250&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 251,
+      "title": "Anthropic fall",
+      "img": "https://nrk-od-world-17.akamaized.net/open/ps/nnfa/nnfa23112026/6a5d1fb0-5.smil/thumb.jpg?t=276&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 287,
+      "title": "Mannsutvalget",
+      "img": "https://nrk-od-world-17.akamaized.net/open/ps/nnfa/nnfa23112026/6a5d1fb0-5.smil/thumb.jpg?t=312&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 399,
+      "title": "Villaks",
+      "img": "https://nrk-od-world-17.akamaized.net/open/ps/nnfa/nnfa23112026/6a5d1fb0-5.smil/thumb.jpg?t=425&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 422,
+      "title": "Eliteserien",
+      "img": "https://nrk-od-world-17.akamaized.net/open/ps/nnfa/nnfa23112026/6a5d1fb0-5.smil/thumb.jpg?t=447&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 511,
+      "title": "Langrenn Beito",
+      "img": "https://nrk-od-world-17.akamaized.net/open/ps/nnfa/nnfa23112026/6a5d1fb0-5.smil/thumb.jpg?t=536&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 588,
+      "title": "Ishockey",
+      "img": "https://nrk-od-world-17.akamaized.net/open/ps/nnfa/nnfa23112026/6a5d1fb0-5.smil/thumb.jpg?t=613&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 669,
+      "title": "Ishockey NHL",
+      "img": "https://nrk-od-world-17.akamaized.net/open/ps/nnfa/nnfa23112026/6a5d1fb0-5.smil/thumb.jpg?t=694&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 701,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-17.akamaized.net/open/ps/nnfa/nnfa23112026/6a5d1fb0-5.smil/thumb.jpg?t=726&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 768,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-17.akamaized.net/open/ps/nnfa/nnfa23112026/6a5d1fb0-5.smil/thumb.jpg?t=786.72&scale=1920x1080&v=high"
+    }
+  ]
+}
