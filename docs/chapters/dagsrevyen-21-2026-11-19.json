@@ -1,0 +1,53 @@
+{
+  "version": "1.2.0",
+  "title": "Frykter stort angrep mot Kyiv i natt",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa21111926/9a5af931-5.smil/thumb.jpg?t=25&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 26,
+      "title": "Ukraina",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa21111926/9a5af931-5.smil/thumb.jpg?t=51&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 106,
+      "title": "Toppmøte i Kina",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa21111926/9a5af931-5.smil/thumb.jpg?t=131&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 131,
+      "title": "Anthropic",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa21111926/9a5af931-5.smil/thumb.jpg?t=157&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 233,
+      "title": "Forventningsundersøkelse",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa21111926/9a5af931-5.smil/thumb.jpg?t=259&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 336,
+      "title": "DAGSREVYPAKKE",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa21111926/9a5af931-5.smil/thumb.jpg?t=361&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 447,
+      "title": "Nettpromo",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa21111926/9a5af931-5.smil/thumb.jpg?t=473&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 461,
+      "title": "Været",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa21111926/9a5af931-5.smil/thumb.jpg?t=487&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 515,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-29.akamaized.net/open/ps/nnfa/nnfa21111926/9a5af931-5.smil/thumb.jpg?t=535.8&scale=1920x1080&v=high"
+    }
+  ]
+}
