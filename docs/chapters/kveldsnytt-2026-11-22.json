@@ -1,0 +1,63 @@
+{
+  "version": "1.2.0",
+  "title": "Ikke i mål",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa23112226/d38be30a-5.smil/thumb.jpg?t=26&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 37,
+      "title": "Budsjettforhandlinger",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa23112226/d38be30a-5.smil/thumb.jpg?t=62&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 82,
+      "title": "Vestbredden",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa23112226/d38be30a-5.smil/thumb.jpg?t=108&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 198,
+      "title": "Russisk skip angrepet",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa23112226/d38be30a-5.smil/thumb.jpg?t=223&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 224,
+      "title": "Ukraina angrep",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa23112226/d38be30a-5.smil/thumb.jpg?t=249&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 301,
+      "title": "Biskop Stavanger",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa23112226/d38be30a-5.smil/thumb.jpg?t=326&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 332,
+      "title": "Jul i Paris",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa23112226/d38be30a-5.smil/thumb.jpg?t=357&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 383,
+      "title": "Aalesund-Rosenborg reaksjoner",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa23112226/d38be30a-5.smil/thumb.jpg?t=409&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 560,
+      "title": "Ishockey",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa23112226/d38be30a-5.smil/thumb.jpg?t=586&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 608,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa23112226/d38be30a-5.smil/thumb.jpg?t=634&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 671,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-65.akamaized.net/open/ps/nnfa/nnfa23112226/d38be30a-5.smil/thumb.jpg?t=689.67&scale=1920x1080&v=high"
+    }
+  ]
+}
