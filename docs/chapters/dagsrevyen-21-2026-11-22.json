@@ -1,0 +1,68 @@
+{
+  "version": "1.2.0",
+  "title": "Narkotopp pågrepet",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa21112226/d2654ada-7.smil/thumb.jpg?t=25&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 25,
+      "title": "Budsjettforhandlinger",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa21112226/d2654ada-7.smil/thumb.jpg?t=51&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 66,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa21112226/d2654ada-7.smil/thumb.jpg?t=92&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 164,
+      "title": "Russisk skip angrepet",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa21112226/d2654ada-7.smil/thumb.jpg?t=190&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 195,
+      "title": "Skip Finskebukta",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa21112226/d2654ada-7.smil/thumb.jpg?t=221&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 238,
+      "title": "Narkotopp pågrepet",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa21112226/d2654ada-7.smil/thumb.jpg?t=263&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 344,
+      "title": "Klimatoppmøtet",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa21112226/d2654ada-7.smil/thumb.jpg?t=370&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 396,
+      "title": "Siktet for drapsforsøk",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa21112226/d2654ada-7.smil/thumb.jpg?t=421&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 413,
+      "title": "Tromsø lufthavn",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa21112226/d2654ada-7.smil/thumb.jpg?t=438&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 432,
+      "title": "Eliteserien",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa21112226/d2654ada-7.smil/thumb.jpg?t=457&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 459,
+      "title": "Været",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa21112226/d2654ada-7.smil/thumb.jpg?t=484&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 510,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-02.akamaized.net/open/ps/nnfa/nnfa21112226/d2654ada-7.smil/thumb.jpg?t=530.6&scale=1920x1080&v=high"
+    }
+  ]
+}
