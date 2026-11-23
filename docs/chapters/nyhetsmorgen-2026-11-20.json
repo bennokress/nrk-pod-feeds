@@ -1,0 +1,278 @@
+{
+  "version": "1.2.0",
+  "title": "Vil gi flyktninger 50 000 kroner for å reise tilbake",
+  "author": "NRK",
+  "podcastName": "Nyhetsmorgen",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Åpning 06:30",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05112026/905405c7-7.smil/thumb.jpg?t=25&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 92,
+      "title": "Vil tredoble støtte frivillig retur",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05112026/905405c7-7.smil/thumb.jpg?t=117&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 212,
+      "title": "Flyktet fra Gaza – blir sendt til Ukraina",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05112026/905405c7-7.smil/thumb.jpg?t=237&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 447,
+      "title": "Siste nytt",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05112026/905405c7-7.smil/thumb.jpg?t=473&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 591,
+      "title": "Brakdebut for Anthropic",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05112026/905405c7-7.smil/thumb.jpg?t=616&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 727,
+      "title": "Mørstadskatten stilles ut",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05112026/905405c7-7.smil/thumb.jpg?t=752&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 883,
+      "title": "Overskrifter 06:45",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05112026/905405c7-7.smil/thumb.jpg?t=908&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 942,
+      "title": "Ukrainas angrep på Kertsjbroen",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05112026/905405c7-7.smil/thumb.jpg?t=967&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1226,
+      "title": "Er Lars Heggen Klæbos arvtager?",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05112026/905405c7-7.smil/thumb.jpg?t=1251&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1360,
+      "title": "Myanmar dømt for folkemord",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05112026/905405c7-7.smil/thumb.jpg?t=1386&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1609,
+      "title": "Ber regjeringa stoppa nedbygging av myr",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05112026/905405c7-7.smil/thumb.jpg?t=1635&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1823,
+      "title": "Åpning 07:00",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05112026/905405c7-7.smil/thumb.jpg?t=1848&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1901,
+      "title": "Vil tredoble støtte for frivillig retur",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05112026/905405c7-7.smil/thumb.jpg?t=1926&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2088,
+      "title": "Effekten av returstøtte",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05112026/905405c7-7.smil/thumb.jpg?t=2113&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2351,
+      "title": "Eldre som faller",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05112026/905405c7-7.smil/thumb.jpg?t=2376&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2563,
+      "title": "Budsjettfrist i Stortinget",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05112026/905405c7-7.smil/thumb.jpg?t=2588&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2794,
+      "title": "Overskrifter 07:15",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05112026/905405c7-7.smil/thumb.jpg?t=2819&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2850,
+      "title": "Ingen løsning for Fosen-rein",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05112026/905405c7-7.smil/thumb.jpg?t=2876&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2933,
+      "title": "Storbritannia vil nærmere EU",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05112026/905405c7-7.smil/thumb.jpg?t=2958&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3150,
+      "title": "Burnham i Brussel",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05112026/905405c7-7.smil/thumb.jpg?t=3176&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3361,
+      "title": "Telemarks isbre smelter bort",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05112026/905405c7-7.smil/thumb.jpg?t=3386&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3526,
+      "title": "Teasing dagens sending",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05112026/905405c7-7.smil/thumb.jpg?t=3552&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3568,
+      "title": "Tyrann: Leopold",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05112026/905405c7-7.smil/thumb.jpg?t=3594&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3600,
+      "title": "Overskrifter 07:30",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05112026/905405c7-7.smil/thumb.jpg?t=3626&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3638,
+      "title": "Vil tredoble støtte for frivillig retur",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05112026/905405c7-7.smil/thumb.jpg?t=3663&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3757,
+      "title": "Gazakvinne i Harstad sendes til Ukraina",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05112026/905405c7-7.smil/thumb.jpg?t=3782&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3872,
+      "title": "Eksplosjoner i Kyiv",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05112026/905405c7-7.smil/thumb.jpg?t=3898&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3895,
+      "title": "Eldre som faller",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05112026/905405c7-7.smil/thumb.jpg?t=3920&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 4016,
+      "title": "Storbritannia vil nærmere EU",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05112026/905405c7-7.smil/thumb.jpg?t=4042&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 4122,
+      "title": "Brakdebut for Anthropic",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05112026/905405c7-7.smil/thumb.jpg?t=4147&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 4199,
+      "title": "Åpning 07:40",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05112026/905405c7-7.smil/thumb.jpg?t=4224&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 4239,
+      "title": "Vil ha strengare straffer for dyreeigarar",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05112026/905405c7-7.smil/thumb.jpg?t=4264&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 4464,
+      "title": "Topper 07:44",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05112026/905405c7-7.smil/thumb.jpg?t=4489&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 4469,
+      "title": "Overgang til Politisk kvarter",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05112026/905405c7-7.smil/thumb.jpg?t=4495&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 5401,
+      "title": "NRK Nyheter 08:00",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05112026/905405c7-7.smil/thumb.jpg?t=5426&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 5579,
+      "title": "Åpning 08:03",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05112026/905405c7-7.smil/thumb.jpg?t=5604&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 5666,
+      "title": "Russiske angrep mot Kyiv i natt",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05112026/905405c7-7.smil/thumb.jpg?t=5692&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 5926,
+      "title": "Flyktet fra Gaza – blir sendt til Ukraina",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05112026/905405c7-7.smil/thumb.jpg?t=5952&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 6164,
+      "title": "Eldre som faller",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05112026/905405c7-7.smil/thumb.jpg?t=6190&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 6300,
+      "title": "Overskrifter 08:15",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05112026/905405c7-7.smil/thumb.jpg?t=6326&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 6353,
+      "title": "Er Lars Heggen Klæbos arvtager?",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05112026/905405c7-7.smil/thumb.jpg?t=6378&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 6499,
+      "title": "Fredagspanelet",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05112026/905405c7-7.smil/thumb.jpg?t=6525&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 7239,
+      "title": "Overskrifter 08:30",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05112026/905405c7-7.smil/thumb.jpg?t=7264&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 7310,
+      "title": "Vil tredoble støtte for frivillig retur",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05112026/905405c7-7.smil/thumb.jpg?t=7336&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 7500,
+      "title": "Effekt av retur (R)",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05112026/905405c7-7.smil/thumb.jpg?t=7526&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 7763,
+      "title": "Angrep på Kertsjbroen (R)",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05112026/905405c7-7.smil/thumb.jpg?t=7788&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 7940,
+      "title": "Overgrepsdom Storbritannia",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05112026/905405c7-7.smil/thumb.jpg?t=7966&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8135,
+      "title": "Overskrifter 08:45",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05112026/905405c7-7.smil/thumb.jpg?t=8161&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8170,
+      "title": "Skistart på Beitostølen",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05112026/905405c7-7.smil/thumb.jpg?t=8196&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8439,
+      "title": "Storbritannia vil nærmere EU",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05112026/905405c7-7.smil/thumb.jpg?t=8464&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8548,
+      "title": "Fosen-rein skal flyttes",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05112026/905405c7-7.smil/thumb.jpg?t=8574&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8774,
+      "title": "Hør Abels Tårn i NRK P2",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05112026/905405c7-7.smil/thumb.jpg?t=8800&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8836,
+      "title": "Været i dag",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05112026/905405c7-7.smil/thumb.jpg?t=8861&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8997,
+      "title": "Avslutning",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa05112026/905405c7-7.smil/thumb.jpg?t=9003.32&scale=1920x1080&v=high"
+    }
+  ]
+}
