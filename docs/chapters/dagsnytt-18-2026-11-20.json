@@ -1,0 +1,88 @@
+{
+  "version": "1.2.0",
+  "title": "Norge møter England",
+  "author": "NRK",
+  "podcastName": "Dagsnytt 18",
+  "chapters": [
+    {
+      "startTime": 2,
+      "title": "Dagsnytt atten",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa56112026/42291694-5.smil/thumb.jpg?t=27&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 55,
+      "title": "Regjeringens likestillingspolitikk",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa56112026/42291694-5.smil/thumb.jpg?t=80&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 562,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa56112026/42291694-5.smil/thumb.jpg?t=588&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 567,
+      "title": "Klimatoppmøtet avsluttes",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa56112026/42291694-5.smil/thumb.jpg?t=592&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 781,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa56112026/42291694-5.smil/thumb.jpg?t=807&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 788,
+      "title": "Storbritannia og EU",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa56112026/42291694-5.smil/thumb.jpg?t=814&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1522,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa56112026/42291694-5.smil/thumb.jpg?t=1547&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1531,
+      "title": "Tiltak mot cyberangrep",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa56112026/42291694-5.smil/thumb.jpg?t=1557&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2207,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa56112026/42291694-5.smil/thumb.jpg?t=2232&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2216,
+      "title": "Norge møter England",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa56112026/42291694-5.smil/thumb.jpg?t=2242&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2454,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa56112026/42291694-5.smil/thumb.jpg?t=2480&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2463,
+      "title": "Fiskefôr fra Afrika",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa56112026/42291694-5.smil/thumb.jpg?t=2489&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3054,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa56112026/42291694-5.smil/thumb.jpg?t=3080&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3065,
+      "title": "Hvorfor lykkes Frp?",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa56112026/42291694-5.smil/thumb.jpg?t=3090&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3532,
+      "title": "AVSLUTNING",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa56112026/42291694-5.smil/thumb.jpg?t=3543.84&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3536,
+      "title": "SLUTTKJENNING",
+      "img": "https://nrk-od-world-53.akamaized.net/open/ps/nnfa/nnfa56112026/42291694-5.smil/thumb.jpg?t=3543.84&scale=1920x1080&v=high"
+    }
+  ]
+}
