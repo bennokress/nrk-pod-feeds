@@ -1,0 +1,138 @@
+{
+  "version": "1.2.0",
+  "title": "Jeg er beæret over å vende tilbake",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 5,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa19112326/802d81e5-8.smil/thumb.jpg?t=31&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 75,
+      "title": "Direkte Washington",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa19112326/802d81e5-8.smil/thumb.jpg?t=100&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 134,
+      "title": "Jensen Huang",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa19112326/802d81e5-8.smil/thumb.jpg?t=160&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 238,
+      "title": "Direkte Washington",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa19112326/802d81e5-8.smil/thumb.jpg?t=264&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 295,
+      "title": "Gjest: Heyerdahl",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa19112326/802d81e5-8.smil/thumb.jpg?t=321&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 408,
+      "title": "Granskning Epstein",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa19112326/802d81e5-8.smil/thumb.jpg?t=434&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 558,
+      "title": "Gjest: Kierulf",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa19112326/802d81e5-8.smil/thumb.jpg?t=583&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 674,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa19112326/802d81e5-8.smil/thumb.jpg?t=699&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 737,
+      "title": "Forsket på mettet fett",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa19112326/802d81e5-8.smil/thumb.jpg?t=762&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 871,
+      "title": "Budsjettforhandlinger",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa19112326/802d81e5-8.smil/thumb.jpg?t=897&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 880,
+      "title": "Direkte Oslo",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa19112326/802d81e5-8.smil/thumb.jpg?t=905&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 966,
+      "title": "Tilfluktsrom",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa19112326/802d81e5-8.smil/thumb.jpg?t=992&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1072,
+      "title": "Politiaksjon Harstad",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa19112326/802d81e5-8.smil/thumb.jpg?t=1098&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1177,
+      "title": "Russisk skip",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa19112326/802d81e5-8.smil/thumb.jpg?t=1203&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1304,
+      "title": "Ventetid abort",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa19112326/802d81e5-8.smil/thumb.jpg?t=1329&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1490,
+      "title": "Knausgård",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa19112326/802d81e5-8.smil/thumb.jpg?t=1515&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1839,
+      "title": "Åpning utsatt",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa19112326/802d81e5-8.smil/thumb.jpg?t=1865&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1952,
+      "title": "Black week",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa19112326/802d81e5-8.smil/thumb.jpg?t=1978&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2065,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa19112326/802d81e5-8.smil/thumb.jpg?t=2090&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2070,
+      "title": "Johaug reagerer",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa19112326/802d81e5-8.smil/thumb.jpg?t=2095&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2174,
+      "title": "Uttak Ruka",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa19112326/802d81e5-8.smil/thumb.jpg?t=2200&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2226,
+      "title": "Hockey doping",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa19112326/802d81e5-8.smil/thumb.jpg?t=2252&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2262,
+      "title": "Landslagsuttak",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa19112326/802d81e5-8.smil/thumb.jpg?t=2287&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2303,
+      "title": "Eskås i Mesterliga",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa19112326/802d81e5-8.smil/thumb.jpg?t=2328&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2326,
+      "title": "Mesterligauke",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa19112326/802d81e5-8.smil/thumb.jpg?t=2351&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2397,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-64.akamaized.net/open/ps/nnfa/nnfa19112326/802d81e5-8.smil/thumb.jpg?t=2423&scale=1920x1080&v=high"
+    }
+  ]
+}
