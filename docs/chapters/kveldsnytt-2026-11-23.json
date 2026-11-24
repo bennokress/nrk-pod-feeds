@@ -1,0 +1,63 @@
+{
+  "version": "1.2.0",
+  "title": "Kraftig oppgang etter comebacket",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa23112326/9b75524b-5.smil/thumb.jpg?t=25&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 38,
+      "title": "Jensen Huang",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa23112326/9b75524b-5.smil/thumb.jpg?t=63&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 103,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa23112326/9b75524b-5.smil/thumb.jpg?t=129&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 215,
+      "title": "Budsjettforhandlinger stortinget",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa23112326/9b75524b-5.smil/thumb.jpg?t=240&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 281,
+      "title": "Dronningen og Epstein",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa23112326/9b75524b-5.smil/thumb.jpg?t=307&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 367,
+      "title": "Døde russere",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa23112326/9b75524b-5.smil/thumb.jpg?t=392&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 386,
+      "title": "Nettpromo",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa23112326/9b75524b-5.smil/thumb.jpg?t=412&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 403,
+      "title": "Jensen Huang",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa23112326/9b75524b-5.smil/thumb.jpg?t=428&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 463,
+      "title": "Mesterliga",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa23112326/9b75524b-5.smil/thumb.jpg?t=488&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 545,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa23112326/9b75524b-5.smil/thumb.jpg?t=571&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 618,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-89.akamaized.net/open/ps/nnfa/nnfa23112326/9b75524b-5.smil/thumb.jpg?t=637.44&scale=1920x1080&v=high"
+    }
+  ]
+}
