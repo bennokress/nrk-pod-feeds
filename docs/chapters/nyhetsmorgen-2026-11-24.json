@@ -1,0 +1,283 @@
+{
+  "version": "1.2.0",
+  "title": "Nyhetsmorgen",
+  "author": "NRK",
+  "podcastName": "Nyhetsmorgen",
+  "chapters": [
+    {
+      "startTime": 1,
+      "title": "Åpning 06:30",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa05112426/0d2dd4fc-5.smil/thumb.jpg?t=26&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 74,
+      "title": "Nvidia bidrar til børsbyks",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa05112426/0d2dd4fc-5.smil/thumb.jpg?t=99&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 267,
+      "title": "Flere sivile mister livet i droneangrep",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa05112426/0d2dd4fc-5.smil/thumb.jpg?t=292&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 388,
+      "title": "Siste nytt",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa05112426/0d2dd4fc-5.smil/thumb.jpg?t=414&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 515,
+      "title": "700.000 russiske soldater drept",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa05112426/0d2dd4fc-5.smil/thumb.jpg?t=541&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 658,
+      "title": "Troms størst nedgang i utenforskap",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa05112426/0d2dd4fc-5.smil/thumb.jpg?t=683&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 911,
+      "title": "Overskrifter 06:45",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa05112426/0d2dd4fc-5.smil/thumb.jpg?t=936&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 968,
+      "title": "Tiltalt for krigsforbrytelser",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa05112426/0d2dd4fc-5.smil/thumb.jpg?t=993&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1187,
+      "title": "Rettssaken sett fra Afrika",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa05112426/0d2dd4fc-5.smil/thumb.jpg?t=1212&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1431,
+      "title": "Graham Hansen tilbake etter skade",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa05112426/0d2dd4fc-5.smil/thumb.jpg?t=1456&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1538,
+      "title": "KI løste mattegåte",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa05112426/0d2dd4fc-5.smil/thumb.jpg?t=1563&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1779,
+      "title": "Trailer: Julesteming med Live og Ronny",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa05112426/0d2dd4fc-5.smil/thumb.jpg?t=1804&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1819,
+      "title": "Åpning 07:00",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa05112426/0d2dd4fc-5.smil/thumb.jpg?t=1845&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1864,
+      "title": "Huang-comeback sett frå Asia",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa05112426/0d2dd4fc-5.smil/thumb.jpg?t=1890&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2356,
+      "title": "Vold og trusler i skolen",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa05112426/0d2dd4fc-5.smil/thumb.jpg?t=2382&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2666,
+      "title": "Før Politisk kvarter om klimatoppmøtet",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa05112426/0d2dd4fc-5.smil/thumb.jpg?t=2691&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2701,
+      "title": "Overskrifter 07:15",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa05112426/0d2dd4fc-5.smil/thumb.jpg?t=2727&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2729,
+      "title": "Ukraina rystet av korrupsjonsskandale",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa05112426/0d2dd4fc-5.smil/thumb.jpg?t=2755&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2988,
+      "title": "Ja og nei til vektere med hijab",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa05112426/0d2dd4fc-5.smil/thumb.jpg?t=3014&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3163,
+      "title": "Politiet opprettholder hijabforbud",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa05112426/0d2dd4fc-5.smil/thumb.jpg?t=3188&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3393,
+      "title": "Ung gründer",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa05112426/0d2dd4fc-5.smil/thumb.jpg?t=3419&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3565,
+      "title": "Historier fra virkeligheten: Kim blir vanlig",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa05112426/0d2dd4fc-5.smil/thumb.jpg?t=3591&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3601,
+      "title": "Overskrifter 07:30",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa05112426/0d2dd4fc-5.smil/thumb.jpg?t=3626&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3626,
+      "title": "Børsfest og Nvidia",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa05112426/0d2dd4fc-5.smil/thumb.jpg?t=3652&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3765,
+      "title": "Chen om sparepenger",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa05112426/0d2dd4fc-5.smil/thumb.jpg?t=3791&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3788,
+      "title": "Equinors gassavtale",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa05112426/0d2dd4fc-5.smil/thumb.jpg?t=3813&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3855,
+      "title": "Flere sivile mister livet i droneangrep",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa05112426/0d2dd4fc-5.smil/thumb.jpg?t=3881&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3966,
+      "title": "Ja og nei til vektere med hijab",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa05112426/0d2dd4fc-5.smil/thumb.jpg?t=3991&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 4053,
+      "title": "Statsbudsjett forhandlinger",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa05112426/0d2dd4fc-5.smil/thumb.jpg?t=4078&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 4071,
+      "title": "KI løste mattegåte",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa05112426/0d2dd4fc-5.smil/thumb.jpg?t=4096&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 4199,
+      "title": "Åpning 07:40",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa05112426/0d2dd4fc-5.smil/thumb.jpg?t=4225&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 4225,
+      "title": "Voksne tar helsefag",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa05112426/0d2dd4fc-5.smil/thumb.jpg?t=4251&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 4469,
+      "title": "Topper 07:44",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa05112426/0d2dd4fc-5.smil/thumb.jpg?t=4495&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 5400,
+      "title": "NRK Nyheter 08:00",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa05112426/0d2dd4fc-5.smil/thumb.jpg?t=5426&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 5582,
+      "title": "Åpning 08:03",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa05112426/0d2dd4fc-5.smil/thumb.jpg?t=5607&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 5671,
+      "title": "Equinor signerer gassavtale",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa05112426/0d2dd4fc-5.smil/thumb.jpg?t=5696&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 5896,
+      "title": "700.000 russiske soldater drept",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa05112426/0d2dd4fc-5.smil/thumb.jpg?t=5921&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 6168,
+      "title": "Nvidia bidrar til børsbyks",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa05112426/0d2dd4fc-5.smil/thumb.jpg?t=6193&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 6417,
+      "title": "Overskrifter 08:15",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa05112426/0d2dd4fc-5.smil/thumb.jpg?t=6442&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 6465,
+      "title": "Flere sivile mister livet i droneangrep",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa05112426/0d2dd4fc-5.smil/thumb.jpg?t=6490&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 6594,
+      "title": "Tiltalt for krigsforbrytelser",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa05112426/0d2dd4fc-5.smil/thumb.jpg?t=6620&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 6713,
+      "title": "Ny frist for å danne regjering i Sverige",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa05112426/0d2dd4fc-5.smil/thumb.jpg?t=6739&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 6986,
+      "title": "Én måned igjen til julaften",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa05112426/0d2dd4fc-5.smil/thumb.jpg?t=7012&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 7316,
+      "title": "Hør Ekko i NRK P2",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa05112426/0d2dd4fc-5.smil/thumb.jpg?t=7341&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 7373,
+      "title": "Overskrifter 08:30",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa05112426/0d2dd4fc-5.smil/thumb.jpg?t=7398&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 7419,
+      "title": "Asia-børsene etter Huang-comeback",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa05112426/0d2dd4fc-5.smil/thumb.jpg?t=7445&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 7549,
+      "title": "Huang-comeback sett frå Asia",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa05112426/0d2dd4fc-5.smil/thumb.jpg?t=7575&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 7697,
+      "title": "Vold og trusler i skolen",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa05112426/0d2dd4fc-5.smil/thumb.jpg?t=7723&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 7854,
+      "title": "Feil side under klimatoppmøtet",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa05112426/0d2dd4fc-5.smil/thumb.jpg?t=7879&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8030,
+      "title": "Ny kamp for Bodø Glimt i Mesterligaen",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa05112426/0d2dd4fc-5.smil/thumb.jpg?t=8055&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8165,
+      "title": "Overskrifter 08:45",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa05112426/0d2dd4fc-5.smil/thumb.jpg?t=8190&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8202,
+      "title": "Vikingtidsmuseet utsetter åpning",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa05112426/0d2dd4fc-5.smil/thumb.jpg?t=8228&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8437,
+      "title": "Anmeldelse: Cory Arcangel",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa05112426/0d2dd4fc-5.smil/thumb.jpg?t=8462&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8683,
+      "title": "KI løste mattegåte",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa05112426/0d2dd4fc-5.smil/thumb.jpg?t=8709&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8889,
+      "title": "Været i dag",
+      "img": "https://nrk-od-world-48.akamaized.net/open/ps/nnfa/nnfa05112426/0d2dd4fc-5.smil/thumb.jpg?t=8915&scale=1920x1080&v=high"
+    }
+  ]
+}
