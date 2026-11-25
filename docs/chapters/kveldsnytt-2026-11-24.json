@@ -1,0 +1,73 @@
+{
+  "version": "1.2.0",
+  "title": "Benådet av Trump",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa23112426/0b738c15-5.smil/thumb.jpg?t=26&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 33,
+      "title": "Budsjettforhandling",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa23112426/0b738c15-5.smil/thumb.jpg?t=59&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 64,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa23112426/0b738c15-5.smil/thumb.jpg?t=89&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 199,
+      "title": "Regjering Sverige",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa23112426/0b738c15-5.smil/thumb.jpg?t=224&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 230,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa23112426/0b738c15-5.smil/thumb.jpg?t=255&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 339,
+      "title": "Trump toll",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa23112426/0b738c15-5.smil/thumb.jpg?t=364&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 362,
+      "title": "Kalkun-benådning",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa23112426/0b738c15-5.smil/thumb.jpg?t=387&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 465,
+      "title": "Glimt-LASK",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa23112426/0b738c15-5.smil/thumb.jpg?t=490&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 551,
+      "title": "Nordmenn i Mesterligaen",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa23112426/0b738c15-5.smil/thumb.jpg?t=576&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 603,
+      "title": "Norsk dommer Mesterligaen",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa23112426/0b738c15-5.smil/thumb.jpg?t=629&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 636,
+      "title": "Supermåne",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa23112426/0b738c15-5.smil/thumb.jpg?t=661&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 714,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa23112426/0b738c15-5.smil/thumb.jpg?t=740&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 790,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-14.akamaized.net/open/ps/nnfa/nnfa23112426/0b738c15-5.smil/thumb.jpg?t=814.6&scale=1920x1080&v=high"
+    }
+  ]
+}
