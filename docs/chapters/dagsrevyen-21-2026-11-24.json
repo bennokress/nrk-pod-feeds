@@ -1,0 +1,63 @@
+{
+  "version": "1.2.0",
+  "title": "Blir de enige?",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa21112426/9c361060-5.smil/thumb.jpg?t=25&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 27,
+      "title": "Budsjettforhandling",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa21112426/9c361060-5.smil/thumb.jpg?t=52&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 90,
+      "title": "Direkte:",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa21112426/9c361060-5.smil/thumb.jpg?t=116&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 197,
+      "title": "Fugleinfluensa",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa21112426/9c361060-5.smil/thumb.jpg?t=223&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 255,
+      "title": "Colombia",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa21112426/9c361060-5.smil/thumb.jpg?t=280&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 278,
+      "title": "Brann på Møllenberg",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa21112426/9c361060-5.smil/thumb.jpg?t=304&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 352,
+      "title": "Strålesenter",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa21112426/9c361060-5.smil/thumb.jpg?t=378&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 476,
+      "title": "Bodø Glimt",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa21112426/9c361060-5.smil/thumb.jpg?t=501&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 498,
+      "title": "Supermåne",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa21112426/9c361060-5.smil/thumb.jpg?t=524&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 525,
+      "title": "Været",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa21112426/9c361060-5.smil/thumb.jpg?t=551&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 574,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-51.akamaized.net/open/ps/nnfa/nnfa21112426/9c361060-5.smil/thumb.jpg?t=594.6&scale=1920x1080&v=high"
+    }
+  ]
+}
