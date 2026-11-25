@@ -1,0 +1,58 @@
+{
+  "version": "1.2.0",
+  "title": "Regjeringskaos i Sverige",
+  "author": "NRK",
+  "podcastName": "Dagsnytt 18",
+  "chapters": [
+    {
+      "startTime": 1,
+      "title": "Dagsnytt atten",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa56112426/600ad660-5.smil/thumb.jpg?t=27&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 70,
+      "title": "Regjeringskaos i Sverige",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa56112426/600ad660-5.smil/thumb.jpg?t=96&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 530,
+      "title": "Befolkningsutskifting",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa56112426/600ad660-5.smil/thumb.jpg?t=556&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1071,
+      "title": "Korrupsjon i Ukraina",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa56112426/600ad660-5.smil/thumb.jpg?t=1096&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1787,
+      "title": "Tilsyn med UDs arkiver",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa56112426/600ad660-5.smil/thumb.jpg?t=1812&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2029,
+      "title": "Vinterlys Surnadal",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa56112426/600ad660-5.smil/thumb.jpg?t=2054&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2512,
+      "title": "Skipsbygging i Norge",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa56112426/600ad660-5.smil/thumb.jpg?t=2537&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3107,
+      "title": "Fleksibel skolestart",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa56112426/600ad660-5.smil/thumb.jpg?t=3133&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3525,
+      "title": "AVSLUTNING",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa56112426/600ad660-5.smil/thumb.jpg?t=3543.88&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3532,
+      "title": "SLUTTKJENNING",
+      "img": "https://nrk-od-world-50.akamaized.net/open/ps/nnfa/nnfa56112426/600ad660-5.smil/thumb.jpg?t=3543.88&scale=1920x1080&v=high"
+    }
+  ]
+}
