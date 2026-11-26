@@ -1,0 +1,58 @@
+{
+  "version": "1.2.0",
+  "title": "Budsjettavtale uten MDG",
+  "author": "NRK",
+  "podcastName": "Dagsnytt 18",
+  "chapters": [
+    {
+      "startTime": 1,
+      "title": "Dagsnytt atten",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa56112526/5128bd49-9.smil/thumb.jpg?t=26&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 55,
+      "title": "Budsjettforhandlinger",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa56112526/5128bd49-9.smil/thumb.jpg?t=81&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1172,
+      "title": "Kommentatorer om budsjett",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa56112526/5128bd49-9.smil/thumb.jpg?t=1198&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1660,
+      "title": "Lille norske leksikon",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa56112526/5128bd49-9.smil/thumb.jpg?t=1686&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2292,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa56112526/5128bd49-9.smil/thumb.jpg?t=2317&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2306,
+      "title": "Frp sin landbrukspolitikk",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa56112526/5128bd49-9.smil/thumb.jpg?t=2332&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2840,
+      "title": "JINGLE",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa56112526/5128bd49-9.smil/thumb.jpg?t=2866&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2851,
+      "title": "Grenseløse elever",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa56112526/5128bd49-9.smil/thumb.jpg?t=2877&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3528,
+      "title": "AVSLUTNING",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa56112526/5128bd49-9.smil/thumb.jpg?t=3542.76&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3531,
+      "title": "SLUTTKJENNING",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa56112526/5128bd49-9.smil/thumb.jpg?t=3542.76&scale=1920x1080&v=high"
+    }
+  ]
+}
