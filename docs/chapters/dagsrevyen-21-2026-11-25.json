@@ -1,0 +1,43 @@
+{
+  "version": "1.2.0",
+  "title": "Nytt børsras i USA",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen 21",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Dagsrevyen 21",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa21112526/74a36db3-5.smil/thumb.jpg?t=25&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 33,
+      "title": "Ny budsjettvri",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa21112526/74a36db3-5.smil/thumb.jpg?t=58&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 127,
+      "title": "Kraftig børsfall USA",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa21112526/74a36db3-5.smil/thumb.jpg?t=153&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 267,
+      "title": "Sprengt bombe USA",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa21112526/74a36db3-5.smil/thumb.jpg?t=293&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 366,
+      "title": "Hunder smittet",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa21112526/74a36db3-5.smil/thumb.jpg?t=392&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 389,
+      "title": "Fugleinfluensa",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa21112526/74a36db3-5.smil/thumb.jpg?t=415&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 510,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-75.akamaized.net/open/ps/nnfa/nnfa21112526/74a36db3-5.smil/thumb.jpg?t=535&scale=1920x1080&v=high"
+    }
+  ]
+}
