@@ -1,0 +1,128 @@
+{
+  "version": "1.2.0",
+  "title": "Hva skjer nå?",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 8,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa19112526/a3ceafd9-7.smil/thumb.jpg?t=33&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 58,
+      "title": "Statsbudsjettet",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa19112526/a3ceafd9-7.smil/thumb.jpg?t=83&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 345,
+      "title": "Gjest: Lars Nehru Sand",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa19112526/a3ceafd9-7.smil/thumb.jpg?t=370&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 470,
+      "title": "Statsbudsjettet",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa19112526/a3ceafd9-7.smil/thumb.jpg?t=495&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 568,
+      "title": "Nyhetsmeldinger",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa19112526/a3ceafd9-7.smil/thumb.jpg?t=593&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 676,
+      "title": "Høiby",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa19112526/a3ceafd9-7.smil/thumb.jpg?t=701&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 768,
+      "title": "Gjest Dennis Ravndal",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa19112526/a3ceafd9-7.smil/thumb.jpg?t=794&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 874,
+      "title": "Grenseløse elever",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa19112526/a3ceafd9-7.smil/thumb.jpg?t=899&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1008,
+      "title": "Netanyahu korrupsjon",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa19112526/a3ceafd9-7.smil/thumb.jpg?t=1033&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1040,
+      "title": "Valg i Spania",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa19112526/a3ceafd9-7.smil/thumb.jpg?t=1065&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1139,
+      "title": "Direkte Madrid",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa19112526/a3ceafd9-7.smil/thumb.jpg?t=1165&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1257,
+      "title": "Iran",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa19112526/a3ceafd9-7.smil/thumb.jpg?t=1283&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1296,
+      "title": "Direkte Beirut",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa19112526/a3ceafd9-7.smil/thumb.jpg?t=1322&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1420,
+      "title": "Takkekonsert",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa19112526/a3ceafd9-7.smil/thumb.jpg?t=1446&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1508,
+      "title": "Dyr lutefisk",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa19112526/a3ceafd9-7.smil/thumb.jpg?t=1533&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1615,
+      "title": "Manchester United",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa19112526/a3ceafd9-7.smil/thumb.jpg?t=1641&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1968,
+      "title": "Hairspray musikal",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa19112526/a3ceafd9-7.smil/thumb.jpg?t=1994&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2082,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa19112526/a3ceafd9-7.smil/thumb.jpg?t=2108&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2087,
+      "title": "Freyr Swansea",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa19112526/a3ceafd9-7.smil/thumb.jpg?t=2112&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2165,
+      "title": "Før Atl Madrid-Viking",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa19112526/a3ceafd9-7.smil/thumb.jpg?t=2190&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2181,
+      "title": "Direkte Madrid",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa19112526/a3ceafd9-7.smil/thumb.jpg?t=2207&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2252,
+      "title": "Skiskyting",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa19112526/a3ceafd9-7.smil/thumb.jpg?t=2277&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2317,
+      "title": "Para raser",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa19112526/a3ceafd9-7.smil/thumb.jpg?t=2342&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2420,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-12.akamaized.net/open/ps/nnfa/nnfa19112526/a3ceafd9-7.smil/thumb.jpg?t=2446&scale=1920x1080&v=high"
+    }
+  ]
+}
