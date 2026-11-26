@@ -1,0 +1,283 @@
+{
+  "version": "1.2.0",
+  "title": "Nyhetsmorgen",
+  "author": "NRK",
+  "podcastName": "Nyhetsmorgen",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Åpning 06:30",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05112526/e638be26-6.smil/thumb.jpg?t=26&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 72,
+      "title": "Grenseløse elever",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05112526/e638be26-6.smil/thumb.jpg?t=97&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 182,
+      "title": "Frykt for økt toll fra USA",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05112526/e638be26-6.smil/thumb.jpg?t=207&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 423,
+      "title": "Siste nytt",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05112526/e638be26-6.smil/thumb.jpg?t=448&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 522,
+      "title": "Advarer om bygging i utlandet",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05112526/e638be26-6.smil/thumb.jpg?t=548&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 652,
+      "title": "Misnøye flybuss",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05112526/e638be26-6.smil/thumb.jpg?t=677&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 773,
+      "title": "Kinesisk rakett med pakistansk astronaut",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05112526/e638be26-6.smil/thumb.jpg?t=798&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 988,
+      "title": "KI-aksjene nå",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05112526/e638be26-6.smil/thumb.jpg?t=1013&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1324,
+      "title": "BodøGlimt med overtidsseier i mesterligaen",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05112526/e638be26-6.smil/thumb.jpg?t=1350&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1428,
+      "title": "Meglere på spionjakt",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05112526/e638be26-6.smil/thumb.jpg?t=1454&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1672,
+      "title": "Dyr snøproduksjon i Trysil",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05112526/e638be26-6.smil/thumb.jpg?t=1698&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1784,
+      "title": "Historier fra virkeligheten: Kim blir vanlig",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05112526/e638be26-6.smil/thumb.jpg?t=1810&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1816,
+      "title": "Åpning 07:00",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05112526/e638be26-6.smil/thumb.jpg?t=1842&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1907,
+      "title": "Grenseløse elever",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05112526/e638be26-6.smil/thumb.jpg?t=1932&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2167,
+      "title": "Lærere fortvilet over vold i skolen",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05112526/e638be26-6.smil/thumb.jpg?t=2193&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2597,
+      "title": "Kommentator om budsjett",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05112526/e638be26-6.smil/thumb.jpg?t=2623&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2842,
+      "title": "Overskrifter 07:15",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05112526/e638be26-6.smil/thumb.jpg?t=2867&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2877,
+      "title": "Hva gjør du for å beskytte deg mot KI?",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05112526/e638be26-6.smil/thumb.jpg?t=2902&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2949,
+      "title": "Vil bli flere KI-angrep",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05112526/e638be26-6.smil/thumb.jpg?t=2974&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3243,
+      "title": "Siste nytt fra verden",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05112526/e638be26-6.smil/thumb.jpg?t=3269&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3415,
+      "title": "Færre arbeidsplasser på offshoreverft",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05112526/e638be26-6.smil/thumb.jpg?t=3440&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3549,
+      "title": "Julesteming - starter søndag",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05112526/e638be26-6.smil/thumb.jpg?t=3575&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3599,
+      "title": "Overskrifter 07:30",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05112526/e638be26-6.smil/thumb.jpg?t=3625&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3632,
+      "title": "Grenseløse elever",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05112526/e638be26-6.smil/thumb.jpg?t=3657&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3811,
+      "title": "Budsjettforhandlingene i Stortinget",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05112526/e638be26-6.smil/thumb.jpg?t=3836&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3915,
+      "title": "Kritiserer snøkrabbeundersøkelser",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05112526/e638be26-6.smil/thumb.jpg?t=3940&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 4015,
+      "title": "Meglere på spionjakt",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05112526/e638be26-6.smil/thumb.jpg?t=4041&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 4137,
+      "title": "Bodø-Glimt med overtidsseier",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05112526/e638be26-6.smil/thumb.jpg?t=4162&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 4200,
+      "title": "Åpning 07:40",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05112526/e638be26-6.smil/thumb.jpg?t=4225&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 4215,
+      "title": "Gutar i barnehagejobb",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05112526/e638be26-6.smil/thumb.jpg?t=4240&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 4406,
+      "title": "Krevende å uttale 2027",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05112526/e638be26-6.smil/thumb.jpg?t=4431&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 5399,
+      "title": "NRK Nyheter 08:00",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05112526/e638be26-6.smil/thumb.jpg?t=5425&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 5580,
+      "title": "Åpning 08:03",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05112526/e638be26-6.smil/thumb.jpg?t=5605&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 5644,
+      "title": "Grenseløse elever",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05112526/e638be26-6.smil/thumb.jpg?t=5669&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 5831,
+      "title": "Vold og trusler i svenske skoler",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05112526/e638be26-6.smil/thumb.jpg?t=5857&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 6102,
+      "title": "Kritiserer snøkrabbeundersøkelser",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05112526/e638be26-6.smil/thumb.jpg?t=6127&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 6290,
+      "title": "Overskrifter 08:15",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05112526/e638be26-6.smil/thumb.jpg?t=6315&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 6369,
+      "title": "Rekord-år for flåttsykdommer",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05112526/e638be26-6.smil/thumb.jpg?t=6394&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 6613,
+      "title": "Meglere på spionjakt",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05112526/e638be26-6.smil/thumb.jpg?t=6639&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 6746,
+      "title": "P3 køyrer folk heim til jul",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05112526/e638be26-6.smil/thumb.jpg?t=6772&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 7051,
+      "title": "BodøGlimt med overtidsseier i mesterligaen",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05112526/e638be26-6.smil/thumb.jpg?t=7076&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 7159,
+      "title": "Hør Ekko i NRK P2",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05112526/e638be26-6.smil/thumb.jpg?t=7185&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 7213,
+      "title": "Overskrifter 08:30",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05112526/e638be26-6.smil/thumb.jpg?t=7238&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 7263,
+      "title": "Avviser budsjettforslag",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05112526/e638be26-6.smil/thumb.jpg?t=7289&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 7342,
+      "title": "Hva gjør du for å beskytte deg mot KI?",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05112526/e638be26-6.smil/thumb.jpg?t=7367&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 7434,
+      "title": "Vil bli flere KI-angrep (R)",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05112526/e638be26-6.smil/thumb.jpg?t=7460&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 7704,
+      "title": "EU med nytt teknologifond",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05112526/e638be26-6.smil/thumb.jpg?t=7729&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 7898,
+      "title": "Slår alarm om grenseløse elever",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05112526/e638be26-6.smil/thumb.jpg?t=7923&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8179,
+      "title": "Overskrifter 08:45",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05112526/e638be26-6.smil/thumb.jpg?t=8204&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8228,
+      "title": "Budsjettforhandlingene i Stortinget",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05112526/e638be26-6.smil/thumb.jpg?t=8254&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8390,
+      "title": "Færre arbeidsplasser på offshoreverft",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05112526/e638be26-6.smil/thumb.jpg?t=8415&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8555,
+      "title": "Anmeldelse: «Kirja»",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05112526/e638be26-6.smil/thumb.jpg?t=8581&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8831,
+      "title": "Krevende å uttale 2027",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05112526/e638be26-6.smil/thumb.jpg?t=8856&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8901,
+      "title": "Været i dag",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05112526/e638be26-6.smil/thumb.jpg?t=8927&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 8994,
+      "title": "Avslutning",
+      "img": "https://nrk-od-world-72.akamaized.net/open/ps/nnfa/nnfa05112526/e638be26-6.smil/thumb.jpg?t=9003.4&scale=1920x1080&v=high"
+    }
+  ]
+}
