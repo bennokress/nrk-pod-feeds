@@ -1,0 +1,58 @@
+{
+  "version": "1.2.0",
+  "title": "Opphold dere i tilfluktsrom, sier Kyivs ordfører",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Kveldsnytt",
+      "img": "https://nrk-od-world-38.akamaized.net/open/ps/nnfa/nnfa23112526/230f7527-5.smil/thumb.jpg?t=25&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 34,
+      "title": "Eksplosjon Kyiv",
+      "img": "https://nrk-od-world-38.akamaized.net/open/ps/nnfa/nnfa23112526/230f7527-5.smil/thumb.jpg?t=59&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 65,
+      "title": "Generaler på grensa",
+      "img": "https://nrk-od-world-38.akamaized.net/open/ps/nnfa/nnfa23112526/230f7527-5.smil/thumb.jpg?t=91&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 187,
+      "title": "Skald forlag",
+      "img": "https://nrk-od-world-38.akamaized.net/open/ps/nnfa/nnfa23112526/230f7527-5.smil/thumb.jpg?t=212&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 280,
+      "title": "Takkekonsert",
+      "img": "https://nrk-od-world-38.akamaized.net/open/ps/nnfa/nnfa23112526/230f7527-5.smil/thumb.jpg?t=306&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 321,
+      "title": "Viking",
+      "img": "https://nrk-od-world-38.akamaized.net/open/ps/nnfa/nnfa23112526/230f7527-5.smil/thumb.jpg?t=347&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 405,
+      "title": "Direkte Madrid",
+      "img": "https://nrk-od-world-38.akamaized.net/open/ps/nnfa/nnfa23112526/230f7527-5.smil/thumb.jpg?t=430&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 505,
+      "title": "Mesterliga",
+      "img": "https://nrk-od-world-38.akamaized.net/open/ps/nnfa/nnfa23112526/230f7527-5.smil/thumb.jpg?t=531&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 584,
+      "title": "Forhånds Wales-Norge",
+      "img": "https://nrk-od-world-38.akamaized.net/open/ps/nnfa/nnfa23112526/230f7527-5.smil/thumb.jpg?t=610&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 663,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-38.akamaized.net/open/ps/nnfa/nnfa23112526/230f7527-5.smil/thumb.jpg?t=689&scale=1920x1080&v=high"
+    }
+  ]
+}
