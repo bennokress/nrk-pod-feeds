@@ -1,0 +1,78 @@
+{
+  "version": "1.2.0",
+  "title": "Ingen Listahug-avklaring",
+  "author": "NRK",
+  "podcastName": "Kveldsnytt",
+  "chapters": [
+    {
+      "startTime": 1,
+      "title": "VIGNETT",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa23112626/b93ef82e-6.smil/thumb.jpg?t=26&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 40,
+      "title": "Borgerlig samarbeid",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa23112626/b93ef82e-6.smil/thumb.jpg?t=65&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 164,
+      "title": "Sverige regjering",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa23112626/b93ef82e-6.smil/thumb.jpg?t=189&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 250,
+      "title": "Strømpriser fører til permittering",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa23112626/b93ef82e-6.smil/thumb.jpg?t=275&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 364,
+      "title": "Knivran Trondheim",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa23112626/b93ef82e-6.smil/thumb.jpg?t=389&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 414,
+      "title": "Zaporizjzja våpenhvile",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa23112626/b93ef82e-6.smil/thumb.jpg?t=440&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 448,
+      "title": "Veggmaleri Moskva",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa23112626/b93ef82e-6.smil/thumb.jpg?t=474&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 484,
+      "title": "Pokemon varetekt",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa23112626/b93ef82e-6.smil/thumb.jpg?t=510&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 508,
+      "title": "Kokke VM",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa23112626/b93ef82e-6.smil/thumb.jpg?t=533&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 534,
+      "title": "Europaliga",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa23112626/b93ef82e-6.smil/thumb.jpg?t=560&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 602,
+      "title": "Serieliga",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa23112626/b93ef82e-6.smil/thumb.jpg?t=628&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 664,
+      "title": "Håndball",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa23112626/b93ef82e-6.smil/thumb.jpg?t=690&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 721,
+      "title": "Været Kveldsnytt",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa23112626/b93ef82e-6.smil/thumb.jpg?t=746&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 785,
+      "title": "AVSLUTT",
+      "img": "https://nrk-od-world-62.akamaized.net/open/ps/nnfa/nnfa23112626/b93ef82e-6.smil/thumb.jpg?t=802.64&scale=1920x1080&v=high"
+    }
+  ]
+}
