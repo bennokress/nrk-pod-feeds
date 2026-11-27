@@ -1,0 +1,148 @@
+{
+  "version": "1.2.0",
+  "title": "Influensasesongen er i gang",
+  "author": "NRK",
+  "podcastName": "Dagsrevyen",
+  "chapters": [
+    {
+      "startTime": 9,
+      "title": "Dagsrevyen",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa19112626/a4ff7f60-8.smil/thumb.jpg?t=34&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 59,
+      "title": "Influensasesongen er i gang",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa19112626/a4ff7f60-8.smil/thumb.jpg?t=85&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 202,
+      "title": "Gjest: FHI om influensa",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa19112626/a4ff7f60-8.smil/thumb.jpg?t=228&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 306,
+      "title": "Regjering Sverige",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa19112626/a4ff7f60-8.smil/thumb.jpg?t=332&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 378,
+      "title": "Valg-tillit",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa19112626/a4ff7f60-8.smil/thumb.jpg?t=403&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 516,
+      "title": "Statsbudsjettet",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa19112626/a4ff7f60-8.smil/thumb.jpg?t=542&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 540,
+      "title": "Gjest: Liland",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa19112626/a4ff7f60-8.smil/thumb.jpg?t=566&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 717,
+      "title": "Trailer Debatten",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa19112626/a4ff7f60-8.smil/thumb.jpg?t=742&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 743,
+      "title": "KI-låser",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa19112626/a4ff7f60-8.smil/thumb.jpg?t=768&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 869,
+      "title": "Smarthus",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa19112626/a4ff7f60-8.smil/thumb.jpg?t=894&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1005,
+      "title": "Må bo på institusjon",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa19112626/a4ff7f60-8.smil/thumb.jpg?t=1031&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1137,
+      "title": "Norse kan gå konkurs",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa19112626/a4ff7f60-8.smil/thumb.jpg?t=1163&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1161,
+      "title": "Gjest: Norse",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa19112626/a4ff7f60-8.smil/thumb.jpg?t=1187&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1313,
+      "title": "Skattekutt og effektivitet",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa19112626/a4ff7f60-8.smil/thumb.jpg?t=1338&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1464,
+      "title": "Utenriksnyheter",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa19112626/a4ff7f60-8.smil/thumb.jpg?t=1490&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1564,
+      "title": "Drivstoff Strømstad",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa19112626/a4ff7f60-8.smil/thumb.jpg?t=1589&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1658,
+      "title": "Pokemon-ran",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa19112626/a4ff7f60-8.smil/thumb.jpg?t=1684&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1786,
+      "title": "Gjest: Pokemon",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa19112626/a4ff7f60-8.smil/thumb.jpg?t=1812&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1994,
+      "title": "Arkitekturopprøret",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa19112626/a4ff7f60-8.smil/thumb.jpg?t=2020&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2130,
+      "title": "Sporten",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa19112626/a4ff7f60-8.smil/thumb.jpg?t=2155&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2134,
+      "title": "Skiskyting",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa19112626/a4ff7f60-8.smil/thumb.jpg?t=2159&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2178,
+      "title": "Hedegart Idre",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa19112626/a4ff7f60-8.smil/thumb.jpg?t=2203&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2194,
+      "title": "Hedegart",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa19112626/a4ff7f60-8.smil/thumb.jpg?t=2220&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2215,
+      "title": "Ruka",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa19112626/a4ff7f60-8.smil/thumb.jpg?t=2241&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2282,
+      "title": "NHL",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa19112626/a4ff7f60-8.smil/thumb.jpg?t=2307&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2304,
+      "title": "Landslaget",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa19112626/a4ff7f60-8.smil/thumb.jpg?t=2330&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2374,
+      "title": "Grøvdal",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa19112626/a4ff7f60-8.smil/thumb.jpg?t=2399&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2442,
+      "title": "Værmelding",
+      "img": "https://nrk-od-world-36.akamaized.net/open/ps/nnfa/nnfa19112626/a4ff7f60-8.smil/thumb.jpg?t=2467&scale=1920x1080&v=high"
+    }
+  ]
+}
