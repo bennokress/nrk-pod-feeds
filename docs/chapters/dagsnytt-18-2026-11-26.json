@@ -1,0 +1,58 @@
+{
+  "version": "1.2.0",
+  "title": "Skattelette til de rike",
+  "author": "NRK",
+  "podcastName": "Dagsnytt 18",
+  "chapters": [
+    {
+      "startTime": 1,
+      "title": "Dagsnytt atten",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa56112626/f49640db-6.smil/thumb.jpg?t=27&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 58,
+      "title": "Regjeringsavklaring i Sverige",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa56112626/f49640db-6.smil/thumb.jpg?t=84&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 192,
+      "title": "Skattelette til de høytlønnede",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa56112626/f49640db-6.smil/thumb.jpg?t=217&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1219,
+      "title": "Hvem skal passe på havet?",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa56112626/f49640db-6.smil/thumb.jpg?t=1245&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1774,
+      "title": "Kommer senere",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa56112626/f49640db-6.smil/thumb.jpg?t=1799&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 1791,
+      "title": "Helsepersonellplan",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa56112626/f49640db-6.smil/thumb.jpg?t=1817&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 2626,
+      "title": "Veganerne vant",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa56112626/f49640db-6.smil/thumb.jpg?t=2652&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3066,
+      "title": "Vil begrense korttidsutleie",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa56112626/f49640db-6.smil/thumb.jpg?t=3092&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3531,
+      "title": "AVSLUTNING",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa56112626/f49640db-6.smil/thumb.jpg?t=3544.88&scale=1920x1080&v=high"
+    },
+    {
+      "startTime": 3533,
+      "title": "SLUTTKJENNING",
+      "img": "https://nrk-od-world-99.akamaized.net/open/ps/nnfa/nnfa56112626/f49640db-6.smil/thumb.jpg?t=3544.88&scale=1920x1080&v=high"
+    }
+  ]
+}
